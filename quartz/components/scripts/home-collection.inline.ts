@@ -729,8 +729,50 @@ function setupCollectionSearch() {
   }
 }
 
+function setupCollectionHeroImageFallback() {
+  for (const image of document.querySelectorAll<HTMLImageElement>(
+    'img[data-collection-hero-image="true"]',
+  )) {
+    if (image.dataset.collectionHeroFallbackBound === "true") {
+      continue
+    }
+    image.dataset.collectionHeroFallbackBound = "true"
+
+    const recover = () => {
+      if (image.dataset.collectionHeroFallbackApplied === "true") {
+        // Do not leave a broken-image glyph over the otherwise usable hero.
+        image.style.visibility = "hidden"
+        return
+      }
+
+      const fallback = image.dataset.fallbackSrc
+      if (!fallback) {
+        image.style.visibility = "hidden"
+        return
+      }
+
+      image.dataset.collectionHeroFallbackApplied = "true"
+      image
+        .closest("picture")
+        ?.querySelectorAll("source")
+        .forEach((source) => source.remove())
+      image.removeAttribute("srcset")
+      image.removeAttribute("sizes")
+      image.src = fallback
+    }
+
+    image.addEventListener("error", recover)
+    // An eager image can fail before the navigation event is handled.
+    if (image.complete && image.naturalWidth === 0) {
+      recover()
+    }
+    window.addCleanup(() => image.removeEventListener("error", recover))
+  }
+}
+
 document.addEventListener("nav", () => {
-  void setupCollectionClaimSpotlight()
+  setupCollectionHeroImageFallback()
+  setupCollectionClaimSpotlight()
   setupCollectionBrowseTabs()
   setupCollectionObjectSearch()
   setupCollectionSearch()

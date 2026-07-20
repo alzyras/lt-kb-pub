@@ -227,6 +227,8 @@ function MediaCard({
           <img
             src={entry.thumbUrl || entry.sourceUrl}
             alt={displayCaption(entry)}
+            width={entry.width || undefined}
+            height={entry.height || undefined}
             loading={index < 8 ? "eager" : "lazy"}
             decoding="async"
           />

@@ -1,9 +1,13 @@
 import { ArrowLeft, ArrowRight, ExternalLink, Images, Quote, Tags } from "lucide-preact"
 import type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import type { ExhibitionItem, ExhibitionManifest } from "../util/exhibitions"
-import { cleanText, displayCreator, displayDate, mediaDetailUrl } from "../util/objectMedia"
+import type { ExhibitionClaim, ExhibitionItem, ExhibitionManifest } from "../util/exhibitions"
+import { cleanText, displayCreator, displayDate } from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
+import photoswipeStyle from "./styles/photoswipe.scss"
+import viewerStyle from "./styles/objectMediaGallery.scss"
+// @ts-ignore
+import script from "./scripts/exhibition.inline"
 
 function parseManifest(value: unknown): ExhibitionManifest | undefined {
   try {
@@ -21,8 +25,8 @@ function parseManifest(value: unknown): ExhibitionManifest | undefined {
 function ItemMeta({ item }: { item: ExhibitionItem }) {
   const media = item.media
   const facts = [
-    displayCreator(media.creator),
-    displayDate(media.dateDisplay),
+    displayCreator(item.creatorDisplay || media.creator),
+    displayDate(item.dateDisplay || media.dateDisplay),
     cleanText(media.institution || media.providerLabel || media.provider),
   ].filter(Boolean)
   return (
@@ -36,23 +40,24 @@ function ItemMeta({ item }: { item: ExhibitionItem }) {
   )
 }
 
-function ClaimLinks({ item }: { item: ExhibitionItem }) {
-  if (!item.claims.length) return null
+function ClaimLinks({ claims }: { claims: ExhibitionClaim[] }) {
+  if (!claims.length) return null
   return (
     <div class="exhibition-claims">
-      {item.claims.map((claim) => (
+      {claims.map((claim) => (
         <details
           class={`exhibition-claim ${claim.role === "direct" ? "is-direct" : "is-contextual"}`}
         >
           <summary>
-            <Quote size={14} aria-hidden="true" /> {claim.label || "Šaltinis ir citata"}
+            <Quote size={14} aria-hidden="true" />
+            <span>{claim.text}</span>
+            <code>{claim.claimId}</code>
           </summary>
           <div class="exhibition-claim-label">
-            {claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas"}
+            {claim.label ||
+              (claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas")}
           </div>
-          <p>
-            <strong>Šaltinis teigia:</strong> {claim.text}
-          </p>
+          <blockquote>{claim.quote}</blockquote>
           <div class="exhibition-claim-footer">
             <small>{claim.sourceTitle}</small>
             <a href={claim.url}>
@@ -89,14 +94,49 @@ function ItemTags({ item }: { item: ExhibitionItem }) {
   )
 }
 
-function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
+function galleryUrl(exhibitionId: string, mediaId: string): string {
+  return `/galerija/?media=${encodeURIComponent(mediaId)}&exhibition=${encodeURIComponent(exhibitionId)}`
+}
+
+function mediaFrame(item: ExhibitionItem): { className: string; aspect: number } {
+  const width = Number(item.media.width)
+  const height = Number(item.media.height)
+  const ratio = width > 0 && height > 0 ? width / height : 4 / 3
+  const aspect = Math.min(1.72, Math.max(0.68, ratio))
+  const orientation = ratio < 0.82 ? "is-portrait" : ratio > 1.3 ? "is-landscape" : "is-square"
+  const codes = new Set((item.media.tags ?? []).flatMap((tag) => [tag.code, tag.label]))
+  const material = codes.has("moneta")
+    ? "is-coin"
+    : codes.has("dokumentas") || codes.has("rankraštis")
+      ? "is-document"
+      : "is-artwork"
+  return { className: `${orientation} ${material}`, aspect }
+}
+
+function Exhibit({
+  item,
+  index,
+  exhibitionId,
+}: {
+  item: ExhibitionItem
+  index: number
+  exhibitionId: string
+}) {
   const media = item.media
-  const imageUrl = cleanText(media.thumbUrl || media.sourceUrl)
+  // Large exhibition panels should never upscale a thumbnail.
+  const imageUrl = cleanText(media.sourceUrl || media.thumbUrl)
+  const frame = mediaFrame(item)
   return (
-    <article class={`exhibition-item ${index % 2 ? "is-reversed" : ""}`} id={item.exhibitionItemId}>
+    <article
+      class={`exhibition-item ${frame.className} ${index % 2 ? "is-reversed" : ""}`}
+      id={item.exhibitionItemId}
+    >
       <a
         class="exhibition-item-image"
-        href={mediaDetailUrl(media)}
+        href={galleryUrl(exhibitionId, item.mediaId)}
+        data-exhibition-media={item.mediaId}
+        data-exhibition-id={exhibitionId}
+        style={`--media-aspect:${frame.aspect}`}
         aria-label={`Atidaryti vaizdą: ${item.titleLt}`}
       >
         <img
@@ -104,8 +144,9 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
           alt={cleanText(media.caption) || item.titleLt}
           width={media.width || undefined}
           height={media.height || undefined}
-          loading={index < 2 ? "eager" : "lazy"}
+          loading={index < 6 ? "eager" : "lazy"}
           decoding="async"
+          sizes="(max-width: 800px) calc(100vw - 2rem), 58vw"
         />
         <span>
           Atidaryti vaizdo kortelę <ExternalLink size={14} />
@@ -117,7 +158,8 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
         <ItemMeta item={item} />
         <div class="exhibition-narrative-label">Parodos pasakojimas</div>
         <p class="exhibition-item-description">{item.descriptionLt}</p>
-        <ClaimLinks item={item} />
+        {item.evidenceNoteLt && <p class="exhibition-evidence-note">{item.evidenceNoteLt}</p>}
+        <ClaimLinks claims={item.claims} />
         <ItemTags item={item} />
         {media.canonicalUrl && (
           <a
@@ -141,14 +183,23 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
     section.items.filter((item) => !item.featured),
   )
   return (
-    <main class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}>
-      <header
-        class="exhibition-hero"
-        style={{
-          backgroundImage: `linear-gradient(90deg, rgba(5,3,2,.88), rgba(5,3,2,.24)), url(${JSON.stringify(hero).slice(1, -1)})`,
-        }}
-      >
-        <div>
+    <main
+      class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}
+      data-exhibition-id={exhibition.exhibitionId}
+    >
+      <header class="exhibition-hero">
+        <div class="exhibition-hero-media" aria-hidden="true">
+          <img
+            src={hero}
+            alt=""
+            width={exhibition.hero.width || undefined}
+            height={exhibition.hero.height || undefined}
+            loading="eager"
+            decoding="async"
+          />
+        </div>
+        <div class="exhibition-hero-scrim" aria-hidden="true" />
+        <div class="exhibition-hero-content">
           <p class="exhibition-eyebrow">
             <Images size={15} /> Skaitmeninė paroda
           </p>
@@ -168,11 +219,22 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           </a>
         </div>
       </header>
-      <nav class="exhibition-chapters" aria-label="Parodos skyriai">
+      <nav
+        class="exhibition-chapters"
+        aria-label="Parodos skyriai"
+        style={`--chapter-count:${exhibition.sections.length}`}
+      >
         {exhibition.sections.map((section, index) => (
-          <a href={`#${section.slug}`}>
-            <span>{index + 1}</span>
-            {section.title}
+          <a href={`#${section.slug}`} data-exhibition-chapter={section.slug}>
+            <img
+              src={section.navMedia.thumbUrl || section.navMedia.sourceUrl}
+              alt=""
+              aria-hidden="true"
+              style={`object-position:${section.navImagePosition || "50% 30%"}`}
+            />
+            <span class="exhibition-chapter-scrim" aria-hidden="true" />
+            <span class="exhibition-chapter-number">{index + 1}</span>
+            <span class="exhibition-chapter-title">{section.title}</span>
           </a>
         ))}
       </nav>
@@ -185,11 +247,19 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               <span>{String(sectionIndex + 1).padStart(2, "0")}</span>
               <h2>{section.title}</h2>
               <p>{section.lead}</p>
+              {section.evidenceNoteLt && (
+                <p class="exhibition-evidence-note">{section.evidenceNoteLt}</p>
+              )}
+              {section.claims.length > 0 && (
+                <div class="exhibition-section-claims">
+                  <ClaimLinks claims={section.claims} />
+                </div>
+              )}
             </header>
             <div class="exhibition-section-items">
               {featured.map((item) => {
                 const index = exhibitIndex++
-                return <Exhibit item={item} index={index} />
+                return <Exhibit item={item} index={index} exhibitionId={exhibition.exhibitionId} />
               })}
             </div>
           </section>
@@ -202,21 +272,29 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             <h2>Kiti patikrinti Vytauto vaizdai</h2>
           </header>
           <div>
-            {catalogue.map((item) => (
-              <article>
-                <a href={mediaDetailUrl(item.media)}>
-                  <img
-                    src={item.media.thumbUrl || item.media.sourceUrl}
-                    alt={item.titleLt}
-                    loading="lazy"
-                  />
-                </a>
-                <h3>{item.titleLt}</h3>
-                <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
-                <p>{item.catalogDescriptionLt}</p>
-                <ClaimLinks item={item} />
-              </article>
-            ))}
+            {catalogue.map((item) => {
+              const frame = mediaFrame(item)
+              return (
+                <article class={frame.className}>
+                  <a
+                    href={galleryUrl(exhibition.exhibitionId, item.mediaId)}
+                    data-exhibition-media={item.mediaId}
+                    data-exhibition-id={exhibition.exhibitionId}
+                    style={`--media-aspect:${frame.aspect}`}
+                  >
+                    <img
+                      src={item.media.sourceUrl || item.media.thumbUrl}
+                      alt={item.titleLt}
+                      loading="lazy"
+                    />
+                  </a>
+                  <h3>{item.titleLt}</h3>
+                  <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
+                  <p>{item.catalogDescriptionLt}</p>
+                  <ClaimLinks claims={item.claims} />
+                </article>
+              )
+            })}
           </div>
         </section>
       )}
@@ -287,6 +365,7 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
   return <ExhibitionIndex exhibitions={exhibitions} />
 }
 
-ExhibitionPage.css = style
+ExhibitionPage.css = [photoswipeStyle, viewerStyle, style]
+ExhibitionPage.afterDOMLoaded = script
 
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

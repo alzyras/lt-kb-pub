@@ -37,8 +37,25 @@ const FACET_VISIBLE_LIMIT: Partial<Record<MediaFacetKey, number>> = { objects: 2
 const facetVisibleLimit = (key: MediaFacetKey) => FACET_VISIBLE_LIMIT[key] ?? 10
 const catalogRequests = new Map<string, Promise<MediaEntry[]>>()
 const detailCache = new Map<string, Promise<MediaEntry>>()
+let exhibitionContextsRequest: Promise<Record<string, ExhibitionViewerContext>> | undefined
 const naturalSizeCache = new Map<string, Promise<{ width: number; height: number } | null>>()
 const knownNaturalDimensions = new Map<string, { width: number; height: number }>()
+
+type ExhibitionViewerItem = {
+  mediaId: string
+  titleLt: string
+  descriptionLt: string
+  creatorDisplay: string
+  dateDisplay: string
+  sectionTitle: string
+}
+
+type ExhibitionViewerContext = {
+  exhibitionId: string
+  slug: string
+  title: string
+  items: ExhibitionViewerItem[]
+}
 
 const text = (value: unknown) => cleanText(value)
 const displayDate = (value: unknown) =>
@@ -135,6 +152,16 @@ function loadCatalog(url: string, retry = false): Promise<MediaEntry[]> {
   return request
 }
 
+function loadExhibitionContexts(): Promise<Record<string, ExhibitionViewerContext>> {
+  exhibitionContextsRequest ??= fetch("/static/exhibitionMediaContext.json")
+    .then((response) => {
+      if (!response.ok) throw new Error(`exhibition context ${response.status}`)
+      return response.json()
+    })
+    .then((value) => (value && typeof value === "object" ? value : {}))
+  return exhibitionContextsRequest
+}
+
 function loadDetail(entry: MediaEntry): Promise<MediaEntry> {
   const mediaId = text(entry.mediaId)
   if (!mediaId) return Promise.resolve(entry)
@@ -170,7 +197,11 @@ function objectHref(notePath: string): string {
 }
 
 function galleryUrl(state: GalleryState, mediaId = ""): string {
-  return `${location.pathname}${serializeGalleryState(state, mediaId)}${location.hash}`
+  const query = new URLSearchParams(serializeGalleryState(state, mediaId).replace(/^\?/, ""))
+  const exhibition = new URLSearchParams(location.search).get("exhibition")
+  if (mediaId && exhibition) query.set("exhibition", exhibition)
+  const serialized = query.toString()
+  return `${location.pathname}${serialized ? `?${serialized}` : ""}${location.hash}`
 }
 
 function writeUrl(state: GalleryState, mediaId = "", mode: "replace" | "push" = "replace") {
@@ -211,8 +242,14 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
     .map((object) => object.title)
     .join(" · ")
   const href = galleryUrl(emptyGalleryState(), text(entry.mediaId))
+  const width = Number(entry.width)
+  const height = Number(entry.height)
+  const intrinsicSize =
+    Number.isFinite(width) && width > 0 && Number.isFinite(height) && height > 0
+      ? ` width="${width}" height="${height}"`
+      : ""
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
-    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
+    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
     <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
   const image = article.querySelector<HTMLImageElement>("img")
@@ -236,7 +273,7 @@ function detailsSkeleton(entry: MediaEntry): string {
   </div>`
 }
 
-function detailsHtml(entry: MediaEntry): string {
+function detailsHtml(entry: MediaEntry, exhibitionItem?: ExhibitionViewerItem): string {
   const objects = (entry.relatedObjects ?? [])
     .map(
       (object) =>
@@ -253,8 +290,8 @@ function detailsHtml(entry: MediaEntry): string {
     )
     .join("")
   const originalTitle = text(entry.originalTitle || entry.title)
-  const creator = text(entry.creator)
-  const date = displayDate(entry.dateDisplay)
+  const creator = text(exhibitionItem?.creatorDisplay || entry.creator)
+  const date = displayDate(exhibitionItem?.dateDisplay || entry.dateDisplay)
   const imageType = relationLabel(entry.relationType)
   const institution = text(entry.institution)
   const provider = text(entry.providerLabel || entry.provider)
@@ -262,19 +299,29 @@ function detailsHtml(entry: MediaEntry): string {
   const license = mediaLicenseLabel(entry.license)
   const fact = (label: string, value: string) =>
     value ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>` : ""
-  return `<div class="media-viewer-panel-inner">
-    <header class="media-viewer-heading">
-      <p class="media-viewer-kicker">Vaizdo informacija</p>
-      <h2>${escapeHtml(displayCaption(entry))}</h2>
-      ${originalTitle && originalTitle !== displayCaption(entry) ? `<p class="media-viewer-original-title">${escapeHtml(originalTitle)}</p>` : ""}
-    </header>
-    <dl class="media-viewer-facts">${fact("Kūrėjas", creator)}${fact("Data", date)}${fact("Tipas", imageType)}</dl>
+  const metadata = `<dl class="media-viewer-facts">${fact("Kūrėjas", creator)}${fact("Data", date)}${fact("Tipas", imageType)}</dl>
     ${objects ? `<section class="media-viewer-section"><h3>Susiję objektai</h3><div class="pswp__media-objects">${objects}</div></section>` : ""}
     ${tags ? `<section class="media-viewer-section"><h3>Temos</h3><div class="pswp__media-tags">${tags}</div></section>` : ""}
     <section class="media-viewer-section media-viewer-provenance"><h3>Šaltinis</h3><dl>${fact("Institucija", institution)}${fact("Rinkinys", collection)}${fact("Tiekėjas", provider)}</dl></section>
     <section class="media-viewer-section media-viewer-rights"><h3>Naudojimo teisės</h3><p><strong>${escapeHtml(license || "Nenurodyta")}</strong>${entry.attribution ? `<br>${escapeHtml(entry.attribution)}` : ""}</p></section>
     <div class="pswp__media-links">${entry.canonicalUrl ? `<a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""}${entry.licenseUrl ? `<a href="${escapeHtml(entry.licenseUrl)}" target="_blank" rel="noreferrer noopener">Licencijos sąlygos</a>` : ""}<button type="button" data-copy-media>Kopijuoti nuorodą</button></div>
-    <details class="media-viewer-advanced"><summary>Išplėstiniai duomenys</summary><dl>${fact("Surinkta", text(entry.firstDiscoveredAt || "—"))}${fact("Peržiūrėta", text(entry.reviewedAt || "—"))}${fact("Patikimumas", text(entry.confidenceLevel || entry.confidence || "—"))}</dl>${entry.visualEvidence ? `<p>${escapeHtml(entry.visualEvidence)}</p>` : ""}${entry.metadataEvidence || entry.judgeReason ? `<p>${escapeHtml(entry.metadataEvidence || entry.judgeReason)}</p>` : ""}</details>
+    <details class="media-viewer-advanced"><summary>Išplėstiniai duomenys</summary><dl>${fact("Surinkta", text(entry.firstDiscoveredAt || "—"))}${fact("Peržiūrėta", text(entry.reviewedAt || "—"))}${fact("Patikimumas", text(entry.confidenceLevel || entry.confidence || "—"))}</dl>${entry.visualEvidence ? `<p>${escapeHtml(entry.visualEvidence)}</p>` : ""}${entry.metadataEvidence || entry.judgeReason ? `<p>${escapeHtml(entry.metadataEvidence || entry.judgeReason)}</p>` : ""}</details>`
+  const title = text(exhibitionItem?.titleLt) || displayCaption(entry)
+  const exhibitionDate =
+    exhibitionItem?.dateDisplay || date
+      ? `<p class="media-viewer-exhibition-date">${escapeHtml(date)}</p>`
+      : ""
+  const exhibitionDescription = exhibitionItem?.descriptionLt
+    ? `<p class="media-viewer-exhibition-description">${escapeHtml(exhibitionItem.descriptionLt)}</p>`
+    : ""
+  return `<div class="media-viewer-panel-inner ${exhibitionItem ? "is-exhibition-context" : ""}">
+    <header class="media-viewer-heading">
+      <p class="media-viewer-kicker">${exhibitionItem ? "Parodos eksponatas" : "Vaizdo informacija"}</p>
+      <h2>${escapeHtml(title)}</h2>
+      ${exhibitionDate}${exhibitionDescription}
+      ${!exhibitionItem && originalTitle && originalTitle !== displayCaption(entry) ? `<p class="media-viewer-original-title">${escapeHtml(originalTitle)}</p>` : ""}
+    </header>
+    ${exhibitionItem ? `<details class="media-viewer-exhibition-metadata"><summary>Rodyti metaduomenis</summary>${metadata}</details>` : metadata}
   </div>`
 }
 
@@ -283,6 +330,7 @@ function initViewer(
   getEntries: () => MediaEntry[],
   getState: () => GalleryState,
   rerender: () => void,
+  getExhibitionItem: (mediaId: string) => ExhibitionViewerItem | undefined = () => undefined,
 ) {
   let details: HTMLElement | undefined
   let openedWithPush = false
@@ -370,7 +418,7 @@ function initViewer(
           await hydrateEntry(pswp.currIndex)
           const detail = getEntries()[pswp.currIndex] ?? entry
           if (getEntries()[pswp.currIndex]?.mediaId !== requestedId) return
-          element.innerHTML = detailsHtml(detail)
+          element.innerHTML = detailsHtml(detail, getExhibitionItem(text(detail.mediaId)))
           element
             .querySelector<HTMLButtonElement>("[data-copy-media]")
             ?.addEventListener("click", async () => {
@@ -613,6 +661,7 @@ function initGallery(root: HTMLElement) {
   root.dataset.galleryInitialized = "true"
   const bootstrap = parseBootstrap(root)
   const lockedObject = root.dataset.objectPath || bootstrap.lockedObject || ""
+  const requestedExhibitionId = new URLSearchParams(location.search).get("exhibition") || ""
   let state = parseGalleryState(location.search, lockedObject)
   let catalog = bootstrap.initialEntries
   let catalogComplete = false
@@ -620,6 +669,9 @@ function initGallery(root: HTMLElement) {
   let baseFacets = bootstrap.facetSummary
   let visibleLimit = MEDIA_GALLERY_PAGE_SIZE
   let filtered: MediaEntry[] = []
+  let exhibitionSequence: MediaEntry[] = []
+  let exhibitionItems = new Map<string, ExhibitionViewerItem>()
+  let exhibitionContextReady = !requestedExhibitionId
   let refreshViewer = () => {}
 
   const grid = root.querySelector<HTMLElement>("[data-media-grid]")!
@@ -663,9 +715,7 @@ function initGallery(root: HTMLElement) {
   const render = (writeState = true) => {
     filtered = filterMediaEntries(catalog, state, searchIndex, { lockedObject, providerAllowed })
     grid.replaceChildren(
-      ...filtered
-        .slice(0, visibleLimit)
-        .map((entry, index) => card(entry, index, () => layout())),
+      ...filtered.slice(0, visibleLimit).map((entry, index) => card(entry, index, () => layout())),
     )
     const shownCount = catalogComplete
       ? filtered.length
@@ -811,18 +861,29 @@ function initGallery(root: HTMLElement) {
   render(false)
   const viewer = initViewer(
     root,
-    () => filtered,
+    () =>
+      new URLSearchParams(location.search).has("exhibition") && exhibitionSequence.length
+        ? exhibitionSequence
+        : filtered,
     () => state,
     () => render(),
+    (mediaId) =>
+      new URLSearchParams(location.search).has("exhibition")
+        ? exhibitionItems.get(mediaId)
+        : undefined,
   )
   refreshViewer = viewer.refresh
   refreshViewer()
 
   const openRequestedMedia = () => {
     const requested = new URLSearchParams(location.search).get("media")
-    if (!requested || viewer.lightbox.pswp) return
+    if (!requested || viewer.lightbox.pswp || !exhibitionContextReady) return
+    const entries =
+      new URLSearchParams(location.search).has("exhibition") && exhibitionSequence.length
+        ? exhibitionSequence
+        : filtered
     void viewer.open(
-      filtered.findIndex((entry) => entry.mediaId === requested),
+      entries.findIndex((entry) => entry.mediaId === requested),
       false,
     )
   }
@@ -831,10 +892,25 @@ function initGallery(root: HTMLElement) {
   async function hydrate(retry = false) {
     showStatus(retry ? "Katalogas kraunamas iš naujo…" : "")
     try {
-      catalog = await loadCatalog(
-        bootstrap.catalogUrl || root.dataset.catalogUrl || "/static/mediaCatalog.json",
-        retry,
-      )
+      const [loadedCatalog, contexts] = await Promise.all([
+        loadCatalog(
+          bootstrap.catalogUrl || root.dataset.catalogUrl || "/static/mediaCatalog.json",
+          retry,
+        ),
+        requestedExhibitionId
+          ? loadExhibitionContexts()
+          : Promise.resolve<Record<string, ExhibitionViewerContext>>({}),
+      ])
+      catalog = loadedCatalog
+      if (requestedExhibitionId) {
+        const context = contexts[requestedExhibitionId]
+        exhibitionItems = new Map((context?.items ?? []).map((item) => [item.mediaId, item]))
+        const byId = new Map(catalog.map((entry) => [text(entry.mediaId), entry]))
+        exhibitionSequence = (context?.items ?? [])
+          .map((item) => byId.get(item.mediaId))
+          .filter((entry): entry is MediaEntry => Boolean(entry))
+        exhibitionContextReady = true
+      }
       catalogComplete = true
       searchIndex = buildMediaSearchIndex(catalog)
       baseFacets = computeFacetSummary(
@@ -845,8 +921,10 @@ function initGallery(root: HTMLElement) {
       openRequestedMedia()
     } catch {
       catalogComplete = false
+      exhibitionContextReady = true
       showStatus("Nepavyko atnaujinti vaizdų katalogo. Rodomi serverio pateikti vaizdai.")
       render(false)
+      openRequestedMedia()
     }
   }
 

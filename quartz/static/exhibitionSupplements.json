@@ -4,284 +4,349 @@
       "exhibitionId": "vytauto-atminties-kultas-tarpukariu",
       "slug": "parodos/vytauto-atminties-kultas-tarpukariu",
       "title": "Kuriant Vytautą Didįjį",
-      "subtitle": "1930-ieji, valstybė ir Lietuvos atminties kultas",
-      "description": "Antroji paroda pasakoja ne apie tai, kaip Vytautas atrodė, o apie tai, kaip tarpukario Lietuva išmoko jį matyti kartu. Portretai, keliaujantis paveikslas, medaliai, atvirukai ir viešosios ceremonijos rodo atmintį kaip bendrą valstybės darbą. Faktai čia atskiriami nuo vaizdo interpretacijos, o kiekvienas istorinis teiginys palydimas nuoroda į šaltinį.",
+      "subtitle": "1918–1940 m. valstybė, jubiliejus ir Vytauto kultas",
+      "description": "Paroda pasakoja, kaip tarpukario Lietuvoje Vytautas tapo viešu valstybės atminties ženklu. Banknotai, jubiliejiniai dokumentai, keliaujantis paveikslas, leidiniai ir ceremonijos rodo ne XV a. valdovo gyvenimą, o 1918–1940 m. visuomenės pasirinktą jo reikšmę.",
       "heroMediaId": "m-cce7ef2ff57be05f19ef17db",
       "updatedAt": "2026-07-19",
       "theme": "interwar",
       "sections": [
         {
-          "sectionId": "atm-veidas",
-          "slug": "paveldetasis-veidas",
-          "title": "Veidas, kurį paveldėjo tarpukaris",
-          "lead": "1930-ieji nepradėjo Vytauto atminties nuo nulio. Jie paveldėjo šimtmečiais kurtą portretų, ženklų ir pasakojimų lauką – ir pavertė jį šiuolaikinės valstybės kalba.",
+          "sectionId": "atm-valstybe-renkasi",
+          "slug": "jauna-valstybe-renkasi-vytauta",
+          "title": "Jauna valstybė pasirenka Vytautą",
+          "lead": "Atkurtai Lietuvos valstybei reikėjo lengvai atpažįstamų istorinio tęstinumo ženklų. 1922 m. Vytauto portretas pateko į oficialų pinigą, o prieš ir per 1930 m. jubiliejų jis plito ir portretuose bei spaudiniuose.",
+          "navMediaId": "m-cce7ef2ff57be05f19ef17db",
+          "navImagePosition": "50% 22%",
+          "claimRefs": [
+            {
+              "claimId": "t-198300",
+              "citationId": "c-180062",
+              "label": "Vytautas pasirinktas valstybės ir tautos didvyriu",
+              "role": "contextual"
+            },
+            {
+              "claimId": "t-77927",
+              "citationId": "c-75244",
+              "label": "Vytis 1922 m. Konstitucijoje",
+              "role": "contextual"
+            }
+          ],
           "items": [
             {
-              "exhibitionItemId": "atm-veidas-01",
+              "catalogDescriptionLt": "Adomo Varno sukurtame 1922 m. šimto litų banknote Vytauto portretas rodomas greta Vyčio ir Gediminaičių stulpų. Jauna valstybė istorinį valdovą įtraukė į oficialų pinigo dizainą, todėl jo veidas tapo kasdien matomu valstybingumo ženklu.",
+              "descriptionLt": "Adomo Varno sukurtame 1922 m. šimto litų banknote Vytauto portretas rodomas greta Vyčio ir Gediminaičių stulpų. Jauna valstybė istorinį valdovą įtraukė į oficialų pinigo dizainą, todėl jo veidas tapo kasdien matomu valstybingumo ženklu.",
+              "exhibitionItemId": "atm-valstybe-01",
+              "featured": true,
+              "mediaId": "m-2e8570d6a456b1ef3cbc51a9",
+              "titleLt": "Vytautas ant 1922 metų šimto litų",
+              "creatorDisplay": "Adomas Varnas",
+              "dateDisplay": "1922 m.",
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "atm-valstybe-02",
               "mediaId": "m-cce7ef2ff57be05f19ef17db",
               "titleLt": "1930 metų Vytautas",
-              "descriptionLt": "Šis apie 1930 m. sukurtas portretas parodos pradžioje veikia kaip slenkstis: lankytojas įžengia ne į Vytauto laikus, o į laiką, kuris Vytautą pasirinko savo istoriniu veidu. Paveikslas nėra autentiškas valdovo atvaizdas iš jo gyvenimo. Jis priklauso atminčiai – tai, ką viena karta norėjo matyti, išsaugoti ir perduoti kitai. Jo rimtis ir frontalumas kalba apie valstybę, ieškančią savo istorinio svorio.",
-              "catalogDescriptionLt": "Apie 1930 m. tapytas Vytauto Didžiojo portretas. Parodoje jis naudojamas kaip tarpukario atminties vaizdas, o ne kaip autentiškas XIV–XV a. valdovo veidas.",
+              "descriptionLt": "Apie 1930 m. sukurtas portretas parodos pradžioje veikia kaip slenkstis į tarpukario atminties pasaulį. Tai nėra iš Vytauto gyvenimo išlikęs atvaizdas: kūrinys rodo, kokį rimtą ir monumentalų valdovo veidą pasirinko vėlesnė epocha.",
+              "catalogDescriptionLt": "Apie 1930 m. sukurtas portretas parodos pradžioje veikia kaip slenkstis į tarpukario atminties pasaulį. Tai nėra iš Vytauto gyvenimo išlikęs atvaizdas: kūrinys rodo, kokį rimtą ir monumentalų valdovo veidą pasirinko vėlesnė epocha.",
               "featured": true,
-              "claims": [
-                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejaus istorinis kontekstas"},
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Jubiliejus kaip valstybės pasakojimas"}
-              ]
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "apie 1930 m.",
+              "claimRefs": []
             },
             {
-              "exhibitionItemId": "atm-veidas-02",
+              "catalogDescriptionLt": "Katalogas šį nežinomo autoriaus portretą datuoja XX a. pirmąja puse, bet tikslesnės datos nepateikia. Todėl parodoje jis naudojamas ne kaip konkretaus 1930 m. įvykio dokumentas, o kaip tarpukariu cirkuliavusio atpažįstamo Vytauto tipo pavyzdys.",
+              "descriptionLt": "Katalogas šį nežinomo autoriaus portretą datuoja XX a. pirmąja puse, bet tikslesnės datos nepateikia. Todėl parodoje jis naudojamas ne kaip konkretaus 1930 m. įvykio dokumentas, o kaip tarpukariu cirkuliavusio atpažįstamo Vytauto tipo pavyzdys.",
+              "exhibitionItemId": "atm-valstybe-03",
+              "featured": true,
               "mediaId": "m-e510b14e04cbf3694a3520e2",
               "titleLt": "Veidas iki valstybės šventės",
-              "descriptionLt": "Nežinomo autoriaus XX amžiaus pirmosios pusės paveikslas leidžia pamatyti, kaip Vytauto vaizdinys jau buvo įsitvirtinęs prieš 1930 m. jubiliejų. Čia svarbi ne vien data, kurios metaduomenys nurodo kūrinio laiką, bet ir pats atpažįstamumas: valdovas turi būti atpažintas iš laikysenos, drabužių, ginklo ar valdžios ženklų. Tarpukaris šį paveldėtą atpažįstamumą pavertė vieša, visiems suprantama kalba.",
-              "catalogDescriptionLt": "Nežinomo autoriaus XX a. pirmosios pusės Vytauto atvaizdas. Kūrinys rodomas kaip priešjubiliejinio portreto tradicijos dalis.",
-              "featured": true,
-              "claims": [
-                {"code": "t-198251", "text": "Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.", "sourceTitle": "Vytautas Didysis 1350–1430 (1930 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-198251", "role": "contextual", "label": "Šaltinio pasakojimas apie valdovą"}
-              ]
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "iki 1941 m.",
+              "claimRefs": []
             },
             {
-              "exhibitionItemId": "atm-veidas-03",
-              "mediaId": "m-d2c4738684a48dbed6e7277e",
-              "titleLt": "Iš istorijos knygos į bendrą vaizduotę",
-              "descriptionLt": "Zygmunto Glogerio piešinys, datuojamas apie 1900 m., yra ankstesnis už tarpukarį, tačiau parodo, kokį vizualinį paveldą 1930-ieji perėmė. Toks atvaizdas nėra liudijimas apie tikrą valdovo veidą; tai istorinės vaizduotės darbas. Parodoje jis padeda suprasti, kad 1930 m. kultas buvo ne staigus išradimas, o sąmoningas ankstesnių vaizdų, simbolių ir pasakojimų sutelkimas.",
-              "catalogDescriptionLt": "Zygmunto Glogerio Vytauto atvaizdas, datuojamas apie 1900 m. Jis pateikiamas kaip priešistorė 1930 m. atminties kampanijai.",
+              "catalogDescriptionLt": "Spaudinyje karūnuotas Vytautas įvardytas Lietuvos didžiuoju kunigaikščiu, o po portretu pateiktos 1392–1430 m. valdymo datos. Katalogas tikslios leidimo datos nenurodo, todėl eksponatas rodomas kaip populiariosios ikonografijos pavyzdys, o ne konkretaus jubiliejaus dokumentas.",
+              "descriptionLt": "Spaudinyje karūnuotas Vytautas įvardytas Lietuvos didžiuoju kunigaikščiu, o po portretu pateiktos 1392–1430 m. valdymo datos. Katalogas tikslios leidimo datos nenurodo, todėl eksponatas rodomas kaip populiariosios ikonografijos pavyzdys, o ne konkretaus jubiliejaus dokumentas.",
+              "exhibitionItemId": "atm-valstybe-04",
               "featured": true,
-              "claims": [
-                {"code": "t-198251", "text": "Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.", "sourceTitle": "Vytautas Didysis 1350–1430 (1930 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-198251", "role": "contextual", "label": "Atminties, o ne fizinio panašumo šaltinis"},
-                {"code": "t-176638", "text": "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-176638", "role": "contextual", "label": "Ilgesnė atminties istorija"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-veidas-04",
-              "mediaId": "m-bab4d4f2e4fcffa6c0431405",
-              "titleLt": "Portretas kaip paveldėta pareiga",
-              "descriptionLt": "Antoni Klukowskio apie 1850 m. sukurtas portretas parodo, kad kiekviena karta Vytautą perrašo sava laikysena. XIX amžiaus portretas suteikia valdovui konkrečią išvaizdą, nors pats kūrinys negali paliudyti, kaip jis iš tiesų atrodė. Tarpukariui ši tradicija buvo patogi: iš ankstesnių vaizdų buvo galima kurti didingą, orų ir valstybei tinkamą protėvį.",
-              "catalogDescriptionLt": "Antoni Klukowskio apie 1850 m. sukurtas Vytauto Didžiojo portretas. Kūrinys rodomas kaip vėlesnės ikonografijos paveldas.",
-              "featured": true,
-              "claims": [
-                {"code": "t-198424", "text": "Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.", "sourceTitle": "Vytautas Didysis 1350–1430 (1930 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-198424", "role": "contextual", "label": "Biografijos pasakojimas"}
-              ]
+              "mediaId": "m-359dd4ec749cade04f726b8a",
+              "titleLt": "Valdymo datos po karūnuotu portretu",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "Data nenurodyta",
+              "claimRefs": []
             }
           ]
         },
         {
           "sectionId": "atm-kelione",
-          "slug": "paveikslas-keliauja",
+          "slug": "paveikslas-keliauja-per-lietuva",
           "title": "Paveikslas keliauja per Lietuvą",
-          "lead": "1930 m. Vytauto atvaizdas tapo ne tik žiūrimu objektu. Jis buvo sutinkamas, lydimas ir rodomas bendruomenėms – atmintis išėjo į viešąją erdvę.",
+          "lead": "1930 m. Vytauto atvaizdas buvo ne tik rodomas, bet ir iškilmingai sutinkamas bei nešamas per Lietuvos miestus. Atmintis tapo bendruomenės veiksmu.",
+          "navMediaId": "m-c7367f575ad13fe8d4204619",
+          "navImagePosition": "50% 38%",
+          "claimRefs": [
+            {
+              "claimId": "t-65005",
+              "citationId": "c-22321",
+              "label": "Keliaujančio paveikslo apeigos",
+              "role": "contextual"
+            },
+            {
+              "claimId": "t-20823",
+              "citationId": "c-23546",
+              "label": "Tautos vienybės ir senos valstybės idėja",
+              "role": "contextual"
+            }
+          ],
           "items": [
             {
               "exhibitionItemId": "atm-kelione-01",
               "mediaId": "m-f20d4ca30550878794cc7bc6",
               "titleLt": "Sutikimas Kretingoje",
-              "descriptionLt": "1930 m. Kretingoje sutiktas Vytauto portretas leidžia matyti atmintį kaip veiksmą. Paveikslas nėra tylus muziejaus eksponatas – aplink jį telkiasi žmonės, žvilgsniai ir ceremonijos laukimas. Šio vaizdo vertė slypi ne vien tame, ką jis rodo, bet ir tame, ko jis nepasakoja: nežinome visų dalyvių vardų ar tos dienos emocijų. Tačiau galime patikimai matyti viešą atvaizdo sutiktuvių sceną.",
-              "catalogDescriptionLt": "1930 m. Vytauto Didžiojo portreto sutikimo ceremonija Kretingoje. Vaizdas rodomas kaip jubiliejinės atminties viešosios praktikos dokumentas.",
+              "descriptionLt": "1930 m. rugsėjo 8 d. Kretingoje fotografuotas Vytauto portreto sutikimas rodo atmintį kaip viešą veiksmą. Galime patikimai atpažinti ceremoniją ir jos dalyvių sambūrį, tačiau nepriskiriame žmonėms šaltiniuose neužfiksuotų vardų ar emocijų.",
+              "catalogDescriptionLt": "1930 m. rugsėjo 8 d. Kretingoje fotografuotas Vytauto portreto sutikimas rodo atmintį kaip viešą veiksmą. Galime patikimai atpažinti ceremoniją ir jos dalyvių sambūrį, tačiau nepriskiriame žmonėms šaltiniuose neužfiksuotų vardų ar emocijų.",
               "featured": true,
-              "claims": [
-                {"code": "t-65005", "text": "Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/daiktai/Vytauto%20paveikslas#claim-t-65005", "role": "contextual", "label": "Keliauja ne tik paveikslas"},
-                {"code": "t-20823", "text": "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20823", "role": "contextual", "label": "Ceremonija kaip bendruomenės patirtis"}
-              ]
+              "creatorDisplay": "Nežinomas fotografas",
+              "dateDisplay": "1930 m. rugsėjo 8 d.",
+              "claimRefs": []
             },
             {
               "exhibitionItemId": "atm-kelione-02",
               "mediaId": "m-0f81c944c85e7c14b8ff790a",
               "titleLt": "Sutikimas Klaipėdoje I",
-              "descriptionLt": "Klaipėdos ceremonijos vaizdas išsaugo vieną iš tų akimirkų, kai istorija buvo paversta dabarties susitikimu. Portretas čia veikia kaip sutelkiantis ženklas: jis leidžia bendruomenei dalyvauti valstybės pasakojime ne skaitant apie Vytautą, o stovint šalia jo atvaizdo. Šiandien fotografija mums primena, kad patriotinis jausmas buvo kuriamas per konkrečius veiksmus ir viešas erdves.",
-              "catalogDescriptionLt": "1930 m. Vytauto Didžiojo portreto sutikimo ceremonija Klaipėdoje. Katalogo metaduomenys identifikuoja vietą ir jubiliejinį kontekstą.",
+              "descriptionLt": "1930 m. Klaipėdos fotografijoje matyti Vytauto portreto sutikimo ceremonija, kariuomenės rikiuotės ir susirinkusi minia. Portretas čia veikia kaip viešas bendruomenę telkiantis ženklas.",
+              "catalogDescriptionLt": "1930 m. Klaipėdos fotografijoje matyti Vytauto portreto sutikimo ceremonija, kariuomenės rikiuotės ir susirinkusi minia. Portretas čia veikia kaip viešas bendruomenę telkiantis ženklas.",
               "featured": true,
-              "claims": [
-                {"code": "t-65005", "text": "Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/daiktai/Vytauto%20paveikslas#claim-t-65005", "role": "contextual", "label": "Kelionės platesnis kontekstas"}
-              ]
+              "creatorDisplay": "Nežinomas fotografas",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
             },
             {
               "exhibitionItemId": "atm-kelione-03",
               "mediaId": "m-703f453fb59682939a1ba801",
               "titleLt": "Sutikimas Klaipėdoje II",
-              "descriptionLt": "Antrasis Klaipėdos ceremonijos vaizdas nėra tik pasikartojantis dokumentas. Jis leidžia pažvelgti į tą pačią viešąją atmintį kitu kampu – į žmonių išsidėstymą, atvaizdo vietą ir ceremonijos mastą. Parodoje šis kadras padeda pajusti, kaip nacionalinė istorija buvo priartinama prie konkretaus miesto ir jo gyventojų.",
-              "catalogDescriptionLt": "Antras 1930 m. Vytauto portreto sutikimo Klaipėdoje vaizdas. Eksponuojamas kaip tos pačios ceremonijos vizualinis porininkas.",
+              "descriptionLt": "Antrasis Klaipėdos ceremonijos kadras parodo tą patį įvykį kitu rakursu. Jis paliktas todėl, kad dokumentuoja kitokią žmonių, vėliavų ir portreto sąrangą, o ne kartoja tą pačią fotografiją.",
+              "catalogDescriptionLt": "Antrasis Klaipėdos ceremonijos kadras parodo tą patį įvykį kitu rakursu. Jis paliktas todėl, kad dokumentuoja kitokią žmonių, vėliavų ir portreto sąrangą, o ne kartoja tą pačią fotografiją.",
               "featured": true,
-              "claims": [
-                {"code": "t-65005", "text": "Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/daiktai/Vytauto%20paveikslas#claim-t-65005", "role": "contextual", "label": "Atmintis viešojoje erdvėje"},
-                {"code": "t-20823", "text": "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20823", "role": "contextual", "label": "Miestas bendrame pasakojime"}
-              ]
+              "creatorDisplay": "Nežinomas fotografas",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
             },
             {
               "exhibitionItemId": "atm-kelione-04",
               "mediaId": "m-c7367f575ad13fe8d4204619",
               "titleLt": "Paveikslas nešamas Palangoje",
-              "descriptionLt": "Palangos vaizdas ypač aiškiai parodo, kad jubiliejus buvo ne vien oficialus kalendoriaus įrašas. Paveikslas buvo nešamas, lydimas ir matomas žmonių akivaizdoje. Pats judėjimas čia tampa parodos tema: Vytauto atmintis keliauja per Lietuvos vietas, o kiekviena vieta trumpam tampa bendros istorijos scena. Tai pagarbus, bet ne statiškas valstybės pasakojimas.",
-              "catalogDescriptionLt": "M. Barkausko paveikslo nešimas Palangoje, 1930 m. Vaizdas siejamas su po Lietuvą keliavusio Vytauto atvaizdo apeigomis.",
+              "descriptionLt": "Katalogo įrašas fotografiją sieja su M. Barkausko Vytauto paveikslo nešimu Palangoje 1930 m. Vaizdas tiesiogiai parodo keliaujančio atvaizdo apeigą viešojoje erdvėje.",
+              "catalogDescriptionLt": "Katalogo įrašas fotografiją sieja su M. Barkausko Vytauto paveikslo nešimu Palangoje 1930 m. Vaizdas tiesiogiai parodo keliaujančio atvaizdo apeigą viešojoje erdvėje.",
               "featured": true,
-              "claims": [
-                {"code": "t-20823", "text": "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20823", "role": "contextual", "label": "Tautos vienybės vaizdinys"},
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Atmintis kaip valstybės darbas"},
-                {"code": "t-20824", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20824", "role": "contextual", "label": "Atmintis įgauna instituciją"}
-              ]
+              "creatorDisplay": "Nežinomas fotografas",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
             }
           ]
         },
         {
-          "sectionId": "atm-valstybe",
+          "sectionId": "atm-institucijos",
           "slug": "valstybe-organizuoja-atminti",
           "title": "Valstybė organizuoja atmintį",
-          "lead": "Atmintis įgauna dokumentą, antspaudą ir medalį. Tai ne mažiau svarbi kulto dalis nei portretas: istorija tampa institucijų, lėšų ir daiktų apyvarta.",
+          "lead": "Komitetas, fondas, antspaudas ir medalis rodo administracinę kulto pusę. Atmintis turėjo institucijas, lėšas ir materialius dalyvavimo ženklus; vieną medalį sąmoningai rodome iš abiejų pusių.",
+          "navMediaId": "m-bedd635657c08dd8b0b509d8",
+          "navImagePosition": "50% 30%",
+          "claimRefs": [
+            {
+              "claimId": "t-66991",
+              "citationId": "c-67068",
+              "label": "Kultas ir valstybės politika",
+              "role": "contextual"
+            }
+          ],
           "items": [
             {
-              "exhibitionItemId": "atm-valstybe-01",
+              "catalogDescriptionLt": "Centro komiteto antspaudas su Vyčiu buvo naudojamas rengiant Vytauto mirties 500-ųjų metinių minėjimą. Jo centre nėra portreto: valdovo atminimą čia žymi institucijos pavadinimas ir valstybės simbolis.",
+              "descriptionLt": "Centro komiteto antspaudas su Vyčiu buvo naudojamas rengiant Vytauto mirties 500-ųjų metinių minėjimą. Jo centre nėra portreto: valdovo atminimą čia žymi institucijos pavadinimas ir valstybės simbolis.",
+              "exhibitionItemId": "atm-institucijos-01",
+              "featured": true,
+              "mediaId": "m-028361836bfd42b90e800ca4",
+              "titleLt": "Penkių šimtų metų atminimo komiteto antspaudas",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "apie 1930 m.",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "1930 m. už 125 litų auką išduotas Vytauto Didžiojo fondo rėmėjo liudijimas išsaugojo konkretų pilietinio dalyvavimo pėdsaką. Dekoratyvus lapas, parašai ir antspaudas rodo, kad jubiliejinė atmintis buvo organizuojama ir finansuojama.",
+              "descriptionLt": "1930 m. už 125 litų auką išduotas Vytauto Didžiojo fondo rėmėjo liudijimas išsaugojo konkretų pilietinio dalyvavimo pėdsaką. Dekoratyvus lapas, parašai ir antspaudas rodo, kad jubiliejinė atmintis buvo organizuojama ir finansuojama.",
+              "exhibitionItemId": "atm-institucijos-02",
+              "featured": true,
+              "mediaId": "m-0a64203009037a5a783823a2",
+              "titleLt": "Vytauto fondo rėmėjo liudijimas",
+              "creatorDisplay": "Autorius nenurodytas",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "atm-institucijos-03",
               "mediaId": "m-bedd635657c08dd8b0b509d8",
-              "titleLt": "Jubiliejus metale",
-              "descriptionLt": "1930 m. bronzinis medalis atmintį sutraukia į mažą, laikomą ir perduodamą daiktą. Jis kalba ne apie vieną akimirką, o apie norą istorijai suteikti pastovią formą. Metalo patvarumas čia tampa simboliniu pažadu: Vytauto vardas turi išlikti ne tik knygose, bet ir kasdienio pasaulio daiktuose. Medalio reikšmę parodoje aiškiname per jo datą, vaizdą ir jubiliejinį kontekstą, neperžengdami to, ką leidžia matyti pats objektas.",
-              "catalogDescriptionLt": "1930 m. bronzinis Vytauto Didžiojo medalis. Parodoje jis rodomas kaip materialus jubiliejinės atminties ženklas.",
+              "titleLt": "Jubiliejinio medalio aversas",
+              "descriptionLt": "Kataloge objektas įvardytas kaip 1930 m. bronzinis Vytauto Didžiojo medalis. Tai jo aversas; greta rodomas to paties medalio reversas, kad vienas eksponatas nebūtų klaidingai perskaitytas iš vienos pusės.",
+              "catalogDescriptionLt": "Kataloge objektas įvardytas kaip 1930 m. bronzinis Vytauto Didžiojo medalis. Tai jo aversas; greta rodomas to paties medalio reversas, kad vienas eksponatas nebūtų klaidingai perskaitytas iš vienos pusės.",
               "featured": true,
-              "claims": [
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Atmintis kaip valstybės darbas"}
-              ]
+              "creatorDisplay": "Petras Rimša",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
             },
             {
-              "exhibitionItemId": "atm-valstybe-02",
+              "exhibitionItemId": "atm-institucijos-04",
+              "mediaId": "m-0c6126f3fd3e94e78b39962c",
+              "titleLt": "Jubiliejinio medalio reversas",
+              "descriptionLt": "Kitoje to paties 1930 m. medalio pusėje pavaizduotas Lietuvos Didžiosios Kunigaikštystės žemėlapis. Aversas ir reversas paliekami greta kaip viena dvipusė atminties programa, ne kaip du skirtingi jubiliejiniai daiktai.",
+              "catalogDescriptionLt": "Kitoje to paties 1930 m. medalio pusėje pavaizduotas Lietuvos Didžiosios Kunigaikštystės žemėlapis. Aversas ir reversas paliekami greta kaip viena dvipusė atminties programa, ne kaip du skirtingi jubiliejiniai daiktai.",
+              "featured": true,
+              "creatorDisplay": "Petras Rimša",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "atm-apyvarta",
+          "slug": "atvaizdas-kasdienėje-apyvartoje",
+          "title": "Atvaizdas kasdienėje apyvartoje",
+          "lead": "Monetos, atvirukai ir jubiliejiniai medaliai perkėlė Vytautą iš iškilmių į kasdienį daiktų pasaulį. Atvaizdas galėjo būti laikomas, siunčiamas ir perduodamas.",
+          "navMediaId": "m-7c76e0a3447da3a1491a7967",
+          "navImagePosition": "50% 24%",
+          "claimRefs": [
+            {
+              "claimId": "t-176638",
+              "citationId": "c-160625",
+              "label": "Karvedžio ir karūnos siekusio valdovo vaizdinys",
+              "role": "contextual"
+            },
+            {
+              "claimId": "t-75754",
+              "citationId": "c-73438",
+              "label": "Vytauto ir Smetonos portretai valstybės įstaigose",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "catalogDescriptionLt": "1936 m. dešimties litų monetoje karūnuotas Vytauto profilis tapo oficialiu valstybės pinigo atvaizdu. Portretas buvo vėlyva meninė rekonstrukcija, todėl monetos oficialumas nepaverčia jo autentišku XV a. veidu.",
+              "descriptionLt": "1936 m. dešimties litų monetoje karūnuotas Vytauto profilis tapo oficialiu valstybės pinigo atvaizdu. Portretas buvo vėlyva meninė rekonstrukcija, todėl monetos oficialumas nepaverčia jo autentišku XV a. veidu.",
+              "exhibitionItemId": "atm-apyvarta-01",
+              "featured": true,
+              "mediaId": "m-adbb1006da8033214865ebab",
+              "titleLt": "1936 metų dešimt litų su Vytautu",
+              "creatorDisplay": "Autorius nenurodytas",
+              "dateDisplay": "1936 m.",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "Atvirukas reprodukuoja Mstislavo Dobužinskio paveikslą „Vytautas Didysis“ ir paverčia tapybos kūrinį lengvai platinamu vaizdu. Jis dokumentuoja kelią nuo vieno kūrinio prie masiškai prieinamos ikonografijos.",
+              "descriptionLt": "Atvirukas reprodukuoja Mstislavo Dobužinskio paveikslą „Vytautas Didysis“ ir paverčia tapybos kūrinį lengvai platinamu vaizdu. Jis dokumentuoja kelią nuo vieno kūrinio prie masiškai prieinamos ikonografijos.",
+              "exhibitionItemId": "atm-apyvarta-02",
+              "featured": true,
+              "mediaId": "m-7c76e0a3447da3a1491a7967",
+              "titleLt": "Dobužinskio tapybos Vytautas atviruke",
+              "creatorDisplay": "Mstislavas Dobužinskis",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "Spalvintame atviruke Vytautas pristatomas kaip Lietuvos didysis kunigaikštis. Katalogas tikslios spaudinio datos nenurodo, todėl parodoje jis naudojamas tik kaip lengvai platinamo reprezentacinio portreto pavyzdys.",
+              "descriptionLt": "Spalvintame atviruke Vytautas pristatomas kaip Lietuvos didysis kunigaikštis. Katalogas tikslios spaudinio datos nenurodo, todėl parodoje jis naudojamas tik kaip lengvai platinamo reprezentacinio portreto pavyzdys.",
+              "exhibitionItemId": "atm-apyvarta-03",
+              "featured": true,
+              "mediaId": "m-ad553c0f66d203e58270d553",
+              "titleLt": "Kunigaikštis atviruke, karalius vaizduotėje",
+              "creatorDisplay": "Autorius nenurodytas",
+              "dateDisplay": "Data nenurodyta",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "1936 m. Lietuvos pašto ženkle rodomas Antano Smetonos portretas. Tai nėra Vytauto kulto eksponatas, bet sąmoningas parodos kontrapunktas: oficialiame pašte greta istorinės atminties gyvavo ir tuometinio valstybės vadovo portretinis vaizdas.",
+              "descriptionLt": "1936 m. Lietuvos pašto ženkle rodomas Antano Smetonos portretas. Tai nėra Vytauto kulto eksponatas, bet sąmoningas parodos kontrapunktas: oficialiame pašte greta istorinės atminties gyvavo ir tuometinio valstybės vadovo portretinis vaizdas.",
+              "exhibitionItemId": "atm-apyvarta-04",
+              "featured": true,
+              "mediaId": "m-afa44cafe841be3b83ad87c5",
+              "titleLt": "Smetonos portretas valstybiniame pašte",
+              "creatorDisplay": "Lietuvos pašto administracija",
+              "dateDisplay": "1936 m.",
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "atm-palikimas",
+          "slug": "kultas-svente-ir-palikimas",
+          "title": "Jubiliejus, šventė ir palikimas",
+          "lead": "1930 m. jubiliejus kūrė ne vien šventę, bet ir atminties kalbą: leidiniai bei reprodukcijos grąžino senosios Lietuvos ženklus į viešą apyvartą, o 1937 m. Vytauto vardas vėl skambėjo valstybinėje sukaktyje.",
+          "navMediaId": "m-8ea23071b7910023c4123f98",
+          "navImagePosition": "50% 20%",
+          "claimRefs": [
+            {
+              "claimId": "t-176744",
+              "citationId": "c-160619",
+              "label": "Rugsėjo 8-osios Tautos šventės reikšmė",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "catalogDescriptionLt": "1930 m. Vilniuje išleistas leidinys liudija, kad Vytauto vardas tuo metu buvo svarstomas ir už Lietuvos Respublikos viešosios erdvės ribų. Parodoje jis pateikiamas kaip konkretaus leidinio faktas, neperkeliant šiuolaikinių tautinių kategorijų į XV a. valdovo biografiją.",
+              "descriptionLt": "1930 m. Vilniuje išleistas leidinys liudija, kad Vytauto vardas tuo metu buvo svarstomas ir už Lietuvos Respublikos viešosios erdvės ribų. Parodoje jis pateikiamas kaip konkretaus leidinio faktas, neperkeliant šiuolaikinių tautinių kategorijų į XV a. valdovo biografiją.",
+              "exhibitionItemId": "atm-palikimas-01",
+              "featured": true,
+              "mediaId": "m-ef8f2ecba2ad35210fd905cb",
+              "titleLt": "„Vytautas Didysis ir baltarusiai“, 1930",
+              "creatorDisplay": "Adomas Stankevičius",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "Penktajame to paties 1930 m. leidinio puslapyje Vytauto figūra pateikiama po Pahonia herbu. Knygos viršelis ir šis puslapis parodo dvi vieno leidinio vaizdinės programos dalis: valdovo vardas čia jungiamas su senosios Lietuvos valstybės ženklu.",
+              "descriptionLt": "Penktajame to paties 1930 m. leidinio puslapyje Vytauto figūra pateikiama po Pahonia herbu. Knygos viršelis ir šis puslapis parodo dvi vieno leidinio vaizdinės programos dalis: valdovo vardas čia jungiamas su senosios Lietuvos valstybės ženklu.",
+              "exhibitionItemId": "atm-palikimas-02",
+              "featured": true,
+              "mediaId": "m-8ea23071b7910023c4123f98",
+              "titleLt": "1930 metų Vytautas po Pahonia",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "1930 m.",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "1930 m. reprodukcijoje senasis Vytauto antspaudas ir Pahonia ženklas pateikiami naujame spaudos vaizde. Tai nėra XV a. originalas, bet tarpukario bandymas istorinį valdžios simbolį grąžinti į dabarties vaizdinį.",
+              "descriptionLt": "1930 m. reprodukcijoje senasis Vytauto antspaudas ir Pahonia ženklas pateikiami naujame spaudos vaizde. Tai nėra XV a. originalas, bet tarpukario bandymas istorinį valdžios simbolį grąžinti į dabarties vaizdinį.",
+              "exhibitionItemId": "atm-palikimas-03",
+              "featured": true,
               "mediaId": "m-9d22e349eebbb9f58b1ca524",
-              "titleLt": "Senas ženklas, nauja reprodukcija",
-              "descriptionLt": "Šis Pahonia ir Vytauto antspaudo atvaizdas leidžia stebėti, kaip senesnis valdžios ženklas atgimsta vėlesnėje reprodukcijoje. Parodai svarbus pats perdavimo veiksmas: praeities ženklas ištraukiamas iš archyvinio laiko ir tampa prieinamas naujai auditorijai. Tai neįrodo, kad tarpukario žmogus Vytautą matė taip, kaip jį matome šiandien. Tačiau rodo, kaip buvo kuriamas atpažįstamas valstybės praeities ženklas.",
-              "catalogDescriptionLt": "Vytauto Didžiojo antspaudo atvaizdas, siejamas su 1385 m. ženklu ir 1930 m. reprodukcija. Eksponatas rodo istorinio simbolio perkėlimą į naują atminties laiką.",
-              "featured": true,
-              "claims": [
-                {"code": "t-198253", "text": "Vytautas Didysis iš Jogailos gavo Lietuvą kaip lėną didžiojo kunigaikščio teisėmis.", "sourceTitle": "Vytautas Didysis 1350–1430 (1930 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-198253", "role": "contextual", "label": "Valdžia, paversta ženklu"}
-              ]
+              "titleLt": "Senas antspaudas, 1930 metų reprodukcija",
+              "creatorDisplay": "Marian Gumowski",
+              "dateDisplay": "1930 m. reprodukcija",
+              "claimRefs": []
             },
             {
-              "exhibitionItemId": "atm-valstybe-03",
-              "mediaId": "m-d045d26be4c69e9b0df5d466",
-              "titleLt": "Bistrampolio atminties veidas",
-              "descriptionLt": "Bistrampolio dvare eksponuojamas įsivaizduojamas Vytauto portretas parodo, kad atmintis gyvena ne vien knygose ar oficialiose ceremonijose. Ji įsitvirtina ir istorinių vietų interjeruose, kur lankytojas susitinka su praeitimi per vaizdą. Šio kūrinio autoriaus ir sukūrimo aplinkybių nepridedame iš spėjimo. Mums pakanka to, ką patikimai nurodo katalogas: tai įsivaizduojamas Vytauto atvaizdas, įrėmintas Lietuvos istorijos pasakojime.",
-              "catalogDescriptionLt": "Bistrampolio dvare eksponuojamas įsivaizduojamas Vytauto Didžiojo portretas. Vaizdas rodomas kaip istorinio interjero ir atminties santykio pavyzdys.",
+              "exhibitionItemId": "atm-palikimas-04",
+              "mediaId": "m-2a3f9b575aa3f1fe274dd86c",
+              "titleLt": "1937 metų krikščionybės sukakties atsišaukimas",
+              "descriptionLt": "1937 m. atsišaukimas Jogailos ir Vytauto vardus susiejo su Lietuvos krikščionybės 550 metų sukaktimi. Jis patikimai rodo, kad jubiliejinė istorijos kalba buvo naudojama ir po 1930 metų.",
+              "catalogDescriptionLt": "1937 m. atsišaukimas Jogailos ir Vytauto vardus susiejo su Lietuvos krikščionybės 550 metų sukaktimi. Jis patikimai rodo, kad jubiliejinė istorijos kalba buvo naudojama ir po 1930 metų.",
               "featured": true,
-              "claims": [
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Atmintis istorinėje vietoje"},
-                {"code": "t-20824", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20824", "role": "contextual", "label": "Atmintis ir vieta"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-valstybe-04",
-              "mediaId": "m-8d0eb2efcd6c13c8b1e3ae63",
-              "titleLt": "Paveikslas viešajai atminčiai",
-              "descriptionLt": "Šis muziejinių metaduomenų įvardytas paveikslas parodoje paliekamas kaip savarankiškas atminties objektas. Kai kūrinio autoriaus ar sukūrimo aplinkybės nėra pakankamai aiškios, neturime jų išgalvoti. Galime tiksliai pasakyti, ką matome ir kaip vaizdas veikia parodos temoje: Vytautas čia tampa ne vien istoriniu asmeniu, bet ir Lietuvos kultūrinės vaizduotės dalimi.",
-              "catalogDescriptionLt": "Muziejaus kataloge įvardytas paveikslas „Vytautas Didysis“. Neaiškūs duomenys sąmoningai nepildomi spėjimais.",
-              "featured": true,
-              "claims": [
-                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejinis laikas"},
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Jubiliejus kaip valstybės atmintis"}
-              ]
-            }
-          ]
-        },
-        {
-          "sectionId": "atm-daiktas",
-          "slug": "vytautas-kasdienybeje",
-          "title": "Vytautas tampa kasdienis",
-          "lead": "Atminties kultas gyvena ne tik iškilmingose salėse. Jis įsikuria atviruke, skulptūroje, drožinyje ar nedideliame daikte, kurį galima paliesti ir perduoti.",
-          "items": [
-            {
-              "exhibitionItemId": "atm-daiktas-01",
-              "mediaId": "m-5a8de8ab28f8dd7ece0f471a",
-              "titleLt": "Vytautas ant rago",
-              "descriptionLt": "Išraižytas bareljefas ant briedžio rago atveda Vytautą į materialiosios kultūros pasaulį. Čia valdovo atvaizdas nėra nei didelis paminklas, nei oficialus dokumentas. Jis tampa daiktu, kuris gali būti laikomas, rodomas ir prisimenamas privačiai. Paroda nekuria pasakojimo apie daikto savininką ar paskirtį, jei to nepatvirtina šaltiniai. Ji tik leidžia pamatyti, kaip didysis istorinis vardas įsikūnija skirtingo masto ir medžiagos objektuose.",
-              "catalogDescriptionLt": "Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu. Objekto paskirtis ir sukūrimo aplinkybės pateikiamos tik tiek, kiek jas leidžia katalogo duomenys.",
-              "featured": true,
-              "claims": [
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Atvaizdas už oficialios scenos ribų"},
-                {"code": "t-176638", "text": "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-176638", "role": "contextual", "label": "Atmintis mažesniuose daiktuose"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-daiktas-02",
-              "mediaId": "m-9161a5dc35b1cb26f4a50841",
-              "titleLt": "Medinis valdovo atvaizdas",
-              "descriptionLt": "Medžio skulptūra parodo, kaip Vytauto atmintis gali būti perduodama ne vien tapyba ar spauda. Medžiaga čia svarbi pati savaime: medžio paviršius, tūris ir rankų darbo pėdsakas suteikia valdovui kūnišką buvimą. Apie datą ar aplinkybes kalbame tik pagal katalogo duomenis. Visa kita paliekame žiūrovo patirčiai – šis Vytautas nėra kronikos sakinys, bet kultūrinės atminties forma.",
-              "catalogDescriptionLt": "Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“. Eksponatas rodomas kaip trimatė Vytauto atminties forma.",
-              "featured": true,
-              "claims": [
-                {"code": "t-20824", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20824", "role": "contextual", "label": "Atminties pavidalai"},
-                {"code": "t-176638", "text": "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-176638", "role": "contextual", "label": "Materiali atminties forma"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-daiktas-03",
-              "mediaId": "m-e3b89856b0418d42bd4e7312",
-              "titleLt": "Drožinys, kuriame išlieka vardas",
-              "descriptionLt": "Drožinys parodoje veikia kaip tylus didžiojo pasakojimo atgarsis. Jo vertė nėra ta, kad jis papildytų žinomą Vytauto biografiją nauju faktu. Vertė slypi kitur: kūrinys leidžia pamatyti, kaip istorinis vardas tampa rankomis kuriamu objektu. Tarpukario atminties kultūrą sudarė ne tik valstybės renginiai, bet ir daugybė mažesnių būdų prisiminti, didžiuotis ir perduoti Lietuvos istoriją.",
-              "catalogDescriptionLt": "Medžio drožinys „Vytautas Didysis“. Parodoje jis pateikiamas kaip materialiosios atminties pavyzdys.",
-              "featured": true,
-              "claims": [
-                {"code": "t-20823", "text": "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20823", "role": "contextual", "label": "Atmintis kaip bendras darbas"},
-                {"code": "t-176638", "text": "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-176638", "role": "contextual", "label": "Atmintis kaip patriotinis pasakojimas"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-daiktas-04",
-              "mediaId": "m-043970e67a10dacfa87474d2",
-              "titleLt": "Bareljefas ir artumas",
-              "descriptionLt": "Bareljefas išlaiko tarpinę padėtį tarp portreto ir paminklo. Vytautas čia nėra tolimas istorijos veikėjas – jis tampa paviršiumi, reljefu, konkrečiu namų ar muziejaus daiktu. Tokie objektai leidžia kalbėti apie pagarbą be papildomų istorinių prielaidų: matome atvaizdą, jo medžiagiškumą ir vietą platesnėje Lietuvos atminties kultūroje.",
-              "catalogDescriptionLt": "Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“. Objektas rodomas kaip skulptūrinė Vytauto ikonografijos forma.",
-              "featured": true,
-              "claims": [
-                {"code": "t-66991", "text": "Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66991", "role": "contextual", "label": "Nuo portreto iki simbolio"}
-              ]
-            }
-          ]
-        },
-        {
-          "sectionId": "atm-atgarsis",
-          "slug": "keli-atminties-balsai",
-          "title": "Keli atminties balsai",
-          "lead": "Vytautas nebuvo vienos kartos ar vienos kalbos nuosavybė. Jo atvaizdas keliavo tarp skirtingų laikų, bendruomenių ir Lietuvos istorijos skaitymų.",
-          "items": [
-            {
-              "exhibitionItemId": "atm-atgarsis-01",
-              "mediaId": "m-936338ab9ecdc203a98eea21",
-              "titleLt": "Lietuvos didysis kunigaikštis",
-              "descriptionLt": "Šis katalogo įraše taip įvardytas atvaizdas parodoje paliekamas kaip atminties balso pavyzdys, kurio nereikia papildyti išgalvota biografija. Pats pavadinimas jau nustato žiūros kryptį: Vytautas čia pateikiamas kaip valdovas, o ne privatus žmogus. Toks įrėminimas būdingas istorinei vaizduotei, kuriai svarbu ne psichologinis portretas, bet Lietuvos valstybingumo ir valdžios ženklas.",
-              "catalogDescriptionLt": "Katalogo įraše įvardytas Lietuvos didžiojo kunigaikščio Vytauto atvaizdas. Neaiškūs autoriaus ir datos duomenys nepildomi spėjimais.",
-              "featured": true,
-              "claims": [
-                {"code": "t-66989", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/ivykiai/Vytauto%20mirties%20500%20met%C5%B3%20jubiliejaus%20min%C4%97jimas%20%281930%20m.%29#claim-t-66989", "role": "contextual", "label": "Jubiliejinis įrėminimas"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-atgarsis-02",
-              "mediaId": "m-ba34a3fefd0874a4d9a8fef3",
-              "titleLt": "Veidas istorinėje erdvėje",
-              "descriptionLt": "Trakų pilies aplinkoje fotografuojamas Vytauto portretas primena, kad atmintį kuria ne vien pats kūrinys. Ją kuria ir vieta, kurioje kūrinys rodomas. Pilis, muziejus, miestas ir portretas sudaro vieną kultūrinę sceną. Šis vaizdas nėra naudojamas kaip įrodymas apie Vytauto gyvenimą – jis rodo, kaip Lietuvos istorijos vietos padeda šiandien išlaikyti valdovo vardą matomą.",
-              "catalogDescriptionLt": "Vytauto Didžiojo portretas Trakų pilyje. Vaizdas naudojamas kaip atminties vietos ir istorinio portreto santykio pavyzdys.",
-              "featured": true,
-              "claims": [
-                {"code": "t-20824", "text": "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20824", "role": "contextual", "label": "Atminties vieta"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-atgarsis-03",
-              "mediaId": "m-a964f48573419803d459c024",
-              "titleLt": "Valdovas po Gediminaičių stulpais",
-              "descriptionLt": "XVI amžiaus atvaizdas su Gediminaičių stulpais parodo, kad Vytauto vardas anksti įsitvirtino ne tik portreto, bet ir dinastinės simbolikos aplinkoje. Šis kūrinys nėra tarpukario dokumentas. Jis pateikiamas kaip gilesnis sluoksnis, kurį tarpukaris galėjo pasitelkti, kai norėjo kalbėti apie Lietuvos senumą ir istorinį tęstinumą.",
-              "catalogDescriptionLt": "Apie 1555 m. datuojamas Vytauto Didžiojo atvaizdas su Gediminaičių stulpais. Eksponatas rodomas kaip ankstesnis simbolinis atminties sluoksnis.",
-              "featured": true,
-              "claims": [
-                {"code": "t-176638", "text": "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/asmenys/Vytautas-Didysis#claim-t-176638", "role": "contextual", "label": "Ilgoji atminties istorija"}
-              ]
-            },
-            {
-              "exhibitionItemId": "atm-atgarsis-04",
-              "mediaId": "m-4f98322ce1aeb38e99e94f17",
-              "titleLt": "Du XVI amžiaus žvilgsniai",
-              "descriptionLt": "Antrasis XVI amžiaus atvaizdo variantas leidžia parodyti, kad istorinis vaizdinys niekada nėra vienas ir nekintantis. Net panašūs portretiniai sprendimai gali perteikti skirtingus akcentus – valdovo laikyseną, ženklus, aprangą ar ryšį su dinastija. Tarpukario kultas veikė būtent tokioje jau paruoštoje atminties erdvėje: jis rinkosi, kas turi tapti matoma ir bendra.",
-              "catalogDescriptionLt": "Antras apie 1555 m. datuojamas Vytauto atvaizdas su Gediminaičių stulpais. Eksponuojamas kaip lyginamasis ankstesnės ikonografijos pavyzdys.",
-              "featured": true,
-              "claims": [
-                {"code": "t-20823", "text": "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.", "sourceTitle": "Alfonsas Eidintas ir kt., Lietuvos istorija (2013 m.)", "url": "/objektai/paprociai/Vytauto%20Did%C5%BEiojo%20kulto%20k%C5%ABrimo%20ir%20jubiliejini%C5%B3%20apeig%C5%B3%20praktika#claim-t-20823", "role": "contextual", "label": "Istorinė valstybė kaip vaizdinys"}
+              "creatorDisplay": "Katalikų veikimo centras",
+              "dateDisplay": "1937 m.",
+              "claimRefs": [
+                {
+                  "claimId": "t-186370",
+                  "citationId": "c-169727",
+                  "label": "Vytauto vaidmuo Lietuvos krikšto pasakojime",
+                  "role": "contextual"
+                }
               ]
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "schemaVersion": "2"
 }
