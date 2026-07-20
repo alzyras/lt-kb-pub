@@ -35,7 +35,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Auksinė Orda
 
 ## Santrauka
@@ -483,3 +482,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+## Ryšiai
+- Turėjo priklausinį: [[objektai/vietos/Volynė]]
+- Auksinė Orda priklausė [[objektai/grupes/Mongolų imperija]]

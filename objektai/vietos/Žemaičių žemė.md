@@ -46,25 +46,6 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170407
-
-<a id="claim-t-187419"></a>
-- t-005
-  teiginys: "Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus."
-  atnaujinta: "2026-07-19 23:57"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "uzeme -> Trakai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila užėmė Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) užėmė Trakai (0.93); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.82)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170409
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55202|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.
@@ -212,5 +193,3 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005

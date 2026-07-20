@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Augsburgas
 
 ## Santrauka

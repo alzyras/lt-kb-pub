@@ -38,6 +38,19 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 
 ## Teiginiai
 
+<a id="claim-t-190003"></a>
+- t-001
+  teiginys: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva."
+  atnaujinta: "2026-07-20 10:20"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-172892
+
 <a id="claim-t-190004"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu."
@@ -390,6 +403,30 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-172892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    401
+
+    ## Puslapis 401
+
+    c basi Ten kitaip pavaizduotos figūros, ypač rankų pozicijos. Be
+    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
+    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
+    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
+    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
+    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
+    vėliava.
+  statusas: verified
+  atnaujinta: "2026-07-20 10:20"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-173746
   autorius: "Teodoras Narbutas"
