@@ -10,6 +10,7 @@ type ExhibitionViewerItem = {
   mediaId: string
   titleLt: string
   descriptionLt: string
+  creatorDisplay: string
   dateDisplay: string
   sectionTitle: string
 }
@@ -161,6 +162,7 @@ function viewerDetails(entry: MediaEntry, item: ExhibitionViewerItem): string {
     const clean = text(value)
     return clean ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(clean)}</dd></div>` : ""
   }
+  const creator = text(item.creatorDisplay || entry.creator)
   const date = viewerDate(item.dateDisplay || entry.dateDisplay)
   const provider = text(entry.institution || entry.providerLabel || entry.provider)
   const license = mediaLicenseLabel(entry.license) || "Teisės nenurodytos"
@@ -173,7 +175,7 @@ function viewerDetails(entry: MediaEntry, item: ExhibitionViewerItem): string {
     </header>
     <details class="media-viewer-exhibition-metadata">
       <summary>Rodyti metaduomenis</summary>
-      <dl class="media-viewer-facts">${fact("Kūrėjas", entry.creator)}${fact("Data", date)}${fact("Šaltinis", provider)}</dl>
+      <dl class="media-viewer-facts">${fact("Kūrėjas", creator)}${fact("Data", date)}${fact("Šaltinis", provider)}</dl>
       <section class="media-viewer-section media-viewer-rights"><h3>Naudojimo teisės</h3><p><strong>${escapeHtml(license)}</strong>${entry.attribution ? `<br>${escapeHtml(entry.attribution)}` : ""}</p></section>
       ${entry.canonicalUrl ? `<div class="pswp__media-links"><a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a></div>` : ""}
     </details>

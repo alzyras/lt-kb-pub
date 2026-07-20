@@ -842,8 +842,8 @@
     padding: min(66vw, 20rem) 1rem 1rem;
   }
   .exhibition-hero-media img {
-    object-fit: cover;
-    object-position: center top;
+    object-fit: contain;
+    object-position: center center;
     opacity: 1;
   }
   .exhibition-hero-scrim {

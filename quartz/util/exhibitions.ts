@@ -28,6 +28,9 @@ export type ExhibitionItem = {
   titleLt: string
   descriptionLt: string
   catalogDescriptionLt: string
+  /** Curated display values may correct a provider's scan/upload metadata. */
+  creatorDisplay?: string
+  dateDisplay?: string
   evidenceNoteLt?: string
   featured: boolean
   claimRefs: ExhibitionClaimRef[]

@@ -69,6 +69,45 @@ describe("exhibition manifest", () => {
     )
   })
 
+  test("keeps the interwar story chronological, dated, and free of retired evidence links", () => {
+    assert.ok(interwar)
+    const items = interwar.sections.flatMap((section) => section.items)
+    assert.equal(items[0]?.mediaId, "m-2e8570d6a456b1ef3cbc51a9")
+    assert.equal(items.length, 20)
+    assert.equal(
+      new Set(items.map((item) => normalized(item.titleLt))).size,
+      items.length,
+      "interwar exhibit titles must be distinct",
+    )
+    for (const item of items) {
+      assert.ok(item.creatorDisplay?.trim(), `${item.exhibitionItemId} needs a curated creator`)
+      assert.ok(item.dateDisplay?.trim(), `${item.exhibitionItemId} needs a curated date`)
+      assert.doesNotMatch(item.creatorDisplay ?? "", /Unknown author|https?:\/\//i)
+      assert.doesNotMatch(item.dateDisplay ?? "", /date QS:|\d{4}-\d{2}-\d{2} \d{2}:/i)
+    }
+
+    const claimIds = interwar.sections.flatMap((section) => [
+      ...section.claimRefs.map((claim) => claim.claimId),
+      ...section.items.flatMap((item) => item.claimRefs.map((claim) => claim.claimId)),
+    ])
+    const retiredClaimIds: Array<`t-${number}`> = ["t-78074", "t-35760", "t-64800"]
+    for (const retiredClaimId of retiredClaimIds) {
+      assert.ok(!claimIds.includes(retiredClaimId), `${retiredClaimId} must not remain in interwar`)
+    }
+    assert.ok(claimIds.includes("t-77927"))
+    assert.ok(claimIds.includes("t-186370"))
+
+    const medalSides = items.filter(
+      (item) =>
+        item.mediaId === "m-bedd635657c08dd8b0b509d8" ||
+        item.mediaId === "m-0c6126f3fd3e94e78b39962c",
+    )
+    assert.deepEqual(medalSides.map((item) => item.titleLt).sort(), [
+      "Jubiliejinio medalio aversas",
+      "Jubiliejinio medalio reversas",
+    ])
+  })
+
   test("resolves every global claim and its exact supporting quotation", () => {
     for (const exhibition of exhibitions) {
       const seenSectionClaims = new Set<string>()

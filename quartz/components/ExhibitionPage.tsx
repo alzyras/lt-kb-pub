@@ -25,8 +25,8 @@ function parseManifest(value: unknown): ExhibitionManifest | undefined {
 function ItemMeta({ item }: { item: ExhibitionItem }) {
   const media = item.media
   const facts = [
-    displayCreator(media.creator),
-    displayDate(media.dateDisplay),
+    displayCreator(item.creatorDisplay || media.creator),
+    displayDate(item.dateDisplay || media.dateDisplay),
     cleanText(media.institution || media.providerLabel || media.provider),
   ].filter(Boolean)
   return (
@@ -117,12 +117,10 @@ function Exhibit({
   item,
   index,
   exhibitionId,
-  sectionClaims,
 }: {
   item: ExhibitionItem
   index: number
   exhibitionId: string
-  sectionClaims: ExhibitionClaim[]
 }) {
   const media = item.media
   const imageUrl = cleanText(media.thumbUrl || media.sourceUrl)
@@ -161,17 +159,6 @@ function Exhibit({
         <p class="exhibition-item-description">{item.descriptionLt}</p>
         {item.evidenceNoteLt && <p class="exhibition-evidence-note">{item.evidenceNoteLt}</p>}
         <ClaimLinks claims={item.claims} />
-        {item.claims.length === 0 && sectionClaims.length > 0 && (
-          <p class="exhibition-inherited-claims">
-            Šį eksponatą pagrindžia skyriaus teiginiai:{" "}
-            {sectionClaims.map((claim, claimIndex) => (
-              <>
-                {claimIndex > 0 ? " · " : ""}
-                <a href={claim.url}>{claim.claimId}</a>
-              </>
-            ))}
-          </p>
-        )}
         <ItemTags item={item} />
         {media.canonicalUrl && (
           <a
@@ -271,14 +258,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             <div class="exhibition-section-items">
               {featured.map((item) => {
                 const index = exhibitIndex++
-                return (
-                  <Exhibit
-                    item={item}
-                    index={index}
-                    exhibitionId={exhibition.exhibitionId}
-                    sectionClaims={section.claims}
-                  />
-                )
+                return <Exhibit item={item} index={index} exhibitionId={exhibition.exhibitionId} />
               })}
             </div>
           </section>

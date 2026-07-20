@@ -45,6 +45,7 @@ type ExhibitionViewerItem = {
   mediaId: string
   titleLt: string
   descriptionLt: string
+  creatorDisplay: string
   dateDisplay: string
   sectionTitle: string
 }
@@ -283,8 +284,8 @@ function detailsHtml(entry: MediaEntry, exhibitionItem?: ExhibitionViewerItem): 
     )
     .join("")
   const originalTitle = text(entry.originalTitle || entry.title)
-  const creator = text(entry.creator)
-  const date = displayDate(entry.dateDisplay)
+  const creator = text(exhibitionItem?.creatorDisplay || entry.creator)
+  const date = displayDate(exhibitionItem?.dateDisplay || entry.dateDisplay)
   const imageType = relationLabel(entry.relationType)
   const institution = text(entry.institution)
   const provider = text(entry.providerLabel || entry.provider)
@@ -299,10 +300,11 @@ function detailsHtml(entry: MediaEntry, exhibitionItem?: ExhibitionViewerItem): 
     <section class="media-viewer-section media-viewer-rights"><h3>Naudojimo teisės</h3><p><strong>${escapeHtml(license || "Nenurodyta")}</strong>${entry.attribution ? `<br>${escapeHtml(entry.attribution)}` : ""}</p></section>
     <div class="pswp__media-links">${entry.canonicalUrl ? `<a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""}${entry.licenseUrl ? `<a href="${escapeHtml(entry.licenseUrl)}" target="_blank" rel="noreferrer noopener">Licencijos sąlygos</a>` : ""}<button type="button" data-copy-media>Kopijuoti nuorodą</button></div>
     <details class="media-viewer-advanced"><summary>Išplėstiniai duomenys</summary><dl>${fact("Surinkta", text(entry.firstDiscoveredAt || "—"))}${fact("Peržiūrėta", text(entry.reviewedAt || "—"))}${fact("Patikimumas", text(entry.confidenceLevel || entry.confidence || "—"))}</dl>${entry.visualEvidence ? `<p>${escapeHtml(entry.visualEvidence)}</p>` : ""}${entry.metadataEvidence || entry.judgeReason ? `<p>${escapeHtml(entry.metadataEvidence || entry.judgeReason)}</p>` : ""}</details>`
-  const title = exhibitionItem?.titleLt || displayCaption(entry)
-  const exhibitionDate = exhibitionItem?.dateDisplay
-    ? `<p class="media-viewer-exhibition-date">${escapeHtml(displayDate(exhibitionItem.dateDisplay))}</p>`
-    : ""
+  const title = text(exhibitionItem?.titleLt) || displayCaption(entry)
+  const exhibitionDate =
+    exhibitionItem?.dateDisplay || date
+      ? `<p class="media-viewer-exhibition-date">${escapeHtml(date)}</p>`
+      : ""
   const exhibitionDescription = exhibitionItem?.descriptionLt
     ? `<p class="media-viewer-exhibition-description">${escapeHtml(exhibitionItem.descriptionLt)}</p>`
     : ""
