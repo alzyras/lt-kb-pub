@@ -50,9 +50,15 @@ describe("evidence integrity", () => {
   test("uses the original quote before a shortened display excerpt", () => {
     const withExcerpt = validMarkdown.replace(
       "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.",
-      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio. Jogaila vadovavo kitai daliai.\n  citata_rodoma: |\n    kitai daliai.",
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio. Jogaila vadovavo kitai daliai.\n  citata_rodoma: |\n    Vytautas vedė kariuomenę prie",
     )
     assert.deepEqual(collectEvidenceIntegrityIssues(withExcerpt), [])
+    const citation = parseEvidenceSections(withExcerpt).get("Citatos")?.[0]
+    assert.ok(citation)
+    assert.equal(
+      evidenceCitationQuoteForClaim(citation, "Vytautas vedė kariuomenę.", "Objektas"),
+      "Vytautas vedė kariuomenę prie mūšio. Jogaila vadovavo kitai daliai.",
+    )
   })
 
   test("does not display an unrelated returned excerpt from stale original provenance", () => {

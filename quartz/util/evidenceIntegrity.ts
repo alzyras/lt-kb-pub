@@ -43,7 +43,10 @@ function cleanCitationDisplayText(value: string): string {
   const pageFurniture = value.search(
     /\n\s*(?:\d+\s+skyrius\b|L\s+I\s+E\s+T\s+U\s+V\s+O\s+S\b)/u,
   )
-  return (pageFurniture >= 0 ? value.slice(0, pageFurniture) : value).trim()
+  return (pageFurniture >= 0 ? value.slice(0, pageFurniture) : value)
+    .replace(/[\-\u00ad]\s*\n\s*(?=\p{L})/gu, "")
+    .replace(/\s+/gu, " ")
+    .trim()
 }
 
 function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
@@ -55,9 +58,9 @@ function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
 
 export function evidenceCitationQuote(entry: EvidenceEntry): string {
   return (
+    cleanCitationDisplayText(entry.fields.get("citata_originali")?.trim() || "") ||
     cleanCitationDisplayText(entry.fields.get("citata_rodoma")?.trim() || "") ||
     cleanCitationDisplayText(entry.fields.get("citata")?.trim() || "") ||
-    cleanCitationDisplayText(entry.fields.get("citata_originali")?.trim() || "") ||
     ""
   )
 }
@@ -186,13 +189,20 @@ export function evidenceCitationQuoteForClaim(
     entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || "",
   )
   const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
-  if (displayQuote) {
-    // The returned excerpt is the current anchored public text. Do not fall
-    // back to an older original block when that excerpt fails the claim guard:
-    // the two fields can come from different anchors after a merge.
-    return evidenceSupportsClaim(claimText, displayQuote, contextText) ? displayQuote : ""
+  const cleanedOriginalQuote = cleanCitationDisplayText(originalQuote)
+  if (!displayQuote) return cleanedOriginalQuote
+  if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
+    // Keep a meaningful original quotation when the curated display field is
+    // only a short fragment. A stale or unrelated display excerpt still fails
+    // the claim guard and is not replaced by the original block.
+    const isShortExcerpt =
+      cleanedOriginalQuote && cleanedOriginalQuote !== displayQuote && displayQuote.length < 180
+    if (isShortExcerpt && evidenceSupportsClaim(claimText, cleanedOriginalQuote, contextText)) {
+      return cleanedOriginalQuote
+    }
+    return displayQuote
   }
-  return cleanCitationDisplayText(originalQuote)
+  return ""
 }
 
 export function evidenceDocumentContext(markdown: string): string {

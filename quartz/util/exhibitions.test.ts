@@ -1,7 +1,7 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, readFileSync, readdirSync } from "node:fs"
+import { relative, resolve, sep } from "node:path"
 import { parseEvidenceSections } from "./citationFilter"
 import {
   evidenceCitationQuoteForClaim,
@@ -10,12 +10,30 @@ import {
   evidenceTextOverlapScore,
 } from "./evidenceIntegrity"
 import { exhibitionFeaturedCount, exhibitionItemCount, loadExhibitions } from "./exhibitions"
+import { createUniqueSlugMap, type FilePath, type FullSlug } from "./path"
+
+function markdownFiles(dir: string): string[] {
+  return readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const path = resolve(dir, entry.name)
+    if (entry.isDirectory()) return markdownFiles(path)
+    return entry.isFile() && entry.name.endsWith(".md") ? [path] : []
+  })
+}
+
+const sourceFiles = markdownFiles(resolve(process.cwd(), "objektai"))
+const sourceRelativePaths = sourceFiles.map(
+  (filePath) => relative(process.cwd(), filePath).replaceAll(sep, "/") as FilePath,
+)
+const sourceSlugMap = createUniqueSlugMap(sourceRelativePaths)
+const sourceFileBySlug = new Map(
+  sourceFiles.map((filePath, index) => [sourceSlugMap.get(sourceRelativePaths[index]), filePath]),
+)
 
 function sourcePath(url: string): string | undefined {
   const parsed = new URL(`http://exhibitions.test${url}`)
-  const relativePath = decodeURIComponent(parsed.pathname).replace(/^\//, "")
-  const path = join(process.cwd(), `${relativePath}.md`)
-  return existsSync(path) ? path : undefined
+  const slug = decodeURIComponent(parsed.pathname).replace(/^\//, "").replace(/\/$/, "")
+  const path = sourceFileBySlug.get(slug as FullSlug)
+  return path && existsSync(path) ? path : undefined
 }
 
 function normalized(value: string): string {

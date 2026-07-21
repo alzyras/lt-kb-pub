@@ -7,6 +7,7 @@ import {
   type EvidenceEntry,
 } from "./citationFilter"
 import type { MediaEntry } from "./objectMedia"
+import { createUniqueSlugMap, type FilePath } from "./path"
 
 export type ExhibitionClaimRef = {
   claimId: `t-${number}`
@@ -130,8 +131,13 @@ function citationEntries(sections: Map<string, EvidenceEntry[]>): EvidenceEntry[
 
 function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
   const root = resolve(process.cwd(), "objektai")
+  const filePaths = listMarkdownFiles(root)
+  const relativePaths = filePaths.map(
+    (filePath) => relative(process.cwd(), filePath).replaceAll(sep, "/") as FilePath,
+  )
+  const slugMap = createUniqueSlugMap(relativePaths)
   const registry = new Map<string, ClaimRegistryEntry>()
-  for (const filePath of listMarkdownFiles(root)) {
+  for (const [index, filePath] of filePaths.entries()) {
     const markdown = readFileSync(filePath, "utf8")
     const anchoredGlobalIds = new Map(
       [...markdown.matchAll(/<a id="claim-(t-\d+)"><\/a>\s*-\s*(t-\d+)/g)].map((match) => [
@@ -142,12 +148,8 @@ function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
     const sections = parseEvidenceSections(markdown)
     const citations = new Map(citationEntries(sections).map((entry) => [entry.id, entry]))
     const pageTitle = evidenceDocumentContext(markdown)
-    const urlPath = `/${relative(process.cwd(), filePath)
-      .replaceAll(sep, "/")
-      .replace(/\.md$/i, "")
-      .split("/")
-      .map(encodeURIComponent)
-      .join("/")}`
+    const slug = slugMap.get(relativePaths[index]) ?? relativePaths[index].replace(/\.md$/i, "")
+    const urlPath = `/${slug.split("/").map(encodeURIComponent).join("/")}`
     for (const claim of sections.get("Teiginiai") ?? []) {
       if (!claim.id.startsWith("t-")) continue
       const globalId = claim.fields.get("global_id")?.trim() || anchoredGlobalIds.get(claim.id)

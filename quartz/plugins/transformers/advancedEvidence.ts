@@ -678,9 +678,9 @@ function citationQuote(
     )
   }
   return (
+    entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ||
     entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() ||
     entry.fields.get("citata")?.trim() ||
-    entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ||
     ""
   )
 }
