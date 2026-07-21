@@ -74,8 +74,14 @@ document.addEventListener("nav", () => {
       targetId = hash
     }
 
-    const target = document.getElementById(targetId)
-    if (!target?.matches('[data-claim-row="true"]')) {
+    const anchor = document.getElementById(targetId)
+    const target =
+      anchor instanceof HTMLElement
+        ? anchor.matches('[data-claim-row="true"]')
+          ? anchor
+          : anchor.closest<HTMLElement>('[data-claim-row="true"]')
+        : null
+    if (!target) {
       return
     }
 

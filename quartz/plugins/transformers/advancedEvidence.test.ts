@@ -69,16 +69,17 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /<th>Kontekstas<\/th>/)
     assert.doesNotMatch(transformed, /<th>Pagrindžia<\/th>/)
     assert.doesNotMatch(transformed, /colspan="3"/)
-    assert.match(transformed, /id="claim-t-00042"/)
+    assert.match(transformed, /id="claim-t-001"/)
+    assert.match(transformed, /id="claim-t-00042" class="claim-global-anchor"/)
     assert.match(transformed, /href="#claim-t-00042"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-00042"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001"/)
     assert.match(transformed, /data-no-popover="true"/)
     assert.match(
       transformed,
       /data-citation-source-ids="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/,
     )
-    assert.match(transformed, /data-claim-detail="t-00042"/)
-    assert.match(transformed, /id="claim-evidence-t-00042"/)
+    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /id="claim-evidence-t-001"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
     assert.match(transformed, /claim-citation-contributor/)
     assert.match(transformed, /claim-citation-author/)
@@ -105,7 +106,7 @@ describe("AdvancedEvidence transformer", () => {
     const claimRowRegion = transformed.slice(claimRowStart, claimRowEnd)
     assert.doesNotMatch(claimRowRegion, /advanced-evidence-table/)
     assert.doesNotMatch(claimRowRegion, /claim_technical_fields/)
-    const claimDetailStart = transformed.indexOf('data-claim-detail="t-00042"')
+    const claimDetailStart = transformed.indexOf('data-claim-detail="t-001"')
     const claimDetailEnd = transformed.indexOf("</tr>", claimDetailStart)
     assert.ok(claimDetailStart >= 0)
     assert.ok(claimDetailEnd > claimDetailStart)
@@ -113,7 +114,9 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(claimDetailRegion, /claim-technical-audit/)
     assert.match(claimDetailRegion, /claim_technical_fields/)
     assert.match(transformed, /Teiginio sudarymas/)
-    assert.doesNotMatch(transformed, /Viešas ID|Originalus lokalus ID|Globalus ID/)
+    assert.match(transformed, /Globalus ID/)
+    assert.match(transformed, />t-00042<\/td>/)
+    assert.doesNotMatch(transformed, /Viešas ID|Originalus lokalus ID/)
     assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
     assert.match(transformed, /Paskutinis atnaujinimas/)
     assert.match(transformed, /Originalus šaltinio fragmentas/)
@@ -149,6 +152,35 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /data-citation-entry="true"/)
     assert.doesNotMatch(transformed, /data-citation-store="true"/)
     assert.doesNotMatch(transformed, /^## Šaltiniai ir įrodymai/m)
+  })
+
+  test("keeps local table ids while exposing preceding global anchors", () => {
+    const plugin = AdvancedEvidence()
+    const anchoredMarkdown = `# Objektas
+
+## Teiginiai
+<a id="claim-t-987654"></a>
+- t-001
+  teiginys: Globaliai susietas teiginys.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- c-001
+  šaltinis: Testinis šaltinis
+  citata_originali: |
+    Globaliai susieto teiginio citata.
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, anchoredMarkdown) ?? anchoredMarkdown,
+    )
+
+    assert.match(transformed, /id="claim-t-001" data-claim-row="true"/)
+    assert.match(transformed, /id="claim-t-987654" class="claim-global-anchor"/)
+    assert.match(transformed, /href="#claim-t-987654"/)
+    assert.match(transformed, /Globalus ID/)
+    assert.match(transformed, />t-987654<\/td>/)
   })
 
   test("does not infer citation author from source title when explicit author is absent", () => {
@@ -289,8 +321,8 @@ describe("AdvancedEvidence transformer", () => {
         missingCitationMarkdown,
     )
 
-    assert.match(transformed, /data-claim-detail="t-001-1"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-001-1"/)
+    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001"/)
     assert.match(transformed, /Citata nerasta\./)
     assert.doesNotMatch(transformed, /data-claim-citation-id="c-404"/)
   })
@@ -381,16 +413,17 @@ describe("AdvancedEvidence transformer", () => {
         duplicateLocalIdMarkdown,
     )
 
-    assert.match(transformed, /id="claim-t-111"/)
-    assert.match(transformed, /id="claim-t-222"/)
-    assert.match(transformed, /id="claim-evidence-t-111"/)
-    assert.match(transformed, /id="claim-evidence-t-222"/)
-    assert.match(transformed, /data-claim-detail="t-111"/)
-    assert.match(transformed, /data-claim-detail="t-222"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-111"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-222"/)
-    assert.match(transformed, /Nuoroda į teiginį t-001/)
-    assert.match(transformed, /Nuoroda į teiginį t-002/)
+    assert.match(transformed, /id="claim-t-001"/)
+    assert.match(transformed, /id="claim-t-001-2"/)
+    assert.match(transformed, /id="claim-t-111" class="claim-global-anchor"/)
+    assert.match(transformed, /id="claim-t-222" class="claim-global-anchor"/)
+    assert.match(transformed, /id="claim-evidence-t-001"/)
+    assert.match(transformed, /id="claim-evidence-t-001-2"/)
+    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /data-claim-detail="t-001-2"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001-2"/)
+    assert.equal((transformed.match(/Nuoroda į teiginį t-001/g) ?? []).length, 2)
   })
 
   test("keeps DOM ids unique when the same global claim is rendered twice", () => {
@@ -425,13 +458,15 @@ describe("AdvancedEvidence transformer", () => {
         duplicateGlobalIdMarkdown,
     )
 
-    assert.match(transformed, /id="claim-evidence-t-333"/)
-    assert.match(transformed, /id="claim-evidence-t-333-2"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-333"/)
-    assert.match(transformed, /aria-controls="claim-evidence-t-333-2"/)
-    assert.equal((transformed.match(/id="claim-evidence-t-333"/g) ?? []).length, 1)
-    assert.equal((transformed.match(/id="claim-evidence-t-333-2"/g) ?? []).length, 1)
-    assert.doesNotMatch(transformed, /Globalus ID/)
+    assert.match(transformed, /id="claim-t-333" class="claim-global-anchor"/)
+    assert.match(transformed, /id="claim-evidence-t-001"/)
+    assert.match(transformed, /id="claim-evidence-t-001-2"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001"/)
+    assert.match(transformed, /aria-controls="claim-evidence-t-001-2"/)
+    assert.equal((transformed.match(/id="claim-t-333" class="claim-global-anchor"/g) ?? []).length, 1)
+    assert.equal((transformed.match(/id="claim-evidence-t-001"/g) ?? []).length, 1)
+    assert.equal((transformed.match(/id="claim-evidence-t-001-2"/g) ?? []).length, 1)
+    assert.match(transformed, /Globalus ID/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {

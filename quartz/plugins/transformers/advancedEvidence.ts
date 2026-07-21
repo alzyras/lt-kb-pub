@@ -154,6 +154,7 @@ const ADVANCED_RESOLVE_STOPWORDS = new Set(["tame"])
 
 interface EvidenceEntry {
   id: string
+  globalId?: string
   fields: Map<string, string>
   lists: Map<string, string[]>
 }
@@ -199,13 +200,12 @@ function sanitizeClaimDomKey(raw: string): string {
     .replace(/^-+|-+$/g, "")
 }
 
-function claimPublicId(index: number): string {
-  return `t-${String(index + 1).padStart(3, "0")}`
+function claimGlobalId(entry: EvidenceEntry): string {
+  return entry.globalId?.trim() || entry.fields.get("global_id")?.trim() || ""
 }
 
 function claimDomKey(entry: EvidenceEntry, index: number, usedKeys: Set<string>): string {
-  const globalId = entry.fields.get("global_id")?.trim()
-  const raw = globalId || `${entry.id}-${index + 1}`
+  const raw = entry.id || `claim-${index + 1}`
   const base = sanitizeClaimDomKey(raw) || `claim-${index + 1}`
   let candidate = base
   if (usedKeys.has(candidate)) {
@@ -220,11 +220,11 @@ function claimDomKey(entry: EvidenceEntry, index: number, usedKeys: Set<string>)
   return candidate
 }
 
-function claimDeeplinkPill(localId: string, anchorId: string): string {
-  if (!anchorId) {
+function claimDeeplinkPill(localId: string, hrefAnchorId: string): string {
+  if (!hrefAnchorId) {
     return pill(localId)
   }
-  return `<a class="claim-deeplink" href="#${escapeHtml(anchorId)}" data-no-popover="true" aria-label="Nuoroda į teiginį ${escapeHtml(localId)}">${pill(localId)}</a>`
+  return `<a class="claim-deeplink" href="#${escapeHtml(hrefAnchorId)}" data-no-popover="true" aria-label="Nuoroda į teiginį ${escapeHtml(localId)}">${pill(localId)}</a>`
 }
 
 function markdownCell(text: string): string {
@@ -564,6 +564,13 @@ function parseEntries(sectionLines: string[]): EvidenceEntry[] {
     const end = entryEnd(sectionLines, idx)
     const entry = parseEntry(sectionLines.slice(idx, end))
     if (entry) {
+      for (let anchorIndex = idx - 1; anchorIndex >= 0; anchorIndex -= 1) {
+        const line = sectionLines[anchorIndex]
+        if (line.trim() === "") continue
+        const anchorMatch = line.match(/^\s*<a id="claim-(t-\d+)"><\/a>\s*$/i)
+        if (anchorMatch) entry.globalId = anchorMatch[1]
+        break
+      }
       entries.push(entry)
     }
     idx = end - 1
@@ -602,6 +609,7 @@ function renderClaimsSection(
     `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th></tr></thead><tbody>`,
   ]
   const usedDomKeys = new Set<string>()
+  const usedGlobalAnchorIds = new Set<string>()
   entries.forEach((entry, index) => {
     const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
@@ -617,20 +625,24 @@ function renderClaimsSection(
           .map(normalizeCitationSourceId),
       ),
     ]
-    const publicId = claimPublicId(index)
     const domKey = claimDomKey(entry, index, usedDomKeys)
-    const anchorId = `claim-${domKey}`
-    const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
-    const claimPill = claimDeeplinkPill(publicId, anchorId)
+    const localAnchorId = `claim-${domKey}`
+    const globalId = claimGlobalId(entry)
+    const globalAnchor = globalId && !usedGlobalAnchorIds.has(globalId)
+      ? `<a id="claim-${escapeHtml(globalId)}" class="claim-global-anchor" data-claim-global-anchor="true" aria-hidden="true"></a>`
+      : ""
+    if (globalId) usedGlobalAnchorIds.add(globalId)
+    const claimPill = claimDeeplinkPill(entry.id, globalId ? `claim-${globalId}` : localAnchorId)
     const detailId = `claim-evidence-${domKey}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
-    const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
+    const claimCell = `${globalAnchor}${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
+      `<tr id="${escapeHtml(localAnchorId)}" data-claim-row="true" data-global-claim-id="${escapeHtml(globalId)}" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(
         entry,
         detailId,
         domKey,
+        globalId,
         refs,
         citationsById,
         resolveIndex,
@@ -648,8 +660,15 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
+function claimAdvancedRows(
+  entry: EvidenceEntry,
+  globalId: string,
+  resolveIndex: SlugResolveIndex,
+): string[] {
   const rows: string[] = []
+  if (globalId) {
+    rows.push(`<tr>${advancedHeader("global_id")}<td>${advancedCell(globalId)}</td></tr>`)
+  }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
@@ -809,12 +828,13 @@ function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
   domKey: string,
+  globalId: string,
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
   documentContext: string,
 ): string {
-  const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, globalId, resolveIndex)
   const claimTechnicalHtml =
     claimTechnicalRows.length > 0
       ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Apie teiginį ir jo pagrindimą</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
