@@ -6140,6 +6140,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
+  citata_rodoma: "Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -6205,6 +6206,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-
     gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
     vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
+  citata_rodoma: "LDK tradicija, lietuvių ir jų kunigaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -8819,6 +8821,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     gaikščiai, siūlydamiesi jam tarnauti ir prašydami jį
     skirti jiems chaną, kad juos valdytų. Mat, daug buvo
     Ordos didžiųjų chanų, tarnaujančių jo rūmuose.
+  citata_rodoma: "Ir šis didysis kunigaikštis Aleksandras, vadinamas Vytautu, valdė didžiai gerbiamas ir šlovinamas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
@@ -9242,7 +9245,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
     vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
     mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
-  citata_rodoma: "LDK tradicija, lietuvių ir jų kuni-\ngaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo \nvardai visuomet kėlė atgimstančios lietuvių tautos sąmonę. Valstybės ir \ntautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-\nvos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-\nmingai pažymėtas Vytauto mirties 500 metų jubiliejus."
+  citata_rodoma: "LDK tradicija, lietuvių ir jų kunigaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę. Valstybės ir tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietuvos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus."
   statusas: verified
   atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas

@@ -380,7 +380,7 @@ Nenurodyta
     Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
-  citata_rodoma: "4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;\n10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_\n5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —\nKijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo\npinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti\niš savo kunigaikštijų)."
+  citata_rodoma: "4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.; 10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -467,6 +467,7 @@ Nenurodyta
     bai išskėstą, tai į apverstą raidę L. Šios pastarosios rūšies pi­
     nigai labai retai pasitaiko. Iš 27 variacijų, vos vienas egzem­
     pliorius turi tariamą raidę.
+  citata_rodoma: "Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390 m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino stulpai; arba vienoje pusėje su smaigaliu, nulenktu žemyn ir greta ieties viršuje iš kairės pusės kryžius, o antroje tie patys stulpai;"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -40,10 +40,11 @@ function citationText(entry: EvidenceEntry): string {
 }
 
 function cleanCitationDisplayText(value: string): string {
-  const pageFurniture = value.search(
+  const decodedLineBreaks = value.replaceAll("\\n", "\n")
+  const pageFurniture = decodedLineBreaks.search(
     /\n\s*(?:\d+\s+skyrius\b|L\s+I\s+E\s+T\s+U\s+V\s+O\s+S\b)/u,
   )
-  return (pageFurniture >= 0 ? value.slice(0, pageFurniture) : value)
+  return (pageFurniture >= 0 ? decodedLineBreaks.slice(0, pageFurniture) : decodedLineBreaks)
     .replace(/[\-\u00ad]\s*\n\s*(?=\p{L})/gu, "")
     .replace(/\s+/gu, " ")
     .trim()
@@ -184,6 +185,7 @@ export function evidenceCitationQuoteForClaim(
   entry: EvidenceEntry,
   claimText: string,
   contextText = "",
+  preferDisplayQuote = false,
 ): string {
   const displayQuote = cleanCitationDisplayText(
     entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || "",
@@ -192,6 +194,7 @@ export function evidenceCitationQuoteForClaim(
   const cleanedOriginalQuote = cleanCitationDisplayText(originalQuote)
   if (!displayQuote) return cleanedOriginalQuote
   if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
+    if (preferDisplayQuote) return displayQuote
     // Keep a meaningful original quotation when the curated display field is
     // only a short fragment. A stale or unrelated display excerpt still fails
     // the claim guard and is not replaced by the original block.

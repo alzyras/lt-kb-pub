@@ -20,6 +20,13 @@ function absolutePageUrl(baseUrl: string | undefined, slug: string): string {
   return new URL(`/${encodeURI(slug)}`, `https://${baseUrl ?? "example.com"}`).toString()
 }
 
+function redirectPage(destination: string, canonicalUrl: string): string {
+  const path = `/${encodeURI(destination)}/`
+  const safeCanonicalUrl = canonicalUrl.replaceAll("&", "&amp;").replaceAll('"', "&quot;")
+  const safePath = path.replaceAll("&", "&amp;").replaceAll('"', "&quot;")
+  return `<!doctype html><html lang="lt"><head><meta charset="utf-8"><title>Paroda perkelta</title><link rel="canonical" href="${safeCanonicalUrl}"><meta http-equiv="refresh" content="0; url=${safePath}"><script>location.replace(${JSON.stringify(path)}+location.search+location.hash)</script></head><body><a href="${safePath}">Atidaryti parodą</a></body></html>`
+}
+
 function structuredData(exhibition: ExhibitionManifest, pageUrl: string): string {
   const items = exhibition.sections.flatMap((section) =>
     section.items.filter((item) => item.featured),
@@ -76,6 +83,7 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
             title: exhibition.title,
             items: exhibition.sections.flatMap((section) =>
               section.items.map((item) => ({
+                exhibitionItemId: item.exhibitionItemId,
                 mediaId: item.mediaId,
                 titleLt: item.titleLt,
                 descriptionLt: item.descriptionLt || item.catalogDescriptionLt,
@@ -84,6 +92,7 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
                 sectionTitle: section.title,
                 sectionSlug: section.slug,
                 featured: item.featured,
+                relation: item.relation,
               })),
             ),
           },
@@ -150,6 +159,14 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
           exhibition_featured_count: exhibitionFeaturedCount(exhibition),
           updated: exhibition.updatedAt,
         })
+        for (const legacySlug of exhibition.legacySlugs ?? []) {
+          yield write({
+            ctx,
+            content: redirectPage(exhibition.slug, pageUrl),
+            slug: legacySlug as FullSlug,
+            ext: ".html",
+          })
+        }
       }
     },
     async *partialEmit() {},

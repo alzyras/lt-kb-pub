@@ -1,6 +1,10 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { relative, resolve, sep } from "node:path"
-import { evidenceDocumentContext, evidenceCitationQuoteForClaim } from "./evidenceIntegrity"
+import {
+  evidenceDocumentContext,
+  evidenceCitationQuoteForClaim,
+  evidenceSupportsClaim,
+} from "./evidenceIntegrity"
 import {
   CITATION_SECTION_TITLES,
   parseEvidenceSections,
@@ -23,6 +27,11 @@ export type ExhibitionClaim = ExhibitionClaimRef & {
   quote: string
 }
 
+export type ExhibitionItemRelation = {
+  kind: "variant_of" | "alternate_view_of" | "reproduction_of" | "same_event_as"
+  targetItemId: string
+}
+
 export type ExhibitionItem = {
   exhibitionItemId: string
   mediaId: string
@@ -33,6 +42,7 @@ export type ExhibitionItem = {
   creatorDisplay?: string
   dateDisplay?: string
   evidenceNoteLt?: string
+  relation?: ExhibitionItemRelation
   featured: boolean
   claimRefs: ExhibitionClaimRef[]
   claims: ExhibitionClaim[]
@@ -56,6 +66,7 @@ export type ExhibitionSection = {
 export type ExhibitionManifest = {
   exhibitionId: string
   slug: string
+  legacySlugs?: string[]
   title: string
   subtitle: string
   description: string
@@ -90,6 +101,15 @@ type ClaimRegistryEntry = {
   citations: Map<string, EvidenceEntry>
   pageTitle: string
   urlPath: string
+}
+
+function normalizedVerbatimExcerpt(value: string): string {
+  return value
+    .replaceAll("\\n", "\n")
+    .replace(/[-\u00ad]\s*\n\s*(?=\p{L})/gu, "")
+    .normalize("NFKC")
+    .replace(/\s+/gu, " ")
+    .trim()
 }
 
 function readJsonFile<T>(path: string): T | undefined {
@@ -163,18 +183,44 @@ function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
 function resolveClaim(
   ref: ExhibitionClaimRef,
   registry: Map<string, ClaimRegistryEntry>,
-): ExhibitionClaim | undefined {
+  context: string,
+): ExhibitionClaim {
   const entry = registry.get(ref.claimId)
-  if (!entry) return undefined
+  if (!entry) throw new Error(`${context}: global claim ${ref.claimId} was not found`)
   const citation = entry.citations.get(ref.citationId)
-  if (!citation) return undefined
+  if (!citation) {
+    throw new Error(`${context}: citation ${ref.citationId} was not found for ${ref.claimId}`)
+  }
   const text = entry.claim.fields.get("teiginys")?.trim() ?? ""
-  const quote = evidenceCitationQuoteForClaim(citation, text, entry.pageTitle)
+  const quote = evidenceCitationQuoteForClaim(citation, text, entry.pageTitle, true)
   const sourceTitle =
     citation.fields.get("šaltinis")?.trim() ||
     citation.fields.get("saltinis")?.trim() ||
     entry.pageTitle
-  if (!text || !quote || !sourceTitle) return undefined
+  if (!text || !quote || !sourceTitle) {
+    throw new Error(`${context}: ${ref.claimId}/${ref.citationId} has incomplete evidence`)
+  }
+  const forwardLinks =
+    entry.claim.lists.get("pagrindžia") ?? entry.claim.lists.get("pagrindzia") ?? []
+  if (!forwardLinks.includes(ref.citationId)) {
+    throw new Error(`${context}: ${ref.claimId} does not reference ${ref.citationId}`)
+  }
+  const backlinks = citation.lists.get("pagrindžia") ?? citation.lists.get("pagrindzia") ?? []
+  if (!backlinks.includes(entry.claim.id) && !backlinks.includes(ref.claimId)) {
+    throw new Error(`${context}: ${ref.citationId} does not backlink ${ref.claimId}`)
+  }
+  if (!evidenceSupportsClaim(text, quote, entry.pageTitle)) {
+    throw new Error(`${context}: ${ref.citationId} does not support ${ref.claimId}`)
+  }
+  const originalQuote = citation.fields.get("citata_originali")?.trim() ?? ""
+  const displayQuote = citation.fields.get("citata_rodoma")?.trim() ?? ""
+  if (
+    originalQuote &&
+    displayQuote &&
+    !normalizedVerbatimExcerpt(originalQuote).includes(normalizedVerbatimExcerpt(displayQuote))
+  ) {
+    throw new Error(`${context}: ${ref.citationId} display quote is not a verbatim excerpt`)
+  }
   return {
     ...ref,
     text,
@@ -186,44 +232,77 @@ function resolveClaim(
 
 function sourcePayload(path: string): ExhibitionSourceManifest[] {
   const payload = readJsonFile<ExhibitionsSource>(path)
-  return Array.isArray(payload?.exhibitions) ? payload.exhibitions : []
+  if (!Array.isArray(payload?.exhibitions)) {
+    throw new Error(`Exhibition source is missing or invalid: ${path}`)
+  }
+  return payload.exhibitions
 }
 
 function resolveExhibition(
   source: ExhibitionSourceManifest,
   mediaById: Map<string, MediaEntry>,
   claimsById: Map<string, ClaimRegistryEntry>,
-): ExhibitionManifest | undefined {
+): ExhibitionManifest {
   const hero = source.hero ?? mediaById.get(source.heroMediaId)
-  if (!hero) return undefined
+  if (!hero)
+    throw new Error(`${source.exhibitionId}: hero media ${source.heroMediaId} was not found`)
   const imageUrls: string[] = []
   const sections: ExhibitionSection[] = []
   for (const section of source.sections) {
     const navMedia = mediaById.get(section.navMediaId)
-    if (!navMedia) continue
-    const sectionClaims = (section.claimRefs ?? [])
-      .map((ref) => resolveClaim(ref, claimsById))
-      .filter((claim): claim is ExhibitionClaim => Boolean(claim))
-    const items = section.items
-      .map((item): ExhibitionItem | undefined => {
-        const media = item.media ?? mediaById.get(item.mediaId)
-        if (!media) return undefined
-        const imageUrl = media.sourceUrl || media.thumbUrl
-        if (imageUrl) imageUrls.push(imageUrl)
-        const claims = (item.claimRefs ?? [])
-          .map((ref) => resolveClaim(ref, claimsById))
-          .filter((claim): claim is ExhibitionClaim => Boolean(claim))
-        return { ...item, media, claims }
-      })
-      .filter((item): item is ExhibitionItem => Boolean(item))
+    if (!navMedia) {
+      throw new Error(
+        `${source.exhibitionId}/${section.sectionId}: navigation media ${section.navMediaId} was not found`,
+      )
+    }
+    const sectionClaims = (section.claimRefs ?? []).map((ref) =>
+      resolveClaim(ref, claimsById, `${source.exhibitionId}/${section.sectionId}`),
+    )
+    const items = section.items.map((item): ExhibitionItem => {
+      const media = item.media ?? mediaById.get(item.mediaId)
+      if (!media) {
+        throw new Error(
+          `${source.exhibitionId}/${section.sectionId}/${item.exhibitionItemId}: media ${item.mediaId} was not found`,
+        )
+      }
+      const imageUrl = media.sourceUrl || media.thumbUrl
+      if (imageUrl) imageUrls.push(imageUrl)
+      const claims = (item.claimRefs ?? []).map((ref) =>
+        resolveClaim(
+          ref,
+          claimsById,
+          `${source.exhibitionId}/${section.sectionId}/${item.exhibitionItemId}`,
+        ),
+      )
+      return { ...item, media, claims }
+    })
+    if (!items.some((item) => item.mediaId === section.navMediaId)) {
+      throw new Error(
+        `${source.exhibitionId}/${section.sectionId}: navigation media is not one of its exhibits`,
+      )
+    }
     sections.push({ ...section, navMedia, claims: sectionClaims, items })
   }
-  return {
+  const exhibition: ExhibitionManifest = {
     ...source,
     hero,
     sections,
     imageUrls: [...new Set(imageUrls)],
   }
+  const items = sections.flatMap((section) => section.items)
+  const itemIds = new Set(items.map((item) => item.exhibitionItemId))
+  for (const item of items) {
+    if (!item.relation) continue
+    if (item.relation.targetItemId === item.exhibitionItemId) {
+      throw new Error(`${source.exhibitionId}/${item.exhibitionItemId}: relation targets itself`)
+    }
+    if (!itemIds.has(item.relation.targetItemId)) {
+      throw new Error(
+        `${source.exhibitionId}/${item.exhibitionItemId}: relation target ${item.relation.targetItemId} was not found`,
+      )
+    }
+  }
+  return exhibition
 }
 
 export function loadExhibitions(): ExhibitionManifest[] {
@@ -231,9 +310,68 @@ export function loadExhibitions(): ExhibitionManifest[] {
   const claimsById = loadClaimRegistry()
   const sourcePath = resolve(process.cwd(), "quartz/static/exhibitionsSource.json")
   const supplementsPath = resolve(process.cwd(), "quartz/static/exhibitionSupplements.json")
-  return [...sourcePayload(sourcePath), ...sourcePayload(supplementsPath)]
-    .map((source) => resolveExhibition(source, mediaById, claimsById))
-    .filter((exhibition): exhibition is ExhibitionManifest => Boolean(exhibition))
+  const exhibitions = [...sourcePayload(sourcePath), ...sourcePayload(supplementsPath)].map(
+    (source) => resolveExhibition(source, mediaById, claimsById),
+  )
+  const seenExhibitionIds = new Set<string>()
+  const seenExhibitionSlugs = new Set<string>()
+  const seenMediaIds = new Set<string>()
+  const seenItemIds = new Set<string>()
+  const seenCanonicalUrls = new Set<string>()
+  const seenSourceUrls = new Set<string>()
+  const seenDescriptions = new Set<string>()
+  for (const exhibition of exhibitions) {
+    if (seenExhibitionIds.has(exhibition.exhibitionId)) {
+      throw new Error(`Duplicate exhibition ID: ${exhibition.exhibitionId}`)
+    }
+    seenExhibitionIds.add(exhibition.exhibitionId)
+    for (const slug of [exhibition.slug, ...(exhibition.legacySlugs ?? [])]) {
+      if (!slug.startsWith("parodos/") || slug.endsWith("/") || slug.includes("..")) {
+        throw new Error(`${exhibition.exhibitionId}: invalid exhibition slug ${slug}`)
+      }
+      if (seenExhibitionSlugs.has(slug)) {
+        throw new Error(`Duplicate exhibition slug or legacy slug: ${slug}`)
+      }
+      seenExhibitionSlugs.add(slug)
+    }
+    const seenClaimIds = new Set<string>()
+    for (const claim of exhibition.sections.flatMap((section) => [
+      ...section.claims,
+      ...section.items.flatMap((item) => item.claims),
+    ])) {
+      if (seenClaimIds.has(claim.claimId)) {
+        throw new Error(`${claim.claimId} repeats within ${exhibition.exhibitionId}`)
+      }
+      seenClaimIds.add(claim.claimId)
+    }
+    for (const item of exhibition.sections.flatMap((section) => section.items)) {
+      if (seenMediaIds.has(item.mediaId)) {
+        throw new Error(`Media ${item.mediaId} repeats across exhibitions`)
+      }
+      seenMediaIds.add(item.mediaId)
+      if (seenItemIds.has(item.exhibitionItemId)) {
+        throw new Error(`Duplicate exhibition item ID: ${item.exhibitionItemId}`)
+      }
+      seenItemIds.add(item.exhibitionItemId)
+      for (const [value, seen, label] of [
+        [item.media.canonicalUrl, seenCanonicalUrls, "canonical URL"],
+        [item.media.sourceUrl, seenSourceUrls, "source URL"],
+      ] as const) {
+        const normalizedValue = value?.trim()
+        if (!normalizedValue) continue
+        if (seen.has(normalizedValue)) {
+          throw new Error(`Duplicate exhibition ${label}: ${normalizedValue}`)
+        }
+        seen.add(normalizedValue)
+      }
+      const description = item.descriptionLt.trim().toLocaleLowerCase("lt").replace(/\s+/g, " ")
+      if (seenDescriptions.has(description)) {
+        throw new Error(`Duplicate exhibition description: ${item.exhibitionItemId}`)
+      }
+      seenDescriptions.add(description)
+    }
+  }
+  return exhibitions
 }
 
 export function exhibitionItemCount(exhibition: ExhibitionManifest): number {

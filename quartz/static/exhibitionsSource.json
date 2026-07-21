@@ -4,6 +4,7 @@
       "description": "Chronologinė skaitmeninė paroda seka, kaip kito Vytauto vaizdas: nuo jo laikų dokumentų, monetų ir heraldikos iki pomirtinių graviūrų, istorinių scenų ir XIX–XX a. pradžios portretų. Kiekvieno eksponato data čia žymi paties vaizdo ar daikto sukūrimo laiką, o ne vaizduojamo įvykio datą.",
       "exhibitionId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
       "heroMediaId": "m-f396e7f6eccd59dd3f8167fc",
+      "legacySlugs": ["parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo"],
       "sections": [
         {
           "items": [
@@ -40,22 +41,14 @@
               ]
             },
             {
-              "catalogDescriptionLt": "1399–1401 m. Smolensko kunigaikštystės monetos pusėse matomi Gediminaičių stulpai ir stilizuoti slaviški liūtai. Šis derinys kalba apie vietinės tradicijos ir Lietuvos politinės įtakos sandūrą. 1930 m. biografijos autorius Vytauto veiksmus Rytų žemėse ir stepėse vertino kaip stiprius smūgius priešininkams; tokį vertinimą paroda aiškiai palieka šaltiniui, o ne pateikia kaip neutralų faktą. Moneta leidžia kalbėti tiksliau: valdžia buvo reiškiama simboliais, vasaliniais ryšiais ir pinigų apyvarta. Ji materializuoja didelės, nevienalytės valstybės pakraštį, kuriame susitiko kelios politinės kalbos. Šis susitikimas išliko abiejose monetos pusėse.",
-              "descriptionLt": "1399–1401 m. Smolensko kunigaikštystės monetos pusėse susitinka Gediminaičių stulpai ir stilizuoti slaviški liūtai. Kartu jie pasakoja apie vietinės tradicijos ir Lietuvos politinės įtakos sandūrą. 1930 m. biografijoje Vytauto veiksmai Rytų žemėse ir stepėse vertinami kaip smūgiai priešininkams; moneta tą pasakojimą papildo apčiuopiamu ženklų, ryšių ir pinigų pasauliu. Didelės, nevienalytės valstybės pakraštys čia išliko abiejose mažo daikto pusėse.",
+              "catalogDescriptionLt": "1399–1401 m. Smolensko kunigaikštystės monetos pusėse matomi Gediminaičių stulpai ir stilizuoti liūtai. Šalia vienas kito atsidūrę ženklai liudija vietinės monetų tradicijos ir Lietuvos politinės įtakos sandūrą. Moneta nepasako visos Smolensko istorijos, tačiau apčiuopiamai parodo, kaip nevienalytėje Lietuvos Didžiosios Kunigaikštystės erdvėje valdžia buvo reiškiama vietos žmonėms atpažįstamais simboliais.",
+              "descriptionLt": "1399–1401 m. Smolensko kunigaikštystės monetos pusėse susitinka Gediminaičių stulpai ir stilizuoti liūtai. Mažame pinige greta išliko dvi ženklų tradicijos – vietinė ir su Lietuvos politine galia siejama. Tai atsargesnis ir iškalbingesnis valdžios liudijimas už vėliau sukurtą herojišką portretą.",
+              "evidenceNoteLt": "Data, atribucija ir ženklų apibūdinimas pateikiami pagal patvirtintus eksponato metaduomenis; šis eksponatas nesiejamas su bendromis citatomis apie Vytauto žygius Rytų žemėse.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-03-02",
               "featured": true,
               "mediaId": "m-e37b77405063bd3988215e2a",
               "titleLt": "Smolensko moneta ir valdžios pakraštys",
-              "claimRefs": [
-                {
-                  "claimId": "t-201465",
-                  "citationId": "c-184814"
-                },
-                {
-                  "claimId": "t-201469",
-                  "citationId": "c-184818"
-                }
-              ]
+              "claimRefs": []
             },
             {
               "catalogDescriptionLt": "Didelio formato 1404 m. archyvinis aktas užfiksuoja Vytauto įsipareigojimą Vladislovui Jogailai ir Lenkijos karūnai. Pergamentas, tankus lotyniškas tekstas ir antspaudų vietos primena, kad valdžia buvo kuriama ne vien karine jėga, bet ir raštiškais susitarimais. Zenonas Ivinskis Vytauto ir Jogailos bendrą veikimą nuo Astravo taikos iki 1429 m. apibūdino kaip trisdešimt šešerius metus trukusį bendradarbiavimą. Tai platesnis dviejų valdovų santykio kontekstas, o ne šio akto nuostatų paaiškinimas. Dokumento fizinė forma leidžia pamatyti, kaip politinis įsipareigojimas buvo įforminamas ir saugomas.",
@@ -101,42 +94,38 @@
         {
           "items": [
             {
-              "catalogDescriptionLt": "Vytauto 1413–1430 m. denaro fotografijoje matome abi apgadintos monetos puses: Gediminaičių stulpus, kryžių ir ietigalį. Tai vienas tiesiausių parodos valdžios ženklų, nes jo datavimas ir atribucija siejami su Vytauto valdymu bei Vilniaus monetų kalykla. Biografijoje teigiama, kad Vytauto laikais Lietuvoje buvo kalami čekų grašiai, o šalia jų kursavo lietuviški denarai. Moneta nepaverčia ekonomikos vien valdovo portretu; priešingai, ji rodo ženklų sistemą, kuri veikė be veido. Eksponatas primena, kad valstybės kasdienybę kūrė matas, sidabras, pasitikėjimas ir atpažįstama heraldika. Kiekviena detalė čia turi politinį svorį.",
-              "descriptionLt": "Vytauto 1413–1430 m. denaro fotografijoje matome abi apgadintos monetos puses: Gediminaičių stulpus, kryžių ir ietigalį. Tai vienas tiesiausių parodos valdžios ženklų, nes jo datavimas ir atribucija siejami su Vytauto valdymu bei Vilniaus monetų kalykla. Biografijoje teigiama, kad Vytauto laikais Lietuvoje buvo kalami čekų grašiai, o šalia jų kursavo lietuviški denarai. Moneta nepaverčia ekonomikos vien valdovo portretu; priešingai, ji rodo ženklų sistemą, kuri veikė be veido. Eksponatas primena, kad valstybės kasdienybę kūrė matas, sidabras, pasitikėjimas ir atpažįstama heraldika. Kiekviena detalė čia turi politinį svorį.",
+              "catalogDescriptionLt": "Vytauto valdymo laikotarpiui priskiriamo denaro fotografijoje matome abi apgadintos monetos puses: Gediminaičių stulpus, kryžių ir ietigalį. Monetų datavimas nėra visiškai vienodas skirtinguose tyrimuose, todėl paroda rodo kataloge pateiktą 1413–1430 m. intervalą, o ne apsimeta turinti tikslesnę datą. Iš visų ankstyvųjų eksponatų šis ypač aiškiai parodo valdžią be portreto – per kasdienėje apyvartoje atpažįstamus ženklus.",
+              "descriptionLt": "Vytauto valdymo laikotarpiui priskiriamo denaro fotografijoje matome abi apgadintos monetos puses: Gediminaičių stulpus, kryžių ir ietigalį. Lietuviški pinigėliai su šiais ženklais buvo kaldinami jau XIV a. pabaigoje; šis eksponatas kataloge datuojamas 1413–1430 m. Valdovo veido čia nėra – jo vietą užima ženklai, kuriuos žmonės galėjo atpažinti kasdienėje apyvartoje.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-03-03",
               "featured": true,
               "mediaId": "m-33231b1750795596affa8e7c",
               "titleLt": "Denaras su Gediminaičių stulpais",
               "claimRefs": [
                 {
-                  "claimId": "t-201470",
-                  "citationId": "c-184819"
-                }
-              ]
-            },
-            {
-              "catalogDescriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija skirta ne portretiniam panašumui, o valdovo atpažinimui tarptautinėje aplinkoje. Zenonas Ivinskis, aptardamas skirtingus metraščių skaičius, vertino, kad po Vytauto vėliava galėjo kovoti apie penkiasdešimt kunigaikščių, o daugiau kaip dvidešimt jų žuvo. Tai šaltinio autoriaus vertinimas, ne pačios vėliavos atvaizdo įrodoma detalė. Eksponatas parodo, kaip valdovo vardą kariuomenėje atstojo viešai atpažįstamas ženklas.",
-              "descriptionLt": "1416 m. herbyne užfiksuota Vytauto vėliava su Kęstutaičių raiteliu ir Lietuvos Vyčiu. Ryški raudonos ir auksinės spalvų kompozicija valdovą padarė atpažįstamą tarptautinėje aplinkoje. Zenonas Ivinskis, lygindamas metraščių skaičius, vertino, kad po Vytauto vėliava galėjo kovoti apie penkiasdešimt kunigaikščių, o daugiau kaip dvidešimt jų žuvo. Vėliava čia tampa ženklu, po kuriuo telkėsi žmonės ir politinė jėga.",
-              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-04",
-              "featured": true,
-              "mediaId": "m-c79692a260b79859579e757a",
-              "titleLt": "Vytauto vėliava Konstanco herbyne",
-              "claimRefs": [
-                {
-                  "claimId": "t-97105",
-                  "citationId": "c-91630",
-                  "label": "Kunigaikščiai po Vytauto vėliava",
+                  "claimId": "t-12319",
+                  "citationId": "c-14330",
+                  "label": "Ietigalis, kryžius ir Gediminaičių stulpai lietuviškuose pinigėliuose",
                   "role": "contextual"
                 }
               ]
             },
             {
-              "catalogDescriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas buvo skirtas atpažinti valdovą, tačiau kartu veikė kaip Lietuvos politinės bendruomenės ženklas. 1971 m. Lietuvos metraščio leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas. Ši atribucija pateikiama kaip leidinio komentaro interpretacija. Eksponate asmuo ir valstybė beveik susilieja: tikro veido nėra, tačiau raitelio figūra leidžia valdovo vardui veikti tarptautinėje ženklų kalboje.",
-              "descriptionLt": "Apie 1416–1417 m. heraldinėje knygoje Vytautui priskirtame herbe raitelis, skydas ir karūna sudaro tankią valdžios programą. Vaizdas atpažįsta valdovą ir kartu veikia kaip Lietuvos politinės bendruomenės ženklas. 1971 m. Lietuvos metraščio leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas. Raitelis čia tampa politiniu portretu – valdžia kalba per ženklą.",
+              "catalogDescriptionLt": "1416 m. Konstanco susirinkimo herbyne Vytautui priskirta vėliava su raitelio ženklu. Tai nėra valdovo portretas ar konkretaus mūšio dokumentas. Herbyno vaizdas parodo, kaip Lietuvos didysis kunigaikštis buvo atpažįstamas tarptautinėje heraldikos kalboje – per spalvą, raitelį ir valdovo vardui priskirtą ženklą.",
+              "descriptionLt": "1416 m. Konstanco susirinkimo herbyne Vytautui priskirta vėliava su raitelio ženklu. Ji skirta ne valdovo veidui atkurti, o jį atpažinti tarptautinėje heraldikos kalboje. Ryškiame lape Vytauto vardą atstoja politinis ženklas.",
+              "evidenceNoteLt": "Eksponatas pristatomas pagal herbyno datą ir metaduomenis. Bendras teiginys apie kitame mūšyje po Vytauto vėliava kovojusius kunigaikščius šiam konkrečiam vaizdui netaikomas.",
+              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-02-04",
+              "featured": true,
+              "mediaId": "m-c79692a260b79859579e757a",
+              "titleLt": "Vytauto vėliava Konstanco herbyne",
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "Vytauto antspaude valdovas pavaizduotas kaip šarvuotas raitelis. Tai tiesioginis jo kanceliarijos ir valdžios aplinkoje naudoto ženklo pėdsakas, nors antspaudo vaizdo negalima laikyti portretu iš natūros. Vėlesnėje Lietuvos heraldikos tradicijoje raitelio ženklas įsitvirtino kaip Vytis; 1971 m. Lietuvos metraščio leidimo komentare manoma, kad XIV a. antrojoje pusėje jis galėjo būti Vilniaus žemės arba kunigaikštystės herbas.",
+              "descriptionLt": "Vytauto antspaude valdovas pasirodo kaip šarvuotas raitelis. Smulkus atspaudas yra arčiau jo epochos negu vėlyvieji portretai, tačiau jis irgi kalba ne apie veido panašumą, o apie valdžią. Vėlesnėje Lietuvos heraldikos tradicijoje šis raitelio ženklas įsitvirtino kaip Vytis.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-03-04",
               "featured": true,
-              "mediaId": "m-0acd81586d8993830cbb991d",
-              "titleLt": "Vytis kaip asmeninis ir valstybės ženklas",
+              "mediaId": "m-ea1dbbe398596cd2dcc84124",
+              "titleLt": "Vytauto antspaudas ir raitelio ženklas",
               "claimRefs": [
                 {
                   "claimId": "t-186858",
@@ -163,41 +152,23 @@
               ]
             },
             {
-              "catalogDescriptionLt": "1443 m. rankraščio miniatiūra yra vienas ankstyviausių parodos vaizdų, tačiau ir ji sukurta jau po Vytauto mirties. Kompozicijoje valdovo atmintis siejama su raitelio ženklu ir ceremonine istorijos scena. Katalogo ir vėlesnės heraldinės tradicijos terminai šį ženklą vadina Pahonia arba Vyčiu, tačiau XV a. rankraščio vaizdo nereikėtų automatiškai aiškinti kaip šiandieninės tautinės heraldikos deklaracijos. Ji neatsako, kaip Vytautas iš tiesų atrodė, bet rodo, kaip greitai jo asmuo tapo politinės ir dinastinės atminties dalimi. 1930 m. biografijoje jo mirtis aprašoma kaip katalikiškai pasirengusio valdovo išėjimas, po kurio kūnas aštuonias dienas rodytas visuomenei. Miniatiūra leidžia pradėti pasakojimą nuo paradokso: pirmieji vaizdai jau yra pomirtinė reprezentacija. Šis paradoksas lydės visą tolesnę parodą.",
-              "descriptionLt": "1443 m. rankraščio miniatiūra yra vienas ankstyviausių parodos vaizdų – ir vaizdas, sukurtas jau po Vytauto mirties. Raitelio ženklas, ceremoninė scena ir valdovo figūra susijungia į politinės atminties paveikslą. Katalogo ir vėlesnės heraldinės tradicijos terminai šį ženklą vadina Pahonia arba Vyčiu, tačiau XV a. vaizdą verta matyti jo paties laike, ne perkelti į šiandienos tautinės heraldikos schemas. Miniatiūra neatskleidžia tikro Vytauto veido; ji parodo, kaip greitai jo vardas tapo dinastinės ir valstybės atminties dalimi. 1930 m. biografijoje jo mirtis aprašoma kaip katalikiškai pasirengusio valdovo išėjimas, po kurio kūnas aštuonias dienas rodytas visuomenei. Pirmieji Vytauto vaizdai parodo parodos paradoksą: atmintis pradėjo kurti jo veidą jau po mirties.",
+              "catalogDescriptionLt": "1443 m. rankraščio miniatiūra yra vienas ankstyviausių parodos vaizdų, tačiau sukurta jau po Vytauto mirties. Ceremoninė scena ir raitelio ženklas, šiandien atpažįstamas kaip Vyčio tradicijos dalis, valdovo atmintį susieja su politine bei dinastine reprezentacija. Miniatiūra neatskleidžia tikro Vytauto veido: ji rodo, kaip XV a. viduryje jo vardas jau buvo paverstas matomu istorijos pasakojimu.",
+              "descriptionLt": "1443 m. rankraščio miniatiūra sukurta jau po Vytauto mirties. Ceremoninė scena ir raitelio ženklas, šiandien atpažįstamas kaip Vyčio tradicijos dalis, įrašo valdovą į politinę bei dinastinę atmintį. Tai ne portretas iš natūros, o ankstyvas bandymas suteikti istoriniam vardui matomą pavidalą.",
+              "evidenceNoteLt": "Miniatiūros data ir vaizdo apibūdinimas pateikiami pagal patvirtintus metaduomenis. Vėlesnis pasakojimas apie Vytauto laidotuves šiam konkrečiam vaizdui netaikomas.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-04",
               "featured": true,
               "mediaId": "m-f396e7f6eccd59dd3f8167fc",
               "titleLt": "Vytautas 1443 metų rankraščio pasaulyje",
-              "claimRefs": [
-                {
-                  "claimId": "t-201468",
-                  "citationId": "c-184817"
-                }
-              ]
+              "claimRefs": []
             }
           ],
           "sectionId": "vyt-zenklas-vaizdu-1413-1443",
           "slug": "zenklas-tampa-vaizdu-1413-1443",
           "title": "Ženklas tampa vaizdu · 1413–1443",
           "lead": "Denarai, vėliavos ir herbynai valdovą pristatė per politinius ženklus. 1443 m. rankraštinė scena jau rodo figūrą, tačiau ji sukurta po Vytauto mirties ir nėra portretas iš natūros.",
-          "evidenceNoteLt": "Vytautas čia rodomas kaip Lietuvos didysis kunigaikštis ir Lietuvos valstybingumo figūra. Jo valdžios erdvė siekė ir Kijevo bei rusėnų žemių, todėl šis atminimas šiandien perskaitomas ir Baltarusijos bei Ukrainos istorijose. Tai bendros Lietuvos Didžiosios Kunigaikštystės istorijos pėdsakas, o ne teiginys, kad Vytautas buvo šiuolaikinės Ukrainos ar Baltarusijos valdovas.",
           "navMediaId": "m-f396e7f6eccd59dd3f8167fc",
           "navImagePosition": "62% 54%",
-          "claimRefs": [
-            {
-              "claimId": "t-100033",
-              "citationId": "c-93964",
-              "label": "Vytautas Kijevo erdvėje",
-              "role": "contextual"
-            },
-            {
-              "claimId": "t-187872",
-              "citationId": "c-170851",
-              "label": "Bendra istorinės Lietuvos paveldo erdvė",
-              "role": "contextual"
-            }
-          ]
+          "claimRefs": []
         },
         {
           "items": [
@@ -216,7 +187,11 @@
               "titleLt": "Guagnini tradicijos tęsinys",
               "descriptionLt": "1611 m. atvaizdas tęsia Alessandro Guagnini ikonografinę tradiciją. Spausdintas portretas čia veikia kaip atminties mechanizmas: vienas valdovo tipas kartojamas, keliauja per knygas ir tampa vis lengviau atpažįstamas.",
               "catalogDescriptionLt": "1611 m. atvaizdas tęsia Alessandro Guagnini ikonografinę tradiciją. Jis rodo, kaip spausdintas portretas padėjo kartoti ir įtvirtinti atpažįstamą Vytauto tipą.",
-              "featured": true,
+              "featured": false,
+              "relation": {
+                "kind": "variant_of",
+                "targetItemId": "hist-pomirtinis-01"
+              },
               "claimRefs": []
             },
             {
@@ -294,6 +269,28 @@
         {
           "items": [
             {
+              "exhibitionItemId": "hist-katalogas-07",
+              "mediaId": "m-bd5ab71ba61450749fdfcce7",
+              "titleLt": "Lietuvos herojus itališkame leidinyje, 1831",
+              "descriptionLt": "1831 m. Florencijoje išleistoje Bernardo Zaydlerio Lenkijos istorijoje Vytautas pristatytas itališkam skaitytojui. Po profiliu įrašytas vardas „Vitoldo“ ir žodžiai „Eroe della Lituania“ – Lietuvos herojus. Šis nedidelis spaudinys parodo, kad XIX a. pradžioje Vytauto atminimas veikė ne tik vietinėje tradicijoje: Lietuvos valdovo vardas keliavo per kitų šalių istorinius leidinius.",
+              "catalogDescriptionLt": "1831 m. Florencijoje išleistoje Bernardo Zaydlerio Lenkijos istorijoje po Vytauto profiliu įrašyta „Vitoldo“ ir „Eroe della Lituania“ – Lietuvos herojus. Spaudinys liudija, kaip Lietuvos valdovo vardas XIX a. pradžioje buvo pristatomas tarptautinei auditorijai.",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "1831 m.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "hist-katalogas-01",
+              "mediaId": "m-a6684ef6e82e8375a5efb21e",
+              "titleLt": "Słavieckio valdovas, 1831–1841",
+              "descriptionLt": "Vincento Słavieckio 1831–1841 m. piešinyje Vytautas rodomas visu ūgiu, su kalaviju ir karūna šalia. Tikslesnių metų šaltinis nenurodo, todėl paliekamas visas datos intervalas. Portretas gerai parodo romantizmo vaizduotę: istorinis Lietuvos valdovas paverčiamas teatrališka, lengvai perskaitoma didvyrio figūra.",
+              "catalogDescriptionLt": "Vincento Słavieckio piešinys datuojamas 1831–1841 m. Jame Vytautas rodomas visu ūgiu, su kalaviju ir karūna šalia – kaip romantizmo epochos sukurtas Lietuvos valdovo didvyrio tipas, o ne autentiškas XV a. portretas.",
+              "creatorDisplay": "Vincentas Słavieckis",
+              "dateDisplay": "1831–1841 m.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
               "exhibitionItemId": "hist-veidas-02",
               "mediaId": "m-35077b2615b9697b59f18d18",
               "titleLt": "Portretinė graviūra, 1837–1838",
@@ -312,12 +309,27 @@
               "claimRefs": []
             },
             {
+              "exhibitionItemId": "hist-katalogas-05",
+              "mediaId": "m-b439b9ea85a1a40d2d56519f",
+              "titleLt": "Dmochowskio Vytautas, 1848",
+              "descriptionLt": "Vincento Dmochowskio 1848 m. portrete šarvuotas ir karūnuotas Vytautas įkomponuotas į ovalų rėmą. Po dviejų dešimtmečių nuo romantizmo pradžios valdovo tipas jau atrodo nusistovėjęs: istorinį autoritetą kuria ne tik veidas, bet ir mantija, valdžios lazda bei reprezentacinė poza.",
+              "catalogDescriptionLt": "Vincento Dmochowskio 1848 m. portretas rodo šarvuotą ir karūnuotą Vytautą ovaliame rėme. Valdovo autoritetą čia kuria XIX a. reprezentacijos priemonės – mantija, valdžios lazda ir iškilminga poza.",
+              "creatorDisplay": "Vincentas Dmochowskis",
+              "dateDisplay": "1848 m.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
               "exhibitionItemId": "hist-veidas-04",
               "mediaId": "m-07b98ddb6657ef599a10a45d",
               "titleLt": "Dmochowskio portretas, 1854",
               "descriptionLt": "Vincento Dmochowskio 1854 m. portretas kuria orų istorinį valdovą. Santūri poza ir iškilminga laikysena rodo XIX a. meninį atsaką į Vytauto atmintį.",
               "catalogDescriptionLt": "Vincento Dmochowskio 1854 m. portretas kuria orų istorinį valdovą. Kūrinys pateikiamas kaip XIX a. meninis atsakas į Vytauto atmintį.",
-              "featured": true,
+              "featured": false,
+              "relation": {
+                "kind": "variant_of",
+                "targetItemId": "hist-katalogas-05"
+              },
               "claimRefs": []
             },
             {
@@ -335,14 +347,14 @@
               "titleLt": "Ziankievičiaus Vytautas",
               "descriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Čia dailė kuria autoritetingą valdovo figūrą ir paverčia istoriją matomu pasakojimu.",
               "catalogDescriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Jo vertė parodoje yra ikonografinė, ne dokumentinė.",
-              "featured": true,
+              "featured": false,
               "claimRefs": []
             }
           ],
           "sectionId": "vyt-romantizmo-portretai-1837-1870",
           "slug": "romantizmo-portretai-1837-1870",
-          "title": "Romantizmo portretai · 1837–1870",
-          "lead": "XIX a. viduryje Vytauto veidų sparčiai daugėjo. Graviūros ir tapyba kūrė iškilmingą, atpažįstamą valdovą, nors nė vienas iš šių autorių negalėjo remtis gyvu modeliu.",
+          "title": "Romantizmo portretai · 1831–1870",
+          "lead": "XIX a. Vytauto veidų sparčiai daugėjo ir jie keliavo per skirtingų šalių leidinius. Graviūros bei tapyba kūrė iškilmingą, atpažįstamą Lietuvos valdovą, nors nė vienas šių autorių negalėjo remtis gyvu modeliu.",
           "navMediaId": "m-d40580df0a4d385cdf5d7d00",
           "navImagePosition": "50% 22%",
           "evidenceNoteLt": "Bendrame teiginių korpuse nėra tiesioginės citatos apie šių XIX a. Vytauto portretų sukūrimą. Autoriai, datos ir kūrinių pavadinimai pateikiami iš patvirtintų galerijos metaduomenų, o vaizdų interpretacija aiškiai žymima kaip parodos pasakojimas.",
@@ -366,11 +378,15 @@
               "descriptionLt": "1885 m. kūrinys grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms ir kiek ilgai vienas Vytauto veidas galėjo gyvuoti.",
               "catalogDescriptionLt": "1885 m. kūrinys sąmoningai grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms.",
               "featured": true,
+              "relation": {
+                "kind": "reproduction_of",
+                "targetItemId": "hist-pomirtinis-01"
+              },
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu – kaip karinis lyderis, kurio tapatybę pirmiausia nusako ginklas. Šis vaizdinys dera su biografijos teiginiu, kad valdovas nuo jaunystės domėjosi karyba, ginklais ir Vakarų Europos karo naujovėmis. Vis dėlto iliustracija liudija ne XV a. aprangos tikslumą, o XX a. pradžios poreikį turėti aiškų tautos karžygio paveikslą. Todėl eksponatas padeda matyti, kaip šaltinio sakinys apie pomėgius vėliau virto ryškia, lengvai skaitoma herojaus ikonografija ir paplito už akademinės istorijos ribų. Jos poveikis tebėra atpažįstamas ir šiandien.",
-              "descriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu – kaip karinis lyderis, kurio tapatybę pirmiausia nusako ginklas. Šis vaizdinys dera su biografijos teiginiu, kad valdovas nuo jaunystės domėjosi karyba, ginklais ir Vakarų Europos karo naujovėmis. XX a. pradžioje istorinis pasakojimas čia virsta ryškiu tautos karžygio paveikslu: ginklas tampa trumpiausiu būdu pasakyti, kas yra Vytautas.",
+              "catalogDescriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu – kaip karinis lyderis, kurio tapatybę pirmiausia nusako ginklas. Iliustracija nėra XV a. aprangos ar valdovo išvaizdos liudijimas. Ji rodo XX a. pradžios poreikį turėti aiškų, lengvai atpažįstamą Lietuvos istorijos didvyrio paveikslą, kurį netrukus perims nepriklausomos valstybės atminties kultūra.",
+              "descriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu. Šis karys nėra XV a. portretas – tai XX a. pradžios vaizduotės sukurtas Lietuvos istorijos didvyris. Ginklas ir skydas leidžia valdovo vaidmenį perskaityti akimirksniu, o būtent tokį ryškų tipą netrukus perims nepriklausomos Lietuvos atminties kultūra.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-03",
               "featured": true,
               "mediaId": "m-c6a643bef80f021679128f09",
@@ -381,44 +397,25 @@
               "exhibitionItemId": "hist-katalogas-08",
               "mediaId": "m-d0f45f8e764022d84712e3d2",
               "titleLt": "XVIII amžiaus portreto variantas",
-              "descriptionLt": "Kitas XVIII a. Vytauto portreto variantas, paliktas lyginamajame kataloge.",
-              "catalogDescriptionLt": "Kitas XVIII a. Vytauto portreto variantas, paliktas lyginamajame kataloge.",
+              "descriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą.",
+              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą. Lyginant jį su pagrindiniu šio laikotarpio portretu matyti, kaip ta pati valdovo idėja buvo kartojama keičiant aprangą, laikyseną ir aplinką.",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "XVIII a.",
               "featured": false,
-              "claimRefs": []
-            },
-            {
-              "exhibitionItemId": "hist-katalogas-07",
-              "mediaId": "m-bd5ab71ba61450749fdfcce7",
-              "titleLt": "Vytautas 1831 metais",
-              "descriptionLt": "1831 m. sukurtas Vytauto portretinis atvaizdas.",
-              "catalogDescriptionLt": "1831 m. sukurtas Vytauto portretinis atvaizdas.",
-              "featured": false,
-              "claimRefs": []
-            },
-            {
-              "exhibitionItemId": "hist-katalogas-01",
-              "mediaId": "m-a6684ef6e82e8375a5efb21e",
-              "titleLt": "Słavieckio piešinys",
-              "descriptionLt": "Vincento Słavieckio 1831–1841 m. Vytauto piešinys.",
-              "catalogDescriptionLt": "Vincento Słavieckio 1831–1841 m. Vytauto piešinys.",
-              "featured": false,
+              "relation": {
+                "kind": "variant_of",
+                "targetItemId": "hist-pomirtinis-03"
+              },
               "claimRefs": []
             },
             {
               "exhibitionItemId": "hist-katalogas-06",
               "mediaId": "m-ab0b3bb8379a2cf0c44289f8",
               "titleLt": "Tomaszewskio portretas",
-              "descriptionLt": "Alojzy Tomaszewskio XIX a. Vytauto portretas.",
-              "catalogDescriptionLt": "Alojzy Tomaszewskio XIX a. Vytauto portretas.",
-              "featured": false,
-              "claimRefs": []
-            },
-            {
-              "exhibitionItemId": "hist-katalogas-05",
-              "mediaId": "m-b439b9ea85a1a40d2d56519f",
-              "titleLt": "Dmochowskio portretas, 1848",
-              "descriptionLt": "Vincento Dmochowskio 1848 m. Vytauto portretas.",
-              "catalogDescriptionLt": "Vincento Dmochowskio 1848 m. Vytauto portretas.",
+              "descriptionLt": "Alojzy Tomaszewskio portretas buvo publikuotas 1837 m. leidinyje „Lwowianin“.",
+              "catalogDescriptionLt": "Alojzy Tomaszewskio portretas buvo publikuotas 1837 m. leidinyje „Lwowianin“. Katalogo techniniuose duomenyse pasitaiko ir apie 1840 m. data, todėl parodoje aiškiai įvardijama tai, ką patvirtina leidinio bibliografinė nuoroda.",
+              "creatorDisplay": "Alojzy Tomaszewskis",
+              "dateDisplay": "1837 m. publikuota",
               "featured": false,
               "claimRefs": []
             },
@@ -427,7 +424,9 @@
               "mediaId": "m-91da24b2fe281b6c2a89696a",
               "titleLt": "Lesserio istorinis piešinys",
               "descriptionLt": "Aleksandro Lesserio XIX a. istorinis Vytauto piešinys.",
-              "catalogDescriptionLt": "Aleksandro Lesserio XIX a. istorinis Vytauto piešinys.",
+              "catalogDescriptionLt": "Aleksandro Lesserio XIX a. piešinyje Vytautas sėdi tarp vėliavos ir heraldinių skydų. Šaltinis kūrinį datuoja plačiu 1830–1884 m. intervalu; šis netikslumas parodoje išsaugomas, o ne pakeičiamas išgalvotais metais.",
+              "creatorDisplay": "Aleksandras Lesseris",
+              "dateDisplay": "1830–1884 m. intervalas",
               "featured": false,
               "claimRefs": []
             },
@@ -435,8 +434,10 @@
               "exhibitionItemId": "hist-katalogas-03",
               "mediaId": "m-3cf550452aee94802aa495df",
               "titleLt": "XIX amžiaus portretas",
-              "descriptionLt": "XIX a. Vytauto portretas, saugantis dar vieną pomirtinės ikonografijos variantą.",
-              "catalogDescriptionLt": "XIX a. Vytauto portretas, saugantis dar vieną pomirtinės ikonografijos variantą.",
+              "descriptionLt": "Nežinomo autoriaus XIX a. Vytauto portretas.",
+              "catalogDescriptionLt": "Nežinomo autoriaus XIX a. graviūroje Vytautas rodomas karūnuotas, su šarvais, apsiaustu ir kalaviju. Tikslesnė data nenurodyta, todėl kūrinys lieka lyginamajame kataloge kaip plataus laikotarpio ikonografinis variantas.",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "XIX a.",
               "featured": false,
               "claimRefs": []
             },
@@ -445,7 +446,9 @@
               "mediaId": "m-a3e0336946b8605650d43434",
               "titleLt": "Žukovskio tradicijos reprodukcija",
               "descriptionLt": "XIX a. Rudolfo Žukovskio kūrinio reprodukcija.",
-              "catalogDescriptionLt": "XIX a. Rudolfo Žukovskio kūrinio reprodukcija.",
+              "catalogDescriptionLt": "Rudolfo Žukovskio XIX a. kūrinio reprodukcijoje Vytautas rodomas su šarvais, kalaviju ir heraldiniu skydu. Šaltinis tikslesnių metų nenurodo, todėl vaizdas naudojamas tik kaip dar vienas ilgai kartoto valdovo tipo pavyzdys.",
+              "creatorDisplay": "Rudolfas Žukovskis",
+              "dateDisplay": "XIX a.",
               "featured": false,
               "claimRefs": []
             }
@@ -456,21 +459,15 @@
           "lead": "XIX a. pabaigos ir XX a. pradžios kūriniai vis aiškiau pavertė Vytautą didvyriu ir karvedžiu. Čia pirmoji paroda sustoja – toliau šį vaizdą perima nepriklausoma Lietuva ir tarpukario kultas.",
           "navMediaId": "m-c0011d2677e2dcece9cf8f30",
           "navImagePosition": "50% 24%",
-          "claimRefs": [
-            {
-              "claimId": "t-201471",
-              "citationId": "c-21382",
-              "label": "Karyba ir Vakarų Europos karo naujovės",
-              "role": "contextual"
-            }
-          ]
+          "evidenceNoteLt": "1908 m. iliustracija interpretuojama kaip jos kūrimo epochos atminties vaizdas; iš jos nedaromos išvados apie tikrą Vytauto išvaizdą, aprangą ar asmeninius pomėgius.",
+          "claimRefs": []
         }
       ],
-      "slug": "parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo",
+      "slug": "parodos/vytautas-didysis-ikonografijos-raida",
       "subtitle": "Nuo valdovo ženklų iki modernaus tautos herojaus, 1392–1908",
-      "title": "Vytautas Didysis: vaizdo istorija",
-      "updatedAt": "2026-07-19"
+      "title": "Vytautas Didysis: ikonografijos raida",
+      "updatedAt": "2026-07-21"
     }
   ],
-  "schemaVersion": "2"
+  "schemaVersion": "3"
 }

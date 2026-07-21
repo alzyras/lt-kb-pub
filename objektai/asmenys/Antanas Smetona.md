@@ -1409,6 +1409,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
+  citata_rodoma: "Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

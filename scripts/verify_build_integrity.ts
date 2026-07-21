@@ -56,6 +56,7 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       string,
       {
         exhibitionId?: string
+        slug?: string
         items?: Array<{
           mediaId?: string
           descriptionLt?: string
@@ -65,15 +66,20 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       }
     >
   >("static/exhibitionMediaContext.json")
-  const expectedCounts: Record<string, number> = {
-    "vytautas-didysis-tarp-istorijos-ir-atvaizdo": 32,
-    "vytauto-atminties-kultas-tarpukariu": 20,
+  const exhibitionSourcePath = path.resolve("quartz/static/exhibitionsSource.json")
+  const exhibitionSource = JSON.parse(fs.readFileSync(exhibitionSourcePath, "utf8")) as {
+    exhibitions: Array<{
+      exhibitionId: string
+      slug: string
+      legacySlugs?: string[]
+      sections: Array<{ items: Array<{ featured?: boolean }> }>
+    }>
   }
-  const expectedFeaturedCounts: Record<string, number> = {
-    "vytautas-didysis-tarp-istorijos-ir-atvaizdo": 24,
-    "vytauto-atminties-kultas-tarpukariu": 18,
-  }
-  for (const [exhibitionId, expectedCount] of Object.entries(expectedCounts)) {
+  for (const exhibition of exhibitionSource.exhibitions) {
+    const exhibitionId = exhibition.exhibitionId
+    const sourceItems = exhibition.sections.flatMap((section) => section.items)
+    const expectedCount = sourceItems.length
+    const expectedFeaturedCount = sourceItems.filter((item) => item.featured !== false).length
     const context = contexts[exhibitionId]
     if (!context) {
       failures.push(`missing gallery context for ${exhibitionId}`)
@@ -83,6 +89,9 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       failures.push(
         `${exhibitionId} gallery context has ${context.items?.length ?? 0} items; expected ${expectedCount}`,
       )
+    }
+    if (context.slug !== exhibition.slug) {
+      failures.push(`${exhibitionId} gallery context has an outdated canonical slug`)
     }
     if (context.items?.some((item) => !item.mediaId || !item.descriptionLt)) {
       failures.push(`${exhibitionId} gallery context contains an incomplete item`)
@@ -95,15 +104,23 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       failures.push(`${exhibitionId} gallery context contains incomplete slideshow fields`)
     }
     const featuredCount = context.items?.filter((item) => item.featured).length ?? 0
-    if (featuredCount !== expectedFeaturedCounts[exhibitionId]) {
+    if (featuredCount !== expectedFeaturedCount) {
       failures.push(
-        `${exhibitionId} slideshow context has ${featuredCount} featured items; expected ${expectedFeaturedCounts[exhibitionId]}`,
+        `${exhibitionId} slideshow context has ${featuredCount} featured items; expected ${expectedFeaturedCount}`,
       )
     }
-    const pagePath = path.join(publicRoot, "parodos", exhibitionId, "index.html")
+    const pagePath = path.join(publicRoot, exhibition.slug, "index.html")
     const pageHtml = fs.existsSync(pagePath) ? fs.readFileSync(pagePath, "utf8") : ""
     if (!pageHtml.includes("data-exhibition-slideshow") || !pageHtml.includes("mode=slideshow")) {
       failures.push(`${exhibitionId} page is missing the slideshow launch link`)
+    }
+    for (const legacySlug of exhibition.legacySlugs ?? []) {
+      const redirectPath = path.join(publicRoot, legacySlug, "index.html")
+      const redirectHtml = fs.existsSync(redirectPath) ? fs.readFileSync(redirectPath, "utf8") : ""
+      const canonicalPath = `/${exhibition.slug}/`
+      if (!redirectHtml.includes('http-equiv="refresh"') || !redirectHtml.includes(canonicalPath)) {
+        failures.push(`${legacySlug} is missing its redirect to ${canonicalPath}`)
+      }
     }
   }
 }

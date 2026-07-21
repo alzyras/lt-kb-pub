@@ -48,7 +48,7 @@ function normalized(value: string): string {
 describe("exhibition manifest", () => {
   const exhibitions = loadExhibitions()
   const historical = exhibitions.find(
-    (entry) => entry.slug === "parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo",
+    (entry) => entry.exhibitionId === "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
   )
   const interwar = exhibitions.find(
     (entry) => entry.slug === "parodos/vytauto-atminties-kultas-tarpukariu",
@@ -57,15 +57,23 @@ describe("exhibition manifest", () => {
   test("keeps the two curated stories complete and distinct", () => {
     assert.ok(historical)
     assert.ok(interwar)
+    assert.equal(historical.title, "Vytautas Didysis: ikonografijos raida")
+    assert.equal(
+      historical.slug,
+      "parodos/vytautas-didysis-ikonografijos-raida",
+      "the exhibition must use its new canonical URL",
+    )
+    assert.deepEqual(historical.legacySlugs, [
+      "parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo",
+    ])
     assert.equal(historical.sections.length, 6)
     assert.equal(exhibitionItemCount(historical), 32)
     assert.equal(exhibitionFeaturedCount(historical), 24)
     assert.equal(interwar.sections.length, 5)
     assert.equal(exhibitionItemCount(interwar), 20)
-    // Paired views remain in the manifest and gallery sequence; the second
-    // Klaipėda frame stays in the main narrative because it adds a distinct
-    // view of the ceremony. Only the medal reverse and booklet page are catalog-only.
-    assert.equal(exhibitionFeaturedCount(interwar), 18)
+    // The second Klaipėda frame remains featured as a deliberately linked view
+    // of the same event. Undated variants and alternate object sides stay catalog-only.
+    assert.equal(exhibitionFeaturedCount(interwar), 15)
 
     const allItems = exhibitions.flatMap((exhibition) =>
       exhibition.sections.flatMap((section) => section.items),
@@ -116,7 +124,16 @@ describe("exhibition manifest", () => {
       assert.ok(!claimIds.includes(retiredClaimId), `${retiredClaimId} must not remain in interwar`)
     }
     assert.ok(claimIds.includes("t-77927"))
-    assert.ok(claimIds.includes("t-186370"))
+    assert.ok(claimIds.includes("t-176734"))
+    assert.ok(claimIds.includes("t-176642"))
+    assert.ok(!claimIds.includes("t-198300"))
+    assert.ok(!claimIds.includes("t-176638"))
+    assert.ok(!claimIds.includes("t-186370"))
+
+    const featured = items.filter((item) => item.featured)
+    for (const item of featured) {
+      assert.notEqual(item.dateDisplay, "Data nenurodyta", `${item.exhibitionItemId} is undated`)
+    }
 
     const medalSides = items.filter(
       (item) =>
@@ -127,6 +144,38 @@ describe("exhibition manifest", () => {
       "Jubiliejinio medalio aversas",
       "Jubiliejinio medalio reversas",
     ])
+    assert.deepEqual(items.find((item) => item.exhibitionItemId === "atm-kelione-03")?.relation, {
+      kind: "same_event_as",
+      targetItemId: "atm-kelione-02",
+    })
+    assert.deepEqual(
+      items.find((item) => item.exhibitionItemId === "atm-institucijos-04")?.relation,
+      { kind: "alternate_view_of", targetItemId: "atm-institucijos-03" },
+    )
+    assert.deepEqual(items.find((item) => item.exhibitionItemId === "atm-palikimas-02")?.relation, {
+      kind: "alternate_view_of",
+      targetItemId: "atm-palikimas-01",
+    })
+  })
+
+  test("uses trustworthy dates and explicit relations for historical portrait variants", () => {
+    assert.ok(historical)
+    const items = historical.sections.flatMap((section) => section.items)
+    const byId = new Map(items.map((item) => [item.exhibitionItemId, item]))
+    assert.equal(byId.get("hist-katalogas-07")?.dateDisplay, "1831 m.")
+    assert.equal(byId.get("hist-katalogas-01")?.dateDisplay, "1831–1841 m.")
+    assert.equal(byId.get("hist-katalogas-05")?.dateDisplay, "1848 m.")
+    assert.ok(byId.get("hist-katalogas-07")?.featured)
+    assert.ok(byId.get("hist-katalogas-01")?.featured)
+    assert.ok(byId.get("hist-katalogas-05")?.featured)
+    assert.deepEqual(byId.get("hist-karuna-04")?.relation, {
+      kind: "variant_of",
+      targetItemId: "hist-pomirtinis-01",
+    })
+    assert.deepEqual(byId.get("hist-veidas-03")?.relation, {
+      kind: "reproduction_of",
+      targetItemId: "hist-pomirtinis-01",
+    })
   })
 
   test("resolves every global claim and its exact supporting quotation", () => {
@@ -134,6 +183,11 @@ describe("exhibition manifest", () => {
       const seenSectionClaims = new Set<string>()
       const seenExhibitionClaims = new Set<string>()
       for (const section of exhibition.sections) {
+        assert.equal(
+          section.claims.length,
+          section.claimRefs.length,
+          `${section.sectionId} silently lost a global claim reference`,
+        )
         assert.ok(section.navMediaId)
         assert.ok(section.navMedia.sourceUrl || section.navMedia.thumbUrl)
         assert.ok(
@@ -145,6 +199,11 @@ describe("exhibition manifest", () => {
           seenSectionClaims.add(claim.claimId)
         }
         for (const item of section.items) {
+          assert.equal(
+            item.claims.length,
+            item.claimRefs.length,
+            `${item.exhibitionItemId} silently lost a global claim reference`,
+          )
           assert.equal(item.media.reviewStatus, "accepted")
           assert.ok(item.media.sourceUrl || item.media.thumbUrl)
           assert.ok(
@@ -209,6 +268,7 @@ describe("exhibition manifest", () => {
               sourceCitation,
               claim.text,
               evidenceDocumentContext(markdown),
+              true,
             ),
           )
           assert.ok(

@@ -514,6 +514,25 @@
   font-weight: 700;
 }
 
+.exhibition-item-relation {
+  margin: 0.75rem 0 1rem;
+  padding: 0.55rem 0.7rem;
+  border-left: 2px solid var(--exhibition-gold);
+  background: color-mix(in srgb, var(--exhibition-gold) 9%, transparent);
+  color: var(--gray);
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
+.exhibition-item-relation strong {
+  color: var(--darkgray);
+}
+
+.exhibition-item-relation a {
+  color: var(--secondary);
+  font-weight: 750;
+}
+
 .exhibition-narrative-label {
   margin-top: 1.1rem;
   color: var(--gray);
@@ -769,6 +788,17 @@
   color: var(--darkgray);
   font-size: 0.82rem;
   line-height: 1.55;
+}
+
+.exhibition-catalogue .exhibition-item-meta {
+  margin: 0.45rem 0 0.7rem;
+  color: var(--gray);
+  font-size: 0.72rem;
+}
+
+.exhibition-catalogue .exhibition-item-relation {
+  color: var(--gray);
+  font-size: 0.72rem;
 }
 
 .exhibition-footer {
