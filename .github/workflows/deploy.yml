@@ -29,8 +29,12 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Verify relation source integrity
+        run: npm run verify:relations
       - name: Build Quartz
         run: npx quartz build
+      - name: Verify rendered relations
+        run: npx tsx scripts/verify_rendered_relations.ts
       - name: Remove accidental root redirect artifact
         run: rm -f public/.html
       - name: Audit public build guardrails

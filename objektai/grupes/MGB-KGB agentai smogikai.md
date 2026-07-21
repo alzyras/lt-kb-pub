@@ -49,7 +49,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "MGB-KGB agentai smogikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "agentai smogikai: mention_match, thing, gap=8"
+  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group, gap=8"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MGB-KGB agentai smogikai\" parinktas kaip owner_note_path. Targetas \"agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:

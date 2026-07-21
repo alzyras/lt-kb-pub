@@ -524,4 +524,65 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /href="\/objektai\/asmenys\/Tame-\(Baigos-brolis\)"/)
     assert.match(transformed, /href="\/objektai\/asmenys\/Zygimantas"/)
   })
+
+  test("projects direct and claim relations into one deduplicated section with global claim links", () => {
+    const plugin = AdvancedEvidence()
+    const relationMarkdown = `# Baltarusiai
+
+## Teiginiai
+<a id="claim-t-187872"></a>
+- t-003
+  global_id: t-187872
+  teiginys: Baltarusiai buvo įtraukiami į Lietuvos istorijos pasakojimą.
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+
+## Ryšiai
+- Baltarusiai gyveno [[objektai/vietos/Polesė]]
+`
+
+    const transformed = plugin.textTransform?.(
+      {
+        allSlugs: [
+          "objektai/vietos/Lietuva",
+          "objektai/vietos/Polese",
+        ] as FullSlug[],
+        relationTargetMap: {
+          "vieta|lietuva": "objektai/vietos/Lietuva",
+        },
+      } as any,
+      relationMarkdown,
+    ) ?? relationMarkdown
+
+    assert.match(transformed, /^## Ryšiai/m)
+    assert.match(transformed, /Baltarusiai gyveno \[\[objektai\/vietos\/Polesė\]\]/)
+    assert.match(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
+    assert.match(transformed, /\[t-187872\]\(#claim-t-187872\)/)
+  })
+
+  test("generates Ryšiai when the source page has no manual section", () => {
+    const plugin = AdvancedEvidence()
+    const relationMarkdown = `# Baltarusiai
+
+## Teiginiai
+<a id="claim-t-187873"></a>
+- t-004
+  global_id: t-187873
+  teiginys: Baltarusiai minimi Lietuvos istorijoje.
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+`
+
+    const transformed = plugin.textTransform?.(
+      {
+        allSlugs: ["objektai/vietos/Lietuva"] as FullSlug[],
+        relationTargetMap: {
+          "vieta|lietuva": "objektai/vietos/Lietuva",
+        },
+      } as any,
+      relationMarkdown,
+    ) ?? relationMarkdown
+
+    assert.match(transformed, /## Ryšiai/)
+    assert.match(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
+    assert.match(transformed, /\[t-187873\]\(#claim-t-187873\)/)
+  })
 })

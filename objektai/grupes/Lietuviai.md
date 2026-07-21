@@ -15057,7 +15057,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Puolė Lietuviai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Leontijus Bennigsenas]], [[objektai/asmenys/Liudvikas iš Libencelės]], [[objektai/asmenys/Markvardas iš Revelingės]], [[objektai/grupes/Totoriai]]
 - Kariavo prieš: [[objektai/grupes/Anglų riteriai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/grupes/Vokiečiai]]
-- Rėmė Lietuviai: [[objektai/grupes/Draugija užsienio lietuviams remti]], [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]], [[objektai/asmenys/Šach Achmedas]]
+- Rėmė Lietuviai: [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]], [[objektai/asmenys/Šach Achmedas]]
 - Turėjo priklausinį: [[objektai/vietos/Poleksija]], [[objektai/grupes/Žemaičiai]]
 - Lietuviai valdė [[objektai/vietos/Žemaitija]]
 - Lietuviai keliavo į [[objektai/vietos/Argentina]], [[objektai/vietos/Australija]], [[objektai/vietos/Baltija]], [[objektai/vietos/Brazilija]], [[objektai/vietos/Kanada]], [[objektai/vietos/Urugvajus]], [[objektai/vietos/Venesuela]]

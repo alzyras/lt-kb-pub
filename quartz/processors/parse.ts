@@ -199,6 +199,7 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
       allSlugs: ctx.allSlugs,
       allFiles: ctx.allFiles,
       slugMap: ctx.slugMap,
+      relationTargetMap: ctx.relationTargetMap,
       incremental: ctx.incremental,
     }
 

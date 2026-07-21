@@ -27,7 +27,7 @@ Objektų skaičius: 27.
 
 ### Grupės
 - [[objektai/grupes/Birutės draugija]]
-- [[objektai/grupes/Draugija užsienio lietuviams remti]]
+- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/grupes/Filomatai ir filaretai]]
 - [[objektai/grupes/Lietuvių Dailės Draugija]]

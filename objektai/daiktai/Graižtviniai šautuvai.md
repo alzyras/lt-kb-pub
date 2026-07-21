@@ -58,7 +58,7 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Graižtviniai šautuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
+  ryšio_targeto_parinkimas: ""
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graižtviniai šautuvai\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -77,7 +77,7 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Graižtviniai šautuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
+  ryšio_targeto_parinkimas: ""
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graižtviniai šautuvai\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:

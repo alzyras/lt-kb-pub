@@ -7,6 +7,11 @@ import {
 } from "../../util/evidenceIntegrity"
 import { BuildCtx } from "../../util/ctx"
 import { FullSlug, simplifySlug, slugTag } from "../../util/path"
+import {
+  relationMapEntries,
+  relationTargetFromValue,
+  relationTargetLookupKeys,
+} from "../../util/relations"
 
 const TARGET_SECTIONS = new Set([
   "Teiginiai",
@@ -14,6 +19,7 @@ const TARGET_SECTIONS = new Set([
   "Citatos",
   "Šaltiniai ir įrodymai",
   "Bibliografiniai įrodymai",
+  "Ryšiai",
 ])
 const ADVANCED_KEYS = new Set([
   "teiginio_tipas",
@@ -292,31 +298,36 @@ function normalizeLabelKey(label: string): string {
 
 function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
   const index: SlugResolveIndex = new Map()
+  const add = (key: string, slug: FullSlug | null) => {
+    if (!key) return
+    const existing = index.get(key)
+    if (existing === undefined) {
+      index.set(key, slug)
+    } else if (existing !== slug) {
+      index.set(key, null)
+    }
+  }
   for (const rawSlug of (ctx.allSlugs ?? []) as FullSlug[]) {
     const basename = simplifySlug(rawSlug).split("/").filter(Boolean).at(-1)
     if (!basename) {
       continue
     }
-    const key = normalizeLabelKey(basename)
-    if (!key) {
-      continue
-    }
-    const existing = index.get(key)
-    if (existing === undefined) {
-      index.set(key, rawSlug)
-    } else if (existing !== rawSlug) {
-      index.set(key, null)
-    }
+    add(normalizeLabelKey(basename), rawSlug)
+    add(normalizeLabelKey(simplifySlug(rawSlug)), rawSlug)
+  }
+  for (const [key, slug] of relationMapEntries(ctx.relationTargetMap ?? {})) {
+    add(key, slug)
   }
   return index
 }
 
 function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): FullSlug | null {
-  const key = normalizeLabelKey(label)
-  if (!key || ADVANCED_RESOLVE_STOPWORDS.has(key)) {
-    return null
+  const keys = [...relationTargetLookupKeys(label), normalizeLabelKey(label)]
+  for (const key of [...new Set(keys)]) {
+    if (!key || ADVANCED_RESOLVE_STOPWORDS.has(key)) continue
+    if (resolveIndex.has(key)) return resolveIndex.get(key) ?? null
   }
-  return resolveIndex.get(key) ?? null
+  return null
 }
 
 function internalLinkHtml(href: string, label: string): string {
@@ -389,6 +400,114 @@ function renderLinkifiedAdvancedCell(text: string, resolveIndex: SlugResolveInde
   }
   out += renderPlainAdvancedChunk(text.slice(lastIndex), resolveIndex)
   return out
+}
+
+type RelationClaimReference = {
+  id: string
+  globalId: string
+  text: string
+  targetSlug: FullSlug
+  targetLabel: string
+}
+
+const RELATION_WIKILINK = /\[\[([^\]|#]+)(#[^\]|]+)?(?:\|([^\]]+))?\]\]/g
+
+function relationWikilinks(line: string, resolveIndex: SlugResolveIndex): Array<{
+  slug: FullSlug
+  label: string
+}> {
+  const links: Array<{ slug: FullSlug; label: string }> = []
+  for (const match of line.matchAll(RELATION_WIKILINK)) {
+    const rawTarget = match[1]?.trim() ?? ""
+    const slug = resolveCanonicalSlug(rawTarget, resolveIndex)
+    if (!slug) continue
+    links.push({
+      slug,
+      label: match[3]?.trim() || rawTarget.split("/").filter(Boolean).at(-1) || rawTarget,
+    })
+  }
+  for (const match of line.matchAll(/\]\(([^)#]+)(?:#[^)]*)?\)/g)) {
+    const rawTarget = match[1]?.trim() ?? ""
+    const slug = resolveCanonicalSlug(rawTarget, resolveIndex)
+    if (!slug) continue
+    links.push({
+      slug,
+      label: rawTarget.split("/").filter(Boolean).at(-1) || rawTarget,
+    })
+  }
+  return links
+}
+
+function relationClaimReferences(
+  claims: EvidenceEntry[],
+  resolveIndex: SlugResolveIndex,
+): Map<string, RelationClaimReference[]> {
+  const byTarget = new Map<string, RelationClaimReference[]>()
+  for (const claim of claims) {
+    const rawTarget = claim.fields.get("ryšio_targeto_parinkimas")?.trim() ?? ""
+    const targetLabel = relationTargetFromValue(rawTarget)
+    const targetSlug = resolveCanonicalSlug(rawTarget, resolveIndex)
+    if (!targetLabel || !targetSlug) continue
+    const reference: RelationClaimReference = {
+      id: claim.id,
+      globalId: claimGlobalId(claim),
+      text: splitClaimAndContext(claim).claim,
+      targetSlug,
+      targetLabel,
+    }
+    const key = simplifySlug(targetSlug)
+    const values = byTarget.get(key) ?? []
+    if (!values.some((value) => value.globalId === reference.globalId && value.id === reference.id)) {
+      values.push(reference)
+    }
+    byTarget.set(key, values)
+  }
+  return byTarget
+}
+
+function claimReferenceMarkdown(reference: RelationClaimReference): string {
+  const id = reference.globalId || reference.id
+  return `[${id}](#claim-${id})`
+}
+
+function renderRelationsSection(
+  sectionLines: string[],
+  claims: EvidenceEntry[],
+  resolveIndex: SlugResolveIndex,
+): string[] | null {
+  const directLines = sectionLines.filter((line) => line.trim() && relationWikilinks(line, resolveIndex).length > 0)
+  const directTargets = new Set<string>(
+    directLines.flatMap((line) => relationWikilinks(line, resolveIndex).map((link) => simplifySlug(link.slug))),
+  )
+  const claimsByTarget = relationClaimReferences(claims, resolveIndex)
+  const output = ["", ""]
+
+  for (const line of directLines) {
+    const targets = relationWikilinks(line, resolveIndex)
+    const references = [
+      ...new Map(
+        targets.flatMap((target) => claimsByTarget.get(simplifySlug(target.slug)) ?? []).map((reference) => [
+          `${reference.globalId}:${reference.id}`,
+          reference,
+        ]),
+      ).values(),
+    ]
+    const suffix = references.length
+      ? ` — teiginiai: ${references.map(claimReferenceMarkdown).join(", ")}`
+      : ""
+    output.push(`${line.trim()}${suffix}`)
+  }
+
+  for (const [targetKey, references] of claimsByTarget) {
+    if (directTargets.has(targetKey)) continue
+    const first = references[0]
+    const targetLink = `[[${first.targetSlug}|${first.targetLabel}]]`
+    const claimText = first.text ? ` — ${first.text}` : ""
+    const claimLinks = references.map(claimReferenceMarkdown).join(", ")
+    output.push(`- ${targetLink}${claimText} — teiginiai: ${claimLinks}`)
+  }
+
+  return output.length > 2 ? output : null
 }
 
 function lineIndent(line: string): number {
@@ -888,12 +1007,16 @@ function advancedRows(
 function renderStructuredSection(
   title: string,
   sectionLines: string[],
+  claims: EvidenceEntry[],
   resolveIndex: SlugResolveIndex,
   citationsById: CitationMap,
   documentContext: string,
 ): string[] | null {
   if (title === "Teiginiai") {
     return renderClaimsSection(sectionLines, resolveIndex, citationsById, documentContext)
+  }
+  if (title === "Ryšiai") {
+    return renderRelationsSection(sectionLines, claims, resolveIndex)
   }
   // Citation bodies are loaded from the claim that uses them. Keeping an
   // invisible duplicate store in every object page made large pages heavier
@@ -935,6 +1058,18 @@ function collectCitationEntries(lines: string[]): CitationMap {
     idx = end - 1
   }
   return citationsById
+}
+
+function findSectionLines(lines: string[], targetTitle: string): string[] | null {
+  for (let idx = 0; idx < lines.length; idx++) {
+    const heading = lines[idx].match(/^##\s+(.+?)\s*$/)
+    if (!heading || heading[1].trim() !== targetTitle) continue
+    const start = idx + 1
+    let end = start
+    while (end < lines.length && !lines[end].startsWith("## ")) end += 1
+    return lines.slice(start, end)
+  }
+  return null
 }
 
 function transformFallbackLines(lines: string[]): string[] {
@@ -1017,7 +1152,12 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
     const resolveIndex = buildSlugResolveIndex(ctx)
     const lines = src.replace(/^((?:---\n[\s\S]*?\n---\n)?\s*)#\s+.+(?:\n|$)/, "$1").split("\n")
     const citationsById = collectCitationEntries(lines)
+    const claimsSection = findSectionLines(lines, "Teiginiai")
+    const claims = claimsSection
+      ? parseEntries(claimsSection).filter((entry) => entry.id.startsWith("t-"))
+      : []
     const out: string[] = []
+    let sawRelationsSection = false
 
     for (let idx = 0; idx < lines.length; idx++) {
       const line = lines[idx]
@@ -1028,6 +1168,7 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       }
 
       const title = heading[1].trim()
+      if (title === "Ryšiai") sawRelationsSection = true
       const start = idx + 1
       let end = start
       while (end < lines.length && !lines[end].startsWith("## ")) {
@@ -1039,11 +1180,12 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       const structured = renderStructuredSection(
         title,
         sectionLines,
+        claims,
         resolveIndex,
         citationsById,
         documentContext,
       )
-      if (title === "Teiginiai") {
+      if (title === "Teiginiai" || title === "Ryšiai") {
         out.push(line)
       }
       if (structured) {
@@ -1052,6 +1194,11 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
         out.push(...transformFallbackLines(sectionLines))
       }
       idx = end - 1
+    }
+
+    if (!sawRelationsSection && claims.length > 0) {
+      const generated = renderRelationsSection([], claims, resolveIndex)
+      if (generated) out.push("", "## Ryšiai", ...generated)
     }
 
     return out.join("\n")

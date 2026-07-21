@@ -33,6 +33,24 @@ function htmlDecode(value: string): string {
     .replaceAll("&gt;", ">")
 }
 
+function renderedLocalClaimKey(localId: string, index: number, usedKeys: Set<string>): string {
+  const base =
+    localId
+      .trim()
+      .toLowerCase()
+      .replace(/[^a-z0-9_-]+/g, "-")
+      .replace(/^-+|-+$/g, "") || `claim-${index + 1}`
+  let candidate = base
+  if (usedKeys.has(candidate)) candidate = `${base}-${index + 1}`
+  let suffix = 2
+  while (usedKeys.has(candidate)) {
+    candidate = `${base}-${index + 1}-${suffix}`
+    suffix += 1
+  }
+  usedKeys.add(candidate)
+  return candidate
+}
+
 function claimAssetHtml(pageHtml: string, domKey: string): string | null {
   const escapedKey = domKey.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
   const match = pageHtml.match(
@@ -127,21 +145,28 @@ for (const file of sourceFiles) {
   const pageHtml = fs.readFileSync(htmlPath, "utf8")
   const context = evidenceDocumentContext(markdown)
   const renderedKeys = new Set<string>()
+  const renderedLocalKeys = new Set<string>()
   const hiddenGlobals = hiddenClaimGlobalIds(markdown)
 
   claims.forEach((claim, index) => {
     const globalId = claim.fields.get("global_id")?.trim() || hiddenGlobals[index]
-    const domKey = (globalId || `${claim.id}-${index + 1}`).toLowerCase()
-    if (renderedKeys.has(domKey)) {
-      issues.push({ file: relativePath, claim: claim.id, reason: `Duplicate rendered claim key ${domKey}` })
+    const globalKey = (globalId || `${claim.id}-${index + 1}`).toLowerCase()
+    if (renderedKeys.has(globalKey)) {
+      issues.push({ file: relativePath, claim: claim.id, reason: `Duplicate rendered claim key ${globalKey}` })
     }
-    renderedKeys.add(domKey)
+    renderedKeys.add(globalKey)
     const refs = claim.lists.get("pagrindžia") ?? claim.lists.get("pagrindzia") ?? []
     if (refs.length === 0) return
-    const renderedDomKey = `${claim.id}-${index + 1}`.toLowerCase()
+    // The rendered detail row uses the deterministic local DOM key produced by
+    // AdvancedEvidence (the local claim id, with a suffix only when that id is
+    // repeated on the same page). The global id is an anchor/deep-link, not the
+    // detail asset key.
+    const renderedDomKey = renderedLocalClaimKey(claim.id, index, renderedLocalKeys)
     const assetHtml =
       claimAssetHtml(pageHtml, renderedDomKey) ??
-      (domKey === renderedDomKey ? null : claimAssetHtml(pageHtml, domKey))
+      (globalId && globalId.toLowerCase() !== renderedDomKey
+        ? claimAssetHtml(pageHtml, globalId.toLowerCase())
+        : null)
     if (!assetHtml) {
       issues.push({
         file: relativePath,

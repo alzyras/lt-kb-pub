@@ -21,6 +21,7 @@ import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
 import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
+import { buildRelationTargetMap, readRelationDocuments } from "./util/relations"
 
 type ContentMap = Map<
   FilePath,
@@ -50,6 +51,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     allSlugs: [],
     allFiles: [],
     slugMap: {},
+    relationTargetMap: {},
     incremental: false,
   }
 
@@ -83,6 +85,9 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const slugMap = createUniqueSlugMap(allFiles as FilePath[])
   ctx.slugMap = Object.fromEntries(slugMap)
   ctx.allSlugs = allFiles.map((fp) => slugMap.get(fp as FilePath)!)
+  ctx.relationTargetMap = buildRelationTargetMap(
+    readRelationDocuments(argv.directory, ctx.allFiles, ctx.slugMap),
+  )
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
@@ -260,6 +265,9 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   const slugMap = createUniqueSlugMap(ctx.allFiles)
   ctx.slugMap = Object.fromEntries(slugMap)
   ctx.allSlugs = ctx.allFiles.map((fp) => slugMap.get(fp)!)
+  ctx.relationTargetMap = buildRelationTargetMap(
+    readRelationDocuments(ctx.argv.directory, ctx.allFiles, ctx.slugMap),
+  )
   let processedFiles = filterContent(
     ctx,
     Array.from(contentMap.values())

@@ -45,7 +45,7 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Zigmanto Kęstutaičio 1434 m. privilegija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "pravoslavai: mention_match, thing, gap=60"
+  ryšio_targeto_parinkimas: "Pravoslavai: mention_match, group, gap=60"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmanto Kęstutaičio 1434 m. privilegija\" parinktas kaip owner_note_path. Targetas \"pravoslavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   temporaliniai_duomenys: "įvykio data: 1413 m.; įvykio data: 1434 m."

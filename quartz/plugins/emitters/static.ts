@@ -12,6 +12,7 @@ export const Static: QuartzEmitterPlugin = () => ({
     const outputStaticPath = joinSegments(argv.output, "static")
     await fs.promises.mkdir(outputStaticPath, { recursive: true })
     for (const fp of fps) {
+      if (fp === "graph-data/topology.json") continue
       const src = joinSegments(staticPath, fp) as FilePath
       const dest = joinSegments(outputStaticPath, fp) as FilePath
       await fs.promises.mkdir(dirname(dest), { recursive: true })
