@@ -81,10 +81,7 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175745
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191033|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Narbuto vaizdavimu, išsigandusiems italams nesipriešinant Odoakrui, Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto.
-- susijęs iš [[objektai/daiktai/Imperatoriaus ženklai, purpurai ir sosto papuošalai.md#claim-t-193008|Imperatoriaus ženklai, purpurai ir sosto papuošalai]]: Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191034|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Romos senatas nusiuntė pasiuntinius į Konstantinopolį pranešti, kad Romoje nebereikia skelbti imperatorių.'
@@ -102,11 +99,11 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
     ir Nepo pasiuntiniai, kurie reikalavo, kad būtų patvirtin­
     tas jų imperatoriaus titulas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
 
 ## Citatos
 

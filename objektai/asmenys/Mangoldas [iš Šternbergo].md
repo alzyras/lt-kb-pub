@@ -7,15 +7,15 @@ datos:
   - '1280 m.'
 date_start: '1280'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,6 +35,42 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus metus. Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.
 
+## Teiginiai
+
+<a id="claim-t-60169"></a>
+- t-001
+  teiginys: "Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kresmena: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mangoldas [iš Šternbergo]: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kresmena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsiveržimas į Kresmeną tiesiogiai pagrindžia puolimo ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mangoldas [iš Šternbergo] puolė Kresmena (0.88); Mangoldas [iš Šternbergo] puolė Sūduva (0.82)"
+  pagrindžia:
+    - c-60802
+
+<a id="claim-t-60170"></a>
+- t-002
+  teiginys: "Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Prūsija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mangoldas [iš Šternbergo]: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Mangoldas kaip Prūsijos žemės magistras jai vadovavo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mangoldas [iš Šternbergo] valdė Prūsija (0.82)"
+  pagrindžia:
+    - c-60801
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus.'
@@ -48,10 +84,10 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
     kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
     grįždamas namo, kelyje ir pasimirė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,11 +101,10 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
     šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu
     grobiu sugrįžo namo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60801
@@ -91,7 +126,7 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60802
   autorius: "Petras Dusburgietis"
@@ -111,40 +146,4 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-60169"></a>
-- t-002
-  teiginys: "Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kresmena: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mangoldas [iš Šternbergo]: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kresmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsiveržimas į Kresmeną tiesiogiai pagrindžia puolimo ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mangoldas [iš Šternbergo] puolė Kresmena (0.88); Mangoldas [iš Šternbergo] puolė Sūduva (0.82)"
-  pagrindžia:
-    - c-60802
-
-<a id="claim-t-60170"></a>
-- t-001
-  teiginys: "Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Prūsija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mangoldas [iš Šternbergo]: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Mangoldas kaip Prūsijos žemės magistras jai vadovavo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mangoldas [iš Šternbergo] valdė Prūsija (0.82)"
-  pagrindžia:
-    - c-60801
+    - t-001

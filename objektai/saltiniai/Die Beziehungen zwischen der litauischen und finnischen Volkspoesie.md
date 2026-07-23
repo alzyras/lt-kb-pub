@@ -41,7 +41,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 ## Teiginiai
 
 <a id="claim-t-195233"></a>
-- t-002
+- t-001
   teiginys: "Tas pats darbas lietuviškai paskelbtas Tilžėje, „Prūsų lietuvių balse“."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -51,7 +51,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     - c-177600
 
 <a id="claim-t-195234"></a>
-- t-001
+- t-002
   teiginys: "A. R. Niemio „Die Beziehungen zwischen der litauischen und finnischen Volkspoesie“ paskelbtas Tilžėje, „Litauische Warte“."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -80,7 +80,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177600
   autorius: "A. Sabaliauskas"
@@ -96,4 +96,4 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -7,13 +7,13 @@ datos:
   - '1345 m.'
 date_start: '1345'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

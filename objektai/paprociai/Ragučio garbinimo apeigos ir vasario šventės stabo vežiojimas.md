@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194631"></a>
-- t-002
+- t-001
   teiginys: "Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir iškilmes, labai panašias į Romos bakchanalijas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -104,4 +104,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

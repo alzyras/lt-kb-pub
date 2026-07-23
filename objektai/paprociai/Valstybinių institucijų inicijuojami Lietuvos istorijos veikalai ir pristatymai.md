@@ -80,7 +80,7 @@ Nenurodyta
     - c-166726
 
 <a id="claim-t-54363"></a>
-- t-003
+- t-002
   teiginys: "2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-55217
 
 <a id="claim-t-54364"></a>
-- t-002
+- t-003
   teiginys: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
     - c-55218
 
 <a id="claim-t-183336"></a>
-- t-005
+- t-004
   teiginys: "Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-55218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -186,7 +186,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-166726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -209,4 +209,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004

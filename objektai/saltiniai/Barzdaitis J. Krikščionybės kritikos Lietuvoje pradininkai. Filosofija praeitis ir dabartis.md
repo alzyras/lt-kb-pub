@@ -29,7 +29,7 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 ## Teiginiai
 
 <a id="claim-t-197016"></a>
-- t-002
+- t-001
   teiginys: "Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną, kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas daugiau stebėjosi nei visais kitais krikščionių darbais, kuriuos gyvenime kada buvo matę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,4 +60,4 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -49,7 +49,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 ## Teiginiai
 
 <a id="claim-t-195288"></a>
-- t-002
+- t-001
   teiginys: "Baltras mokėjo pinti vyžas iš suraitytų karnų."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,7 +59,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     - c-177652
 
 <a id="claim-t-195289"></a>
-- t-001
+- t-002
   teiginys: "Baltras buvo vikresnis ir smarkesnis už Napaliuką, todėl tvarkė ganymą."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -69,7 +69,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     - c-177655
 
 <a id="claim-t-195290"></a>
-- t-004
+- t-003
   teiginys: "Baltras sutaisė Napaliuko darbą ir padarė dailią mažą vyžiukę."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -79,7 +79,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     - c-177653
 
 <a id="claim-t-195291"></a>
-- t-003
+- t-004
   teiginys: "Baltras iš alksnio pasidarė adiklį ir ąsiklius, o vyžas paadė karnomis."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -87,13 +87,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177654
-- susijęs iš [[objektai/asmenys/Napaliukas (piemuo).md#claim-t-195292|Napaliukas (piemuo)]]: Napaliukas klausė Baltro apie rimbą ir pats ištraukė jį iš Baltro rankos.
-- susijęs iš [[objektai/asmenys/Napaliukas (piemuo).md#claim-t-195293|Napaliukas (piemuo)]]: Napaliukas ištraukė vyžą iš Baltro ir ėmė pinti iš naujo.
-- susijęs iš [[objektai/asmenys/Napaliukas (piemuo).md#claim-t-195294|Napaliukas (piemuo)]]: Napaliukas klausinėjo apie atlygį už Baltro pagalbą.
-- susijęs iš [[objektai/daiktai/Vyža.md#claim-t-195668|Vyža]]: Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą.
-- susijęs iš [[objektai/daiktai/Adiklis.md#claim-t-195323|Adiklis]]: Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas.
-- susijęs iš [[objektai/daiktai/Vyža.md#claim-t-195669|Vyža]]: Vyžas pindavo iš suraitytų karnų.
-- susijęs iš [[objektai/daiktai/Ąsikliai.md#claim-t-195324|Ąsikliai]]: Pagalbinė detalė vyžoms adyti.
+
 ## Citatos
 
 - id: c-177652
@@ -110,7 +104,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177653
   autorius: "M. Katkus"
@@ -126,7 +120,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177654
   autorius: "M. Katkus"
@@ -147,7 +141,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-177655
   autorius: "M. Katkus"
@@ -171,4 +165,4 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

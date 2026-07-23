@@ -44,13 +44,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   semantiniai_rysiai: "Bachidas buvo sąjungininkas su Alchimas (0.72)"
   pagrindžia:
     - c-60875
-- susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175238|Judas Makabėjus]]: Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.
-- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
-- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
-- susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175238|Judas Makabėjus]]: Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.
-- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
-- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
-- susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59050|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis kantrybę vadina priemone laimėti kovą ir cituoja posakį, kad pasikliaujantis kantrumu laimi.
+
 ## Citatos
 
 - id: c-60875

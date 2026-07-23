@@ -29,7 +29,7 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
 ## Teiginiai
 
 <a id="claim-t-197392"></a>
-- t-002
+- t-001
   teiginys: "Bochartas yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

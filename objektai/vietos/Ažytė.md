@@ -54,7 +54,7 @@ Ažytė šiame šaltinyje yra upelis.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177894
-- susijęs iš Duburys: Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku.
+
 ## Citatos
 
 - id: c-177894
@@ -115,6 +115,7 @@ Ažytė šiame šaltinyje yra upelis.
   citata_rodoma: "Augdami maudėmės Ažytėje."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

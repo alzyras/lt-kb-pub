@@ -30,7 +30,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 ## Teiginiai
 
 <a id="claim-t-89604"></a>
-- t-003
+- t-001
   teiginys: "Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - c-85545
 
 <a id="claim-t-89605"></a>
-- t-004
+- t-002
   teiginys: "Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - c-85545
 
 <a id="claim-t-89606"></a>
-- t-001
+- t-003
   teiginys: "Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - c-167425
 
 <a id="claim-t-89607"></a>
-- t-002
+- t-004
   teiginys: "Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - c-85548
 
 <a id="claim-t-197054"></a>
-- t-006
+- t-005
   teiginys: "Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -104,11 +104,26 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
     „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-89605
+  statusas: verified
+- c-002
+  santrauka: 'Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-006
 
 ## Citatos
 
@@ -129,9 +144,9 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
     - t-001
+    - t-002
+    - t-003
 
 - id: c-85546
   autorius: "Petras Dusburgietis"
@@ -167,8 +182,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-006
+    - t-004
+    - t-005
 
 - id: c-167425
   autorius: "Petras Dusburgietis"
@@ -187,4 +202,4 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

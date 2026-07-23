@@ -41,7 +41,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 ## Teiginiai
 
 <a id="claim-t-60195"></a>
-- t-002
+- t-001
   teiginys: "1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - c-60827
 
 <a id="claim-t-60196"></a>
-- t-001
+- t-002
   teiginys: "Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,8 +76,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   semantiniai_rysiai: "Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lietuva (0.87)"
   pagrindžia:
     - c-60828
-- susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179193|Lenkai]]: 1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.
+
 ## Citatos
 
 - id: c-60827
@@ -119,7 +118,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-60828
   autorius: "Petras Dusburgietis"
@@ -141,7 +140,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas [[objektai/vietos/Lietuva]]

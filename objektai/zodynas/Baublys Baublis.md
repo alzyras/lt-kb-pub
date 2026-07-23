@@ -99,6 +99,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

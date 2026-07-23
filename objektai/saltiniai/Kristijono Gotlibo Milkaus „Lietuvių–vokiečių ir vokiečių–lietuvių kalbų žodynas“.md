@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-101544"></a>
-- t-002
+- t-001
   teiginys: "Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -88,4 +88,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

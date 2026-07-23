@@ -8,13 +8,13 @@ datos:
   - '1379 m.'
 date_start: '1379'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,16 +67,7 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-184934
-- susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas.md#claim-t-185832|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]: 1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.
-- susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
-- susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
-- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192387|Gelonai]]: Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai.
-- susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
-- susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
+
 ## Citatos
 
 - id: c-38454
@@ -121,6 +112,3 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-
-## Ryšiai
-- Užėmė Belską: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]

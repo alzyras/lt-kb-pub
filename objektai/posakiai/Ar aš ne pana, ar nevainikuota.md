@@ -64,6 +64,7 @@ Klausiamoji vestuvinė formulė apie merginos statusą.
   citata_rodoma: "Ar aš ne pana, ar nevainikuota,\nO mano galva ar nesidabruota?"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

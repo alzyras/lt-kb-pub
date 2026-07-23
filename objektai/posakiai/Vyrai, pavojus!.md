@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41471"></a>
-- t-002
+- t-001
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -67,7 +67,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-43205
   sudarytojas: "Karolis Zikaras"
@@ -83,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -55,8 +55,7 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata."
   pagrindžia:
     - c-32876
-- susijęs iš Cod. ep. saec. XV: „Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.
-- susijęs iš Codex epistolaris saeculi XV: Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje.
+
 ## Citatos
 
 - id: c-32876

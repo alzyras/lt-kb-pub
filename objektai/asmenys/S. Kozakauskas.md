@@ -30,7 +30,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 ## Teiginiai
 
 <a id="claim-t-40408"></a>
-- t-002
+- t-001
   teiginys: "S. Kozakauskas gegužės 10-osios naktį pateko į paporučikio fon Gaso dalinio nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
     - c-44501
 
 <a id="claim-t-40409"></a>
-- t-001
+- t-002
   teiginys: "S. Kozakauskas buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,10 +60,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44500
-- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75699|Antanas Mackevičius]]: Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.
-- susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40053|B. Kolyška]]: B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.
-- susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64420|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.
-- susijęs iš [[objektai/asmenys/fon Gasas.md#claim-t-40560|fon Gasas]]: Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę.
+
 ## Citatos
 
 - id: c-44500
@@ -87,7 +84,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44501
   sudarytojas: "Karolis Zikaras"
@@ -111,4 +108,4 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

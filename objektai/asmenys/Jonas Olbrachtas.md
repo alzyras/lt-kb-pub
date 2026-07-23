@@ -8,10 +8,6 @@ datos:
   - '1489 m.'
 date_start: '1488'
 date_end: '1489'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - kunigaikštis
   - popiežius
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 ## Teiginiai
 
 <a id="claim-t-185966"></a>
-- t-004
+- t-001
   teiginys: "Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
     - c-169327
 
 <a id="claim-t-196498"></a>
-- t-005
+- t-002
   teiginys: "Kojelavičiaus pasakojime Jonas Olbrachtas, nepasiekęs didesnių laimėjimų Prūsijoje, iš karo stovyklos leidosi į Krokuvą po žinios apie antrąjį sūnų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -71,10 +71,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178731
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186770|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.).md#claim-t-185523|Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]: Jonas Olbrachtas Rusioje ir Lietuvoje sutelkė kariuomenę ir prie Savranės upės stojo į atvirą kovą su skitais.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.).md#claim-t-185577|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]: Karaliaus ginkluotosios jėgos pasuko į Vengriją, o Jonas Olbrachtas nenoromis sutiko dalyvauti žygyje prieš brolį.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.'
@@ -155,7 +152,6 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169324
@@ -245,7 +241,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-178731
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -267,7 +263,7 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 - Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

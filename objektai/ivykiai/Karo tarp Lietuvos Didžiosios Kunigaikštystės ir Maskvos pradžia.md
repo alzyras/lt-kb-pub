@@ -8,13 +8,13 @@ datos:
   - '1493 m.'
 date_start: '1492'
 date_end: '1493'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186774"></a>
-- t-004
+- t-001
   teiginys: "1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -95,7 +95,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169974
@@ -116,4 +115,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

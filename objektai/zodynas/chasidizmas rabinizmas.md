@@ -44,6 +44,7 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
   citata_rodoma: "plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

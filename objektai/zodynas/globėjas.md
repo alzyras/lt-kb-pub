@@ -47,30 +47,7 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168746
-- susijęs iš [[objektai/asmenys/Fabijonas (Varmės vyskupas).md#claim-t-87667|Fabijonas (Varmės vyskupas)]]: Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189970|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64221|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
-- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
-- susijęs iš [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.).md#claim-t-86961|Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]: 1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-183823|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87162|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.
-- susijęs iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos: 1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.
-- susijęs iš Leliušiai: Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje.
-- susijęs iš Lydos kraštas (kraštas): Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius Leliušių ir Lelionių kaimus.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.
-- susijęs iš Rodūnios parapija: Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.
-- susijęs iš Trakų apskritis: Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.
-- susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.
-- susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
-- susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
-- susijęs iš [[objektai/zodynas/Žemininkas Kurkas.md#claim-t-189144|Žemininkas Kurkas]]: Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).
-- susijęs iš [[objektai/paprociai/Lotynų kalbos vartojimas kaip diplomatinės kalbos.md#claim-t-192105|Lotynų kalbos vartojimas kaip diplomatinės kalbos]]: Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip diplomatinę kalbą.
-- susijęs iš Švč. Trejybės špitolė Vilniuje: 1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.
-- susijęs iš Švč. Trejybės špitolė Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
+
 ## Citatos
 
 - id: c-168746

@@ -7,13 +7,13 @@ datos:
   - '1818 m.'
 date_start: '1818'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,7 +102,6 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174929

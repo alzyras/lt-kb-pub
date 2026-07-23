@@ -11,14 +11,14 @@ datos:
   - '1527 m.'
 date_start: '1451'
 date_end: '1527'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - bajorija
+amziai:
+  - 'XV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 ## Teiginiai
 
 <a id="claim-t-81459"></a>
-- t-002
+- t-001
   teiginys: "Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-78080
 
 <a id="claim-t-81460"></a>
-- t-003
+- t-002
   teiginys: "Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-78080
 
 <a id="claim-t-81461"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -125,17 +125,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167918
-- susijęs iš [[objektai/grupes/Lietuvos evangelikai reformatai.md#claim-t-45013|Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
-- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186787|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti.
-- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185587|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22264|reformacija protestantizmas kalvinizmas]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
-- susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
-- susijęs iš [[objektai/asmenys/Simonas Olelkaitis.md#claim-t-186076|Simonas Olelkaitis]]: Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179644|Skirgaila]]: Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
-- susijęs iš Bistrica: Jogaila buvo pastatęs bažnyčią Bistricoje.
-- susijęs iš Trakai: Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.
-- susijęs iš [[objektai/zodynas/senatas.md#claim-t-185397|senatas]]: Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu.'
@@ -164,7 +154,6 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-78080
@@ -192,8 +181,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-78082
   autorius: "Zenonas Ivinskis"
@@ -215,7 +204,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-167917
   autorius: "Albertas Vijūkas-Kojelavičius"

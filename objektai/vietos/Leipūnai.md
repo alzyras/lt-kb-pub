@@ -38,7 +38,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 ## Teiginiai
 
 <a id="claim-t-111669"></a>
-- t-004
+- t-001
   teiginys: "Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - c-43568
 
 <a id="claim-t-183042"></a>
-- t-001
+- t-002
   teiginys: "Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166434
-- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.
+
 ## Citatos
 
 - id: c-43568
@@ -99,7 +99,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-166434
   redaktorius: "A. Šapoka"
@@ -121,4 +121,4 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

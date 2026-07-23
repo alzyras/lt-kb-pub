@@ -44,7 +44,7 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-93861
-- susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
+
 ## Citatos
 
 - id: c-93861

@@ -38,8 +38,7 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59359
-- susijęs iš Skomanto ežeras: Zioka Skomackas Skomantai Skomanto ež.
-- susijęs iš Skomanto sodyba: Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
+
 ## Citatos
 
 - id: c-59359

@@ -31,7 +31,7 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
 ## Teiginiai
 
 <a id="claim-t-197371"></a>
-- t-002
+- t-001
   teiginys: "Pagrindinė pusė: jauno žmo gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš kairės - vėliava su dviem įkirpimais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -41,7 +41,7 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172192
-- susijęs iš [[objektai/posakiai/MENDOK U KUNI DI ZEMAJTAS MINZIOS.md#claim-t-189564|MENDOK U KUNI DI ZEMAJTAS MINZIOS]]: Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“.
+
 ## Citatos
 
 - id: c-172192
@@ -63,4 +63,4 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

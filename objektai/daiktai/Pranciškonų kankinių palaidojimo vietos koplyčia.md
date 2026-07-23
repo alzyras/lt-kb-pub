@@ -63,6 +63,7 @@ Nenurodyta
   citata_rodoma: "nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

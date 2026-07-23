@@ -80,7 +80,7 @@ Nenurodyta
     - c-22218
 
 <a id="claim-t-45467"></a>
-- t-003
+- t-002
   teiginys: "P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -41,7 +41,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 ## Teiginiai
 
 <a id="claim-t-64646"></a>
-- t-003
+- t-001
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     - c-36661
 
 <a id="claim-t-64648"></a>
-- t-001
+- t-003
   teiginys: "J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-65317
-- susijęs iš Venecijos pirklys: Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.
+
 ## Citatos
 
 - id: c-36661
@@ -129,7 +129,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-65317
   autorius: "Zenonas Ivinskis"
@@ -150,4 +150,4 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

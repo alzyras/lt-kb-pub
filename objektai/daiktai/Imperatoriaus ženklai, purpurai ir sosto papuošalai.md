@@ -80,11 +80,10 @@ Nenurodyta
     vengdamas įžeisti senatą, neliepė vadinti save nei im­
     peratoriumi, nei Italijos karaliumi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175778

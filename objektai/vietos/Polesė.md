@@ -49,7 +49,7 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
     - c-28435
 
 <a id="claim-t-192723"></a>
-- t-004
+- t-002
   teiginys: "Teodoras Narbutas Polesę po jotvingių iškapojimo vaizduoja kaip plačias kapines ir nykią dykrą, nebekėlusią baimės kaimynams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,29 +67,7 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175493
-- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
-- susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
-- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
-- susijęs iš [[objektai/asmenys/Mechovita.md#claim-t-191164|Mechovita]]: Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams.
-- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
-- susijęs iš [[objektai/autoriai/Motiejus Mechovita.md#claim-t-191896|Motiejus Mechovita]]: Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs.
-- susijęs iš [[objektai/grupes/Galindai.md#claim-t-192382|Galindai]]: Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-192476|Totoriai]]: Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo.
-- susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
-- susijęs iš Galinda: Narbutas Galindą apibūdino kaip vieną seniausių provincijų, kadaise plačiau besidriekusią Mazovijos ir Polesės link.
-- susijęs iš [[objektai/posakiai/Atrodo kaip jotvingis.md#claim-t-192119|Atrodo kaip jotvingis]]: Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui.
-- susijęs iš [[objektai/asmenys/Suroveckis.md#claim-t-191983|Suroveckis]]: Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
-- susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
-- susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
-- susijęs iš [[objektai/autoriai/V. Suroveckis.md#claim-t-191558|V. Suroveckis]]: Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų gyvenamąsias vietas ir aprašė jų krašto ribas.
-- susijęs iš [[objektai/posakiai/Atrodo kaip jotvingis.md#claim-t-192119|Atrodo kaip jotvingis]]: Narbutas mini Polesėje paplitusį posakį „Atrodo kaip jotvingis“, taikytą bjauraus veido ir apdriskusiais rūbais vilkinčiam žmogui.
-- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
-- susijęs iš Wawrzyniec Surowiecki, Slavų kilmės tyrinėjimas: Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senųjų slavų gyvenamąsias vietas.
-- susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-- susijęs iš [[objektai/autoriai/Motiejus Mechovita.md#claim-t-191896|Motiejus Mechovita]]: Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs.
-- susijęs iš [[objektai/asmenys/Mechovita.md#claim-t-191164|Mechovita]]: Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad Kazimieras, priėmęs nusižeminusią jotvingių vyresnybę, pavertė Polesę visiems laikams lenkų valdomis.'
@@ -152,9 +130,8 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lenkai]]
 - Puolė Polesę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Gyvenamoji vieta: [[objektai/grupes/Baltarusiai]]

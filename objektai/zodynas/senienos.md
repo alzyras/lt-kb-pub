@@ -124,12 +124,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175022
-- susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192155|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
-- susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192156|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
-- susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192321|Konlyna]]: Narbutas aiškina, kad „Konlyna“ naudota kelionės daiktams ir ginklams susidėti.
-- susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192322|Konlyna]]: Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią.
-- susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192323|Konlyna]]: Narbutas aiškina, kad „Konlyna“ buvo pačių vertingiausių daiktų saugykla.
-- susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192324|Konlyna]]: Narbutas aiškina, kad „Konlyna“ buvo skrynia stalo sidabrui laikyti, paprastai gerai apkaustyta ir apkabinėta spynomis.
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -249,6 +244,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   citata_rodoma: "Todėl ir paliko­\nme jiems kuklų istorijos* pavadinimą.\n4\nBe to, dažnai esti, kad neįmanoma išlaikyti nepertrau­\nkiamą įvykių seką, ypač tuomet, kai labiau gilinamės į\npraeitį. O ir tas, kuris susipažino su priešistorinės seno­\nvės epochomis, apiplėštomis įvairių senienų epochomis,\nko kito galėtų geisti?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

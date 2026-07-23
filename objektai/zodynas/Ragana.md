@@ -30,7 +30,7 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 ## Teiginiai
 
 <a id="claim-t-189246"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,12 +48,7 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172134
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190730|Johanas Foigtas]]: Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana.
-- susijęs iš [[objektai/grupes/Raganos.md#claim-t-189499|Raganos]]: Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis ar šarkomis ir skraidyti ant ožio.
-- susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.
-- susijęs iš Afrika: Narbutas fetišo terminą siejo su naujaisiais amžiais perimtu Afrikos stabmeldžių, jo laikytų didžiausiais fetišų garbintojais, vartojimu.
-- susijęs iš Ragainė: Narbutas nurodo, kad Hartknocho išleistame Dusburgo veikale Ragainė klaidingai pavadinta Ramige.
-- susijęs iš Senegalo upė: Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Senegalo upės, o vėliau terminas įgavo platesnę reikšmę.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives, globojusias savaime augančius ar persodintus medžius.'
@@ -96,4 +91,4 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

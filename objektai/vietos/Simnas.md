@@ -55,16 +55,7 @@ Seirijuose, Simne, Prienuose ir kt.
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-43849
-- susijęs iš Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.
-- susijęs iš Lietuvos katalikų bažnyčios kronika: Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.
-- susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63314|Sigitas Tamkevičius]]: Sigitas Tamkevičius buvo pirmasis 1972 m. pradėtos leisti „Lietuvos katalikų bažnyčios kronikos“ redaktorius.
-- susijęs iš [[objektai/ivykiai/„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.).md#claim-t-75311|„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)]]: 1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“.
-- susijęs iš Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): Petro Seredos-Stumbro pasakojime nurodoma, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų apsupo NKVD kariuomenė.
-- susijęs iš Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.
-- susijęs iš Grenoblis: Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos.
-- susijęs iš Kalniškės miškas: Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
-- susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.
-- susijęs iš Seminiškių miško rajonas: 1945 m. gegužės 14 d. NKVD duomenimis, Seminiškių miško rajone slėpėsi iki 70 rankiniais ir sunkiaisiais kulkosvaidžiais, automatais ir šautuvais ginkluotų partizanų.
+
 ## Citatos
 
 - id: c-43849

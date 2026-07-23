@@ -47,18 +47,7 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175653
-- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191131|Pitėjas Masilietis]]: Pitėjas Masilietis, Masilijos astronomas ir jūrų keliautojas, apie 340 m. pr. Kr. išplaukė iš Masilijos uosto į Atlanto vandenyną.
-- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191547|Pitėjas]]: Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą.
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
-- susijęs iš Galija: Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją.
-- susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
-- susijęs iš [[objektai/asmenys/Aleksandras Makedonietis.md#claim-t-191363|Aleksandras Makedonietis]]: Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams.
-- susijęs iš [[objektai/asmenys/Kitėjas.md#claim-t-191958|Kitėjas]]: Narbuto pasakojime Masilijos keliautojas Kitėjas laikomas seniausio išlikusio istorinio padavimo apie Estiją autoriumi, šalia gotonų minėjusiu estus.
-- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191130|Pitėjas Masilietis]]: Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki Tacito senovės autoriai estų neminėjo.
-- susijęs iš [[objektai/grupes/Estai.md#claim-t-192378|Estai]]: Narbutas iš Pitėjo aprašymo sprendė, kad jo laikų Prūsijos gyventojai nesivadino estais.
-- susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191021|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: 340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas.
-- susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
-- susijęs iš Galija: Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją.
+
 ## Citatos
 
 - id: c-175653

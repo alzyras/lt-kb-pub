@@ -54,10 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-45110
-- susijęs iš T. Czackio laiškas Malachovskiui (1787-07-31): 1787 m. liepos 31 d. T. Cackio laiške Malachovskiui rašyta, kad Jasuose lankėsi kunigas Sevaljė, L’Abbé Chevalier.
-- susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
-- susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
-- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78202|Lenkijos kariuomenė]]: Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.
+
 ## Citatos
 
 - id: c-45110

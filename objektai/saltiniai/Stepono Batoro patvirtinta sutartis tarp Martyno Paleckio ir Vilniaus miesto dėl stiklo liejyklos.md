@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88276"></a>
-- t-003
+- t-001
   teiginys: "Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ media_all_json: |-
     - c-84256
 
 <a id="claim-t-88277"></a>
-- t-001
+- t-002
   teiginys: "Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-84255
 
 <a id="claim-t-88278"></a>
-- t-002
+- t-003
   teiginys: "1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-84256
   autorius: "Michał Baliński"
@@ -140,7 +140,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-84257
   autorius: "Michał Baliński"
@@ -186,4 +186,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

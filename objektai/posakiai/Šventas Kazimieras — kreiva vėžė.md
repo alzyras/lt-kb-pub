@@ -69,6 +69,7 @@ Liaudiškas posakis, siejamas su žiemos pabaigos kelių būkle.
   citata_rodoma: "Apie didžiuosius kelius, apie vieškelius reikia pasakyti kita: šie žiemos gale palieka duobėti, labai nepatogūs važiavimui, delko kiekvienas taikosi važiuoti šalikelių ir daro naują vėžę. Iš to kilo posakis: „Šventas Kazimieras — kreiva vėžė“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

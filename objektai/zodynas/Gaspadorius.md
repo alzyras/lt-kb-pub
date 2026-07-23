@@ -39,17 +39,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07723"></a>
-- t-003
+- t-001
   teiginys: "Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09646
-- susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07784|Kieminė auka Perūnui per audrą]]: Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.
-- susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07785|Kieminė auka Perūnui per audrą]]: Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
-- susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
-- susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
+
 ## Citatos
 
 - id: c-09646
@@ -65,4 +62,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

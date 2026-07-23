@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19546"></a>
-- t-003
+- t-001
   teiginys: "Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių."
   atnaujinta: "2026-05-18 23:37"
   sprendimo_priezastis: "gap::items"
@@ -92,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66509"></a>
-- t-003
+- t-001
   teiginys: "Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-66722
 
 <a id="claim-t-196937"></a>
-- t-004
+- t-003
   teiginys: "Apie taikos atkūrimą tarp Sventopelko ir brolių Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis sunaikinti brolius bei tikėjimo daigyną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-66722
   autorius: "Petras Dusburgietis"
@@ -186,4 +186,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

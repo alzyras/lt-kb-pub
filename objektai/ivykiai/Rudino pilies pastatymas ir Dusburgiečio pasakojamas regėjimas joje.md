@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-91907"></a>
-- t-002
+- t-001
   teiginys: "Jai tarus šiuos žodžius, regėjimas dingo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-87550
 
 <a id="claim-t-91908"></a>
-- t-001
+- t-002
   teiginys: "1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-87550
   autorius: "Petras Dusburgietis"
@@ -162,4 +162,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

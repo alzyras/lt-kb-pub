@@ -53,9 +53,7 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32919
-- susijęs iš [[objektai/autoriai/Wermke E.md#claim-t-62664|Wermke E]]: E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.
-- susijęs iš Der Deutsche Orden im Zeitalter der polnisch-litauischen Union: H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.
-- susijęs iš Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386: K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.
+
 ## Citatos
 
 - id: c-32919

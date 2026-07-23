@@ -65,6 +65,7 @@ Nenurodyta
   citata_rodoma: "Kaip pastebėjo ponas Tadas Volianskis, toji žąsis primena bū­\nrimą, kuriam Pabaltijo slavai naudojo žirgą, Jį vesdavo per kryž­\nmai į žemę susmeigtas ietis. Antspaude žąsis būtent tokia poza\nir vaizduojama."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

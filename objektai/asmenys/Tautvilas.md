@@ -55,7 +55,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-36512
 
 <a id="claim-t-121173"></a>
-- t-006
+- t-002
   teiginys: "Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180032
 
 <a id="claim-t-121175"></a>
-- t-005
+- t-003
   teiginys: "Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180031
 
 <a id="claim-t-121176"></a>
-- t-007
+- t-004
   teiginys: "1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180030
 
 <a id="claim-t-184840"></a>
-- t-009
+- t-005
   teiginys: "Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-168201
 
 <a id="claim-t-193988"></a>
-- t-010
+- t-006
   teiginys: "Danielius išsiuntė Tautvilą su rusų ir polovcų pagalba, o vėliau Tautvila su belaisviais nuvyko į Rygą ir buvo pakrikštytas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180028
 
 <a id="claim-t-196599"></a>
-- t-015
+- t-007
   teiginys: "Tautvilas, pareiškęs, kad svarbiam reikalui aptarti reikia laiko, paprašė viską atidėti dėl karo su kryžiuočiais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-178788
 
 <a id="claim-t-196870"></a>
-- t-016
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Rygos vyskupas ir klebonas klausė Tautvilos išpažinties ir siejo jo padėtį su Lietuvos krikšto galimybe."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180026
 
 <a id="claim-t-196871"></a>
-- t-017
+- t-009
   teiginys: "Tautvilas buvo | šiaurę nuo Naugarduko vaivadijos sienos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180027
 
 <a id="claim-t-198228"></a>
-- t-011
+- t-010
   teiginys: "Tautvilas, nenorėdamas atvirai atmesti siūlymo dėl Lietuvos žemių, paprašė svarstymą atidėti dėl karo su kryžiuočiais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-178788
 
 <a id="claim-t-198230"></a>
-- t-002
+- t-011
   teiginys: "Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -218,7 +218,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180029
 
 <a id="claim-t-198232"></a>
-- t-003
+- t-012
   teiginys: "Lietuvos metraštis Tautvilą įvardija penktuoju Kęstučio sūnumi ir priskiria prie jaunų, dalių negavusių mirusių sūnų."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -239,13 +239,13 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180026
 
 <a id="claim-t-198237"></a>
-- t-004
+- t-013
   teiginys: "Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata."
   susije_objektai: "llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius; llm_object: Lietuva"
-  semantiniai_rysiai: "[[objektai/asmenys/Tautvilas|Tautvilas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Tautvilas|Tautvilas]] mirė Vilnius; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva; Tautvilas buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.99); Tautvilas mirė Vilnius (0.96); Tautvilas buvo valdovas Lietuva (0.80)"
+  semantiniai_rysiai: "[[objektai/asmenys/Tautvilas|Tautvilas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Tautvilas|Tautvilas]] mirė Vilnius; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva"
   ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
@@ -259,7 +259,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180031
 
 <a id="claim-t-201036"></a>
-- t-018
+- t-014
   teiginys: "Ly gia dalia paskesniai Arvydas, Tautvilas, Ingautas, Lietuvos urėdai krivičių žemėj, ne vien krikščionų nenovijo, bet jie patys, kaip viršiaus regėjom, krikš čionimis tapo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -269,24 +269,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184386
-- susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
-- susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
-- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
-- susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187499|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą.
-- susijęs iš [[objektai/ivykiai/Tautvilos krikštas Rygoje.md#claim-t-187495|Tautvilos krikštas Rygoje (krikštas)]]: Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo.
-- susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
-- susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
-- susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71756|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.
-- susijęs iš [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi.md#claim-t-185916|Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]: Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.
-- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
-- susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
-- susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
-- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
-- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
-- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
-- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
@@ -353,7 +336,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-111042
   autorius: "Michał Baliński"
@@ -404,8 +387,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-003
+    - t-013
 
 - id: c-111044
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -425,7 +408,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-168201
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -454,7 +437,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-176613
   autorius: "Anoniminis metraštininkas"
@@ -474,7 +457,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-176614
   autorius: "Anoniminis metraštininkas"
@@ -525,7 +508,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-009
 
 - id: c-178788
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -556,8 +539,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-011
+    - t-007
+    - t-010
 
 - id: c-178951
   autorius: "Anoniminis metraštininkas"
@@ -579,8 +562,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-003
+    - t-008
+    - t-012
 
 - id: c-180024
   autorius: "Anoniminis metraštininkas"
@@ -630,8 +613,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-003
+    - t-008
+    - t-012
 
 - id: c-180027
   autorius: "Anoniminis metraštininkas"
@@ -654,7 +637,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-009
 
 - id: c-180028
   autorius: "Anoniminis metraštininkas"
@@ -674,7 +657,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-180029
   autorius: "Zenonas Ivinskis"
@@ -693,7 +676,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-011
 
 - id: c-180030
   sudarytojas: "Karolis Zikaras"
@@ -711,7 +694,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-180031
   autorius: "Michał Baliński"
@@ -762,8 +745,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-003
+    - t-013
 
 - id: c-180032
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -783,7 +766,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-184386
   autorius: "Simonas Daukantas"
@@ -813,7 +796,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-014
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

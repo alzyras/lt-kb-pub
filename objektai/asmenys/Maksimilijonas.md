@@ -33,7 +33,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 ## Teiginiai
 
 <a id="claim-t-185972"></a>
-- t-003
+- t-001
   teiginys: "Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų keturiolika maskvėnų belaisvių ir grąžino juos į Maskvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169333
 
 <a id="claim-t-185973"></a>
-- t-004
+- t-002
   teiginys: "Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169334
 
 <a id="claim-t-185974"></a>
-- t-005
+- t-003
   teiginys: "Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169335
 
 <a id="claim-t-193488"></a>
-- t-008
+- t-004
   teiginys: "Jam už teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš ku paklausti imperatorių Maksimilijoną, ką turėtų daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku rį, be abejonės, jam netrukus sukaustytą atvešią."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169334
 
 <a id="claim-t-193489"></a>
-- t-009
+- t-005
   teiginys: "Tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169333
 
 <a id="claim-t-193490"></a>
-- t-010
+- t-006
   teiginys: "Maksimilijonas Im p e ra to riu s M a k sipadarė dėl savo senos draum ili jo n a s išsiža d a gystės su Vasilijumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     - c-169334
 
 <a id="claim-t-193491"></a>
-- t-011
+- t-007
   teiginys: "Maskvos didikų atsakyme remtasi Maksimilijono ir Suleimano laiškais kaip įrodymu, kad Maskvos didysis kunigaikštis tituluotas caru."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -218,8 +218,8 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-009
+    - t-001
+    - t-005
 
 - id: c-169334
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -255,9 +255,9 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-004
-    - t-008
-    - t-010
+    - t-006
 
 - id: c-169335
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -279,5 +279,5 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-011
+    - t-003
+    - t-007

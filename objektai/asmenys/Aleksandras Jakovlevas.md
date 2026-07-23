@@ -44,7 +44,7 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-21561
-- susijęs iš [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“.md#claim-t-20897|„inteligentija – liaudies savimonės išraiška“]]: Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.
+
 ## Citatos
 
 - id: c-21561

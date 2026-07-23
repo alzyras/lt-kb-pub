@@ -45,7 +45,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 ## Teiginiai
 
 <a id="claim-t-176071"></a>
-- t-034
+- t-001
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160136
 
 <a id="claim-t-176072"></a>
-- t-005
+- t-002
   teiginys: "Vilniaus kapitula gavo teisę imti kas dešimtą sugautą žuvį karaliaus tvenkiniuose Vilijos upėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160146
 
 <a id="claim-t-176074"></a>
-- t-028
+- t-003
   teiginys: "Vilniaus kapitula pasirinko karūnas savo kolegijos herbu, norėdama prilygti Krokuvos kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160147
 
 <a id="claim-t-176075"></a>
-- t-021
+- t-004
   teiginys: "Filipovo namo činšas mokėtas vienuolika metų, o jam nutrūkus Vilniaus kapitula pradėjo teismo procesą su kunigaikščiu Kristupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160157
 
 <a id="claim-t-176076"></a>
-- t-035
+- t-005
   teiginys: "Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160158
 
 <a id="claim-t-176077"></a>
-- t-004
+- t-006
   teiginys: "Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160130
 
 <a id="claim-t-176078"></a>
-- t-024
+- t-007
   teiginys: "Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija savo asmenų ir valdinių bylose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160162
 
 <a id="claim-t-176079"></a>
-- t-016
+- t-008
   teiginys: "Kapitulos pastangų paskatintas Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pakvietė į Vilnių jėzuitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160150
 
 <a id="claim-t-176080"></a>
-- t-026
+- t-009
   teiginys: "Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -195,7 +195,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160130
 
 <a id="claim-t-176081"></a>
-- t-009
+- t-010
   teiginys: "Dinaburgo komtūro pranešime minėtas Vilniaus miesto, kapitulos ir pilies gaisras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160139
 
 <a id="claim-t-176082"></a>
-- t-027
+- t-011
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -230,7 +230,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160153
 
 <a id="claim-t-176083"></a>
-- t-032
+- t-012
   teiginys: "Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -246,7 +246,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160137
 
 <a id="claim-t-176084"></a>
-- t-036
+- t-013
   teiginys: "Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -262,7 +262,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160131
 
 <a id="claim-t-176085"></a>
-- t-041
+- t-014
   teiginys: "1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -281,7 +281,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160143
 
 <a id="claim-t-176086"></a>
-- t-029
+- t-015
   teiginys: "Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -297,7 +297,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160140
 
 <a id="claim-t-176088"></a>
-- t-007
+- t-016
   teiginys: "Vytautas dosniai dalijo vis didesnes dovanas Vilniaus vyskupui ir Vilniaus kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -313,7 +313,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160129
 
 <a id="claim-t-176089"></a>
-- t-012
+- t-017
   teiginys: "1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -332,7 +332,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160132
 
 <a id="claim-t-176090"></a>
-- t-039
+- t-018
   teiginys: "Dinaburgo komtūro pranešime Livonijos magistrui minėtas Vilniaus miesto, Vilniaus kapitulos ir pilies gaisras bei Vytauto patirti nuostoliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -348,7 +348,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160139
 
 <a id="claim-t-176092"></a>
-- t-023
+- t-019
   teiginys: "Vilniaus kapitulos prelatai ir kanauninkai teigė, kad naudojosi sena vyskupų ir Apaštalų Sosto patvirtinta jurisdikcija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -364,7 +364,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160158
 
 <a id="claim-t-176093"></a>
-- t-042
+- t-020
   teiginys: "1571 m. bado sukeltos epidemijos metu iš Vilniaus pasitraukė turtingiausi gyventojai, kapitula ir jėzuitai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -383,7 +383,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160138
 
 <a id="claim-t-176094"></a>
-- t-008
+- t-021
   teiginys: "Vilniaus kapitulos archyve buvo išlikusios keturios Vytauto privilegijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -399,7 +399,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160129
 
 <a id="claim-t-176095"></a>
-- t-025
+- t-022
   teiginys: "Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausti perkėlimai plaustais per Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -415,7 +415,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160131
 
 <a id="claim-t-176096"></a>
-- t-015
+- t-023
   teiginys: "Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -431,7 +431,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160133
 
 <a id="claim-t-176097"></a>
-- t-033
+- t-024
   teiginys: "Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir sumažėjusias pajamas, uždraudė kolegijoje dėstyti pradinius mokslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -447,7 +447,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160160
 
 <a id="claim-t-176098"></a>
-- t-040
+- t-025
   teiginys: "1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -466,7 +466,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160132
 
 <a id="claim-t-176099"></a>
-- t-030
+- t-026
   teiginys: "Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -482,7 +482,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160133
 
 <a id="claim-t-176100"></a>
-- t-013
+- t-027
   teiginys: "Vilniaus kapitula savo kolegijos herbu pasirinko tas pačias karūnas kaip Krokuvos kapitula."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -498,7 +498,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160147
 
 <a id="claim-t-176101"></a>
-- t-011
+- t-028
   teiginys: "Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -514,7 +514,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160161
 
 <a id="claim-t-176102"></a>
-- t-020
+- t-029
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -534,7 +534,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160136
 
 <a id="claim-t-176103"></a>
-- t-038
+- t-030
   teiginys: "Vilniaus kapitulos archyve buvo išlikusios keturios privilegijos, liudijusios didžiojo kunigaikščio dovanas vyskupui ir kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -550,7 +550,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160129
 
 <a id="claim-t-176104"></a>
-- t-037
+- t-031
   teiginys: "Vilniaus bažnyčios prelatai ir kanauninkai buvo raginami laisvai skirti dalį savo beneficijų klierikų kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -566,7 +566,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160134
 
 <a id="claim-t-176105"></a>
-- t-031
+- t-032
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius, paskatintas kapitulos pastangų, 1569 m. pakvietė į Vilnių jėzuitų ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -585,7 +585,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160150
 
 <a id="claim-t-176106"></a>
-- t-018
+- t-033
   teiginys: "Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir sumažėjusias pajamas, uždraudė jėzuitų kolegijoje dėstyti pradinius mokslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -601,7 +601,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - c-160160
 
 <a id="claim-t-176107"></a>
-- t-010
+- t-034
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti vikarus ir perleido ją Akademijos kolegijos rektoriams jėzuitams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -618,32 +618,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatinis ir paremtas citata."
   pagrindžia:
     - c-160135
-- susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172119|Jėzuitų ordinas]]: Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti Šv. Jono bažnyčios vikarą.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-183822|Jėzuitų ordinas]]: Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.
-- susijęs iš [[objektai/grupes/Vilniaus akademijos kolegija.md#claim-t-86785|Vilniaus akademijos kolegija]]: 1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams.
-- susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86705|Vilniaus jėzuitų kolegija]]: 1581 m. birželio 9 d. Vilniaus kapitula teisę siūlyti Šv. Jono bažnyčios vikarus perleido Akademijos kolegijos rektoriams jėzuitams.
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172815|Vilniaus magistratas]]: Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55107|Vilniaus žydų kahalas]]: Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86886|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
-- susijęs iš Vilniaus kapitulos 1581 m. Jus Patronatus perleidimo aktas: 1581 m. birželio 9 d. Vilniaus kapitula perleido jėzuitų kolegijos rektoriams teisę siūlyti Šv. Jono bažnyčios vikarus.
-- susijęs iš Vilniaus katedros bažnyčia: Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
-- susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
-- susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
-- susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
-- susijęs iš [[objektai/asmenys/Stanislovas Goreckis.md#claim-t-87579|Stanislovas Goreckis]]: Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
-- susijęs iš [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios.md#claim-t-87264|Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]: 1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių.
-- susijęs iš [[objektai/zodynas/Jus Patronatus.md#claim-t-86528|Jus Patronatus]]: 1581 m. birželio 9 d. Vilniaus kapitula atsisakė Jus Patronatus teisės siūlyti vikarus ir perleido ją jėzuitų Akademijos kolegijos rektoriams.
-- susijęs iš [[objektai/zodynas/bažnytinės cenzūros.md#claim-t-86516|bažnytinės cenzūros]]: Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.
-- susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
-- susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192173|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
+
 ## Citatos
 
 - id: c-160129
@@ -678,9 +653,9 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
-    - t-038
+    - t-016
+    - t-021
+    - t-030
 
 - id: c-160130
   autorius: "Michał Baliński"
@@ -706,8 +681,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-026
+    - t-006
+    - t-009
 
 - id: c-160131
   autorius: "Michał Baliński"
@@ -737,8 +712,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
-    - t-025
+    - t-013
+    - t-022
 
 - id: c-160132
   autorius: "Michał Baliński"
@@ -767,8 +742,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-040
+    - t-017
+    - t-025
 
 - id: c-160133
   autorius: "Michał Baliński"
@@ -794,8 +769,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-030
+    - t-023
+    - t-026
 
 - id: c-160134
   autorius: "Michał Baliński"
@@ -846,7 +821,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-031
 
 - id: c-160135
   autorius: "Michał Baliński"
@@ -871,7 +846,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-034
 
 - id: c-160136
   autorius: "Michał Baliński"
@@ -905,8 +880,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-020
+    - t-001
+    - t-029
 
 - id: c-160137
   autorius: "Michał Baliński"
@@ -931,7 +906,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-012
 
 - id: c-160138
   autorius: "Michał Baliński"
@@ -978,7 +953,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-020
 
 - id: c-160139
   autorius: "Michał Baliński"
@@ -999,8 +974,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-039
+    - t-010
+    - t-018
 
 - id: c-160140
   autorius: "Michał Baliński"
@@ -1021,7 +996,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-015
 
 - id: c-160143
   autorius: "Michał Baliński"
@@ -1074,7 +1049,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-014
 
 - id: c-160146
   autorius: "Michał Baliński"
@@ -1126,7 +1101,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-160147
   autorius: "Michał Baliński"
@@ -1159,8 +1134,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
-    - t-013
+    - t-003
+    - t-027
 
 - id: c-160150
   autorius: "Michał Baliński"
@@ -1190,8 +1165,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-031
+    - t-008
+    - t-032
 
 - id: c-160153
   autorius: "Michał Baliński"
@@ -1212,7 +1187,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-011
 
 - id: c-160157
   autorius: "Michał Baliński"
@@ -1239,7 +1214,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-004
 
 - id: c-160158
   autorius: "Michał Baliński"
@@ -1279,8 +1254,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
-    - t-023
+    - t-005
+    - t-019
 
 - id: c-160160
   autorius: "Michał Baliński"
@@ -1307,8 +1282,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-024
     - t-033
-    - t-018
 
 - id: c-160161
   autorius: "Michał Baliński"
@@ -1332,7 +1307,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-028
 
 - id: c-160162
   autorius: "Michał Baliński"
@@ -1357,4 +1332,4 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-007

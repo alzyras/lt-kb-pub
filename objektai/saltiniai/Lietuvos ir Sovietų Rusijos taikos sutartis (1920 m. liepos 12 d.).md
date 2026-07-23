@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75461"></a>
-- t-002
+- t-001
   teiginys: "1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-166760
 
 <a id="claim-t-75462"></a>
-- t-003
+- t-002
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis 1920 m. liepos 12 d. taikos sutartį su Sovietų Rusija vertino kaip didelį Lietuvos diplomatijos laimėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ media_all_json: |-
     - c-166761
 
 <a id="claim-t-75463"></a>
-- t-008
+- t-003
   teiginys: "Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ media_all_json: |-
     - c-73238
 
 <a id="claim-t-75464"></a>
-- t-001
+- t-004
   teiginys: "1920 m. pradžioje Lietuva sutiko pradėti derybas."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ media_all_json: |-
     - c-73240
 
 <a id="claim-t-75468"></a>
-- t-011
+- t-005
   teiginys: "Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ media_all_json: |-
     - c-73242
 
 <a id="claim-t-75469"></a>
-- t-009
+- t-006
   teiginys: "1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ media_all_json: |-
     - c-73243
 
 <a id="claim-t-75471"></a>
-- t-004
+- t-007
   teiginys: "Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ media_all_json: |-
     - c-73234
 
 <a id="claim-t-183368"></a>
-- t-013
+- t-008
   teiginys: "Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ media_all_json: |-
     - c-166761
 
 <a id="claim-t-193595"></a>
-- t-014
+- t-009
   teiginys: "Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -220,7 +220,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-73237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -242,7 +242,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-73238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -264,7 +264,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-73240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -287,8 +287,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-009
+    - t-004
+    - t-006
 
 - id: c-73242
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -309,7 +309,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-005
 
 - id: c-73243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -326,7 +326,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-166760
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -345,7 +345,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -371,8 +371,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-013
+    - t-002
+    - t-008
 
 - id: c-176270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -390,4 +390,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-009

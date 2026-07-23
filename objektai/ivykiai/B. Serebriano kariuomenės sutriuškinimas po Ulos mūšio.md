@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41259"></a>
-- t-002
+- t-001
   teiginys: "Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-44896
 
 <a id="claim-t-41260"></a>
-- t-001
+- t-002
   teiginys: "Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44897
   sudarytojas: "Karolis Zikaras"
@@ -138,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

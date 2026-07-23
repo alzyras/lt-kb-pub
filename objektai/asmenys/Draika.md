@@ -9,16 +9,16 @@ datos:
   - '1302 m.'
 date_start: '1301'
 date_end: '1302'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pilis
   - pareigūnas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 ## Teiginiai
 
 <a id="claim-t-60108"></a>
-- t-002
+- t-001
   teiginys: "Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
     - c-60740
 
 <a id="claim-t-60109"></a>
-- t-001
+- t-002
   teiginys: "1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
     - c-168055
 
 <a id="claim-t-196445"></a>
-- t-005
+- t-004
   teiginys: "Draika per sūnų Piną suderino ketinimus su Ragainės komtūru Folradu ir vadovavo nakties sargybai, kai Folradas pritraukė kariuomenę prie pilies."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
     - c-178692
 
 <a id="claim-t-197071"></a>
-- t-006
+- t-005
   teiginys: "Draika prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
     - c-60741
 
 <a id="claim-t-197072"></a>
-- t-007
+- t-006
   teiginys: "Draika išvydo neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,13 +125,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60741
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185726|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
-- susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-184337|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
-- susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-31407|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
-- susijęs iš Aukaimis: Aukaimio pilis tais pačiais metais buvo prarasta per išdavystę.
-- susijęs iš Ragainė: Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
@@ -178,8 +172,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-60741
   autorius: "Petras Dusburgietis"
@@ -201,8 +195,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-006
-    - t-007
 
 - id: c-168055
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -254,7 +248,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pinas]]

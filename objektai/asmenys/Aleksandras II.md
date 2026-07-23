@@ -40,7 +40,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 ## Teiginiai
 
 <a id="claim-t-82167"></a>
-- t-002
+- t-001
   teiginys: "Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     - c-78655
 
 <a id="claim-t-82169"></a>
-- t-003
+- t-002
   teiginys: "Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,24 +76,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas į rišlų sakinį apie Aleksandrą II."
   pagrindžia:
     - c-78656
-- susijęs iš [[objektai/ivykiai/Aleksandro II reformų pradžia.md#claim-t-86905|Aleksandro II reformų pradžia]]: 1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.
-- susijęs iš Aleksandro II manifestas dėl baudžiavos panaikinimo (1861 m.): 1861 m. pavasarį Aleksandras II pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.
-- susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-87665|Eustachijus Tiškevičius]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
-- susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-54996|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
-- susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-81882|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
-- susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-55074|Vilniaus Senienų muziejus]]: Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva.
-- susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-55075|Vilniaus Senienų muziejus]]: Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.
-- susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-81727|Vilniaus Senienų muziejus]]: Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.
-- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55133|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.
-- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55134|Vilniaus Senienų muziejaus įkūrimas]]: Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.
-- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-81829|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
-- susijęs iš Teki Wileńskie: Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.
-- susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108576|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
-- susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108582|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
-- susijęs iš [[objektai/zodynas/Politinė amnestija.md#claim-t-38771|Politinė amnestija]]: Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams.
-- susijęs iš [[objektai/zodynas/baudžiava baudžiavinė priklausomybė.md#claim-t-22080|baudžiava baudžiavinė priklausomybė]]: Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.
-- susijęs iš [[objektai/zodynas/taikos suvažiavimai.md#claim-t-52535|taikos suvažiavimai]]: Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems valstiečių reformos nesusipratimams spręsti.
-- susijęs iš [[objektai/zodynas/taikos suvažiavimai.md#claim-t-52536|taikos suvažiavimai]]: Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems reformos vykdymo nesusipratimams spręsti.
+
 ## Citatos
 
 - id: c-78655
@@ -119,7 +102,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-78656
   autorius: "Michał Baliński"
@@ -142,4 +125,4 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-26619
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116731|Katalikų Bažnyčia]]: Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.
+
 ## Citatos
 
 - id: c-26619

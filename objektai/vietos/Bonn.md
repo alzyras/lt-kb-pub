@@ -50,8 +50,7 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33809
-- susijęs iš [[objektai/autoriai/H. Useser.md#claim-t-30632|H. Useser]]: H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.
-- susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
+
 ## Citatos
 
 - id: c-33809

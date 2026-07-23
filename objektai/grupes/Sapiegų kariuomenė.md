@@ -30,7 +30,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 ## Teiginiai
 
 <a id="claim-t-78446"></a>
-- t-003
+- t-001
   teiginys: "M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
     - c-75724
 
 <a id="claim-t-78447"></a>
-- t-001
+- t-002
   teiginys: "M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
     - c-75725
 
 <a id="claim-t-78448"></a>
-- t-002
+- t-003
   teiginys: "Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -76,8 +76,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75724
-- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
-- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
+
 ## Citatos
 
 - id: c-75724
@@ -108,8 +107,8 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-002
 
 - id: c-75725
   sudarytojas: "Karolis Zikaras"
@@ -132,4 +131,4 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

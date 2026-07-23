@@ -55,8 +55,7 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
   temporalinis_llm_pakomentavimas: "Citata pagrindžia Lenkijos ponų tarybos veiksmą, bet reikia pašalinti puslapio ir OCR triukšmą."
   pagrindžia:
     - c-75147
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72609|Ponų taryba (institucija)]]: Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.
+
 ## Citatos
 
 - id: c-75147

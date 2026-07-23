@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97040"></a>
-- t-008
+- t-001
   teiginys: "1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97041"></a>
-- t-007
+- t-002
   teiginys: "Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-31386
 
 <a id="claim-t-97042"></a>
-- t-005
+- t-003
   teiginys: "Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97044"></a>
-- t-006
+- t-005
   teiginys: "Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -170,8 +170,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-005
+    - t-001
+    - t-003
     - t-004
 
 - id: c-04998
@@ -192,7 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-31386
   autorius: "Zenonas Ivinskis"
@@ -212,4 +212,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002

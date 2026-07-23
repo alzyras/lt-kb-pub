@@ -41,7 +41,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - c-66300
 
 <a id="claim-t-65962"></a>
-- t-003
+- t-002
   teiginys: "Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - c-66302
 
 <a id="claim-t-65964"></a>
-- t-002
+- t-003
   teiginys: "Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-66305
   redaktorius: "A. Šapoka"
@@ -159,7 +159,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-166315
   redaktorius: "A. Šapoka"

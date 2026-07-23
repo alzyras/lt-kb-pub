@@ -43,7 +43,7 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
     - c-169389
 
 <a id="claim-t-193504"></a>
-- t-003
+- t-002
   teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti kryžiuočių įgulas iš Nemuno salose pastatytų pilių."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-178671
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -137,6 +137,7 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
     apgulos.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

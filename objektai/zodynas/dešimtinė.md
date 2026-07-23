@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-173012"></a>
-- t-002
+- t-001
   teiginys: "Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-157351
 
 <a id="claim-t-173013"></a>
-- t-001
+- t-002
   teiginys: "Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157349
-- susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
+
 ## Citatos
 
 - id: c-157349
@@ -91,7 +91,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-157351
   autorius: "Michał Baliński"
@@ -134,4 +134,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

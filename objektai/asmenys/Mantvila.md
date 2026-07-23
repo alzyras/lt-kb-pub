@@ -8,15 +8,15 @@ datos:
   - '1200 m.'
 date_start: '1200'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 ## Teiginiai
 
 <a id="claim-t-194114"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     - c-176727
 
 <a id="claim-t-201012"></a>
-- t-003
+- t-002
   teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,6 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176727
@@ -132,7 +131,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184362
   autorius: "Simonas Daukantas"
@@ -163,4 +162,4 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

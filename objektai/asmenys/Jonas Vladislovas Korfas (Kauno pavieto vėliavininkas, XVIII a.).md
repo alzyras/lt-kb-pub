@@ -73,9 +73,7 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183865
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
+
 ## Citatos
 
 - id: c-183865

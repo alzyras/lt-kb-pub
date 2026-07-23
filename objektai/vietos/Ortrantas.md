@@ -53,10 +53,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Ortrante įvykusią landgrafo mirtį."
   pagrindžia:
     - c-59341
-- susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82297|Elžbieta]]: 1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.
-- susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58824|landgrafas]]: 1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70225|maldininkai / maldininko įžadai]]: 1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava.
-- susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58826|maldininkai]]: 1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.
+
 ## Citatos
 
 - id: c-59341

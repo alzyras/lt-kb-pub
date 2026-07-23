@@ -8,13 +8,13 @@ datos:
   - '1420 m.'
 date_start: '1419'
 date_end: '1420'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-168711
 
 <a id="claim-t-196375"></a>
-- t-004
+- t-003
   teiginys: "Žinodami, kad pastarojo Č ek a i siūlo karaliaus v a in ik ą Jog a ila i ir V y ta u tu i šiaurėje bei rytuose ir paska tino kaimynus čekus, atsikra čius teisėto valdovo valdžios, pasisiūlyti į valdinius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -159,7 +159,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-168711
   autorius: "Albertas Vijūkas-Kojelavičius"

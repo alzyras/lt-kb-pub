@@ -115,7 +115,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188610"></a>
 - t-005
   teiginys: "Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,6 +132,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171499
+    - c-171505
 
 <a id="claim-t-188611"></a>
 - t-006
@@ -203,7 +204,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188615"></a>
 - t-010
   teiginys: "Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -219,6 +220,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171504
+    - c-171505
 
 <a id="claim-t-188616"></a>
 - t-011
@@ -271,12 +273,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179039
-- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
-- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30982|Simono Grunau]]: Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.
-- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30983|Simono Grunau]]: Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.
-- susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
-- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190394|Kristijonas]]: Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika.
+
 ## Citatos
 
 - id: c-21972
@@ -514,6 +511,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
+    - t-010
     - t-011
 
 - id: c-173850

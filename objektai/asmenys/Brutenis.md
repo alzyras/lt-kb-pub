@@ -60,7 +60,7 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184323
-- susijęs iš [[objektai/asmenys/Vaidevutis.md#claim-t-190031|Vaidevutis]]: Narbutas kritikui atsakė, kad kronikose vardai rašyti netiksliai, o Brutenis ir Vaidevutis tame būryje turėjo tokias pat vardų galūnes.
+
 ## Citatos
 
 - id: c-172972

@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75174"></a>
-- t-002
+- t-001
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-23071
 
 <a id="claim-t-75175"></a>
-- t-006
+- t-002
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-73065
 
 <a id="claim-t-75178"></a>
-- t-004
+- t-003
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Nenurodyta
     - c-166641
 
 <a id="claim-t-75179"></a>
-- t-003
+- t-004
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Nenurodyta
     - c-23072
 
 <a id="claim-t-183252"></a>
-- t-007
+- t-005
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-23072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -195,7 +195,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-73065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -221,7 +221,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-166640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -242,7 +242,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-166641
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -265,4 +265,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

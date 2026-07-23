@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-64216
-- susijęs iš [[objektai/zodynas/Geyseler.md#claim-t-58901|Geyseler]]: Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas.
+
 ## Citatos
 
 - id: c-64216

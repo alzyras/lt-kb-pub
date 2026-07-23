@@ -8,15 +8,15 @@ datos:
   - '2026 m.'
 date_start: '1340'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vedybos
   - šeima
   - paprotys
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67234"></a>
-- t-003
+- t-001
   teiginys: "Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,9 +73,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10048
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -99,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

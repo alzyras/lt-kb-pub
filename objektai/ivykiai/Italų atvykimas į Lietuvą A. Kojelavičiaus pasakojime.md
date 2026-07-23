@@ -98,7 +98,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168931
@@ -160,6 +159,7 @@ Nenurodyta
   citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

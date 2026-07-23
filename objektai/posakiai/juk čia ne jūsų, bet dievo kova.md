@@ -30,7 +30,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 ## Teiginiai
 
 <a id="claim-t-67297"></a>
-- t-002
+- t-001
   teiginys: "Dusburgiečio karo sampratoje pabrėžiama religinė kovos esmė: „juk čia ne jūsų, bet dievo kova“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
     - c-67257
 
 <a id="claim-t-194468"></a>
-- t-003
+- t-002
   teiginys: "Dusburgietis teigia, kad juk čia ne jūsų, bet dievo kova."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,11 +68,10 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
     ginklo naujame viešpaties kare prieš velnio žabangas (II, 8—9)  ir t. t. Nuolatos čia
     pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-67257
@@ -89,7 +88,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176943
   autorius: "Petras Dusburgietis"
@@ -109,4 +108,4 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

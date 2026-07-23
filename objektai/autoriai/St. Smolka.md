@@ -90,9 +90,7 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55079
-- susijęs iš [[objektai/autoriai/Fr. Papée.md#claim-t-30617|Fr. Papée]]: Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“.
-- susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30930|Pr. Papée]]: Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.
-- susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.
+
 ## Citatos
 
 - id: c-55079

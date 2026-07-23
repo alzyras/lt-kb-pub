@@ -57,7 +57,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     - c-31941
 
 <a id="claim-t-72797"></a>
-- t-003
+- t-002
   teiginys: "Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,4 +115,4 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

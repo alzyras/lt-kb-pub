@@ -58,9 +58,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia asmens veiklą Vilniaus spaustuvėje."
   pagrindžia:
     - c-83686
-- susijęs iš Vilniaus katedra: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
-- susijęs iš Vilniaus katedra: 1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.
-- susijęs iš [[objektai/zodynas/scholastiko prelatūra scholastikas.md#claim-t-86617|scholastiko prelatūra scholastikas]]: 1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.
+
 ## Citatos
 
 - id: c-83686

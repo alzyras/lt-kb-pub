@@ -10,16 +10,16 @@ datos:
   - '1407 m.'
 date_start: '1351'
 date_end: '1407'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,9 +72,30 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-177107
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108295|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
+
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Tai buvo tarp 1351 ir 1355 metų; tada tasai Jonas I buvo Varmijos vyskupas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio. Nežinau, ar, be
+    beržo ir ąžuolo, amalas auga kituose medžiuose; ąžuolo ama­
+    las pas mus dabar yra net didelė retenybė. Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Jonas I nurodo šv.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -86,11 +107,10 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
     pastatyta Sambijos vyskupo Jono I maždaug XIII amžiaus
     pabaigoje ir tuomet buvo per mylią nuo kranto.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-83687
@@ -175,6 +195,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
     biensi.
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

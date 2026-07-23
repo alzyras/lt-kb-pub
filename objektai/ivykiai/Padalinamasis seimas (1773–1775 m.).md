@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01763"></a>
-- t-002
+- t-001
   teiginys: "Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-02001
 
 <a id="claim-t-01764"></a>
-- t-001
+- t-002
   teiginys: "Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-02002
   redaktorius: "A. Šapoka"
@@ -142,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

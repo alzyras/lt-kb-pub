@@ -35,7 +35,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Teiginiai
 
 <a id="claim-t-64057"></a>
-- t-002
+- t-001
   teiginys: "Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - c-166962
 
 <a id="claim-t-64058"></a>
-- t-003
+- t-002
   teiginys: "Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - c-166962
 
 <a id="claim-t-183569"></a>
-- t-004
+- t-003
   teiginys: "1918 m. gruodį Simonas Rozenbaumas tapo Lietuvos užsienio reikalų viceministru."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -168,6 +168,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-004

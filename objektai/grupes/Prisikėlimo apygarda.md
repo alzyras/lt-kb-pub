@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41115"></a>
-- t-004
+- t-001
   teiginys: "1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ media_all_json: |-
     - c-42899
 
 <a id="claim-t-41116"></a>
-- t-001
+- t-002
   teiginys: "1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-44835
 
 <a id="claim-t-41117"></a>
-- t-002
+- t-003
   teiginys: "Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ media_all_json: |-
     - c-44834
 
 <a id="claim-t-41118"></a>
-- t-003
+- t-004
   teiginys: "Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,15 +108,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42898
-- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
-- susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41201|Vytauto apygarda]]: 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
-- susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
-- susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
-- susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
-- susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
-- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
+
 ## Citatos
 
 - id: c-42898
@@ -138,7 +130,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-42899
   sudarytojas: "Karolis Zikaras"
@@ -164,7 +156,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-44834
   sudarytojas: "Karolis Zikaras"
@@ -189,7 +181,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-44835
   sudarytojas: "Karolis Zikaras"
@@ -208,4 +200,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

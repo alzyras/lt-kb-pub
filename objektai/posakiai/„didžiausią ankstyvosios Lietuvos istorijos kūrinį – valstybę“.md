@@ -30,7 +30,7 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
 ## Teiginiai
 
 <a id="claim-t-75608"></a>
-- t-002
+- t-001
   teiginys: "Mindaugas sukūrė „didžiausią ankstyvosios Lietuvos istorijos kūrinį“ – valstybę, leidusią lietuvių tautai išlikti ir perimti Vakarų civilizaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
     - c-73334
 
 <a id="claim-t-75609"></a>
-- t-001
+- t-002
   teiginys: "Mindaugas sukūrė valstybę, vadinamą didžiausiu ankstyvosios Lietuvos istorijos kūriniu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -81,5 +81,5 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

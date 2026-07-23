@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88348"></a>
-- t-002
+- t-001
   teiginys: "„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ media_all_json: |-
     - c-84327
 
 <a id="claim-t-88349"></a>
-- t-001
+- t-002
   teiginys: "1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84328
   autorius: "Michał Baliński"
@@ -111,4 +111,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

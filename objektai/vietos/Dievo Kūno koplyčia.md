@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85885"></a>
-- t-003
+- t-001
   teiginys: "Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-81870
 
 <a id="claim-t-85886"></a>
-- t-005
+- t-002
   teiginys: "1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ media_all_json: |-
     - c-81868
 
 <a id="claim-t-85887"></a>
-- t-001
+- t-003
   teiginys: "Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ media_all_json: |-
     - c-81871
 
 <a id="claim-t-85889"></a>
-- t-002
+- t-004
   teiginys: "Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-81868
   autorius: "Michał Baliński"
@@ -167,7 +167,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-81870
   autorius: "Michał Baliński"
@@ -198,7 +198,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-81871
   autorius: "Michał Baliński"
@@ -227,4 +227,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

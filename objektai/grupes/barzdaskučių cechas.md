@@ -7,10 +7,10 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

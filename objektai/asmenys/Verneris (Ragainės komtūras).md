@@ -58,7 +58,7 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
     - c-61093
 
 <a id="claim-t-194523"></a>
-- t-003
+- t-002
   teiginys: "Apie vieną brolių karo laivą Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies, laivą pagriebė smarkus vėjas ir nubloškė prie kranto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Verneris (Ragainės komtūras) pastatė [[objektai/daiktai/Laivai]]

@@ -9,13 +9,13 @@ datos:
   - '1983 m.'
 date_start: '1801'
 date_end: '1983'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,11 +64,10 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61738

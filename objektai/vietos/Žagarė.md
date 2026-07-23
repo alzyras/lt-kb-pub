@@ -54,7 +54,7 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
   temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Žagarės atžvilgiu minimą vietą."
   pagrindžia:
     - c-93917
-- susijęs iš Tervetė: Kryžiuočiams nepavyko paimti į šiaurę nuo Žagarės buvusios žiemgalių pilies Tervetės.
+
 ## Citatos
 
 - id: c-93917

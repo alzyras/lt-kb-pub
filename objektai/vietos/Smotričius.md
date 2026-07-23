@@ -39,7 +39,7 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
 ## Teiginiai
 
 <a id="claim-t-187328"></a>
-- t-003
+- t-001
   teiginys: "XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -82,7 +82,7 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
     - c-170357
 
 <a id="claim-t-187330"></a>
-- t-001
+- t-003
   teiginys: "Smotričius yra sena Podolės gyvenvietė, minima jau XII a."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -144,7 +144,7 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-002
+    - t-003
     - t-004

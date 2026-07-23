@@ -10,16 +10,16 @@ datos:
   - '1237 m.'
 date_start: '1237'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - tauta
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 ## Teiginiai
 
 <a id="claim-t-191160"></a>
-- t-002
+- t-001
   teiginys: "Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-174042
 
 <a id="claim-t-191161"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-174043
 
 <a id="claim-t-196816"></a>
-- t-005
+- t-003
   teiginys: "Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-178928
 
 <a id="claim-t-197720"></a>
-- t-006
+- t-004
   teiginys: "Danielius nesutiko."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-179305
 
 <a id="claim-t-197721"></a>
-- t-007
+- t-005
   teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-179306
 
 <a id="claim-t-200975"></a>
-- t-008
+- t-006
   teiginys: "Ku nigas Danielius į Lenevaldę iškeliavo, priimtas tenai žmoniškai, ūkinykus apkrikštijo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184325
 
 <a id="claim-t-200976"></a>
-- t-009
+- t-007
   teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184326
 
 <a id="claim-t-200977"></a>
-- t-010
+- t-008
   teiginys: "Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -158,20 +158,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184327
-- susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
-- susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
-- susijęs iš [[objektai/asmenys/Nebiastas.md#claim-t-191446|Nebiastas]]: Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais.
-- susijęs iš Brasta: Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.
-- susijęs iš [[objektai/asmenys/Lozorius.md#claim-t-191439|Lozorius]]: Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai.
-- susijęs iš [[objektai/asmenys/Nebra.md#claim-t-191447|Nebra]]: Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė.
-- susijęs iš [[objektai/asmenys/Stegutas Zebrovičius.md#claim-t-191320|Stegutas Zebrovičius]]: 1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius.
-- susijęs iš [[objektai/asmenys/Sutras Monoduničius.md#claim-t-191324|Sutras Monoduničius]]: 1227 metais prie Voluinės Vladimiro buvo suimti du jotvingių vadai: Sutras Monoduničius ir Stegutas Zebrovičius.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191002|Ziemovitas]]: Ziemovitas valdė Mazoviją.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-192507|Vėliavos]]: Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.
-- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-192068|Šarvai]]: Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti.
-- susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
-- susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
-- susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.'
@@ -196,7 +183,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169462
@@ -246,7 +232,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174043
   autorius: "Teodoras Narbutas"
@@ -268,7 +254,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178928
   autorius: "Anoniminis metraštininkas"
@@ -292,7 +278,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-179305
   autorius: "Teodoras Narbutas"
@@ -311,7 +297,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-179306
   autorius: "Teodoras Narbutas"
@@ -331,7 +317,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-184325
   autorius: "Simonas Daukantas"
@@ -351,7 +337,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-184326
   autorius: "Simonas Daukantas"
@@ -371,7 +357,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-184327
   autorius: "Simonas Daukantas"
@@ -402,4 +388,4 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008

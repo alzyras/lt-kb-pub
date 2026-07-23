@@ -7,13 +7,13 @@ datos:
   - '1313 m.'
 date_start: '1313'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -136,11 +136,10 @@ Nenurodyta
     S u rm in as n u v e ja  k iy -
     no.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-168886

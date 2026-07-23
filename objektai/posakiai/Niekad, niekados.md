@@ -30,7 +30,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 ## Teiginiai
 
 <a id="claim-t-67280"></a>
-- t-002
+- t-001
   teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     - c-67250
 
 <a id="claim-t-67281"></a>
-- t-001
+- t-002
   teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67251
   redaktorius: "A. Šapoka"
@@ -89,4 +89,4 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

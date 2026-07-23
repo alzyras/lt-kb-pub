@@ -35,7 +35,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 ## Teiginiai
 
 <a id="claim-t-30619"></a>
-- t-002
+- t-001
   teiginys: "G. Rhode 1973 m. paskelbė straipsnį apie polemiką dėl 1410 m. Tanenbergo mūšio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
     - c-32930
 
 <a id="claim-t-30620"></a>
-- t-001
+- t-002
   teiginys: "G. Rhode plačiai rašė apie kovas, aptartas veikalo „RhOP“ 172-206 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,9 +69,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32931
-- susijęs iš [[objektai/autoriai/Rhode, G.md#claim-t-30952|Rhode, G]]: G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179678|Skirgaila]]: Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179679|Skirgaila]]: Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.
+
 ## Citatos
 
 - id: c-32930
@@ -93,7 +91,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-32931
   autorius: "Zenonas Ivinskis"
@@ -115,4 +113,4 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

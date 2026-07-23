@@ -64,8 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83064
-- susijęs iš [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai.md#claim-t-87105|Žemutinės pilies sienos ir mediniai rūmai]]: 1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.
-- susijęs iš Merkys: Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.
+
 ## Citatos
 
 - id: c-83064

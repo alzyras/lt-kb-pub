@@ -83,14 +83,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174857
-- susijęs iš [[objektai/asmenys/Avitas.md#claim-t-191371|Avitas]]: Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto.
-- susijęs iš [[objektai/asmenys/Gliceras.md#claim-t-191271|Gliceras]]: Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais.
-- susijęs iš [[objektai/asmenys/Romulas Momilijus Augustulas.md#claim-t-191313|Romulas Momilijus Augustulas]]: Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš [[objektai/asmenys/Severas.md#claim-t-191464|Severas]]: Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu.
-- susijęs iš [[objektai/ivykiai/Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą.md#claim-t-191070|Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą]]: Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste.'
@@ -107,11 +100,10 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     nas, kuris būtų buvęs vienas garbingiausių monarchų,
     jei būtų valdęs ne tuo apverktinu žlugimo metu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174193

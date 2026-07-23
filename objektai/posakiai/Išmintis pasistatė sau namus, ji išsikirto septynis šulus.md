@@ -39,7 +39,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 ## Teiginiai
 
 <a id="claim-t-89583"></a>
-- t-003
+- t-001
   teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-85527
 
 <a id="claim-t-89585"></a>
-- t-004
+- t-003
   teiginys: "Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-85526
 
 <a id="claim-t-197045"></a>
-- t-006
+- t-004
   teiginys: "Nors šie žodžiai pasakyti Saliamono, kuris dievo sūnų vadina „tėvo išmintimi“ kaip ir tas apaštalas, taręs (1 Kor 1,24): „Bet pašauktiesiems — tiek žydams, tiek graikams — mes skelbiame Kristų, kuris yra dievo galybė ir dievo išmintis“, kaip ir psalmėje, kur."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-179017
 
 <a id="claim-t-197046"></a>
-- t-007
+- t-005
   teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -163,9 +163,9 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-004
-    - t-007
+    - t-005
 
 - id: c-85527
   autorius: "Petras Dusburgietis"
@@ -192,7 +192,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-179017
@@ -224,4 +224,4 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004

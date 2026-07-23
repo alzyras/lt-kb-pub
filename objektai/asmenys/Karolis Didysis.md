@@ -43,7 +43,7 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75367
-- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
+
 ## Citatos
 
 - id: c-75367

@@ -7,13 +7,13 @@ datos:
   - '1416 m.'
 date_start: '1416'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,9 +68,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38516
-- susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
-- susijęs iš [[objektai/grupes/Žebenkšties rinktinė.md#claim-t-38912|Žebenkšties rinktinė]]: 1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.
-- susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
+
 ## Citatos
 
 - id: c-38516

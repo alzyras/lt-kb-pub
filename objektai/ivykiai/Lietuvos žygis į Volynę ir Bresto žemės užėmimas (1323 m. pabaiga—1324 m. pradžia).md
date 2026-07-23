@@ -9,13 +9,13 @@ datos:
   - '1325 m.'
 date_start: '1323'
 date_end: '1325'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

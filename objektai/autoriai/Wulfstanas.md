@@ -31,7 +31,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 ## Teiginiai
 
 <a id="claim-t-97232"></a>
-- t-003
+- t-001
   teiginys: "Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - c-91714
 
 <a id="claim-t-97233"></a>
-- t-001
+- t-002
   teiginys: "Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - c-91713
 
 <a id="claim-t-97234"></a>
-- t-002
+- t-003
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,13 +86,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36706
-- susijęs iš Wulfstano kelionės aprašymas: Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį šaltinį apie Lietuvos gėrimų vartojimo papročius.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192100|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
-- susijęs iš [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes.md#claim-t-31554|at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]: Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.
-- susijęs iš [[objektai/zodynas/kastuvo mokslas.md#claim-t-32782|kastuvo mokslas]]: Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.
-- susijęs iš [[objektai/zodynas/kumelių pienas.md#claim-t-200722|kumelių pienas]]: Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių pieną, o neturtingieji ir vergai gėrė midų.
-- susijęs iš [[objektai/zodynas/kunigas.md#claim-t-32787|kunigas]]: Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.
-- susijęs iš [[objektai/zodynas/kunigas.md#claim-t-32788|kunigas]]: XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.
+
 ## Citatos
 
 - id: c-36706
@@ -139,7 +133,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-91713
   autorius: "Zenonas Ivinskis"
@@ -157,7 +151,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-91714
   autorius: "Zenonas Ivinskis"
@@ -175,4 +169,4 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

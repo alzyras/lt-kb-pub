@@ -9,14 +9,14 @@ datos:
   - '1286 m.'
 date_start: '1284'
 date_end: '1286'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - pilis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -110,6 +110,27 @@ Nenurodyta
     - c-63583
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1284 m. Ordino magistras su Skomantu patraukė prieš Gardino pilį, o broliai įsiveržė į ją ir sudegino.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję
+    savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie
+    pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir gyvena,
+    kaip gyvenę.
+    226 (221). Apie išdavystę, per kurią žuvo šimtas krikščionių
+    1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
+    gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
+    visokeriopų eibių. Kai broliai jam juos išskyrė, jis ir patraukė su jais prie Aukaimio
+    pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
+    juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+
 - c-003
   santrauka: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,11 +146,11 @@ Nenurodyta
     šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
     pagarbos jų dabartinei padėčiai.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
 
 ## Citatos
 

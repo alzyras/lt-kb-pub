@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77786"></a>
-- t-003
+- t-001
   teiginys: "Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,21 +79,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Reikia aiškiai susieti teiginį su reformacija, nes tai yra įrašo objektas."
   pagrindžia:
     - c-75112
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113894|Mikalojus Radvila Rudasis]]: Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai.
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
-- susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22263|reformacija protestantizmas kalvinizmas]]: Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.
-- susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113887|Mikalojus Radvila Juodasis]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
-- susijęs iš [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje.md#claim-t-77946|Itališkos mados perėmimas Lietuvos diduomenėje]]: Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.
-- susijęs iš [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje.md#claim-t-183317|Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]: Lietuvos istorijos autoriai Reformaciją apibūdina kaip naują LDK lenkėjimo postūmį.
-- susijęs iš [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje.md#claim-t-54270|Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]: LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją.
-- susijęs iš [[objektai/posakiai/„būtų liaudžiai suprantama“.md#claim-t-20888|„būtų liaudžiai suprantama“]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Brastos Biblija: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
-- susijęs iš Vilnius: Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.
+
 ## Citatos
 
 - id: c-75112
@@ -144,4 +130,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

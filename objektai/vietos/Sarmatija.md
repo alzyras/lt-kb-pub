@@ -67,15 +67,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175564
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192398|Gotai]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją.
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190673|Adomas Stanislovas Naruševičius]]: Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192398|Gotai]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją.
-- susijęs iš Maciej Miechowita, Tractatus de duabus sarmatiis: M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Narbuto nuorodoje siejamas su 1517 m. Krokuvos leidimu ir II knyga apie Europos Sarmatiją.
-- susijęs iš [[objektai/grupes/Gitonai.md#claim-t-192971|Gitonai]]: Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio.
-- susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190673|Adomas Stanislovas Naruševičius]]: Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis.'
@@ -93,11 +85,10 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     galėjo būti, jog Melos laikais vis dėlto buvęs staigus
     vandens lygio kritimas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175563

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89448"></a>
-- t-002
+- t-001
   teiginys: "Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-85406
 
 <a id="claim-t-196992"></a>
-- t-003
+- t-002
   teiginys: "Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-85407
   autorius: "Petras Dusburgietis"
@@ -129,5 +129,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

@@ -7,13 +7,13 @@ datos:
   - '1835 m.'
 date_start: '1835'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kultūrinis-įvykis
   - ivykis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -107,11 +107,10 @@ Nenurodyta
     1835 m. gegužės 8 dieną.
     Teodoras Narbutas
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174919

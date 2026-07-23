@@ -12,10 +12,10 @@ datos:
   - '1641 m.'
 date_start: '1641'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -40,7 +40,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 ## Teiginiai
 
 <a id="claim-t-170310"></a>
-- t-002
+- t-001
   teiginys: "LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     - c-154980
 
 <a id="claim-t-170311"></a>
-- t-001
+- t-002
   teiginys: "1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +74,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas iliustracijos antrašte."
   pagrindžia:
     - c-154982
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74890|Radvilos]]: Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.
-- susijęs iš Radvilos laiškas dėl lenkų kalbos vartojimo (1615 m.): 1615 m. vienas Radvilų laiške teigė, kad Lietuvoje reikia vartoti lenkų kalbą.
+
 ## Citatos
 
 - id: c-154980
@@ -97,7 +96,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-154982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -120,4 +119,4 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

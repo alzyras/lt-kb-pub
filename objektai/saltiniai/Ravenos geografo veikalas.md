@@ -76,11 +76,11 @@ Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad aga
     tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
     kia Didelę upę4.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

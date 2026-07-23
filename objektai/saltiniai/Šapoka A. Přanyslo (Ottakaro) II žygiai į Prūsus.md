@@ -7,12 +7,12 @@ datos:
   - '1939 m.'
 date_start: '1939'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,11 +53,10 @@ Dusburgietis teigia, kad šapoka A.
   citata_originali: |
     Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-62029

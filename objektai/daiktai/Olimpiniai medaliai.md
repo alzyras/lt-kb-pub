@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19574"></a>
-- t-009
+- t-001
   teiginys: "1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-22280
 
 <a id="claim-t-19575"></a>
-- t-007
+- t-002
   teiginys: "Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-22280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -138,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001

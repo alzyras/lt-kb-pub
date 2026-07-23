@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192036"></a>
-- t-003
+- t-001
   teiginys: "Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-174910
 
 <a id="claim-t-192037"></a>
-- t-001
+- t-002
   teiginys: "1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-174910
 
 <a id="claim-t-197535"></a>
-- t-004
+- t-003
   teiginys: "Mūsų piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -128,8 +128,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002
 
 - id: c-179235
   autorius: "Teodoras Narbutas"
@@ -149,4 +149,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

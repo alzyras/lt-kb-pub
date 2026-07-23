@@ -7,15 +7,15 @@ datos:
   - '1274 m.'
 date_start: '1274'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valdovas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

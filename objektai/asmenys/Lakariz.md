@@ -48,7 +48,7 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174319
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192395|Gotai]]: Narbutas, remdamasis Lakarizu, gotus, gotonus ir gotinus kildina iš skitų-keltų palikuonių.
+
 ## Citatos
 
 - id: c-174319

@@ -46,7 +46,7 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
 ## Teiginiai
 
 <a id="claim-t-188044"></a>
-- t-003
+- t-001
   teiginys: "Masonų organizacijose buvo suformuluoti visuomenės švietimo ir ugdymo uždaviniai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -63,7 +63,7 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
     - c-170858
 
 <a id="claim-t-188045"></a>
-- t-004
+- t-002
   teiginys: "Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -103,7 +103,7 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-171055
   autorius: "Teodoras Narbutas"
@@ -124,4 +124,4 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

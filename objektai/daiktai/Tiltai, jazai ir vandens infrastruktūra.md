@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54728"></a>
-- t-002
+- t-001
   teiginys: "Hozijus gavo teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos, o vėliau per upę iškilo mūrinis tiltas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-55705
 
 <a id="claim-t-54729"></a>
-- t-001
+- t-002
   teiginys: "1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-55705
   autorius: "Michał Baliński"
@@ -143,4 +143,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

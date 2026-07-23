@@ -68,7 +68,7 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174175
-- susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
+
 ## Citatos
 
 - id: c-174174

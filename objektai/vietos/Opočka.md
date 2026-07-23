@@ -36,7 +36,7 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
 ## Teiginiai
 
 <a id="claim-t-187280"></a>
-- t-004
+- t-001
   teiginys: "Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -54,7 +54,7 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
     - c-170327
 
 <a id="claim-t-187282"></a>
-- t-003
+- t-002
   teiginys: "Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -69,10 +69,7 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170327
-- susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
-- susijęs iš Krasnyj Gorod: Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.
-- susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
-- susijęs iš Krasnyj Gorod: Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.
+
 ## Citatos
 
 - id: c-170327
@@ -89,5 +86,5 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

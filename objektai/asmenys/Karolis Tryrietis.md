@@ -65,9 +65,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   semantiniai_rysiai: "Karolis Tryrietis gynė Kryžiuočių ordinas (0.76)"
   pagrindžia:
     - c-167226
-- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172969|Vygandas Marburgietis]]: Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.
-- susijęs iš Vokietija: Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje.
-- susijęs iš Vokietija: Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.
+
 ## Citatos
 
 - id: c-83414

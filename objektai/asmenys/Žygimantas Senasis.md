@@ -41,7 +41,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 ## Teiginiai
 
 <a id="claim-t-173307"></a>
-- t-015
+- t-001
   teiginys: "Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157629
 
 <a id="claim-t-173308"></a>
-- t-019
+- t-002
   teiginys: "1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157651
 
 <a id="claim-t-173309"></a>
-- t-011
+- t-003
   teiginys: "Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157633
 
 <a id="claim-t-173310"></a>
-- t-007
+- t-004
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157637
 
 <a id="claim-t-173311"></a>
-- t-009
+- t-005
   teiginys: "1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157648
 
 <a id="claim-t-173313"></a>
-- t-023
+- t-006
   teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157662
 
 <a id="claim-t-173314"></a>
-- t-025
+- t-007
   teiginys: "1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157657
 
 <a id="claim-t-173315"></a>
-- t-034
+- t-008
   teiginys: "1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157632
 
 <a id="claim-t-173316"></a>
-- t-031
+- t-009
   teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157645
 
 <a id="claim-t-173317"></a>
-- t-035
+- t-010
   teiginys: "1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157643
 
 <a id="claim-t-173318"></a>
-- t-017
+- t-011
   teiginys: "1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -234,7 +234,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157658
 
 <a id="claim-t-173319"></a>
-- t-027
+- t-012
   teiginys: "Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -251,7 +251,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157640
 
 <a id="claim-t-173320"></a>
-- t-022
+- t-013
   teiginys: "1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -269,7 +269,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157655
 
 <a id="claim-t-173321"></a>
-- t-026
+- t-014
   teiginys: "Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -285,7 +285,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157638
 
 <a id="claim-t-173322"></a>
-- t-003
+- t-015
   teiginys: "1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -304,7 +304,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157641
 
 <a id="claim-t-173324"></a>
-- t-030
+- t-016
   teiginys: "1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -323,7 +323,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157636
 
 <a id="claim-t-173325"></a>
-- t-014
+- t-017
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -342,7 +342,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157642
 
 <a id="claim-t-173326"></a>
-- t-032
+- t-018
   teiginys: "Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -358,7 +358,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157631
 
 <a id="claim-t-173327"></a>
-- t-024
+- t-019
   teiginys: "Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -374,7 +374,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157660
 
 <a id="claim-t-173328"></a>
-- t-038
+- t-020
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -394,7 +394,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157642
 
 <a id="claim-t-173329"></a>
-- t-036
+- t-021
   teiginys: "1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -413,7 +413,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157653
 
 <a id="claim-t-173330"></a>
-- t-028
+- t-022
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -430,7 +430,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157637
 
 <a id="claim-t-173331"></a>
-- t-018
+- t-023
   teiginys: "Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -447,7 +447,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157646
 
 <a id="claim-t-173332"></a>
-- t-008
+- t-024
   teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -468,7 +468,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157644
 
 <a id="claim-t-173335"></a>
-- t-013
+- t-025
   teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -485,7 +485,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-167240
 
 <a id="claim-t-173336"></a>
-- t-039
+- t-026
   teiginys: "Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -501,7 +501,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157639
 
 <a id="claim-t-173337"></a>
-- t-037
+- t-027
   teiginys: "1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -520,7 +520,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157635
 
 <a id="claim-t-173338"></a>
-- t-012
+- t-028
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -538,7 +538,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157652
 
 <a id="claim-t-173339"></a>
-- t-004
+- t-029
   teiginys: "Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -554,7 +554,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157638
 
 <a id="claim-t-173340"></a>
-- t-033
+- t-030
   teiginys: "Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -570,7 +570,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-157661
 
 <a id="claim-t-201572"></a>
-- t-041
+- t-031
   teiginys: "Lietuvoje pradėjus valdyti Žygimantui Senajam buvo vykdoma muitinių pertvarka."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -582,7 +582,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184919
 
 <a id="claim-t-201573"></a>
-- t-042
+- t-032
   teiginys: "1511 m. Žygimantas Senasis, suteikdamas Kauno pilininko pareigas Vaskui Daškovičiui, nurodė, kad šis Kauno pilį tvirtintų mūru ir medžiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -594,7 +594,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184920
 
 <a id="claim-t-201574"></a>
-- t-043
+- t-033
   teiginys: "1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -606,7 +606,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184921
 
 <a id="claim-t-201575"></a>
-- t-044
+- t-034
   teiginys: "Svarbiausias pareigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija 1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno pilininko pareigas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -618,7 +618,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184922
 
 <a id="claim-t-201576"></a>
-- t-045
+- t-035
   teiginys: "1527 m. Lietuvos bernardinų atsiskyrimo siekius ėmė remti ir Žygimantas Senasis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -630,7 +630,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184923
 
 <a id="claim-t-201577"></a>
-- t-046
+- t-036
   teiginys: "Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro, nemažai žmonių išmirė, todėl miestiečiai prašė atleisti nuo naujų muitų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -642,7 +642,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184924
 
 <a id="claim-t-201578"></a>
-- t-047
+- t-037
   teiginys: "1540 m. Žygimantas Senasis, spręsdamas Kauno miestiečių tarpusavio ginčus, matė reikalą į savo privilegiją sprendimą įrašytame straipsnyje nurodyti, kad Kaune atvykėliai ir svečiai iš Prūsų tarp savęs negali prekiauti, išskyrus vietą kauniečių, pas kuriuos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -654,7 +654,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184925
 
 <a id="claim-t-201579"></a>
-- t-048
+- t-038
   teiginys: "1541 m. Žygimantas Senasis ne tik patvirtino draudimą svetimšaliams pirkliams prekiauti krašte, bet ir nurodė visiems žemvaldžiams nereikalauti iš Kauno pirklių vidaus muitų ir turgaus mokesčių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -666,7 +666,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184926
 
 <a id="claim-t-201580"></a>
-- t-049
+- t-039
   teiginys: "1540 m. Žygimanto Senojo privilegijoje-sprendime buvo išvardyti, matyt, nesiekiant išsamumo, miesto pajamų šaltiniai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -678,7 +678,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - c-184927
 
 <a id="claim-t-202317"></a>
-- t-050
+- t-040
   teiginys: "Penktame XVI a. dešimtmetyje pagal sutartį su Žygimantu Senuoju Krymo chanas Sagapas Girėjus laidavo prekybos laisvę lenkų ir lietuvių pirkliams Kafoje ir Perekope už kasmet žadėtą gelumbę."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -689,39 +689,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
     - c-185664
-- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
-- susijęs iš Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimantas Senasis suteikė Petrui Laurinavičiui privilegiją, patvirtinusią įvairius pirkimus.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86883|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86888|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
-- susijęs iš 1536 m. Žygimanto Senojo Vilniaus miesto įstatymai: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus, pritarus karalienei Bonai.
-- susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: 1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus, saugotą Vilniaus kapitulos rankraščiuose.
-- susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
-- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
-- susijęs iš Žygimanto Senojo laiškas Andriui Kopernikui dėl Varmės kapitulos (1514 m. gegužės 6 d.): Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.
-- susijęs iš Merkys: Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.
-- susijęs iš Trakai: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis.
-- susijęs iš Trakai: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.
-- susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
-- susijęs iš Vilniaus tiltas per Viliją: 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš [[objektai/asmenys/Andrejus Tyckis.md#claim-t-87621|Andrejus Tyckis]]: Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.
-- susijęs iš [[objektai/asmenys/Bona.md#claim-t-87467|Bona]]: Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.
-- susijęs iš [[objektai/asmenys/Mahometas Aminas.md#claim-t-40324|Mahometas Aminas]]: Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.
-- susijęs iš [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas.md#claim-t-87301|Patrankų vardų ir lotyniškų įrašų suteikimas]]: Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.
-- susijęs iš [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita.md#claim-t-87307|Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]: 1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.
-- susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
-- susijęs iš Lenkijos karalystė: Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.
-- susijęs iš Merkys: Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.
-- susijęs iš Ulriko Hozijaus tiltas per Viliją: 1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vilija: Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86484|miesto magistrato pareigybės]]: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.
-- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
+
 ## Citatos
 
 - id: c-157629
@@ -753,7 +721,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-001
 
 - id: c-157631
   autorius: "Michał Baliński"
@@ -782,7 +750,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-018
 
 - id: c-157632
   autorius: "Michał Baliński"
@@ -807,7 +775,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-008
 
 - id: c-157633
   autorius: "Michał Baliński"
@@ -829,7 +797,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-003
 
 - id: c-157634
   autorius: "Michał Baliński"
@@ -849,7 +817,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-025
 
 - id: c-157635
   autorius: "Michał Baliński"
@@ -877,7 +845,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-027
 
 - id: c-157636
   autorius: "Michał Baliński"
@@ -900,7 +868,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-016
 
 - id: c-157637
   autorius: "Michał Baliński"
@@ -933,8 +901,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-028
+    - t-004
+    - t-022
 
 - id: c-157638
   autorius: "Michał Baliński"
@@ -957,8 +925,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-    - t-004
+    - t-014
+    - t-029
 
 - id: c-157639
   sudarytojas: "Karolis Zikaras"
@@ -987,7 +955,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-026
 
 - id: c-157640
   autorius: "Michał Baliński"
@@ -1009,7 +977,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-012
 
 - id: c-157641
   autorius: "Michał Baliński"
@@ -1039,7 +1007,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-015
 
 - id: c-157642
   autorius: "Michał Baliński"
@@ -1063,8 +1031,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-038
+    - t-017
+    - t-020
 
 - id: c-157643
   autorius: "Michał Baliński"
@@ -1093,7 +1061,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-010
 
 - id: c-157644
   autorius: "Michał Baliński"
@@ -1115,7 +1083,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-024
 
 - id: c-157645
   autorius: "Michał Baliński"
@@ -1138,7 +1106,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-009
 
 - id: c-157646
   autorius: "Michał Baliński"
@@ -1183,7 +1151,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-023
 
 - id: c-157648
   autorius: "Michał Baliński"
@@ -1205,7 +1173,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-157649
   autorius: "Michał Baliński"
@@ -1228,7 +1196,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-009
 
 - id: c-157650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1290,7 +1258,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-002
 
 - id: c-157652
   autorius: "Michał Baliński"
@@ -1319,7 +1287,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-028
 
 - id: c-157653
   autorius: "Michał Baliński"
@@ -1361,7 +1329,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-021
 
 - id: c-157655
   autorius: "Michał Baliński"
@@ -1401,7 +1369,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-013
 
 - id: c-157657
   autorius: "Michał Baliński"
@@ -1435,7 +1403,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-007
 
 - id: c-157658
   autorius: "Michał Baliński"
@@ -1460,7 +1428,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011
 
 - id: c-157659
   autorius: "Michał Baliński"
@@ -1480,7 +1448,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-024
 
 - id: c-157660
   autorius: "Michał Baliński"
@@ -1508,7 +1476,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-019
 
 - id: c-157661
   autorius: "Michał Baliński"
@@ -1540,7 +1508,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-030
 
 - id: c-157662
   autorius: "Michał Baliński"
@@ -1591,7 +1559,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-006
 
 - id: c-167240
   autorius: "Michał Baliński"
@@ -1613,7 +1581,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-025
 
 - id: c-184919
   autorius: "Zigmantas Kiaupa"
@@ -1629,7 +1597,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-031
 
 - id: c-184920
   autorius: "Zigmantas Kiaupa"
@@ -1647,7 +1615,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-032
 
 - id: c-184921
   autorius: "Zigmantas Kiaupa"
@@ -1664,7 +1632,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-033
 
 - id: c-184922
   autorius: "Zigmantas Kiaupa"
@@ -1681,7 +1649,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-034
 
 - id: c-184923
   autorius: "Zigmantas Kiaupa"
@@ -1698,7 +1666,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
+    - t-035
 
 - id: c-184924
   autorius: "Zigmantas Kiaupa"
@@ -1714,7 +1682,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-036
 
 - id: c-184925
   autorius: "Zigmantas Kiaupa"
@@ -1733,7 +1701,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-037
 
 - id: c-184926
   autorius: "Zigmantas Kiaupa"
@@ -1750,7 +1718,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-038
 
 - id: c-184927
   autorius: "Zigmantas Kiaupa"
@@ -1767,7 +1735,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-039
 
 - id: c-185664
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
@@ -1777,7 +1745,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   pagrindzia:
-    - t-050
+    - t-040
 
 ## Ryšiai
 - Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

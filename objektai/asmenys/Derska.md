@@ -84,9 +84,7 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   semantiniai_rysiai: "Derska buvo sąjungininkas su Kryžiuočių ordinas (0.63)"
   pagrindžia:
     - c-168051
-- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60185|Numa]]: Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
-- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60186|Numa]]: Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.
-- susijęs iš [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas.md#claim-t-66482|Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]: Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.'
@@ -133,7 +131,6 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-60732

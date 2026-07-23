@@ -50,7 +50,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 ## Teiginiai
 
 <a id="claim-t-45829"></a>
-- t-004
+- t-001
   teiginys: "Lietuvos valdovų į valstybės pakraščius įkurdinti ištikimi žmonės iš Lietuvos aplinkinių buvo vadinami leičiais, o gal ir liečiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
     - c-26775
 
 <a id="claim-t-45830"></a>
-- t-003
+- t-002
   teiginys: "Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -105,5 +105,5 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

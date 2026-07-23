@@ -44,10 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75173
-- susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22279|revizionistinė valstybė revizionistai per prievartą]]: Lietuviai tapo „revizionistais per prievartą“.
-- susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101572|buferinė valstybė saugumo kordonas cordon sanitaire]]: Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.
-- susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101573|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo.
-- susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22278|revizionistinė valstybė revizionistai per prievartą]]: Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.
+
 ## Citatos
 
 - id: c-75173

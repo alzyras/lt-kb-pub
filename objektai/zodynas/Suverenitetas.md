@@ -13,14 +13,14 @@ datos:
   - '1940 m.'
 date_start: '1918'
 date_end: '1940'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - politinis-terminas
   - teisinis-terminas
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,7 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05427"></a>
-- t-005
+- t-001
   teiginys: "Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-05558
 
 <a id="claim-t-05586"></a>
-- t-007
+- t-002
   teiginys: "Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-05559
 
 <a id="claim-t-10898"></a>
-- t-009
+- t-003
   teiginys: "Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-00297
 
 <a id="claim-t-10899"></a>
-- t-010
+- t-004
   teiginys: "1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -140,14 +140,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Cituojamas konkretus sutarties įsipareigojimas, o ne bendra sąvokos apibrėžtis."
   pagrindžia:
     - c-00298
-- susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74771|Lietuvos Respublikos Seimas (seimas)]]: Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
-- susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75194|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: 1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
-- susijęs iš Lietuvos Respublikos Konstitucija: Lietuvos Respublikos Konstitucija buvo priimta 1992 m. spalio 25 d. piliečių referendume.
-- susijęs iš Lietuvos Statutai: 1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
-- susijęs iš Lietuva: 1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
-- susijęs iš [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema.md#claim-t-22020|Pusiau prezidentinė ir parlamentinė valdymo sistema]]: Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
@@ -164,7 +157,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00297
@@ -195,7 +187,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-00298
   redaktorius: "A. Šapoka"
@@ -219,7 +211,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-00299
   redaktorius: "A. Šapoka"
@@ -267,7 +259,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-05559
   autorius: "Zenonas Ivinskis"
@@ -287,4 +279,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002

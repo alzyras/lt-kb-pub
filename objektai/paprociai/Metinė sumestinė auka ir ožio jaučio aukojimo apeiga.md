@@ -95,7 +95,7 @@ Nenurodyta
     - c-172653
 
 <a id="claim-t-197261"></a>
-- t-004
+- t-003
   teiginys: "Žinome, kad per panašias apeigas skam bėdavo lietuviška muzika."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -194,4 +194,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

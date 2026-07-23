@@ -30,7 +30,7 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
 ## Teiginiai
 
 <a id="claim-t-187215"></a>
-- t-002
+- t-001
   teiginys: "LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -69,7 +69,6 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170284
@@ -87,4 +86,4 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

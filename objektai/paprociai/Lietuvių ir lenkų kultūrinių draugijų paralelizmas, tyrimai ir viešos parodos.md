@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54279"></a>
-- t-006
+- t-001
   teiginys: "Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-55167
 
 <a id="claim-t-54280"></a>
-- t-004
+- t-002
   teiginys: "Vilniuje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija telkė skirtingas tautinio sąjūdžio aplinkas."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-55166
 
 <a id="claim-t-54281"></a>
-- t-005
+- t-003
   teiginys: "Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-55165
 
 <a id="claim-t-54282"></a>
-- t-002
+- t-004
   teiginys: "Abi draugijos leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-55165
 
 <a id="claim-t-54283"></a>
-- t-001
+- t-005
   teiginys: "Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Nenurodyta
     - c-55166
 
 <a id="claim-t-54284"></a>
-- t-003
+- t-006
   teiginys: "Vilniuje lietuviai pirmieji įkūrė Lietuvių dailės draugiją, o vėliau atskirą Vilniaus dailės draugiją įsteigė vietiniai dailininkai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -182,8 +182,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-002
+    - t-003
+    - t-004
 
 - id: c-55166
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -206,8 +206,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-001
+    - t-002
+    - t-005
 
 - id: c-55167
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -231,5 +231,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-006
-    - t-003

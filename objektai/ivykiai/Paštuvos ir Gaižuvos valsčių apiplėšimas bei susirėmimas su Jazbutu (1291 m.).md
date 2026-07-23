@@ -7,14 +7,14 @@ datos:
   - '1291 m.'
 date_start: '1291'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - žygis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66821"></a>
-- t-002
+- t-001
   teiginys: "Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-66941
 
 <a id="claim-t-66822"></a>
-- t-001
+- t-002
   teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-66941
   autorius: "Petras Dusburgietis"
@@ -163,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

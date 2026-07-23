@@ -7,12 +7,12 @@ datos:
   - '1276 m.'
 date_start: '1276'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,7 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 ## Teiginiai
 
 <a id="claim-t-07841"></a>
-- t-002
+- t-001
   teiginys: "1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -73,4 +73,4 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

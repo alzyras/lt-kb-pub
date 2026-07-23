@@ -144,6 +144,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   citata_rodoma: "Įėjimas -  tai priekiniai vartai, į dešinę\nnuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,\narba svečių namas (šios šventyklos ir viso miesto piešinį žiū­\nrėk VII lentelėje).\nKita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­\nklį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-\n7141-asis puslapis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

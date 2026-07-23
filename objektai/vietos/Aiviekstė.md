@@ -46,7 +46,7 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-93869
-- susijęs iš Liubano ežeras: Šiaurinė siena buvo vedama nuo Dauguvos žiočių iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
+
 ## Citatos
 
 - id: c-93869

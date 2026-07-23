@@ -58,6 +58,7 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
   citata_rodoma: "Sakoma: kokia diena, toks ir valgis."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

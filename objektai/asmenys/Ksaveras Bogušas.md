@@ -31,7 +31,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 ## Teiginiai
 
 <a id="claim-t-190001"></a>
-- t-002
+- t-001
   teiginys: "Ksaveras Bogušas išvertė Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą, perteikdamas originalo eilių metrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-172884
 
 <a id="claim-t-190002"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-172885
 
 <a id="claim-t-190914"></a>
-- t-004
+- t-003
   teiginys: "Teodoro Narbuto pasakojime Ksaveras Bogušas Etiko „Kosmografija“ grindė išsamius įrodymus apie estus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173799
 
 <a id="claim-t-190915"></a>
-- t-005
+- t-004
   teiginys: "Ksaveras Bogušas, pasak Teodoro Narbuto, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173797
 
 <a id="claim-t-190916"></a>
-- t-006
+- t-005
   teiginys: "Teodoro Narbuto teigimu, Ksaveras Bogušas lygino Belgorodo totorių herulišką dialektą su latviams artimu dialektu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173798
 
 <a id="claim-t-190917"></a>
-- t-007
+- t-006
   teiginys: "Teodoras Narbutas Ksaverą Bogušą vadino puikiu kalbų mokovu, atskleidusiu lietuvių kalbos savybes, būdingas graikų ir lotynų kalboms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173799
 
 <a id="claim-t-190918"></a>
-- t-008
+- t-007
   teiginys: "Ksaveras Bogušas manė, kad slavų skoliniai lietuvių kalboje nereikalingi, nes lietuvis jiems gali rasti savo kalbos atitikmenų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-172885
   autorius: "Teodoras Narbutas"
@@ -245,7 +245,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173796
   autorius: "Teodoras Narbutas"
@@ -290,7 +290,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173798
   autorius: "Teodoras Narbutas"
@@ -311,7 +311,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173799
   autorius: "Teodoras Narbutas"
@@ -334,8 +334,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-003
+    - t-006
 
 - id: c-173800
   autorius: "Teodoras Narbutas"
@@ -359,4 +359,4 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

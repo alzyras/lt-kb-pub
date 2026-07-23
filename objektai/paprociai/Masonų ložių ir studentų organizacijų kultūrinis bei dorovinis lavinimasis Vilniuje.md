@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193044"></a>
-- t-003
+- t-001
   teiginys: "Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-175816
 
 <a id="claim-t-193045"></a>
-- t-006
+- t-002
   teiginys: "Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-175816
 
 <a id="claim-t-193046"></a>
-- t-001
+- t-003
   teiginys: "Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-175815
 
 <a id="claim-t-193047"></a>
-- t-008
+- t-004
   teiginys: "R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-170777
 
 <a id="claim-t-193048"></a>
-- t-002
+- t-005
   teiginys: "N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -155,8 +155,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-002
+    - t-004
+    - t-005
 
 - id: c-175814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -180,8 +180,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-001
+    - t-002
 
 - id: c-175815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -200,7 +200,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-175816
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -224,5 +224,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-001
+    - t-002

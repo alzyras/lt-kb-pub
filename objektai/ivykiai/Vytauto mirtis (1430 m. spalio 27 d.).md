@@ -8,12 +8,12 @@ datos:
   - '1430 m.'
 date_start: '1430'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66992"></a>
-- t-003
+- t-001
   teiginys: "1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-04920
 
 <a id="claim-t-66993"></a>
-- t-004
+- t-002
   teiginys: "Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-04921
 
 <a id="claim-t-66995"></a>
-- t-001
+- t-003
   teiginys: "Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67071
-- susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -129,7 +129,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-04920
@@ -147,7 +146,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-04921
   autorius: "Zenonas Ivinskis"
@@ -163,7 +162,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-67071
   redaktorius: "A. Šapoka"
@@ -182,4 +181,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

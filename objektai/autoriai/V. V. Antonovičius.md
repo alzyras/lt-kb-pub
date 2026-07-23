@@ -45,8 +45,7 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
   semantiniai_rysiai: "Slavai gyveno Lietuva (0.58)"
   pagrindžia:
     - c-33187
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47901|Rusų ir ukrainiečių istorikai]]: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
-- susijęs iš Odesa: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.
+
 ## Citatos
 
 - id: c-33187

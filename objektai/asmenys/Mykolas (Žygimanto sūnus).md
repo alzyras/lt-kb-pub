@@ -9,16 +9,16 @@ datos:
   - '1448 m.'
 date_start: '1440'
 date_end: '1448'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - pilis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -77,7 +77,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - c-83538
 
 <a id="claim-t-184794"></a>
-- t-005
+- t-003
   teiginys: "Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - c-168155
 
 <a id="claim-t-184798"></a>
-- t-009
+- t-004
   teiginys: "1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     - c-168159
 
 <a id="claim-t-196567"></a>
-- t-010
+- t-005
   teiginys: "Mykolas (Žygimanto sūnus) negalėsiąs užimti karalystės sosto."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -268,7 +268,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-168158
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -300,7 +300,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005
 
 - id: c-168159
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -339,10 +339,9 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 ## Ryšiai
-- Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
 - Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]
 - Mykolas (Žygimanto sūnus) puolė [[objektai/vietos/Severskas]]
 - Mykolas (Žygimanto sūnus) kariavo prieš [[objektai/asmenys/Švitrigaila]]

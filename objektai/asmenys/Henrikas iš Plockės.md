@@ -8,16 +8,16 @@ datos:
   - '1320 m.'
 date_start: '1314'
 date_end: '1320'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karvedys
   - pareigūnas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-60501
 
 <a id="claim-t-59866"></a>
-- t-004
+- t-003
   teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-60502
 
 <a id="claim-t-59867"></a>
-- t-007
+- t-004
   teiginys: "1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-60498
 
 <a id="claim-t-59870"></a>
-- t-003
+- t-007
   teiginys: "1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -172,8 +172,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60502
-- susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
-- susijęs iš Bisenė: Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.'
@@ -185,12 +184,15 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     įsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus
     žmonių paėmė į nelaisvę ar nukovė.
 
+
+
+
                327 (320).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -206,11 +208,12 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė į Ragainę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-008
+
 - c-003
   santrauka: '1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -225,11 +228,10 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
     negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60496
@@ -317,7 +319,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-007
 
 - id: c-60500
   autorius: "Petras Dusburgietis"
@@ -340,8 +342,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-007
     - t-005
 
 - id: c-60501
@@ -383,7 +385,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
     - t-008
 
 ## Ryšiai

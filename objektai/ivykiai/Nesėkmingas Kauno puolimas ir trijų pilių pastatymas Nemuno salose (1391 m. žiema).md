@@ -69,7 +69,7 @@ Nenurodyta
     - c-168987
 
 <a id="claim-t-193362"></a>
-- t-003
+- t-002
   teiginys: "Nemuno salose pastatytose Nojerverderio ir Ritersverderio pilyse kryžiuočiai paliko įgulas, o Marienburge Vytautas įkurdino savo karius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-176089
 
 <a id="claim-t-196231"></a>
-- t-004
+- t-003
   teiginys: "Atėjus žiemai Vytautas ir toliau rengė išpuolius iš žiemos stovyklos, todėl lietuviams ji nebuvo ramesnė už vasarą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-168987
 
 <a id="claim-t-196232"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičiaus aiškinimu, Vytautas, netekęs vilties užimti Kauną ir nenorėdamas atrodyti nieko nenuveikęs, pastatė naujas pilis Nemuno salose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-176089
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -176,5 +176,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004

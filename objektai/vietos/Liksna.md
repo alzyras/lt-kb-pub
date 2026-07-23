@@ -36,7 +36,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 ## Teiginiai
 
 <a id="claim-t-86023"></a>
-- t-002
+- t-001
   teiginys: "Iš Liksnos į Lietuvą buvo pasiųstas Petras surinkti žinių apie Švitrigailos padėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
     - c-82003
 
 <a id="claim-t-86024"></a>
-- t-001
+- t-002
   teiginys: "Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +66,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82002
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m.
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.
-- susijęs iš [[objektai/asmenys/Peter van der Lyxten.md#claim-t-87822|Peter van der Lyxten]]: Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179698|Švitrigaila]]: Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179363|Livonijos ordinas]]: Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179434|Livonijos ordinas]]: Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179436|Livonijos ordinas]]: Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176081|Vilniaus kapitula]]: Dinaburgo komtūro pranešime minėtas Vilniaus miesto, kapitulos ir pilies gaisras.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176090|Vilniaus kapitula]]: Dinaburgo komtūro pranešime Livonijos magistrui minėtas Vilniaus miesto, Vilniaus kapitulos ir pilies gaisras bei Vytauto patirti nuostoliai.
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
+
 ## Citatos
 
 - id: c-82002
@@ -95,7 +86,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-82003
   autorius: "Michał Baliński"
@@ -121,4 +112,4 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

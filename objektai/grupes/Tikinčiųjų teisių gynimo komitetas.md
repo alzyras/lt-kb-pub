@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20047"></a>
-- t-002
+- t-001
   teiginys: "Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +54,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-22783
-- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.
+
 ## Citatos
 
 - id: c-22782
@@ -117,4 +116,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

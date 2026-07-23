@@ -30,9 +30,9 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
 ## Teiginiai
 
 <a id="claim-t-188924"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,25 +48,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171813
-- susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190059|Šventasis Steponas (Permės vyskupas)]]: Narbutas Šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo jį su senovinės Biarmijos krikštijimu.
-- susijęs iš [[objektai/autoriai/Šventasis Steponas.md#claim-t-190464|Šventasis Steponas]]: Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189432|Biarmiai]]: Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189433|Biarmiai]]: Narbutas teigė, kad stiprėjant rusų valstybei Biarmija turėjo tapti jos provincija, nors biarmiai atkakliai laikėsi senosios stabmeldystės.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189434|Biarmiai]]: Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190610|Lietuviai]]: Narbutas teigė, kad lietuvių žemėje aptikti Biarmijos, arba Permės, raidyno pėdsakai rodo senovės lietuvius naudojusis tomis raidėmis.
-- susijęs iš [[objektai/grupes/Normanai.md#claim-t-188289|Normanai]]: Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-190619|Skandinavai]]: Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.
-- susijęs iš Didysis Naugardas: Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.
-- susijęs iš Lietuva: Narbutas teigė lietuvių žemėje aptikęs Biarmijos raidyno pėdsakų, rodančių, kad senovės lietuviai naudojosi tomis raidėmis.
-- susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190058|Šventasis Steponas (Permės vyskupas)]]: Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikščionybę iki Šventojo Stepono buvo nesėkmingas ir turėjo kankinių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179316|Lietuviai]]: Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189483|Skitai]]: Narbutas rašo, kad senovės Graikijos geografai žinias apie Biarmijos gyventojus gavo iš skitų.
-- susijęs iš Lietuva: Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą.
-- susijęs iš Naugardas: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.
-- susijęs iš Žemaitija: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš Žemaitija: Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides.
-- susijęs iš [[objektai/grupes/Normanai.md#claim-t-188289|Normanai]]: Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lietuvių žemėje ir kad senovės lietuviai naudojosi tomis raidėmis.'
@@ -154,4 +136,4 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

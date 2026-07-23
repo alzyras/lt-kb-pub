@@ -51,7 +51,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
 ## Teiginiai
 
 <a id="claim-t-195271"></a>
-- t-002
+- t-001
   teiginys: "Užaugęs Raulas bernavo pas ūkininkus, o šeimą laikė ūkininko grįtelėje."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -61,7 +61,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     - c-177637
 
 <a id="claim-t-195272"></a>
-- t-003
+- t-002
   teiginys: "Raulas kasmet dviem mėnesiams eidavo į dvarą sodo daboti ir už tai gaudavo valgymą bei tris rublius."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -71,7 +71,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
     - c-177638
 
 <a id="claim-t-195273"></a>
-- t-001
+- t-003
   teiginys: "Raulas nuo mažens rinko žmonėse maistą sergančiai motinai ir tuo pačiu pats miso."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -79,8 +79,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177639
-- susijęs iš [[objektai/daiktai/Ražončius.md#claim-t-195348|Ražončius]]: Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys.
-- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195302|Terba]]: ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais.
+
 ## Citatos
 
 - id: c-177637
@@ -97,7 +96,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177638
   autorius: "M. Katkus"
@@ -113,7 +112,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177639
   autorius: "M. Katkus"
@@ -129,4 +128,4 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

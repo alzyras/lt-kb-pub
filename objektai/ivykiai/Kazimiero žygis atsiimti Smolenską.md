@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-199214"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -58,7 +58,7 @@ Nenurodyta
     - c-181703
 
 <a id="claim-t-199215"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-181703
 
 <a id="claim-t-199216"></a>
-- t-005
+- t-003
   teiginys: "Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-181702
 
 <a id="claim-t-199218"></a>
-- t-001
+- t-005
   teiginys: "Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -153,9 +153,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
     - t-004
-    - t-001
+    - t-005
     - t-006
 
 - id: c-181703
@@ -183,5 +183,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

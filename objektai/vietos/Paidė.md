@@ -74,13 +74,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168438
-- susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
+
 ## Citatos
 
 - id: c-45256

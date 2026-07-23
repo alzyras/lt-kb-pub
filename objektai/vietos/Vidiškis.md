@@ -45,11 +45,7 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
   semantiniai_rysiai: "Lenkai užėmė Vidiškis (0.95); Lenkai kariavo prieš Lietuviai (0.76)"
   pagrindžia:
     - c-45403
-- susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
-- susijęs iš Giedraičiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
-- susijęs iš Dubingiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
-- susijęs iš Giedraičiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
-- susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
+
 ## Citatos
 
 - id: c-45403

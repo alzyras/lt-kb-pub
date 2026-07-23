@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75108"></a>
-- t-002
+- t-001
   teiginys: "Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų)."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-166614
 
 <a id="claim-t-75109"></a>
-- t-003
+- t-002
   teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-73024
 
 <a id="claim-t-75110"></a>
-- t-001
+- t-003
   teiginys: "Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-166614
 
 <a id="claim-t-183227"></a>
-- t-005
+- t-004
   teiginys: "Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-73024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -182,7 +182,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -201,6 +201,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-005
+    - t-003
+    - t-004

@@ -48,7 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-186429"></a>
-- t-002
+- t-001
   teiginys: "Leidinio įvade nurodoma, kad pavadinimas „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas, o vardas „Bychovco kronika“ prigijo XIX a. pagal Aleksandrą Bychovcą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -65,7 +65,7 @@ media_all_json: |-
     - c-169780
 
 <a id="claim-t-186430"></a>
-- t-001
+- t-002
   teiginys: "1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -110,7 +110,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-169780
   autorius: "Anoniminis metraštininkas"
@@ -134,4 +134,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

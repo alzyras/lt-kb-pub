@@ -70,7 +70,7 @@ Nenurodyta
     - c-168881
 
 <a id="claim-t-196158"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičius pabrėžia penkių lietuvių narsą: naktį jie prasigavo pro sargybas, nužudė kelis priešus, paėmė grobio ir grįžo pas savuosius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-168881
 
 <a id="claim-t-196159"></a>
-- t-004
+- t-003
   teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą, bet po pirmojo pilies antpuolio atsisakė sumanymo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-178562
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -166,4 +166,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192071"></a>
-- t-003
+- t-001
   teiginys: "Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-174943
 
 <a id="claim-t-192073"></a>
-- t-001
+- t-002
   teiginys: "LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-174941
 
 <a id="claim-t-192503"></a>
-- t-004
+- t-003
   teiginys: "Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,22 +106,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175293
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10150|Karinė ginkluotė]]: XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117251|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117255|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų.
-- susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
-- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
-- susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
-- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176222|Šarvai]]: Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
-- susijęs iš Ragainė: Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.
-- susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
-- susijęs iš Ukraina: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
-- susijęs iš Valakija: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
-- susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
-- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42510|stabmeldys]]: Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.
-- susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui.'
@@ -139,7 +124,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174941
@@ -161,7 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-174943
   autorius: "Teodoras Narbutas"
@@ -176,7 +160,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-175293
   autorius: "Teodoras Narbutas"
@@ -196,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

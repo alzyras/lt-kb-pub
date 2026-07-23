@@ -70,7 +70,7 @@ Nenurodyta
     - c-167349
 
 <a id="claim-t-59251"></a>
-- t-003
+- t-002
   teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-59883
   autorius: "Petras Dusburgietis"

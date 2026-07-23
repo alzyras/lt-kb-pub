@@ -10,16 +10,16 @@ datos:
   - '1419 m.'
 date_start: '1409'
 date_end: '1419'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -124,14 +124,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176601
-- susijęs iš [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas).md#claim-t-35297|Tochtamyšas (Krymo ordos chanas)]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
-- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-51184|Tochtamyšas]]: Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.
-- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-51185|Tochtamyšas]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
-- susijęs iš [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.).md#claim-t-185645|Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]: Po chano Saladino mirties Užvolgio skitai suskilo į grupes, palaikiusias skirtingus mirusio valdovo sūnus.
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60142|Henrikas Valpotas]]: Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus.
-- susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
-- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
-- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ir jis paskyrė jiems chaną, vardu Saladiną7 .'
@@ -148,7 +141,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-79116

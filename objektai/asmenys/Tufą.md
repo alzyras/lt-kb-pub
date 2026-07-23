@@ -92,8 +92,7 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174213
-- susijęs iš [[objektai/asmenys/Frederikas.md#claim-t-191203|Frederikas]]: Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190945|Odoakras]]: Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.'
@@ -105,11 +104,11 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
     į Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma
     užvėrė savo vartus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
 
 ## Citatos
 

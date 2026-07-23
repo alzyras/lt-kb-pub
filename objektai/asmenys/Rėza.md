@@ -39,7 +39,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 ## Teiginiai
 
 <a id="claim-t-190116"></a>
-- t-003
+- t-001
   teiginys: "Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
     - c-172999
 
 <a id="claim-t-197441"></a>
-- t-005
+- t-002
   teiginys: "Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -69,11 +69,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172997
-- susijęs iš [[objektai/asmenys/Liudvikas Rėza.md#claim-t-188578|Liudvikas Rėza]]: Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį.
-- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188471|Rėza (leidėjas, 1818 m.)]]: Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus.
-- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188472|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.
-- susijęs iš [[objektai/posakiai/O wakar wakaratij.md#claim-t-189555|O wakar wakaratij]]: Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pradžią Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
-- susijęs iš Rėzos „Dainos“: Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Rėza pas senovės prūsus matė Šilinyčių, dar vadintą Šilo Radikiu, ir lygino jį su slavų Radegastu.'
@@ -144,7 +140,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-172999
   autorius: "Teodoras Narbutas"
@@ -164,4 +160,4 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

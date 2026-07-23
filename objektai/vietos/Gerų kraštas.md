@@ -7,14 +7,14 @@ datos:
   - '1810 m.'
 date_start: '1810'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - upė
   - vieta
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
     - c-175589
 
 <a id="claim-t-197880"></a>
-- t-003
+- t-002
   teiginys: "Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175589
-- susijęs iš Rogačiovas: Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.'
@@ -119,7 +119,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175589
@@ -153,4 +152,4 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

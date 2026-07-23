@@ -67,7 +67,7 @@ Nenurodyta
     - c-156007
 
 <a id="claim-t-171481"></a>
-- t-005
+- t-002
   teiginys: "Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-156006
 
 <a id="claim-t-171483"></a>
-- t-004
+- t-003
   teiginys: "Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-156007
   autorius: "Zenonas Ivinskis"
@@ -130,4 +130,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003

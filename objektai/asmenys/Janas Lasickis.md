@@ -113,7 +113,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171444
 
 <a id="claim-t-188557"></a>
-- t-007
+- t-006
   teiginys: "Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171446
 
 <a id="claim-t-188558"></a>
-- t-008
+- t-007
   teiginys: "Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171447
 
 <a id="claim-t-188559"></a>
-- t-009
+- t-008
   teiginys: "Narbutas vertina, kad Lasickis apsiriko Ragutienę pačią laikydamas dievu, o ne aludarystę globojančia deive."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171449
 
 <a id="claim-t-188560"></a>
-- t-010
+- t-009
   teiginys: "Narbutas kaltina Lasickį nekritiškai rinkus mitologinius duomenis ir klydus dėl dievaičių kerpių rinkimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171449
 
 <a id="claim-t-188561"></a>
-- t-011
+- t-010
   teiginys: "Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -206,7 +206,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171450
 
 <a id="claim-t-188562"></a>
-- t-012
+- t-011
   teiginys: "Narbutas perteikia Lasickio teiginį, kad lietuviai kai kurias dievų garbinimo apeigas slėpdavo nuo krikščionių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -226,7 +226,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-171451
 
 <a id="claim-t-188563"></a>
-- t-013
+- t-012
   teiginys: "Narbutas aiškina, kad Lasickis fetišo termino nevartojo, bet aprašė asmeninius fetišus šventovėse, giminėse, namuose ir pas pavienius žmones."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -240,7 +240,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-179171
 
 <a id="claim-t-190648"></a>
-- t-014
+- t-013
   teiginys: "Narbutas nurodo, kad burtininkės pavadinimas Burte yra Lasickio mitologijoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -260,7 +260,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173531
 
 <a id="claim-t-190649"></a>
-- t-015
+- t-014
   teiginys: "Narbutas rašo, kad Lasickis iš Jokūbo Laskovičiaus girdėjo apie Žemaitijoje daugeliui dievų teiktą garbę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -280,7 +280,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173532
 
 <a id="claim-t-190650"></a>
-- t-016
+- t-015
   teiginys: "Narbutas mano, kad Lasickis, cituodamas maldelę Perkūnui, padarė aiškią lietuvių kalbos klaidą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -300,7 +300,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173533
 
 <a id="claim-t-190651"></a>
-- t-017
+- t-016
   teiginys: "Narbutas vertina, kad Lasickio paliktas pirmos alaus statinės pradėjimo apeigų aprašymas menkavertis, bet svarbus kaip senovės paminklas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -320,7 +320,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173534
 
 <a id="claim-t-190652"></a>
-- t-018
+- t-017
   teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų apeigų mirusiųjų garbei aprašymą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -333,7 +333,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173532
 
 <a id="claim-t-190896"></a>
-- t-019
+- t-018
   teiginys: "Janas Lasickis parašė darbą „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“, išleistą Bazelyje 1615 m."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -356,7 +356,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-173778
 
 <a id="claim-t-197404"></a>
-- t-020
+- t-019
   teiginys: "Ką paliko Lasickis ir ką čia ką tik pasakėme, to teisingumą patvirtina tyrimai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -368,7 +368,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-179168
 
 <a id="claim-t-197405"></a>
-- t-021
+- t-020
   teiginys: "Jonas Lasickis sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -380,7 +380,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-179169
 
 <a id="claim-t-197406"></a>
-- t-022
+- t-021
   teiginys: "Tik tiek težinome iš Lasickio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -392,7 +392,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     - c-179170
 
 <a id="claim-t-197407"></a>
-- t-023
+- t-022
   teiginys: "Jonas Lasickis būtų kalbėjęs lietuviams, kurie senovės laikais šito iškilmingai laikydavosi ir iš dalies to laikėsi iki Laskovičiaus ir Lasickio laikų, tai yra iki XVI amžiaus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -555,7 +555,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-171447
   autorius: "Teodoras Narbutas"
@@ -574,7 +574,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-171448
   autorius: "Teodoras Narbutas"
@@ -616,9 +616,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-008
     - t-009
-    - t-010
-    - t-013
+    - t-012
 
 - id: c-171450
   autorius: "Teodoras Narbutas"
@@ -637,7 +637,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-171451
   autorius: "Teodoras Narbutas"
@@ -657,7 +657,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-171452
   autorius: "Teodoras Narbutas"
@@ -698,7 +698,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-173532
   autorius: "Teodoras Narbutas"
@@ -722,8 +722,8 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-018
+    - t-014
+    - t-017
 
 - id: c-173533
   autorius: "Teodoras Narbutas"
@@ -748,7 +748,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-173534
   autorius: "Teodoras Narbutas"
@@ -773,7 +773,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
 - id: c-173535
   autorius: "Teodoras Narbutas"
@@ -814,7 +814,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-179168
   autorius: "Teodoras Narbutas"
@@ -833,7 +833,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-019
 
 - id: c-179169
   autorius: "Teodoras Narbutas"
@@ -854,7 +854,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-020
 
 - id: c-179170
   autorius: "Teodoras Narbutas"
@@ -872,7 +872,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-021
 
 - id: c-179171
   autorius: "Teodoras Narbutas"
@@ -892,5 +892,5 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-023
+    - t-012
+    - t-022

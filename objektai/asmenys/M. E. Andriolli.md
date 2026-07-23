@@ -54,7 +54,7 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena."
   pagrindžia:
     - c-26678
-- susijęs iš [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“.md#claim-t-77930|M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]: M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.
+
 ## Citatos
 
 - id: c-26678

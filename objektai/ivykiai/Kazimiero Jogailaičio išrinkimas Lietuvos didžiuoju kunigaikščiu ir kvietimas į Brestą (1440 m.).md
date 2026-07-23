@@ -79,7 +79,7 @@ Nenurodyta
     - c-168949
 
 <a id="claim-t-196178"></a>
-- t-005
+- t-003
   teiginys: "Galop po karštų ginčų dauge lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio Algimantaičio pasiūlytą karaliaus Vladislovo brolį Kazi mierą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -174,4 +174,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-003

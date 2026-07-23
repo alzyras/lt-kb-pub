@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66533"></a>
-- t-002
+- t-001
   teiginys: "221 Pipino nukankinimas vaizduojamas tendencingai (žr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-66747
 
 <a id="claim-t-66534"></a>
-- t-001
+- t-002
   teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-66746
 
 <a id="claim-t-194384"></a>
-- t-004
+- t-003
   teiginys: "Apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -151,8 +151,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-66747
   autorius: "Petras Dusburgietis"
@@ -167,4 +167,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

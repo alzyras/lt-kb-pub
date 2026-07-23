@@ -35,7 +35,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 ## Teiginiai
 
 <a id="claim-t-41562"></a>
-- t-002
+- t-001
   teiginys: "Knygos „Lietuvos užsienio politika XVI a.“ įklijoje tarp 224 ir 225 puslapių pavaizduotas totorių raitelis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
     - c-45008
 
 <a id="claim-t-41563"></a>
-- t-001
+- t-002
   teiginys: "Knygos „Lietuvos užsienio politika XVI a.“ įklijoje pavaizduoti Krymo totoriai, varantys užgrobtus belaisvius ir gyvulius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-45008
   sudarytojas: "Karolis Zikaras"
@@ -97,4 +97,4 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

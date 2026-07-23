@@ -45,8 +45,7 @@ dr. Baptista Cigala^16.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-28856
-- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.
-- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.
+
 ## Citatos
 
 - id: c-28856

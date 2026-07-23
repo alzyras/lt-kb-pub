@@ -60,10 +60,7 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45500
-- susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
-- susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40967|Kuršiečiai]]: Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
-- susijęs iš [[objektai/zodynas/muškietininkai.md#claim-t-42481|muškietininkai]]: Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.
-- susijęs iš [[objektai/zodynas/tercija.md#claim-t-42517|tercija]]: Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai.
+
 ## Citatos
 
 - id: c-45500

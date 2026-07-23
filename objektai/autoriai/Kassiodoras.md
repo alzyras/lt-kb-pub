@@ -64,10 +64,7 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
   temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia kalba apie Jordanesą, todėl perrašyta sutelkiant faktą į Kassiodorą."
   pagrindžia:
     - c-33003
-- susijęs iš [[objektai/autoriai/Jordanes.md#claim-t-30717|Jordanes]]: Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus.
-- susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
-- susijęs iš [[objektai/posakiai/pacatum hominum genus omnino.md#claim-t-31565|pacatum hominum genus omnino]]: Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože.
-- susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
+
 ## Citatos
 
 - id: c-33003

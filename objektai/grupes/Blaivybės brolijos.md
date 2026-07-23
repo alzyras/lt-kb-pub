@@ -3,7 +3,7 @@ tipas: grupe
 pavadinimas: 'Blaivybės brolijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 datos:
   - '1858 m.'
   - '1863 m.'
@@ -83,7 +83,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     - c-177950
 
 <a id="claim-t-195533"></a>
-- t-005
+- t-004
   teiginys: "Aprašyta blaivybės būklė tęsėsi iki 1863 m. sukilimo."
   atnaujinta: "2026-07-12 05:59"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177948
-- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195373|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką.
+
 ## Citatos
 
 - id: c-22365
@@ -147,7 +147,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177949
   autorius: "M. Katkus"

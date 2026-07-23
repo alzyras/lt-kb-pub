@@ -11,9 +11,6 @@ datos:
   - '2026 m.'
 date_start: '1785'
 date_end: '2026'
-amziai:
-  - 'XVIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +18,9 @@ tags:
   - vieta
   - kraštas
   - kaimas
+amziai:
+  - 'XVIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -154,43 +154,39 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175542
-- susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
-- susijęs iš [[objektai/grupes/Liutičiai.md#claim-t-192996|Liutičiai]]: Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica.
-- susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
-- susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
-- susijęs iš Ariogala: 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.
-- susijęs iš Pačtuva: 1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.
-- susijęs iš Upinės upelis Išganytojo upelis: Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante prie Zapyškio, tarp Kauno ir Vilkijos.
-- susijęs iš [[objektai/asmenys/Zabiela.md#claim-t-190221|Zabiela]]: Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
-- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
-- susijęs iš Ariogala: Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.
-- susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
-- susijęs iš Gaižuva: 1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.
-- susijęs iš Kymel: 1295 m. kryžiuočiai sunaikino prie Nemuno stovėjusią stiprią Kymel pilį.
-- susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
-- susijęs iš Paštuvos valsčius: Paštuvos valsčius buvo deš.
-- susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
-- susijęs iš Upinės kaupas: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš Upinės upelis Išganytojo upelis: Narbutas pasakojo, kad senė, vadinama Upine, apeigomis pašventindavo Upinės upelį ir suteikdavo jam metų gydomąją galią.
-- susijęs iš Upinės upelis Išganytojo upelis: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189186|Upinė]]: Narbutas pasakojo, kad Upine vadinama senė apeigomis pašventindavo upelį, kuris esą visiems metams įgydavo gydomosios galios.
+
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv. Jono išvakarėse, krikščionių kunigas pašventino upelį, ku­
+    ris dėl to iki šiol neprarado gydomojo poveikio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Narbutas Vilkiją aiškino kaip vėlesnį didelio krašto vardą ir siejo jį su herulų įsikūrimu tarp saksų ir slavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Ten jie išlipo ir VI amžiaus pirmojoje pusėje pasistūmėjo
-    dešiniau iki Elbės vidurupio ir iš dalies net iki Oderio.
     Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija;
     lietuvių kalba reiškia didelį. Vyskupas Enodijus liudija,
     jog herulai įsikūrė tarp saksų ir slavų amžiaus pabaigo­
-    je1.
+    je1. Jordanas mini, jog herulams atiteko germanų genčių
+    paliktos ir slavų dar neužimtos žemės2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+
 - c-005
   santrauka: 'Narbutas Vilkiją laikė herulų kraštu, Didžiąja Herulija, iš kurios apie 580 metus slavai esą išstūmė ankstesnius gyventojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -206,11 +202,10 @@ media_all_json: |-
     valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje
     žinomi Vilkija, Vilkai, Vilkiškės.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-39988

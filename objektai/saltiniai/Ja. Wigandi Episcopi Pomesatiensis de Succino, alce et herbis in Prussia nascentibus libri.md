@@ -7,12 +7,12 @@ datos:
   - '1590 m.'
 date_start: '1590'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,11 +74,10 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
     nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
     ją norėjo įdėti į savo „Monumentą Prussica“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174725

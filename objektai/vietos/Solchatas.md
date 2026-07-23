@@ -7,13 +7,13 @@ datos:
   - '1449 m.'
 date_start: '1449'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - sostinė
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,8 +55,7 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadinta
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170360
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187449|Krymo chanatas]]: Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187450|Krymo chanatas]]: Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -90,7 +89,6 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadinta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: not_found
-
 ## Citatos
 
 - id: c-170360

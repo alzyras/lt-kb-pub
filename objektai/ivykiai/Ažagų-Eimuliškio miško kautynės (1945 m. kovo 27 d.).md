@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78607"></a>
-- t-009
+- t-001
   teiginys: "1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-75839
 
 <a id="claim-t-78608"></a>
-- t-007
+- t-002
   teiginys: "Ažagų-Eimuliškio miško kautynėse dalyvavo Žaliosios rinktinės Aušros būrys, o dienos pabaigoje dalis partizanų prasiveržė Pakruojo link."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-11833
 
 <a id="claim-t-78609"></a>
-- t-005
+- t-003
   teiginys: "1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-75838
 
 <a id="claim-t-78610"></a>
-- t-008
+- t-004
   teiginys: "Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -121,7 +121,7 @@ Nenurodyta
     - c-75837
 
 <a id="claim-t-78611"></a>
-- t-006
+- t-005
   teiginys: "NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -137,7 +137,7 @@ Nenurodyta
     - c-75836
 
 <a id="claim-t-78612"></a>
-- t-010
+- t-006
   teiginys: "Ažagų-Eimuliškio miško kautynėse žuvo apie 76–80 partizanų."
   atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -146,9 +146,7 @@ Nenurodyta
     - c-75836
     - c-75838
     - c-75839
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
+
 ## Citatos
 
 - id: c-11833
@@ -172,7 +170,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-75836
   sudarytojas: "Karolis Zikaras"
@@ -190,8 +188,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-006
-    - t-010
 
 - id: c-75837
   sudarytojas: "Karolis Zikaras"
@@ -213,7 +211,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-75838
   sudarytojas: "Karolis Zikaras"
@@ -233,8 +231,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-010
+    - t-003
+    - t-006
 
 - id: c-75839
   sudarytojas: "Karolis Zikaras"
@@ -256,8 +254,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-010
+    - t-001
+    - t-006
 
 - id: c-75840
   sudarytojas: "Karolis Zikaras"
@@ -279,6 +277,7 @@ Nenurodyta
     ūkininkus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

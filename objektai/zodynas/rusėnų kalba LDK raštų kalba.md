@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169928"></a>
-- t-004
+- t-001
   teiginys: "Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-24982
 
 <a id="claim-t-169930"></a>
-- t-003
+- t-002
   teiginys: "Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-154609
 
 <a id="claim-t-169931"></a>
-- t-006
+- t-003
   teiginys: "Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-24982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -116,7 +116,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-154609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -135,7 +135,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-154610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,6 +153,7 @@ media_all_json: |-
   citata_rodoma: "je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

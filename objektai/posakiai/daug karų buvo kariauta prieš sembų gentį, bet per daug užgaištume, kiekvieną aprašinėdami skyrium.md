@@ -48,7 +48,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     - c-85523
 
 <a id="claim-t-89580"></a>
-- t-003
+- t-002
   teiginys: "Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     - c-85522
 
 <a id="claim-t-89582"></a>
-- t-004
+- t-003
   teiginys: "Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     - c-85522
 
 <a id="claim-t-197043"></a>
-- t-005
+- t-004
   teiginys: "Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,8 +111,8 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
 
 - id: c-85523
   autorius: "Petras Dusburgietis"
@@ -156,4 +156,4 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

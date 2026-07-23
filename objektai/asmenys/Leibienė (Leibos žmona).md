@@ -48,7 +48,7 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
 ## Teiginiai
 
 <a id="claim-t-195278"></a>
-- t-003
+- t-001
   teiginys: "Leibienė buvo siejama su moteriškomis prekėmis ir vėliau išėjo gyventi į Panevėžį."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,7 +83,7 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177644
   autorius: "M. Katkus"

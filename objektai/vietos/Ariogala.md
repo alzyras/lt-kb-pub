@@ -18,14 +18,14 @@ datos:
   - '2026 m.'
 date_start: '1232'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 ## Teiginiai
 
 <a id="claim-t-179746"></a>
-- t-007
+- t-001
   teiginys: "Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-163410
 
 <a id="claim-t-179747"></a>
-- t-006
+- t-002
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-05711
 
 <a id="claim-t-179749"></a>
-- t-015
+- t-003
   teiginys: "1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-43321
 
 <a id="claim-t-179750"></a>
-- t-010
+- t-004
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-05711
 
 <a id="claim-t-179751"></a>
-- t-014
+- t-005
   teiginys: "Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-163409
 
 <a id="claim-t-179752"></a>
-- t-013
+- t-006
   teiginys: "Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-163414
 
 <a id="claim-t-179754"></a>
-- t-005
+- t-007
   teiginys: "Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-05710
 
 <a id="claim-t-184921"></a>
-- t-016
+- t-008
   teiginys: "Kojelavičiaus pasakojime priešas, nusiaubęs Žemaitiją, su žeme sulygino Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-168282
 
 <a id="claim-t-184922"></a>
-- t-017
+- t-009
   teiginys: "Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -217,7 +217,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-168283
 
 <a id="claim-t-188665"></a>
-- t-001
+- t-010
   teiginys: "Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -284,7 +284,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - c-171556
 
 <a id="claim-t-194985"></a>
-- t-018
+- t-013
   teiginys: "Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12."
   atnaujinta: "2026-07-06 13:01"
   sprendimo_priezastis: "auto"
@@ -295,58 +295,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-05711
-- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
-- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-188651|Vytenis (valdovas, XIII–XIV a.)]]: Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.
-- susijęs iš [[objektai/autoriai/Petras Suchenwirt.md#claim-t-30926|Petras Suchenwirt]]: Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.
-- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
-- susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
-- susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
-- susijęs iš Vaikiai: Kojelavičiaus pasakojime iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
-- susijęs iš Žemaitija: Kojelavičius rašo, kad iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
-- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
-- susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
-- susijęs iš [[objektai/asmenys/Dormunimundas.md#claim-t-190143|Dormunimundas]]: Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
-- susijęs iš [[objektai/asmenys/Glapiminas.md#claim-t-190153|Glapiminas]]: Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio užkariavimo sugrįžo į Lietuvą.
-- susijęs iš [[objektai/asmenys/Sutinkąs.md#claim-t-190211|Sutinkąs]]: Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje.
-- susijęs iš [[objektai/daiktai/Lietuvos partizanų uniformos.md#claim-t-80689|Lietuvos partizanų uniformos]]: Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.
-- susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
-- susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
-- susijęs iš [[objektai/grupes/Lietuvos ponai.md#claim-t-189495|Lietuvos ponai]]: Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą.
-- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
-- susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
-- susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
-- susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
-- susijęs iš Gaižuvos valsčius: 1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą.
-- susijęs iš Gaižuvos valsčius: 1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių.
-- susijęs iš Klogėnai: Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
-- susijęs iš Kulių (Jurgaičių) pilys: 1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.
-- susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
-- susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
-- susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
-- susijęs iš Raseiniai: 1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.
-- susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.
-- susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
-- susijęs iš Vaikiai: Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta.
-- susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
-- susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
-- susijęs iš Žemaitija: Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.
-- susijęs iš Žemaitija: Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
-- susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
-- susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
-- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
@@ -403,7 +352,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-05710
@@ -423,7 +371,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007
 
 - id: c-05711
   autorius: "Zenonas Ivinskis"
@@ -441,9 +389,9 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-010
-    - t-018
+    - t-002
+    - t-004
+    - t-013
 
 - id: c-43321
   sudarytojas: "Karolis Zikaras"
@@ -463,7 +411,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-003
 
 - id: c-163409
   autorius: "Michał Baliński"
@@ -484,7 +432,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-005
 
 - id: c-163410
   autorius: "Zenonas Ivinskis"
@@ -505,7 +453,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-163414
   autorius: "Michał Baliński"
@@ -525,7 +473,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-006
 
 - id: c-168282
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -553,7 +501,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-008
 
 - id: c-168283
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -591,7 +539,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-009
 
 - id: c-171554
   autorius: "Teodoras Narbutas"
@@ -609,7 +557,7 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-171555
   autorius: "Teodoras Narbutas"

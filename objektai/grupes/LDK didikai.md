@@ -44,14 +44,7 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22475
-- susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-54226|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
-- susijęs iš [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas.md#claim-t-77951|LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]: LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-101238|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-101239|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-183129|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-183130|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia.md#claim-t-183128|Evangelikų reformatų bažnyčia]]: Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
-- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia.md#claim-t-19690|Evangelikų reformatų bažnyčia]]: LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.
+
 ## Citatos
 
 - id: c-22475

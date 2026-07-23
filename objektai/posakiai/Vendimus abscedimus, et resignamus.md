@@ -53,7 +53,7 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo ir yra per ilgas, bet citata pagrindžia sutarties faktą."
   pagrindžia:
     - c-82854
-- susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
+
 ## Citatos
 
 - id: c-82854

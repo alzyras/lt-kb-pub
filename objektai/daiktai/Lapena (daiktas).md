@@ -12,10 +12,10 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,9 +63,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
   pagrindžia:
     - c-185673
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

@@ -30,7 +30,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Teiginiai
 
 <a id="claim-t-19962"></a>
-- t-002
+- t-001
   teiginys: "Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     - c-22694
 
 <a id="claim-t-19963"></a>
-- t-001
+- t-002
   teiginys: "Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166561
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -110,4 +110,4 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

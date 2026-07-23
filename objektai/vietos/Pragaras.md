@@ -52,30 +52,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171852
-- susijęs iš [[objektai/asmenys/Mnelea ir Rolandas.md#claim-t-190186|Mnelea ir Rolandas]]: Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190284|Tadas Volianskis]]: Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189417|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189388|Senovės graikai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
-- susijęs iš [[objektai/zodynas/Nijolė Nijota Nijoliškos palaikos.md#claim-t-189164|Nijolė Nijota Nijoliškos palaikos]]: Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliaus žmoną ir Krūminės dukterį.
-- susijęs iš [[objektai/asmenys/Gregoravičius.md#claim-t-190096|Gregoravičius]]: Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189987|Tadas Volianskis]]: Narbutas rašo, kad Tadas Volianskis Santvaro atvaizde matė galvą su ragais, iš užpakalio panašiais į erelį su nagais.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190981|Tadas Volianskis]]: Tadas Volianskis figūroje įžvelgė galvą su ragais, kurie iš užpakalio jam buvo panašūs į erelį su nagais.
-- susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190291|Konstantinas Sirvydas (kunigas)]]: Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.
-- susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-188438|Ksaveras Bogušas (kunigas, XIX a.)]]: Narbutas išnašoje nurodo kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę kaip šaltinį lietuviškiems žemdirbystės žodžiams.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190803|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis statulėlės galvoje matė ragus, iš užpakalio panašius į erelį su nagais.
-- susijęs iš [[objektai/daiktai/Moliniai indai požemio dievų aukai.md#claim-t-189733|Moliniai indai požemio dievų aukai]]: Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188175|Egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.
-- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-188181|Finikiečiai]]: Narbutas rašė, kad finikiečiai, egiptiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188348|Slavai]]: Narbutas aiškino, kad užrašas „Nijota“ sieja slavų Cererą arba lietuvių Krūminę su požemine deive Prozerpina.
-- susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189843|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas priesaiką priskyrė aukoms, nes ją laikė geranoriška paties žmogaus sąžinės auka.
-- susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189844|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.
-- susijęs iš [[objektai/paprociai/Požemio dievams skirtų aukų užkasimas.md#claim-t-189854|Požemio dievams skirtų aukų užkasimas]]: Narbutas požemio dievams skirtos aukos esmę apibūdino kaip apeiginį aukojamųjų dalykų užkasimą giliai žemėje.
-- susijęs iš [[objektai/posakiai/Kad man Periamas sumusztu.md#claim-t-189582|Kad man Periamas sumusztu]]: Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesaiką, kuria dievai šaukiami būti liudytojais.
-- susijęs iš [[objektai/posakiai/dėl Dievo.md#claim-t-189577|dėl Dievo]]: Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir dievų šaukimu būti liudytojais.
-- susijęs iš Ksavero Bogušo studija „O początkach narodu i języka Litewskiego“: Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.
-- susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
-- susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
-- susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
+
 ## Citatos
 
 - id: c-171852

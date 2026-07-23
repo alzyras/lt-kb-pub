@@ -7,8 +7,6 @@ datos:
   - '1305 m.'
 date_start: '1305'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - mūšis
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185671"></a>
-- t-002
+- t-001
   teiginys: "Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-169032
 
 <a id="claim-t-196280"></a>
-- t-003
+- t-002
   teiginys: "1305 m. Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169031
@@ -157,7 +156,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-169032
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -185,4 +184,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

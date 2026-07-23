@@ -7,16 +7,16 @@ datos:
   - '1590 m.'
 date_start: '1590'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
   - istorikas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,11 +86,10 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
     1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro
     gabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174510

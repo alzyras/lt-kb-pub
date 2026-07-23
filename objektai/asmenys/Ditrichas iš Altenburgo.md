@@ -8,16 +8,16 @@ datos:
   - '1341 m.'
 date_start: '1316'
 date_end: '1341'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 ## Teiginiai
 
 <a id="claim-t-59949"></a>
-- t-004
+- t-001
   teiginys: "Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     - c-60584
 
 <a id="claim-t-59951"></a>
-- t-001
+- t-003
   teiginys: "Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     - c-60581
 
 <a id="claim-t-59952"></a>
-- t-003
+- t-004
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -106,12 +106,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis."
   pagrindžia:
     - c-60584
-- susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
-- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
-- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
-- susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
-- susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58776|papilys]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'
@@ -122,10 +117,35 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
     žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    357 (350). Apie Mazovijos žemės nusiaubimą 134 metais
+    Kai sutarė taiką, kai Livonijos ir Prūsijos žemių bei kitų kaimyninių kraštų broliai ir visi
+    kiti krikščionys tvirtai patikėjo, kad daugiau nebereikėsią kariauti, kai jau ketino kalavijus
+    perkalti į noragus, o ietis — į pjautuvus, tas pats nedorasis [karalius], tikėjimo bei tikinčiųjų
+    priešas, užsikimšo nelyginant kurčioji angis ausis, nenorėdamas girdėti išganingų jo
+    šventenybės popiežiaus perspėjimų, kuriuos minėtieji legatai kuo tiksliausiai jam buvo
+    perdavę; užuot pagalvojęs apie savo bei saviškių išganymą, būtent apie tai, kaip jam
+    priimti su tinkamomis iškilmėmis ir su derama pagarba krikšto sakramentą, jis, eidamas
+    savo pirmtakų pėdomis, vėl suskato iš paskutiniųjų naikinti tikėjimą ir tikinčiuosius.
+    Jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene
+    lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko
+    vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės
+    kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių
+    bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
 - c-003
   santrauka: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -139,11 +159,10 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
     Ilienburgo [Ilijos] pilies595.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60581
@@ -161,7 +180,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-60582
   autorius: "Petras Dusburgietis"
@@ -202,7 +221,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-60584
   autorius: "Petras Dusburgietis"
@@ -223,7 +242,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
+    - t-004
 
 ## Ryšiai
 - Ditrichas iš Altenburgo pastatė [[objektai/vietos/Lunenburgas]]

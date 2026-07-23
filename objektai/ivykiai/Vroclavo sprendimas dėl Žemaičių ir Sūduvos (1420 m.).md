@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179455"></a>
-- t-005
+- t-001
   teiginys: "1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-05001
 
 <a id="claim-t-179456"></a>
-- t-008
+- t-002
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-163156
 
 <a id="claim-t-179457"></a>
-- t-006
+- t-003
   teiginys: "Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
     - c-05001
 
 <a id="claim-t-179458"></a>
-- t-009
+- t-004
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-163157
 
 <a id="claim-t-179459"></a>
-- t-007
+- t-005
   teiginys: "Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -162,8 +162,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-001
+    - t-003
 
 - id: c-05002
   autorius: "Zenonas Ivinskis"
@@ -179,7 +179,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-163156
   autorius: "Zenonas Ivinskis"
@@ -200,7 +200,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-163157
   autorius: "Zenonas Ivinskis"
@@ -221,4 +221,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004

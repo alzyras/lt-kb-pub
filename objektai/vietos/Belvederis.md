@@ -45,9 +45,7 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82151
-- susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
-- susijęs iš [[objektai/asmenys/Povilas Giedraitis.md#claim-t-87836|Povilas Giedraitis]]: Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti.
-- susijęs iš Paleckio stiklo liejykla prie Vilijos: 1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.
+
 ## Citatos
 
 - id: c-82151

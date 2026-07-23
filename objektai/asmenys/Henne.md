@@ -29,7 +29,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Teiginiai
 
 <a id="claim-t-35087"></a>
-- t-002
+- t-001
   teiginys: "Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - c-36313
 
 <a id="claim-t-35088"></a>
-- t-001
+- t-002
   teiginys: "Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,9 +80,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   semantiniai_rysiai: "Henne rėmė Vokiečiai (0.72)"
   pagrindžia:
     - c-167643
-- susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
-- susijęs iš [[objektai/posakiai/lydimojo rašto.md#claim-t-36009|lydimojo rašto]]: Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“.
+
 ## Citatos
 
 - id: c-36313
@@ -102,7 +100,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-38024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -126,7 +124,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167643
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

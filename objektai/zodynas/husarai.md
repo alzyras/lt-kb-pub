@@ -30,7 +30,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 ## Teiginiai
 
 <a id="claim-t-49270"></a>
-- t-004
+- t-001
   teiginys: "Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - c-44173
 
 <a id="claim-t-49271"></a>
-- t-001
+- t-002
   teiginys: "Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - c-44170
 
 <a id="claim-t-49272"></a>
-- t-002
+- t-003
   teiginys: "Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - c-51275
 
 <a id="claim-t-49273"></a>
-- t-005
+- t-004
   teiginys: "Lietuvoje ir Lenkijoje husarai buvo ilgomis ietimis ginkluoti sunkieji raiteliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - c-44173
 
 <a id="claim-t-49274"></a>
-- t-003
+- t-005
   teiginys: "Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -109,24 +109,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-51276
-- susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40058|B. Zenavičius]]: B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.
-- susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40457|T. Lackis]]: T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65309|Kazokai]]: Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.
-- susijęs iš [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus.md#claim-t-67083|Husarų lydėjimas į seimo rinkimus (seimas)]]: Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71798|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71801|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71803|Husarų vėliavų „draugų“ ir palydos sistema]]: XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.
-- susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
-- susijęs iš [[objektai/zodynas/arkebuzieriai.md#claim-t-42430|arkebuzieriai]]: Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.
-- susijęs iš [[objektai/asmenys/Stanislovas Liubomirskis.md#claim-t-40442|Stanislovas Liubomirskis]]: LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
-- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-40522|Vladislovas]]: Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė.md#claim-t-40843|Abiejų Tautų Respublikos kariuomenė]]: XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos.
-- susijęs iš [[objektai/grupes/Švedų gvardijos kavalerija.md#claim-t-41215|Švedų gvardijos kavalerija]]: Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną.
-- susijęs iš [[objektai/grupes/Švedų gvardijos kavalerija.md#claim-t-41216|Švedų gvardijos kavalerija]]: T. Lackio husarai pasitiko Švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.
-- susijęs iš [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus.md#claim-t-67085|Husarų lydėjimas į seimo rinkimus (seimas)]]: Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71800|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
+
 ## Citatos
 
 - id: c-44170
@@ -148,7 +131,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44173
   sudarytojas: "Karolis Zikaras"
@@ -169,8 +152,8 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-005
 
 - id: c-51275
   sudarytojas: "Karolis Zikaras"
@@ -219,7 +202,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-51276
   sudarytojas: "Karolis Zikaras"
@@ -241,4 +224,4 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005

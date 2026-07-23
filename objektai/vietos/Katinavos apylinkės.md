@@ -40,7 +40,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 ## Teiginiai
 
 <a id="claim-t-58570"></a>
-- t-002
+- t-001
   teiginys: "Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
     - c-59202
 
 <a id="claim-t-58571"></a>
-- t-001
+- t-002
   teiginys: "Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos apibendrinimu apie Katinavos apylinkes."
   pagrindžia:
     - c-59203
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65941|Nadruviai]]: Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.
+
 ## Citatos
 
 - id: c-59202
@@ -94,7 +94,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59203
   autorius: "Petras Dusburgietis"
@@ -117,4 +117,4 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

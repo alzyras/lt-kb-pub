@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-55031"></a>
-- t-005
+- t-001
   teiginys: "Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-55376
 
 <a id="claim-t-55032"></a>
-- t-006
+- t-002
   teiginys: "Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-55377
 
 <a id="claim-t-81841"></a>
-- t-004
+- t-003
   teiginys: "Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-36712
 
 <a id="claim-t-188375"></a>
-- t-007
+- t-004
   teiginys: "Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Nenurodyta
     - c-171269
 
 <a id="claim-t-194613"></a>
-- t-008
+- t-005
   teiginys: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -138,58 +138,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177012
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188514|Birutė]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188542|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-188649|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę.
-- susijęs iš [[objektai/daiktai/Aleksoto meilės dievybių šventykla arba aukuras.md#claim-t-189717|Aleksoto meilės dievybių šventykla arba aukuras]]: Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189671|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189672|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas aprašo apeigą, kai užsitęsus ligai iš Amžinosios ugnies aukuro atnešti pelenai buvo naudojami ligai išginti.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189718|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189719|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuro pelenai.md#claim-t-189764|Amžinosios ugnies aukuro pelenai]]: Narbutas aprašo Amžinosios ugnies aukuro pelenus kaip paskutinį vaistą ligai išginti, naudojamą su apeigomis po ilgai užsitęsusios ligos.
-- susijęs iš [[objektai/daiktai/Aukuro kalnai ir akmenys.md#claim-t-77919|Aukuro kalnai ir akmenys]]: Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-- susijęs iš [[objektai/daiktai/Vilniaus Perkūno šventyklos aukuras.md#claim-t-189754|Vilniaus Perkūno šventyklos aukuras]]: Vilniaus Perkūno šventyklos aukuro aprašymas vertime papildytas žodžiais apie aukuro viršaus aptvėrimą briedžių ragais.
-- susijęs iš [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas.md#claim-t-189943|Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip vaidilutę, saugojusią šventą Praurimės aukuro ugnį netoli Palangos.
-- susijęs iš [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas.md#claim-t-189944|Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]: Narbutas nurodo, kad Birutė Praurimės aukurą prižiūrėjo beveik 18 metų.
-- susijęs iš Aleksotas: Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.
-- susijęs iš Palangos kalnas: Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru.
-- susijęs iš Romovė: Narbutas senovės Romovėje aprašo aukurą su Amžinąja ugnimi, prižiūrimą vyriausiojo žynio prie šventojo ąžuolo ir dievų stabų.
-- susijęs iš Šventaragio slėnis: Šventaragio slėnyje buvęs aukuras naudotas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
-- susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-188574|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188587|Motiejus Strijkovskis]]: Narbutas rašo, kad duomenų apie liepų miškelyje garbintą deivę paliko Strijkovskis.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188653|Šventaragis]]: Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.
-- susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
-- susijęs iš [[objektai/autoriai/Mitrofanas Pinskietis.md#claim-t-190442|Mitrofanas Pinskietis]]: Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
-- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08288|Dievų stabai]]: Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.
-- susijęs iš [[objektai/daiktai/Moliniai indai požemio dievų aukai.md#claim-t-189733|Moliniai indai požemio dievų aukai]]: Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus.
-- susijęs iš [[objektai/daiktai/Sibilės plytos su hieroglifais.md#claim-t-189647|Sibilės plytos su hieroglifais]]: Narbutas rašė, kad Krivių Krivaičio rūmo bokšte stebėta saulė, o metų pradžioje įmūrijama ženklo plytelė rodydavo metus.
-- susijęs iš [[objektai/daiktai/Torielius.md#claim-t-08336|Torielius]]: Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-192413|Krivičiai]]: Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188210|Kryžiuočių ordinas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.
-- susijęs iš [[objektai/paprociai/Išeiginės aukos per metines viešes.md#claim-t-07768|Išeiginės aukos per metines viešes]]: Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu.
-- susijęs iš [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų.md#claim-t-189847|Metų pranašavimas iš orakulo nurodytų plytų]]: Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-183333|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54334|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš [[objektai/paprociai/Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas.md#claim-t-189784|Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas]]: Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė.
-- susijęs iš [[objektai/paprociai/Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas.md#claim-t-189946|Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas]]: Narbutas vaidilus apibūdina kaip dvasios ir kūno gydytojus, kurie ramindavo ligonius, skatindavo apžadus ir naudodavo Amžinosios ugnies pelenus.
-- susijęs iš Mitrofano Pinskiečio rusiškas metraštis: Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities.
-- susijęs iš Baltijos jūra: Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante.
-- susijęs iš Bysleida: Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.
-- susijęs iš Naujieji Trakai: Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.
-- susijęs iš Prūsa: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
-- susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
-- susijęs iš [[objektai/zodynas/Krivis.md#claim-t-192923|Krivis]]: Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys.
-- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77805|Romuva krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
+
 ## Citatos
 
 - id: c-36712
@@ -212,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-55376
   autorius: "Michał Baliński"
@@ -238,7 +187,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-55377
   autorius: "Michał Baliński"
@@ -257,7 +206,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-171269
   autorius: "Teodoras Narbutas"
@@ -281,7 +230,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-177012
   autorius: "Teodoras Narbutas"
@@ -300,4 +249,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005

@@ -87,11 +87,10 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174056

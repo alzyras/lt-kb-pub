@@ -51,7 +51,7 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177318
-- susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
+
 ## Citatos
 
 - id: c-177318

@@ -93,7 +93,7 @@ Nenurodyta
     - c-63853
 
 <a id="claim-t-194436"></a>
-- t-004
+- t-003
   teiginys: "Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,4 +130,4 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-004
+    - t-003

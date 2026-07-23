@@ -55,8 +55,7 @@ Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės ki
   temporalinis_llm_pakomentavimas: "Teiginys palaikomas citata, bet reikia pašalinti OCR triukšmą ir suformuluoti pilną sakinį."
   pagrindžia:
     - c-83465
-- susijęs iš Mazovija: 1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą.
-- susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.
+
 ## Citatos
 
 - id: c-83465

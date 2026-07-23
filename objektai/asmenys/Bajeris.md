@@ -7,14 +7,14 @@ datos:
   - '1590 m.'
 date_start: '1590'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,11 +95,10 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
     nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
     ją norėjo įdėti į savo „Monumentą Prussica“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174079

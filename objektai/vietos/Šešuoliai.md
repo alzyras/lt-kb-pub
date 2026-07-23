@@ -57,9 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys."
   pagrindžia:
     - c-28413
-- susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
-- susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
-- susijęs iš Svyruotai: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.
+
 ## Citatos
 
 - id: c-28413

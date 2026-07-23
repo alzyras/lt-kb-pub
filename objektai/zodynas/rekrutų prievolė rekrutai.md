@@ -38,7 +38,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 ## Teiginiai
 
 <a id="claim-t-104193"></a>
-- t-002
+- t-001
   teiginys: "1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-97154
 
 <a id="claim-t-104194"></a>
-- t-001
+- t-002
   teiginys: "Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama)."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-166856
 
 <a id="claim-t-104195"></a>
-- t-004
+- t-003
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-97154
 
 <a id="claim-t-104196"></a>
-- t-003
+- t-004
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -166,9 +166,9 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
     - t-003
+    - t-004
 
 - id: c-166856
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -189,5 +189,5 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-005

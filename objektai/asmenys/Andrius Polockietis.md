@@ -39,7 +39,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 ## Teiginiai
 
 <a id="claim-t-30206"></a>
-- t-002
+- t-001
   teiginys: "1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     - c-32708
 
 <a id="claim-t-30207"></a>
-- t-003
+- t-002
   teiginys: "Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     - c-32709
 
 <a id="claim-t-30208"></a>
-- t-001
+- t-003
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis ir toliau kėlė neramumus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai susijęs su Andriumi Polockiečiu."
   pagrindžia:
     - c-32710
-- susijęs iš Lukomlis: Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
+
 ## Citatos
 
 - id: c-32708
@@ -112,7 +112,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-32709
   autorius: "Zenonas Ivinskis"
@@ -132,7 +132,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-32710
   autorius: "Zenonas Ivinskis"
@@ -151,7 +151,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 - Andrius Polockietis užėmė [[objektai/vietos/Lukomlis]]

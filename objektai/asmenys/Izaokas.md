@@ -47,11 +47,7 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173042
-- susijęs iš [[objektai/asmenys/Istachris Abu Izaokas al Farisi.md#claim-t-191421|Istachris Abu Izaokas al Farisi]]: Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius.
-- susijęs iš [[objektai/asmenys/Kruzė.md#claim-t-191436|Kruzė]]: Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko ai Farisi nubraižytų geografijos žemėlapių.
-- susijęs iš [[objektai/autoriai/Istachris Abu Izaokas ai Farisi.md#claim-t-191646|Istachris Abu Izaokas ai Farisi]]: Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 907-912 m. ir nubraižė Gotos bibliotekoje rastus žemėlapius.
-- susijęs iš Istachrio Abu Izaoko al Farisi žemėlapiai: Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ.
-- susijęs iš [[objektai/autoriai/Kruzė.md#claim-t-191678|Kruzė]]: Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius.
+
 ## Citatos
 
 - id: c-173042

@@ -42,7 +42,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 ## Teiginiai
 
 <a id="claim-t-87504"></a>
-- t-002
+- t-001
   teiginys: "Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
     - c-83484
 
 <a id="claim-t-87505"></a>
-- t-001
+- t-002
   teiginys: "1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,10 +89,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178705
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179356|Livonijos ordinas]]: Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
-- susijęs iš Livonija: Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175540|Kalavijuočių ordinas]]: Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
-- susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.
+
 ## Citatos
 
 - id: c-83483
@@ -119,7 +116,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83484
   autorius: "Michał Baliński"
@@ -157,7 +154,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178705
   autorius: "Albertas Vijūkas-Kojelavičius"

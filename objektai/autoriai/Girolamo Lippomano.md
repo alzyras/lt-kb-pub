@@ -54,10 +54,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44607
-- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78696|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78698|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: ) Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.
-- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
+
 ## Citatos
 
 - id: c-44607

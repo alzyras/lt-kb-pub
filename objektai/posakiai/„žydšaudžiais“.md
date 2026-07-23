@@ -53,7 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą faktą."
   pagrindžia:
     - c-23700
-- susijęs iš [[objektai/zodynas/žydšaudžiai.md#claim-t-22356|žydšaudžiai]]: Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
+
 ## Citatos
 
 - id: c-23700

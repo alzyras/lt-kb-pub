@@ -67,9 +67,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44933
-- susijęs iš [[objektai/grupes/LDK 1-oji Tautinė brigada.md#claim-t-40975|LDK 1-oji Tautinė brigada]]: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarais.
-- susijęs iš [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.).md#claim-t-39147|LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]: 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada.
-- susijęs iš Šiauliai: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.
+
 ## Citatos
 
 - id: c-44933

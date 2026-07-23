@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75350"></a>
-- t-002
+- t-001
   teiginys: "1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

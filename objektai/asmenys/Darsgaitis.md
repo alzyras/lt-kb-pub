@@ -7,15 +7,15 @@ datos:
   - '1227 m.'
 date_start: '1227'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - dvasininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,44 +54,10 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
 
 - Pamedės provincijos krivis
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Seno­
-    vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
-    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
-    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170895
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
-    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
-    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
-  citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-187915"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::people"
@@ -110,3 +76,36 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170895
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Seno­
+    vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-170895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
+  citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

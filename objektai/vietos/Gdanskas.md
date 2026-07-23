@@ -14,15 +14,15 @@ datos:
   - '1919 m.'
 date_start: '1605'
 date_end: '1919'
-amziai:
-  - 'XVII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
   - valstybė
+amziai:
+  - 'XVII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 ## Teiginiai
 
 <a id="claim-t-114280"></a>
-- t-006
+- t-001
   teiginys: "Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-105403
 
 <a id="claim-t-114281"></a>
-- t-001
+- t-002
   teiginys: "Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-24129
 
 <a id="claim-t-114283"></a>
-- t-008
+- t-003
   teiginys: "Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-105407
 
 <a id="claim-t-114284"></a>
-- t-007
+- t-004
   teiginys: "XVI a. antroje pusėje Gdanske buvo saugotos kelios Dusburgiečio kronikos rankraštinės ištraukos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-105404
 
 <a id="claim-t-114285"></a>
-- t-002
+- t-005
   teiginys: "Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-24130
 
 <a id="claim-t-183591"></a>
-- t-009
+- t-006
   teiginys: "Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-166983
 
 <a id="claim-t-201599"></a>
-- t-011
+- t-007
   teiginys: "Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai naudotas grūdams į Gdanską gabenti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-184946
 
 <a id="claim-t-201600"></a>
-- t-012
+- t-008
   teiginys: "Dar svarbesni buvo upeiviai, žmonės, susiję su prekių gabenimu Nemunu, Nerimi, Prūsijos vandens keliais iki Karaliaučiaus ir Gdansko ar iš ten."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-184947
 
 <a id="claim-t-201601"></a>
-- t-013
+- t-009
   teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -189,10 +189,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184948
-- susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.
-- susijęs iš Klaipėdos kraštas: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai.
-- susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
+
 ## Citatos
 
 - id: c-24129
@@ -213,7 +210,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -232,7 +229,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-105403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -266,7 +263,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-105404
   autorius: "Petras Dusburgietis"
@@ -283,7 +280,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-105407
   autorius: "Michał Baliński"
@@ -306,7 +303,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-166983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -329,7 +326,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-184946
   autorius: "Zigmantas Kiaupa"
@@ -347,7 +344,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-184947
   autorius: "Zigmantas Kiaupa"
@@ -367,7 +364,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-184948
   autorius: "Zigmantas Kiaupa"
@@ -386,7 +383,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Vilnius]]

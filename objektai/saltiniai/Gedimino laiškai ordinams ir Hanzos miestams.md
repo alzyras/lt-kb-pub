@@ -87,7 +87,7 @@ media_all_json: |-
     - c-157321
 
 <a id="claim-t-172983"></a>
-- t-005
+- t-004
   teiginys: "Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-157319
   autorius: "Michał Baliński"

@@ -48,7 +48,7 @@ Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172443
-- susijęs iš Rėzos „Dainos“: Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūsų Lietuvos, tarme.
+
 ## Citatos
 
 - id: c-172443

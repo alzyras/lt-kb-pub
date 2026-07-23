@@ -38,7 +38,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 ## Teiginiai
 
 <a id="claim-t-97295"></a>
-- t-002
+- t-001
   teiginys: "Šapoka poliublininių laikų tyrimuose „ieškojo lietuvių“ ir rašė apie Lietuvos ir Lenkijos santykius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     - c-91788
 
 <a id="claim-t-97296"></a>
-- t-001
+- t-002
   teiginys: "„Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -70,8 +70,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-91788
-- susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
-- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
+
 ## Citatos
 
 - id: c-91788
@@ -93,5 +92,5 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

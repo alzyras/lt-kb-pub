@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 ## Teiginiai
 
 <a id="claim-t-59976"></a>
-- t-004
+- t-001
   teiginys: "Baltramiejaus dieną Henrikas VII mirė Sienos grafystėje ir buvo palaidotas Pizoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
     - c-60608
 
 <a id="claim-t-59977"></a>
-- t-003
+- t-002
   teiginys: "Henrikas VII Romoje, Laterano bažnyčioje, buvo vainikuotas imperatoriumi po 62 metų nuo Fridricho II mirties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
     - c-60611
 
 <a id="claim-t-59978"></a>
-- t-002
+- t-003
   teiginys: "1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
     - c-60610
 
 <a id="claim-t-59979"></a>
-- t-001
+- t-004
   teiginys: "Šv. Kotrynos dieną Vokietijos valdovai elektoriai vieningai išrinko Henriką VII Romos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
     - c-60609
 
 <a id="claim-t-194490"></a>
-- t-006
+- t-005
   teiginys: "Apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-60609
   autorius: "Petras Dusburgietis"
@@ -144,7 +144,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-60610
   autorius: "Petras Dusburgietis"
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-60611
   autorius: "Petras Dusburgietis"
@@ -182,5 +182,5 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-002
+    - t-005

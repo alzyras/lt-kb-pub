@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1190'
 date_end: '2026'
-amziai:
-  - 'XII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-175378"></a>
-- t-013
+- t-001
   teiginys: "1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-159512
 
 <a id="claim-t-175379"></a>
-- t-010
+- t-002
   teiginys: "Iš Liubeko ir kitų Hanzos miestų į Vilnių atvykę amatininkai kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto sluoksniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-159511
 
 <a id="claim-t-175380"></a>
-- t-005
+- t-003
   teiginys: "Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ media_all_json: |-
     - c-159510
 
 <a id="claim-t-175381"></a>
-- t-011
+- t-004
   teiginys: "Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ media_all_json: |-
     - c-159510
 
 <a id="claim-t-175382"></a>
-- t-019
+- t-005
   teiginys: "Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ media_all_json: |-
     - c-159518
 
 <a id="claim-t-175383"></a>
-- t-015
+- t-006
   teiginys: "Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ media_all_json: |-
     - c-159519
 
 <a id="claim-t-175384"></a>
-- t-017
+- t-007
   teiginys: "1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ media_all_json: |-
     - c-159509
 
 <a id="claim-t-175385"></a>
-- t-009
+- t-008
   teiginys: "1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ media_all_json: |-
     - c-159508
 
 <a id="claim-t-175387"></a>
-- t-004
+- t-009
   teiginys: "Į Vilnių atvykę amatininkai iš Liubeko ir kitų Hanzos miestų kartu su pirkliais tapo turtingu miesto gyventojų sluoksniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ media_all_json: |-
     - c-159511
 
 <a id="claim-t-175388"></a>
-- t-003
+- t-010
   teiginys: "Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ media_all_json: |-
     - c-159508
 
 <a id="claim-t-175389"></a>
-- t-001
+- t-011
   teiginys: "1261 m. balandžio 27 d. Livonijos ordino vicemagistras prašė Liubeko miesto pagalbos dėl ordino patirtų nuostolių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -233,55 +233,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Liubeko miesto paminėjimą citatoje."
   pagrindžia:
     - c-159515
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
-- susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
-- susijęs iš [[objektai/asmenys/Jonas Rygietis.md#claim-t-87528|Jonas Rygietis]]: Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Gierszewski S.md#claim-t-91949|Gierszewski S]]: S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.
-- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191552|J. Voigtas Foigtas]]: Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su kaimais ir Liubeko pirklių pastatytu Lipsos uostu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179057|Kryžiuočių ordinas]]: Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius.
-- susijęs iš [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.).md#claim-t-59630|Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje minima Liubeko gyventojams statytina laisvoji civitas ir jiems priskirtos Sambijos, Vitlandijos bei Varmijos žemės.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje Liubeko kolonistams numatyta pusė Ordino trečdalio Sambijoje ir 2500 mansų Varmijoje.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje nurodyta, kad per tuos mūšius žuvo 300 000 totorių, o Vytautas prarado 100 000 karių.
-- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.
-- susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.
-- susijęs iš Vokiečių ordino statutų prologas: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.
-- susijęs iš Bremenas: Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.
-- susijęs iš Hamburgas: 1241 m. Hamburgas su Liubeku sudarė karinę sąjungą, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
-- susijęs iš Krokuva: Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
-- susijęs iš [[objektai/asmenys/Mikalojus fon Parsau.md#claim-t-87552|Mikalojus fon Parsau]]: 1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.
-- susijęs iš [[objektai/asmenys/Reimaras fon Hanė.md#claim-t-87566|Reimaras fon Hanė]]: Reimaras fon Hanė buvo Vendeno komtūras, kurio patarimo ketinta prašyti prieš apsisprendžiant dėl Gedimino laiškų.
-- susijęs iš [[objektai/daiktai/Mediniai rūmai.md#claim-t-87085|Mediniai rūmai]]: Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116690|Hanza]]: Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108303|Pranciškonų ordinas]]: Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55079|Vilniaus miestiečių luomas]]: Vokietijos, Rusios ir Livonijos amatininkai bei pirkliai tapo turtingiausiu Vilniaus gyventojų sluoksniu.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-183677|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
-- susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose.md#claim-t-87206|Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]: 1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.
-- susijęs iš Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.): 1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu.
-- susijęs iš Akonas: Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.
-- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
-- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
-- susijęs iš Rostokas: Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku.
-- susijęs iš Saksonija: Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.
-- susijęs iš Silezija: Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.
-- susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje minima Liubeko gyventojams statytina laisvoji civitas ir jiems priskirtos Sambijos, Vitlandijos bei Varmijos žemės.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.'
@@ -299,11 +251,10 @@ media_all_json: |-
     gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
     broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-159508
@@ -326,8 +277,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-003
+    - t-008
+    - t-010
 
 - id: c-159509
   autorius: "Michał Baliński"
@@ -349,7 +300,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-007
 
 - id: c-159510
   autorius: "Michał Baliński"
@@ -390,8 +341,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-011
+    - t-003
+    - t-004
 
 - id: c-159511
   autorius: "Michał Baliński"
@@ -417,8 +368,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-004
+    - t-002
+    - t-009
 
 - id: c-159512
   autorius: "Michał Baliński"
@@ -442,7 +393,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-001
 
 - id: c-159515
   autorius: "Zenonas Ivinskis"
@@ -462,7 +413,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-011
 
 - id: c-159518
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -482,7 +433,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-005
 
 - id: c-159519
   autorius: "Petras Dusburgietis"
@@ -507,4 +458,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-006

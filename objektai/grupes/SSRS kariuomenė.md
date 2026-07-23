@@ -74,13 +74,7 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
   semantiniai_rysiai: "SSRS kariuomenė keliavo į Lietuva (0.90)"
   pagrindžia:
     - c-166571
-- susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-- susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45447|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus.
-- susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78353|Lietuvos komunistų partija]]: Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78362|Lietuvos komunistų partija]]: 1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.
-- susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20555|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: Vladimirui Dekanozovui talkino sovietų pasiuntinybė su Nikolajumi Pozdniakovu priešakyje ir pogrindyje veikusi Lietuvos komunistų partija.
-- susijęs iš [[objektai/zodynas/polpredas.md#claim-t-22253|polpredas]]: Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).
+
 ## Citatos
 
 - id: c-166571

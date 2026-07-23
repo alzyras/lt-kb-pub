@@ -7,16 +7,16 @@ datos:
   - '1300 m.'
 date_start: '1300'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - šeima
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - c-60654
 
 <a id="claim-t-60023"></a>
-- t-003
+- t-002
   teiginys: "Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - c-60656
 
 <a id="claim-t-60024"></a>
-- t-002
+- t-003
   teiginys: "Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -91,14 +91,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60655
-- susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175193|Herkus Mantas]]: Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
-- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175201|Herkus Mantas]]: Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.
-- susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.'
@@ -109,13 +102,15 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
        Brolis Helvigas iš Goldbacho iš Tiuringijos, penkioliktas Prūsijos žemės magistras,
     vadovavo vienus metus; vėliau, atsisakęs pareigų, grįžo į Vokietiją, kur mirė ir palaidotas.
 
+
+
+
                    275 (268).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60654
@@ -138,7 +133,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
 
 - id: c-60655
   autorius: "Petras Dusburgietis"
@@ -187,7 +182,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Puolė Helvigas iš Goldbacho: [[objektai/grupes/Pagudėnai]]

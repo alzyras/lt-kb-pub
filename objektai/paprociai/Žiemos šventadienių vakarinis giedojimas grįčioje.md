@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195392"></a>
-- t-002
+- t-001
   teiginys: "Vakarinis giedojimas buvo patogus šventvakario užsiėmimas."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-177811
 
 <a id="claim-t-195393"></a>
-- t-001
+- t-002
   teiginys: "Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -110,7 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177810
   autorius: "M. Katkus"
@@ -150,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

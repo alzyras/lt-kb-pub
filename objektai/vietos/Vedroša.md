@@ -8,14 +8,14 @@ datos:
   - '1564 m.'
 date_start: '1236'
 date_end: '1564'
-amziai:
-  - 'XIII'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - upė
+amziai:
+  - 'XIII'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-185251"></a>
-- t-003
+- t-001
   teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ media_all_json: |-
     - c-176156
 
 <a id="claim-t-193442"></a>
-- t-006
+- t-002
   teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-176156
 
 <a id="claim-t-193443"></a>
-- t-007
+- t-003
   teiginys: "Kojelavičiaus pasakojime Stanislovas Kiška vengė traukti atviromis vietomis, kad nepakartotų Ostrogiškio nesėkmės prie Vedrošos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -73,8 +73,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168610
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195013|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195014|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolensko vaivadą Stanislovą Kišką pasiekė žinia, kad prie Vedrošos pasirodė priešų kariuomenė.'
@@ -152,7 +151,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168610
@@ -180,7 +178,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-168612
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -224,5 +222,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-001
+    - t-002

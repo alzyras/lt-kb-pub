@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19614"></a>
-- t-002
+- t-001
   teiginys: "Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-22318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -146,6 +146,7 @@ Nenurodyta
   citata_rodoma: "chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

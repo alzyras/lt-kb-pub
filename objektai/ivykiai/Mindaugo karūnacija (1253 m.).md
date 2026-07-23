@@ -189,12 +189,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
   pagrindžia:
     - c-25426
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“.md#claim-t-24535|A. Varno paveikslas „Mindaugo karūnacija“]]: A. Varno paveikslas „Mindaugo karūnacija“ vaizduoja Mindaugo vainikavimą ir buvo sukurtas 1952–1953 m.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-66788|Mindaugo karūnacija]]: A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.
-- susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66789|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“.md#claim-t-25378|„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]: 1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.
-- susijęs iš Lietuva: Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.
+
 ## Data ir vieta
 
 - 1253 m. liepos 6 d.

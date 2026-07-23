@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,38 +33,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad kurschat A.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
-    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
-      Kuzavinis К. Prūsų kalba.—V., 1964.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61744
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
-    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
-  citata_rodoma: "Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen\nlitterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -86,3 +54,34 @@ Dusburgietis teigia, kad kurschat A.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-61744
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
+    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
+      Kuzavinis К. Prūsų kalba.—V., 1964.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-61744
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
+    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
+  citata_rodoma: "Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen\nlitterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

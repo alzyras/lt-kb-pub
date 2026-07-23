@@ -40,7 +40,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-63305"></a>
-- t-002
+- t-001
   teiginys: "Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-64343
 
 <a id="claim-t-63306"></a>
-- t-001
+- t-002
   teiginys: "Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-64344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -170,7 +170,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-171299
   autorius: "Teodoras Narbutas"

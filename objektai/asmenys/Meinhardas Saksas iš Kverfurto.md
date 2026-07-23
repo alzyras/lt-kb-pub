@@ -8,10 +8,6 @@ datos:
   - '1294 m.'
 date_start: '1289'
 date_end: '1294'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - kunigaikštis
   - pilis
   - šventė
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 ## Teiginiai
 
 <a id="claim-t-59871"></a>
-- t-005
+- t-001
   teiginys: "1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60507
 
 <a id="claim-t-59872"></a>
-- t-004
+- t-002
   teiginys: "Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60503
 
 <a id="claim-t-59873"></a>
-- t-001
+- t-003
   teiginys: "Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60505
 
 <a id="claim-t-59874"></a>
-- t-003
+- t-004
   teiginys: "1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60507
 
 <a id="claim-t-59875"></a>
-- t-002
+- t-005
   teiginys: "Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60504
 
 <a id="claim-t-194505"></a>
-- t-007
+- t-006
   teiginys: "Apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60507
 
 <a id="claim-t-197129"></a>
-- t-008
+- t-007
   teiginys: "Meinhardas Saksas iš Kverfurto patraukė atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60506
 
 <a id="claim-t-197130"></a>
-- t-009
+- t-008
   teiginys: "Apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -145,6 +145,24 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - c-60507
 
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė
+    atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana
+    daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių.
+    238 (231). Apie Kolainių pilies užpuolimą
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-009
+
 - c-005
   santrauka: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,12 +178,10 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-197130
-
+  statusas: verified
 ## Citatos
 
 - id: c-60503
@@ -187,7 +203,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-60504
   autorius: "Petras Dusburgietis"
@@ -208,7 +224,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-60505
   autorius: "Petras Dusburgietis"
@@ -233,7 +249,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-60506
   autorius: "Petras Dusburgietis"
@@ -253,7 +269,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-60507
   autorius: "Petras Dusburgietis"
@@ -276,10 +292,10 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-003
-    - t-007
-    - t-009
+    - t-001
+    - t-004
+    - t-006
+    - t-008
 
 ## Ryšiai
 - Meinhardas Saksas iš Kverfurto puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Pieštvė]]

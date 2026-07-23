@@ -19,14 +19,14 @@ datos:
   - '2026 m.'
 date_start: '1073'
 date_end: '2026'
-amziai:
-  - 'XI'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - gentis
+amziai:
+  - 'XI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-175076"></a>
-- t-009
+- t-001
   teiginys: "Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių."
   atnaujinta: "2026-07-19 20:13"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159234
 
 <a id="claim-t-175077"></a>
-- t-010
+- t-002
   teiginys: "Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159212
 
 <a id="claim-t-175078"></a>
-- t-018
+- t-003
   teiginys: "Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159248
 
 <a id="claim-t-175079"></a>
-- t-022
+- t-004
   teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159214
 
 <a id="claim-t-175080"></a>
-- t-020
+- t-005
   teiginys: "Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159212
 
 <a id="claim-t-175081"></a>
-- t-014
+- t-006
   teiginys: "Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159241
 
 <a id="claim-t-175082"></a>
-- t-005
+- t-007
   teiginys: "Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159249
 
 <a id="claim-t-175083"></a>
-- t-027
+- t-008
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159228
 
 <a id="claim-t-175084"></a>
-- t-028
+- t-009
   teiginys: "1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -180,7 +180,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159217
 
 <a id="claim-t-175085"></a>
-- t-007
+- t-010
   teiginys: "Šešta — Semba196, kurioje [gyveno] sembai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-178981
 
 <a id="claim-t-175086"></a>
-- t-001
+- t-011
   teiginys: "Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -207,7 +207,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159220
 
 <a id="claim-t-175088"></a>
-- t-021
+- t-012
   teiginys: "Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159213
 
 <a id="claim-t-175089"></a>
-- t-002
+- t-013
   teiginys: "XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -234,7 +234,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159224
 
 <a id="claim-t-175090"></a>
-- t-029
+- t-014
   teiginys: "1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -254,7 +254,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159242
 
 <a id="claim-t-175091"></a>
-- t-025
+- t-015
   teiginys: "1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -289,7 +289,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159219
 
 <a id="claim-t-175093"></a>
-- t-012
+- t-017
   teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -305,7 +305,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159243
 
 <a id="claim-t-175094"></a>
-- t-003
+- t-018
   teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -324,7 +324,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-42928
 
 <a id="claim-t-175095"></a>
-- t-030
+- t-019
   teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -344,7 +344,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159231
 
 <a id="claim-t-175096"></a>
-- t-004
+- t-020
   teiginys: "Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -353,7 +353,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-42929
 
 <a id="claim-t-175097"></a>
-- t-015
+- t-021
   teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -370,7 +370,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-178981
 
 <a id="claim-t-175098"></a>
-- t-024
+- t-022
   teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -389,7 +389,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159245
 
 <a id="claim-t-175099"></a>
-- t-019
+- t-023
   teiginys: "Kai kurie kilmingi sembai su šeimynomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -398,7 +398,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159235
 
 <a id="claim-t-175100"></a>
-- t-008
+- t-024
   teiginys: "Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -417,7 +417,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159226
 
 <a id="claim-t-175101"></a>
-- t-006
+- t-025
   teiginys: "Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -436,7 +436,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159250
 
 <a id="claim-t-175103"></a>
-- t-017
+- t-026
   teiginys: "Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -452,7 +452,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159215
 
 <a id="claim-t-175104"></a>
-- t-013
+- t-027
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -469,7 +469,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159249
 
 <a id="claim-t-175105"></a>
-- t-026
+- t-028
   teiginys: "Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -485,7 +485,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159221
 
 <a id="claim-t-194357"></a>
-- t-036
+- t-029
   teiginys: "Apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -497,7 +497,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159231
 
 <a id="claim-t-194358"></a>
-- t-037
+- t-030
   teiginys: "Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -509,7 +509,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159215
 
 <a id="claim-t-194359"></a>
-- t-038
+- t-031
   teiginys: "Apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -521,7 +521,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159214
 
 <a id="claim-t-194360"></a>
-- t-039
+- t-032
   teiginys: "Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -533,7 +533,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159245
 
 <a id="claim-t-194361"></a>
-- t-040
+- t-033
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -545,7 +545,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159231
 
 <a id="claim-t-196921"></a>
-- t-041
+- t-034
   teiginys: "Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai broliai puldinėjo sembus, norėdami juos vėl pajungti krikščionių tikėjimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -557,7 +557,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159236
 
 <a id="claim-t-196922"></a>
-- t-042
+- t-035
   teiginys: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -567,163 +567,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-178981
-- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
-- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190860|Hartknochas]]: Narbuto perteikimu Hartknochas tvirtino, kad kimbrai gyveno vėlesnių prūsų žemėje ir ten buvo vadinami sembais.
-- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
-- susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
-- susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
-- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89914|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/asmenys/Laukstetas.md#claim-t-60374|Laukstetas]]: Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/asmenys/Stantekas.md#claim-t-60438|Stantekas]]: Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
-- susijęs iš [[objektai/autoriai/Saxo Grammaticus.md#claim-t-30977|Saxo Grammaticus]]: XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš [[objektai/autoriai/Zurkalowski E.md#claim-t-60830|Zurkalowski E]]: Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88525|Bartai]]: 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78396|Notangai]]: 1260 m. Klaipėdoje tarp Ordino prievarta buriamų karių buvo notangai, pamedėnai, varmiai ir sembai.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78405|Notangai]]: 1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89157|Pagudėnai]]: 1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78535|Varmiai]]: 1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.
-- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66455|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: 1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.
-- susijęs iš [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje.md#claim-t-62756|Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]: Livonijos broliams atskubėjus į Bečių valsčių, brolių kariuomenė nugalėjo sembus, paėmė į nelaisvę moteris ir vaikus bei sudegino kiemus.
-- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89359|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.
-- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89360|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.
-- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89361|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.
-- susijęs iš [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas.md#claim-t-62794|Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]: Grafas iš Barbio su didele kariuomene atžygiavo į Prūsiją ir įsibrovė į Sembos žemę.
-- susijęs iš [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas.md#claim-t-62795|Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]: Sembai sausio 21 d. užpuolė Sembą nusiaubusį grafą iš Barbio, jį sunkiai sužeidė ir privertė jo kariuomenę trauktis.
-- susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66573|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.
-- susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66574|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną.
-- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66806|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.
-- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66807|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89397|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną.
-- susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62918|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/posakiai/Dar šiandien sembai bus išžudyti.md#claim-t-184026|Dar šiandien sembai bus išžudyti]]: Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų.
-- susijęs iš [[objektai/posakiai/Dar šiandien sembai bus išžudyti.md#claim-t-59084|Dar šiandien sembai bus išžudyti]]: Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų.
-- susijęs iš [[objektai/posakiai/Dar šiandien sembai bus išžudyti.md#claim-t-59085|Dar šiandien sembai bus išžudyti]]: Vienas prūsas išpranašavo sembų sutriuškinimą ir Karaliaučiaus broliams pareiškė, kad sembai dar tą pačią dieną bus išžudyti.
-- susijęs iš 1238 m. birželio 11 d. dokumentas: 1238 m. birželio 11 d. dokumente kalbama apie kovas su varmiais, notangais ir sembais.
-- susijęs iš Genealogia regum Danorum: „Genealogia regum Danorum“ yra vienas iš XI-XII a. danų šaltinių, iš kurių matyti, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš Baiga: Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo.
-- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
-- susijęs iš Rinava: Rinavos valsčiuje gyvenę sembai, vėl atkritę nuo tikėjimo, subūrė kariuomenę ir užpuolė Fišhauzeno pilį.
-- susijęs iš Rinava: Dusburgiečio kronikoje pasakojama, kad Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Fišhauzeną.
-- susijęs iš Rudava: Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta.
-- susijęs iš Rudava: Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado.
-- susijęs iš Semba: Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.
-- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
-- susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
-- susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59836|Ditrichas (Sembos fogtas)]]: Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
-- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59914|Divanas]]: Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.
-- susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
-- susijęs iš [[objektai/asmenys/Glanda.md#claim-t-60294|Glanda]]: Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89793|Glapas]]: Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.
-- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175187|Herkus Mantas]]: Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.
-- susijęs iš [[objektai/asmenys/Naudžiotas.md#claim-t-60180|Naudžiotas (karvedys)]]: Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius.
-- susijęs iš [[objektai/asmenys/Noliubas.md#claim-t-89993|Noliubas]]: Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.
-- susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60206|Sklodas iš Kvedenavos]]: Sklodas iš Kvedenavos buvo Noliubo tėvas.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90061|Treniota]]: 1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.
-- susijęs iš [[objektai/autoriai/Гуревич Ф. Д.md#claim-t-91939|Гуревич Ф. Д]]: F. D. Gurevič darbas cituojamas duomenims apie trimis pylimais įtvirtintą pilies kalvą prie Girmavos.
-- susijęs iš [[objektai/autoriai/Дельбрюк Г.md#claim-t-91958|Дельбрюк Г]]: G. Delbrücko darbas cituojamas aiškinant Karaliaučiaus kovos epizodą viduramžių raitelių ir pėstininkų kovos būdams suvokti.
-- susijęs iš [[objektai/daiktai/Arbaletas.md#claim-t-64900|Arbaletas]]: Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78394|Notangai]]: Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78409|Notangai]]: Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89162|Pagudėnai]]: Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89214|Skalviai]]: Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78541|Varmiai]]: Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78544|Varmiai]]: Notangai ir varmiai išsižadėjo piktų sumanymų ir davė žodį būti ištikimi Ordino broliams.
-- susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
-- susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
-- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-183912|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: Prūsų sukilėliai degino bažnyčias, koplyčias ir kitus maldos namus, niekino šventenybes ir žudė kunigus bei bažnyčios tarnus.
-- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66454|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę.
-- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
-- susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66571|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai.
-- susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59180|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59182|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/ivykiai/Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių.md#claim-t-62825|Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių]]: Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89396|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.
-- susijęs iš [[objektai/ivykiai/Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui.md#claim-t-62473|Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui]]: Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.).md#claim-t-62940|Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]: 1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.
-- susijęs iš [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos.md#claim-t-67029|Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]: Varmės puolimas, aprašytas pasakojime apie žygį prieš varmius, notangus ir bartus, įvyko 1238 m. vasarą.
-- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
-- susijęs iš [[objektai/paprociai/Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis.md#claim-t-62129|Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)]]: Kai kurie kilmingi sembai paliko gimtuosius namus, su šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.
-- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
-- susijęs iš [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium.md#claim-t-89579|daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]: Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.
-- susijęs iš [[objektai/posakiai/homines humanissimi.md#claim-t-31557|homines humanissimi]]: Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.
-- susijęs iš Birka (Švedijos uostas): Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.
-- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.
-- susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš Gaižuvos valsčius: 1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą.
-- susijęs iš Gaižuvos valsčius: 1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių.
-- susijęs iš Girmava: Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.
-- susijęs iš Girmava: Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo.
-- susijęs iš Girmava: Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
-- susijęs iš Girmavos kaimas: Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.
-- susijęs iš Girmavos kaimas: Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą.
-- susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
-- susijęs iš Karaliaučius: Sembai sugriovė prie Karaliaučiaus pilies, ant Šv. Mikalojaus kalvos, brolių įkurtą miestą.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
-- susijęs iš Lochštetė: Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.
-- susijęs iš Nadruva: Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.
-- susijęs iš Nemunas: Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.
-- susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
-- susijęs iš Pabečiai: Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
-- susijęs iš Ragainė: Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.
-- susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
-- susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.
-- susijęs iš Rinava: Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.
-- susijęs iš Skalva: Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį.
-- susijęs iš Skalvos žemė: Skalvių žemė buvo abiejose Nemuno pusėse.
-- susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš [[objektai/zodynas/balista balistininkas arbaletas.md#claim-t-58847|balista balistininkas arbaletas]]: Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.
-- susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184002|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58812|fogtas]]: Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
-- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
-- susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
-- susijęs iš Girmava: Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59836|Ditrichas (Sembos fogtas)]]: Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.
+
 ## Reikšmingi paminėjimai
-- c-022
-  santrauka: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vienas
-    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
-    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
-    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
-    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-030
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -735,13 +580,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     Glandą357, notangai — Herkų Mantą358, varmiai — Glapą359, pagudėnai — Auktumą360,
     bartai — Divaną361.
 
+
+
+
                    90 (85). Apie didelį krikščionių kraujo praliejimą
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-175104
+  statusas: verified
+- t-012
 
 ## Citatos
 
@@ -772,7 +620,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-018
 
 - id: c-42929
   sudarytojas: "Karolis Zikaras"
@@ -793,7 +641,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-020
 
 - id: c-159211
   autorius: "Petras Dusburgietis"
@@ -839,8 +687,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-020
+    - t-002
+    - t-005
 
 - id: c-159213
   autorius: "Petras Dusburgietis"
@@ -858,7 +706,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-012
 
 - id: c-159214
   autorius: "Petras Dusburgietis"
@@ -876,8 +724,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-038
+    - t-004
+    - t-031
 
 - id: c-159215
   autorius: "Petras Dusburgietis"
@@ -896,8 +744,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-037
+    - t-026
+    - t-030
 
 - id: c-159217
   autorius: "Petras Dusburgietis"
@@ -921,7 +769,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-009
 
 - id: c-159218
   autorius: "Petras Dusburgietis"
@@ -983,7 +831,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-011
 
 - id: c-159221
   autorius: "Petras Dusburgietis"
@@ -1000,7 +848,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-028
 
 - id: c-159222
   autorius: "Petras Dusburgietis"
@@ -1018,7 +866,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-159223
   autorius: "Petras Dusburgietis"
@@ -1052,7 +900,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-013
 
 - id: c-159226
   autorius: "Petras Dusburgietis"
@@ -1070,7 +918,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-024
 
 - id: c-159228
   autorius: "Petras Dusburgietis"
@@ -1089,7 +937,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-008
 
 - id: c-159229
   autorius: "Petras Dusburgietis"
@@ -1131,9 +979,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-036
-    - t-040
+    - t-019
+    - t-029
+    - t-033
 
 - id: c-159234
   autorius: "Petras Dusburgietis"
@@ -1152,7 +1000,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-159235
   autorius: "Petras Dusburgietis"
@@ -1172,7 +1020,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-023
 
 - id: c-159236
   autorius: "Petras Dusburgietis"
@@ -1195,7 +1043,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-034
 
 - id: c-159238
   autorius: "Petras Dusburgietis"
@@ -1218,7 +1066,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-015
 
 - id: c-159241
   autorius: "Petras Dusburgietis"
@@ -1242,7 +1090,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-006
 
 - id: c-159242
   autorius: "Petras Dusburgietis"
@@ -1263,7 +1111,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-014
 
 - id: c-159243
   autorius: "Petras Dusburgietis"
@@ -1283,7 +1131,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-017
 
 - id: c-159245
   autorius: "Petras Dusburgietis"
@@ -1302,8 +1150,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
-    - t-039
+    - t-022
+    - t-032
 
 - id: c-159246
   autorius: "Petras Dusburgietis"
@@ -1328,7 +1176,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-021
 
 - id: c-159248
   autorius: "Petras Dusburgietis"
@@ -1348,7 +1196,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-003
 
 - id: c-159249
   autorius: "Petras Dusburgietis"
@@ -1371,8 +1219,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-013
+    - t-007
+    - t-027
 
 - id: c-159250
   autorius: "Petras Dusburgietis"
@@ -1391,7 +1239,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-025
 
 - id: c-178981
   autorius: "Petras Dusburgietis"
@@ -1411,9 +1259,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-015
-    - t-042
+    - t-010
+    - t-021
+    - t-035
 
 ## Ryšiai
 - Sembai puolė [[objektai/vietos/Fišhauzenas]]

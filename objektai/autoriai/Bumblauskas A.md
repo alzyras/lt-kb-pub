@@ -40,7 +40,7 @@ Bumblauskas A.
 ## Teiginiai
 
 <a id="claim-t-64571"></a>
-- t-002
+- t-001
   teiginys: "A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Bumblauskas A.
     - c-42402
 
 <a id="claim-t-64572"></a>
-- t-001
+- t-002
   teiginys: "A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Bumblauskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-42402
   sudarytojas: "Karolis Zikaras"
@@ -108,4 +108,4 @@ Bumblauskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

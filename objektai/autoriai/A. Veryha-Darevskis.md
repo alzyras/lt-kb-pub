@@ -37,7 +37,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 ## Teiginiai
 
 <a id="claim-t-71487"></a>
-- t-002
+- t-001
   teiginys: "A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
     - c-38774
 
 <a id="claim-t-71488"></a>
-- t-003
+- t-002
   teiginys: "A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -87,5 +87,5 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

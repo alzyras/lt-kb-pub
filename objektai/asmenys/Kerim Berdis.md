@@ -53,7 +53,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     - c-169413
 
 <a id="claim-t-196522"></a>
-- t-004
+- t-002
   teiginys: "Kojelavičiaus pasakojime Kerim Berdis, būdamas galingesnis už brolius, jėga paėmė tai, ko negalėjo pasiekti geruoju."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -64,10 +64,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169414
-- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
-- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
-- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
-- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
+
 ## Citatos
 
 - id: c-169413
@@ -123,7 +120,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-169415
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -140,6 +137,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
     valdovus.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

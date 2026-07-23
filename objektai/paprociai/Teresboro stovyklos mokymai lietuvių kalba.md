@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78718"></a>
-- t-005
+- t-001
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-43175
 
 <a id="claim-t-78721"></a>
-- t-003
+- t-002
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -112,8 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-003
+    - t-001
+    - t-002
 
 - id: c-43176
   sudarytojas: "Karolis Zikaras"
@@ -134,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

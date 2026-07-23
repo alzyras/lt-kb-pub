@@ -57,12 +57,7 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir citata patvirtina dalyvavimą 1912 m. suvažiavime Vilniuje."
   pagrindžia:
     - c-26677
-- susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78005|Jonas Basanavičius]]: Jonas Basanavičius buvo Lietuvių mokslo draugijos pirmininkas ir jau tuo laikotarpiu lietuvių visuomenės laikytas tautos patriarchu.
-- susijęs iš [[objektai/asmenys/Jonas Jablonskis.md#claim-t-26448|Jonas Jablonskis]]: Kalbininkas Jonas Jablonskis 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.
-- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75891|Julija Žymantienė-Žemaitė]]: 1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.
-- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75892|Julija Žymantienė-Žemaitė]]: 1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.
-- susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75995|Petras Kriaučiūnas]]: Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.
-- susijęs iš [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“.md#claim-t-26407|A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]: A. Jurašaičio nuotraukoje užfiksuoti Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
+
 ## Citatos
 
 - id: c-26677

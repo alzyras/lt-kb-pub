@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07826"></a>
-- t-002
+- t-001
   teiginys: "Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -60,9 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09985
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -83,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

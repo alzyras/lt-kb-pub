@@ -74,11 +74,7 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167134
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
-- susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-183759|Povilas Morkūnas-Rimantas]]: Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41115|Prisikėlimo apygarda]]: 1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
-- susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
-- susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
+
 ## Citatos
 
 - id: c-44393

@@ -55,8 +55,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir aiškiau sieja asmenį su teritorija."
   pagrindžia:
     - c-21857
-- susijęs iš Lenkija: 1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.
-- susijęs iš Vilnius: 1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+
 ## Citatos
 
 - id: c-21857

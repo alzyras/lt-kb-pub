@@ -70,6 +70,7 @@ Dusetos šiame šaltinyje yra vietovė.
   citata_rodoma: "A. Mažiulis (iš Dusetų v/)"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

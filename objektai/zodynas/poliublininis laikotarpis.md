@@ -89,7 +89,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-91776
 
 <a id="claim-t-05606"></a>
-- t-005
+- t-003
   teiginys: "Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-91775
 
 <a id="claim-t-97286"></a>
-- t-006
+- t-004
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-91775
 
 <a id="claim-t-97287"></a>
-- t-007
+- t-005
   teiginys: "Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -181,8 +181,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
-    - t-006
+    - t-003
+    - t-004
 
 - id: c-91776
   autorius: "Zenonas Ivinskis"
@@ -203,7 +203,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-007
+    - t-005
 
 - id: c-91778
   autorius: "Zenonas Ivinskis"
@@ -255,6 +255,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

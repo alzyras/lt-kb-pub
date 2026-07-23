@@ -46,8 +46,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
   semantiniai_rysiai: "Lenkijos kariuomenė keliavo į Volbožas (0.86)"
   pagrindžia:
     - c-37839
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
+
 ## Citatos
 
 - id: c-37839

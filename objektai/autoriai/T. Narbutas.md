@@ -41,7 +41,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 ## Teiginiai
 
 <a id="claim-t-188477"></a>
-- t-002
+- t-001
   teiginys: "T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkretindavo ir papildydavo tuo, kas, jo manymu, galėjo būti pasakyta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171367
 
 <a id="claim-t-188478"></a>
-- t-003
+- t-002
   teiginys: "T. Narbutas daug vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171368
 
 <a id="claim-t-188479"></a>
-- t-004
+- t-003
   teiginys: "1830 m. T. Narbutas išleido „Čigonų liaudies istorijos bruožus“ ir buvo parengęs darbą apie linų bei kanapių auginimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171369
 
 <a id="claim-t-188481"></a>
-- t-006
+- t-004
   teiginys: "T. Narbutas korespondencijoje minėjo neįvardytą Lydos mokytoją, vertusį LTI į rusų kalbą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171371
 
 <a id="claim-t-188482"></a>
-- t-007
+- t-005
   teiginys: "Narbutui priskiriama ypač didelė, net aistra vadinama, dėmesio koncentracija į lietuvių mitologijos tyrinėjimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171372
 
 <a id="claim-t-188483"></a>
-- t-008
+- t-006
   teiginys: "Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-171373
 
 <a id="claim-t-190808"></a>
-- t-009
+- t-007
   teiginys: "Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-173690
 
 <a id="claim-t-190810"></a>
-- t-011
+- t-008
   teiginys: "Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -176,7 +176,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-179282
 
 <a id="claim-t-190811"></a>
-- t-012
+- t-009
   teiginys: "1828 m. Varšuvoje išleistas T. Święckio veikalas „Opis starožytnej Polski“ buvo Teodoro Narbuto bibliotekoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-173693
 
 <a id="claim-t-191907"></a>
-- t-013
+- t-010
   teiginys: "Teodoras Narbutas svarstė, kad ašarinėse esantis skystis žemėje galėjo tapti dujiškai nepatvarus ir išgaruoti per stiklą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-174789
 
 <a id="claim-t-193589"></a>
-- t-014
+- t-011
   teiginys: "Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo inžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos Lietuvos istorijai iki Liublino."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-176264
 
 <a id="claim-t-193880"></a>
-- t-015
+- t-012
   teiginys: "Narbutas nuo 1838 m. pradėjo rūpintis Bychovco kronikos išspaus dinimu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -243,7 +243,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-176507
 
 <a id="claim-t-194207"></a>
-- t-016
+- t-013
   teiginys: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -255,7 +255,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-176810
 
 <a id="claim-t-194208"></a>
-- t-017
+- t-014
   teiginys: "Narbutas susilaukė rūsčios jo kritikos."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -267,7 +267,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-176811
 
 <a id="claim-t-197342"></a>
-- t-019
+- t-015
   teiginys: "Narbutas ne tik išlaikė nepaki tusią struktūrą, bet ir ilgą vaizdingą pratarmę, neatsisakė ir nė vieno jos teiginio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-179140
 
 <a id="claim-t-197343"></a>
-- t-020
+- t-016
   teiginys: "Teodoras Narbutas buvo tikra istoriko požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiška) buvo pakoreguota tik įrašant vieną nedidelę papildomą pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -291,7 +291,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-179141
 
 <a id="claim-t-197650"></a>
-- t-021
+- t-017
   teiginys: "Per 400 metų nė vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeitimi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -303,7 +303,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-179280
 
 <a id="claim-t-197651"></a>
-- t-022
+- t-018
   teiginys: "Narbuto korespondencijos, istorikas daugelį metų ieškojo galimybės išspausdinti šio tomo vertimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -315,7 +315,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     - c-179281
 
 <a id="claim-t-197652"></a>
-- t-023
+- t-019
   teiginys: "Narbuto darbiniame LTI egzemp lioriuje, visose devyniose dalyse, atsirado daugybė pa taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -325,155 +325,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179282
-- susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187895|Anicetas Renjė]]: Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu.
-- susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187896|Anicetas Renjė]]: Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą.
-- susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191344|Eduardas Eichvaldas]]: Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link.
-- susijęs iš [[objektai/asmenys/Juozapas Pomarnackis.md#claim-t-190166|Juozapas Pomarnackis]]: Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių kapinyno kasinėjimus.
-- susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190074|Karolis Kozakovskis]]: Karolis Kozakovskis vykdė Obelių kapinyno kasinėjimus, kurių aprašymas pasiekė Teodorą Narbutą.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190979|Tadas Volianskis]]: Tadas Volianskis 1844 m. sausį Narbutui siuntė savo seniau į lenkų kalbą išverstą dainą.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186510|Teodoras Narbutas]]: Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186513|Teodoras Narbutas]]: Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186515|Teodoras Narbutas]]: Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188624|Teodoras Narbutas]]: Rimanto Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188626|Teodoras Narbutas]]: Teodoras Narbutas dalyvavo 1830-1831 m. sukilime, bet, anot citatos, nekovojo su ginklu rankose.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188627|Teodoras Narbutas]]: Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188629|Teodoras Narbutas]]: Vytautas Berenis Teodorą Narbutą vadina lietuvių mitologijos tėvu ir tipišku savo epochos atstovu.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188631|Teodoras Narbutas]]: Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188632|Teodoras Narbutas]]: Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija: „Aš nerašau lietuvių tautos istorijos <...>“.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188639|Teodoras Narbutas]]: Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188640|Teodoras Narbutas]]: Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188641|Teodoras Narbutas]]: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190985|Teodoras Narbutas]]: Narbutas vartoja terminą „dzieje“, o ne „historia“.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190989|Teodoras Narbutas]]: Teodoras Narbutas Dievo Kovo stabą ypač vertino ir laikė jį vienu svarbiausių savo kolekcijos egzempliorių.
-- susijęs iš [[objektai/asmenys/Volfgangas Lazius.md#claim-t-190220|Volfgangas Lazius]]: Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“.
-- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
-- susijęs iš [[objektai/autoriai/Francas Bopas.md#claim-t-187951|Francas Bopas]]: Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Johanas Severinas Fateris.md#claim-t-187948|Johanas Severinas Fateris]]: Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Peteris Bolenas.md#claim-t-187950|Peteris Bolenas]]: Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Samuelis Lindė.md#claim-t-187949|Samuelis Lindė]]: Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/daiktai/1848 m. „Naujosios mitologijos“ rankraštis.md#claim-t-189653|1848 m. „Naujosios mitologijos“ rankraštis]]: 1848 m. „Naujosios mitologijos“ rankraštyje buvo iš esmės perrašyta pratarmė ir pakeista pirmojo LTI tomo struktūra.
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187809|Masonų apeigų taurė]]: Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187810|Masonų apeigų taurė]]: Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187811|Masonų apeigų taurė]]: Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“.
-- susijęs iš [[objektai/daiktai/T. Narbuto parankinis LTI egzempliorius.md#claim-t-189639|T. Narbuto parankinis LTI egzempliorius]]: T. Narbuto parankiniame LTI egzemplioriuje visose devyniose dalyse atsirado daugybė pataisų ir įklijų, skirtų antrajam leidimui.
-- susijęs iš [[objektai/ivykiai/1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją.md#claim-t-189605|1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją]]: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas vadintas „įžymiuoju falsifikatoriumi“.
-- susijęs iš [[objektai/ivykiai/J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.).md#claim-t-192046|J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.)]]: Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Abo miesto.md#claim-t-187807|Mūšis prie Abo miesto (mūšis, XIX a.)]]: Po kontūzijos mūšyje prie Abo miesto Teodorui Narbutui netrukus pablogėjo sveikata ir jis apkurto.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Abo miesto.md#claim-t-187808|Mūšis prie Abo miesto (mūšis, XIX a.)]]: Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą.
-- susijęs iš [[objektai/ivykiai/Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas.md#claim-t-189631|Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare, buvo kontūzytas mūšyje prie Abo miesto ir netrukus apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187805|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187806|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187803|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: 1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192018|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: Šeštojo dešimtmečio viduryje T. Narbutui kilo mintis dalį per penkiolika metų sukauptos medžiagos išleisti atskira knygele.
-- susijęs iš A. Brückner, Mitologia: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas buvo pavadintas „įžymiuoju falsifikatoriumi“.
-- susijęs iš Narbutt T., Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się: T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się“.
-- susijęs iš Narbutt T., Spisanie Muzeum w Szawrach: Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.
-- susijęs iš T. Narbuto „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znajduiących się“: Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znajduiących się“ aprašytas deivės Mildos stabas.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.
-- susijęs iš Lietuva: 1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.
-- susijęs iš [[objektai/zodynas/kabinetinė mitologija.md#claim-t-189300|kabinetinė mitologija]]: Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos.
-- susijęs iš [[objektai/posakiai/Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti.md#claim-t-192107|Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti]]: Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.
-- susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190852|Dionizas Paškevičius]]: Narbutas rėmėsi Kajetono Niezabitowskio straipsniu apie Dionizo Paškevičiaus Žemaitijos senienų rinkinį, paskelbtu „Dziennik Wilenski“ 1823 m.
-- susijęs iš [[objektai/asmenys/G. Braunas.md#claim-t-190151|G. Braunas]]: Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.
-- susijęs iš [[objektai/asmenys/G. Braunas.md#claim-t-190859|G. Braunas]]: Komentare G. Braunas įvardijamas kaip 1541-1622 m. gyvenęs geografas ir kartografas, atlaso „Civitates orbis terrarum“ autorius.
-- susijęs iš [[objektai/asmenys/Henrikas Leo.md#claim-t-191208|Henrikas Leo]]: Leidinio pastaboje Henrikas Leo apibūdinamas kaip vokiečių istorikas ir Hėgelio mokinys, kurio knyga parašyta 1842–1845 m.
-- susijęs iš [[objektai/asmenys/Ignas Onacevičius.md#claim-t-188537|Ignas Onacevičius]]: Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos <...>“.
-- susijęs iš [[objektai/asmenys/J. I. Kraševskis.md#claim-t-191422|J. I. Kraševskis]]: Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu.
-- susijęs iš [[objektai/asmenys/Jurgis de Biufonas.md#claim-t-191426|Jurgis de Biufonas]]: Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius.
-- susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-190901|Juzefas Ignacas Kraševskis]]: Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius.
-- susijęs iš [[objektai/asmenys/Kajetanas Niezabitowskis.md#claim-t-191349|Kajetanas Niezabitowskis]]: Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m.
-- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191307|Petras Malachovskis]]: Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus.
-- susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190970|Simonas Stanevičius]]: T. Narbuto papildymo komentare spėjama, kad Raseinių korespondentu galėjo būti Simonas Stanevičius (1799-1848).
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188628|Teodoras Narbutas]]: Citatos autorius teigia, kad lenkų istoriografijoje Teodoro Narbuto darbai nėra vertinami teigiamai.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188630|Teodoras Narbutas]]: Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188634|Teodoras Narbutas]]: Citatos autorius teigia, kad Teodoras Narbutas sąmoningai vengė žodžio „istorija“ ir save suvokė veikiau kaip aprašinėtoją.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188636|Teodoras Narbutas]]: 1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188637|Teodoras Narbutas]]: Teksto analizė rodo, kad Teodoras Narbutas savo parankinį LTI egzempliorių pildė iki 1863 metų.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-188657|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187955|Albertas Vijūkas-Kojalavičius]]: T. Narbutas pataisoje jau neabejojo, kad Lietuvos bajorų herbyno autorius buvo pats Albertas Vijūkas-Kojalavičius.
-- susijęs iš [[objektai/autoriai/Dominykas Šybinskis.md#claim-t-190364|Dominykas Šybinskis]]: Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis.
-- susijęs iš [[objektai/autoriai/Dominyko Gabrieliaus Šybinskio.md#claim-t-190334|Dominyko Gabrieliaus Šybinskio]]: Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis.
-- susijęs iš [[objektai/autoriai/Dytmaras.md#claim-t-191639|Dytmaras]]: Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius.
-- susijęs iš [[objektai/autoriai/Edvardas Mėjeris.md#claim-t-190325|Edvardas Mėjeris]]: T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mitologinio žodyno.
-- susijęs iš [[objektai/autoriai/Francua Noelis.md#claim-t-190422|Francua Noelis]]: Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Noelio mitologinio žodyno.
-- susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190295|Francua Žozefas Noelis]]: Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno.
-- susijęs iš [[objektai/autoriai/Friderikas Aleksandras fon Humboltas.md#claim-t-190390|Friderikas Aleksandras fon Humboltas]]: Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis.
-- susijęs iš [[objektai/autoriai/G. Braunas.md#claim-t-190391|G. Braunas]]: Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudarytą didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.
-- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190747|Juozapas Ignacas Kraševskis]]: Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais.
-- susijęs iš [[objektai/autoriai/Karolis Opermanas.md#claim-t-191650|Karolis Opermanas]]: Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žinias surinko inžinierius generolas Karolis Ojpermanas.
-- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190307|Nikolajus Karamzinas]]: Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį.
-- susijęs iš [[objektai/autoriai/P. J. Šafaržykas.md#claim-t-191526|P. J. Šafaržykas]]: P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.
-- susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191616|Petras Malachovskis]]: Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu.
-- susijęs iš [[objektai/autoriai/Pjeras Šomprė.md#claim-t-190401|Pjeras Šomprė]]: Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų.
-- susijęs iš [[objektai/autoriai/Povilas Juozapas Safaržykas.md#claim-t-191581|Povilas Juozapas Safaržykas]]: Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas.
-- susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-188476|Simonas Stanevičius]]: Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190290|Tadas Volianskis]]: Narbutas informaciją apie užrašą paėmė iš 1844 m. sausio 17 d. Tado Volianskio laiško iš Bidgoščiaus.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190805|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas.
-- susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190344|Vincentas Kadlubekas]]: Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyniškuoju variantu ir vertimu į lenkų kalbą.
-- susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190818|Vincentas Kadlubekas]]: Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą.
-- susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-188384|Masonų apeigų taurė]]: Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192949|Agatirai]]: T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192360|Budinai]]: T. Narbutas budinus laiko viena iš dviejų tautų, sudariusių lietuvių tautos pradžią, ir priskiria jiems indų-skitų kilmę.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192372|Budinai]]: T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188197|Herulai]]: Volfgangas Lazius, Narbuto išnašoje vadinamas istoriografu ir geografu, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192424|Lietuviai]]: Teodoras Narbutas, remdamasis Kepenu, lietuvių dialektą laikė viduriniu tarp senovės prūsų ir latvių dialektų.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-188285|Lietuvos Didžioji Kunigaikštystė]]: Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija.
-- susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188045|Lietuvos masonų organizacijos]]: Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją.
-- susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192019|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: 1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“.
-- susijęs iš [[objektai/paprociai/Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą.md#claim-t-189795|Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą]]: Nuo 1837 metų A. Marcinovskis rūpinosi T. Narbuto „Lietuvių tautos istorijos“ leidyba, prenumerata ir reklama.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
-- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
-- susijęs iš [[objektai/posakiai/Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti.md#claim-t-192107|Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti]]: Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.
-- susijęs iš [[objektai/posakiai/Geriau būtų nuo Wannas, senovės prūsų kalba — uodas.md#claim-t-192127|Geriau būtų nuo Wannas, senovės prūsų kalba — uodas]]: Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.
-- susijęs iš [[objektai/posakiai/Išmintis, arba protas, kuris sergsti visus gero žmogaus darbus, yra dieviškos būtybės Butės rankoje.md#claim-t-188000|„Išmintis, arba protas, kuris sergsti visus gero žmogaus darbus, yra dieviškos būtybės Butės rankoje“]]: Narbutas Butės mitą siejo su Klaipėdos apylinkėse iš jūrininko išgirstu padavimu, kuriame išmintis laikoma Butės rankoje.
-- susijęs iš [[objektai/posakiai/Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas.md#claim-t-192130|Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas]]: 1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.
-- susijęs iš [[objektai/posakiai/Tasai ponas Volianskis šiandien yra žymiausias archeologas.md#claim-t-189590|Tasai ponas Volianskis šiandien yra žymiausias archeologas]]: Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.
-- susijęs iš [[objektai/posakiai/darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą.md#claim-t-192129|darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą]]: Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų Lietuvos praeities paminklą.
-- susijęs iš Civitates Orbis terrarum: Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.
-- susijęs iš Georgo Brauno „Civitates orbis terrarum“: Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.
-- susijęs iš Humboldt A. von und Bonplandt A., Reise in die Aeąuinoctiol-Gegenden dės neuen Continents: Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių aprašymu apie Naująjį žemyną.
-- susijęs iš Jurgis de Buffonas, Gamtos istorija: Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direktorius ir 1749–1788 m. leistos „Gamtos istorijos“ autorius.
-- susijęs iš Laiškas iš Raseinių apie senovės lietuvių astronomijos supratimą: Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško fragmentu.
-- susijęs iš Piotr Małachowski, Zbior nazwisk szlachty z opisem herbow: T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą „Zbior nazwisk szlachty z opisem herbow“.
-- susijęs iš Spisanie Muzeum w Szawrach: T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.
-- susijęs iš „Dziennik Wilenski“: Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams.
-- susijęs iš Lietuva: Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis.
-- susijęs iš Obelių kapinynas: Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.
-- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.
-- susijęs iš Rusija: T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.
-- susijęs iš Sankt Peterburgas: 1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą.
-- susijęs iš Tilžė: Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš [[objektai/zodynas/Auksakalys.md#claim-t-192325|Auksakalys]]: Rengdamas antrąjį LTI leidimą, T. Narbutas žodį „auksakalys“ pakeitė žodžiu „prekiautojas“.
-- susijęs iš [[objektai/zodynas/Fetišas fetišai.md#claim-t-189262|Fetišas fetišai]]: Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsias dievybes“ ir fetišus.
-- susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192143|dialektai]]: Narbutas svarbiausiais lyginamais dialektais vadina senovės prūsų, lietuvių ir latvių dialektus.
-- susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192144|dialektai]]: Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti.
-- susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192299|dzieje]]: Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192300|dziejopis]]: Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192301|dziejopis]]: Narbutas nurodė: Simonas Daukantas žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „latopisiec“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192302|dziejopis]]: Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192303|dziejopis]]: Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“.
-- susijęs iš [[objektai/zodynas/fetišai.md#claim-t-189358|fetišai]]: Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusdievių ir sudievintų dangaus kūnų priskyrė ir fetišus.
-- susijęs iš [[objektai/zodynas/kriticizmas.md#claim-t-188002|kriticizmas]]: Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“.
-- susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192018|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: Šeštojo dešimtmečio viduryje T. Narbutui kilo mintis dalį per penkiolika metų sukauptos medžiagos išleisti atskira knygele.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192019|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: 1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“.
-- susijęs iš [[objektai/posakiai/Geriau būtų nuo Wannas, senovės prūsų kalba — uodas.md#claim-t-192127|Geriau būtų nuo Wannas, senovės prūsų kalba — uodas]]: Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.
-- susijęs iš [[objektai/posakiai/Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas.md#claim-t-192130|Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas]]: 1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.
-- susijęs iš [[objektai/posakiai/darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą.md#claim-t-192129|darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą]]: Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų Lietuvos praeities paminklą.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.
-- susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192143|dialektai]]: Narbutas svarbiausiais lyginamais dialektais vadina senovės prūsų, lietuvių ir latvių dialektus.
-- susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192144|dialektai]]: Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti.
-- susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192299|dzieje]]: Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192300|dziejopis]]: Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192301|dziejopis]]: Narbutas nurodė: Simonas Daukantas žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „latopisiec“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192302|dziejopis]]: Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“.
-- susijęs iš [[objektai/zodynas/dziejopis.md#claim-t-192303|dziejopis]]: Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Trečiojo dešimtmečio pabaigoje T. Narbutas jau buvo sukaupęs šaltinių seniausiai Lietuvos istorijai rekonstruoti.'
@@ -595,7 +447,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-171367
@@ -617,7 +468,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171368
   autorius: "Teodoras Narbutas"
@@ -635,7 +486,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-171369
   autorius: "Teodoras Narbutas"
@@ -654,7 +505,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-171371
   autorius: "Teodoras Narbutas"
@@ -673,7 +524,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-171372
   autorius: "Teodoras Narbutas"
@@ -692,7 +543,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-171373
   autorius: "Teodoras Narbutas"
@@ -710,7 +561,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-173690
   autorius: "Teodoras Narbutas"
@@ -737,7 +588,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-173692
   autorius: "Teodoras Narbutas"
@@ -772,7 +623,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-174789
   autorius: "Teodoras Narbutas"
@@ -797,7 +648,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-176264
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -816,7 +667,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-176507
   autorius: "Anoniminis metraštininkas"
@@ -837,7 +688,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-176810
   autorius: "Michał Baliński"
@@ -857,7 +708,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-013
 
 - id: c-176811
   autorius: "Michał Baliński"
@@ -879,7 +730,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-014
 
 - id: c-179140
   autorius: "Teodoras Narbutas"
@@ -901,7 +752,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-015
 
 - id: c-179141
   autorius: "Teodoras Narbutas"
@@ -925,7 +776,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-016
 
 - id: c-179280
   autorius: "Teodoras Narbutas"
@@ -945,7 +796,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-017
 
 - id: c-179281
   autorius: "Teodoras Narbutas"
@@ -966,7 +817,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-018
 
 - id: c-179282
   autorius: "Teodoras Narbutas"
@@ -988,5 +839,5 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-023
+    - t-008
+    - t-019

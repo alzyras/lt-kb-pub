@@ -44,11 +44,7 @@ Sapiega ir maršalas A.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44302
-- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
-- susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40316|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.
-- susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
-- susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78447|Sapiegų kariuomenė]]: M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.
-- susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
+
 ## Citatos
 
 - id: c-44302

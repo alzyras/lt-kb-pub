@@ -54,12 +54,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   temporalinis_llm_pakomentavimas: "Tai stebuklinis kronikos pasakojimas, todėl reikia atribucijos Dusburgiečiui."
   pagrindžia:
     - c-67520
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-184072|Glapas]]: Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.
-- susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62751|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-184072|Glapas]]: Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.
-- susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64604|Hennenberger C]]: C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
-- susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62751|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.
+
 ## Citatos
 
 - id: c-67520

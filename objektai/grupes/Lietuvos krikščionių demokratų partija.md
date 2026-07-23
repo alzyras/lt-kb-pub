@@ -30,7 +30,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 ## Teiginiai
 
 <a id="claim-t-74744"></a>
-- t-002
+- t-001
   teiginys: "Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - c-22618
 
 <a id="claim-t-74745"></a>
-- t-003
+- t-002
   teiginys: "Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - c-22619
 
 <a id="claim-t-74746"></a>
-- t-001
+- t-003
   teiginys: "Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
     - t-004
 
 - id: c-22618
@@ -139,7 +139,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-22619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -160,4 +160,4 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

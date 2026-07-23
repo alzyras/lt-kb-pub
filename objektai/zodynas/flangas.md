@@ -61,8 +61,7 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45516
-- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40034|Antoine Gramont]]: Prancūzijos grafas Antoineas Gramont’as 1663-1664 m. pasakojo apie totorius Lietuvos kariuomenėje.
-- susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.
+
 ## Citatos
 
 - id: c-44167

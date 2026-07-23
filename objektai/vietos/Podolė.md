@@ -16,9 +16,6 @@ datos:
   - '2026 m.'
 date_start: '1320'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +23,9 @@ tags:
   - kraštas
   - pilis
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 ## Teiginiai
 
 <a id="claim-t-177907"></a>
-- t-031
+- t-001
   teiginys: "Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182549
 
 <a id="claim-t-177908"></a>
-- t-040
+- t-002
   teiginys: "Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182540
 
 <a id="claim-t-177909"></a>
-- t-032
+- t-003
   teiginys: "Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182562
 
 <a id="claim-t-177910"></a>
-- t-056
+- t-004
   teiginys: "Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -132,9 +132,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182552
 
 <a id="claim-t-177911"></a>
-- t-033
+- t-005
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,7 +151,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182550
 
 <a id="claim-t-177912"></a>
-- t-046
+- t-006
   teiginys: "1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-24389
 
 <a id="claim-t-177913"></a>
-- t-038
+- t-007
   teiginys: "Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182543
 
 <a id="claim-t-177914"></a>
-- t-020
+- t-008
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182559
 
 <a id="claim-t-177915"></a>
-- t-036
+- t-009
   teiginys: "Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -226,7 +226,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182526
 
 <a id="claim-t-177916"></a>
-- t-052
+- t-010
   teiginys: "Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -245,7 +245,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182544
 
 <a id="claim-t-177917"></a>
-- t-022
+- t-011
   teiginys: "Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -263,7 +263,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182555
 
 <a id="claim-t-177918"></a>
-- t-055
+- t-012
   teiginys: "1395 m. Vytautas paskyrė savo vietininką Podolėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -283,7 +283,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182547
 
 <a id="claim-t-177920"></a>
-- t-048
+- t-013
   teiginys: "Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -304,7 +304,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182542
 
 <a id="claim-t-177921"></a>
-- t-013
+- t-014
   teiginys: "Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -324,9 +324,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182528
 
 <a id="claim-t-177922"></a>
-- t-001
+- t-015
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -344,7 +344,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182550
 
 <a id="claim-t-177924"></a>
-- t-035
+- t-016
   teiginys: "Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -364,7 +364,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182536
 
 <a id="claim-t-177926"></a>
-- t-023
+- t-017
   teiginys: "Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -386,7 +386,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182543
 
 <a id="claim-t-177927"></a>
-- t-039
+- t-018
   teiginys: "Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -406,7 +406,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182528
 
 <a id="claim-t-177928"></a>
-- t-034
+- t-019
   teiginys: "Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -424,7 +424,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182523
 
 <a id="claim-t-177929"></a>
-- t-012
+- t-020
   teiginys: "1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -446,7 +446,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182557
 
 <a id="claim-t-177930"></a>
-- t-047
+- t-021
   teiginys: "Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -465,7 +465,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182523
 
 <a id="claim-t-177931"></a>
-- t-021
+- t-022
   teiginys: "Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -485,7 +485,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182555
 
 <a id="claim-t-177932"></a>
-- t-011
+- t-023
   teiginys: "Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -503,7 +503,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182543
 
 <a id="claim-t-177934"></a>
-- t-044
+- t-024
   teiginys: "Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -520,9 +520,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182525
 
 <a id="claim-t-177939"></a>
-- t-028
+- t-025
   teiginys: "Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -542,7 +542,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182565
 
 <a id="claim-t-177941"></a>
-- t-053
+- t-026
   teiginys: "1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -564,7 +564,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182545
 
 <a id="claim-t-177942"></a>
-- t-043
+- t-027
   teiginys: "Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -581,7 +581,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182549
 
 <a id="claim-t-177943"></a>
-- t-045
+- t-028
   teiginys: "Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -600,7 +600,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-177946"></a>
 - t-029
   teiginys: "Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -617,7 +617,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182565
 
 <a id="claim-t-183073"></a>
-- t-002
+- t-030
   teiginys: "Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -641,7 +641,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182546
 
 <a id="claim-t-183074"></a>
-- t-003
+- t-031
   teiginys: "Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -662,7 +662,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182561
 
 <a id="claim-t-185087"></a>
-- t-059
+- t-032
   teiginys: "Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -681,7 +681,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168448
 
 <a id="claim-t-185088"></a>
-- t-060
+- t-033
   teiginys: "Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -700,7 +700,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168449
 
 <a id="claim-t-185089"></a>
-- t-061
+- t-034
   teiginys: "Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -719,7 +719,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168450
 
 <a id="claim-t-185091"></a>
-- t-063
+- t-035
   teiginys: "Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -738,7 +738,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168452
 
 <a id="claim-t-185092"></a>
-- t-064
+- t-036
   teiginys: "Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -757,7 +757,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168453
 
 <a id="claim-t-185093"></a>
-- t-065
+- t-037
   teiginys: "Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -776,7 +776,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168454
 
 <a id="claim-t-192721"></a>
-- t-066
+- t-038
   teiginys: "Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -797,7 +797,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182553
 
 <a id="claim-t-193225"></a>
-- t-067
+- t-039
   teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -810,7 +810,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182548
 
 <a id="claim-t-194257"></a>
-- t-070
+- t-040
   teiginys: "Čia pirmiausia Petras Goš tautas, kunigaikščio Algirdo laikų didikas ir Vilniaus vaivada, per Bučiacką, paimtą iš Podolės žmoną, garsios anuomet didikų giminės, pa sikrikštijęs, kai ir Algirdas, per Tve rės kunigaikštytę Mariją, šventąjį krikštą priėmė, tą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -823,7 +823,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182529
 
 <a id="claim-t-196727"></a>
-- t-071
+- t-041
   teiginys: "Kojelavičiaus pasakojime tarp Podolės ir Valachijos karių kilę nesutarimai atvėrė priešui kelią į Kamenecą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -836,7 +836,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168448
 
 <a id="claim-t-196728"></a>
-- t-072
+- t-042
   teiginys: "Kojelavičiaus pasakojime lietuviai reikalavo grąžinti Podolę, kurią Lietuvos kunigaikščių ginklas esą išvadavo iš skitų vergovės."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -849,7 +849,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-168450
 
 <a id="claim-t-199671"></a>
-- t-050
+- t-043
   teiginys: "1971 m. leidimo paaiškinime Podolė apibrėžiama kaip Ukrainos dalies į šiaurę nuo Karpatų ir Dnestro istorinis pavadinimas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -863,7 +863,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182539
 
 <a id="claim-t-199672"></a>
-- t-004
+- t-044
   teiginys: "Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -882,7 +882,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182537
 
 <a id="claim-t-199676"></a>
-- t-005
+- t-045
   teiginys: "Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -900,7 +900,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182563
 
 <a id="claim-t-199681"></a>
-- t-006
+- t-046
   teiginys: "Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -923,7 +923,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-170582
 
 <a id="claim-t-199682"></a>
-- t-007
+- t-047
   teiginys: "Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -948,7 +948,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-170582
 
 <a id="claim-t-199684"></a>
-- t-027
+- t-048
   teiginys: "Tuo metu Vytautas paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -959,7 +959,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182537
 
 <a id="claim-t-199687"></a>
-- t-008
+- t-049
   teiginys: "Jadvyga anksčiau buvo kėlusi protestą dėl Podolijos."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -978,7 +978,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182524
 
 <a id="claim-t-199688"></a>
-- t-024
+- t-050
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -992,7 +992,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - c-182564
 
 <a id="claim-t-199715"></a>
-- t-026
+- t-051
   teiginys: "Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -1004,275 +1004,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182524
-- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
-- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
-- susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
-- susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186701|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186702|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš Voluinė: Ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė tuo metu buvo valdoma lenkų.
-- susijęs iš Voluinė: Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
-- susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
-- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184822|Petras Goštautas]]: Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.
-- susijęs iš [[objektai/asmenys/Spytekas iš Melštyno.md#claim-t-40426|Spytekas iš Melštyno]]: Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.
-- susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
-- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78880|baskakas]]: Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
-- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
-- susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40083|D. Osten-Sakenas]]: Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai.
-- susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113788|Goštautas (vyskupas, XV a.)]]: Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.
-- susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184754|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.
-- susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
-- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54988|Petras Goštautas]]: Petras Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.
-- susijęs iš [[objektai/asmenys/Spytekas iš Melštyno.md#claim-t-40426|Spytekas iš Melštyno]]: Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.
-- susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179731|Švitrigaila]]: Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183582|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
-- susijęs iš [[objektai/autoriai/St. Krakowski.md#claim-t-30990|St. Krakowski]]: St. Krakowskis tiksliai įvertino ginčą dėl Karijotaičių ir Podolės klausimo XIV a. naujausioje lenkų istoriografijoje.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-184327|Karijotaičiai]]: Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179125|Kryžiuočių ordinas]]: 1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184531|Lenkai]]: Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.
-- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
-- susijęs iš [[objektai/grupes/Podolės bajorai.md#claim-t-86817|Podolės bajorai]]: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijai.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
-- susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
-- susijęs iš [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.).md#claim-t-185757|Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]: 1460 m. karalius Bresto seime mėgino nukreipti Lietuvos didikų užmojus nuo Podolės, bet jam išvykus jie vėl rengėsi karui.
-- susijęs iš [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.).md#claim-t-185629|Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]: Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos.
-- susijęs iš [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.).md#claim-t-185824|Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]: Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
-- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186698|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies.
-- susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams.
-- susijęs iš [[objektai/ivykiai/Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.).md#claim-t-185771|Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)]]: Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186700|Teodoro Karijotaičio pašalinimas iš Podolės]]: Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186701|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186702|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
-- susijęs iš [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus.md#claim-t-09544|Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]: Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185466|Ugnimi ir kalaviju]]: Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.
-- susijęs iš [[objektai/posakiai/vienui viena veiksminga priemonė.md#claim-t-185472|vienui viena veiksminga priemonė]]: Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigti yra bendra lenkų ir lietuvių teisė į Podolę.
-- susijęs iš Imperatoriaus Zigmanto raštas Jogailai dėl Galičo ir dalies Podolės: Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais.
-- susijęs iš Wremiennik Sofijski: Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.
-- susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
-- susijęs iš Kamenecas: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
-- susijęs iš Kijevas: Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.
-- susijęs iš Kijevas: Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Krokuva: Prie Vorsklos žuvo Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
-- susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.
-- susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
-- susijęs iš Lvovas: Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.
-- susijęs iš Mažoji Podolė: Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro.
-- susijęs iš Mažoji Podolė: Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.
-- susijęs iš Mažoji Podolė: Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.
-- susijęs iš Palenkė: Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje.
-- susijęs iš Palenkė: Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi.
-- susijęs iš Palenkė: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
-- susijęs iš Podolės Kamenecas: XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė.
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas istoriniuose šaltiniuose minimas jau 1062 m.
-- susijęs iš Podolės Kamenecas: 1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.
-- susijęs iš Podolės Kameneco tvirtovė: Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.
-- susijęs iš Smotričius: Smotričius yra sena Podolės gyvenvietė, minima jau XII a.
-- susijęs iš Smotričius: Smotričius yra sena Podolės gyvenvietė, minima jau XII a., o 1240 m. ją sunaikino totoriai.
-- susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
-- susijęs iš Voluinė: Ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė tuo metu buvo valdoma lenkų.
-- susijęs iš Voluinė: Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.
-- susijęs iš Voluinė: Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.
-- susijęs iš Voluinė: Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
-- susijęs iš [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai.md#claim-t-22096|dalinių kunigaikštijų sistema vietininkai]]: Vytautas 1394 m. panaikino Kijevo kunigaikštiją, o 1395 m. paskyrė savo vietininką Podolėje.
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
-- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
-- susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40079|D. Kuruta]]: Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.
-- susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40084|D. Osten-Sakenas]]: Generolas leitenantas baronas D. Osten-Sakenas laikinai perėmė vadovavimą iš leitenanto grafo D. Kurutos.
-- susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
-- susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
-- susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
-- susijęs iš [[objektai/asmenys/Markvardas Zalzbachas.md#claim-t-39390|Markvardas Zalzbachas]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184822|Petras Goštautas]]: Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179657|Skirgaila]]: 1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
-- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
-- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176742|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184870|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179695|Švitrigaila]]: 1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179724|Švitrigaila]]: 1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
-- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-81900|Grzybowski]]: Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172914|M. Strijkovskis Stryjkowski]]: Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.
-- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija.md#claim-t-87126|Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]: Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175533|Kalavijuočių ordinas]]: 1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
-- susijęs iš [[objektai/grupes/Karijotaičių giminė.md#claim-t-187763|Karijotaičių giminė]]: Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178868|Kryžiuočių ordinas]]: Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją.
-- susijęs iš [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas.md#claim-t-78198|Leibgvardijos Voluinės pėstininkų pulkas]]: Leibgvardijos Voluinės pėstininkų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.
-- susijęs iš [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas.md#claim-t-78199|Leibgvardijos Voluinės pėstininkų pulkas]]: Leibgvardijos Voluinės pėstininkų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.
-- susijęs iš [[objektai/grupes/Leibgvardijos kazokų pulkas.md#claim-t-183658|Leibgvardijos kazokų pulkas]]: Leibgvardijos kazokų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.
-- susijęs iš [[objektai/grupes/Leibgvardijos kazokų pulkas.md#claim-t-40982|Leibgvardijos kazokų pulkas]]: Leibgvardijos kazokų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.
-- susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78196|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.
-- susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78197|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184530|Lenkai]]: Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184553|Lietuviai]]: Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-184560|Lietuvos Didžioji Kunigaikštystė]]: Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187722|Lietuvos Didžioji Kunigaikštystė]]: Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179399|Livonijos ordinas]]: Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108289|Pranciškonų ordinas]]: Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108327|Pranciškonų ordinas]]: Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.
-- susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171391|Tochtamišo totoriai]]: Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.
-- susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
-- susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
-- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169846|Liublino unija (1569 m.)]]: Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169849|Liublino unija (1569 m.)]]: Lietuvos delegacija kovo 1 d. išvyko iš Liublino, nes derybose dėl unijos nebuvo susitarta.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare žinia, kad Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, laikoma apskritai patikima, nors data ginčijama.
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: 1971 m. komentare Mėlynųjų Vandenų mūšio data laikoma ginčytina: dauguma istorikų jį datuoja 1352–1362 m., kai kurie – XIV a. pabaiga.
-- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
-- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01876|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis.
-- susijęs iš [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus.md#claim-t-185793|Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]: Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.
-- susijęs iš [[objektai/paprociai/Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei.md#claim-t-185918|Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei]]: Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.
-- susijęs iš [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio.md#claim-t-185923|Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]: Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.
-- susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.md#claim-t-02079|Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]: Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.
-- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš Bučačo taikos sutartis (1672 m.): 1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.
-- susijęs iš Jogailos sudaryta sutartis, paprastai vadinama unija: Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.
-- susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
-- susijęs iš Bakota: Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą.
-- susijęs iš Bakotos pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
-- susijęs iš Bendras kontekstas vietos išvardytos kaip ginklų ir amunicijos rankraščio vietovių pavadinimai: Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.
-- susijęs iš Braclavas: 1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.
-- susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
-- susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
-- susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu.
-- susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.
-- susijęs iš Dinaburgas: Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.
-- susijęs iš Diunamundė: Diunamundė nurodyta kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.
-- susijęs iš Dniepras: Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos.
-- susijęs iš Dniepras: Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
-- susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Dniestras: Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų.
-- susijęs iš Juodoji jūra: Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.
-- susijęs iš Kameneco pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
-- susijęs iš Kaskhauzenas: Kaskhauzenas buvo įvardytas tarp Livonijos pilių.
-- susijęs iš Kijevas: Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas.
-- susijęs iš Kijevas: 1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila.
-- susijęs iš Kijevas: 1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.
-- susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
-- susijęs iš Krokuva: Prie Vorsklos žuvo Vytautui ištikimi Smolensko vietininkai Boreikaičiai ir Krokuvos vaivada Spytekas iš Melsztyno.
-- susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
-- susijęs iš Livonija: Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
-- susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
-- susijęs iš Livonija: Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš Livonija: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
-- susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.
-- susijęs iš Livonija: Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą.
-- susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
-- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
-- susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
-- susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
-- susijęs iš Lutzenas: Lutzenas Balinskio pateiktame vietovių sąraše įvardytas kaip viena iš Livonijos pilių.
-- susijęs iš Lvovas: Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.
-- susijęs iš Lvovas: Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.
-- susijęs iš Marienhausenas: Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.
-- susijęs iš Palenkė: Kęstutis paveldėjo Trakus ir Gardiną su Palenke.
-- susijęs iš Pernava: Pernava nurodyta kaip viena iš Livonijos pilių.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Prūsija: Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti.
-- susijęs iš Rosytė: Rosytė minima tarp Livonijos pilių kartu su Marienhausenu, Lutzenu, Švarcenburgu, Dinaburgu ir kitomis pilimis.
-- susijęs iš Rundborgas: Rundborgas minimas tarp Livonijos pilių kartu su Kokenhauzenu, Diunamunde, Ryga ir Šmetene.
-- susijęs iš Severskas: Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.
-- susijęs iš Seversko Naugardas: Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.
-- susijęs iš Smotričius: XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui.
-- susijęs iš Smotričius: Smotričių 1240 m. sunaikino totoriai.
-- susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
-- susijęs iš Smotryč: Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą.
-- susijęs iš Ukraina: Apsirūpinus artilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai buvo siuntinėjami po Ukrainos pilis.
-- susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
-- susijęs iš Vitebskas: Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.
-- susijęs iš Volinija: Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos.
-- susijęs iš Voluinė: Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.
-- susijęs iš Voluinė: 1447 m. privilegijoje Kazimieras įsipareigojo išlaikyti Lietuvą Vytauto laikų ribose, kad Podolė su Voluine liktų Lietuvai.
-- susijęs iš Švarcenburgas: Švarcenburgas nurodytas tarp Livonijos pilių.
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42434|atamanas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78877|baskakas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78880|baskakas]]: Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/domenas.md#claim-t-02980|domenas]]: Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų.
-- susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
-- susijęs iš [[objektai/zodynas/in partibus infidelium.md#claim-t-86589|in partibus infidelium]]: Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.
-- susijęs iš [[objektai/zodynas/kuratorius.md#claim-t-03056|kuratorius]]: Vilniaus švietimo apygardos kuratoriumi buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.
-- susijęs iš [[objektai/zodynas/murza.md#claim-t-38767|murza]]: Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
-- susijęs iš [[objektai/zodynas/rusų tikėjimas.md#claim-t-187559|rusų tikėjimas]]: Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
-- susijęs iš [[objektai/zodynas/tėvonys.md#claim-t-38782|tėvonys]]: Podolėje veikė tėvonių paskirti atamanai, duodavę duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
-- susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
-- susijęs iš [[objektai/grupes/Podolės bajorai.md#claim-t-86817|Podolės bajorai]]: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijai.
-- susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176742|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.
-- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
-- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
+
 ## Reikšmingi paminėjimai
 - c-029
   santrauka: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
@@ -1418,7 +1150,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-24387
@@ -1458,7 +1189,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-031
 
 - id: c-24389
   redaktorius: "A. Šapoka"
@@ -1477,7 +1208,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-006
 
 - id: c-32336
   autorius: "Zenonas Ivinskis"
@@ -1494,7 +1225,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-022
 
 - id: c-46677
   redaktorius: "A. Šapoka"
@@ -1513,7 +1244,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
+    - t-039
 
 - id: c-161721
   autorius: "Michał Baliński"
@@ -1550,7 +1281,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
     - t-029
 
 - id: c-161722
@@ -1570,7 +1301,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-012
 
 - id: c-161723
   autorius: "Michał Baliński"
@@ -1589,8 +1320,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-001
+    - t-005
+    - t-015
 
 - id: c-161725
   autorius: "Michał Baliński"
@@ -1615,7 +1346,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-002
 
 - id: c-161726
   autorius: "Michał Baliński"
@@ -1641,7 +1372,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-001
 
 - id: c-161728
   autorius: "Michał Baliński"
@@ -1665,7 +1396,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-009
 
 - id: c-161730
   sudarytojas: "Karolis Zikaras"
@@ -1688,9 +1419,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-023
-    - t-039
+    - t-014
+    - t-017
+    - t-018
 
 - id: c-161733
   autorius: "Michał Baliński"
@@ -1714,7 +1445,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-024
 
 - id: c-161734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1733,7 +1464,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-004
 
 - id: c-161736
   autorius: "Michał Baliński"
@@ -1770,8 +1501,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-045
+    - t-003
+    - t-028
 
 - id: c-161738
   autorius: "Michał Baliński"
@@ -1797,8 +1528,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
-    - t-043
+    - t-001
+    - t-027
 
 - id: c-161739
   autorius: "Michał Baliński"
@@ -1847,7 +1578,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-020
 
 - id: c-161741
   sudarytojas: "Karolis Zikaras"
@@ -1872,9 +1603,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-007
+    - t-017
     - t-023
-    - t-011
 
 - id: c-161742
   autorius: "Zenonas Ivinskis"
@@ -1896,8 +1627,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-011
     - t-022
-    - t-021
 
 - id: c-161743
   autorius: "Michał Baliński"
@@ -1925,8 +1656,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-047
+    - t-019
+    - t-021
 
 - id: c-161744
   autorius: "Michał Baliński"
@@ -1948,7 +1679,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-015
 
 - id: c-161745
   autorius: "Michał Baliński"
@@ -1966,7 +1697,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-013
 
 - id: c-161747
   autorius: "Zenonas Ivinskis"
@@ -1990,7 +1721,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-026
 
 - id: c-161748
   autorius: "Zenonas Ivinskis"
@@ -2012,7 +1743,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-010
 
 - id: c-161749
   autorius: "Michał Baliński"
@@ -2033,7 +1764,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-016
 
 - id: c-161755
   autorius: "Zenonas Ivinskis"
@@ -2055,7 +1786,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-008
 
 - id: c-166464
   redaktorius: "A. Šapoka"
@@ -2076,7 +1807,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-030
 
 - id: c-168448
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2104,8 +1835,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
-    - t-071
+    - t-032
+    - t-041
 
 - id: c-168449
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2133,7 +1864,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-060
+    - t-033
 
 - id: c-168450
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2169,8 +1900,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
-    - t-072
+    - t-034
+    - t-042
 
 - id: c-168452
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2193,7 +1924,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-035
 
 - id: c-168453
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2229,7 +1960,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-036
 
 - id: c-168454
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2254,7 +1985,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-037
 
 - id: c-170582
   autorius: "Anoniminis metraštininkas"
@@ -2274,8 +2005,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-007
+    - t-046
+    - t-047
 
 - id: c-170583
   autorius: "Anoniminis metraštininkas"
@@ -2318,7 +2049,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-038
 
 - id: c-176653
   autorius: "Anoniminis metraštininkas"
@@ -2336,7 +2067,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-043
 
 - id: c-176851
   autorius: "Michał Baliński"
@@ -2363,7 +2094,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-040
 
 - id: c-182523
   autorius: "Michał Baliński"
@@ -2391,8 +2122,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-047
+    - t-019
+    - t-021
 
 - id: c-182524
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2413,8 +2144,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-026
+    - t-049
+    - t-051
 
 - id: c-182525
   autorius: "Michał Baliński"
@@ -2438,7 +2169,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-024
 
 - id: c-182526
   autorius: "Michał Baliński"
@@ -2462,7 +2193,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-009
 
 - id: c-182527
   autorius: "Michał Baliński"
@@ -2488,7 +2219,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-001
 
 - id: c-182528
   sudarytojas: "Karolis Zikaras"
@@ -2511,9 +2242,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-023
-    - t-039
+    - t-014
+    - t-017
+    - t-018
 
 - id: c-182529
   autorius: "Michał Baliński"
@@ -2540,7 +2271,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-040
 
 - id: c-182533
   autorius: "Michał Baliński"
@@ -2559,8 +2290,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-001
+    - t-005
+    - t-015
 
 - id: c-182535
   autorius: "Michał Baliński"
@@ -2597,7 +2328,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
     - t-029
 
 - id: c-182536
@@ -2619,7 +2350,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-016
 
 - id: c-182537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2645,8 +2376,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-027
+    - t-044
+    - t-048
 
 - id: c-182538
   autorius: "Zenonas Ivinskis"
@@ -2663,7 +2394,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-022
 
 - id: c-182539
   autorius: "Anoniminis metraštininkas"
@@ -2681,7 +2412,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-043
 
 - id: c-182540
   autorius: "Michał Baliński"
@@ -2706,7 +2437,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-002
 
 - id: c-182542
   autorius: "Michał Baliński"
@@ -2724,7 +2455,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-013
 
 - id: c-182543
   sudarytojas: "Karolis Zikaras"
@@ -2749,9 +2480,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-007
+    - t-017
     - t-023
-    - t-011
 
 - id: c-182544
   autorius: "Zenonas Ivinskis"
@@ -2773,7 +2504,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-010
 
 - id: c-182545
   autorius: "Zenonas Ivinskis"
@@ -2797,7 +2528,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-026
 
 - id: c-182546
   redaktorius: "A. Šapoka"
@@ -2818,7 +2549,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-030
 
 - id: c-182547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2837,7 +2568,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-012
 
 - id: c-182548
   redaktorius: "A. Šapoka"
@@ -2856,7 +2587,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
+    - t-039
 
 - id: c-182549
   autorius: "Michał Baliński"
@@ -2882,8 +2613,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
-    - t-043
+    - t-001
+    - t-027
 
 - id: c-182550
   autorius: "Michał Baliński"
@@ -2902,8 +2633,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-001
+    - t-005
+    - t-015
 
 - id: c-182551
   autorius: "Anoniminis metraštininkas"
@@ -2945,7 +2676,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-004
 
 - id: c-182553
   autorius: "Teodoras Narbutas"
@@ -2965,7 +2696,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-038
 
 - id: c-182555
   autorius: "Zenonas Ivinskis"
@@ -2987,8 +2718,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-011
     - t-022
-    - t-021
 
 - id: c-182556
   autorius: "Anoniminis metraštininkas"
@@ -3034,7 +2765,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-020
 
 - id: c-182559
   autorius: "Zenonas Ivinskis"
@@ -3056,7 +2787,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-008
 
 - id: c-182561
   redaktorius: "A. Šapoka"
@@ -3076,7 +2807,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-031
 
 - id: c-182562
   autorius: "Michał Baliński"
@@ -3113,8 +2844,8 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-045
+    - t-003
+    - t-028
 
 - id: c-182563
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3138,7 +2869,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-045
 
 - id: c-182564
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3162,7 +2893,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-050
 
 - id: c-182565
   autorius: "Michał Baliński"
@@ -3199,7 +2930,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
     - t-029
 
 ## Ryšiai

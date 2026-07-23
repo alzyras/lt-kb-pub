@@ -7,7 +7,7 @@ variantai:
   - 'maišelio'
   - 'maišelis'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -61,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - c-177733
     - c-177734
-- susijęs iš [[objektai/paprociai/Giminių kvietimas antradieniui ir jų priėmimas su ragaišiu.md#claim-t-195379|Giminių kvietimas antradieniui ir jų priėmimas su ragaišiu]]: Atvykę giminės atsiveždavo mėsų ir ragaišių.
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

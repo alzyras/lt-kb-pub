@@ -7,13 +7,13 @@ datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,7 +75,7 @@ Nenurodyta
     - c-169884
 
 <a id="claim-t-186578"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-169884
 
 <a id="claim-t-186579"></a>
-- t-002
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Vytauto siųstas žygis į Riazanę parsivarė daug riazaniečių belaisvių ir su dideliu grobiu grįžo pas Vytautą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -182,8 +182,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-002
+    - t-003
     - t-004
 
 - id: c-178911

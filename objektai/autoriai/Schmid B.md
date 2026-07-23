@@ -40,7 +40,7 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 ## Teiginiai
 
 <a id="claim-t-197010"></a>
-- t-002
+- t-001
   teiginys: "Savukynas B neilgai trukus iškvėpė dvasią."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
     - c-179000
 
 <a id="claim-t-197011"></a>
-- t-003
+- t-002
   teiginys: "Schmid B galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179000
   autorius: "Petras Dusburgietis"
@@ -106,4 +106,4 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

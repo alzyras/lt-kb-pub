@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40060"></a>
-- t-002
+- t-001
   teiginys: "Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-44305
 
 <a id="claim-t-40061"></a>
-- t-001
+- t-002
   teiginys: "B. Žarskis buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44306
   sudarytojas: "Karolis Zikaras"
@@ -109,4 +109,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

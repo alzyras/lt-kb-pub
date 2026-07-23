@@ -50,12 +50,7 @@ Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į M
   vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184243
-- susijęs iš [[objektai/ivykiai/J. Miklašio sulaikymas ir persekiojimas.md#claim-t-200880|J. Miklašio sulaikymas ir persekiojimas]]: J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.
-- susijęs iš [[objektai/ivykiai/J. Miklašio sulaikymas ir persekiojimas.md#claim-t-200888|J. Miklašio sulaikymas ir persekiojimas]]: J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.
-- susijęs iš [[objektai/paprociai/Lietuvių inteligentų persekiojimas skundais ir administracinėmis kliūtimis.md#claim-t-200911|Lietuvių inteligentų persekiojimas skundais ir administracinėmis kliūtimis]]: J. Miklašis, techninę chemiją mokęsis Vokietijoje, Prancūzijoje ir Anglijoje, grįžo į Lietuvą ketindamas imtis kraštui naudingo fabrikinio veiklumo.
-- susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Anglija: J. Miklašis techninės chemijos mokėsi specialiuose institutuose Vokietijoje, Prancūzijoje ir Anglijoje, prieš grįždamas į Lietuvą.
+
 ## Citatos
 
 - id: c-184243

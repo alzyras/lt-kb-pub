@@ -13,16 +13,16 @@ datos:
   - '1400 m.'
 date_start: '1301'
 date_end: '1400'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '4'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/7/71/%D0%9D%D0%B0%D1%80%D0%B8%D0%BC%D1%83%D0%BD%D1%82%2C_%D0%95%D0%B2%D0%BD%D1%83%D1%82%D0%B8%D0%B9%2C_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%2C_%D0%9A%D0%BE%D1%80%D0%B8%D0%B0%D0%B4%2C_%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82%2C_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D0%B4.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%D0%9D%D0%B0%D1%80%D0%B8%D0%BC%D1%83%D0%BD%D1%82%2C_%D0%95%D0%B2%D0%BD%D1%83%D1%82%D0%B8%D0%B9%2C_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%2C_%D0%9A%D0%BE%D1%80%D0%B8%D0%B0%D0%B4%2C_%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82%2C_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D0%B4.png'
@@ -46,7 +46,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Teiginiai
 
 <a id="claim-t-176435"></a>
-- t-005
+- t-001
   teiginys: "Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-160449
 
 <a id="claim-t-176436"></a>
-- t-003
+- t-002
   teiginys: "Jaunutis iš Vilniaus buvo išvytas jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-36348
 
 <a id="claim-t-176438"></a>
-- t-004
+- t-003
   teiginys: "Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-160450
 
 <a id="claim-t-176439"></a>
-- t-007
+- t-004
   teiginys: "Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-160448
 
 <a id="claim-t-184717"></a>
-- t-008
+- t-005
   teiginys: "Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-168078
 
 <a id="claim-t-193915"></a>
-- t-011
+- t-006
   teiginys: "Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-176540
 
 <a id="claim-t-196481"></a>
-- t-013
+- t-007
   teiginys: "Pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -159,7 +159,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - c-168078
 
 <a id="claim-t-200999"></a>
-- t-014
+- t-008
   teiginys: "Jaunutis ta me sąbrūzdy iš miego atsibudęs puspliki^ buvo iš sprukęs, vienok karėjai Kęstučio nutvėrė jį liekne ir į Vilnių parvedė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -169,38 +169,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184349
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
-- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
-- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
-- susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
-- susijęs iš [[objektai/asmenys/Simonas (Maskvos kunigaikštis).md#claim-t-87851|Simonas (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10672|Algirdas (Lietuvos valdovas)]]: Algirdas buvo pagonis ir 1377 m. buvo sudegintas Vilniuje pagal pagonių papročius.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179033|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
-- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
-- susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
-- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
-- susijęs iš Breslauja: Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.
-- susijęs iš Breslauja: Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.
-- susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
-- susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Pinskas: Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.
-- susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Pskovas: Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Smolenskas: 1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.
-- susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
-- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
-- susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
-- susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
-- susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
-- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį.'
@@ -219,7 +188,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-36348
@@ -238,7 +206,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-160448
   redaktorius: "A. Šapoka"
@@ -256,7 +224,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-160449
   autorius: "Michał Baliński"
@@ -279,7 +247,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-160450
   autorius: "Michał Baliński"
@@ -306,7 +274,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-168078
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -336,8 +304,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-013
+    - t-005
+    - t-007
 
 - id: c-176540
   autorius: "Anoniminis metraštininkas"
@@ -356,7 +324,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-184349
   autorius: "Simonas Daukantas"
@@ -378,7 +346,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-008
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Ukmergė]]

@@ -7,13 +7,13 @@ datos:
   - '1467 m.'
 date_start: '1467'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,7 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168622
-- susijęs iš [[objektai/ivykiai/Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.).md#claim-t-185558|Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)]]: Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.'
@@ -78,7 +78,6 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168622

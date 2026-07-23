@@ -45,12 +45,7 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45220
-- susijęs iš [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.).md#claim-t-41325|Miro mūšis (1792 m. birželio 11 d.)]]: 1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184778|Liubartas]]: Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
-- susijęs iš Ostromiro evangelija: Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.
-- susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
+
 ## Citatos
 
 - id: c-45220

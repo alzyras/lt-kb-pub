@@ -108,7 +108,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85490
 
 <a id="claim-t-89544"></a>
-- t-014
+- t-004
   teiginys: "Priėję dykras, Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai pasiskirstė į du būrius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85486
 
 <a id="claim-t-89545"></a>
-- t-015
+- t-005
   teiginys: "Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85494
 
 <a id="claim-t-89546"></a>
-- t-012
+- t-006
   teiginys: "Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85495
 
 <a id="claim-t-89547"></a>
-- t-004
+- t-007
   teiginys: "Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85490
 
 <a id="claim-t-89548"></a>
-- t-010
+- t-008
   teiginys: "Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85495
 
 <a id="claim-t-89549"></a>
-- t-008
+- t-009
   teiginys: "Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85492
 
 <a id="claim-t-89550"></a>
-- t-007
+- t-010
   teiginys: "Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85491
 
 <a id="claim-t-89552"></a>
-- t-006
+- t-011
   teiginys: "Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,7 +233,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85493
 
 <a id="claim-t-89553"></a>
-- t-013
+- t-012
   teiginys: "Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -249,7 +249,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-85495
 
 <a id="claim-t-89554"></a>
-- t-011
+- t-013
   teiginys: "Dykrose Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai toliau traukė dviem būriais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -263,16 +263,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85486
-- susijęs iš [[objektai/autoriai/J. Poverskis.md#claim-t-64635|J. Poverskis]]: J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
-- susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60508|Powierski J]]: J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
-- susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19969|Prūsijos valstybė]]: Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.
-- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91905|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.
-- susijęs iš [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje.md#claim-t-54273|Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
-- susijęs iš Mažoji Lietuva: Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva.
-- susijęs iš Prūsija: Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.
-- susijęs iš Vidurio Europa: Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę.
-- susijęs iš Viduržemio jūra: Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26547|lietuvininkai]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
+
 ## Citatos
 
 - id: c-06414
@@ -311,8 +302,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-011
+    - t-004
+    - t-013
 
 - id: c-85489
   autorius: "Petras Dusburgietis"
@@ -354,7 +345,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindzia:
     - t-001
     - t-003
-    - t-004
+    - t-007
 
 - id: c-85491
   autorius: "Zenonas Ivinskis"
@@ -373,7 +364,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
+    - t-010
 
 - id: c-85492
   autorius: "Zenonas Ivinskis"
@@ -393,7 +384,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-85493
   autorius: "Zenonas Ivinskis"
@@ -412,7 +403,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-011
 
 - id: c-85494
   autorius: "Petras Dusburgietis"
@@ -435,7 +426,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-005
 
 - id: c-85495
   autorius: "Petras Dusburgietis"
@@ -456,6 +447,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
+    - t-008
     - t-012
-    - t-010
-    - t-013

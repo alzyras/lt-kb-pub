@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-49168"></a>
-- t-002
+- t-001
   teiginys: "Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-43084
 
 <a id="claim-t-49169"></a>
-- t-003
+- t-002
   teiginys: "1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-43083
 
 <a id="claim-t-49170"></a>
-- t-001
+- t-003
   teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -137,8 +137,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-001
 
 - id: c-43084
   sudarytojas: "Karolis Zikaras"
@@ -158,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

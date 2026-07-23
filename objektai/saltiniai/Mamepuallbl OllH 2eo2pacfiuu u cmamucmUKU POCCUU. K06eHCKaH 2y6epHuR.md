@@ -7,10 +7,10 @@ datos:
   - '1861 m.'
 date_start: '1861'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

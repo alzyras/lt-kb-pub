@@ -57,13 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie asmenį ir jo dalyvavimą mūšyje."
   pagrindžia:
     - c-42356
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
-- susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183715|komtūras]]: 1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-183717|maršalas]]: 1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42480|maršalas]]: 1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.
-- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
-- susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10298|Strėvos mūšis (1348 m.)]]: Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.
-- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42512|stabmeldys]]: Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.
+
 ## Citatos
 
 - id: c-42356

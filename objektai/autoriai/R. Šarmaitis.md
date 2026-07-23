@@ -59,7 +59,7 @@ media_all_json: |-
     - c-169803
 
 <a id="claim-t-186449"></a>
-- t-003
+- t-002
   teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
@@ -97,7 +97,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-169803
   autorius: "Zenonas Ivinskis"

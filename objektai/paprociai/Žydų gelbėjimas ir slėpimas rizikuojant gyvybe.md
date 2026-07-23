@@ -68,7 +68,7 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 ## Teiginiai
 
 <a id="claim-t-20827"></a>
-- t-006
+- t-001
   teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -111,4 +111,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

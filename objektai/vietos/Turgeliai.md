@@ -38,7 +38,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 ## Teiginiai
 
 <a id="claim-t-43916"></a>
-- t-002
+- t-001
   teiginys: "Merkinės dvaro prie Turgelių valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     - c-47157
 
 <a id="claim-t-43917"></a>
-- t-001
+- t-002
   teiginys: "Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-47158
   redaktorius: "A. Šapoka"
@@ -124,4 +124,4 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

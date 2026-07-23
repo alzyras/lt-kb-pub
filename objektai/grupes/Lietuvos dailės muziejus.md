@@ -53,12 +53,7 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
   temporalinis_llm_pakomentavimas: "Citata paremta bibliografine nuoroda, bet leidžia suformuluoti trumpą faktą."
   pagrindžia:
     - c-22588
-- susijęs iš [[objektai/grupes/Varšuvos nacionalinis muziejus.md#claim-t-20061|Varšuvos nacionalinis muziejus]]: Vilniaus klasicizmo paroda Varšuvos nacionaliniame muziejuje veikė nuo 1999 m. gruodžio iki 2000 m. sausio.
-- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.
-- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.
-- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje.
-- susijęs iš Vilnius Jono Kazimiero Vilčinskio leidiniuose: „Vilnius Jono Kazimiero Vilčinskio leidiniuose“ buvo paroda, vykusi 1999 m. sausio 1 d.–balandžio 19 d.
-- susijęs iš Vilnius Jono Kazimiero Vilčinskio leidiniuose: Paroda „Vilnius Jono Kazimiero Vilčinskio leidiniuose“ vyko 1999 m. sausio 1 d. – balandžio 19 d.
+
 ## Citatos
 
 - id: c-22588

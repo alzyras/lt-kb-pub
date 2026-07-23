@@ -44,7 +44,7 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82246
-- susijęs iš Antakalnis: Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.
+
 ## Citatos
 
 - id: c-82246

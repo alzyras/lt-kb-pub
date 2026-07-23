@@ -169,7 +169,7 @@ Nenurodyta
     - c-11905
 
 <a id="claim-t-195019"></a>
-- t-009
+- t-008
   teiginys: "1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Nenurodyta
     - c-177399
 
 <a id="claim-t-195020"></a>
-- t-012
+- t-009
   teiginys: "Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ Nenurodyta
     - c-177396
 
 <a id="claim-t-195021"></a>
-- t-008
+- t-010
   teiginys: "Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Nenurodyta
     - c-177396
 
 <a id="claim-t-195022"></a>
-- t-010
+- t-011
   teiginys: "Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ Nenurodyta
     - c-43116
 
 <a id="claim-t-195023"></a>
-- t-011
+- t-012
   teiginys: "Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -247,10 +247,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-177398
-- susijęs iš [[objektai/asmenys/Laurencijus Bojeris.md#claim-t-39773|Laurencijus Bojeris]]: Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje.
-- susijęs iš Karolomachija: 1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis.
-- susijęs iš Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda): „Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11901
@@ -375,7 +372,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-010
+    - t-011
 
 - id: c-43117
   sudarytojas: "Karolis Zikaras"
@@ -438,8 +435,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-008
+    - t-009
+    - t-010
 
 - id: c-177397
   sudarytojas: "Karolis Zikaras"
@@ -458,7 +455,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-177398
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -495,4 +492,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008

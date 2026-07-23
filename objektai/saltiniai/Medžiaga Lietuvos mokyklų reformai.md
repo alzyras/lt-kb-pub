@@ -51,7 +51,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     - c-177597
 
 <a id="claim-t-195232"></a>
-- t-003
+- t-002
   teiginys: "Šio leidinio vokiška santrauka paskelbta Tilžėje, „Litauische Warte“."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -94,4 +94,4 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

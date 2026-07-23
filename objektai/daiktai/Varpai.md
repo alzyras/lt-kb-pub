@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12333"></a>
-- t-002
+- t-001
   teiginys: "Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-14341
 
 <a id="claim-t-89438"></a>
-- t-006
+- t-002
   teiginys: "Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-85396
 
 <a id="claim-t-89440"></a>
-- t-001
+- t-003
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo liejami varpai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -110,28 +110,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22310
-- susijęs iš [[objektai/asmenys/Teokritas Scholastas.md#claim-t-190215|Teokritas Scholastas]]: Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Kabirų garbinimo apeigoms.
-- susijęs iš [[objektai/autoriai/Teokritas Scholastas.md#claim-t-190458|Teokritas Scholastas]]: Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.
-- susijęs iš [[objektai/daiktai/Lietuvių pilių varpai žadintojai ir gumbai.md#claim-t-189658|Lietuvių pilių varpai žadintojai ir gumbai]]: Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti.
-- susijęs iš [[objektai/daiktai/Prūsų didžioji vėliava.md#claim-t-189741|Prūsų didžioji vėliava]]: Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje.
-- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189713|Senovės prūsų vėliava]]: Narbutas rašė, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje.
-- susijęs iš [[objektai/daiktai/Varpų vainikas.md#claim-t-08346|Varpų vainikas]]: Antrasis stabas turėjo varpų vainiką ant galvos.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188294|Prūsai]]: Narbutas rašo, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje.
-- susijęs iš [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas.md#claim-t-31531|Monetų kalimas ir pabūklų, varpų liejimas]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.
-- susijęs iš [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą.md#claim-t-09578|Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]: Žmones į Salas telkė bažnyčios varpų skambėjimas.
-- susijęs iš Gorodiščės kaimas: 1780 metais Narbutas sename apkase arba pilies pylime prie Gorodiščės kaimo rado didžiuliam varpui priklausiusį gabalą.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku.
-- susijęs iš [[objektai/zodynas/atšilimas.md#claim-t-22059|atšilimas]]: 1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą.
-- susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64705|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.
-- susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64707|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.
-- susijęs iš [[objektai/daiktai/Monetos.md#claim-t-71567|Monetos]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169852|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: Vilniaus televizijos bokšto šturmo įvykiai sukrėtė Lietuvą ir nuskambėjo pasaulyje.
-- susijęs iš [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose.md#claim-t-31537|Vidaus kolonizacija Sūduvos giriose]]: Po karų su kryžiuočiais pabaigos prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
-- susijęs iš Salos: Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.
-- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47929|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.
-- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47930|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.
-- susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
-- susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
+
 ## Citatos
 
 - id: c-14341
@@ -157,7 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-22310
   autorius: "Zenonas Ivinskis"
@@ -182,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-85396
   autorius: "Petras Dusburgietis"
@@ -203,7 +182,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-85397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -224,6 +203,7 @@ Nenurodyta
   citata_rodoma: "Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -98,11 +98,11 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
     dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
     jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
 
 ## Citatos
 

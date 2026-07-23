@@ -62,7 +62,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ## Teiginiai
 
 <a id="claim-t-186824"></a>
-- t-007
+- t-001
   teiginys: "Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -79,7 +79,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - c-170006
 
 <a id="claim-t-186825"></a>
-- t-005
+- t-002
   teiginys: "Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -97,7 +97,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - c-170008
 
 <a id="claim-t-186826"></a>
-- t-006
+- t-003
   teiginys: "Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos."
   atnaujinta: "2026-06-16 11:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -166,7 +166,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-170008
   redaktorius: "A. Šapoka"
@@ -184,7 +184,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-170009
   redaktorius: "A. Šapoka"
@@ -201,4 +201,4 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

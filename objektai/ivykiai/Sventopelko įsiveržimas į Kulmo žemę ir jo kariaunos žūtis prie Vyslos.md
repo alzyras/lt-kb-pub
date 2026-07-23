@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66923"></a>
-- t-002
+- t-001
   teiginys: "Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-67015
 
 <a id="claim-t-194425"></a>
-- t-004
+- t-002
   teiginys: "Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-67015
 
 <a id="claim-t-196972"></a>
-- t-005
+- t-003
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,11 +99,13 @@ Nenurodyta
     prie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių
     aukų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
+    - t-004
+    - t-005
 
 ## Citatos
 
@@ -131,7 +133,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-67015
   autorius: "Petras Dusburgietis"
@@ -157,5 +159,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004

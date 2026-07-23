@@ -8,13 +8,13 @@ datos:
   - '1819 m.'
 date_start: '1816'
 date_end: '1819'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,7 +82,7 @@ Vilniuje veikusi masonų ložė.
   temporalinis_llm_pakomentavimas: "Pradinis sakinys remiasi inicialu; geriau išskleisti asmenvardį pagal šaltinio ir citatos kontekstą."
   pagrindžia:
     - c-55855
-- susijęs iš [[objektai/grupes/Masonų ložė „Uolusis lietuvis“.md#claim-t-183171|Masonų ložė „Uolusis lietuvis“]]: Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -44,7 +44,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
     - c-167413
 
 <a id="claim-t-197044"></a>
-- t-003
+- t-002
   teiginys: "Tačiau brolių vėliava su savo sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti į riterius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167413
   autorius: "Petras Dusburgietis"

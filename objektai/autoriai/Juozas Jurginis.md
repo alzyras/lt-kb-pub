@@ -79,18 +79,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
   pagrindžia:
     - c-169795
-- susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97147|A. Šidlauskas]]: A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.
-- susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64662|Jurginis J]]: J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.
-- susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
-- susijęs iš Kraštas ir žmonės Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) Parengė J. Jurginis ir A. Šidlauskas: Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.
-- susijęs iš Lietuvių Pilys: „Lietuvos Pilys“ buvo J. Jurginio redaguotas devynių autorių tyrinėjimų rinkinys apie mūrines Lietuvos pilis, išleistas Vilniuje 1971 m.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184603|Albertas Vijūkas-Kojelavičius]]: J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.
-- susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
-- susijęs iš [[objektai/autoriai/K. Sideravičius.md#claim-t-30749|K. Sideravičius]]: K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.
-- susijęs iš [[objektai/autoriai/Leonas Valkūnas.md#claim-t-184471|Leonas Valkūnas]]: Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.
-- susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
+
 ## Citatos
 
 - id: c-167829

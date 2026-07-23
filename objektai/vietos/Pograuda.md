@@ -54,8 +54,7 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   temporalinis_llm_pakomentavimas: "Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas."
   pagrindžia:
     - c-28150
-- susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
-- susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
+
 ## Citatos
 
 - id: c-28150

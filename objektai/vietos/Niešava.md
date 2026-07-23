@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-68823"></a>
-- t-003
+- t-001
   teiginys: "Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,18 +73,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašyta gramatiškai, pašalinus žodžių lūžius."
   pagrindžia:
     - c-37604
-- susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
-- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35870|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: 1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.
-- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
-- susijęs iš Niešavos kraštas (kraštas): Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-- susijęs iš Sūduva: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89552|dykra]]: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179394|Livonijos ordinas]]: 1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01677|Kryžiuočių ordino atsikraustymas į Prūsus]]: 1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.
-- susijęs iš Fogelzango pilis: 1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-05593|dykra]]: Melno dokumente sienos daugiausia ėjo per dykras ir miškų plotus be gyvenviečių, todėl jų nebuvo galima tiksliai išvesti.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-05595|dykra]]: Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89547|dykra]]: Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.
+
 ## Citatos
 
 - id: c-37604
@@ -132,7 +121,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 - Niešava priklausė [[objektai/vietos/Lenkija]]

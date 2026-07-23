@@ -76,7 +76,7 @@ Nenurodyta
     - c-73166
 
 <a id="claim-t-75364"></a>
-- t-003
+- t-002
   teiginys: "Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-73166
 
 <a id="claim-t-75365"></a>
-- t-002
+- t-003
   teiginys: "Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-73165
 
 <a id="claim-t-75366"></a>
-- t-005
+- t-004
   teiginys: "Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir sukurta lietuvių kilmės iš romėnų teorija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Nenurodyta
     - c-73164
 
 <a id="claim-t-75367"></a>
-- t-004
+- t-005
   teiginys: "Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-73165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -193,8 +193,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-003
+    - t-005
 
 - id: c-73166
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,4 +217,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

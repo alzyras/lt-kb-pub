@@ -44,19 +44,7 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59558
-- susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87137|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.
-- susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-18880|Eduardas Vilkas]]: Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-19050|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-19053|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87138|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.
-- susijęs iš [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių.md#claim-t-87231|Valerijono bursos studentų maitinimas ir maldos už fundatorių]]: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių.
-- susijęs iš 1579 m. kovo 6 d. Valerijono Protasevičiaus fundacijos užrašymas Akademijai ir Collegio: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir Collegio tris mūrinius namus.
-- susijęs iš Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų.
-- susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
-- susijęs iš Varšuva: 1572 m. sausio 1 d. - vasario 9 d. Varšuvoje buvo keičiamos lietuviškos monetos į lenkiškus pinigus.
-- susijęs iš [[objektai/zodynas/bursa konviktas.md#claim-t-86518|bursa konviktas]]: 1579 m. Valerijonas Protasevičius nustatė, kad Akademijai ir kolegijai užrašyti trys mūriniai namai būtų vadinami Valerijono bursomis.
-- susijęs iš [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai.md#claim-t-86476|lietuviška moneta ir lenkiški pinigai]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius.
+
 ## Citatos
 
 - id: c-59558

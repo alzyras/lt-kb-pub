@@ -63,8 +63,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167743
-- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-184350|J. Posilge]]: Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.
-- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
+
 ## Citatos
 
 - id: c-28922

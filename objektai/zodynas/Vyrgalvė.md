@@ -39,7 +39,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 ## Teiginiai
 
 <a id="claim-t-07711"></a>
-- t-004
+- t-001
   teiginys: "Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,7 +48,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
     - c-09640
 
 <a id="claim-t-07712"></a>
-- t-003
+- t-002
   teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -71,5 +71,5 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

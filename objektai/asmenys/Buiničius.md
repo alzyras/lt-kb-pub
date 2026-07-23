@@ -55,8 +55,7 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44312
-- susijęs iš [[objektai/grupes/NKVD 220-ojo Kutuzovo ordino pasienio pulkas.md#claim-t-80643|NKVD 220-ojo Kutuzovo ordino pasienio pulkas]]: 1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.
-- susijęs iš Kalniškės miškas: 1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.
+
 ## Citatos
 
 - id: c-44312

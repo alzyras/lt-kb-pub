@@ -46,7 +46,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-03127
-- susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
+
 ## Citatos
 
 - id: c-03127

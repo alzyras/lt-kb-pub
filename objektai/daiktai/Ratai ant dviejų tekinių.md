@@ -66,9 +66,6 @@ Nenurodyta
   semantiniai_rysiai: "Ratai ant dviejų tekinių priklausė Kalnėnai (0.82)"
   pagrindžia:
     - c-10274
-- susijęs iš [[objektai/zodynas/Šliuižiai.md#claim-t-07640|šliuižiai]]: Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

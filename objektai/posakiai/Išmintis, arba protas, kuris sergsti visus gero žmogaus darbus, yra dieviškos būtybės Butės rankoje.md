@@ -42,7 +42,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 ## Teiginiai
 
 <a id="claim-t-188000"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Butės mitą siejo su Klaipėdos apylinkėse iš jūrininko išgirstu padavimu, kuriame išmintis laikoma Butės rankoje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::sayings"
@@ -83,4 +83,4 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

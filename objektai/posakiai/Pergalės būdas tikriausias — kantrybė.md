@@ -85,6 +85,22 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
     - c-59684
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis kantrybę vadina priemone laimėti kovą ir cituoja posakį, kad pasikliaujantis kantrumu laimi.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
+    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
+    priešus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
 - c-002
   santrauka: 'Dusburgietis kantrybę vadina dorybių viršūne, galinčia įveikti ir beginklį, ir ginkluotą priešininką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,11 +113,10 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
       Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59682

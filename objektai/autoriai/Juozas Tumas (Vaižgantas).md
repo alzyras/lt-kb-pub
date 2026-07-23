@@ -51,7 +51,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     - c-166735
 
 <a id="claim-t-183344"></a>
-- t-003
+- t-002
   teiginys: "Juozas Tumas (Vaižgantas) buvo nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ spiritus movens."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -71,13 +71,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki aiškaus enciklopedinio sakinio apie asmenį."
   pagrindžia:
     - c-166735
-- susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63767|Juozas Tumas-Vaižgantas]]: Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas.
-- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
-- susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
-- susijęs iš [[objektai/grupes/Lietuviškoji socialdemokratų partija.md#claim-t-74618|Lietuviškoji socialdemokratų partija]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.
-- susijęs iš [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas.md#claim-t-20262|Lietuviškosios socialdemokratų partijos susikūrimas]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija.
-- susijęs iš [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia.md#claim-t-26406|„Tėvynės sargo“ leidimo pradžia]]: Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu.
-- susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54314|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.
+
 ## Citatos
 
 - id: c-22147
@@ -146,4 +140,4 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

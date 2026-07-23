@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45442"></a>
-- t-004
+- t-001
   teiginys: "1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-23202
 
 <a id="claim-t-45443"></a>
-- t-005
+- t-002
   teiginys: "Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-23203
 
 <a id="claim-t-45444"></a>
-- t-006
+- t-003
   teiginys: "Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-48258
 
 <a id="claim-t-45445"></a>
-- t-001
+- t-004
   teiginys: "1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-23199
 
 <a id="claim-t-45446"></a>
-- t-002
+- t-005
   teiginys: "V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Nenurodyta
     - c-23200
 
 <a id="claim-t-45447"></a>
-- t-003
+- t-006
   teiginys: "SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-23200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -224,7 +224,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-23201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -247,7 +247,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-23202
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -270,7 +270,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-23203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -290,7 +290,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-48258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -307,7 +307,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-166666
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

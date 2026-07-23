@@ -48,7 +48,3 @@ Sruogienė, V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš Vilnius: V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.
-- susijęs iš Vilnius: V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.

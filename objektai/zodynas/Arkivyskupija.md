@@ -53,10 +53,7 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-34128
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-24564|Mindaugo karūnacija (1253 m.)]]: Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-26855|Mindaugo karūnacija (1253 m.)]]: Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-26856|Mindaugo karūnacija (1253 m.)]]: Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale.
+
 ## Citatos
 
 - id: c-34128

@@ -45,7 +45,7 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.61)"
   pagrindžia:
     - c-28483
-- susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
+
 ## Citatos
 
 - id: c-28483

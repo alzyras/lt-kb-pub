@@ -53,7 +53,7 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33496
-- susijęs iš [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.).md#claim-t-31476|Sąmyšio metai (1604-1612 m.)]]: Sąmyšio metai (1604–1612), nors lietuviai ir lenkai per Dimitrą Prisimetėlį veikė Maskvoje, Abiejų Tautų Respublikai reikšmingesnių atliepimų neturėjo.
+
 ## Citatos
 
 - id: c-33496

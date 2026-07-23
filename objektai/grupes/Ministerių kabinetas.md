@@ -90,6 +90,7 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   citata_rodoma: "(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

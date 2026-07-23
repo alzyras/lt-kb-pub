@@ -96,6 +96,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   citata_rodoma: "(^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

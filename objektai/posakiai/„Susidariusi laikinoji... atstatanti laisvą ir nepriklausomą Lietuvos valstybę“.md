@@ -57,6 +57,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   citata_rodoma: "negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

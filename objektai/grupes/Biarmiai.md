@@ -30,7 +30,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 ## Teiginiai
 
 <a id="claim-t-189434"></a>
-- t-005
+- t-001
   teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-172322
   autorius: "Teodoras Narbutas"
@@ -187,6 +187,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   citata_rodoma: "Mat jeigu biarmiečiai nebūtų turėję savo rai­\ndyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir\nslavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­\nčiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo\nraidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati\nto raidyno sudėtis įrodo jį esant labai seną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,7 +45,7 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-41872
-- susijęs iš Pušalotas: Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo.
+
 ## Citatos
 
 - id: c-41872

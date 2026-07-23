@@ -48,11 +48,7 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171876
-- susijęs iš Lietuva: Narbutas rašė, kad tarakonai buvo paplitę Lydoje iki kairiojo Ditvos kranto, bet jų nebuvo tikrojoje Lietuvoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
+
 ## Citatos
 
 - id: c-171876

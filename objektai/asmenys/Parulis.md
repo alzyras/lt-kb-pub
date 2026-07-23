@@ -55,9 +55,7 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-83905
-- susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87776|Mauricijus]]: 1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
-- susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
-- susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
+
 ## Citatos
 
 - id: c-83905

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-76260"></a>
-- t-009
+- t-001
   teiginys: "Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-16568
 
 <a id="claim-t-76261"></a>
-- t-008
+- t-002
   teiginys: "Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-73884
 
 <a id="claim-t-76262"></a>
-- t-007
+- t-003
   teiginys: "Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-24123
 
 <a id="claim-t-76263"></a>
-- t-006
+- t-004
   teiginys: "Geografinis Europos centras nurodomas Lietuvoje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -117,21 +117,7 @@ Nenurodyta
   semantiniai_rysiai: "Europos geografinis centras priklausė Lietuva (0.83)"
   pagrindžia:
     - c-24123
-- susijęs iš Rytų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.
-- susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
-- susijęs iš Vakarų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169877|Alfonsas Eidintas]]: Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169880|Alfonsas Eidintas]]: Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.
-- susijęs iš [[objektai/autoriai/Robert Gordon Latham.md#claim-t-75426|Robert Gordon Latham]]: Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskritas ypač giminingas lietuvių kalbai.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75607|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.
-- susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
-- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
-- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
-- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
-- susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.
-- susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
+
 ## Citatos
 
 - id: c-16568
@@ -153,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-24123
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -182,8 +168,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-006
+    - t-003
+    - t-004
 
 - id: c-73884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -204,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002

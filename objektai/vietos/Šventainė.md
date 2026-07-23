@@ -49,8 +49,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171860
-- susijęs iš [[objektai/autoriai/Kasparas Hennenbergeris.md#claim-t-190305|Kasparas Hennenbergeris]]: Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188299|Prūsai]]: Narbutas Prūsuose mini Šventainės upę, įtekančią į Peise ties Baičių kaimu; seniau ji vadinosi Galbė, o kaimas - Narpissa.
+
 ## Citatos
 
 - id: c-171860

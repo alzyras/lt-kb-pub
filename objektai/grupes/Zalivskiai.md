@@ -54,11 +54,7 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia namo pardavimo ir vėlesnio perėjimo faktą."
   pagrindžia:
     - c-82815
-- susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
-- susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
-- susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
-- susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
-- susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
+
 ## Citatos
 
 - id: c-82815

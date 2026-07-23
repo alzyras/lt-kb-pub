@@ -36,7 +36,7 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 ## Teiginiai
 
 <a id="claim-t-31637"></a>
-- t-002
+- t-001
   teiginys: "S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     - c-33544
 
 <a id="claim-t-31638"></a>
-- t-001
+- t-002
   teiginys: "S. Daukantas „Būde senovės lietuvių Kalnėnų ir Žemaičių“ vaizdingai aprašė, kaip iš miško buvo gaunama visokeriopa nauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-33545
   autorius: "Zenonas Ivinskis"
@@ -115,4 +115,4 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

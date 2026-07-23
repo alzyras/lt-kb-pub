@@ -77,11 +77,10 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
     nagrinėti faktus ir girdėti įrodytas tiesas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175005

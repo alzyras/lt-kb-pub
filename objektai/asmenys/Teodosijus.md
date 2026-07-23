@@ -9,16 +9,16 @@ datos:
   - '1431 m.'
 date_start: '1390'
 date_end: '1431'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     - c-32808
 
 <a id="claim-t-197456"></a>
-- t-003
+- t-002
   teiginys: "Teodosijus yra pasišventimo simbolis, dievų paslapčių ir glo- 14 Qui etiam hieroglificamm literarum interpretendarum periti, characterem sub crucis forma vitam futurum significare dixerunt (lib."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -68,26 +68,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177119
-
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pirmiau­
-    sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,
-    kuriose gyvavo kokia nors civilizacija, religiniu požiūriu buvo
-    išganymo, tai yra geresnio pomirtinio gyvenimo vilties, žen­
-    klas. Rytų Romos imperatoriui Teodosijui įsakius nugriauti
-    Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės
-    akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į
-    kryžių. Romoje, senovinio egiptiečių obelisko, iki šios dienos
-    tebestovinčio priešais Laterano šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -128,4 +108,4 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

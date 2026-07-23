@@ -38,7 +38,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
 ## Teiginiai
 
 <a id="claim-t-191541"></a>
-- t-003
+- t-001
   teiginys: "Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     - c-174423
 
 <a id="claim-t-194877"></a>
-- t-004
+- t-002
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -69,8 +69,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177273
-- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš Gotthard Friedrich Stender, Lettische Grammatik: Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.'
@@ -127,7 +126,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177273
   autorius: "Teodoras Narbutas"
@@ -151,4 +150,4 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

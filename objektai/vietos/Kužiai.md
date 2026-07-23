@@ -53,7 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir aiškiai susietas su Kužiais, remiantis citata."
   pagrindžia:
     - c-40303
-- susijęs iš Kretinga: Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m.
+
 ## Citatos
 
 - id: c-40303

@@ -93,15 +93,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   pagrindžia:
     - c-174031
     - c-174032
-- susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
-- susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191083|Jordanas]]: Jordanas, Narbuto vadinamas gotų istoriku, minėjo prie jūros pakrantės gyvenusius estus.
-- susijęs iš [[objektai/asmenys/Kasiodoras.md#claim-t-191288|Kasiodoras]]: Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190939|Odoakras]]: Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
-- susijęs iš [[objektai/asmenys/Prokopijus.md#claim-t-191309|Prokopijus]]: Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190740|Jordanas]]: Jordanas, gotų istorikas, minėjo estus kaip jūros pakrantėje gyvenusią tautą ir rėmėsi Kasiodoru arba jį perdirbinėjo.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190787|Prokopijus]]: Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
-- susijęs iš [[objektai/grupes/Estai.md#claim-t-192379|Estai]]: Narbutas rašė, kad nuo Tacito iki Teodoriko Didžiojo apie estus nėra žinių.
+
 ## Citatos
 
 - id: c-174030

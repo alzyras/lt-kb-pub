@@ -39,7 +39,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 ## Teiginiai
 
 <a id="claim-t-75691"></a>
-- t-002
+- t-001
   teiginys: "Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     - c-73407
 
 <a id="claim-t-75692"></a>
-- t-001
+- t-002
   teiginys: "Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai, sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžius „Antanas nori būti ore“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     - c-73408
 
 <a id="claim-t-183524"></a>
-- t-004
+- t-003
   teiginys: "Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -97,10 +97,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-166918
-- susijęs iš [[objektai/grupes/Lietuvos karo aviacija.md#claim-t-19876|Lietuvos karo aviacija]]: Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13450|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-23270|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.
-- susijęs iš [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.).md#claim-t-20158|ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]: Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.
+
 ## Citatos
 
 - id: c-73407
@@ -126,7 +123,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-73408
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -147,7 +144,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-166918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -166,7 +163,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Antanas Gustaitis pastatė [[objektai/daiktai/Lėktuvai]]

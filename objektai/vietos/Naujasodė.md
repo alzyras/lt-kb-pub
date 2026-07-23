@@ -44,8 +44,7 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45238
-- susijęs iš [[objektai/grupes/I brigada.md#claim-t-40889|I brigada]]: I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje.
-- susijęs iš [[objektai/grupes/I brigada.md#claim-t-40889|I brigada]]: I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje.
+
 ## Citatos
 
 - id: c-45238

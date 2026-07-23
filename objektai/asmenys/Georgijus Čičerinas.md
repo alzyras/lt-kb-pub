@@ -53,6 +53,7 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
   citata_rodoma: "sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

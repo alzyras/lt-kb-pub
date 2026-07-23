@@ -44,13 +44,7 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40546
-- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.).md#claim-t-80678|Lietuvos Brastos apsiaustis (1657 m.)]]: 1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.
-- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
-- susijęs iš [[objektai/asmenys/Henrikas fon Plauenas.md#claim-t-40136|Henrikas fon Plauenas]]: Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
-- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82436|Jonas Olesnickis]]: Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.
-- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40710|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.
-- susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
+
 ## Citatos
 
 - id: c-40546

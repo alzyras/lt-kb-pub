@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41311"></a>
-- t-003
+- t-001
   teiginys: "Partizanų karinėje teritorinėje struktūroje skyriai jungėsi į būrius, būriai į rinktines, rinktinės į apygardas, o kelios apygardos sudarė sritį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-43082
 
 <a id="claim-t-41312"></a>
-- t-001
+- t-002
   teiginys: "1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-44912
 
 <a id="claim-t-41313"></a>
-- t-002
+- t-003
   teiginys: "1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos raidos gaires."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-44912
   sudarytojas: "Karolis Zikaras"
@@ -140,7 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44913
   sudarytojas: "Karolis Zikaras"
@@ -163,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

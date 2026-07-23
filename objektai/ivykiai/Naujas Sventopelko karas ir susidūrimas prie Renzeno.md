@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59381"></a>
-- t-002
+- t-001
   teiginys: "Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-60014
 
 <a id="claim-t-196962"></a>
-- t-003
+- t-002
   teiginys: "Šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-60014
   autorius: "Petras Dusburgietis"
@@ -128,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

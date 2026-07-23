@@ -30,7 +30,7 @@ Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savy
 ## Teiginiai
 
 <a id="claim-t-197833"></a>
-- t-002
+- t-001
   teiginys: "Teofrastas gabenamas, nei kelio, kuriuo jį veždavo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -55,10 +55,11 @@ Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savy
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
     vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -86,4 +87,4 @@ Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

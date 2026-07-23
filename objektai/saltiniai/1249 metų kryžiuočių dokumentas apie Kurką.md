@@ -36,7 +36,7 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
 ## Teiginiai
 
 <a id="claim-t-188027"></a>
-- t-003
+- t-001
   teiginys: "Narbutas teigė matęs 1249 m. kryžiuočių dokumento originalą, kuriame vietoje žodžio „confringere“ buvo parašyta „confingere“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -57,7 +57,7 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
     - c-170962
 
 <a id="claim-t-188028"></a>
-- t-004
+- t-002
   teiginys: "Narbutas 1249 m. kryžiuočių dokumentą siejo su abejonėmis dėl aiškinimo, kilusio iš žodžio „confringere“ reikšmės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -100,5 +100,5 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

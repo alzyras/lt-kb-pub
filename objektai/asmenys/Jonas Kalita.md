@@ -77,10 +77,7 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradiniame teiginyje likęs kontekstinis žodis „taip pat“."
   pagrindžia:
     - c-32757
-- susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96866|Riurikaičių dinastija]]: Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96867|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
+
 ## Citatos
 
 - id: c-32757

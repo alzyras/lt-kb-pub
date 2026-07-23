@@ -64,9 +64,7 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-30613
-- susijęs iš Berlynas: 1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.
-- susijęs iš Berlynas: Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.
-- susijęs iš [[objektai/zodynas/poliublininis laikotarpis.md#claim-t-05602|poliublininis laikotarpis]]: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.
+
 ## Citatos
 
 - id: c-30613
@@ -108,6 +106,7 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   citata_rodoma: "**\n(^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

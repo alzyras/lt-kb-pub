@@ -56,31 +56,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Linko veiksmą ir yra tiesiogiai paremtas citata."
   pagrindžia:
     - c-61007
-- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184373|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192936|Skiriai]]: Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176165|Žemaičiai]]: Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.
-- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66521|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.
-- susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191016|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Jordanes, Narbuto perteikimu, minėjo skirius kaip iš pradžių taikiai su gotų gentimis gyvenusius ir labiau į žemdirbystę linkusius žmones.
-- susijęs iš De geticae gentis origine ac rebus gestis: Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.
-- susijęs iš [[objektai/asmenys/Alarikas (svebų karaliukas).md#claim-t-191336|Alarikas (svebų karaliukas)]]: Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.
-- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
-- susijęs iš [[objektai/asmenys/Hunimundas.md#claim-t-191418|Hunimundas]]: Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.
-- susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184799|Mykolas Glinskis]]: Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88523|Bartai]]: Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.
-- susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-183319|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: 1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.
-- susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-54275|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: 1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.
-- susijęs iš Kulmo žemė: Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
-- susijęs iš Maskva: Maskva, siekdama sujungti visą Rusią, reiškė pretenzijas į Naugardo ir Pskovo respublikas.
-- susijęs iš Petrapilis: Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.
-- susijęs iš Pskovas: Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.
-- susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
-- susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
-- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
-- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
+
 ## Citatos
 
 - id: c-61007

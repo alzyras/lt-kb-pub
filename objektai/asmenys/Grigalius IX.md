@@ -9,10 +9,6 @@ datos:
   - '1236 m.'
 date_start: '1230'
 date_end: '1236'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - kunigaikštis
   - popiežius
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 ## Teiginiai
 
 <a id="claim-t-79023"></a>
-- t-002
+- t-001
   teiginys: "Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
     - c-41926
 
 <a id="claim-t-197085"></a>
-- t-004
+- t-002
   teiginys: "Grigalius IX guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,37 +71,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167459
-- susijęs iš Chronicon Hermanui de Wartberge: „Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
-- susijęs iš Chronicon Olivense: „Chronicon Olivense“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
-- susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82298|Elžbieta]]: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178895|Kryžiuočių ordinas]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.
-- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62796|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.
-- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62797|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.
-- susijęs iš [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19).md#claim-t-31464|Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]: 1236 m. vasario 19 d. popiežius Grigalius IX leido Šiaurės Vokietijoje paskelbti pirmąjį kryžiaus žygį prieš lietuvius.
-- susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
-- susijęs iš [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai.md#claim-t-59068|Prisirenkite ir būkite drąsūs vyrai]]: Popiežius Grigalius IX ragino brolius į kovą žodžiais „Prisirenkite ir būkite drąsūs vyrai“.
-- susijęs iš Lenkija: 1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.
-- susijęs iš Perudža: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
-                                      kovų
-
-      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
-    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
-    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
-    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
-    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
-    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
-    priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -125,7 +94,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167459
   autorius: "Petras Dusburgietis"
@@ -146,4 +115,4 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

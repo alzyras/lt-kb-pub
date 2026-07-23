@@ -9,11 +9,6 @@ datos:
   - '144 m.'
 date_start: '100'
 date_end: '144'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'I'
-  - 'II'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +16,11 @@ tags:
   - karvedys
   - ordinas
   - vyskupas
+amziai:
+  - 'I'
+  - 'II'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Teiginiai
 
 <a id="claim-t-60034"></a>
-- t-003
+- t-001
   teiginys: "Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-60668
 
 <a id="claim-t-60036"></a>
-- t-001
+- t-003
   teiginys: "Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -110,16 +110,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60668
-- susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
-- susijęs iš [[objektai/autoriai/Plutarchas.md#claim-t-190402|Plutarchas]]: Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188190|Gotai]]: Narbutas gotus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų.
-- susijęs iš [[objektai/grupes/Graikai.md#claim-t-189508|Graikai]]: Narbutas graikus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų.
-- susijęs iš [[objektai/grupes/Indai.md#claim-t-189413|Indai]]: Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-189427|Persai]]: Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus.
-- susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188325|Romėnai]]: Narbutas rašė, kad žalčių garbinimas senovėje buvo paplitęs tarp indų, chaldėjų, egiptiečių, persų, finikiečių, graikų, romėnų ir gotų.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189421|Senovės egiptiečiai]]: Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189392|Senovės graikai]]: Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.
-- susijęs iš [[objektai/paprociai/Šventųjų žalčių laikymas namuose, maitinimas ir aukos.md#claim-t-189792|Šventųjų žalčių laikymas namuose, maitinimas ir aukos]]: Narbutas žalčių garbinimą senovėje vaizdavo kaip visuotinį reiškinį, minėdamas indus, chaldėjus, egiptiečius, persus, graikus, romėnus ir kitas tautas.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e.'
@@ -133,11 +124,10 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
       176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,
     karvedys, rašytojas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60666
@@ -156,8 +146,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-003
 
 - id: c-60667
   autorius: "Petras Dusburgietis"

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 ## Teiginiai
 
 <a id="claim-t-58846"></a>
-- t-002
+- t-001
   teiginys: "Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     - c-59479
 
 <a id="claim-t-58847"></a>
-- t-001
+- t-002
   teiginys: "Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -75,11 +75,10 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
       375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
     suktuvu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59478
@@ -101,7 +100,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59479
   autorius: "Petras Dusburgietis"
@@ -125,4 +124,4 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

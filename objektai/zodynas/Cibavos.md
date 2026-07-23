@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Cibavos
 sukurta: '2026-07-12'
 variantai:
-  - 'cibavos'
-  - 'cibavos išgertos'
+  - cibavos
+  - cibavos išgertos
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []

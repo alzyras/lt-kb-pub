@@ -6,7 +6,7 @@ variantai:
   - 'spragilu'
   - 'spragilo'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - ūkio-įrankis
@@ -104,11 +104,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Spragilo siautuvė.md#claim-t-195329|Spragilo siautuvė]]: Trumpas spragilo dalies paminėjimas su regioniniu pavadinimo variantu.
-- susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195612|Senosios gadynės kasdienybė]]: Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose.
-- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.
-- susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195611|Senosios gadynės kasdienybė]]: Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo.
-- susijęs iš [[objektai/posakiai/kada Lietuvos žmonės balana (skala) švietėsi.md#claim-t-195411|kada Lietuvos žmonės balana (skala) švietėsi]]: Autorius senąją gadynę nusako įsimintina apibendrinančia formule.
-- susijęs iš [[objektai/zodynas/Balana.md#claim-t-195450|Balana]]: Balana šiame šaltinyje reiškia apšvietimo priemonę, aiškinamą variantu `skala`.

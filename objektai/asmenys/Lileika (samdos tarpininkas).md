@@ -76,7 +76,7 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177956
-- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195546|Jokūbas (samdytojas, XIX a.)]]: Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą.
+
 ## Citatos
 
 - id: c-177956

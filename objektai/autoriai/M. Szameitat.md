@@ -46,8 +46,7 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33064
-- susijęs iš Bibliographie des Memellandes: „Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.
-- susijęs iš Bibliography of Baltic Bibliographies: J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją.
+
 ## Citatos
 
 - id: c-33064

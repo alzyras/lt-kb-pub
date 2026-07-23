@@ -54,9 +54,7 @@ Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragu�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172128
-- susijęs iš [[objektai/ivykiai/Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas.md#claim-t-189612|Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas]]: Narbutas rašo, kad apie 1331 m. Julijonos įsakymu Vilniuje panaikinta Ragučio maldykla, o jos vietoje įkurta Petionkos cerkvė.
-- susijęs iš [[objektai/zodynas/Pietiniki Puotininkai Potinikaj.md#claim-t-189361|Pietiniki Puotininkai Potinikaj]]: Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus, su kuriais siejo Petionkos pavadinimo kilmę.
-- susijęs iš [[objektai/zodynas/Puotininkai Potinikas Pietiniki.md#claim-t-189321|Puotininkai Potinikas Pietiniki]]: Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino kaip senojo miško pavadinimo Petionka kilmę.
+
 ## Citatos
 
 - id: c-172128

@@ -67,10 +67,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56473
-- susijęs iš [[objektai/daiktai/Piestu.md#claim-t-195354|Piestu]]: Ąžuolo gabalas, kuriuo muša grūdus piestoje.
-- susijęs iš [[objektai/zodynas/Garstyčninkas.md#claim-t-195469|Garstyčninkas]]: Garstyčninkas šiame šaltinyje gaminamas iš rugių salyklo.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75583"></a>
-- t-003
+- t-001
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-73317
 
 <a id="claim-t-75585"></a>
-- t-001
+- t-003
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-73317
   autorius: "Petras Dusburgietis"
@@ -143,7 +143,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-73319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

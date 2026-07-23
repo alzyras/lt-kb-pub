@@ -75,19 +75,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44881
-- susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
-- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
-- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
-- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
-- susijęs iš Kuoknesė: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesės pilis (pilis): 1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė.
-- susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
-- susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Vokietija: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.
+
 ## Citatos
 
 - id: c-42993

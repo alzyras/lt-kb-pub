@@ -36,7 +36,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 ## Teiginiai
 
 <a id="claim-t-67448"></a>
-- t-003
+- t-001
   teiginys: "Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67348
 
 <a id="claim-t-67449"></a>
-- t-004
+- t-002
   teiginys: "Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67347
 
 <a id="claim-t-67451"></a>
-- t-002
+- t-003
   teiginys: "Antroji Lietuvos Statuto laida buvo naujai perredaguota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67350
 
 <a id="claim-t-67453"></a>
-- t-001
+- t-004
   teiginys: "Į Lietuvos Statutą buvo įtraukti nuostatai, kad Lietuvos urėdais negali būti skiriami svetimšaliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-67347
   redaktorius: "A. Šapoka"
@@ -128,7 +128,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-67348
   redaktorius: "A. Šapoka"
@@ -149,7 +149,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-67350
   redaktorius: "A. Šapoka"
@@ -168,7 +168,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-178646
   autorius: "Albertas Vijūkas-Kojelavičius"

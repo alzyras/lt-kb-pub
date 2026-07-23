@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75212"></a>
-- t-008
+- t-001
   teiginys: "Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-23101
 
 <a id="claim-t-75213"></a>
-- t-009
+- t-002
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-73082
 
 <a id="claim-t-75219"></a>
-- t-001
+- t-003
   teiginys: "2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-23101
 
 <a id="claim-t-75220"></a>
-- t-010
+- t-004
   teiginys: "Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-73083
 
 <a id="claim-t-75221"></a>
-- t-004
+- t-005
   teiginys: "1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO."
   atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "auto"
@@ -157,8 +157,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
     - t-001
+    - t-003
 
 - id: c-23104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-73083
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -239,5 +239,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-004
+    - t-005

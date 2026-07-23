@@ -63,7 +63,7 @@ Nenurodyta
     - c-62982
 
 <a id="claim-t-194403"></a>
-- t-003
+- t-002
   teiginys: "Apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,4 +103,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

@@ -56,8 +56,7 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie Štagelį."
   pagrindžia:
     - c-83914
-- susijęs iš [[objektai/asmenys/Volfgangas Auksakalys.md#claim-t-87887|Volfgangas Auksakalys]]: Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.
-- susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
+
 ## Citatos
 
 - id: c-83914

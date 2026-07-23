@@ -8,13 +8,13 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Pilis sudeginta ir liko apleista.
 ## Teiginiai
 
 <a id="claim-t-97014"></a>
-- t-002
+- t-001
   teiginys: "1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Pilis sudeginta ir liko apleista.
     - c-91569
 
 <a id="claim-t-97015"></a>
-- t-003
+- t-002
   teiginys: "1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,11 +102,10 @@ Pilis sudeginta ir liko apleista.
     broliai su savo ginklanešiais įėjo į visiškai tuščią pilį ir ją iki pamatų sudegino, ir šitaip
     pilis paliko apleista po šiai dienai.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-91568
@@ -126,7 +125,7 @@ Pilis sudeginta ir liko apleista.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-91569
   autorius: "Petras Dusburgietis"
@@ -148,4 +147,4 @@ Pilis sudeginta ir liko apleista.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

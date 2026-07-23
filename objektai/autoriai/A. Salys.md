@@ -47,7 +47,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Teiginiai
 
 <a id="claim-t-12236"></a>
-- t-007
+- t-001
   teiginys: "Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-13905
 
 <a id="claim-t-64513"></a>
-- t-006
+- t-002
   teiginys: "A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-65242
 
 <a id="claim-t-64514"></a>
-- t-005
+- t-003
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-03970
 
 <a id="claim-t-64515"></a>
-- t-003
+- t-004
   teiginys: "A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-03969
 
 <a id="claim-t-64517"></a>
-- t-004
+- t-005
   teiginys: "A. Salys parašė Baltic Languages."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-03970
 
 <a id="claim-t-64518"></a>
-- t-002
+- t-006
   teiginys: "A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -131,14 +131,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-03968
-- susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64846|Salys A]]: A. Salys Ragainės vardo kilmę siejo su Lietuva.
-- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
-- susijęs iš Salys A. Die žemaitischen Mundarten: A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314.
-- susijęs iš Vokiškieji kryžiuočių kelių aprašymai: XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.
-- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš Prūsija: Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.
-- susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
+
 ## Citatos
 
 - id: c-03968
@@ -157,7 +150,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-03969
   autorius: "Zenonas Ivinskis"
@@ -179,7 +172,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-03970
   autorius: "Zenonas Ivinskis"
@@ -197,8 +190,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-005
-    - t-004
 
 - id: c-03971
   autorius: "Zenonas Ivinskis"
@@ -233,7 +226,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-65242
   autorius: "Zenonas Ivinskis"
@@ -260,4 +253,4 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

@@ -50,7 +50,7 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174261
-- susijęs iš [[objektai/asmenys/Borėjas.md#claim-t-191258|Borėjas]]: Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą.
+
 ## Citatos
 
 - id: c-174261

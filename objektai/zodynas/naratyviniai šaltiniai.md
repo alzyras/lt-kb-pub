@@ -42,7 +42,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 ## Teiginiai
 
 <a id="claim-t-56938"></a>
-- t-003
+- t-001
   teiginys: "Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,10 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   citata_originali: |
     Petro Dusburgiečio kronika
 
+
+
                           Epocha, šaltiniai, tendencija, reikšmė
+
 
       Viduramžių  rašytiniai  istoriniai  šaltiniai  skirstomi   į  dokumentus,  juridinius   ir
     pasakojamuosius, arba naratyvinius (iš lot. narratio), šaltinius. Pasakojamojo pobūdžio
@@ -78,11 +81,10 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-57641
@@ -107,4 +109,4 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

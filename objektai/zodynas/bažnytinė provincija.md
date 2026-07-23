@@ -40,7 +40,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 ## Teiginiai
 
 <a id="claim-t-70098"></a>
-- t-008
+- t-001
   teiginys: "Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-14684
 
 <a id="claim-t-70099"></a>
-- t-005
+- t-002
   teiginys: "Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-14683
 
 <a id="claim-t-70100"></a>
-- t-007
+- t-003
   teiginys: "Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-37901
 
 <a id="claim-t-70101"></a>
-- t-006
+- t-004
   teiginys: "Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-14684
 
 <a id="claim-t-182937"></a>
-- t-001
+- t-005
   teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-166338
 
 <a id="claim-t-193139"></a>
-- t-009
+- t-006
   teiginys: "Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175894
-- susijęs iš [[objektai/posakiai/Gens Lithuanorum.md#claim-t-35971|Gens Lithuanorum]]: Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.
+
 ## Citatos
 
 - id: c-14683
@@ -159,7 +159,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-14684
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -181,8 +181,8 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-006
+    - t-001
+    - t-004
 
 - id: c-37901
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -205,7 +205,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-166338
   redaktorius: "A. Šapoka"
@@ -226,7 +226,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-175894
   redaktorius: "A. Šapoka"
@@ -247,4 +247,4 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006

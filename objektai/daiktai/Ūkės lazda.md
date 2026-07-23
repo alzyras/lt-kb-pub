@@ -93,9 +93,6 @@ Nenurodyta
   pagrindžia:
     - c-56406
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10314

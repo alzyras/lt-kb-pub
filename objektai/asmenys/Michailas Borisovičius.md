@@ -8,16 +8,16 @@ datos:
   - '1505 m.'
 date_start: '1453'
 date_end: '1505'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XV'
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,7 +67,6 @@ Leidinio pastaba Michailą Borisovičių vadina paskutiniu savarankišku Tverės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176753

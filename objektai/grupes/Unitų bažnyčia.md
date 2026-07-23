@@ -54,7 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašymas paverčia teiginį sklandžiu enciklopediniu sakiniu."
   pagrindžia:
     - c-19185
-- susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
+
 ## Citatos
 
 - id: c-19185

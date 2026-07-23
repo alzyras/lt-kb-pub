@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-199211"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Kęstutis po Algirdo mirties 1377 m. pripažino Jogailą didžiuoju kunigaikščiu Vilniuje."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-181697
 
 <a id="claim-t-199213"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos metraštis teigia, kad Kęstutis važinėjo pas Jogailą tartis dėl reikalų, kaip anksčiau pas vyriausiąjį brolį."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -125,6 +125,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-002
+    - t-003

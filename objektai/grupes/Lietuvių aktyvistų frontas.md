@@ -72,7 +72,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13466"></a>
-- t-002
+- t-001
   teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-154379
 
 <a id="claim-t-23307"></a>
-- t-006
+- t-002
   teiginys: "1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-26863
 
 <a id="claim-t-26625"></a>
-- t-010
+- t-003
   teiginys: "Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Nenurodyta
     - c-154379
 
 <a id="claim-t-26626"></a>
-- t-011
+- t-004
   teiginys: "Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,13 +134,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154378
-- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
-- susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.
-- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
-- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
-- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
-- susijęs iš Vokietija: LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.
-- susijęs iš Vokietija: Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.
+
 ## Citatos
 
 - id: c-22533
@@ -183,7 +177,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-154378
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -203,7 +197,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-154379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -237,5 +231,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-010
+    - t-001
+    - t-003

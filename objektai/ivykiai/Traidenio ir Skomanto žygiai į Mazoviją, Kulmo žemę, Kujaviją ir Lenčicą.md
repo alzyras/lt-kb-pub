@@ -63,7 +63,7 @@ Nenurodyta
     - c-169008
 
 <a id="claim-t-196260"></a>
-- t-003
+- t-002
   teiginys: "Pasak Kojelavičiaus, po Traidenio pasitraukimo Skomantas su žemaičių ir sūduvių kariais įsiveržė į tas pačias žemes ir nusiaubė Kujaviją."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -131,4 +131,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

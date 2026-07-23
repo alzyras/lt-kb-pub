@@ -48,36 +48,7 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173027
-- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190022|Petras Dusburgietis]]: Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie švarinančiais laikytų šaltinių.
-- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190024|Petras Dusburgietis]]: Narbutas svarsto, kad Petras Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba kad jo tekstas apie krivį buvo nepilnas.
-- susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181474|Petras Dusburgietis]]: Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188460|Petras Dusburgietis]]: Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188463|Petras Dusburgietis]]: Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188464|Petras Dusburgietis]]: Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188465|Petras Dusburgietis]]: Narbutas svarstė, kad Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba jo tekstas apie krivį galėjo būti nepilnas.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188467|Petras Dusburgietis]]: Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-190777|Petras Dusburgietis]]: Teodoro Narbuto pasakojime Petras Dusburgietis minėjo Sūduvos valsčių Kirsowia, arba Kirsnavą, tarp Olecko ir Raigardo.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
-- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190385|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas.
-- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-188401|Hartknochas]]: Narbutas nurodė, kad jam žinomuose rankraščiuose Dusburgiečio tekstas nesiskyrė nuo Hartknocho paskelbto teksto.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188444|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Lietuvos stabmeldystės istorijoje nuolat mini vyriausiojo žynio pareigas, o paskutiniu laiko Lizdeiką.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181460|Petras Dusburgietis]]: Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181468|Petras Dusburgietis]]: Petras iš Dusburgo rašė, kad į knygą sudėjo Ordino brolių karus ir užbaigė ją 1326 m.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181471|Petras Dusburgietis]]: Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188462|Petras Dusburgietis]]: Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-188206|Krivičiai]]: Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178822|Kryžiuočių ordinas]]: Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179101|Kryžiuočių ordinas]]: Marijos Mergelės ordino nariai nešiojo baltus apsiaustus su juodu kryžiumi, todėl Lietuvoje dažnai vadinti kryžiuočiais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188218|Kryžiuočių ordinas]]: Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188219|Kryžiuočių ordinas]]: Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190614|Prūsai]]: Narbutas pabrėžia, kad Dusburgietis 1326 metais įteikė kroniką, kai nuo visiško Prūsijos užkariavimo buvo praėję kiek daugiau nei keturiasdešimt metų.
-- susijęs iš [[objektai/paprociai/Krivio valios ir potvarkių klausymas.md#claim-t-189924|Krivio valios ir potvarkių klausymas]]: Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.
-- susijęs iš [[objektai/paprociai/Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu.md#claim-t-189880|Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu]]: Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus.
-- susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
+
 ## Citatos
 
 - id: c-173027

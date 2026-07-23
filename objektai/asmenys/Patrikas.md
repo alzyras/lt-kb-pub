@@ -12,15 +12,15 @@ datos:
   - '1380 m.'
 date_start: '1348'
 date_end: '1380'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Teiginiai
 
 <a id="claim-t-121122"></a>
-- t-003
+- t-001
   teiginys: "Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-111010
 
 <a id="claim-t-184816"></a>
-- t-004
+- t-003
   teiginys: "Kojelavičiaus pasakojime Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio, bet kryžiuotis Henrikas Hochbergas ietimi nutrenkė jį nuo žirgo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-168177
 
 <a id="claim-t-188603"></a>
-- t-001
+- t-004
   teiginys: "Narbutas Patriką įvardija kaip vieną iš Kęstučio sūnų, gimusių iš žmonos, kurią Kęstutis, jo pasakojimu, vedė Naujuosiuose Trakuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-171492
 
 <a id="claim-t-196577"></a>
-- t-006
+- t-005
   teiginys: "Kojelavičiaus pasakojime Patrikas, pamatęs tėvui Kęstučiui gresiantį pavojų, puolė prie susigrūdusių priešų norėdamas jam padėti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -135,15 +135,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168177
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
-- susijęs iš [[objektai/asmenys/Henrikas Hochbergas.md#claim-t-186209|Henrikas Hochbergas]]: Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
-- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82664|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.
-- susijęs iš Wremiennik Sofijski: Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89627|Aleksandras]]: 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.
-- susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
-- susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
-- susijęs iš [[objektai/zodynas/lenkų tikėjimas.md#claim-t-187551|lenkų tikėjimas]]: Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kojelavičiaus pasakojime Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio, bet kryžiuotis Henrikas Hochbergas ietimi nutrenkė jį nuo žirgo.'
@@ -202,7 +194,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-111009
@@ -223,7 +214,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-111010
   autorius: "Petras Dusburgietis"
@@ -285,8 +276,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-003
+    - t-005
 
 - id: c-171492
   autorius: "Teodoras Narbutas"
@@ -309,7 +300,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

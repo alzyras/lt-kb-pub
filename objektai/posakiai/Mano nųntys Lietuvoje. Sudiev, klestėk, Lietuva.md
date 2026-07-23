@@ -70,6 +70,7 @@ Atsisveikinimo formulė, tiesiogiai susieta su Lietuva.
   citata_rodoma: "„Mano nųntys Lietuvoje. Sudiev, klestėk, Lietuva“"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

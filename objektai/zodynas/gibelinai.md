@@ -53,8 +53,7 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą, o pradiniame teiginyje yra nereikalinga įžanga."
   pagrindžia:
     - c-59534
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+
 ## Citatos
 
 - id: c-59534

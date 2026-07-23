@@ -55,12 +55,7 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173117
-- susijęs iš [[objektai/asmenys/Pašičius.md#claim-t-190236|Pašičius]]: Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus.
-- susijęs iš [[objektai/asmenys/Skiparas.md#claim-t-190240|Skiparas]]: Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Stecevičius.md#claim-t-190245|Stecevičius]]: Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Valatkevičius.md#claim-t-190248|Valatkevičius]]: Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašytų aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Zubas.md#claim-t-190249|Zubas]]: Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Čeplė.md#claim-t-190250|Čeplė]]: Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
+
 ## Citatos
 
 - id: c-173117

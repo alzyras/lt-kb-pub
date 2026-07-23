@@ -43,51 +43,6 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
 
 Žodis čia gana bendras, bet svarbus kaip kalbotyrinis terminas tautos kilmės aiškinime.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antri, susipažinę tik su
-    naujesniais latvių tyrinėjimais, visas gentis tempia po
-    latvių rubrika. Mes pasisakome už pono Kepeno požiū-
-    2. T. Narbutas
-    33
-
-    ## Puslapis 33
-
-    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
-    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
-    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
-    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192144
-
-## Citatos
-
-- id: c-175030
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Mes pasisakome už pono Kepeno požiū-
-    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
-    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
-    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
-    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
-  citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-192143"></a>
@@ -125,4 +80,48 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175030
-- susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Antri, susipažinę tik su
+    naujesniais latvių tyrinėjimais, visas gentis tempia po
+    latvių rubrika. Mes pasisakome už pono Kepeno požiū-
+    2. T. Narbutas
+    33
+
+    ## Puslapis 33
+
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-175030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Mes pasisakome už pono Kepeno požiū-
+    rį: lyginant tris svarbiausius dialektus — senovės prūsų,
+    lietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­
+    čytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­
+    tyje arba kad ši gentis buvo arčiausia prie šio lopšio1.
+  citata_rodoma: "Mes pasisakome už pono Kepeno požiū-\nrį: lyginant tris svarbiausius dialektus — senovės prūsų,\nlietuvių ir latvių, — vidurys tenka lietuvių, o tai negin­\nčytinai įrodo, kad tautos lopšys buvo būtent lietuvių gen­\ntyje arba kad ši gentis buvo arčiausia prie šio lopšio1."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

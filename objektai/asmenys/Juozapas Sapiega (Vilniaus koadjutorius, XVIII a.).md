@@ -47,7 +47,7 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
     - c-183844
 
 <a id="claim-t-200465"></a>
-- t-004
+- t-002
   teiginys: "Po Vilniaus vyskupo koadjutoriaus Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -81,25 +81,7 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183844
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
-- susijęs iš [[objektai/daiktai/Sidabras, alavas, varis ir staltiesės.md#claim-t-200612|Sidabras, alavas, varis ir staltiesės]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė ir išsivežė sidabrą, alavą, varį ir staltieses pagal velionio dvasininko registrą.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš [[objektai/daiktai/Perimtas sidabras, alavas, varis ir staltiesės.md#claim-t-200705|Perimtas sidabras, alavas, varis ir staltiesės]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė sidabrą, alavą, varį bei staltieses.
-- susijęs iš [[objektai/daiktai/Sidabras, alavas, varis ir staltiesės.md#claim-t-200612|Sidabras, alavas, varis ir staltiesės]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė ir išsivežė sidabrą, alavą, varį ir staltieses pagal velionio dvasininko registrą.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
+
 ## Citatos
 
 - id: c-183844
@@ -112,5 +94,5 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
   atnaujinta: "2026-07-14 03:25"
   pagrindzia:
     - t-001
-    - t-004
+    - t-002
     - t-003

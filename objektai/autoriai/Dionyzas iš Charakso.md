@@ -104,6 +104,7 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   citata_rodoma: "Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa. Sis geografas pastarosios aukštupyje kuo\naiškiausiai apgyvendina gelonų tautą2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

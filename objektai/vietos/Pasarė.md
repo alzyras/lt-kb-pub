@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 ## Teiginiai
 
 <a id="claim-t-58610"></a>
-- t-002
+- t-001
   teiginys: "Pasarė, vėliau vadinta Pasarge, tapatinama su dabartine Paslenka, įtekančia į Aismares žemiau Branevo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
     - c-59242
 
 <a id="claim-t-58611"></a>
-- t-001
+- t-002
   teiginys: "Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,10 +61,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59243
-- susijęs iš Brunsbergas: Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.
-- susijęs iš [[objektai/daiktai/Gyvatgalviai kapliai.md#claim-t-89427|Gyvatgalviai kapliai]]: Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.
-- susijęs iš Lietuvos archeologijos bruožai: Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.
-- susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
+
 ## Citatos
 
 - id: c-59242
@@ -82,7 +79,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59243
   autorius: "Petras Dusburgietis"
@@ -104,4 +101,4 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

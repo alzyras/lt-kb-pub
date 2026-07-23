@@ -41,7 +41,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
     - c-168808
 
 <a id="claim-t-196122"></a>
-- t-004
+- t-002
   teiginys: "Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
     - c-178541
 
 <a id="claim-t-196123"></a>
-- t-005
+- t-003
   teiginys: "Kojelavičius rašo, kad Vytautas sušaukė ganytojų suvažiavimą, norėdamas užkirsti kelią rusų dvasininkų atsiskyrimui nuo Romos bažnyčios."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003
 
 - id: c-178541
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -149,4 +149,4 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

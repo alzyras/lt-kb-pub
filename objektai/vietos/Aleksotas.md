@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu. Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.
+Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu. Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms. Aleksote buvo statomi ir strugai (strug, Strusse).
 
 ## Teiginiai
 
@@ -107,17 +107,45 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184931
-- susijęs iš [[objektai/daiktai/Aleksoto meilės dievybių šventykla arba aukuras.md#claim-t-189717|Aleksoto meilės dievybių šventykla arba aukuras]]: Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras.
-- susijęs iš Kaunas: Narbutas Kauno apylinkėse lokalizavo Mildos kultą ir pažymėjo, kad vienas senojo Kauno priemiestis tebevadinosi Aleksotu.
-- susijęs iš [[objektai/zodynas/Milda Aleksota mildauninkai.md#claim-t-189311|Milda Aleksota mildauninkai]]: Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.
-- susijęs iš [[objektai/zodynas/Milda Aleksota mildauninkai.md#claim-t-189312|Milda Aleksota mildauninkai]]: Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus.
-- susijęs iš [[objektai/zodynas/Milda mildauninkai.md#claim-t-189204|Milda mildauninkai]]: Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.
-- susijęs iš [[objektai/asmenys/Paulius Spritas.md#claim-t-190196|Paulius Spritas]]: Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą, kad Prūsijos lietuviai Pergrubei aukas atnašavo iki 1530 metų.
-- susijęs iš [[objektai/asmenys/Polencas.md#claim-t-190201|Polencas]]: Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m.
-- susijęs iš [[objektai/grupes/Prūsijos lietuviai.md#claim-t-189461|Prūsijos lietuviai]]: Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.
-- susijęs iš Karaliaučiaus bažnyčios Agenda: Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų.
-- susijęs iš Lietuva: 1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.
-- susijęs iš Lietuva: Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
+    nas man papasakojo gerbiamas profesorius ponas Laurinavi­
+    čius. „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
+    atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
+    vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­
+    raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš,
+    norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
+    išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
+    kirsti angą ir ją sutvirtinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Be to, žemdirbiai jam dar paskirdavo vasa­
+    rojaus pasėlius, kur tam tikruose rėžiuose jam sėdavo, idant
+    teiktųsi būti ir dirvų globėju, kaip kad namų sergėtoju. Šį die­
+    vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik
+    tas, kad vieta jam būdavo skiriama ne kampe, kaip Rusioje,
+    kur ir dabar kabinami šventieji paveikslai, bet virš slenksčio, o
+    jeigu lūšnelė apšildoma be kamino, išvesto per stogą, tai iš
+    lauko pusės virš prieangio durų. Tačiau nesame tikri, kaip tas
+    dievaitis buvo vaizduojamas; atrodo, tai buvo įpjautas medyje
+    arba lentelėje tam tikras ženklas arba mitinis hieroglifas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-171810

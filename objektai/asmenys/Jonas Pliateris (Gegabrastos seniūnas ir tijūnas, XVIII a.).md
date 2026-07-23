@@ -43,8 +43,3 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris tuo metu
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
-
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.

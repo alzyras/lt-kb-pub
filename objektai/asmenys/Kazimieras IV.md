@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87436"></a>
-- t-002
+- t-001
   teiginys: "Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-83417
 
 <a id="claim-t-87437"></a>
-- t-001
+- t-002
   teiginys: "Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ media_all_json: |-
   semantiniai_rysiai: "Kazimieras IV gyveno Rūdninkai (0.90)"
   pagrindžia:
     - c-83415
-- susijęs iš [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.).md#claim-t-86952|Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]: 1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.
+
 ## Citatos
 
 - id: c-83415
@@ -157,7 +157,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83417
   autorius: "Michał Baliński"
@@ -179,7 +179,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Kazimieras IV gyveno [[objektai/vietos/Rūdninkai]]

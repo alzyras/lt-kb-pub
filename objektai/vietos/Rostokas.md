@@ -12,14 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1576'
 date_end: '2026'
-amziai:
-  - 'XVI'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XVI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-158256
 
 <a id="claim-t-174023"></a>
-- t-003
+- t-002
   teiginys: "Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-158255
 
 <a id="claim-t-201662"></a>
-- t-004
+- t-003
   teiginys: "Rostoko universitete studijavo 4 kauniečiai: 1577 m. Kristoforas Egertas (Eggerdius), 1576 m. buvęs Karaliaučiaus universiteto sąrašuose, 1600 m. Jurgis Veselis, taip pat perėjęs į Rostoką iš Karaliaučiaus universiteto, į kurį buvo įsirašęs 1594 m., ir du iš."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185009
-- susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
+
 ## Citatos
 
 - id: c-158255
@@ -105,7 +105,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-158256
   autorius: "Zenonas Ivinskis"
@@ -144,4 +144,4 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

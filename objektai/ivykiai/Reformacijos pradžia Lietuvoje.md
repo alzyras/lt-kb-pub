@@ -111,6 +111,7 @@ Nenurodyta
   citata_rodoma: "su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

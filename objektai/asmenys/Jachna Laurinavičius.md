@@ -39,7 +39,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ## Teiginiai
 
 <a id="claim-t-87598"></a>
-- t-002
+- t-001
   teiginys: "Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     - c-83577
 
 <a id="claim-t-87599"></a>
-- t-001
+- t-002
   teiginys: "Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,9 +72,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83578
-- susijęs iš [[objektai/asmenys/Mykolas Laurinavičius.md#claim-t-87922|Mykolas Laurinavičius]]: 1485 m. Mykolas Laurinavičius buvo burmistras.
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87353|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87355|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m.
+
 ## Citatos
 
 - id: c-83577
@@ -105,7 +103,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-83578
   autorius: "Michał Baliński"
@@ -133,4 +131,4 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

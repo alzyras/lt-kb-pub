@@ -44,8 +44,7 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45059
-- susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
-- susijęs iš Tauragnai: 1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.
+
 ## Citatos
 
 - id: c-45059

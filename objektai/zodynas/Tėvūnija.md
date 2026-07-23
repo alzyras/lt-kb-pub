@@ -39,7 +39,7 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 ## Teiginiai
 
 <a id="claim-t-07700"></a>
-- t-003
+- t-001
   teiginys: "Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,4 +69,4 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

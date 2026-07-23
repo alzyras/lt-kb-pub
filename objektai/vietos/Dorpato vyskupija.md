@@ -36,7 +36,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
 ## Teiginiai
 
 <a id="claim-t-86064"></a>
-- t-002
+- t-001
   teiginys: "1323 m. per Užgavėnes lietuviai įsiveržė į Dorpato vyskupiją, ją plėšė ir degino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
     - c-82043
 
 <a id="claim-t-86065"></a>
-- t-001
+- t-002
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-82044
   autorius: "Michał Baliński"
@@ -131,7 +131,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Puolė Dorpato vyskupiją: [[objektai/grupes/Lietuviai]]

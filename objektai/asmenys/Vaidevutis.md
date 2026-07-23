@@ -65,7 +65,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-172914
 
 <a id="claim-t-194726"></a>
-- t-004
+- t-003
   teiginys: "Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-177122
 
 <a id="claim-t-194921"></a>
-- t-005
+- t-004
   teiginys: "Vaidevutis buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-177317
 
 <a id="claim-t-196611"></a>
-- t-006
+- t-005
   teiginys: "Kojelavičiaus pasakojime Vaidevutis bendru sutarimu buvo paskelbtas pirmuoju prūsų ir alanų, vėliau vadintų lietuviais, valdovu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-178797
 
 <a id="claim-t-196612"></a>
-- t-007
+- t-006
   teiginys: "Kojelavičius aiškina, kad Vaidevutis nepradėjo karų, nes manė, jog karas veikiau laužo įstatymus, negu juos stiprina."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-178798
 
 <a id="claim-t-196613"></a>
-- t-008
+- t-007
   teiginys: "Kojelavičiaus pasakojime Vaidevutis, perdavęs valdžią, pasiskelbė šventenybių valdovu arba vyriausiuoju žyniu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
     - c-178799
 
 <a id="claim-t-197457"></a>
-- t-009
+- t-008
   teiginys: "Vaidevutis gyvenęs ir Šventamiestyje, kitaip Šventajame Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Rornovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji būdavo naikinama, kaip per karus su lenkais, tuomet jis gyvendavo vietovėse, kurios turi panašius pavadinimus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -139,8 +139,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179203
-- susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
-- susijęs iš [[objektai/paprociai/Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų.md#claim-t-189886|Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų]]: Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.'
@@ -204,7 +203,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172913
@@ -279,7 +277,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177317
   autorius: "Teodoras Narbutas"
@@ -298,7 +296,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-178797
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -320,7 +318,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-178798
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -349,7 +347,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-178799
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -372,7 +370,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-179203
   autorius: "Teodoras Narbutas"
@@ -394,4 +392,4 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008

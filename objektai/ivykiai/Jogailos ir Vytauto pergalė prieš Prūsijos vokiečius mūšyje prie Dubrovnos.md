@@ -7,14 +7,14 @@ datos:
   - '1412 m.'
 date_start: '1412'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - karas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193851"></a>
-- t-006
+- t-001
   teiginys: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-176491
 
 <a id="claim-t-196785"></a>
-- t-007
+- t-002
   teiginys: "Lietuvos metraštis vaizduoja, kad po pergalės Jogailos ir Vytauto kariuomenė paėmė dalį vokiečių miestų bei žemių ir grįžo su didžia šlove."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176491
@@ -196,7 +195,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-178907
   autorius: "Anoniminis metraštininkas"
@@ -223,4 +222,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002

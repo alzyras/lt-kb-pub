@@ -41,9 +41,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169407
-- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
-- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Kojelavičiaus pasakojime žuvus Tochtamyšui Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir žadėjo grąžinti į valdžią.
-- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
+
 ## Citatos
 
 - id: c-169407

@@ -44,7 +44,7 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44956
-- susijęs iš [[objektai/asmenys/Ditrichas (Velzaco pilies kunigas).md#claim-t-60264|Ditrichas (Velzaco pilies kunigas)]]: 1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės.
+
 ## Citatos
 
 - id: c-44956

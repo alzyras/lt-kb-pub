@@ -65,7 +65,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas skliausto triukšmas ir suformuluotas pilnas sakinys."
   pagrindžia:
     - c-02008
-- susijęs iš [[objektai/grupes/Pasaulio Lietuvių Sąjunga.md#claim-t-01439|Pasaulio Lietuvių Sąjunga]]: 1935 m. rugpjūčio 11–17 d. Kaune vykęs Pirmasis pasaulio lietuvių kongresas nutarė įkurti Pasaulio Lietuvių Sąjungą.
+
 ## Citatos
 
 - id: c-02008

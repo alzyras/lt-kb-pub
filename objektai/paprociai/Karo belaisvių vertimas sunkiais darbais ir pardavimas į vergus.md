@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07777"></a>
-- t-004
+- t-001
   teiginys: "Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-09933
 
 <a id="claim-t-07778"></a>
-- t-003
+- t-002
   teiginys: "Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -77,9 +77,6 @@ Nenurodyta
   semantiniai_rysiai: "Vokiečiai kariavo prieš Lietuviai (0.74); Lietuviai kariavo prieš Vokiečiai (0.72)"
   pagrindžia:
     - c-09933
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -101,5 +98,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

@@ -62,7 +62,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 ## Teiginiai
 
 <a id="claim-t-181560"></a>
-- t-036
+- t-001
   teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -82,33 +82,14 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - c-165096
 
 <a id="claim-t-181561"></a>
-- t-037
+- t-002
   teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-165097
-- susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
-- susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
-- susijęs iš [[objektai/asmenys/Stanislovas Rapolionis.md#claim-t-19244|Stanislovas Rapolionis]]: Stanislovas Rapolionis kartu su Abraomu Kulviečiu tapo vienu pirmųjų 1544 m. įkurto Karaliaučiaus universiteto profesorių.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173307|Žygimantas Senasis]]: Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173340|Žygimantas Senasis]]: Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.
-- susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20460|Reformacijos pradžia Lietuvoje]]: Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.
-- susijęs iš Martyno Mažvydo Katekizmas: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio kultūrinės programos dalimi.
-- susijęs iš Karaliaučius: 1544 m. įkurtame Karaliaučiaus universitete Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais profesoriais.
-- susijęs iš Vilnius: Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.
-- susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
-- susijęs iš Karaliaučius: Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams.
-- susijęs iš Karaliaučius: Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais 1544 m. įkurto Karaliaučiaus universiteto profesoriais.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22263|reformacija protestantizmas kalvinizmas]]: Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22264|reformacija protestantizmas kalvinizmas]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22265|reformacija protestantizmas kalvinizmas]]: Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu.
-- susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
-- susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77788|reformacija]]: Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu.
+
 ## Citatos
 
 - id: c-165096
@@ -140,7 +121,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-001
 
 - id: c-165097
   autorius: "Michał Baliński"
@@ -171,7 +152,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-002
 
 ## Ryšiai
 - Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]

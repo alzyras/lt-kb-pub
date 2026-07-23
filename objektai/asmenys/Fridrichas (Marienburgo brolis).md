@@ -7,15 +7,15 @@ datos:
   - '1302 m.'
 date_start: '1302'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 ## Teiginiai
 
 <a id="claim-t-197079"></a>
-- t-004
+- t-001
   teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,11 +62,13 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs į Vokietiją, lengvapėdiškai
     sugalvojo vėl jas eiti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
 
 ## Citatos
 
@@ -91,7 +93,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 - Fridrichas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

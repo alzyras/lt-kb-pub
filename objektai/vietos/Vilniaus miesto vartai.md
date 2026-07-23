@@ -45,7 +45,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82235
-- susijęs iš Išganytojo (Spaso) bažnyčia Vilniuje: 1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.
+
 ## Citatos
 
 - id: c-82235

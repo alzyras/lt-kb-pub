@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192494"></a>
-- t-002
+- t-001
   teiginys: "Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-175284
 
 <a id="claim-t-192495"></a>
-- t-003
+- t-002
   teiginys: "Gintaras šaltinyje apibūdinamas kaip kietas, blizgus, skaidrus ir dėl šių savybių senovėje prilygintas brangakmeniams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-175285
 
 <a id="claim-t-192496"></a>
-- t-004
+- t-003
   teiginys: "Narbutas mini pasakojimą, kad gintaro viduje esantys vandens lašai didėja ir mažėja kintant mėnuliui, bet neišdžiūva."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -108,36 +108,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175286
-- susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
-- susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
-- susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
-- susijęs iš [[objektai/daiktai/Čeltyčių gintaro rūmai.md#claim-t-189756|Čeltyčių gintaro rūmai]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
-- susijęs iš [[objektai/grupes/Gintaro rinktinė.md#claim-t-38953|Gintaro rinktinė]]: Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.
-- susijęs iš [[objektai/grupes/Čeltyčios.md#claim-t-189540|Čeltyčios]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188365|Žemaičiai]]: Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.
-- susijęs iš Naturalis historiae libri XXXVII: Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.
-- susijęs iš Variae: Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.
-- susijęs iš Baltijos jūra: Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
-- susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
-- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192253|Phyllantus Emblica]]: Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica.
-- susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
-- susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
-- susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
-- susijęs iš [[objektai/asmenys/Jurgis Mačiūnas.md#claim-t-63776|Jurgis Mačiūnas]]: Jurgis Mačiūnas citatoje įvardijamas kaip „Fluxus“ kūrėjas tarp su Lietuva siejamų garsių vardų.
-- susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76028|Victor David Brenner]]: Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius.
-- susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
-- susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
-- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
-- susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
-- susijęs iš Dniepras: Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu.
-- susijęs iš Dniepras: Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus.
-- susijęs iš Turkija: Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192254|Phyllantus Emblica]]: Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -182,7 +152,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175285
   autorius: "Teodoras Narbutas"
@@ -209,7 +179,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-175286
   autorius: "Teodoras Narbutas"
@@ -234,4 +204,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

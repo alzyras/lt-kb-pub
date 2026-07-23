@@ -36,7 +36,7 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
 ## Teiginiai
 
 <a id="claim-t-10546"></a>
-- t-003
+- t-001
   teiginys: "Lucjanui Želigovskiui buvo pavesta inscenizuoti 1-osios lietuvių-baltarusių divizijos maištą ir įsiveržti į Lietuvą, pažeidžiant Suvalkų taikos sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-75994
   sudarytojas: "Karolis Zikaras"

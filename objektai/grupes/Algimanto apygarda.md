@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78161"></a>
-- t-003
+- t-001
   teiginys: "Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-42634
 
 <a id="claim-t-193731"></a>
-- t-004
+- t-003
   teiginys: "Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -89,11 +89,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42633
-- susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
-- susijęs iš [[objektai/grupes/Tumo Vaižganto rinktinė.md#claim-t-41183|Tumo Vaižganto rinktinė]]: 1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
-- susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41200|Vytauto apygarda]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.
-- susijęs iš [[objektai/grupes/Vyčio apygarda.md#claim-t-41204|Vyčio apygarda]]: 1950 m. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.
-- susijęs iš [[objektai/grupes/Žalioji rinktinė.md#claim-t-41218|Žalioji rinktinė]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.
+
 ## Citatos
 
 - id: c-42633
@@ -119,7 +115,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-42634
   sudarytojas: "Karolis Zikaras"
@@ -191,4 +187,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

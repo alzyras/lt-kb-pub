@@ -8,15 +8,15 @@ datos:
   - '1292 m.'
 date_start: '1231'
 date_end: '1292'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigūnas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 ## Teiginiai
 
 <a id="claim-t-59833"></a>
-- t-008
+- t-001
   teiginys: "1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60469
 
 <a id="claim-t-59835"></a>
-- t-005
+- t-003
   teiginys: "Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-167437
 
 <a id="claim-t-59836"></a>
-- t-006
+- t-004
   teiginys: "Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60471
 
 <a id="claim-t-59837"></a>
-- t-003
+- t-005
   teiginys: "Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60470
 
 <a id="claim-t-59838"></a>
-- t-004
+- t-006
   teiginys: "Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60467
 
 <a id="claim-t-59839"></a>
-- t-001
+- t-007
   teiginys: "Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60465
 
 <a id="claim-t-59840"></a>
-- t-007
+- t-008
   teiginys: "Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60472
 
 <a id="claim-t-197065"></a>
-- t-010
+- t-009
   teiginys: "Ketvirtą kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs, iki tą prūsą atpratinsiąs nuo prietarų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -193,6 +193,24 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60465
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tris
+    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties. Ketvirtą
+    kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs,
+    iki tą prūsą atpratinsiąs nuo prietarų. Kadangi ketvirtojo arklio velnias nepasmaugė kaip
+    pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
+    tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
+    klystančiųjų naujakrikščių širdis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-010
+
 - c-007
   santrauka: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -208,11 +226,10 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60465
@@ -233,8 +250,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-010
+    - t-007
+    - t-009
 
 - id: c-60466
   autorius: "Petras Dusburgietis"
@@ -256,7 +273,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-60467
   autorius: "Petras Dusburgietis"
@@ -275,8 +292,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-003
+    - t-006
 
 - id: c-60469
   autorius: "Petras Dusburgietis"
@@ -314,7 +331,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-60471
   autorius: "Petras Dusburgietis"
@@ -332,7 +349,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-60472
   autorius: "Petras Dusburgietis"
@@ -357,7 +374,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-167437
   autorius: "Petras Dusburgietis"
@@ -384,4 +401,4 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

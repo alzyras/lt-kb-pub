@@ -46,6 +46,7 @@ Dusburgietis teigia, kad zurkalowski E.
   citata_rodoma: "Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —\nAM, Königsberg i Pr 1907 Bd 44, S. 479—486."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

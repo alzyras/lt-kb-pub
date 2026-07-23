@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54314"></a>
-- t-006
+- t-001
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-55187
 
 <a id="claim-t-54315"></a>
-- t-001
+- t-002
   teiginys: "Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-166718
 
 <a id="claim-t-54318"></a>
-- t-002
+- t-004
   teiginys: "Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Nenurodyta
     - c-55189
 
 <a id="claim-t-183327"></a>
-- t-007
+- t-006
   teiginys: "1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -218,7 +218,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-55189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -246,7 +246,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
     - t-005
 
 - id: c-166717
@@ -270,8 +270,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-007
+    - t-002
+    - t-006
 
 - id: c-166718
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

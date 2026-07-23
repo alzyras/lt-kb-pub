@@ -30,7 +30,7 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
 ## Teiginiai
 
 <a id="claim-t-186038"></a>
-- t-002
+- t-001
   teiginys: "Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169399
-- susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.'
@@ -71,7 +71,6 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169398
@@ -124,7 +123,7 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Fiodoras Ostrogiškis puolė [[objektai/vietos/Podolė]]

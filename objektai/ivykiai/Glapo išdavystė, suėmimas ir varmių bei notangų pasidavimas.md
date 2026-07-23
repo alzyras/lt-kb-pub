@@ -79,7 +79,7 @@ Nenurodyta
     - c-66759
 
 <a id="claim-t-66553"></a>
-- t-003
+- t-002
   teiginys: "Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-66760
 
 <a id="claim-t-66554"></a>
-- t-002
+- t-003
   teiginys: "Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-66761
   autorius: "Petras Dusburgietis"
@@ -183,4 +183,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

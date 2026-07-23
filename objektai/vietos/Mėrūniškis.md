@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - c-59233
 
 <a id="claim-t-194544"></a>
-- t-004
+- t-003
   teiginys: "Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-59233
   autorius: "Petras Dusburgietis"

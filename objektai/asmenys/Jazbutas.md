@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 ## Teiginiai
 
 <a id="claim-t-60147"></a>
-- t-002
+- t-001
   teiginys: "Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - c-60780
 
 <a id="claim-t-60148"></a>
-- t-001
+- t-002
   teiginys: "Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsigabeno grobį ir įspėjo brolius prieš savo žygį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - c-60779
 
 <a id="claim-t-184718"></a>
-- t-004
+- t-003
   teiginys: "Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - c-168079
 
 <a id="claim-t-194494"></a>
-- t-005
+- t-004
   teiginys: "Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,13 +97,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60780
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179237|Lietuviai]]: Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.
-- susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
-- susijęs iš [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.).md#claim-t-66563|Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]: Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.
-- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59918|Henrikas Cutsvertas]]: Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.
-- susijęs iš [[objektai/asmenys/Liudvikas Libencelė.md#claim-t-186145|Liudvikas Libencelė]]: Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179284|Lietuviai]]: 1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.
-- susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Kojelavičiaus pasakojime magistras Meinhardas su didele kariauna įsiveržė į Lietuvą ir žiauriai nusiaubė Paštuvos bei Gaižuvos valsčius.
+
 ## Citatos
 
 - id: c-60779
@@ -123,7 +117,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60780
   autorius: "Petras Dusburgietis"
@@ -146,8 +140,8 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-168079
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -184,7 +178,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Henrikas Cutsvertas]]

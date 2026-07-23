@@ -41,7 +41,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 ## Teiginiai
 
 <a id="claim-t-75651"></a>
-- t-004
+- t-001
   teiginys: "Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     - c-73370
 
 <a id="claim-t-75653"></a>
-- t-001
+- t-003
   teiginys: "Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     - c-21556
 
 <a id="claim-t-183518"></a>
-- t-005
+- t-004
   teiginys: "Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,10 +114,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166912
-- susijęs iš [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka.md#claim-t-67270|Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]: Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.
-- susijęs iš Lenkija: Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.
-- susijęs iš Lenkija: Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.
-- susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
+
 ## Citatos
 
 - id: c-21556
@@ -140,7 +137,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-73370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -165,7 +162,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-002
 
 - id: c-166912
@@ -188,4 +185,4 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

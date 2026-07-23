@@ -44,7 +44,7 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44611
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171496|Karolis Zikaras]]: Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.
+
 ## Citatos
 
 - id: c-44611

@@ -61,7 +61,7 @@ Nenurodyta
     - c-63499
 
 <a id="claim-t-62732"></a>
-- t-003
+- t-002
   teiginys: "Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-63497
   autorius: "Petras Dusburgietis"

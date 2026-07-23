@@ -49,7 +49,7 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
 ## Teiginiai
 
 <a id="claim-t-78835"></a>
-- t-005
+- t-001
   teiginys: "„Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)“ šiame veikale cituojamas chunk_0010: siauresnis to paties aprašymo išskyrimas apie artileriją."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
     - c-11226
 
 <a id="claim-t-78836"></a>
-- t-006
+- t-002
   teiginys: "Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
     - c-75976
 
 <a id="claim-t-78837"></a>
-- t-004
+- t-003
   teiginys: "Fulvio Ruggieri 1572 m. aprašyme rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -122,8 +122,8 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-003
 
 - id: c-75976
   sudarytojas: "Karolis Zikaras"
@@ -148,4 +148,4 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

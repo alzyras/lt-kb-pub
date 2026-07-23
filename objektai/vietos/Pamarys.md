@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - regionas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 ## Teiginiai
 
 <a id="claim-t-182877"></a>
-- t-016
+- t-001
   teiginys: "Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - c-171686
 
 <a id="claim-t-192714"></a>
-- t-017
+- t-004
   teiginys: "Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - c-175484
 
 <a id="claim-t-194743"></a>
-- t-018
+- t-005
   teiginys: "Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - c-177139
 
 <a id="claim-t-201097"></a>
-- t-019
+- t-006
   teiginys: "Pasaka skelbia, jog parusnių dievai buvę iš Gu dijos, rasi Pamario, pargabenti, jei tas būt tiesa esąs, tuo kartu vardai dievų būt esą gudiški, vienok yra yni lietuviški, kurių vardus alvienas lietuvis šian dien dar permano."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-166280
@@ -207,7 +206,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-001
 
 - id: c-166459
   redaktorius: "A. Šapoka"
@@ -269,7 +268,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-004
 
 - id: c-177139
   autorius: "Teodoras Narbutas"
@@ -290,7 +289,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-005
 
 - id: c-184447
   autorius: "Simonas Daukantas"
@@ -318,4 +317,4 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-006

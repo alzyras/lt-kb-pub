@@ -29,7 +29,7 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
 ## Teiginiai
 
 <a id="claim-t-196408"></a>
-- t-002
+- t-001
   teiginys: "Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,4 +63,4 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

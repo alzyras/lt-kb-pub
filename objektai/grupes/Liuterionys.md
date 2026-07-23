@@ -52,7 +52,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-01651
-- susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01343|Kalvinai]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+
 ## Citatos
 
 - id: c-01651

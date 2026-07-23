@@ -44,8 +44,7 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41502
-- susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
-- susijęs iš [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.).md#claim-t-41380|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]: Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.
+
 ## Citatos
 
 - id: c-41502

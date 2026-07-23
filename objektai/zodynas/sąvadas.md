@@ -9,14 +9,14 @@ datos:
   - '1446 m.'
 date_start: '1377'
 date_end: '1446'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,7 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186916"></a>
-- t-004
+- t-001
   teiginys: "Platesnysis Lietuvos metraščių sąvadas, vadinamas „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kronika“, veikiausiai kilo XVI a. antrajame dešimtmetyje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-170096
 
 <a id="claim-t-186919"></a>
-- t-003
+- t-002
   teiginys: "Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -103,12 +103,31 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170095
-- susijęs iš [[objektai/daiktai/Platesniojo sąvado nuorašai.md#claim-t-186812|Platesniojo sąvado nuorašai]]: Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.
-- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187454|Palemonas]]: Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.
-- susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186921|nuorašas]]: Plačiau buvo žinomi bent 222 šių tekstų nuorašai.
-- susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186922|nuorašas]]: Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.
-- susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-187524|nuorašas]]: LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.
+
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ВУСНОѴСО KRONIKA IR JOS KILMĖ
+    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
+    Kunigaikštystėje kilusios metraštinės literatūros pa­
+    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
+    Bychovco kronika
+    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
+    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
+    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
+    nebuvo savo laiku išspausdintas, o plito rankraštiniais
+    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
+    tų nuorašų ir susijusių su jais atskirų fragmentų yra
+    paskelbti Rusijos Archeografinės Komisijos leidinyje,
+    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
 - c-002
   santrauka: 'Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -120,10 +139,10 @@ Nenurodyta
     dimino, bet ir apie Algirdo valdymą, ir beveik jokit!
     žinių iš Lietuvos praeities iki XIV a.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -134,11 +153,10 @@ Nenurodyta
     „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
     ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170095
@@ -157,7 +175,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-170096
   autorius: "Anoniminis metraštininkas"
@@ -174,4 +192,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

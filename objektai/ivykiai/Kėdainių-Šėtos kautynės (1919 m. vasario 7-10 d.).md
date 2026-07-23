@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09849"></a>
-- t-014
+- t-001
   teiginys: "Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-11872
 
 <a id="claim-t-09850"></a>
-- t-009
+- t-002
   teiginys: "Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-11867
 
 <a id="claim-t-09851"></a>
-- t-010
+- t-003
   teiginys: "Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-11868
 
 <a id="claim-t-09852"></a>
-- t-012
+- t-004
   teiginys: "Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-11870
 
 <a id="claim-t-09853"></a>
-- t-011
+- t-005
   teiginys: "Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -133,7 +133,7 @@ Nenurodyta
     - c-11869
 
 <a id="claim-t-09854"></a>
-- t-013
+- t-006
   teiginys: "Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -149,7 +149,7 @@ Nenurodyta
     - c-11871
 
 <a id="claim-t-09855"></a>
-- t-008
+- t-007
   teiginys: "Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -164,17 +164,7 @@ Nenurodyta
   semantiniai_rysiai: "J. Mikoliūnas gynė Kėdainiai (0.90); K. Dragunevičius gynė Kėdainiai (0.90)"
   pagrindžia:
     - c-11866
-- susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
-- susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40247|K. Dragunevičius]]: K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.
-- susijęs iš [[objektai/daiktai/Geltonas lankelis ant kepurės.md#claim-t-78650|Geltonas lankelis ant kepurės]]: Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu.
-- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78670|Lietuvos kario savadarbė diržo sagtis]]: Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.
-- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78671|Lietuvos kario savadarbė diržo sagtis]]: Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.
-- susijęs iš [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas.md#claim-t-78672|Lietuvos kariuomenės savanorio rankovės antsiuvas]]: Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas.
-- susijęs iš [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas.md#claim-t-78673|Lietuvos kariuomenės savanorio rankovės antsiuvas]]: Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41296|Kėdainių-Šėtos kautynės]]: Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
-- susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
-- susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40247|K. Dragunevičius]]: K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.
+
 ## Citatos
 
 - id: c-11866
@@ -203,7 +193,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-11867
   sudarytojas: "Karolis Zikaras"
@@ -226,7 +216,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-11868
   sudarytojas: "Karolis Zikaras"
@@ -252,7 +242,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-11869
   sudarytojas: "Karolis Zikaras"
@@ -279,7 +269,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-005
 
 - id: c-11870
   sudarytojas: "Karolis Zikaras"
@@ -302,7 +292,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-004
 
 - id: c-11871
   sudarytojas: "Karolis Zikaras"
@@ -321,7 +311,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-006
 
 - id: c-11872
   sudarytojas: "Karolis Zikaras"
@@ -345,4 +335,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-001

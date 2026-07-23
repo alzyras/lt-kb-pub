@@ -8,7 +8,7 @@ variantai:
   - 'virves'
   - 'virvėmis'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -92,9 +92,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Liuntas.md#claim-t-195325|Liuntas]]: Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas.
-- susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
-- susijęs iš [[objektai/daiktai/Pavaža.md#claim-t-195350|Pavaža]]: Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą.
-- susijęs iš [[objektai/daiktai/Tekinis.md#claim-t-195351|Tekinis]]: Prie pavažos pritvirtintas ratas, verčiantis įtaisą svyruoti ir suktis.

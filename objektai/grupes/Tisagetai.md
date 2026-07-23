@@ -69,16 +69,7 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175733
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190868|Herodotas]]: Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190704|Herodotas]]: Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto.
-- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192387|Gelonai]]: Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai.
-- susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
-- susijęs iš [[objektai/posakiai/Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju.md#claim-t-192116|Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju]]: Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.
-- susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
-- susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
+
 ## Citatos
 
 - id: c-175732

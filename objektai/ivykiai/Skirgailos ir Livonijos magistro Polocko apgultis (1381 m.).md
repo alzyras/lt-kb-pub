@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86925"></a>
-- t-002
+- t-001
   teiginys: "1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-82904
 
 <a id="claim-t-194179"></a>
-- t-003
+- t-002
   teiginys: "Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176790
   autorius: "Michał Baliński"
@@ -144,4 +144,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

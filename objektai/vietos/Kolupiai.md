@@ -36,7 +36,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 ## Teiginiai
 
 <a id="claim-t-79488"></a>
-- t-002
+- t-001
   teiginys: "1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
     - c-76475
 
 <a id="claim-t-193768"></a>
-- t-003
+- t-002
   teiginys: "Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -66,11 +66,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176423
-- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78668|Lietuvos kario savadarbė diržo sagtis]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote.
-- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78669|Lietuvos kario savadarbė diržo sagtis]]: Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09849|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.
-- susijęs iš Šėta: Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
-- susijęs iš [[objektai/zodynas/Savanoris.md#claim-t-42426|Savanoris]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.
+
 ## Citatos
 
 - id: c-76475
@@ -96,7 +92,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176423
   sudarytojas: "Karolis Zikaras"
@@ -118,4 +114,4 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

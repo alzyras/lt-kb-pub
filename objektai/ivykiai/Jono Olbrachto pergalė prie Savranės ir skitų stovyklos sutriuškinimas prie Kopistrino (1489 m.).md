@@ -8,13 +8,13 @@ datos:
   - '1489 m.'
 date_start: '1488'
 date_end: '1489'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,7 +83,7 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Skitai: mention_match, group, gap=38"
+  ryšio_targeto_parinkimas: "skitai: mention_match, thing, gap=38"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)\" parinktas kaip owner_note_path. Targetas \"skitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   temporaliniai_duomenys: "įvykio data: 1489 m."
@@ -93,7 +93,7 @@ Nenurodyta
     - c-168885
 
 <a id="claim-t-196167"></a>
-- t-005
+- t-003
   teiginys: "Sužinojęs apie skitų įsiveržimą į Lenkiją, karalius įsitraukė į karą dėl Podolės ir pavedė sūnui atsargiai pavaduoti jį karo stovykloje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -243,4 +243,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

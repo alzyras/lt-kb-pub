@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187976"></a>
-- t-002
+- t-001
   teiginys: "R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events::validation_repair"
@@ -102,4 +102,4 @@ Data: 1817 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 ## Teiginiai
 
 <a id="claim-t-58572"></a>
-- t-002
+- t-001
   teiginys: "Dešiniajame Kaustros krante į pietus nuo miesto išliko aukštas piliakalnis su pilies griuvėsiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     - c-59204
 
 <a id="claim-t-58573"></a>
-- t-001
+- t-002
   teiginys: "Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,9 +56,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   semantiniai_rysiai: "Kryžiuočių ordinas pastatė Kroicburgas (0.95)"
   pagrindžia:
     - c-59205
-- susijęs iš Kriukai: Kriukai buvo kaimas per 6 kilometrus į pietus nuo Kroicburgo, netoli ežerėlio tarp Kaustros ir Pasmaros upių.
-- susijęs iš Kroicburgas: Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.
-- susijęs iš Kroicburgas: Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.
+
 ## Citatos
 
 - id: c-59204
@@ -76,7 +74,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59205
   autorius: "Petras Dusburgietis"
@@ -98,4 +96,4 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

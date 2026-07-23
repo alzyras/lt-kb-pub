@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-51349"></a>
-- t-002
+- t-001
   teiginys: "Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-37285
 
 <a id="claim-t-51350"></a>
-- t-001
+- t-002
   teiginys: "Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -69,13 +69,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37285
-- susijęs iš Drevenca: Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą.
-- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
-- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
+
 ## Citatos
 
 - id: c-37285
@@ -96,5 +90,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

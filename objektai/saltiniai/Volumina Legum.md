@@ -10,13 +10,13 @@ datos:
   - '2026 m.'
 date_start: '1859'
 date_end: '2026'
-amziai:
-  - 'XIX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 ## Teiginiai
 
 <a id="claim-t-67580"></a>
-- t-003
+- t-001
   teiginys: "XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     - c-37269
 
 <a id="claim-t-201503"></a>
-- t-004
+- t-003
   teiginys: "Sankt Peterburge skelbtų Respublikos seimų priimtų konstitucijų daugiatomiu rinkiniu Volumina Legum. Seime, tarp kita ko, buvo priimami valstybės mokesčių įstatymai, kuriems turėjo paklusti ir Kauno miestiečiai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-184850
   autorius: "Zigmantas Kiaupa"
@@ -136,4 +136,4 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

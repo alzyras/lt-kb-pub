@@ -69,11 +69,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46396
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184905|Žygimantas]]: Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.
-- susijęs iš [[objektai/autoriai/V. Pisani.md#claim-t-31042|V. Pisani]]: V. Pisani parašė darbą „Il paganesimo balto-slavo“, paskelbtą leidinyje „Storia delle religioni“.
-- susijęs iš [[objektai/autoriai/W. Schmidt.md#claim-t-31071|W. Schmidt]]: W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.
-- susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
-- susijęs iš Žemaičių kraštas (kraštas): To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose.
+
 ## Citatos
 
 - id: c-46396

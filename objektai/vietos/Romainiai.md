@@ -40,7 +40,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
 ## Teiginiai
 
 <a id="claim-t-84712"></a>
-- t-003
+- t-001
   teiginys: "Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
     - c-80846
 
 <a id="claim-t-84714"></a>
-- t-004
+- t-002
   teiginys: "Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
     - c-80847
 
 <a id="claim-t-202356"></a>
-- t-001
+- t-003
   teiginys: "Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke; jie pirko ir pardavė nedideles žemės valdas, sudarė kitus sandorius ir buvo kitų bajorų liudininkai."
   atnaujinta: "2026-07-19 12:22"
   sprendimo_priezastis: "auto"
@@ -92,18 +92,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185703
-- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
-- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55131|Romainių šventvietės sunaikinimas (1294 m.)]]: Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.
-- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-81827|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
-- susijęs iš [[objektai/daiktai/Mūrinė pilis.md#claim-t-87115|Mūrinė pilis]]: Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.
-- susijęs iš [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas.md#claim-t-87251|Romuvų šventos girios ir Perkūno garbinimas]]: Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.
-- susijęs iš Kijevas: Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.
-- susijęs iš Prūsija: Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.
-- susijęs iš Vilniaus pilis: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
-- susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
-- susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
-- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
+
 ## Citatos
 
 - id: c-80846
@@ -134,7 +123,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-80847
   autorius: "Michał Baliński"
@@ -172,7 +161,7 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-185703
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
@@ -182,4 +171,4 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
   pagrindzia:
-    - t-001
+    - t-003

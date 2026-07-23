@@ -35,7 +35,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 ## Teiginiai
 
 <a id="claim-t-88013"></a>
-- t-004
+- t-001
   teiginys: "Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83992
 
 <a id="claim-t-88014"></a>
-- t-003
+- t-002
   teiginys: "Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83995
 
 <a id="claim-t-88015"></a>
-- t-001
+- t-003
   teiginys: "Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83994
 
 <a id="claim-t-88016"></a>
-- t-002
+- t-004
   teiginys: "Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-83993
   autorius: "Michał Baliński"
@@ -158,7 +158,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-83994
   autorius: "Michał Baliński"
@@ -181,7 +181,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83995
   autorius: "Michał Baliński"
@@ -202,4 +202,4 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -11,8 +11,6 @@ datos:
   - '1492 m.'
 date_start: '1429'
 date_end: '1492'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +18,8 @@ tags:
   - gyvenvietė
   - upė
   - sostinė
+amziai:
+  - 'XV'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
@@ -43,7 +43,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 ## Teiginiai
 
 <a id="claim-t-174175"></a>
-- t-007
+- t-001
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158384
 
 <a id="claim-t-174176"></a>
-- t-008
+- t-002
   teiginys: "1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158390
 
 <a id="claim-t-174177"></a>
-- t-014
+- t-003
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158388
 
 <a id="claim-t-174178"></a>
-- t-001
+- t-004
   teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158387
 
 <a id="claim-t-174183"></a>
-- t-002
+- t-005
   teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158391
 
 <a id="claim-t-174184"></a>
-- t-003
+- t-006
   teiginys: "Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158385
 
 <a id="claim-t-174187"></a>
-- t-005
+- t-007
   teiginys: "Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158386
 
 <a id="claim-t-188851"></a>
-- t-013
+- t-008
   teiginys: "Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-171741
 
 <a id="claim-t-188852"></a>
-- t-004
+- t-009
   teiginys: "Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -196,9 +196,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-171741
 
 <a id="claim-t-188854"></a>
-- t-016
+- t-010
   teiginys: "Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -209,7 +209,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-171743
 
 <a id="claim-t-193431"></a>
-- t-017
+- t-011
   teiginys: "Kojelavičiaus pasakojime nuo Plikojo kalno nustumti vienuoliai žuvo Vilnioje, kai minia susidorojo su krikščionybės skelbėjais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -222,7 +222,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-176153
 
 <a id="claim-t-194262"></a>
-- t-019
+- t-012
   teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -235,7 +235,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-176855
 
 <a id="claim-t-197940"></a>
-- t-020
+- t-013
   teiginys: "Antroji mažesnė, kuri Vilniuje įteka į Neri, lotyniškose privilegijose vadinama Velna arba Wilna."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -245,17 +245,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179408
-- susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82778|Vaišelga (kunigaikštis)]]: Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.
-- susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
-- susijęs iš Kijevas: Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.
-- susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
-- susijęs iš Smolenskas: Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.
-- susijęs iš Smolenskas: Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai.
-- susijęs iš Smolenskas: Kai kurie Lietuvos miestai tuo metu buvo valdomi Smolensko kunigaikščių.
-- susijęs iš Černigovas: Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių.
-- susijęs iš Černigovas: Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.
-- susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
-- susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
@@ -317,7 +307,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-158384
@@ -347,7 +336,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-158385
   autorius: "Michał Baliński"
@@ -372,7 +361,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-158386
   autorius: "Michał Baliński"
@@ -408,7 +397,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007
 
 - id: c-158387
   autorius: "Michał Baliński"
@@ -434,7 +423,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-158388
   autorius: "Michał Baliński"
@@ -474,7 +463,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-003
 
 - id: c-158390
   autorius: "Michał Baliński"
@@ -530,7 +519,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-158391
   autorius: "Michał Baliński"
@@ -558,7 +547,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-171740
   autorius: "Teodoras Narbutas"
@@ -600,8 +589,8 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-004
+    - t-008
+    - t-009
 
 - id: c-171743
   autorius: "Teodoras Narbutas"
@@ -628,7 +617,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-010
 
 - id: c-176153
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -666,7 +655,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011
 
 - id: c-176855
   autorius: "Michał Baliński"
@@ -702,7 +691,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-012
 
 - id: c-179408
   autorius: "Teodoras Narbutas"
@@ -724,4 +713,4 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-013

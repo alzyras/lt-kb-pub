@@ -48,7 +48,7 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-41277
-- susijęs iš Priepado ežeras: 1949 m. lapkričio 1 d. Šimonių girioje prie Priepado ežero MGB karių apsuptame bunkeryje po atkaklios kovos žuvo 7 partizanai.
+
 ## Citatos
 
 - id: c-41277

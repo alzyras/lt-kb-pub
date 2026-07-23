@@ -56,9 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
   pagrindžia:
     - c-83870
-- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Lukas Opachovskis.md#claim-t-87768|Lukas Opachovskis]]: 1563 m. Vilniaus burmistras Lukas Opachovskis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Karalystės seime Varšuvoje.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
+
 ## Citatos
 
 - id: c-83870

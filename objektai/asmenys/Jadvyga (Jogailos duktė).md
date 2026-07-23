@@ -38,7 +38,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 ## Teiginiai
 
 <a id="claim-t-51024"></a>
-- t-004
+- t-001
   teiginys: "Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-36328
 
 <a id="claim-t-51026"></a>
-- t-001
+- t-003
   teiginys: "Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-52677
 
 <a id="claim-t-51027"></a>
-- t-003
+- t-004
   teiginys: "Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-005
 
 - id: c-52677
@@ -193,7 +193,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-52678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -214,7 +214,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

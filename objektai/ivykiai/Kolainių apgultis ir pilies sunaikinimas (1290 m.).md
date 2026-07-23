@@ -7,13 +7,13 @@ datos:
   - '1290 m.'
 date_start: '1290'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -132,7 +132,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169075

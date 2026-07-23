@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93029"></a>
-- t-005
+- t-001
   teiginys: "Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-88439
 
 <a id="claim-t-93030"></a>
-- t-003
+- t-002
   teiginys: "Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-88439
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -127,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

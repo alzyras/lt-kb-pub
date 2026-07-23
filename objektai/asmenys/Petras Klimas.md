@@ -39,7 +39,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Teiginiai
 
 <a id="claim-t-46282"></a>
-- t-002
+- t-001
   teiginys: "Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     - c-48884
 
 <a id="claim-t-46283"></a>
-- t-001
+- t-002
   teiginys: "Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,14 +77,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-48883
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
-- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
-- susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108754|J. Pilsudskis]]: 1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101673|Juzefas Pilsudskis]]: 1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101676|Juzefas Pilsudskis]]: 1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.
-- susijęs iš [[objektai/posakiai/„Karas ar taika “.md#claim-t-26348|„Karas ar taika “]]: Ženevoje J. Pilsudskis paklausė A. Voldemaro „Karas ar taika?“, o šis atsakė, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
-- susijęs iš Ženeva: Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
-- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108566|administracinė linija demarkacijos linija]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.
+
 ## Citatos
 
 - id: c-48883
@@ -112,7 +105,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-48884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,4 +130,4 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

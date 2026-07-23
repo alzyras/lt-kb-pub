@@ -59,9 +59,7 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173307
-- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-188402|Henrikas Latvis]]: Narbutas rašė, kad Henriko Latvio kronikos XVII a. Glumerio pastabose 1243 m. lietuvių šūkis aiškintas kaip kreipinys į karo dievą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188256|Lietuviai]]: Narbutas, remdamasis Glumerio pastabomis, lietuvių 1243 m. karo šūkį aiškino kaip kreipinį į karo dievą Kovą.
-- susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189478|Livonijos riteriai]]: Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai puolė lietuvius šaukdami tikrojo Dievo vardą.
+
 ## Citatos
 
 - id: c-173307

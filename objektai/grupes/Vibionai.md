@@ -48,7 +48,7 @@ Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pil
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175762
-- susijęs iš Vitebskas: Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę.
+
 ## Citatos
 
 - id: c-175762

@@ -40,7 +40,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 ## Teiginiai
 
 <a id="claim-t-70011"></a>
-- t-006
+- t-001
   teiginys: "Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
     - c-09697
 
 <a id="claim-t-70012"></a>
-- t-004
+- t-002
   teiginys: "`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -58,17 +58,14 @@ Vartojamos formos: `kūrėjų kūrėjo`.
     - c-09697
 
 <a id="claim-t-70013"></a>
-- t-005
+- t-003
   teiginys: "Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09696
-- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08287|Dievų stabai]]: Tris dievų stabai buvo įstatyti ąžuolo uoksuose.
-- susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-55773|Ūkės lazda]]: Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.
-- susijęs iš [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle.md#claim-t-07817|Vyresnybės įsakymų skelbimas krivūle]]: Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle.
-- susijęs iš [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine.md#claim-t-08478|Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]: Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.
+
 ## Citatos
 
 - id: c-09696
@@ -87,7 +84,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-09697
   autorius: "Simonas Daukantas"
@@ -101,5 +98,5 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-004
+    - t-001
+    - t-002

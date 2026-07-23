@@ -47,7 +47,7 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 ## Teiginiai
 
 <a id="claim-t-41571"></a>
-- t-002
+- t-001
   teiginys: "1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -66,7 +66,7 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
     - c-45010
 
 <a id="claim-t-41572"></a>
-- t-003
+- t-002
   teiginys: "Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -112,5 +112,5 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

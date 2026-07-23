@@ -47,8 +47,7 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32948
-- susijęs iš [[objektai/autoriai/I. Jonynas.md#claim-t-30643|I. Jonynas]]: Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“.
-- susijęs iš K. Avižonis, Vosylius I: K. Avižonio „Vosylius I“ paskelbtas LE 34 tome, 539–541 puslapiuose.
+
 ## Citatos
 
 - id: c-32948

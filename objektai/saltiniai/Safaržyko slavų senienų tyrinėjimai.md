@@ -73,11 +73,10 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
     (Zeller.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174737

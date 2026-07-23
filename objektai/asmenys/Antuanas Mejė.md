@@ -44,7 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-25408
-- susijęs iš [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“.md#claim-t-20873|„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]: Antuanas Mejė lietuvių valstiečio kalbą siejo su prosenelių kalbos pažinimu.
+
 ## Citatos
 
 - id: c-25408

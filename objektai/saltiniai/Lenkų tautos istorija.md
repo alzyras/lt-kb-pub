@@ -78,24 +78,6 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   pagrindžia:
     - c-174808
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tiesą sakant, senovės ty­
-    rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
-    Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
-    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-33620

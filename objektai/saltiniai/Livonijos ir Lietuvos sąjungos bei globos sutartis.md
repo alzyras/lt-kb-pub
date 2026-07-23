@@ -30,7 +30,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
 ## Teiginiai
 
 <a id="claim-t-186300"></a>
-- t-002
+- t-001
   teiginys: "Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
     - c-169661
 
 <a id="claim-t-196357"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir laiškuose uždraudė minėti Maskvos caro bei Livonijos valdovo titulus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
     - c-178647
 
 <a id="claim-t-196358"></a>
-- t-004
+- t-003
   teiginys: "Pasak Kojelavičiaus, karalius, sužinojęs, kad lenkams Livonija nerūpi, pasiuntė Gotardą Ketlerį į Lietuvą tartis dėl pagalbos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
     - c-169661
 
 <a id="claim-t-196359"></a>
-- t-005
+- t-004
   teiginys: "Seime nutarta, kad karalius, paėmęs Livoniją į globą, savo nuožiūra sudarytų valstybei naudingiausią susitarimą su šiuo kraštu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,8 +119,8 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003
 
 - id: c-178647
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -149,7 +149,7 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178648
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -172,4 +172,4 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

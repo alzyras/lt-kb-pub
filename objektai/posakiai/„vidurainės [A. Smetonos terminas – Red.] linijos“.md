@@ -53,11 +53,7 @@ Smetona stengėsi laikytis „vidurainės [A.
   temporalinis_llm_pakomentavimas: "Perrašyta pašalinant redakcinį triukšmą ir aiškiau nurodant termino prasmę."
   pagrindžia:
     - c-26574
-- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
-- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78002|A. Voldemaras]]: A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75770|Augustinas Voldemaras]]: Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75777|Augustinas Voldemaras]]: Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.
-- susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.
+
 ## Citatos
 
 - id: c-26574

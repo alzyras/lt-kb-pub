@@ -8,12 +8,12 @@ datos:
   - '1525 m.'
 date_start: '1519'
 date_end: '1525'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -85,7 +85,6 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176766

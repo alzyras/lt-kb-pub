@@ -51,11 +51,7 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174344
-- susijęs iš [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną.md#claim-t-191870|Kimbrų pergalė prieš konsulą Scipioną]]: Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos.
-- susijęs iš [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną.md#claim-t-191870|Kimbrų pergalė prieš konsulą Scipioną]]: Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos.
-- susijęs iš [[objektai/asmenys/Biorntelis.md#claim-t-191377|Biorntelis]]: Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių.
-- susijęs iš Trentas: Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės kimbrų ainiai.
-- susijęs iš Verona: Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai.
+
 ## Citatos
 
 - id: c-174344

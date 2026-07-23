@@ -37,7 +37,7 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 ## Teiginiai
 
 <a id="claim-t-75610"></a>
-- t-002
+- t-001
   teiginys: "Vytautas pradėtas vadinti Didžiuoju, nes jo permainų reikšmę suvokė jau amžininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
     - c-73335
 
 <a id="claim-t-75611"></a>
-- t-001
+- t-002
   teiginys: "Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -92,5 +92,5 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 ## Teiginiai
 
 <a id="claim-t-58454"></a>
-- t-002
+- t-001
   teiginys: "Kresmena siejama su Skomanto valdytu Kresinenos valsčiumi apie Skomanto ežerą ir toliau į rytus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - c-59088
 
 <a id="claim-t-58455"></a>
-- t-003
+- t-002
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - c-59086
 
 <a id="claim-t-58456"></a>
-- t-001
+- t-003
   teiginys: "Magistras Mangoldas per Grabnyčias įsiveržė į Sūduvos valsčių Kresmeną ir jį niokojo degindamas bei grobdamas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - c-59086
 
 <a id="claim-t-194534"></a>
-- t-006
+- t-004
   teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
     - c-59086
 
 <a id="claim-t-194535"></a>
-- t-007
+- t-005
   teiginys: "Apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,14 +94,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59087
-- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
-- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
-- susijęs iš [[objektai/autoriai/Engel C.md#claim-t-60696|Engel C]]: Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.
-- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-183935|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.
-- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
-- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66639|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.
-- susijęs iš [[objektai/zodynas/grabnyčių diena.md#claim-t-58903|grabnyčių diena]]: Grabnyčių dieną, vasario 2-ąją, magistras Mangoldas įsiveržė į Sūduvos valsčių Kresmeną ir jį nusiaubė.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59831|Skomantas]]: Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.
+
 ## Citatos
 
 - id: c-59086
@@ -125,9 +118,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-001
-    - t-006
+    - t-004
 
 - id: c-59087
   autorius: "Petras Dusburgietis"
@@ -149,7 +142,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-59088
   autorius: "Petras Dusburgietis"
@@ -167,4 +160,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

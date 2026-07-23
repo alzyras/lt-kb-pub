@@ -7,13 +7,13 @@ datos:
   - '2026 m.'
 date_start: '2026'
 date_end: ''
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-praktika
   - paprotys
+amziai:
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67117"></a>
-- t-003
+- t-001
   teiginys: "Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,9 +70,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10004
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -94,7 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-10005
   autorius: "Simonas Daukantas"
@@ -105,6 +102,7 @@ Nenurodyta
         tarės laimėsiantys.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

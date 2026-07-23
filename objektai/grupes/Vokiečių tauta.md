@@ -60,7 +60,7 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179074
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192444|Prūsai]]: Teodoras Narbutas rašo, kad prūsai ir latviai turėjo pilnesnius istorijos aprašymus už lietuvius dėl ryšių su vokiečių tauta ir gausesnių kronikininkų.
+
 ## Citatos
 
 - id: c-172427

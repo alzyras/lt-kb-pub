@@ -64,12 +64,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10286
-- susijęs iš [[objektai/autoriai/Henenbergeris.md#claim-t-190311|Henenbergeris]]: Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės.
-- susijęs iš [[objektai/paprociai/Auka už mirusiuosius ir mirusiųjų minėjimo atnašos.md#claim-t-187991|Auka už mirusiuosius ir mirusiųjų minėjimo atnašos]]: Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.
-- susijęs iš [[objektai/posakiai/Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias.md#claim-t-192121|Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias]]: Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas.
-- susijęs iš [[objektai/posakiai/Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias.md#claim-t-192121|Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias]]: Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

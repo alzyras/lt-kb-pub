@@ -29,7 +29,7 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
 ## Teiginiai
 
 <a id="claim-t-197334"></a>
-- t-002
+- t-001
   teiginys: "Plutarchas aprėkdavusi kiekvieną įeinantį, kad nesumindytų pieno karalienės."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -59,4 +59,4 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

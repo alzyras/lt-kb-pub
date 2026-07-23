@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Grucė
 sukurta: '2026-07-12'
 variantai:
-  - 'grucei'
-  - 'grucę'
+  - grucei
+  - grucę
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -67,6 +67,7 @@ Terminas vartojamas aprašant gaminimą ir sudėtį.
   citata_rodoma: "Padaryti grucei ima džiovintų krosnyje miežių ir grūda pies­\ntoje, kad nusivalytų grūdams ašakos"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

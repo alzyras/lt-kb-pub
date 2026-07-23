@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62696"></a>
-- t-002
+- t-001
   teiginys: "Dvi moterys, eidamos į bažnyčią, aikštėje pamatė kauliukais žaidžiantį stiprų ir gražaus gymio tarną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-63450
 
 <a id="claim-t-62697"></a>
-- t-001
+- t-002
   teiginys: "Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-63450
   autorius: "Petras Dusburgietis"
@@ -124,7 +124,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-63451
   autorius: "Petras Dusburgietis"
@@ -145,4 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -53,10 +53,7 @@ Michelbertas (AkMD, t.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33059
-- susijęs iš [[objektai/daiktai/Sidabro dirbiniai.md#claim-t-05235|Sidabro dirbiniai]]: L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.
-- susijęs iš Rudaičiai: M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.
-- susijęs iš Veliuona: M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.
-- susijęs iš Veliuona: M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose.
+
 ## Citatos
 
 - id: c-33059

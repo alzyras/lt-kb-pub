@@ -31,7 +31,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
 ## Teiginiai
 
 <a id="claim-t-187181"></a>
-- t-006
+- t-001
   teiginys: "Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -66,7 +66,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
     - c-170271
 
 <a id="claim-t-187183"></a>
-- t-001
+- t-003
   teiginys: "Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -175,7 +175,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-170269
   autorius: "Michał Baliński"
@@ -200,7 +200,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-170271
   autorius: "Michał Baliński"

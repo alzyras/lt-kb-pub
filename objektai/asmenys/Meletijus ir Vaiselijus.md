@@ -47,8 +47,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173067
-- susijęs iš [[objektai/autoriai/Meletijus.md#claim-t-190338|Meletijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
-- susijęs iš [[objektai/autoriai/Vaiselijus.md#claim-t-190461|Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros.
+
 ## Citatos
 
 - id: c-173067

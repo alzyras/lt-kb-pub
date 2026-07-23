@@ -56,10 +56,7 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174310
-- susijęs iš [[objektai/asmenys/Rusbergas Rubrikvis.md#claim-t-191978|Rusbergas Rubrikvis]]: Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus.
-- susijęs iš [[objektai/asmenys/Rusbergas.md#claim-t-191977|Rusbergas]]: Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus.
-- susijęs iš [[objektai/ivykiai/Čingischano vadų karas su alanais.md#claim-t-191078|Čingischano vadų karas su alanais]]: Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.
-- susijęs iš [[objektai/ivykiai/Čingischano vadų žygis į Samachą ir Derbentą 1223 m.md#claim-t-192490|Čingischano vadų žygis į Samachą ir Derbentą 1223 m]]: Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento.
+
 ## Citatos
 
 - id: c-174310

@@ -7,12 +7,12 @@ datos:
   - '1861 m.'
 date_start: '1861'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

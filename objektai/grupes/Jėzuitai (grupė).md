@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centriniame archyve Archiwum Romanum Societatis lesu Romoje.
+Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centriniame archyve Archiwum Romanum Societatis lesu Romoje. Po trejų metų pas globėją Kaune Kazimieras dar trejus metus mokėsi, tikėtina, Vilniuje pas jėzuitus.
 
 ## Teiginiai
 

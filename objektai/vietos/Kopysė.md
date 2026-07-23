@@ -36,7 +36,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 ## Teiginiai
 
 <a id="claim-t-38491"></a>
-- t-002
+- t-001
   teiginys: "Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     - c-40294
 
 <a id="claim-t-193769"></a>
-- t-003
+- t-002
   teiginys: "Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176424
-- susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
+
 ## Citatos
 
 - id: c-40294
@@ -82,7 +82,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176424
   sudarytojas: "Karolis Zikaras"
@@ -112,4 +112,4 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -47,7 +47,7 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "„primus inter pares“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "„primus inter pares“: mention_match, phrase, gap=0"
+  ryšio_targeto_parinkimas: "primus inter pares: mention_match, thing, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„primus inter pares“\" parinktas kaip owner_note_path. Targetas \"primus inter pares\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m."

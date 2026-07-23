@@ -73,7 +73,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys, pagrįstas pateiktu sąrašu."
   pagrindžia:
     - c-76281
-- susijęs iš [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas.md#claim-t-40860|Aukščiausiosios Tarybos gynybos štabas (institucija)]]: 1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas.
+
 ## Citatos
 
 - id: c-42307

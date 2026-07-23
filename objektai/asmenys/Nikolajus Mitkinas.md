@@ -55,7 +55,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   temporalinis_llm_pakomentavimas: "Pradinis teiginys neatitiko citatos, bet citata palaiko kitą faktą apie Mitkiną."
   pagrindžia:
     - c-26065
-- susijęs iš [[objektai/posakiai/„Lietuvą padaryti internacionalinę“.md#claim-t-25373|„Lietuvą padaryti internacionalinę“]]: Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.
+
 ## Citatos
 
 - id: c-26065

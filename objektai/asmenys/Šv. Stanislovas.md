@@ -54,7 +54,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-65191
 
 <a id="claim-t-64438"></a>
-- t-003
+- t-002
   teiginys: "Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-166973
 
 <a id="claim-t-183579"></a>
-- t-004
+- t-003
   teiginys: "XVI a. pradžioje šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Stanislovo kultą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-166972
 
 <a id="claim-t-183580"></a>
-- t-005
+- t-004
   teiginys: "1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-166973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -163,5 +163,5 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004

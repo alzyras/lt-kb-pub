@@ -65,7 +65,7 @@ media_all_json: |-
   semantiniai_rysiai: "Šidiškis puolė Lenkai (0.72)"
   pagrindžia:
     - c-167159
-- susijęs iš [[objektai/asmenys/Cipkevičius.md#claim-t-39718|Cipkevičius]]: 1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais.
+
 ## Citatos
 
 - id: c-41633

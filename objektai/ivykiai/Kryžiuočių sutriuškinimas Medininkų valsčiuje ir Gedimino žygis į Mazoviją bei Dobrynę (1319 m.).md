@@ -88,7 +88,7 @@ Nenurodyta
     - c-168960
 
 <a id="claim-t-196188"></a>
-- t-004
+- t-003
   teiginys: "Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir siuntė būrius naikinti prinokusių javų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-168959
 
 <a id="claim-t-196189"></a>
-- t-005
+- t-004
   teiginys: "Medininkų tankmėje kryžiuočiai su Prūsijos maršalu Henriku fon Plocke buvo sunaikinti arba pateko į lietuvių nelaisvę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-168960
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -168,4 +168,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004

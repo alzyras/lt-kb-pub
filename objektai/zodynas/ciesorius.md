@@ -44,23 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38725
-- susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
-- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
-- susijęs iš [[objektai/asmenys/Mikalojus Sapienskis.md#claim-t-35230|Mikalojus Sapienskis]]: Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176873|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172097|Husitai]]: Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172100|Husitai]]: Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
-- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.
-- susijęs iš Vienos universiteto profesorių nuomonė dėl Vytauto karūnacijos: Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.
-- susijęs iš Breslavas: 1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.
-- susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
-- susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
-- susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
-- susijęs iš Vokietija: Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.
-- susijęs iš [[objektai/zodynas/investitūra.md#claim-t-36783|investitūra]]: Buvo teigiama, kad ir nekarūnuotas ciesorius turi teisę teikti karališkąsias investitūras.
-- susijęs iš [[objektai/zodynas/lėnininkai.md#claim-t-36808|lėnininkai]]: Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
+
 ## Citatos
 
 - id: c-38725

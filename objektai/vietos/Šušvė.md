@@ -44,15 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34118
-- susijęs iš Josvainiai: Šušvė įteka į Nevėžį ties Josvainiais.
-- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.
-- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.
-- susijęs iš Dubysa: Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
-- susijęs iš Minija: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
-- susijęs iš Venta: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
-- susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
-- susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
+
 ## Citatos
 
 - id: c-34118

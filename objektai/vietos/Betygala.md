@@ -43,7 +43,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 ## Teiginiai
 
 <a id="claim-t-179756"></a>
-- t-005
+- t-001
   teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Betygaloje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163415
 
 <a id="claim-t-179758"></a>
-- t-004
+- t-002
   teiginys: "Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163416
 
 <a id="claim-t-179759"></a>
-- t-008
+- t-003
   teiginys: "1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163416
 
 <a id="claim-t-179760"></a>
-- t-009
+- t-004
   teiginys: "Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-163415
 
 <a id="claim-t-179762"></a>
-- t-006
+- t-005
   teiginys: "1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     - c-43341
 
 <a id="claim-t-188676"></a>
-- t-001
+- t-006
   teiginys: "Narbutas Betygalos pavadinimą kildino iš keliautojų dainos žodžių „Bet ir galas, bet yra galas“, esą išreiškusių kelionės pabaigos džiaugsmą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -145,33 +145,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-171565
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
-- susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Dubysos upė: Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala.
-- susijęs iš Graužai-Lenčiai: 1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
-- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Raseinių apskritis: 1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.
-- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Šilainiai: 1945 m. vasario 15 d. prie Šilainių miško Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams, žuvo 6 stribai.
-- susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
-- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Dubysa: Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.
-- susijęs iš Nemunaitis: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
-- susijęs iš Nemunas: Nemunas prasideda Rusios valdose, prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.
-- susijęs iš Nemunas: Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno.
-- susijęs iš Trakų apskritis: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje, Trakų apskrityje.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192208|Galintuvojt ir galinduoti]]: Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192209|Galintuvojt ir galinduoti]]: Narbutas siūlo galindų pavadinimo kilmę grįsti žodžiu „galinduoti“, reiškiančiu elgtis kaip galindas.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192211|Galintuvojt ir galinduoti]]: Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192212|Galintuvojt ir galinduoti]]: Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192208|Galintuvojt ir galinduoti]]: Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192209|Galintuvojt ir galinduoti]]: Narbutas siūlo galindų pavadinimo kilmę grįsti žodžiu „galinduoti“, reiškiančiu elgtis kaip galindas.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192211|Galintuvojt ir galinduoti]]: Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio.
-- susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192212|Galintuvojt ir galinduoti]]: Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti.
+
 ## Citatos
 
 - id: c-43341
@@ -190,7 +164,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-163415
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -216,8 +190,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-009
+    - t-001
+    - t-004
 
 - id: c-163416
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -239,8 +213,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-008
+    - t-002
+    - t-003
 
 - id: c-163418
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -283,4 +257,4 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006

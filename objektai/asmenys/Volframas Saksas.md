@@ -52,8 +52,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60854
-- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183986|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
-- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62681|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
@@ -68,11 +67,10 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 
     234 (227).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60854
@@ -110,6 +108,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   citata_rodoma: "Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo\nsusigėdęs atstojo ir nebedrįso daugiau rodytis.\n\n234 (227)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

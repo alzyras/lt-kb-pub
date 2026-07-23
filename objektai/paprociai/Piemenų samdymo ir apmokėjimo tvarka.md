@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195364"></a>
-- t-003
+- t-001
   teiginys: "Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-177777
 
 <a id="claim-t-195365"></a>
-- t-001
+- t-002
   teiginys: "Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-177778
 
 <a id="claim-t-195366"></a>
-- t-002
+- t-003
   teiginys: "Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177778
   autorius: "M. Katkus"
@@ -136,7 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177779
   autorius: "M. Katkus"
@@ -158,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

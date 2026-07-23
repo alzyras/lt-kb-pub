@@ -54,7 +54,7 @@ Nieborowski, P.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33093
-- susijęs iš [[objektai/autoriai/Nieborowski, P.md#claim-t-30873|Nieborowski, P]]: P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.
+
 ## Citatos
 
 - id: c-33093

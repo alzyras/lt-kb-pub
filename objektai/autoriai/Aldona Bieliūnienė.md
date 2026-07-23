@@ -40,7 +40,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 ## Teiginiai
 
 <a id="claim-t-64534"></a>
-- t-002
+- t-001
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     - c-166731
 
 <a id="claim-t-183340"></a>
-- t-003
+- t-002
   teiginys: "Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,12 +80,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Bieliūnienės sudarytojos vaidmenį."
   pagrindžia:
     - c-166730
-- susijęs iš Lietuva žemėlapiuose = Lithuania on the map: „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
-- susijęs iš Lietuva žemėlapiuose = Lithuania on the map: Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje išleistą parodos katalogą „Lietuva žemėlapiuose = Lithuania on the map“.
-- susijęs iš Lietuva žemėlapiuose = Lithuania on the map: „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
-- susijęs iš Lietuvos Didžiosios Kunigaikštystės Knyga: „Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.
-- susijęs iš Lietuvos Didžiosios Kunigaikštystės Knyga: „Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.
-- susijęs iš Lietuvos bažnyčių menas = The Art of Lithuanian Churches: Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.
+
 ## Citatos
 
 - id: c-65249
@@ -103,7 +98,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166730
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -119,7 +114,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -136,4 +131,4 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

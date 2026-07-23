@@ -60,7 +60,7 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174168
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
+
 ## Citatos
 
 - id: c-174168

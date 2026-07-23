@@ -48,8 +48,7 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172166
-- susijęs iš [[objektai/paprociai/Austėjos šaukimasis viliojant bičių spiečių.md#claim-t-188140|Austėjos šaukimasis viliojant bičių spiečių]]: Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188230|Latviai]]: Narbutas rašė, kad latviai turėjo bičių dievybę, vadinamą Uhsinsz arba Szwets uhsinsz.
+
 ## Citatos
 
 - id: c-172166

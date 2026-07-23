@@ -11,14 +11,14 @@ datos:
   - '2005 m.'
 date_start: '1387'
 date_end: '2005'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - suvažiavimas
   - ivykis
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75249"></a>
-- t-003
+- t-001
   teiginys: "Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-73097
 
 <a id="claim-t-75250"></a>
-- t-001
+- t-002
   teiginys: "Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-23136
 
 <a id="claim-t-75251"></a>
-- t-002
+- t-003
   teiginys: "Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -147,15 +147,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184053
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176731|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113838|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113848|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
-- susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-183303|Vytauto ir Julijonos karūnos]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
-- susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19613|Vytauto ir Julijonos karūnos]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
-- susijęs iš [[objektai/daiktai/Vytauto ir Julijonos karūnos.md#claim-t-19614|Vytauto ir Julijonos karūnos]]: Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.
-- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla.md#claim-t-20568|Vytauto karūnacijos byla]]: Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.
-- susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87149|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: Lucko suvažiavimas buvo sušauktas tartis dėl sąjungos prieš turkus, bet svarstymai nutrūko iškilus Vytauto karūnos klausimui.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
@@ -182,7 +174,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-23136
@@ -212,8 +203,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
 
 - id: c-73097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -241,7 +232,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176087
   autorius: "Albertas Vijūkas-Kojelavičius"

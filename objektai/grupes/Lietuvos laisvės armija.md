@@ -58,7 +58,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - c-22620
 
 <a id="claim-t-78377"></a>
-- t-004
+- t-002
   teiginys: "Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - c-75661
 
 <a id="claim-t-78378"></a>
-- t-002
+- t-003
   teiginys: "1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22621
-- susijęs iš Vilnius: Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.
+
 ## Citatos
 
 - id: c-22620
@@ -140,7 +140,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-75661
   sudarytojas: "Karolis Zikaras"
@@ -158,4 +158,4 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

@@ -8,13 +8,13 @@ datos:
   - '1839 m.'
 date_start: '1839'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - papuošalas
   - daiktas
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192059"></a>
-- t-002
+- t-001
   teiginys: "1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-170993
 
 <a id="claim-t-192060"></a>
-- t-003
+- t-002
   teiginys: "Istorikas 1839 m. gavo Rusijos imperatoriaus dovanotą briliantinį žiedą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-170993
 
 <a id="claim-t-192061"></a>
-- t-004
+- t-003
   teiginys: "Narbutas 1839 m. gavo Jo Didenybės Imperatoriaus dovanotą briliantinį žiedą, galėjusį atgaivinti viltį išleisti rusiškąjį variantą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -125,11 +125,10 @@ Nenurodyta
     nės T. Narbuto korespondencijos, istorikas daugelį metų
     ieškojo galimybės išspausdinti šio tomo vertimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170993
@@ -150,8 +149,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-174930
   autorius: "Teodoras Narbutas"
@@ -191,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

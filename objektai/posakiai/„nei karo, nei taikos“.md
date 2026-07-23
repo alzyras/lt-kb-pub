@@ -53,9 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Patikslinta įvykių seka ir pašalinta neaiški skyryba."
   pagrindžia:
     - c-23648
-- susijęs iš Lenkija: 1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.
-- susijęs iš Vidurinė Lietuva: 1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.
-- susijęs iš Vidurinė Lietuva: 1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos.
+
 ## Citatos
 
 - id: c-23648

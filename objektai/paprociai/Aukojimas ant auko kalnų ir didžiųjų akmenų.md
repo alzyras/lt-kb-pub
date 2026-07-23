@@ -46,16 +46,13 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07767"></a>
-- t-002
+- t-001
   teiginys: "Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09923
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -76,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

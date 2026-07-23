@@ -57,8 +57,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   pagrindžia:
     - c-44459
     - c-167142
-- susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
-- susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
+
 ## Citatos
 
 - id: c-44459

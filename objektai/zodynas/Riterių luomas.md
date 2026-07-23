@@ -88,10 +88,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78590
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
+
 ## Citatos
 
 - id: c-55818

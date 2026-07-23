@@ -60,7 +60,7 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174283
-- susijęs iš [[objektai/asmenys/Malabatas.md#claim-t-191293|Malabatas]]: Pasak Teodoro Narbuto, Malabatas tapo imperijos piliečiu ir netrukus iš imperatoriaus gavo Romos konsulo titulą.
+
 ## Citatos
 
 - id: c-174283

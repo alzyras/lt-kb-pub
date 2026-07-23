@@ -99,6 +99,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
     (^37) **Plačiai apie ji parašė Aug.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182858"></a>
-- t-021
+- t-001
   teiginys: "Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-166261
 
 <a id="claim-t-183690"></a>
-- t-022
+- t-002
   teiginys: "Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-42571
 
 <a id="claim-t-183691"></a>
-- t-023
+- t-003
   teiginys: "Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-002
 
 - id: c-166261
   autorius: "Zenonas Ivinskis"
@@ -157,7 +157,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-001
 
 - id: c-167081
   sudarytojas: "Karolis Zikaras"
@@ -180,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-003

@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Bravarninkas
 sukurta: '2026-07-12'
 variantai:
-  - 'bravarninkas'
+  - bravarninkas
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -61,7 +61,7 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178018
-- susijęs iš [[objektai/zodynas/Magaryčios.md#claim-t-195617|Magaryčios]]: Magaryčios šiame šaltinyje geriamos kaip atskiras gėrimo veiksmas.
+
 ## Citatos
 
 - id: c-178018

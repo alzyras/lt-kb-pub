@@ -30,7 +30,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Teiginiai
 
 <a id="claim-t-65311"></a>
-- t-002
+- t-001
   teiginys: "Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     - c-65731
 
 <a id="claim-t-193540"></a>
-- t-003
+- t-002
   teiginys: "Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -57,14 +57,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-176220
-- susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-183174|Pionierių organizacijos]]: Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.
-- susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-19963|Pionierių organizacijos]]: Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.
-- susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78007|Vincas Kudirka]]: 1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
-- susijęs iš [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai.md#claim-t-19547|Lenino kampeliai ir sienlaikraščiai]]: Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą.
-- susijęs iš [[objektai/grupes/MOPR.md#claim-t-19938|MOPR]]: MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.
-- susijęs iš [[objektai/grupes/Pionierių organizacijos.md#claim-t-19962|Pionierių organizacijos]]: Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą.
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117388|Žydai]]: Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.
-- susijęs iš Tautiška giesmė: 1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“.
+
 ## Citatos
 
 - id: c-65731
@@ -86,7 +79,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -104,4 +97,4 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

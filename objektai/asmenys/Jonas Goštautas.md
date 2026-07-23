@@ -55,7 +55,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-169342
 
 <a id="claim-t-193497"></a>
-- t-004
+- t-003
   teiginys: "Jono Goštauto vedama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-169342
 
 <a id="claim-t-193926"></a>
-- t-006
+- t-004
   teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176551
 
 <a id="claim-t-193927"></a>
-- t-007
+- t-005
   teiginys: "Lietuvos metraštis Joną Goštautą mini kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba skubiai pasiuntė su kariuomene."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176552
 
 <a id="claim-t-193929"></a>
-- t-009
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, sutelkęs Lietuvos pajėgas, skubiai pasiuntė savo globėją Joną Goštautą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176554
 
 <a id="claim-t-196832"></a>
-- t-010
+- t-007
   teiginys: "Lietuvos metraštis Joną Goštautą nurodo kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba pasiuntė su kariuomene."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
     - c-176552
 
 <a id="claim-t-196833"></a>
-- t-011
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras sutelkė Lietuvos pajėgas ir skubiai pasiuntė savo globėją Joną Goštautą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -130,10 +130,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176554
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui.'
@@ -226,7 +223,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169341
@@ -281,7 +277,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003
 
 - id: c-176551
   autorius: "Anoniminis metraštininkas"
@@ -314,7 +310,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-176552
   autorius: "Anoniminis metraštininkas"
@@ -347,8 +343,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-007
-    - t-010
 
 - id: c-176554
   autorius: "Anoniminis metraštininkas"
@@ -371,5 +367,5 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-011
+    - t-006
+    - t-008

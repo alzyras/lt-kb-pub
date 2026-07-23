@@ -35,7 +35,7 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 ## Teiginiai
 
 <a id="claim-t-191807"></a>
-- t-002
+- t-001
   teiginys: "Teodoras Narbutas Radlofo veikalą siejo su planetų ar Žemės palydovų žuvimo aiškinimu ir rekomendavo jį skaitytojams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,4 +96,4 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

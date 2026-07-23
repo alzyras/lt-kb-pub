@@ -51,7 +51,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     - c-03981
 
 <a id="claim-t-05942"></a>
-- t-003
+- t-002
   teiginys: "H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     - c-03984
 
 <a id="claim-t-05943"></a>
-- t-002
+- t-003
   teiginys: "H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,10 +84,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-03982
-- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05588|apostazija]]: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.
-- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05589|apostazija]]: Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.
-- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05591|apostazija]]: Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.
-- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-97278|apostazija]]: J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.
+
 ## Citatos
 
 - id: c-03980
@@ -144,7 +141,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-03984
   autorius: "Zenonas Ivinskis"
@@ -165,4 +162,4 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

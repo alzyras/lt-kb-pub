@@ -7,15 +7,15 @@ datos:
   - '1971 m.'
 date_start: '1971'
 date_end: ''
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,15 +56,7 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   temporalinis_llm_pakomentavimas: "Citata pakankamai pagrindžia redakcinės komisijos narystę."
   pagrindžia:
     - c-169787
-- susijęs iš [[objektai/autoriai/K. Ambrasas.md#claim-t-186434|K. Ambrasas]]: K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/J. Pauonis.md#claim-t-186435|J. Pauonis]]: J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186444|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186445|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/K. Korsakas.md#claim-t-186447|K. Korsakas]]: K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas.
-- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186449|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186450|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Rimantas Jasas.md#claim-t-186453|Rimantas Jasas]]: Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.
-- susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -75,11 +67,10 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
     *
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169787

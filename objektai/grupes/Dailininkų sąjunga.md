@@ -49,6 +49,7 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
   citata_rodoma: "prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“. Nuo rašytojų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

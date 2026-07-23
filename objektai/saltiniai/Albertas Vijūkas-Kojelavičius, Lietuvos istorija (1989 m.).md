@@ -12,13 +12,13 @@ datos:
   - '1989 m.'
 date_start: '1650'
 date_end: '1989'
-amziai:
-  - 'XVII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 ## Teiginiai
 
 <a id="claim-t-184453"></a>
-- t-007
+- t-001
   teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -76,7 +76,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     - c-167807
 
 <a id="claim-t-184454"></a>
-- t-003
+- t-002
   teiginys: "Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -93,7 +93,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     - c-167804
 
 <a id="claim-t-184455"></a>
-- t-002
+- t-003
   teiginys: "1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -135,7 +135,6 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-167804
@@ -158,7 +157,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167806
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -191,7 +190,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-167807
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -211,4 +210,4 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001

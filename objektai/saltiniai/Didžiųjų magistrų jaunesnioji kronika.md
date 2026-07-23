@@ -55,7 +55,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - c-61583
 
 <a id="claim-t-60951"></a>
-- t-003
+- t-002
   teiginys: "Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - c-61584
 
 <a id="claim-t-60952"></a>
-- t-002
+- t-003
   teiginys: "Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -130,5 +130,5 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003

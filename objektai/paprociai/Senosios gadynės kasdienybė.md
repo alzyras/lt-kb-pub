@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195611"></a>
-- t-002
+- t-001
   teiginys: "Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo."
   atnaujinta: "2026-07-12 08:10"
   sprendimo_priezastis: "gap::customs"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-178014
 
 <a id="claim-t-195612"></a>
-- t-001
+- t-002
   teiginys: "Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose."
   atnaujinta: "2026-07-12 08:10"
   sprendimo_priezastis: "gap::customs"
@@ -111,5 +111,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

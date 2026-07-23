@@ -83,10 +83,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168014
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
-- susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
-- susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185331|žygūnas]]: Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.
-- susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.'
@@ -131,7 +128,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-59565

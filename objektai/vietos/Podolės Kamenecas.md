@@ -8,15 +8,15 @@ datos:
   - '1971 m.'
 date_start: '1062'
 date_end: '1971'
-amziai:
-  - 'XI'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - sostinė
   - miestas
+amziai:
+  - 'XI'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 ## Teiginiai
 
 <a id="claim-t-187289"></a>
-- t-002
+- t-001
   teiginys: "Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -61,7 +61,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - c-170333
 
 <a id="claim-t-187290"></a>
-- t-004
+- t-002
   teiginys: "XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -103,7 +103,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - c-170333
 
 <a id="claim-t-187292"></a>
-- t-001
+- t-004
   teiginys: "1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -143,7 +143,6 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170333
@@ -162,8 +161,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004
     - t-003
 
 - id: c-170334
@@ -182,4 +181,4 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004

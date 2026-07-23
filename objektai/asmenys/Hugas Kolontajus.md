@@ -45,6 +45,7 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
   citata_rodoma: "tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -62,8 +62,7 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177095
-- susijęs iš [[objektai/asmenys/Boguslavas Bousevičius.md#claim-t-190136|Boguslavas Bousevičius]]: Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis.
-- susijęs iš Bouso kapinės: Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino vado Bouso kapinėmis (Kapinies Wade Boussa).
+
 ## Citatos
 
 - id: c-172971

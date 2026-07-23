@@ -75,8 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-42562
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54986|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.
-- susijęs iš [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią.md#claim-t-87303|Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]: Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.
+
 ## Citatos
 
 - id: c-42562

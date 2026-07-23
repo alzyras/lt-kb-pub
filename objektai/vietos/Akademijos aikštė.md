@@ -36,7 +36,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 ## Teiginiai
 
 <a id="claim-t-85874"></a>
-- t-002
+- t-001
   teiginys: "Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     - c-81856
 
 <a id="claim-t-85875"></a>
-- t-001
+- t-002
   teiginys: "Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +66,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81857
-- susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
-- susijęs iš [[objektai/daiktai/Akademijos aikštės medinis šulinys.md#claim-t-54479|Akademijos aikštės medinis šulinys]]: Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.
-- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
-- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
-- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.
-- susijęs iš Bernardinų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje.
-- susijęs iš Vyskupų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir Collegio užrašė du mūrinius namus Vyskupų gatvėje.
-- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
-- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.
+
 ## Citatos
 
 - id: c-81856
@@ -100,7 +92,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-81857
   autorius: "Michał Baliński"
@@ -135,4 +127,4 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

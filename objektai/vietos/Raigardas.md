@@ -62,20 +62,7 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175621
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190991|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-190777|Petras Dusburgietis]]: Teodoro Narbuto pasakojime Petras Dusburgietis minėjo Sūduvos valsčių Kirsowia, arba Kirsnavą, tarp Olecko ir Raigardo.
-- susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-190966|Romuntas]]: Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190991|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais.
-- susijęs iš [[objektai/autoriai/Heningas Henning.md#claim-t-191596|Heningas Henning]]: Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko.
-- susijęs iš Lietuvos kronika: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, priklausomu nuo Lietuvos didžiojo kunigaikščio ir mokėjusiu duoklę.
-- susijęs iš Insterburgas: Narbutas rašo, kad Strijkovskis prie Raigardo ir Insterburgo Prūsijoje pastebėdavo galimų išvestų jotvingių palikuonių.
-- susijęs iš Prūsija: Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
+
 ## Citatos
 
 - id: c-168660

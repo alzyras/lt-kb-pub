@@ -13,14 +13,14 @@ datos:
   - '1312 m.'
 date_start: '1104'
 date_end: '1312'
-amziai:
-  - 'XII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 ## Teiginiai
 
 <a id="claim-t-72078"></a>
-- t-006
+- t-001
   teiginys: "Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-70502
 
 <a id="claim-t-72080"></a>
-- t-001
+- t-003
   teiginys: "Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-70505
 
 <a id="claim-t-72081"></a>
-- t-003
+- t-004
   teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-70504
 
 <a id="claim-t-72082"></a>
-- t-004
+- t-005
   teiginys: "Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-70506
 
 <a id="claim-t-196893"></a>
-- t-007
+- t-006
   teiginys: "Kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -138,47 +138,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-70502
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60142|Henrikas Valpotas]]: Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
-- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
-- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nors
-    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
-    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
-    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
-    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
-    Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
-    Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
-    magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
-    Radolfas, Tiberiados valdovas,  ir jo brolis valdovas Hugonas,  ir Reinoldas, Sidono
-    valdovas, ir valdovas Eimaras iš Cezarėjos, ir valdovas Jonas iš Hibelino, ir daugybė kitų
-    iš Jeruzalės karalystės  ir  iš Vokietijos: Mainco arkivyskupas Konradas, Viurcburgo
-    vyskupas bei Romos imperijos kancleris Konradas, Pasau vyskupas Volfgeris, Halberštato
-    vyskupas Gardolfas ir Ceico vyskupas, Švabijos kunigaikštis Fridrichas, Henrikas, [Pfalco
-    prie] Reino pfalcgrafas  ir Braunšveigo kunigaikštis, Austrijos kunigaikštis Fridrichas,
-    Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei, Saksonijos
-    hercogas ir Tiuringijos landgrafas grafas Hermanas, Brandenburgo markgrafas Albertas
-    ir imperijos maršalas Henrikas iš Kalendino, Landsbergo markgrafas Konradas, Meiseno
-    markgrafas Ditrichas, kai šie ir kiti grafai bei didikai ir daugelis jų kariuomenėje buvusių
-    kilmingųjų iš visos širdies džiaugėsi, matydami, kad ką tik įsteigta ligoninė neilgai trukus
-    ima nešti šiokios tokios naudos, teikiančios garbės bei šlovės, be to, tvirtai tikėjo, kad,
-    viešpačiui dievui laiminant šį daigelį, jis sušakosiąs ir ateityje duosiąs gausybę vaisių,
-    štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas,
-    Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą
-    Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
-    popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -205,7 +164,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-70502
   autorius: "Petras Dusburgietis"
@@ -243,7 +202,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-007
+    - t-006
 
 - id: c-70504
   autorius: "Petras Dusburgietis"
@@ -269,7 +228,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-70505
   redaktorius: "A. Šapoka"
@@ -290,7 +249,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-70506
   autorius: "Petras Dusburgietis"
@@ -311,4 +270,4 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005

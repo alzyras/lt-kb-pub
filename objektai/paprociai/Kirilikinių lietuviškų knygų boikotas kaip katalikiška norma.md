@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54249"></a>
-- t-002
+- t-001
   teiginys: "Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-55147
 
 <a id="claim-t-54250"></a>
-- t-001
+- t-002
   teiginys: "Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -122,8 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-166703
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

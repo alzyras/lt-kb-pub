@@ -29,7 +29,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 ## Teiginiai
 
 <a id="claim-t-189993"></a>
-- t-002
+- t-001
   teiginys: "Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-172876
 
 <a id="claim-t-189994"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-172877
 
 <a id="claim-t-189996"></a>
-- t-005
+- t-003
   teiginys: "Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-172879
 
 <a id="claim-t-189998"></a>
-- t-006
+- t-004
   teiginys: "Narbutas, remdamasis Stenderiu, rašo, kad Latvijoje dar girdėti apie žynius, kurie buria, gydo ir patarinėja kerėjimo formulėmis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-172881
 
 <a id="claim-t-197396"></a>
-- t-008
+- t-005
   teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
     - c-179165
 
 <a id="claim-t-197397"></a>
-- t-009
+- t-006
   teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-172877
   autorius: "Teodoras Narbutas"
@@ -218,7 +218,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-172878
   autorius: "Teodoras Narbutas"
@@ -260,7 +260,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-172881
   autorius: "Teodoras Narbutas"
@@ -279,7 +279,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-179165
   autorius: "Teodoras Narbutas"
@@ -299,7 +299,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-179166
   autorius: "Teodoras Narbutas"
@@ -322,4 +322,4 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006

@@ -38,7 +38,7 @@ Aleksandravičius E., Kulakauskas A.
 ## Teiginiai
 
 <a id="claim-t-45593"></a>
-- t-003
+- t-001
   teiginys: "E. Aleksandravičius ir A. Kulakauskas 1996 m. Vilniuje išleido veikalą „Carų valdžioje. Lietuva XIX amžiuje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,5 +89,5 @@ Aleksandravičius E., Kulakauskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

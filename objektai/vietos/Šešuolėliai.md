@@ -44,7 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45461
-- susijęs iš Puoriai: 7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.
+
 ## Citatos
 
 - id: c-45461

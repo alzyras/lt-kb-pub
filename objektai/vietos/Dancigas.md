@@ -12,14 +12,14 @@ datos:
   - '1936 m.'
 date_start: '1325'
 date_end: '1936'
-amziai:
-  - 'XIV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XIV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,7 +62,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Teiginiai
 
 <a id="claim-t-182720"></a>
-- t-061
+- t-001
   teiginys: "Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166136
 
 <a id="claim-t-183004"></a>
-- t-007
+- t-002
   teiginys: "Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166398
 
 <a id="claim-t-183006"></a>
-- t-008
+- t-003
   teiginys: "Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-166399
 
 <a id="claim-t-193176"></a>
-- t-062
+- t-004
   teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-13408
 
 <a id="claim-t-201589"></a>
-- t-063
+- t-005
   teiginys: "Tas vandens kelias jungė Kauną ir Dancigą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-184936
 
 <a id="claim-t-201590"></a>
-- t-064
+- t-006
   teiginys: "Be to, jiems buvo paranku laisvai prekiauti Vokiečių ordino valstybėje, galėjo užmegzti tiesioginius prekybos ryšius ne tik su Dancigo pirkliais, bet ir kitais jų prekių pirkėjais ar šių tiekėjais Ordino valstybėje bei į Dancigą atplaukiančiais Vakarų Europos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-184937
 
 <a id="claim-t-201591"></a>
-- t-065
+- t-007
   teiginys: "Kartu pažymėtina, kad Kauno ir Dancigo santykiuose matyti ne tik nuolatiniai ginčai dėl svečių prekybos, bet ir bendradarbiavimas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-184938
 
 <a id="claim-t-201592"></a>
-- t-066
+- t-008
   teiginys: "Šioje prekyboje aktyvūs buvo ir Lietuvos pirkliai, be pačių kauniečių, vilniečiai, trakiečiai, ir Hanzos miestų Dancigo, Tomo, Karaliaučiaus pirkliai, taip pat prekiaujantis Vokiečių ordinas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -176,50 +176,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184939
-- susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179519|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.
-- susijęs iš [[objektai/autoriai/Thunert, E.md#claim-t-31016|Thunert, E]]: E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.
-- susijęs iš [[objektai/autoriai/W. Ziesemer.md#claim-t-31075|W. Ziesemer]]: W. Ziesemeris buvo Karaliaučiaus ir Dancigo archyvų žinovas, ypač atsidėjęs Vokiečių ordino istorijos šaltinių tyrimui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178979|Kryžiuočių ordinas]]: Vokiečių ordinas darė didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbiausi keliai į Vakarų Europą ir Dancigą.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182837|Vokiečių ordinas]]: Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.
-- susijęs iš Karinė sutartis su Prūsija (1790 m.): Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.
-- susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
-- susijęs iš Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer Beziehung nebst Special-Geographie: L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m.
-- susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
-- susijęs iš Karaliaučius: Kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams.
-- susijęs iš Karaliaučius: Vytauto laikais atgijus prekybai Nemunu, užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.
-- susijęs iš Karaliaučius: Vytauto laikais kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams.
-- susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176352|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką.
-- susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
-- susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-184378|Vladislovas Lokietka]]: Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
-- susijęs iš [[objektai/autoriai/E. Thunert.md#claim-t-30599|E. Thunert]]: E. Thunert 1886 m. paskelbė darbą apie 1410 m. Lenkijos ir Vokiečių ordino karą iki 1411 m. vasario.
-- susijęs iš [[objektai/autoriai/O. Urbonas.md#claim-t-30887|O. Urbonas]]: O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.
-- susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
-- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
-- susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100022|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
-- susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100024|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: 1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.
-- susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.
-- susijęs iš Karinė sutartis su Prūsija (1790 m.): 1790 m. seimas sudarė karinę sutartį su Prūsija, tačiau Prūsija atsisakė padėti karaliui.
-- susijęs iš O. Urbonas, 1410 metų karas su kryžiuočiais ir Žalgirio mūšis: O. Urbono „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“ išleido „Kario“ leidykla Brukline.
-- susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
-- susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
-- susijęs iš Gdanskas: Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko.
-- susijęs iš Karaliaučius: Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams.
-- susijęs iš Klaipėdos kraštas: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai.
-- susijęs iš Krokuva: Vytauto laikų Lietuvai netoli buvo prekybos centrai, tarp jų Ryga, Dancigas ir Krokuva.
-- susijęs iš Marijenburgas: Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.
-- susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
-- susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-183442|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis jų siekė „laisvojo miesto“ statuso.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
-- susijęs iš Karaliaučius: Vytauto laikais atgijus prekybai Nemunu, užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.
-- susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
+
 ## Citatos
 
 - id: c-13408
@@ -237,7 +194,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-004
 
 - id: c-166136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -260,7 +217,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
+    - t-001
 
 - id: c-166398
   redaktorius: "A. Šapoka"
@@ -279,7 +236,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-166399
   redaktorius: "A. Šapoka"
@@ -299,7 +256,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-184936
   autorius: "Zigmantas Kiaupa"
@@ -315,7 +272,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-005
 
 - id: c-184937
   autorius: "Zigmantas Kiaupa"
@@ -335,7 +292,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-006
 
 - id: c-184938
   autorius: "Zigmantas Kiaupa"
@@ -353,7 +310,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-007
 
 - id: c-184939
   autorius: "Zigmantas Kiaupa"
@@ -372,7 +329,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-008
 
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Lietuva]]

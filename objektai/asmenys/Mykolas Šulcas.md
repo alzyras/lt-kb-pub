@@ -31,7 +31,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 ## Teiginiai
 
 <a id="claim-t-190055"></a>
-- t-002
+- t-001
   teiginys: "Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
     - c-172938
 
 <a id="claim-t-197430"></a>
-- t-003
+- t-002
   teiginys: "Mykolas Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
     - c-172937
 
 <a id="claim-t-200766"></a>
-- t-004
+- t-003
   teiginys: "Mykolas Šulcas po Gucevičiaus mirties užbaigė Katedrą ir prie fasado pridėjo statulas, kurių nebuvo Gucevičiaus projekte."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184111
-- susijęs iš [[objektai/asmenys/Laurynas Stoka-Gucevičius.md#claim-t-200858|Laurynas Stoka-Gucevičius]]: Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po architekto mirties pridėjo Mykolas Šulcas.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas.'
@@ -103,7 +103,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172937
@@ -124,7 +123,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-172938
   autorius: "Teodoras Narbutas"
@@ -146,7 +145,7 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184111
   autorius: "Mikalojus Vorobjovas"
@@ -166,4 +165,4 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

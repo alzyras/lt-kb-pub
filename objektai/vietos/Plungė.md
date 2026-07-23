@@ -51,6 +51,3 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš Alytus: Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.

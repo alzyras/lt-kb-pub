@@ -93,7 +93,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pirminis teiginys labiau apibūdina Kalašnikovo konstrukciją apskritai, o citata aiškiai pagrindžia faktą apie AKM."
   pagrindžia:
     - c-75895
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-74.md#claim-t-40770|Sovietų automatinis šautuvas AK-74]]: 1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.
+
 ## Citatos
 
 - id: c-75895

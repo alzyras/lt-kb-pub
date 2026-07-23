@@ -10,14 +10,14 @@ datos:
   - '1971 m.'
 date_start: '1438'
 date_end: '1971'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,7 +102,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169966

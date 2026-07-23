@@ -56,7 +56,7 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     - c-174578
 
 <a id="claim-t-191923"></a>
-- t-004
+- t-002
   teiginys: "1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -165,4 +165,4 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

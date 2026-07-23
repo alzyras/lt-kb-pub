@@ -47,7 +47,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 ## Teiginiai
 
 <a id="claim-t-192276"></a>
-- t-010
+- t-001
   teiginys: "Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -65,7 +65,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     - c-175101
 
 <a id="claim-t-192277"></a>
-- t-004
+- t-002
   teiginys: "Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,9 +83,9 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     - c-175100
 
 <a id="claim-t-192278"></a>
-- t-001
+- t-003
   teiginys: "Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Rusinai: 0.85"
@@ -98,10 +98,11 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
+    - c-175101
     - c-175102
 
 <a id="claim-t-192279"></a>
-- t-008
+- t-004
   teiginys: "Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -119,7 +120,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     - c-175101
 
 <a id="claim-t-192281"></a>
-- t-002
+- t-005
   teiginys: "Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany."
   atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -137,7 +138,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     - c-175102
 
 <a id="claim-t-192282"></a>
-- t-009
+- t-006
   teiginys: "Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -153,11 +154,39 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175101
-- susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190902|Karolis Kozakovskis]]: Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, po kuriuo rasta didelė pelenų ir apdegusių daiktų liekanų pilna duobė.
-- susijęs iš [[objektai/ivykiai/Antakriaunio pilkapio atkasimas 1826 m.md#claim-t-191029|Antakriaunio pilkapio atkasimas 1826 m]]: 1826 m. Antakriaunio dvare tiesiant naują kelią buvo atkastas senovinis pilkapis su skeletu ir variniais papuošalais.
-- susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192489|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: Ukmergės pilkapį, ilgai užlietą greta esančio ežero, 1838 m. atkasė Karolis Kozakovskis.
-- susijęs iš Ukmergės apskritis: Ukmergės pilkapį 1838 m. atkasė Karolis Kozakovskis, o kasinėjimai parodė po juo buvusią pelenų ir apdegusių daiktų duobę.
+
 ## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Apskri­
+    tai panašūs radiniai priklauso prie retenybių.
+    Pavyko surinkti šiuos tenykščių kaimo gyventojų iš­
+    saugotus vietos padavimus ir pasakojimus:
+    a) Pilkapiai visuomet buvo laikomi kapais.
+    b) Jie priklauso neatmenamos senovės epochai.
+    c) Tai paminklai kažkokios tautos, gyvenusios šioje
+    žemėje iki slavų ir su jais kariavusios, arba tos, kurią
+    slavai pavergė ginklu,
+    d) Rogačiovas, esąs trikampyje, kurį skalauja Dnep-
+    ras ir Drutė, ant kalvos, laikomas seniausiu šio krašto
+    miestu ir visų pripažįstamas šios buvusios pilkapių ka­
+    sėjų genties sostine.
+    e) Vis dėlto pilkapius visuomet gaubė dabartinės mū­
+    sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
+    nelaiko jų savo tautos protėvių kapais, tačiau iš pagar­
+    bos po jais besiilsinčios genties žmonių palaikams nieka­
+    da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
+    o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
+    laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+    - t-001
+
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -174,11 +203,11 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     Pilkapiai — žemės kalvos, supiltos žmonių rankomis,
     rusinu vadinami kurhany.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192281
+  statusas: verified
+- t-005
 
 ## Citatos
 
@@ -203,7 +232,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-175101
   autorius: "Teodoras Narbutas"
@@ -233,9 +262,10 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-008
-    - t-009
+    - t-001
+    - t-003
+    - t-004
+    - t-006
 
 - id: c-175102
   autorius: "Teodoras Narbutas"
@@ -251,5 +281,5 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-003
+    - t-005

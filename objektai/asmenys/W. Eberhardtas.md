@@ -54,7 +54,7 @@ Eberhardtu.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44577
-- susijęs iš [[objektai/asmenys/R. fon der Goltzas.md#claim-t-40401|R. fon der Goltzas]]: 1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas.
+
 ## Citatos
 
 - id: c-44577

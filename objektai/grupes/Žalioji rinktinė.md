@@ -36,7 +36,7 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Teiginiai
 
 <a id="claim-t-41218"></a>
-- t-002
+- t-001
   teiginys: "1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     - c-44885
 
 <a id="claim-t-41219"></a>
-- t-001
+- t-002
   teiginys: "Žalioji rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Šarūno ir Kunigaikščio Margio rinktinėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44885
   sudarytojas: "Karolis Zikaras"
@@ -113,4 +113,4 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

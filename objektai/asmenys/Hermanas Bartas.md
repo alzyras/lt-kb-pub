@@ -8,15 +8,15 @@ datos:
   - '1239 m.'
 date_start: '1210'
 date_end: '1239'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigūnas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,16 +65,18 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
        Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
     gegužės 20 dieną ir palaidotas Akone157.
 
+
+
+
                    5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
 
        Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
     o mirė liepos 24 dieną  ir palaidotas Barletoje158.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60957

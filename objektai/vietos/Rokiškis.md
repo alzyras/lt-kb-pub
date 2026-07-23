@@ -53,11 +53,7 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Rokiškį kaip Lietuvos pajėgų puolimo krypties galinį punktą."
   pagrindžia:
     - c-45307
-- susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-17466|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.
-- susijęs iš [[objektai/asmenys/Bronislovas Komorovskis.md#claim-t-183527|Bronislovas Komorovskis]]: Bronislovo Komorovskio tėvo šaknys siejamos su Lietuva ir dvaru Rokiškio apskrityje.
-- susijęs iš Rokiškio apskritis: Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.
-- susijęs iš Rokiškio apskritis: Lenkijos prezidento Bronislovo Komorovskio tėvo šaknys siejamos su dvaru Rokiškio apskrityje.
-- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202413|Jonas Leonas Oziębłowskis]]: 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo.
+
 ## Citatos
 
 - id: c-45307

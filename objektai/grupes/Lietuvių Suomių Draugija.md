@@ -30,7 +30,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 ## Teiginiai
 
 <a id="claim-t-72515"></a>
-- t-003
+- t-001
   teiginys: "Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
     - c-70941
 
 <a id="claim-t-72517"></a>
-- t-001
+- t-003
   teiginys: "Suomijoje veikė Lietuvių Suomių Draugija."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-70941
   redaktorius: "A. Šapoka"
@@ -135,4 +135,4 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

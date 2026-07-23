@@ -136,26 +136,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78401
-- susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
-- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89404|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
-- susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189781|Kepurės padėjimas teismo priesaikoje]]: Narbutas aprašė, kad išteisinimo priesaikoje kaltinamasis tardavo priesaikos žodžius ir į kepurę dėdavo piniginį užstatą.
-- susijęs iš [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka.md#claim-t-87172|Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]: Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon.
-- susijęs iš [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka.md#claim-t-87242|Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]: Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.
-- susijęs iš [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus.md#claim-t-86853|aš tą užstatytą arklį paėmiau už savo pinigus]]: Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
-- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59896|Mstivojus]]: Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90035|Sventopelkas]]: Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką.
-- susijęs iš [[objektai/asmenys/Vimaras [Gneomiras].md#claim-t-60465|Vimaras [Gneomiras]]]: Sventopelkas turėjo įkaitais broliams atsiųsti Mstivojų, burggrafą Vimarą ir kariuomenės vadą Vojaką.
-- susijęs iš [[objektai/asmenys/Vojakas [Vojachas].md#claim-t-60467|Vojakas [Vojachas]]]: Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
-- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89405|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų.
-- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89406|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Pasak Kojelavičiaus, Konradas Celneris parėmė Vytauto sumanymus ir su džiaugsmu nutarė pasinaudoti proga pradėti karą.
-- susijęs iš [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka.md#claim-t-87293|Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]: Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.
-- susijęs iš [[objektai/posakiai/metus ir dieną.md#claim-t-86864|metus ir dieną]]: Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.
-- susijęs iš Žemaičių žemė: Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.
-- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
+
 ## Citatos
 
 - id: c-55717

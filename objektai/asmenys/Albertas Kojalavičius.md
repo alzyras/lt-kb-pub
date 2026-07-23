@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (1609- 1677) jėzuitu tapo 1627 m., matyt, tėvams dar esant gyviems, jo jaunesnieji broliai jau buvę našlaičiai: 1634 m. Kazimieras (1617-1674), 1637 m. Petras (1620-1654). Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a.
+Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (1609- 1677) jėzuitu tapo 1627 m., matyt, tėvams dar esant gyviems, jo jaunesnieji broliai jau buvę našlaičiai: 1634 m. Kazimieras (1617-1674), 1637 m. Petras (1620-1654). Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a. Albertas Kojalavičius, vyresnysis brolis, savo reikalams buvo gavęs 467 auksinus.
 
 ## Teiginiai
 

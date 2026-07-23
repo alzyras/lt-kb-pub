@@ -7,15 +7,15 @@ datos:
   - '1241 m.'
 date_start: '1241'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 ## Teiginiai
 
 <a id="claim-t-60113"></a>
-- t-002
+- t-001
   teiginys: "Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     - c-60745
 
 <a id="claim-t-60114"></a>
-- t-001
+- t-002
   teiginys: "Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -86,10 +86,27 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
     Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
     parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Grįždamas po to namo, jis atsisakė jam į žmonas
+    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
+    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
+    dievui bei jam įstotų į šį ordiną. Paklausę jo prašymų, jie visi sutiko. Tuo metu, kai šitai
+    dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
+    traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
+    dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -107,7 +124,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-60746
   autorius: "Petras Dusburgietis"
@@ -128,5 +145,5 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003

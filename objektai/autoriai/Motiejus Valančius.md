@@ -11,14 +11,14 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'V'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
   - vyskupas
+amziai:
+  - 'V'
 periodo_grupes: []
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE'
@@ -64,7 +64,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 ## Teiginiai
 
 <a id="claim-t-00056"></a>
-- t-012
+- t-001
   teiginys: "Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163236
 
 <a id="claim-t-00058"></a>
-- t-013
+- t-002
   teiginys: "Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163235
 
 <a id="claim-t-00059"></a>
-- t-014
+- t-003
   teiginys: "Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163237
 
 <a id="claim-t-00060"></a>
-- t-015
+- t-004
   teiginys: "Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163231
 
 <a id="claim-t-00061"></a>
-- t-016
+- t-005
   teiginys: "Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163233
 
 <a id="claim-t-179551"></a>
-- t-010
+- t-006
   teiginys: "Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163227
 
 <a id="claim-t-179553"></a>
-- t-009
+- t-007
   teiginys: "Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163227
 
 <a id="claim-t-179554"></a>
-- t-011
+- t-008
   teiginys: "Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163229
 
 <a id="claim-t-179555"></a>
-- t-001
+- t-009
   teiginys: "Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     - c-163234
 
 <a id="claim-t-201497"></a>
-- t-017
+- t-010
   teiginys: "Chicago, 1983; Valančius Motiejus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -216,48 +216,56 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184844
-- susijęs iš [[objektai/asmenys/Beresnevičius (vyskupas, XIX a.).md#claim-t-200912|Beresnevičius (vyskupas, XIX a.)]]: Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties.
-- susijęs iš [[objektai/asmenys/Motiejus Valančius.md#claim-t-200891|Motiejus Valančius (vyskupas, XIX a.)]]: 1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105710|Simonas Daukantas]]: Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
-- susijęs iš [[objektai/autoriai/J. Eretas.md#claim-t-30667|J. Eretas]]: J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.
-- susijęs iš [[objektai/autoriai/L. Kuodys.md#claim-t-96056|L. Kuodys]]: L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.
-- susijęs iš [[objektai/autoriai/Vysk. Valančius.md#claim-t-96060|Vysk. Valančius]]: Vyskupas Valančius parašė „Vaikų knygelę“, kuri išleista su K. Šimonio iliustracijomis ir spalvotu viršeliu.
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-183334|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas.
-- susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75404|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Vyskupas Motiejus Valančius savo pirmąjį inauguracinį pamokslą sakė ir lietuviškai, ir lenkiškai.
-- susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75405|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Per Motiejaus Valančiaus inauguracinį pamokslą lietuvių žemaičių kalba katedroje iš vyskupo lūpų skambėjo bene pirmą kartą.
-- susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75406|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas.
-- susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75407|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Vyskupas Motiejus Valančius pirmąjį inauguracinį pamokslą sakė lietuviškai ir lenkiškai.
-- susijęs iš [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md#claim-t-75408|Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]: Motiejus Valančius rūpinosi, kad kunigai mokėtų lietuviškai, sakytų lietuviškus pamokslus ir prie bažnyčių steigtų lietuviškas mokyklas.
-- susijęs iš Valančius M. Raštai. T. 1: M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.
-- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105707|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105714|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
-- susijęs iš [[objektai/autoriai/J. Gasiūnas.md#claim-t-30670|J. Gasiūnas]]: J. Gasiūnas rengė spaudai veikalą „Vysk. K. Paltaroko gyvenimas“.
-- susijęs iš [[objektai/autoriai/L. Vladimirovas.md#claim-t-30785|L. Vladimirovas]]: L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.
-- susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179537|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.
-- susijęs iš [[objektai/autoriai/S. Daukantas.md#claim-t-45651|S. Daukantas]]: S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
-- susijęs iš [[objektai/grupes/Blaivybės brolijos.md#claim-t-19661|Blaivybės brolijos]]: Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.
-- susijęs iš [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia.md#claim-t-25044|Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]: M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.
-- susijęs iš [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas.md#claim-t-54252|Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]: Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.
-- susijęs iš [[objektai/paprociai/Lenkiškos kalbos vartojimas bažnyčiose ir parapijose.md#claim-t-200909|Lenkiškos kalbos vartojimas bažnyčiose ir parapijose]]: Basanavičius rašė, kad 1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystės bažnyčiose rado vyraujančią lenkų kalbą.
-- susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-183320|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai.
-- susijęs iš [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai.md#claim-t-54276|Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]: Telšių vyskupijos bažnytinės mokyklos nukonkuravo valdiškas mokyklas, kuriose mokyta rusų kalba.
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75389|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.
-- susijęs iš [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos.md#claim-t-54361|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]: Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais: „Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais“ paskelbta BBK 2 tome 1962 m.
-- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Vilniaus albumas: Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.
-- susijęs iš Žemaičių vyskupystės istorija: Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
-- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Žemaičių vyskupystė: Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.
-- susijęs iš [[objektai/zodynas/Pridėtinė dievmaldystė.md#claim-t-200902|Pridėtinė dievmaldystė]]: M. Valančius Kauno vyskupystėje stengėsi įvesti lietuvių kalbą pridėtinėje dievmaldystėje, nors kai kur lenkų kalba išsilaikė iki 1865 m.
-- susijęs iš [[objektai/zodynas/daraktorinės mokyklėlės.md#claim-t-77792|daraktorinės mokyklėlės]]: Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.
-- susijęs iš [[objektai/zodynas/tautinis atgimimas.md#claim-t-05466|tautinis atgimimas]]: Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu.
-- susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.
-- susijęs iš [[objektai/zodynas/šiuolaikinė tautos (nacijos) samprata.md#claim-t-22349|šiuolaikinė tautos (nacijos) samprata]]: Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.
-- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195373|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką.
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai išryškės
+    po 1863 m., kai vyskupo slapta paraginta liaudis nepasiduos caro val-
+    džios vilionėms ir iš esmės sužlugdys rusinimo politikos užmačias. O
+    vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
+    visomis prasmėmis artimu ir neginčijamu autoritetu. Tad nebūdamas
+    politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-163227
@@ -285,8 +293,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-009
+    - t-006
+    - t-007
 
 - id: c-163228
   autorius: "Zenonas Ivinskis"
@@ -327,7 +335,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 - id: c-163230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -377,7 +385,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-004
 
 - id: c-163233
   redaktorius: "A. Šapoka"
@@ -400,7 +408,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-005
 
 - id: c-163234
   autorius: "Zenonas Ivinskis"
@@ -421,7 +429,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-009
 
 - id: c-163235
   redaktorius: "A. Šapoka"
@@ -445,7 +453,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-002
 
 - id: c-163236
   redaktorius: "A. Šapoka"
@@ -464,7 +472,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-163237
   redaktorius: "A. Šapoka"
@@ -485,7 +493,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-003
 
 - id: c-184844
   autorius: "Zigmantas Kiaupa"
@@ -501,4 +509,4 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010

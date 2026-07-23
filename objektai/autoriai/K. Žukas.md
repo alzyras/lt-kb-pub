@@ -53,8 +53,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33002
-- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
-- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
+
 ## Citatos
 
 - id: c-33002

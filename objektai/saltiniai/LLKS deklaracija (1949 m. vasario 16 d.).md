@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1929'
 date_end: '2026'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
+amziai:
+  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-108555"></a>
-- t-010
+- t-001
   teiginys: "Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -72,7 +72,7 @@ media_all_json: |-
     - c-100711
 
 <a id="claim-t-108556"></a>
-- t-008
+- t-002
   teiginys: "Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -90,7 +90,7 @@ media_all_json: |-
     - c-100708
 
 <a id="claim-t-108558"></a>
-- t-005
+- t-003
   teiginys: "1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -109,7 +109,7 @@ media_all_json: |-
     - c-100708
 
 <a id="claim-t-183703"></a>
-- t-011
+- t-004
   teiginys: "1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-100708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -205,8 +205,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-100711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -231,4 +231,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001

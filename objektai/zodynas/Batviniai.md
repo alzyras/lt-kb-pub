@@ -39,7 +39,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 ## Teiginiai
 
 <a id="claim-t-69980"></a>
-- t-003
+- t-001
   teiginys: "`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -40,7 +40,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     - c-166425
 
 <a id="claim-t-193193"></a>
-- t-003
+- t-002
   teiginys: "Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -50,11 +50,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175937
-- susijęs iš Perekopas: Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92025|Auksinė Orda]]: Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.
-- susijęs iš Perekopas: Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.
-- susijęs iš Vilnius: Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.
-- susijęs iš Vilnius: Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.
+
 ## Citatos
 
 - id: c-67885
@@ -113,4 +109,4 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

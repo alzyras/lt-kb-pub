@@ -33,7 +33,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 <a id="claim-t-86758"></a>
-- t-002
+- t-001
   teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-82738
 
 <a id="claim-t-86759"></a>
-- t-001
+- t-002
   teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-167900
 
 <a id="claim-t-196096"></a>
-- t-007
+- t-006
   teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-167898
 
 <a id="claim-t-196097"></a>
-- t-008
+- t-007
   teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - c-178527
 
 <a id="claim-t-196098"></a>
-- t-009
+- t-008
   teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-167901
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
+
 ## Citatos
 
 - id: c-82737
@@ -185,7 +185,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-82738
   autorius: "Michał Baliński"
@@ -209,7 +209,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167898
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -241,7 +241,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-007
+    - t-006
 
 - id: c-167899
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -336,7 +336,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-178527
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -362,7 +362,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

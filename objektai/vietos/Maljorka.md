@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
     - c-59336
 
 <a id="claim-t-194539"></a>
-- t-003
+- t-002
   teiginys: "Apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -66,16 +66,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59336
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
-- susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
+
 ## Citatos
 
 - id: c-59336
@@ -99,7 +90,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Užėmė Maljorką: [[objektai/grupes/Saracėnai]]

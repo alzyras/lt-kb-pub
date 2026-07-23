@@ -56,9 +56,7 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166828
-- susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-183442|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis jų siekė „laisvojo miesto“ statuso.
-- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
+
 ## Citatos
 
 - id: c-24677

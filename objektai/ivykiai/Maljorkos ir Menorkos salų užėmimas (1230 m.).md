@@ -73,7 +73,7 @@ Nenurodyta
     - c-62985
 
 <a id="claim-t-194404"></a>
-- t-003
+- t-002
   teiginys: "Apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -107,4 +107,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

@@ -11,14 +11,14 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
+amziai:
+  - 'XV'
 periodo_grupes: []
 media_total_count: '23'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Facial_Chronicle_-_b.13%2C_p._288_-_Murder_of_Sigismund_Kestutaitis.gif'
@@ -45,7 +45,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114103"></a>
 - t-001
   teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Trakai: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +67,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114105"></a>
 - t-002
   teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -109,7 +109,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180488
 
 <a id="claim-t-184915"></a>
-- t-015
+- t-004
   teiginys: "Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-178831
 
 <a id="claim-t-184916"></a>
-- t-016
+- t-005
   teiginys: "Žygimantas Kęstutaitis beveik be kovos perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168277
 
 <a id="claim-t-184918"></a>
-- t-018
+- t-006
   teiginys: "Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168279
 
 <a id="claim-t-184919"></a>
-- t-019
+- t-007
   teiginys: "Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168276
 
 <a id="claim-t-194024"></a>
-- t-021
+- t-008
   teiginys: "Tuo metu kunigaikščio Žygimanto sūnus buvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy gimantas klausė mišių pilies miegamajame."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180487
 
 <a id="claim-t-194729"></a>
-- t-022
+- t-009
   teiginys: "Žygimantas Kęstutaitis remiasi į nulaužtą medžio kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, laiko kažką panašaus į pasagą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -215,7 +215,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180490
 
 <a id="claim-t-196671"></a>
-- t-023
+- t-010
   teiginys: "Kaip žinoma, šių unijos sąlygų įgyvendinimas pri vedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos ir Žygimanto Kęstutaičio."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -228,7 +228,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-178831
 
 <a id="claim-t-196672"></a>
-- t-024
+- t-011
   teiginys: "Štai todėl išsiuntė karaliaus bei valstybės vardu žygūnus ir paragino Žygimantą griebtis ginklo prieš Boleslovą."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -241,7 +241,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168276
 
 <a id="claim-t-196674"></a>
-- t-026
+- t-012
   teiginys: "Sąmokslininkai nedrįso laužtis pro rūmų vartus, kad Žygimantas Kęstutaitis, išgirdęs triukšmą, nepasislėptų."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -254,7 +254,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168281
 
 <a id="claim-t-198503"></a>
-- t-004
+- t-013
   teiginys: "Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -273,7 +273,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180493
 
 <a id="claim-t-198508"></a>
-- t-005
+- t-014
   teiginys: "1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -295,7 +295,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180493
 
 <a id="claim-t-198511"></a>
-- t-009
+- t-015
   teiginys: "Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -306,7 +306,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180489
 
 <a id="claim-t-198514"></a>
-- t-006
+- t-016
   teiginys: "Lenkai paragino Žygimantą Kęstutaitį griebtis ginklo prieš Boleslovą ir pažadėjo jam pagalbą bei Lietuvos Didžiąją Kunigaikštystę už pergalę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -319,7 +319,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-168279
 
 <a id="claim-t-198515"></a>
-- t-007
+- t-017
   teiginys: "Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -331,7 +331,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180492
 
 <a id="claim-t-198520"></a>
-- t-011
+- t-018
   teiginys: "1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -346,7 +346,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180483
 
 <a id="claim-t-198523"></a>
-- t-008
+- t-019
   teiginys: "1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -360,7 +360,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180492
 
 <a id="claim-t-198525"></a>
-- t-010
+- t-020
   teiginys: "Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -384,7 +384,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180479
 
 <a id="claim-t-198526"></a>
-- t-012
+- t-021
   teiginys: "Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -395,7 +395,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-180489
 
 <a id="claim-t-201567"></a>
-- t-027
+- t-022
   teiginys: "1432 m. Žygimanto Kęstutaičio, 1440 ir 1463 m. Kazimiero Jogailaičio privilegijose nurodoma, kad miestiečiai privalo paklusti tarėjų ir vaito teismams, kad taryba ir vaitas turi teisti pagal Magdeburgo teisės knygas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -407,7 +407,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-184914
 
 <a id="claim-t-201568"></a>
-- t-028
+- t-023
   teiginys: "Kai 1432 m. Žygimantas Kęstutaitis atleido Vilniaus miestiečius nuo muitų, tarp vietų, kuriose iš vilniečių neturi būti imamas muitas, buvo įvardytas ir Kaunas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -419,7 +419,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-184915
 
 <a id="claim-t-201569"></a>
-- t-029
+- t-024
   teiginys: "Vytauto pavyzdžiu sekė Švitrigaila ir Žygimantas Kęstutaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -431,7 +431,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-184916
 
 <a id="claim-t-201570"></a>
-- t-030
+- t-025
   teiginys: "Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras prašė Vokiečių ordino magistrą Paulių von Russdorfą nepraleisti druskos į Lietuvą, 1451 m. Kazimieras Jogailaitis grasino nutraukti druskos įvežimą iš Dancigo, 1492 m. Hanzos kontora."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -443,7 +443,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-184917
 
 <a id="claim-t-201571"></a>
-- t-031
+- t-026
   teiginys: "Štai 1432 m. Žygimantas Kęstutaitis atleido Vilniaus pirklius nuo muitų visoje valstybėje, taip pat ir Kaune."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -453,15 +453,167 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184918
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186737|Švitrigailos užpuolimas Ašmenoje]]: Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.
-- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.).md#claim-t-185845|Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]: Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.
-- susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185549|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66815|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186740|Švitrigailos užpuolimas Ašmenoje]]: 1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.
-- susijęs iš Trakai: Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Trakai: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Vilnius: Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Vilnius: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi lenkams labiausiai
+    rūpėjo neprarasti Podolės ir Volynės, kurių, kaip jie
+    matė, Boleslovas nieku būdu neketino užleisti, jie lyg
+    susitarę vienas per kitą ėmė įkalbinėti karalių iškelti
+    kaip Boleslovo varžovą Žygimantą, Vytauto brolį, Sta-
+    rodubo valdovą, ir suteikti jam Lietuvos didžiojo kuni-
+    4 40
+
+    gaikščio titulą. Jų raginamas Jogaila neilgai priešinosi,
+    nes ir jam Boleslovas buvo neapsakomai įkyrėjęs. Štai
+    todėl išsiuntė karaliaus bei valstybės vardu žygūnus
+    ir paragino Žygimantą griebtis ginklo prieš Boleslovą.
+    Lenkai pažadėjo jam teikti pagalbą, o vėliau atiduoti
+    nelyginant atlyginimą už pergalę Lietuvos Didžiąją
+    Kunigaikštystę. Žygimantas ir anksčiau jautė priešiš­
+    kumą Boleslovui, nes šis vei-
+    Išk e lia
+    Ž y g im a n tą
+    kiau per smurtą, o ne kara-
+    K e stu ta itį k a ip Š v it-
+    liaus bei luomų valia paėmė
+    rig a ilo s v a r ž o v ą
+    kunigaikštystėje valdžią, ku­
+    rią Vytautas tam tikra pras­
+    me paliko Kęstučio palikuonims, todėl godžiai stvėrėsi
+    pasitaikiusios progos išaukštinti savo giminę, kurios
+    ramsčiu ateityje būtų buvęs jo sūnus, šaunus jaunikaitis
+    ir tėvo žemių paveldėtojas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-021
+    - t-017
+    - t-023
+
+- c-005
+  santrauka: 'Žygimantas Kęstutaitis beveik be kovos perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat Boleslovas dėl tiesiog neįtikimo žiauru­
+    mo atstūmė beveik visus nuo savęs ir galop užsitraukė
+    ypatingą neapykantą tų, kurie, kilę iš seniausių lietu­
+    vių šeimų, negalėjo pakęsti, kad jis, pataikaudamas sa­
+    vo žmonai rusei, Tverės kunigaikščio dukteriai, skyrė
+    žymiausias pareigybes beveik vien maskvėnams bei
+    rusams. Kai Žygimantas, išvykęs iš Seversko, pasiekė
+    Lietuvą, neraginami suplaukė pas jį didikai bei bajo­
+    rai, iš kurių netrukus susidarė tikra kariuomenė. Žy­
+    gimantas nutarė, skubiai ir slaptai ištraukus į žygį,
+    užklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­
+    do laiką, čia jį suimti ir pasiųsti karaliui. Tačiau Tra­
+    kų vaivada Jonas Manvydas, gavęs iš vieno žmogaus
+    žinią apie Žygimanto ketini-
+    B o le slo v a s
+    B vitrig a i-
+    mus, įspėjo Boleslovą apie
+    la p a b ė g a iš L ietu-
+    gresiantį pavojų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-022
+
+- c-006
+  santrauka: 'Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Argi
+    sys rodė, jog jis sąžiningai laikysis duoto žodžio. Tuo
+    visi buvo įsitikinę. Priesaika patvirtinto susitarimo pag­
+    rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
+    senojo Lietuvos susitarimo su Lenkija, tai yra unijos;
+    Žygimantas niekad nesistengs be karaliaus ir karalystės
+    luomų žinios bei pritarimo gauti karaliaus titulo ir iš­
+    rūpinti sau karališkąsias insignijas; savo įpėdiniu jis
+    numatysiąs ir paskirsiąs ne ką kitą kaip karalių; jo sūnus
+    Mykolas, Trakų bei Starodubo kunigaikštis, privaląs
+    pasitenkinti šiomis žemėmis ir visada pripažinti kara­
+    liaus teises; Žygimantui mirus, Volynė turinti būti pri­
+    jungta prie Lenkijos karalystės; jeigu Mykolas mirtų
+    nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo
+    kunigaikštystę atiteksią karaliui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
+- c-009
+  santrauka: 'Tuo metu kunigaikščio Žygimanto sūnus buvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy gimantas klausė mišių pilies miegamajame.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
+    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
+    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0,
+    Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
+    žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
+    siuntiniais ponus Mykolą ir Joną Kęsgailas11.
+    O Žygimantas buvo suėmęs rusų kunigaikščius: ku­
+    nigaikštis Olelka buvo įkalintas Kernavėje, o jo kuni­
+    gaikštienė su dvejetu sūnų kunigaikščių — Semionu ir
+    Mykolu — Utenoje, o kunigaikštis Jurgis Lengvenai-
+    tis — Trakuose. Po Žygimanto mirties ponai juos ne­
+    trukus paleido, ir kunigaikštis Lengvenaitis išvyko į
+    Mstislavlį, o kunigaikštis Olelka su kunigaikštiene ir
+    su sūnumis į Kopylių, o visi Lietuvos didikai ir kuni­
+    gaikštis Jurgis Alšėniškis — į Brastą, paskui savo pa­
+    siuntinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Žygimantas Kęstutaitis remiasi į nulaužtą medžio kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, laiko kažką panašaus į pasagą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
+    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
+    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
+    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
+    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
+    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
+    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
+    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
+    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
+    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
+    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
+    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
+    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
+    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
+    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
+    Lithvani et Livonienses, veluti christiani Papae obediebant et
+    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
+    lum aut signum aliquod portabant ab eo missum, principes etiam
+    et communis populus multo honore colebant et omnia praecep­
+    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
+    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
+    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
+    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
+    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
+    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
+    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
+    sia pagarba ir griežtai vykdydavo visus jo nurodymus).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-105258
@@ -557,9 +709,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-019
-    - t-024
+    - t-004
+    - t-007
+    - t-011
 
 - id: c-168277
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -587,7 +739,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-005
 
 - id: c-168279
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -615,8 +767,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
     - t-006
+    - t-016
 
 - id: c-168280
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -650,7 +802,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-007
 
 - id: c-168281
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -671,7 +823,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-012
 
 - id: c-176649
   autorius: "Anoniminis metraštininkas"
@@ -696,7 +848,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-008
 
 - id: c-177125
   autorius: "Teodoras Narbutas"
@@ -742,8 +894,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-023
+    - t-004
+    - t-010
 
 - id: c-178833
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -820,7 +972,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-020
 
 - id: c-180480
   autorius: "Michał Baliński"
@@ -841,8 +993,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-013
+    - t-014
 
 - id: c-180481
   sudarytojas: "Karolis Zikaras"
@@ -885,7 +1037,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-018
 
 - id: c-180484
   autorius: "Michał Baliński"
@@ -908,8 +1060,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-017
+    - t-019
 
 - id: c-180487
   autorius: "Anoniminis metraštininkas"
@@ -932,7 +1084,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-008
 
 - id: c-180488
   sudarytojas: "Karolis Zikaras"
@@ -979,8 +1131,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-012
+    - t-015
+    - t-021
 
 - id: c-180490
   autorius: "Teodoras Narbutas"
@@ -1002,7 +1154,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-009
 
 - id: c-180491
   autorius: "Michał Baliński"
@@ -1023,7 +1175,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-017
 
 - id: c-180492
   autorius: "Michał Baliński"
@@ -1046,8 +1198,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-017
+    - t-019
 
 - id: c-180493
   autorius: "Michał Baliński"
@@ -1068,8 +1220,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-013
+    - t-014
 
 - id: c-184914
   autorius: "Zigmantas Kiaupa"
@@ -1085,7 +1237,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-022
 
 - id: c-184915
   autorius: "Zigmantas Kiaupa"
@@ -1102,7 +1254,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-023
 
 - id: c-184916
   autorius: "Zigmantas Kiaupa"
@@ -1122,7 +1274,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-024
 
 - id: c-184917
   autorius: "Zigmantas Kiaupa"
@@ -1139,7 +1291,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-025
 
 - id: c-184918
   autorius: "Zigmantas Kiaupa"
@@ -1156,7 +1308,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-026
 
 ## Ryšiai
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Trakai]]

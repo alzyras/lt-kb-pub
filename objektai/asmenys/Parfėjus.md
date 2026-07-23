@@ -45,9 +45,7 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83904
-- susijęs iš [[objektai/asmenys/Silvestras Levontjevičius.md#claim-t-87928|Silvestras Levontjevičius]]: Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo.
-- susijęs iš [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus.md#claim-t-87204|Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]: Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.
-- susijęs iš [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus.md#claim-t-87205|Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]: Pskovo pasiuntiniai Vilniuje mokėjo Vytautui sidabrą už belaisvių paleidimą, tačiau belaisviai paleisti tik pridėjus dar 250 rublių.
+
 ## Citatos
 
 - id: c-83904

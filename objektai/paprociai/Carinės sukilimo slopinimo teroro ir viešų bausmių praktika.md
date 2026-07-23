@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75351"></a>
-- t-003
+- t-001
   teiginys: "Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-73155
 
 <a id="claim-t-75352"></a>
-- t-006
+- t-002
   teiginys: "Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-73155
 
 <a id="claim-t-75353"></a>
-- t-004
+- t-003
   teiginys: "Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
     - c-73158
 
 <a id="claim-t-75354"></a>
-- t-001
+- t-004
   teiginys: "Prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir viešai pakartas Vilniuje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Nenurodyta
     - c-73156
 
 <a id="claim-t-75356"></a>
-- t-002
+- t-006
   teiginys: "1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -203,9 +203,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
     - t-001
+    - t-002
+    - t-004
 
 - id: c-73156
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -225,7 +225,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-002
+    - t-006
 
 - id: c-73158
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -243,7 +243,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-166695
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

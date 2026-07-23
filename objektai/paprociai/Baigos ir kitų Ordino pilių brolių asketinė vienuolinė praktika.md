@@ -98,7 +98,7 @@ Nenurodyta
     - c-85402
 
 <a id="claim-t-194438"></a>
-- t-005
+- t-004
   teiginys: "Apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-85402
   autorius: "Petras Dusburgietis"

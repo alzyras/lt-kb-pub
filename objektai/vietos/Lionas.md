@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 ## Teiginiai
 
 <a id="claim-t-58457"></a>
-- t-003
+- t-001
   teiginys: "Po popiežiaus Klemenso vainikavimo prie Liono esančioje Šv. Justo bažnyčioje griuvusi mūro siena nuslėgė daug žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
     - c-59090
 
 <a id="claim-t-58458"></a>
-- t-001
+- t-002
   teiginys: "1245 m. popiežius sušaukė Lione suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
     - c-59089
 
 <a id="claim-t-58459"></a>
-- t-002
+- t-003
   teiginys: "1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
     - c-59091
 
 <a id="claim-t-194538"></a>
-- t-005
+- t-004
   teiginys: "Apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,21 +94,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59089
-- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
-- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-183931|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.
-- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-62322|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.
-- susijęs iš [[objektai/ivykiai/Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.).md#claim-t-183939|Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)]]: 1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.
-- susijęs iš [[objektai/ivykiai/Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.).md#claim-t-62377|Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)]]: 1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.
-- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
-- susijęs iš [[objektai/asmenys/Aštikas.md#claim-t-87629|Aštikas]]: 1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.
-- susijęs iš [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas.md#claim-t-183994|Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]: 1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas.
-- susijęs iš [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas.md#claim-t-62178|Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]: 1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas.
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.
-- susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
-- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38708|bendrasis rezervas]]: Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
-- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
+
 ## Citatos
 
 - id: c-59089
@@ -130,8 +116,8 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-005
+    - t-002
+    - t-004
 
 - id: c-59090
   autorius: "Petras Dusburgietis"
@@ -152,7 +138,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-59091
   autorius: "Petras Dusburgietis"
@@ -171,4 +157,4 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

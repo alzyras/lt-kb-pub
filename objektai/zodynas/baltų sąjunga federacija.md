@@ -9,8 +9,6 @@ datos:
   - '1219 m.'
 date_start: '1205'
 date_end: '1219'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +16,8 @@ tags:
   - valstybė
   - politinis-terminas
   - istorinė-sąvoka
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -102,11 +102,10 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
       „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59525

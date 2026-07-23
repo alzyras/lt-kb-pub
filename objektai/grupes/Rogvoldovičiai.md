@@ -44,7 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82799
-- susijęs iš [[objektai/asmenys/Rostislavas Rogvoldovičius.md#claim-t-87572|Rostislavas Rogvoldovičius]]: 1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.
+
 ## Citatos
 
 - id: c-82799

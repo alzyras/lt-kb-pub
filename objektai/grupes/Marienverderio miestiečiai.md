@@ -79,11 +79,10 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-64124
@@ -172,6 +171,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   citata_rodoma: "Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti. Per vieną ir kitą antpuolį prūsai nepagarbiai\nelgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis\nšventenybėmis bei bažnytiniais sakramentais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,7 +55,7 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32766
-- susijęs iš Smolenskas: 1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis.
+
 ## Citatos
 
 - id: c-32766

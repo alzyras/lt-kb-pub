@@ -46,7 +46,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 ## Teiginiai
 
 <a id="claim-t-64799"></a>
-- t-010
+- t-001
   teiginys: "P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     - c-30804
 
 <a id="claim-t-64800"></a>
-- t-009
+- t-002
   teiginys: "P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     - c-30803
 
 <a id="claim-t-64801"></a>
-- t-006
+- t-003
   teiginys: "Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -98,14 +98,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13685
-- susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00063|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
-- susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-93052|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
-- susijęs iš [[objektai/autoriai/St. Matulis.md#claim-t-30997|St. Matulis]]: St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“.
-- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
-- susijęs iš [[objektai/autoriai/Šležas, P.md#claim-t-31095|Šležas, P]]: P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“.
-- susijęs iš P. Šležas Kauno pilies išgriovimas: P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.
-- susijęs iš P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos: P. Šležo „Vytauto D. kovos dėl Žemaičių ir Klaipėdos“ paskelbta 1932 m. leidinyje „NaR“, nr. 18, p. 409–412.
-- susijęs iš Šležas, P. (red.), Vytautas Didysis: P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.
+
 ## Citatos
 
 - id: c-13685
@@ -122,7 +115,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-30803
   autorius: "Zenonas Ivinskis"
@@ -149,7 +142,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-30804
   autorius: "Zenonas Ivinskis"
@@ -169,4 +162,4 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001

@@ -38,7 +38,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 ## Teiginiai
 
 <a id="claim-t-30830"></a>
-- t-002
+- t-001
   teiginys: "M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
     - c-33051
 
 <a id="claim-t-30831"></a>
-- t-001
+- t-002
   teiginys: "M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -84,8 +84,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-33052
   autorius: "Zenonas Ivinskis"
@@ -99,6 +99,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
   citata_rodoma: "— Gimbutienė (Gimbutas), M. : _A Survey of the\nBronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,\natsp. 45 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

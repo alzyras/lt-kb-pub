@@ -46,7 +46,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-73306
 
 <a id="claim-t-75569"></a>
-- t-003
+- t-002
   teiginys: "Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-73306
 
 <a id="claim-t-75570"></a>
-- t-002
+- t-003
   teiginys: "Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73306
-- susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67066|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje.
+
 ## Citatos
 
 - id: c-73306
@@ -106,5 +106,5 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-002
+    - t-003

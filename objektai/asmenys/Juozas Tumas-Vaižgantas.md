@@ -39,7 +39,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Teiginiai
 
 <a id="claim-t-63766"></a>
-- t-002
+- t-001
   teiginys: "Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     - c-64708
 
 <a id="claim-t-63767"></a>
-- t-001
+- t-002
   teiginys: "Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +65,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   temporalinis_llm_pakomentavimas: "Perrašyta lietuviškiau ir enciklopediškiau, išlaikant citatos prasmę."
   pagrindžia:
     - c-64708
-- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
-- susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
+
 ## Citatos
 
 - id: c-64708
@@ -89,8 +88,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-64709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -113,6 +112,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   citata_rodoma: "kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

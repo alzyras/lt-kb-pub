@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-001
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-157285
 
 <a id="claim-t-172914"></a>
-- t-018
+- t-002
   teiginys: "Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ media_all_json: |-
     - c-157281
 
 <a id="claim-t-172916"></a>
-- t-016
+- t-003
   teiginys: "Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-157275
 
 <a id="claim-t-172920"></a>
-- t-011
+- t-004
   teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ media_all_json: |-
     - c-157276
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-005
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ media_all_json: |-
     - c-157272
 
 <a id="claim-t-172927"></a>
-- t-002
+- t-006
   teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ media_all_json: |-
     - c-157279
 
 <a id="claim-t-172928"></a>
-- t-001
+- t-007
   teiginys: "Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ media_all_json: |-
     - c-157286
 
 <a id="claim-t-172930"></a>
-- t-010
+- t-008
   teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ media_all_json: |-
     - c-157273
 
 <a id="claim-t-172931"></a>
-- t-005
+- t-009
   teiginys: "Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ media_all_json: |-
     - c-157278
 
 <a id="claim-t-172932"></a>
-- t-003
+- t-010
   teiginys: "Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,7 +206,7 @@ media_all_json: |-
     - c-157288
 
 <a id="claim-t-172933"></a>
-- t-004
+- t-011
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -223,7 +223,7 @@ media_all_json: |-
     - c-157287
 
 <a id="claim-t-172935"></a>
-- t-006
+- t-012
   teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -256,7 +256,7 @@ media_all_json: |-
     - c-157271
 
 <a id="claim-t-172937"></a>
-- t-012
+- t-014
   teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -272,7 +272,7 @@ media_all_json: |-
     - c-157274
 
 <a id="claim-t-172940"></a>
-- t-007
+- t-015
   teiginys: "Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -288,7 +288,7 @@ media_all_json: |-
     - c-157280
 
 <a id="claim-t-172941"></a>
-- t-015
+- t-016
   teiginys: "Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -304,7 +304,7 @@ media_all_json: |-
     - c-157277
 
 <a id="claim-t-172942"></a>
-- t-014
+- t-017
   teiginys: "Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -381,7 +381,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-157273
   autorius: "Michał Baliński"
@@ -419,7 +419,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-157274
   autorius: "Michał Baliński"
@@ -449,7 +449,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-014
 
 - id: c-157275
   autorius: "Michał Baliński"
@@ -482,7 +482,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-003
 
 - id: c-157276
   autorius: "Michał Baliński"
@@ -525,7 +525,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-157277
   autorius: "Michał Baliński"
@@ -576,7 +576,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-157278
   autorius: "Michał Baliński"
@@ -598,7 +598,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
 
 - id: c-157279
   autorius: "Michał Baliński"
@@ -617,7 +617,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-157280
   autorius: "Michał Baliński"
@@ -639,7 +639,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-015
 
 - id: c-157281
   autorius: "Michał Baliński"
@@ -669,7 +669,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-002
 
 - id: c-157282
   autorius: "Michał Baliński"
@@ -693,7 +693,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-012
 
 - id: c-157284
   autorius: "Michał Baliński"
@@ -732,7 +732,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-017
 
 - id: c-157285
   autorius: "Michał Baliński"
@@ -761,7 +761,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-157286
   autorius: "Michał Baliński"
@@ -782,7 +782,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
 
 - id: c-157287
   autorius: "Michał Baliński"
@@ -840,7 +840,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-011
 
 - id: c-157288
   autorius: "Michał Baliński"
@@ -868,4 +868,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-010

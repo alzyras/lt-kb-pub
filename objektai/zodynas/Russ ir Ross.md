@@ -7,13 +7,13 @@ datos:
   - '1805 m.'
 date_start: '1805'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
 ## Teiginiai
 
 <a id="claim-t-192186"></a>
-- t-002
+- t-001
   teiginys: "Narbuto apžvalgoje Ross ar Russ aiškinamas kaip galimas tautos pavadinimas, asmenvardis arba perkeltinė „galvos“ reikšmė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,7 +69,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     - c-175057
 
 <a id="claim-t-192188"></a>
-- t-005
+- t-002
   teiginys: "Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -87,7 +87,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     - c-175058
 
 <a id="claim-t-192189"></a>
-- t-004
+- t-003
   teiginys: "Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -105,7 +105,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     - c-175055
 
 <a id="claim-t-192190"></a>
-- t-001
+- t-004
   teiginys: "Narbutas rašo, kad mokslininkai Šventajame Rašte pas pranašą Ezechielį aptinka žodį Ross ar Russ."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -123,7 +123,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     - c-175057
 
 <a id="claim-t-192191"></a>
-- t-003
+- t-005
   teiginys: "Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -160,8 +160,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175058
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -176,11 +175,12 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     man paaiškintų prasmę žodžio Russ, turėjusio iš pirmo
     žvilgsnio reikšti kaimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192191
+  statusas: verified
+- t-003
+
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -195,11 +195,11 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
     name Gtomna osada, pagrindine gyvenviete, o dainelėje
     reiškia Ojcow dziedzina, tėviškė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192192
+  statusas: verified
+- t-006
 
 ## Citatos
 
@@ -220,8 +220,8 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-003
+    - t-005
 
 - id: c-175057
   autorius: "Teodoras Narbutas"
@@ -243,8 +243,8 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-004
 
 - id: c-175058
   autorius: "Teodoras Narbutas"
@@ -264,5 +264,5 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
     - t-006

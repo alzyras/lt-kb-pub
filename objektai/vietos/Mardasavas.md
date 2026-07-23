@@ -53,8 +53,7 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Mardasavą."
   pagrindžia:
     - c-45201
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66781|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.
+
 ## Citatos
 
 - id: c-45201

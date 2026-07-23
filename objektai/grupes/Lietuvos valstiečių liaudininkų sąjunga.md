@@ -39,7 +39,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 ## Teiginiai
 
 <a id="claim-t-101466"></a>
-- t-002
+- t-001
   teiginys: "1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22644
 
 <a id="claim-t-101467"></a>
-- t-005
+- t-002
   teiginys: "Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-166553
 
 <a id="claim-t-101468"></a>
-- t-011
+- t-003
   teiginys: "Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22649
 
 <a id="claim-t-101469"></a>
-- t-001
+- t-004
   teiginys: "Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22643
 
 <a id="claim-t-101470"></a>
-- t-009
+- t-005
   teiginys: "Priėmus Lenkijos ultimatumą valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-166553
 
 <a id="claim-t-101471"></a>
-- t-004
+- t-006
   teiginys: "Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22646
 
 <a id="claim-t-101472"></a>
-- t-010
+- t-007
   teiginys: "Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22646
 
 <a id="claim-t-101473"></a>
-- t-007
+- t-008
   teiginys: "1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22649
 
 <a id="claim-t-101474"></a>
-- t-008
+- t-009
   teiginys: "Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-166553
 
 <a id="claim-t-101475"></a>
-- t-003
+- t-010
   teiginys: "Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -188,14 +188,15 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-22645
 
 <a id="claim-t-101476"></a>
-- t-006
+- t-011
   teiginys: "Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22645
     - c-22646
+    - c-166553
 
 <a id="claim-t-183166"></a>
 - t-012
@@ -211,12 +212,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   temporalinis_llm_pakomentavimas: "Reikia nurodyti metus ir suformuluoti glaustesnį enciklopedinį sakinį."
   pagrindžia:
     - c-166553
-- susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169731|Lietuvos socialdemokratų partija]]: 1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia.
-- susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169732|Lietuvos socialdemokratų partija]]: Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74191|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74193|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
-- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75287|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
-- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75288|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
+
 ## Citatos
 
 - id: c-22643
@@ -241,7 +237,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-22644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -262,7 +258,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-22645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -282,8 +278,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-010
+    - t-011
 
 - id: c-22646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -304,9 +300,9 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-010
     - t-006
+    - t-007
+    - t-011
 
 - id: c-22647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -366,8 +362,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-007
+    - t-003
+    - t-008
 
 - id: c-166553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -386,7 +382,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-005
     - t-009
-    - t-008
+    - t-011
     - t-012

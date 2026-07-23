@@ -54,8 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata aiškiai sieja valdovo sprendimą su Magdeburgo teise."
   pagrindžia:
     - c-82574
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
-- susijęs iš Krokuva: Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė.
+
 ## Citatos
 
 - id: c-82574

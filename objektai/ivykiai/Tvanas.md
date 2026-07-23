@@ -97,12 +97,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra sklandus, faktinis ir tiksliai paremtas citata."
   pagrindžia:
     - c-166669
-- susijęs iš [[objektai/asmenys/Jokimas Rozencveigas.md#claim-t-191283|Jokimas Rozencveigas]]: Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną.
-- susijęs iš [[objektai/autoriai/Puantine de Sivrej.md#claim-t-191684|Puantine de Sivrej]]: Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės rojų lokalizavo Ispanijoje prie Tago, netoli Sevilijos.
-- susijęs iš Rusija: 1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.
-- susijęs iš [[objektai/autoriai/Kur de Zebelen.md#claim-t-191679|Kur de Zebelen]]: Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo.
-- susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
+
 ## Citatos
 
 - id: c-166669

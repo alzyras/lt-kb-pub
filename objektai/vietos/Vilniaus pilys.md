@@ -45,7 +45,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-195167"></a>
-- t-010
+- t-001
   teiginys: "Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-177542
 
 <a id="claim-t-195168"></a>
-- t-018
+- t-002
   teiginys: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ media_all_json: |-
     - c-177542
 
 <a id="claim-t-195171"></a>
-- t-013
+- t-005
   teiginys: "Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ media_all_json: |-
     - c-177533
 
 <a id="claim-t-195172"></a>
-- t-014
+- t-006
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ media_all_json: |-
     - c-177541
 
 <a id="claim-t-195173"></a>
-- t-001
+- t-007
   teiginys: "Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ media_all_json: |-
     - c-177547
 
 <a id="claim-t-195174"></a>
-- t-005
+- t-008
   teiginys: "Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ media_all_json: |-
     - c-177537
 
 <a id="claim-t-195175"></a>
-- t-015
+- t-009
   teiginys: "Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ media_all_json: |-
     - c-177540
 
 <a id="claim-t-195176"></a>
-- t-019
+- t-010
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ media_all_json: |-
     - c-177545
 
 <a id="claim-t-195177"></a>
-- t-017
+- t-011
   teiginys: "1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ media_all_json: |-
     - c-177546
 
 <a id="claim-t-195178"></a>
-- t-016
+- t-012
   teiginys: "Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,7 +200,7 @@ media_all_json: |-
     - c-177537
 
 <a id="claim-t-195179"></a>
-- t-012
+- t-013
   teiginys: "Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,7 +215,7 @@ media_all_json: |-
     - c-177539
 
 <a id="claim-t-195180"></a>
-- t-011
+- t-014
   teiginys: "Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -227,7 +227,7 @@ media_all_json: |-
     - c-177544
 
 <a id="claim-t-195181"></a>
-- t-006
+- t-015
   teiginys: "Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -239,7 +239,7 @@ media_all_json: |-
     - c-177547
 
 <a id="claim-t-195182"></a>
-- t-008
+- t-016
   teiginys: "Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -251,7 +251,7 @@ media_all_json: |-
     - c-177534
 
 <a id="claim-t-195183"></a>
-- t-007
+- t-017
   teiginys: "Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -263,7 +263,7 @@ media_all_json: |-
     - c-177538
 
 <a id="claim-t-195184"></a>
-- t-002
+- t-018
   teiginys: "1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -276,11 +276,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177543
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176072|Vilniaus kapitula]]: Vilniaus kapitula gavo teisę imti kas dešimtą sugautą žuvį karaliaus tvenkiniuose Vilijos upėje.
-- susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. privilegija Vilniaus kapitulai leido imti kas dešimtą žuvį, sugautą karaliaus tvenkiniuose Vilijos upėje.
-- susijęs iš [[objektai/grupes/Europos kryžininkai.md#claim-t-86725|Europos kryžininkai]]: 1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178962|Kryžiuočių ordinas]]: Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą.
-- susijęs iš [[objektai/zodynas/kryžininkai.md#claim-t-113642|kryžininkai]]: Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.
+
 ## Citatos
 
 - id: c-177532
@@ -306,7 +302,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-002
 
 - id: c-177533
   autorius: "Michał Baliński"
@@ -328,7 +324,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-177534
   autorius: "Michał Baliński"
@@ -357,7 +353,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-016
 
 - id: c-177535
   autorius: "Michał Baliński"
@@ -442,8 +438,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-016
+    - t-008
+    - t-012
 
 - id: c-177538
   autorius: "Michał Baliński"
@@ -474,7 +470,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-017
 
 - id: c-177539
   autorius: "Michał Baliński"
@@ -502,7 +498,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-177540
   autorius: "Michał Baliński"
@@ -527,7 +523,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-009
 
 - id: c-177541
   autorius: "Michał Baliński"
@@ -551,7 +547,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-006
 
 - id: c-177542
   autorius: "Michał Baliński"
@@ -572,7 +568,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
     - t-004
 
 - id: c-177543
@@ -595,7 +591,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-018
 
 - id: c-177544
   autorius: "Michał Baliński"
@@ -632,7 +628,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-014
 
 - id: c-177545
   autorius: "Michał Baliński"
@@ -670,7 +666,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-010
 
 - id: c-177546
   autorius: "Michał Baliński"
@@ -699,7 +695,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011
 
 - id: c-177547
   autorius: "Michał Baliński"
@@ -728,8 +724,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
+    - t-007
+    - t-015
 
 - id: c-177548
   autorius: "Michał Baliński"
@@ -749,10 +745,7 @@ media_all_json: |-
   citata_rodoma: "Apie tai sužinojęs Vilniaus vysku­\npas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­\ntifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­\nlis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, \ntarė: „Tai ne tas kelias, Maloningasis Pone, kuriuo Tavo pro­\ntėviai ėjo Dievui garbės atiduoti, bet šitas! - ir parodė į ka­\ntedros bažnyčią pilyje. - Apleidi, Karaliau, motiną, kuri ta­\nve pagimdė ir į šias garbingas pareigas iškėlė, o išeini pas \npamotę!\" Šis drąsus vyskupo poelgis taip nustebino kara­\nlių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Ryšiai
-- Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Užėmė Vilniaus pilį: [[objektai/asmenys/Daugirdas]]

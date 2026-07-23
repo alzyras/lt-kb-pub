@@ -15,13 +15,13 @@ datos:
   - '2026 m.'
 date_start: '1368'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 ## Teiginiai
 
 <a id="claim-t-117482"></a>
-- t-011
+- t-001
   teiginys: "Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-108129
 
 <a id="claim-t-117483"></a>
-- t-007
+- t-002
   teiginys: "72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-11252
 
 <a id="claim-t-117484"></a>
-- t-006
+- t-003
   teiginys: "„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-43282
 
 <a id="claim-t-117485"></a>
-- t-012
+- t-004
   teiginys: "Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-108132
 
 <a id="claim-t-117486"></a>
-- t-013
+- t-005
   teiginys: "Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-37224
 
 <a id="claim-t-117488"></a>
-- t-010
+- t-006
   teiginys: "Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-108131
 
 <a id="claim-t-190825"></a>
-- t-014
+- t-007
   teiginys: "Lietuviškame „Lietuvos metraščio“ leidime, išleistame Vilniuje 1971 m., žodis 45 puslapyje pateiktas kaip Litusbania."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-173707
 
 <a id="claim-t-190826"></a>
-- t-015
+- t-008
   teiginys: "Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-173708
 
 <a id="claim-t-193752"></a>
-- t-016
+- t-009
   teiginys: "79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-176412
 
 <a id="claim-t-197351"></a>
-- t-017
+- t-010
   teiginys: "Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab meldystės filosofijai, galime daryti išvadą, kad lietuviai turė jo kančių įvaizdį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -229,41 +229,40 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   santrauka: 'Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
-    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
-    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
-    Raštai, p. 441—442).
+    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
+    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
+    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
+    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė į
+    kaimynų krikščionių žemes.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-007
   santrauka: 'Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Rankraš­
-    tinėje Lietuvos (Bychovco) kronikoje taip apie tai sakoma:
-    y
-    koli kotoroho kniazia Litovskoho abo pana sozženo tilo, tohdy
-    pry nich kladyvali, nohty rysij, abo medvežyi, dla toho iž viru
-    tuiu mili, iž sudny den mil byty, y tak snamenali sobi, ižby boh
-    milpryty y sedity nahory vysokoy, y sudyty žywych y mertvych, na
-    kotoruiuž horu tmdno budėt vzoyty, bez tych nohtey rysich, abo
-    medvežych, y dla toho tyle nohty podle nich kladyvali, na koto-
-    22 Lucas David. -  B. I. -  S. 21.
-    388
-
-    ## Puslapis 388
-
-    rych mili na tuiu horu lesty, y na sud do boha yty“ (Ir jeigu kurio
-    nors lietuvių kunigaikščio ar didiko kūną degindavo, tai priėjo
-    dėdavo lūšies ar lokio nagus.
+    Lieka tik
+    spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­
+    niuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­
+    rusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,
+    šiauriniame Paukščių tako gale; puotaudavo kartu su jais,
+    gerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,
+    jų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo
+    lenkų ir rusinu priespaudos. Vienas liaudies padavimas sa­
+    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
+    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-011
 
 ## Citatos
 
@@ -279,7 +278,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-37224
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -300,7 +299,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-43282
   sudarytojas: "Karolis Zikaras"
@@ -328,7 +327,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-108129
   sudarytojas: "Karolis Zikaras"
@@ -351,7 +350,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-108131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -384,7 +383,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-108132
   autorius: "Petras Dusburgietis"
@@ -401,7 +400,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-004
 
 - id: c-171380
   autorius: "Teodoras Narbutas"
@@ -435,7 +434,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010
 
 - id: c-173707
   autorius: "Teodoras Narbutas"
@@ -450,7 +449,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-007
 
 - id: c-173708
   autorius: "Teodoras Narbutas"
@@ -474,7 +473,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-008
 
 - id: c-176412
   sudarytojas: "Karolis Zikaras"
@@ -488,4 +487,4 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009

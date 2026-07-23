@@ -50,7 +50,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-55201"></a>
-- t-004
+- t-001
   teiginys: "Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-55202"></a>
-- t-005
+- t-002
   teiginys: "Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ media_all_json: |-
     - c-55403
 
 <a id="claim-t-71821"></a>
-- t-002
+- t-003
   teiginys: "Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ media_all_json: |-
   semantiniai_rysiai: "Žemaičiai priklausė Lietuviai (0.95)"
   pagrindžia:
     - c-55404
-- susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
+
 ## Citatos
 
 - id: c-55403
@@ -129,8 +129,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002
 
 - id: c-55404
   autorius: "Zenonas Ivinskis"
@@ -150,4 +150,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

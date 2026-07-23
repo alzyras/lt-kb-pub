@@ -8,16 +8,16 @@ datos:
   - '1938 m.'
 date_start: '1929'
 date_end: '1938'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ministras
   - asmuo
   - pareigūnas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-896479114%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_896479114'
@@ -41,7 +41,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 ## Teiginiai
 
 <a id="claim-t-170077"></a>
-- t-007
+- t-001
   teiginys: "Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154758
 
 <a id="claim-t-170078"></a>
-- t-008
+- t-002
   teiginys: "Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154765
 
 <a id="claim-t-170079"></a>
-- t-009
+- t-003
   teiginys: "Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154761
 
 <a id="claim-t-170081"></a>
-- t-001
+- t-004
   teiginys: "1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154764
 
 <a id="claim-t-170083"></a>
-- t-002
+- t-006
   teiginys: "Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154762
 
 <a id="claim-t-170084"></a>
-- t-003
+- t-007
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - c-154759
 
 <a id="claim-t-170085"></a>
-- t-010
+- t-008
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,9 +189,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata."
   pagrindžia:
     - c-154759
-- susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44993|Lietuvių tautininkų sąjunga]]: Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.
-- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-183191|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
-- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-20059|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
@@ -213,7 +211,6 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-154758
@@ -237,7 +234,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-154759
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -268,8 +265,8 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-010
+    - t-007
+    - t-008
 
 - id: c-154761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -290,7 +287,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-154762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -312,7 +309,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-154763
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -334,7 +331,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-154764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -376,7 +373,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-154766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

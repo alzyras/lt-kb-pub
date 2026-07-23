@@ -29,7 +29,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 ## Teiginiai
 
 <a id="claim-t-67483"></a>
-- t-003
+- t-001
   teiginys: "Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     - c-67370
 
 <a id="claim-t-67485"></a>
-- t-001
+- t-002
   teiginys: "Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     - c-67369
 
 <a id="claim-t-67486"></a>
-- t-002
+- t-003
   teiginys: "Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-67370
   redaktorius: "A. Šapoka"
@@ -94,7 +94,7 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-67372
   redaktorius: "A. Šapoka"
@@ -118,4 +118,4 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

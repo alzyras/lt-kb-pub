@@ -33,7 +33,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 ## Teiginiai
 
 <a id="claim-t-187940"></a>
-- t-007
+- t-001
   teiginys: "Leidinio pastaba Adomą Stanislovą Naruševičių vadina lenkų poetu ir istoriku bei sieja jį su „Historya narodu Polskiego“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -50,7 +50,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-170920
 
 <a id="claim-t-187941"></a>
-- t-005
+- t-002
   teiginys: "Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -60,7 +60,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-171286
 
 <a id="claim-t-187942"></a>
-- t-006
+- t-003
   teiginys: "Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -70,7 +70,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-171286
 
 <a id="claim-t-187943"></a>
-- t-001
+- t-004
   teiginys: "Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -82,7 +82,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-170927
 
 <a id="claim-t-188395"></a>
-- t-008
+- t-005
   teiginys: "Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-171286
 
 <a id="claim-t-188396"></a>
-- t-009
+- t-006
   teiginys: "Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-170919
 
 <a id="claim-t-190672"></a>
-- t-010
+- t-007
   teiginys: "Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173554
 
 <a id="claim-t-190673"></a>
-- t-011
+- t-008
   teiginys: "Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-179248
 
 <a id="claim-t-190674"></a>
-- t-012
+- t-009
   teiginys: "Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -179,9 +179,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173556
 
 <a id="claim-t-190675"></a>
-- t-013
+- t-010
   teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -199,7 +199,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173557
 
 <a id="claim-t-190676"></a>
-- t-014
+- t-011
   teiginys: "Naruševičius, Narbuto teigimu, pateikė žinių, rėmusių nuomonę, kad poloviečiai buvo rusų kaimynai iš rytų ir vakarų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173558
 
 <a id="claim-t-190678"></a>
-- t-016
+- t-012
   teiginys: "Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -239,7 +239,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173560
 
 <a id="claim-t-190682"></a>
-- t-017
+- t-013
   teiginys: "Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -259,7 +259,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173564
 
 <a id="claim-t-190683"></a>
-- t-018
+- t-014
   teiginys: "Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173565
 
 <a id="claim-t-191874"></a>
-- t-020
+- t-015
   teiginys: "Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -299,7 +299,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-174756
 
 <a id="claim-t-192517"></a>
-- t-021
+- t-016
   teiginys: "Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -319,7 +319,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-175305
 
 <a id="claim-t-194644"></a>
-- t-022
+- t-017
   teiginys: "Kaip mano Naruševičius', slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -331,7 +331,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-170919
 
 <a id="claim-t-197274"></a>
-- t-023
+- t-018
   teiginys: "Adomas Stanislovas Naruševičius šį paprotį, menantį seniausius budizmo principus, pastebėjo Kašmiro žemumoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -343,7 +343,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-179097
 
 <a id="claim-t-197572"></a>
-- t-024
+- t-019
   teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -355,7 +355,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-179248
 
 <a id="claim-t-197573"></a>
-- t-025
+- t-020
   teiginys: "A. Naruševičius sako, kad jie nepriklauso nei sarmatams, nei germanams, turi daug žemių, vakaruose teka Vysla; jų kaimynai — estai bei gitonai (.. 66—80), šiaurėje — finai, pietuose — peucinai, o rytuose yra nežinomos sritys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -367,7 +367,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-179249
 
 <a id="claim-t-197574"></a>
-- t-026
+- t-021
   teiginys: "A. Naruševičius teigia, kad, remdami mozūrų Maslavą, kovojo jotvingiai ir slovėnai, t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -379,7 +379,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-179250
 
 <a id="claim-t-197576"></a>
-- t-027
+- t-022
   teiginys: "Naruševičius taip pat patvirtina tai daugelyje savo darbų3."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -391,7 +391,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - c-173565
 
 <a id="claim-t-197577"></a>
-- t-028
+- t-023
   teiginys: "Tuo remdamasis, Naruševičius savo Lenkijos istorijos pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje šios upės pakrantėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -401,45 +401,67 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174756
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188351|Slavai]]: Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.
-- susijęs iš Lenkų tautos istorija: Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją.
-## Reikšmingi paminėjimai
-- c-014
-  santrauka: 'Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa. Sis geografas pastarosios aukštupyje kuo
-    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
-    pat patvirtina tai daugelyje savo darbų3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Septynių miestų žemėje*, pa­
-    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
-    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
-    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
-    mo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kerpyčius ir Šilinyčius
+    (Kierpiczus i Syleniczus)
+    Dievaičiai draugai, statybos globotojai. Pirmasis valdė vi­
+    sa, kas naudojama statybose iš iškasenų, antrasis - iš augalų
+    karalystės.
+    Kerpyčiaus vardas, atrodo, kilęs iš Kirpicz - rusiškai plyta.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross. Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
+    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-006
+    - t-018
+
+- c-011
+  santrauka: 'Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, Narbutas vadina labai panašia į tiesą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Taip pat
+    daromos teisingos išvados, jog jie nekariavo su hunų
+    vėliavomis, bet atvirkščiai — priešinosi hunams, o pra­
+    laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė
+    kerštingi tų barbarų ginklai. Tad labai panaši j tiesą
+    Naruševičiaus nuomonė, kad jotvingiai nuo Tisos atėjo
+    tiesiai j Polesę. Norint išvengti hunų pulkų, užtvindžiu-
+    117
+
+    ## Puslapis 115
+
+    šių visą kairiąją Dunojaus pakrantę, neužteko perkopti
+    Karpatų kalnus, dar reikėjo ieškoti kitų tautų neužimtų
+    vietų, kur galima buvo ramiai gyventi, nes kairiojoje Bu-
+    go pakrantėje, žemdirbystei tinkamose ir aukštėlesnėse ly­
+    gumose, tais laikais jau gyveno daug slavų kartų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-170918
@@ -475,8 +497,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-022
+    - t-006
+    - t-017
 
 - id: c-170920
   autorius: "Teodoras Narbutas"
@@ -495,7 +517,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-170927
   autorius: "Zenonas Ivinskis"
@@ -516,7 +538,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-171286
   autorius: "Teodoras Narbutas"
@@ -537,9 +559,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
+    - t-003
     - t-005
-    - t-006
-    - t-008
 
 - id: c-173554
   autorius: "Teodoras Narbutas"
@@ -563,7 +585,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-173555
   autorius: "Teodoras Narbutas"
@@ -608,7 +630,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-173557
   autorius: "Teodoras Narbutas"
@@ -630,7 +652,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-173558
   autorius: "Teodoras Narbutas"
@@ -653,7 +675,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-173560
   autorius: "Teodoras Narbutas"
@@ -675,7 +697,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-012
 
 - id: c-173564
   autorius: "Teodoras Narbutas"
@@ -700,7 +722,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-013
 
 - id: c-173565
   autorius: "Teodoras Narbutas"
@@ -724,8 +746,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-027
+    - t-014
+    - t-022
 
 - id: c-174756
   autorius: "Teodoras Narbutas"
@@ -748,8 +770,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-028
+    - t-015
+    - t-023
 
 - id: c-175305
   autorius: "Teodoras Narbutas"
@@ -776,7 +798,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-016
 
 - id: c-179097
   autorius: "Teodoras Narbutas"
@@ -793,7 +815,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-018
 
 - id: c-179248
   autorius: "Teodoras Narbutas"
@@ -816,8 +838,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-024
+    - t-008
+    - t-019
 
 - id: c-179249
   autorius: "Teodoras Narbutas"
@@ -840,7 +862,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-020
 
 - id: c-179250
   autorius: "Teodoras Narbutas"
@@ -861,4 +883,4 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-021

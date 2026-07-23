@@ -8,13 +8,13 @@ datos:
   - '1434 m.'
 date_start: '1434'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - regionas
   - vieta
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

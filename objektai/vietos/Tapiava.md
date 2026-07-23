@@ -60,8 +60,7 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168673
-- susijęs iš Vėluva: Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185655|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.
+
 ## Citatos
 
 - id: c-168673

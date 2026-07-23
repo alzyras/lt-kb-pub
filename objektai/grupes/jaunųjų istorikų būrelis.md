@@ -54,7 +54,7 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33367
-- susijęs iš [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.).md#claim-t-31493|Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]: Nuo Vytauto Didžiojo jubiliejinių metų 1930 m. Lietuvos istorijoje ėmė reikštis vadinamasis jaunųjų istorikų būrelis.
+
 ## Citatos
 
 - id: c-33367

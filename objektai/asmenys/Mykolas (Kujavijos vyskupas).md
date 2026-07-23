@@ -59,6 +59,7 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   citata_rodoma: "Šitai padaryta apie 1226 (1230)\nviešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui\nGiunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui\nVilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui\nJonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

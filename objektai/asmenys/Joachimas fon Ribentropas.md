@@ -46,6 +46,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   citata_rodoma: "Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

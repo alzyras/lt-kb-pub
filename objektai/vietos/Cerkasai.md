@@ -54,7 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Cerkasus, bet reikėjo pašalinti perteklinę įžangą."
   pagrindžia:
     - c-45052
-- susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
+
 ## Citatos
 
 - id: c-45052

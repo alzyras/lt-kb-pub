@@ -50,13 +50,7 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174292
-- susijęs iš [[objektai/asmenys/Heiridė.md#claim-t-191411|Heiridė]]: Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą.
-- susijęs iš Islandų sakmės, vadinamos šiaurinėmis sagomis: Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.
-- susijęs iš [[objektai/asmenys/Augmundas.md#claim-t-191370|Augmundas]]: Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Augmundas.md#claim-t-191370|Augmundas]]: Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Heiridė.md#claim-t-191411|Heiridė]]: Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Zugurlamas.md#claim-t-191488|Zugurlamas]]: Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje.
-- susijęs iš Islandų sakmės, vadinamos šiaurinėmis sagomis: Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.
+
 ## Citatos
 
 - id: c-174292

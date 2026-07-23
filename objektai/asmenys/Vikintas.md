@@ -53,7 +53,7 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
   semantiniai_rysiai: "Vikintas gyveno Vitebskas (0.86)"
   pagrindžia:
     - c-36056
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121173|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
+
 ## Citatos
 
 - id: c-36056

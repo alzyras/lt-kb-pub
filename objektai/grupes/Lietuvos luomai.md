@@ -30,7 +30,7 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
 ## Teiginiai
 
 <a id="claim-t-193317"></a>
-- t-005
+- t-001
   teiginys: "Karaliaus ir luomų vardu jam šitaip buvo atsa kyta."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -40,12 +40,7 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176045
-- susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185653|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185654|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.
-- susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas.md#claim-t-185832|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]: 1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.
-- susijęs iš Lietuvos ir Lenkijos sąjungos atnaujinimo viešasis dokumentas (1401 m.): Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvos prisijungimą prie Lenkijos karalystės.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.'
@@ -81,7 +76,6 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176045
@@ -106,7 +100,7 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 - Lietuvos luomai gynė [[objektai/vietos/Livonija]]

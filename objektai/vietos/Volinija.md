@@ -37,7 +37,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 ## Teiginiai
 
 <a id="claim-t-48788"></a>
-- t-003
+- t-001
   teiginys: "1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-50925
 
 <a id="claim-t-48790"></a>
-- t-001
+- t-003
   teiginys: "Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-50923
 
 <a id="claim-t-48791"></a>
-- t-006
+- t-004
   teiginys: "Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-32562
 
 <a id="claim-t-48793"></a>
-- t-004
+- t-006
   teiginys: "Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -136,29 +136,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-50924
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05197|Liubartas]]: Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171405|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171442|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71754|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.
-- susijęs iš [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.).md#claim-t-31480|Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]: 1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.
-- susijęs iš Haličo ir Volinijos žemės: Konfliktas dėl Haličo ir Volinijos žemių paveldėjimo tęsėsi iki Liudviko Anjou mirties 1382 m.
-- susijęs iš Podolė: Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.
-- susijęs iš Valkaviskas: Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
-- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171491|Henrikas Latvis]]: Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
-- susijęs iš [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje.md#claim-t-31394|1279 m. badmetis Lietuvoje ir Jotvingijoje]]: Per 1279 m. badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikštį Vladimirą parduoti rugių.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71752|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71755|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.
-- susijęs iš Jotvingija: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
-- susijęs iš Luckas: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
-- susijęs iš Luckas: Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
-- susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
+
 ## Citatos
 
 - id: c-32562
@@ -178,7 +156,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
     - t-005
 
 - id: c-50923
@@ -200,7 +178,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-50924
   autorius: "Zenonas Ivinskis"
@@ -219,7 +197,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-50925
   autorius: "Zenonas Ivinskis"
@@ -259,4 +237,4 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

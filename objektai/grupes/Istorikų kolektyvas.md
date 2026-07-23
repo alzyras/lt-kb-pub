@@ -44,8 +44,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33266
-- susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
-- susijęs iš [[objektai/autoriai/K. Sideravičius.md#claim-t-30749|K. Sideravičius]]: K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.
+
 ## Citatos
 
 - id: c-33266

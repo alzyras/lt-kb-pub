@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-113374"></a>
-- t-004
+- t-001
   teiginys: "1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-104633
 
 <a id="claim-t-113375"></a>
-- t-003
+- t-002
   teiginys: "Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,9 +75,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-104634
-- susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
-- susijęs iš [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose.md#claim-t-02047|Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.
-- susijęs iš [[objektai/zodynas/tribunolas.md#claim-t-82098|tribunolas]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.
+
 ## Citatos
 
 - id: c-104633
@@ -131,7 +129,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-104634
   redaktorius: "A. Šapoka"
@@ -153,4 +151,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

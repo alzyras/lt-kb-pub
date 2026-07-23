@@ -39,7 +39,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 ## Teiginiai
 
 <a id="claim-t-60905"></a>
-- t-005
+- t-001
   teiginys: "Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     - c-61539
 
 <a id="claim-t-60909"></a>
-- t-007
+- t-002
   teiginys: "Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     - c-61539
 
 <a id="claim-t-60911"></a>
-- t-004
+- t-003
   teiginys: "Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     - c-61538
 
 <a id="claim-t-60912"></a>
-- t-001
+- t-004
   teiginys: "Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-61539
   autorius: "Petras Dusburgietis"
@@ -135,8 +135,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
+    - t-001
+    - t-002
 
 - id: c-61541
   autorius: "Petras Dusburgietis"
@@ -153,7 +153,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-61542
   autorius: "Petras Dusburgietis"
@@ -169,6 +169,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

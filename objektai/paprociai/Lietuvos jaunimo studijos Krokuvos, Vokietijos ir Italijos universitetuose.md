@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54297"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-55175
 
 <a id="claim-t-54299"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166712
-- susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
+
 ## Citatos
 
 - id: c-55175
@@ -172,8 +172,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-003
 
 - id: c-166712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

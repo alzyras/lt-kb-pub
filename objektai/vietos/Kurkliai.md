@@ -58,6 +58,3 @@ Kurkliai šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202413|Jonas Leonas Oziębłowskis]]: 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo.

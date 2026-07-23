@@ -35,7 +35,3 @@ media_all_json: |-
 ## Santrauka
 
 J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko-Kojelavičiaus pirmtakų ir lotyniškojo „Sarmatų Europos aprašymo“ autorius. Ten pat nurodoma, kad šis veikalas iki XVII a. vidurio pakartotinai išleistas penkis kartus ir 1611 m. išverstas į lenkų kalbą.
-
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Valstiečių karas Vokietijoje (1525 m.).md#claim-t-185777|Valstiečių karas Vokietijoje (1525 m.)]]: A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.

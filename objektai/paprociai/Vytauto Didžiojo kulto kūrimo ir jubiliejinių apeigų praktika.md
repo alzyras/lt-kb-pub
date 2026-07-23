@@ -68,7 +68,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20823"></a>
-- t-006
+- t-001
   teiginys: "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -84,7 +84,7 @@ media_all_json: |-
     - c-23546
 
 <a id="claim-t-20824"></a>
-- t-005
+- t-002
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -126,7 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-23546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -151,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

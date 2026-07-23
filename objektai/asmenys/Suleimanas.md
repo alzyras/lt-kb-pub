@@ -48,7 +48,7 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169619
-- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-184854|Vasilijus Vasiljevičius]]: Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.
+
 ## Citatos
 
 - id: c-169619

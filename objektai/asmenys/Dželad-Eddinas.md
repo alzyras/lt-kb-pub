@@ -78,7 +78,7 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinį sakinį reikia išvalyti nuo citatos ir konteksto triukšmo."
   pagrindžia:
     - c-167640
-- susijęs iš Vytauto panegirika: „Vytauto panegirikoje“ teigiama, kad nuo 1411 m. įsiviešpatavus Dželad-Eddinui totoriai nedrįso priešintis Vytautui.
+
 ## Citatos
 
 - id: c-167640

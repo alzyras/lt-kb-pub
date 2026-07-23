@@ -20,14 +20,14 @@ datos:
   - '2026 m.'
 date_start: '1330'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - religinė-bendruomenė
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 ## Teiginiai
 
 <a id="claim-t-116726"></a>
-- t-008
+- t-001
   teiginys: "Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107542
 
 <a id="claim-t-116727"></a>
-- t-017
+- t-002
   teiginys: "Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107536
 
 <a id="claim-t-116728"></a>
-- t-016
+- t-003
   teiginys: "XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107549
 
 <a id="claim-t-116729"></a>
-- t-007
+- t-004
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107535
 
 <a id="claim-t-116730"></a>
-- t-006
+- t-005
   teiginys: "Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107544
 
 <a id="claim-t-116731"></a>
-- t-003
+- t-006
   teiginys: "Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107552
 
 <a id="claim-t-116732"></a>
-- t-022
+- t-007
   teiginys: "Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,7 +174,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107538
 
 <a id="claim-t-116733"></a>
-- t-023
+- t-008
   teiginys: "Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107550
 
 <a id="claim-t-116734"></a>
-- t-004
+- t-009
   teiginys: "Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,7 +215,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107548
 
 <a id="claim-t-116735"></a>
-- t-024
+- t-010
   teiginys: "1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -234,7 +234,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107537
 
 <a id="claim-t-116736"></a>
-- t-014
+- t-011
   teiginys: "Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -250,7 +250,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107539
 
 <a id="claim-t-116737"></a>
-- t-021
+- t-012
   teiginys: "Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -266,7 +266,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107551
 
 <a id="claim-t-116738"></a>
-- t-019
+- t-013
   teiginys: "Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -283,7 +283,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107534
 
 <a id="claim-t-116739"></a>
-- t-011
+- t-014
   teiginys: "Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -302,7 +302,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107547
 
 <a id="claim-t-116740"></a>
-- t-020
+- t-015
   teiginys: "Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -318,7 +318,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107539
 
 <a id="claim-t-116741"></a>
-- t-002
+- t-016
   teiginys: "Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -334,7 +334,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107533
 
 <a id="claim-t-116742"></a>
-- t-009
+- t-017
   teiginys: "Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -350,7 +350,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107546
 
 <a id="claim-t-116743"></a>
-- t-015
+- t-018
   teiginys: "Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -366,7 +366,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107540
 
 <a id="claim-t-116744"></a>
-- t-018
+- t-019
   teiginys: "Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -382,7 +382,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107533
 
 <a id="claim-t-116745"></a>
-- t-013
+- t-020
   teiginys: "„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -402,7 +402,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-107543
 
 <a id="claim-t-182895"></a>
-- t-001
+- t-021
   teiginys: "Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -421,7 +421,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - c-166299
 
 <a id="claim-t-201478"></a>
-- t-025
+- t-022
   teiginys: "Ypač įtaigi turėjo būti bažnyčiose skambanti muzika."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -431,58 +431,53 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184825
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93283|Gregorijus Cemblakas]]: Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176632|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176636|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.
-- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
-- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176644|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176676|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186620|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Po Žalgirio mūšio 1413 m. buvo apkrikštyta Žemaitija, o 1417 m. įsteigta Žemaičių vyskupija.
-- susijęs iš Žemaitija: Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija.
-- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija.md#claim-t-22229|metropolija bažnytinė provincija bažnytinė unija (unija)]]: Po Žalgirio mūšio Lietuvoje bandyta steigti katalikų bažnytinę provinciją ir stačiatikių metropoliją ar vyskupiją sujungti su Katalikų bažnyčia.
-- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija.md#claim-t-22230|metropolija bažnytinė provincija]]: Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Visi šie faktai rodo, kad XIII a. baltų žemėse, t. y. pačių lietuvių (su žemaičiais),
-    jotvingių, prūsų ir kt. gyvenamajame plote, buvo susidaręs dvasinės (religijos, papročių)
-    ir materialinės kultūros artumas, beveik tapačios buvo socialinės santvarkos formos,
-    o kalbos giminystė padėjo gyventojams suprasti vieniems kitus. Taigi vyko vieningos
-    tautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė
-    vokiečių ir kt. šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.
-      Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
+    Dusburgiečio kronika ir vaizduoja būtent tą sudėtingą laikotarpį, kai po įtemptų bendrų
     kovų prieš agresiją iš Vakarų buvo pavergti vakariniai baltai, kai Ordinas toliau veržėsi
     į Žemaitiją ir Rytų Lietuvą ir tik milžiniškomis pastangomis ir aukomis buvo sulaikytas
-    prie Nemuno, virtusio pagrindine fronto linija.
+    prie Nemuno, virtusio pagrindine fronto linija. Agresoriaus interesams ginti parašytoje
+    kronikoje pavaizduotas prūsų ir lietuvių gyvenimas XIII—XIV a. bei jų išsivaduojamoji
+    kova yra Lietuvos istorijos sudėtinė dalis, pažangus reiškinys tarptautiniame
+    išsivaduojamajame judėjime, kovoje prieš agresyvias jėgas viduramžiais.
+    Epocha, kurioje rašė Petras iš Dusburgo
+    3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
+    kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-015
   santrauka: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
     jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
-      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
     bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-107533
@@ -502,8 +497,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-018
+    - t-016
+    - t-019
 
 - id: c-107534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -529,7 +524,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-013
 
 - id: c-107535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -549,7 +544,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-107536
   autorius: "Petras Dusburgietis"
@@ -570,7 +565,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-002
 
 - id: c-107537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -592,7 +587,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-010
 
 - id: c-107538
   autorius: "Michał Baliński"
@@ -624,7 +619,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-007
 
 - id: c-107539
   autorius: "Michał Baliński"
@@ -655,8 +650,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-020
+    - t-011
+    - t-015
 
 - id: c-107540
   autorius: "Michał Baliński"
@@ -683,7 +678,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-018
 
 - id: c-107542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -701,7 +696,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-107543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -732,7 +727,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-020
 
 - id: c-107544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -750,7 +745,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-107546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -771,7 +766,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-017
 
 - id: c-107547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -789,7 +784,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-014
 
 - id: c-107548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -815,7 +810,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-107549
   autorius: "Petras Dusburgietis"
@@ -836,7 +831,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-003
 
 - id: c-107550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -857,7 +852,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-008
 
 - id: c-107551
   autorius: "Michał Baliński"
@@ -884,7 +879,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-012
 
 - id: c-107552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -904,7 +899,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-166299
   redaktorius: "A. Šapoka"
@@ -923,7 +918,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-021
 
 - id: c-184825
   autorius: "Zigmantas Kiaupa"
@@ -940,4 +935,4 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-022

@@ -50,7 +50,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175097
 
 <a id="claim-t-192271"></a>
-- t-003
+- t-002
   teiginys: "Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -68,7 +68,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175099
 
 <a id="claim-t-192272"></a>
-- t-002
+- t-003
   teiginys: "Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -86,7 +86,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175099
 
 <a id="claim-t-192273"></a>
-- t-006
+- t-004
   teiginys: "Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -124,7 +124,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175098
 
 <a id="claim-t-192275"></a>
-- t-004
+- t-006
   teiginys: "Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -140,8 +140,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175098
-- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
-- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,11 +157,11 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     lonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo
     jiems žiauriai žudyti lietuvių tautą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192272
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -204,9 +203,9 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
     - t-004
+    - t-005
+    - t-006
 
 - id: c-175099
   autorius: "Teodoras Narbutas"
@@ -237,5 +236,5 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003

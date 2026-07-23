@@ -7,14 +7,14 @@ datos:
   - '1295 m.'
 date_start: '1295'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - krikštas
   - pilis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

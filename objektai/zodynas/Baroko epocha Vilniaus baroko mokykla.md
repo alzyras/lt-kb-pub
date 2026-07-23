@@ -45,6 +45,7 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
   citata_rodoma: "toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

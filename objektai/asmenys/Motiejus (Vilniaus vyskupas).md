@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87446"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-83427
 
 <a id="claim-t-87447"></a>
-- t-003
+- t-002
   teiginys: "Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ media_all_json: |-
     - c-83426
 
 <a id="claim-t-87448"></a>
-- t-001
+- t-003
   teiginys: "Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83426
   autorius: "Michał Baliński"
@@ -147,7 +147,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-83427
   autorius: "Michał Baliński"
@@ -181,4 +181,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

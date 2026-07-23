@@ -8,14 +8,14 @@ datos:
   - '1500 m.'
 date_start: '1246'
 date_end: '1500'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - pareigybė
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,29 +38,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 <a id="claim-t-58869"></a>
-- t-002
+- t-001
   teiginys: "Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59500
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš [[objektai/asmenys/Juozapas Ozienblovskis.md#claim-t-202416|Juozapas Ozienblovskis]]: Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. spalio 25 d. ir mirė apie 1725 m.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš [[objektai/asmenys/Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.).md#claim-t-200501|Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)]]: Liudvikas Chelchovskis buvo Kauno pavieto stalininkas.
-- susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
-- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
-- susijęs iš Kulmo žemė: Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.
-- susijęs iš Torunė: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
-- susijęs iš [[objektai/asmenys/Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.).md#claim-t-200500|Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)]]: 1754 m. karnavalo metu Jonas Dominykas Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1246 m. Austrijos kunigaikštis pasiuntė stalininką Druzigerį su didele kariuomene talkinti Prūsijoje.'
@@ -105,7 +90,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-59500
@@ -128,7 +112,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59501
   autorius: "Petras Dusburgietis"
@@ -145,6 +129,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   citata_rodoma: "Tuo tarpu stalininkas Druzigeris,\nsu saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad\nir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo\nžemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo\ngirdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo\nmūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos\nraudas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -77,15 +77,7 @@ Korsako ir J.
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku."
   pagrindžia:
     - c-169797
-- susijęs iš [[objektai/autoriai/A. Venclova.md#claim-t-186436|A. Venclova]]: A. Venclova buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/J. Pauonis.md#claim-t-186435|J. Pauonis]]: J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186444|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186445|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/K. Ambrasas.md#claim-t-186434|K. Ambrasas]]: K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186449|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186450|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
-- susijęs iš [[objektai/autoriai/Rimantas Jasas.md#claim-t-186453|Rimantas Jasas]]: Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.
-- susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
+
 ## Citatos
 
 - id: c-169797

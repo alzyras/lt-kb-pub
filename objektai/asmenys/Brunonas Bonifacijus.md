@@ -39,7 +39,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 ## Teiginiai
 
 <a id="claim-t-18861"></a>
-- t-003
+- t-001
   teiginys: "Eidintas ir bendraautoriai rašo, kad Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - c-21634
 
 <a id="claim-t-18863"></a>
-- t-001
+- t-003
   teiginys: "Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,16 +92,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, aiškiai nusako Brunono Bonifacijaus veiksmus ir yra paremtas citata."
   pagrindžia:
     - c-21633
-- susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19170|Netimeras]]: Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.
-- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75093|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus rado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir pasikrikštijo.
-- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
-- susijęs iš [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai.md#claim-t-54312|Milenaristinės krikščioniškos misijos ir valdovų krikštai]]: Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.
-- susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-183561|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
-- susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19171|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.
-- susijęs iš [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai.md#claim-t-54313|Milenaristinės krikščioniškos misijos ir valdovų krikštai]]: 1009 m. šv. Brunonas Bonifacijus Lietuvoje rado „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.
-- susijęs iš Apreiškimas Jonui (Apokalipsė): Millenniumo idėja kildinama iš Šventojo Rašto Apreiškimo Jonui, arba Apokalipsės.
-- susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13543|chiefdom / vadystė]]: Vadystė šiame kontekste atitinka chiefdom stadiją.
-- susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13544|chiefdom / vadystė]]: Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.
+
 ## Citatos
 
 - id: c-21633
@@ -121,7 +112,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-21634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -162,7 +153,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 - Brunonas Bonifacijus keliavo į [[objektai/vietos/Lietuva]]

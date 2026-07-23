@@ -35,7 +35,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 ## Teiginiai
 
 <a id="claim-t-60965"></a>
-- t-002
+- t-001
   teiginys: "A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
     - c-61599
 
 <a id="claim-t-60966"></a>
-- t-001
+- t-002
   teiginys: "Viljandžio (Tuulse A., Die Burgen..., p. 79)."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-61599
   autorius: "Petras Dusburgietis"
@@ -101,4 +101,4 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

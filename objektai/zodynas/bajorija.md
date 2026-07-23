@@ -42,12 +42,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-176018
-- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200582|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą.
-- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200735|Gėrimas iš vienos taurės]]: Rimvydas Laužikas mano, kad XVI–XVII a. Lietuvoje gėrimas iš vienos taurės galėjo plisti kopijuojant lenkų bajorus kaip sarmatizmo madą.
-- susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200584|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200630|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
+
 ## Citatos
 
 - id: c-176018

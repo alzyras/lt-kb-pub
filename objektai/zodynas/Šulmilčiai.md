@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Šulmilčiai'
 sukurta: '2026-07-12'
 variantai:
-  - '„šulmilčiais“'
+  - „šulmilčiais“
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -62,6 +62,7 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
   citata_rodoma: "Juos atiduodavo mažiukams. Iš jų dirbdavome kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipydavome arkliukus ir žmogiukus."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

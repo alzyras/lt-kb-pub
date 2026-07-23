@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200612"></a>
-- t-200540
+- t-001
   teiginys: "Po Juozapo Sapiegos mirties Steponas Olendskis perėmė ir išsivežė sidabrą, alavą, varį ir staltieses pagal velionio dvasininko registrą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::items"
@@ -70,10 +70,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183944
-- susijęs iš [[objektai/asmenys/Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.).md#claim-t-200466|Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė įvairius daiktus.
-- susijęs iš [[objektai/daiktai/Perimtas sidabras, alavas, varis ir staltiesės.md#claim-t-200705|Perimtas sidabras, alavas, varis ir staltiesės]]: Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė sidabrą, alavą, varį bei staltieses.
-- susijęs iš [[objektai/asmenys/Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.).md#claim-t-200464|Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)]]: Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius.
-- susijęs iš [[objektai/asmenys/Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.).md#claim-t-200465|Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)]]: Po Vilniaus vyskupo koadjutoriaus Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą.
+
 ## Citatos
 
 - id: c-183944
@@ -85,4 +82,4 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 07:23"
   pagrindzia:
-    - t-200540
+    - t-001

@@ -40,7 +40,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 ## Teiginiai
 
 <a id="claim-t-30654"></a>
-- t-002
+- t-001
   teiginys: "J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     - c-32951
 
 <a id="claim-t-30655"></a>
-- t-003
+- t-002
   teiginys: "J. Adamus 1930 m. paskelbė darbą „O tytule panującego“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     - c-32952
 
 <a id="claim-t-30656"></a>
-- t-001
+- t-003
   teiginys: "J. Adamus 1925 m. paskelbė darbą „Zastaw w prawie litewskiem XV i XVI wieku“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32950
-- susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
+
 ## Citatos
 
 - id: c-32950
@@ -114,7 +114,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-32951
   autorius: "Zenonas Ivinskis"
@@ -138,7 +138,7 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-32952
   autorius: "Zenonas Ivinskis"
@@ -159,4 +159,4 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

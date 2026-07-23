@@ -92,7 +92,7 @@ Vilniaus miesto amatininkų cechas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55903
-- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54806|Cechas]]: Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių.
+
 ## Citatos
 
 - id: c-55902

@@ -39,7 +39,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 ## Teiginiai
 
 <a id="claim-t-35045"></a>
-- t-002
+- t-001
   teiginys: "Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - c-37997
 
 <a id="claim-t-35046"></a>
-- t-001
+- t-002
   teiginys: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +73,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai sutampa su citatos informacija."
   pagrindžia:
     - c-37996
-- susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
-- susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
+
 ## Citatos
 
 - id: c-37996
@@ -94,7 +93,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-37997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -119,7 +118,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]

@@ -92,19 +92,7 @@ Vartojamas asmens socialinei padėčiai nusakyti.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175129
-- susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-190849|Bonaventūras Milevskis]]: 1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą.
-- susijęs iš [[objektai/asmenys/Jucevičius.md#claim-t-191500|Jucevičius]]: Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevskis ardamas iškasė figūrą.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
-- susijęs iš Burokų dvaras: 1836 m. gegužę Burokų dvare, esančiame už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą.
-- susijęs iš Kražiai: 1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
-- susijęs iš [[objektai/daiktai/Grėblys.md#claim-t-195309|Grėblys]]: Grėblys pateikiamas kaip šieno grėbimo, nešimo ir stūmimo įrankis šienapjūtėje.
-- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195303|Terba]]: Šienapjūtėje terbos vartojamos maistui vežti į pievas.
-- susijęs iš [[objektai/daiktai/Ąsotis.md#claim-t-195307|Ąsotis]]: Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas.
-- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
-- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
-- susijęs iš [[objektai/posakiai/Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai.md#claim-t-195427|Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai]]: Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus.
+
 ## Citatos
 
 - id: c-175129

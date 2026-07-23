@@ -61,9 +61,6 @@ Nenurodyta
   pagrindžia:
     - c-184051
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-184051

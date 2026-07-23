@@ -29,7 +29,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
 ## Teiginiai
 
 <a id="claim-t-191729"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: palaikų deginimą, pelenų rinkimą į urnas ir laidotuvių turnyrus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     - c-174611
 
 <a id="claim-t-191730"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodo Nestoro pasakojimą, kad 859 m. variagai paskyrė kailių duoklę, be kitų, ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     - c-174612
 
 <a id="claim-t-197683"></a>
-- t-004
+- t-003
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174611
@@ -148,7 +147,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174612
   autorius: "Teodoras Narbutas"
@@ -172,7 +171,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179294
   autorius: "Teodoras Narbutas"
@@ -193,4 +192,4 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

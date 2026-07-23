@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185853"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičiaus pasakojime Vaidevutis vengė karinių stovyklų, nes matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

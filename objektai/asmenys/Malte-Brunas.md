@@ -29,7 +29,7 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
 ## Teiginiai
 
 <a id="claim-t-197775"></a>
-- t-002
+- t-001
   teiginys: "Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,4 +59,4 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -40,7 +40,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 ## Teiginiai
 
 <a id="claim-t-63836"></a>
-- t-003
+- t-001
   teiginys: "Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,9 +75,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-21830
-- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
-- susijęs iš [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje.md#claim-t-40980|Laikinoji Vyriausybė Lietuvoje]]: Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.
-- susijęs iš [[objektai/ivykiai/1863 m. sukilimo pradžia.md#claim-t-39122|1863 m. sukilimo pradžia (sukilimas)]]: 1863 m. sausio 22 d. Lenkijoje prasidėjo sukilimas.
+
 ## Citatos
 
 - id: c-21830
@@ -122,7 +120,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-42087
   sudarytojas: "Karolis Zikaras"
@@ -141,6 +139,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   citata_rodoma: "Egzekucijos buvo įvykdytos B. Kolyškai,\nZ. Sierakauskui, T. Dalevskiui, K. Kalinaus-\nkui, A. Mackevičiui ir kitiems."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

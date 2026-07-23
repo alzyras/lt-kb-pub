@@ -48,8 +48,7 @@ Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smark
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174321
-- susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190996|Vasilka]]: Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-192507|Vėliavos]]: Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.
+
 ## Citatos
 
 - id: c-174321

@@ -53,11 +53,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet pašalintas nereikalingas boilerplate ir išnašos numeris."
   pagrindžia:
     - c-59531
-- susijęs iš [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.).md#claim-t-62900|Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]: 1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Teutonų ordiną dėl Ordino priešų veiklos ir kryžiuočiams keltų kaltinimų.
-- susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89290|Tamplierių ordinas]]: Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62933|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir veikė Teutonų ordinas.
-- susijęs iš Prancūzija: Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.
+
 ## Citatos
 
 - id: c-59531

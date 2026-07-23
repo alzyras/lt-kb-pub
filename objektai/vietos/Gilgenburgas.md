@@ -71,15 +71,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167755
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
-- susijęs iš [[objektai/autoriai/Ambrassat A.md#claim-t-64541|Ambrassat A]]: A. Ambrassat darbu remiamasi teigiant, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179345|Lietuviai]]: Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.
-- susijęs iš Ambrassat A. Die Provinz Ostpreussen: Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.
-- susijęs iš Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer Beziehung nebst Special-Geographie: Weberio veikalas nurodomas tarp šaltinių, kuriais grindžiama, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.
-- susijęs iš Ilienburgas: Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
+
 ## Citatos
 
 - id: c-161010

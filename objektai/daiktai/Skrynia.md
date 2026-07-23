@@ -7,7 +7,7 @@ variantai:
   - 'skrynia'
   - 'skrynią'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -60,12 +60,7 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177741
-- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195383|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai.
-- susijęs iš [[objektai/posakiai/Akmenų pridėta ir gana!.md#claim-t-195433|Akmenų pridėta ir gana!]]: Skrynios sunkumas aiškinamas formule apie pridėtus akmenis.
-- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195381|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius.
-- susijęs iš [[objektai/posakiai/Imk šeškablauzdi!.md#claim-t-195434|Imk šeškablauzdi!]]: Kraičio nešime pavartojamas raginimas „Imk šeškablauzdi!“.
-- susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195626|Kraičvežiai]]: Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas.
-- susijęs iš [[objektai/zodynas/Šeškablauzdžiai.md#claim-t-195629|Šeškablauzdžiai]]: Žodis vartojamas ir kaip šūksnis kraičio nešimo metu.
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

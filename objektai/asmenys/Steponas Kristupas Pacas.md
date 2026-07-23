@@ -65,7 +65,7 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184208
-- susijęs iš Šv. Teresės bažnyčia: Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas.
+
 ## Citatos
 
 - id: c-184207

@@ -46,7 +46,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 ## Teiginiai
 
 <a id="claim-t-12253"></a>
-- t-002
+- t-001
   teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     - c-13917
 
 <a id="claim-t-12254"></a>
-- t-003
+- t-002
   teiginys: "L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -70,15 +70,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13918
-- susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176145|Žemaičiai]]: 1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.
-- susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
-- susijęs iš Kolankowski L. Litwini a Prusacy: L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
-- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
-- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
-- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
+
 ## Citatos
 
 - id: c-13916
@@ -96,7 +88,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-13917
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -113,7 +105,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-13918
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -134,7 +126,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-65344
   autorius: "Zenonas Ivinskis"
@@ -163,6 +155,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

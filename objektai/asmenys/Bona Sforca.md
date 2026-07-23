@@ -40,7 +40,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 ## Teiginiai
 
 <a id="claim-t-173124"></a>
-- t-004
+- t-001
   teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - c-157464
 
 <a id="claim-t-173127"></a>
-- t-001
+- t-003
   teiginys: "Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -92,10 +92,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   semantiniai_rysiai: "Bona Sforca keliavo į Lenkija (0.80); Bona Sforca keliavo į Lietuva (0.78)"
   pagrindžia:
     - c-157462
-- susijęs iš Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): 1533 m. spalio 23 d. Vilniuje datuotu laišku Bona Sforca liepė Senkai Tuhanovskiui ištirti Onos Hlebavičienės patirtus nuostolius Nočioje.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
-- susijęs iš [[objektai/daiktai/Šakutė.md#claim-t-13464|Šakutė]]: Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.
-- susijęs iš [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje.md#claim-t-77946|Itališkos mados perėmimas Lietuvos diduomenėje]]: Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.
+
 ## Citatos
 
 - id: c-157462
@@ -114,7 +111,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-157464
   autorius: "Michał Baliński"
@@ -134,5 +131,5 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-002

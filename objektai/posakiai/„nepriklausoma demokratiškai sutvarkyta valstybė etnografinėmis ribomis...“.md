@@ -50,6 +50,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   citata_rodoma: "renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

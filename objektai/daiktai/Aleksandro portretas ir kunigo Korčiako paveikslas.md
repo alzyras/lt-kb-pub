@@ -86,7 +86,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78387
-- susijęs iš [[objektai/asmenys/Korčiakas.md#claim-t-87536|Korčiakas]]: Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.
+
 ## Citatos
 
 - id: c-78387

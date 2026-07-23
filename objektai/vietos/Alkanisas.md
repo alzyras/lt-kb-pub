@@ -52,7 +52,7 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   semantiniai_rysiai: "Alkanisas priklausė Aragonas (0.87)"
   pagrindžia:
     - c-82145
-- susijęs iš Aragonas: Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.
+
 ## Citatos
 
 - id: c-82145

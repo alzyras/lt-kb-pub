@@ -9,15 +9,15 @@ datos:
   - '1623 m.'
 date_start: '1621'
 date_end: '1623'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,9 +67,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-184867
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
-- susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
+
 ## Citatos
 
 - id: c-83403

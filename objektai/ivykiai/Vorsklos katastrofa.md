@@ -62,8 +62,7 @@ Nenurodyta
   semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.84)"
   pagrindžia:
     - c-38330
-- susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171392|Tochtamišo totoriai]]: Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.
-- susijęs iš [[objektai/asmenys/Bajazitas.md#claim-t-40062|Bajazitas]]: Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.
+
 ## Citatos
 
 - id: c-38330

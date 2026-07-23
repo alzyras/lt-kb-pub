@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-186386"></a>
-- t-002
+- t-001
   teiginys: "Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-169742
 
 <a id="claim-t-186387"></a>
-- t-001
+- t-002
   teiginys: "Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,6 +103,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003

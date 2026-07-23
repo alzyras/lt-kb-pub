@@ -26,7 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/Bandkė.md#claim-t-190413|Bandkė]]: Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė.

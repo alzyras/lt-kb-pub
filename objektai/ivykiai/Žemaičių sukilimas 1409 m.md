@@ -8,14 +8,14 @@ datos:
   - '1409 m.'
 date_start: '1409'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
   - karas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67016"></a>
-- t-005
+- t-001
   teiginys: "1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-04923
 
 <a id="claim-t-67018"></a>
-- t-007
+- t-002
   teiginys: "Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-04925
 
 <a id="claim-t-67019"></a>
-- t-004
+- t-003
   teiginys: "1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Nenurodyta
     - c-04922
 
 <a id="claim-t-67022"></a>
-- t-006
+- t-004
   teiginys: "Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-04922
@@ -169,7 +168,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-04923
   autorius: "Zenonas Ivinskis"
@@ -184,7 +183,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-04925
   autorius: "Zenonas Ivinskis"
@@ -201,7 +200,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-67088
   autorius: "Zenonas Ivinskis"
@@ -220,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004

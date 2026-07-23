@@ -7,12 +7,12 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,11 +65,10 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
     paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
     kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61768

@@ -50,8 +50,7 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184150
-- susijęs iš [[objektai/asmenys/Margarita Austrijietė Savojietė.md#claim-t-200870|Margarita Austrijietė Savojietė]]: Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui.
-- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-200755|Jogailaičiai]]: Vorobjovas paskutiniųjų Jogailaičių ryšius su Margarita Austrijiete Savojiete siejo su galimu Šv. Onos bažnyčios ryšiu su vėlyvąja Flandrijos gotika.
+
 ## Citatos
 
 - id: c-184150

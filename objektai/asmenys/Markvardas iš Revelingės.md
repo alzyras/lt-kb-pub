@@ -45,11 +45,7 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
   semantiniai_rysiai: "Markvardas iš Revelingės buvo sąjungininkas su Liudvikas iš Libencelės (0.82)"
   pagrindžia:
     - c-61015
-- susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59884|Liudvikas iš Libencelės]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
-- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62904|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.
-- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175174|ginklanešiai]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
-- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175178|ginklanešys]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
-- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62904|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.
+
 ## Citatos
 
 - id: c-61015

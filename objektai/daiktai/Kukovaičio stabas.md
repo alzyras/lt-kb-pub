@@ -63,9 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172595
-- susijęs iš [[objektai/daiktai/Kukovaičio stabas prie Deltuvos.md#claim-t-189765|Kukovaičio stabas prie Deltuvos]]: Narbutas, remdamasis Strijkovskiu, rašo, kad Kukovaičio stabas prie Deltuvos stovėjo ant kalno, buvo medinis ir milžino išvaizdos.
-- susijęs iš Deltuvos kalnas: Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas.
-- susijęs iš Kukovaičio kalnas: Narbutas, remdamasis Strijkovskiu, rašo, kad ant Kukovaičio kalno buvusi dievams skirta giraitė ir Kukovaičio stabas.
+
 ## Citatos
 
 - id: c-172595

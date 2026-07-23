@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195367"></a>
-- t-003
+- t-001
   teiginys: "Kūlimo metu darbininkai dieną dirbdavo lengvesnius ūkio darbus, o moterims darbų netrūkdavo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-177781
 
 <a id="claim-t-195369"></a>
-- t-001
+- t-003
   teiginys: "Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177781
   autorius: "M. Katkus"
@@ -155,4 +155,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

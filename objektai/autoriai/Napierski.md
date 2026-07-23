@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88002"></a>
-- t-003
+- t-001
   teiginys: "Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ media_all_json: |-
     - c-83981
 
 <a id="claim-t-88004"></a>
-- t-001
+- t-003
   teiginys: "Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83983
   autorius: "Michał Baliński"
@@ -166,4 +166,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75194"></a>
-- t-003
+- t-001
   teiginys: "1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-23017
 
 <a id="claim-t-75196"></a>
-- t-001
+- t-003
   teiginys: "1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-23017
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -200,7 +200,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-166645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

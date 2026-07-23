@@ -49,7 +49,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 <a id="claim-t-58643"></a>
 - t-002
   teiginys: "Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     - c-59275
 
 <a id="claim-t-194549"></a>
-- t-004
+- t-003
   teiginys: "Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,15 +75,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59275
-- susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-183962|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
-- susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-62483|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
-- susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
-- susijęs iš [[objektai/posakiai/po šiai dienai tebestovi apleista.md#claim-t-59151|po šiai dienai tebestovi apleista]]: Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.
-- susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.
-- susijęs iš Nemunas: Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.
-- susijęs iš Nemunas: Narbutas rašė, kad prie Sancinės, kur Nemunas išsišakoja į Giliją ir Rusnę, buvo vietinių Kroniszkas-Pilnis vadintas piliakalnis.
-- susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
-- susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
+
 ## Citatos
 
 - id: c-59274
@@ -128,7 +120,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   pagrindzia:
     - t-001
     - t-002
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Spitenbergas priklausė [[objektai/vietos/Pamedė]]

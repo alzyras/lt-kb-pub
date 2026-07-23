@@ -44,7 +44,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 ## Teiginiai
 
 <a id="claim-t-07968"></a>
-- t-003
+- t-001
   teiginys: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -60,7 +60,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     - c-10413
 
 <a id="claim-t-07969"></a>
-- t-004
+- t-002
   teiginys: "Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -74,12 +74,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10412
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191089|Plinijus Vyresnysis]]: Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190951|Plinijus]]: Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190778|Plinijus]]: Teodoro Narbuto pasakojime Plinijus spalius lokalizavo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo.
-- susijęs iš [[objektai/asmenys/Filimeras.md#claim-t-190854|Filimeras]]: Narbuto aiškinimu, Filimero žygio kryptį rodo spalių kelias nuo Azovo jūros į Vakarų šalis ir vėlesnis jų judėjimas su gotais.
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191082|Jordanas]]: Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190738|Jordanas]]: Jordanas teigė, kad spaliai gyveno dabartinėje Mazovijoje, o Narbutas šią žinią siejo su Filimero žygio kryptimi.
+
 ## Citatos
 
 - id: c-10412
@@ -97,7 +92,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-10413
   autorius: "Simonas Daukantas"
@@ -114,4 +109,4 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

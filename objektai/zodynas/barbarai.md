@@ -41,16 +41,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168727
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172833|Vilniaus miestiečių luomas]]: 1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87233|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: 1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.
-- susijęs iš 1505 m. Aleksandro sprendimas dėl Vilniaus miesto sienos ir vartų: 1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą gynybine siena.
-- susijęs iš Išganytojo (Spaso) bažnyčia Vilniuje: 1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.
-- susijęs iš Sluckas: Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.
-- susijęs iš Trakai: 1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus.
-- susijęs iš Švč. Trejybės cerkvė Vilniuje: 1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje.
+
 ## Citatos
 
 - id: c-168727

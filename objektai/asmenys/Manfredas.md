@@ -56,8 +56,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   temporalinis_llm_pakomentavimas: "Teiginys buvo su OCR triukšmu ir neužbaigtas, bet citata patvirtina aiškų faktą apie Manfredą."
   pagrindžia:
     - c-61014
-- susijęs iš [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius).md#claim-t-60041|Karolis (Provanso grafas ir Sicilijos karalius)]]: 1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.
-- susijęs iš [[objektai/asmenys/Urbonas IV.md#claim-t-60217|Urbonas IV]]: 1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.
+
 ## Citatos
 
 - id: c-61014

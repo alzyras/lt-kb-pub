@@ -46,10 +46,7 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
   semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) užėmė Gardino žemė (0.79)"
   pagrindžia:
     - c-33845
-- susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios.
-- susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios.
-- susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios.
-- susijęs iš Gardinas: Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios.
+
 ## Citatos
 
 - id: c-33845

@@ -44,8 +44,7 @@ Chodynickis ir J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32991
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179529|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179530|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.
+
 ## Citatos
 
 - id: c-32991

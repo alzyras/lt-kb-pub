@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-199224"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-181731
 
 <a id="claim-t-199226"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -118,6 +118,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-002
+    - t-003

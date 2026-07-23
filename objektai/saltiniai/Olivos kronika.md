@@ -39,7 +39,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 ## Teiginiai
 
 <a id="claim-t-60852"></a>
-- t-010
+- t-001
   teiginys: "Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61487
 
 <a id="claim-t-60853"></a>
-- t-008
+- t-002
   teiginys: "Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61485
 
 <a id="claim-t-60855"></a>
-- t-005
+- t-004
   teiginys: "Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61486
 
 <a id="claim-t-60856"></a>
-- t-007
+- t-005
   teiginys: "Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61491
 
 <a id="claim-t-60857"></a>
-- t-009
+- t-006
   teiginys: "Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61488
 
 <a id="claim-t-60858"></a>
-- t-004
+- t-007
   teiginys: "Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61484
 
 <a id="claim-t-60860"></a>
-- t-001
+- t-008
   teiginys: "J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61485
 
 <a id="claim-t-60861"></a>
-- t-006
+- t-009
   teiginys: "Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -195,7 +195,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-61485
   autorius: "Petras Dusburgietis"
@@ -219,7 +219,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-001
+    - t-008
 
 - id: c-61486
   autorius: "Petras Dusburgietis"
@@ -234,7 +234,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-61487
   autorius: "Petras Dusburgietis"
@@ -251,7 +251,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 - id: c-61488
   autorius: "Petras Dusburgietis"
@@ -266,7 +266,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-61490
   autorius: "Petras Dusburgietis"
@@ -283,7 +283,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-61491
   autorius: "Petras Dusburgietis"
@@ -304,7 +304,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-61492
   autorius: "Petras Dusburgietis"
@@ -322,7 +322,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-009
 
 - id: c-61493
   autorius: "Petras Dusburgietis"
@@ -333,6 +333,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   citata_rodoma: "167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

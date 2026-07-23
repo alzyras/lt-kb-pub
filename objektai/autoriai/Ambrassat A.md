@@ -38,7 +38,7 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
 ## Teiginiai
 
 <a id="claim-t-64541"></a>
-- t-005
+- t-001
   teiginys: "A. Ambrassat darbu remiamasi teigiant, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,4 +77,4 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

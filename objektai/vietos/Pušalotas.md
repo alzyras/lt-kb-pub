@@ -50,8 +50,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43789
-- susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
-- susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
+
 ## Citatos
 
 - id: c-43789

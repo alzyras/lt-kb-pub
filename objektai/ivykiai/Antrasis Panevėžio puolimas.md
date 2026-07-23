@@ -71,7 +71,7 @@ Nenurodyta
     - c-43018
 
 <a id="claim-t-41239"></a>
-- t-003
+- t-002
   teiginys: "Užėmus Panevėžį gegužės 20 d. lietuvių pajėgos įsitvirtino mieste ir pradėjo ruoštis galimam bolševikų mėginimui Panevėžį atsiimti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-43020
 
 <a id="claim-t-41240"></a>
-- t-004
+- t-003
   teiginys: "Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
     - c-43021
 
 <a id="claim-t-41241"></a>
-- t-005
+- t-004
   teiginys: "1919 m. gegužę Panevėžio, Ukmergės, Kurklių, Anykščių ir Alantos operacijos pradėjo naują Lietuvos karo su Sovietų Rusija etapą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Nenurodyta
     - c-43022
 
 <a id="claim-t-41242"></a>
-- t-002
+- t-005
   teiginys: "Antrojo Panevėžio puolimo metu gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje bei geležinkelio ruože Panevėžys-Kupiškis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,7 +182,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-43020
   sudarytojas: "Karolis Zikaras"
@@ -209,7 +209,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-43021
   sudarytojas: "Karolis Zikaras"
@@ -234,7 +234,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-43022
   sudarytojas: "Karolis Zikaras"
@@ -258,4 +258,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

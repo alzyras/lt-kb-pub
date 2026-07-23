@@ -63,7 +63,7 @@ Nenurodyta
     - c-63034
 
 <a id="claim-t-194412"></a>
-- t-003
+- t-002
   teiginys: "Apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,4 +97,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

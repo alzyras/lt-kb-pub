@@ -51,7 +51,7 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32871
-- susijęs iš A. Kotzebue, Preussens ältere Geschichte: A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą.
+
 ## Citatos
 
 - id: c-32871

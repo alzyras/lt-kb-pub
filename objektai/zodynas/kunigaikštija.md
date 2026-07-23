@@ -44,7 +44,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 ## Teiginiai
 
 <a id="claim-t-36801"></a>
-- t-005
+- t-001
   teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,7 +61,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     - c-38744
 
 <a id="claim-t-36803"></a>
-- t-004
+- t-002
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,51 +79,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-38746
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169885|Alfredas Bumblauskas]]: A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.
-- susijęs iš [[objektai/autoriai/Bumblauskas A.md#claim-t-64572|Bumblauskas A]]: A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169682|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169683|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169685|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92727|Maskvos kunigaikštija]]: Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92730|Maskvos kunigaikštija]]: 1427 m. Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92731|Maskvos kunigaikštija]]: Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92734|Maskvos kunigaikštystė]]: Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92740|Maskvos kunigaikštystė]]: Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.
-- susijęs iš [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje.md#claim-t-75201|Lietuvos valstybės sukūrimas XIII a. viduryje]]: Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.
-- susijęs iš Dobrynė: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
-- susijęs iš Kernavos kunigaikštija: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes Kernavos kunigaikštija buvo maža.
-- susijęs iš Lietuva: Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.
-- susijęs iš Liubutskas: Liubutsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių tarpe.
-- susijęs iš Novosielskas: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Novosielsko: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
-- susijęs iš Peremišlis: Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse.
-- susijęs iš Vitebskas: Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.
-- susijęs iš Volinijos-Haličo kunigaikštija: Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas.
-- susijęs iš Vorotinskas: Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80771|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80775|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.
-- susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96094|Didžioji Lietuvos kunigaikštystė]]: Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.
-- susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96095|Didžioji Lietuvos kunigaikštystė]]: Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178886|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179079|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
-- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71644|Kuršo kunigaikštystė]]: Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169692|Lietuvos Didžioji Kunigaikštija]]: 1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu.
-- susijęs iš [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai.md#claim-t-184229|1401 m. Vytauto pasižadėjimai Lenkijai]]: 1401 metų unijos aktai paliko Lietuvą Vytautui tik iki jo gyvos galvos.
-- susijęs iš [[objektai/ivykiai/Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.).md#claim-t-31508|Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.)]]: Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti.
-- susijęs iš [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas.md#claim-t-13508|duona, tolerancija, demokratija, konstitucija, barokas]]: Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku.
-- susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
-- susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą.
-- susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.
-- susijęs iš Pamarys: Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.
-- susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
-- susijęs iš Vilnius: 1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.
-- susijęs iš Vitebskas: XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos.
-- susijęs iš Vitebskas: Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą.
-- susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
-- susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
+
 ## Citatos
 
 - id: c-38744
@@ -145,7 +101,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-38745
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -187,7 +143,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-38747
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -208,4 +164,4 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

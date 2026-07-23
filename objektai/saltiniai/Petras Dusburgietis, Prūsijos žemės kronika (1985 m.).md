@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71034"></a>
-- t-013
+- t-001
   teiginys: "Leidinyje nurodoma, kad pilnas kronikos lietuviškas vertimas čia publikuojamas pirmą kartą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-55982
 
 <a id="claim-t-71035"></a>
-- t-005
+- t-002
   teiginys: "Leidinio pratarmėje nurodyta, kad didžiausia trečioji kronikos dalis skirta prūsų žemių užkariavimui ir kovai prieš Lietuvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-55964
 
 <a id="claim-t-71036"></a>
-- t-015
+- t-003
   teiginys: "Įvade numatyta apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius, rankraščius, autoriaus politinius bei ideologinius tikslus, kronikos šaltinius, tendenciją ir mokslinę svarbą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Nenurodyta
     - c-55980
 
 <a id="claim-t-71037"></a>
-- t-016
+- t-004
   teiginys: "Įžanginiame straipsnyje Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama kaip ypač svarbi tarp XIII-XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-55981
 
 <a id="claim-t-71038"></a>
-- t-012
+- t-005
   teiginys: "Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
     - c-55982
 
 <a id="claim-t-71039"></a>
-- t-010
+- t-006
   teiginys: "Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Nenurodyta
     - c-55977
 
 <a id="claim-t-71040"></a>
-- t-011
+- t-007
   teiginys: "Įžanginiame straipsnyje Petro iš Dusburgo kronika vadinama nepakeičiamai svarbia baltistikos ir lituanistikos mokslui dėl unikalių žinių apie vakarų baltų ir lietuvių istoriją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-55977
   autorius: "Petras Dusburgietis"
@@ -226,7 +226,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-55978
   autorius: "Petras Dusburgietis"
@@ -247,7 +247,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-55979
   autorius: "Petras Dusburgietis"
@@ -288,7 +288,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-003
 
 - id: c-55981
   autorius: "Petras Dusburgietis"
@@ -313,7 +313,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-004
 
 - id: c-55982
   autorius: "Petras Dusburgietis"
@@ -336,5 +336,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-012
+    - t-001
+    - t-005

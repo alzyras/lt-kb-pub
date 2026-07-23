@@ -70,7 +70,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-75156
-- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13498|Laisvę Lietuvai!]]: Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.
+
 ## Citatos
 
 - id: c-75156

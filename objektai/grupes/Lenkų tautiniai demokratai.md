@@ -45,8 +45,7 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   semantiniai_rysiai: "Lenkų tautiniai demokratai gyveno Lietuva (0.56)"
   pagrindžia:
     - c-75148
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169934|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-183474|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.
+
 ## Citatos
 
 - id: c-75148

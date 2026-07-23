@@ -3,18 +3,17 @@ tipas: vieta
 pavadinimas: 'Gorodecas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1387 m.'
 date_start: '1387'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,34 +51,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   semantiniai_rysiai: "Gorodecas priklausė Slavai (0.76)"
   pagrindžia:
     - c-28243
-- susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Patys
-    tvarkykite savo valstybę, iš
-    savųjų parinkę tokių pilie-
-    83
-
-    ## Puslapis 82
-
-    galią; skriausdami sąjungininkus, jie kurstė priešus ir
-    karą prieš save. Arčiausiai puolančiųjų plytėjo Min-
-    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
-    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
-    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
-    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
-    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
-    o visai nemokančią kariauti, vienu smūgiu privertė
-    sprukti ir iš kovos lauko, ir iš stovyklos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 

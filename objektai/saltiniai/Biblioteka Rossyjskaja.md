@@ -73,11 +73,11 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

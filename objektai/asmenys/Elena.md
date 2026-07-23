@@ -4,17 +4,11 @@ pavadinimas: 'Elena (vyskupas, XV–XVI a.)'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1494 m.'
   - '1513 m.'
 date_start: '1494'
 date_end: '1513'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,6 +16,11 @@ tags:
   - karalienė
   - karalius
   - dvasininkas
+amziai:
+  - 'XV'
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus. 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio. Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
+Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje.
 
 ## Variantai
 
@@ -175,7 +174,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-55322
 
 <a id="claim-t-54962"></a>
-- t-009
+- t-007
   teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -194,7 +193,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78769
 
 <a id="claim-t-54963"></a>
-- t-010
+- t-008
   teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -203,7 +202,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-55321
 
 <a id="claim-t-82283"></a>
-- t-011
+- t-009
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -223,7 +222,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78766
 
 <a id="claim-t-82284"></a>
-- t-018
+- t-010
   teiginys: "Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -240,7 +239,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78769
 
 <a id="claim-t-82285"></a>
-- t-017
+- t-011
   teiginys: "Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -257,7 +256,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78767
 
 <a id="claim-t-82286"></a>
-- t-014
+- t-012
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -277,7 +276,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78765
 
 <a id="claim-t-82287"></a>
-- t-015
+- t-013
   teiginys: "Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -297,7 +296,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78764
 
 <a id="claim-t-82288"></a>
-- t-012
+- t-014
   teiginys: "1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -317,7 +316,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-55318
 
 <a id="claim-t-82289"></a>
-- t-016
+- t-015
   teiginys: "Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -333,7 +332,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
     - c-78768
 
 <a id="claim-t-82290"></a>
-- t-013
+- t-016
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -347,120 +346,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78763
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82180|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.
-- susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82180|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.
-- susijęs iš [[objektai/asmenys/Janas Filipovičius.md#claim-t-87699|Janas Filipovičius]]: Janas Filipovičius pardavė karalienei Elenai paveldėtą sklypą Vilniaus pilyje su mūriniu rūsiu už devyniasdešimt kapų.
-- susijęs iš [[objektai/asmenys/Kulešinas.md#claim-t-87762|Kulešinas]]: Djakas Kulešinas per didžiojo kunigaikščio ir Elenos sutuoktuves laikė stiklinę vyno.
-- susijęs iš [[objektai/asmenys/Rapolovska.md#claim-t-87843|Rapolovska]]: Kunigaikštienė Rapolovska per didžiojo kunigaikščio ir Elenos sutuoktuves laikė vainiką virš Elenos galvos.
-- susijęs iš [[objektai/asmenys/Šv. Elena.md#claim-t-183578|Šv. Elena]]: 1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono.
-- susijęs iš [[objektai/asmenys/Šv. Elena.md#claim-t-19354|Šv. Elena]]: Šv. Elenos skulptūra buvo ant katedros frontono.
-- susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-64438|Šv. Stanislovas]]: Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
-- susijęs iš [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu.md#claim-t-87081|Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.
-- susijęs iš [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros.md#claim-t-19608|Vilniaus katedros portalo kolonada ir frontono skulptūros]]: Ant Vilniaus katedros frontono buvo šv. Kazimiero, šv. Stanislovo ir šv. Elenos skulptūros.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos.md#claim-t-87272|Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]: Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
-- susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.
-- susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.
-- susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
-- susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
-- susijęs iš Knyga su Lietuvos Metrikos archyvo sąrašu: Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.
-- susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
-- susijęs iš Mogiliavo pilis: Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.
-- susijęs iš [[objektai/zodynas/kustodas.md#claim-t-86532|kustodas]]: Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas, pardavęs karalienei Elenai paveldėtą sklypą Vilniaus pilyje.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
-- susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185944|Ivanas (Maskvos valdovas)]]: Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.
-- susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87520|Ivanas Vasiljevičius]]: Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.
-- susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87445|Mendli Girėjus]]: Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.
-- susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87415|Šach Achmedas]]: Šach Achmedas baigė gyvenimą kalėjime Lietuvoje.
-- susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78016|Šv. Kazimieras]]: 1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra.
-- susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-183580|Šv. Stanislovas]]: 1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
-- susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87036|Svečių namai rusų pirkliams Vilniuje]]: Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87065|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.
-- susijęs iš [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus.md#claim-t-87104|Šach Achmedo palapinės prie Vilniaus]]: Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.
-- susijęs iš [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai.md#claim-t-87105|Žemutinės pilies sienos ir mediniai rūmai]]: 1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.
-- susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86729|Krymo orda]]: Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.
-- susijęs iš [[objektai/grupes/Nogajaus orda.md#claim-t-86765|Nogajaus orda]]: Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus.
-- susijęs iš [[objektai/grupes/Rusų pirkliai.md#claim-t-86771|Rusų pirkliai]]: Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172828|Vilniaus miestiečių luomas]]: Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172835|Vilniaus miestiečių luomas]]: 1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
-- susijęs iš [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos.md#claim-t-77889|Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]: Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.
-- susijęs iš [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui.md#claim-t-87224|Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.
-- susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
-- susijęs iš [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał.md#claim-t-55180|Kto w Wilnie nie bywał, tot czudes nie widał]]: Maskvoje buvo išlikęs priežodis „Kto w Wilnie nie bywał, tot czudes nie widał“.
-- susijęs iš [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał.md#claim-t-55181|Kto w Wilnie nie bywał, tot czudes nie widał]]: „Kto w Wilnie nie bywał, tot czudes nie widał“ lietuviškai aiškinama kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“
-- susijęs iš [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał.md#claim-t-82141|Kto w Wilnie nie bywał, tot czudes nie widał]]: „Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus.
-- susijęs iš [[objektai/posakiai/Vendimus abscedimus, et resignamus.md#claim-t-86875|Vendimus abscedimus, et resignamus]]: Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.
-- susijęs iš Lietuva: Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.
-- susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
-- susijęs iš Maskva: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.
-- susijęs iš Maskva: Maskvoje buvo išlikęs priežodis: „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“
-- susijęs iš Maskva: Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.
-- susijęs iš Naugardas: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.
-- susijęs iš Pskovas: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
-- susijęs iš Svečių namai Vilniuje: Balińskio vertinimu, Aleksandras, leisdamas statyti Svečių namus, siekė miesto ir muito pelno bei išorinio saugumo.
-- susijęs iš Svečių namai Vilniuje: Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą.
-- susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
-- susijęs iš Tverė: Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas.
-- susijęs iš Tverė: Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.
-- susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
-- susijęs iš Vilniaus pilis: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš Vilnius: Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.
-- susijęs iš Švč. Trejybės cerkvė Vilniuje: Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
-- susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
-- susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184640|tėvonija]]: Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
-- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
-- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-- susijęs iš Vilniaus pilys: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
-## Reikšmingi paminėjimai
-- c-014
-  santrauka: 'Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mengli Girėjus, gavęs pinigų, paliovė, tiesa, niokojęs
-    Rusią, nenorėdamas laužyti visai neseniai sudaryto su­
-    sitarimo, tačiau, porą kartų nusiaubęs Valachiją, Len­
-    kijos karalystės priklausomybėje esančią žemę, aiškiai
-    parodė, kokios taikos galima tikėtis iš žmonių, įpratu­
-    sių gyventi iš plėšikavimo. Kol karalius bei didikai
-    616
-
-    ## Puslapis 615
-
-    E lena m ėg in a  p a b ė g ­
-    ti į M a sk v o s
-    k u n i­
-    g a ik š ty s tę
-    tvarkė seime valstybės rei­
-    kalus, karalienė Elena, seno­
-    kai puoselėjusi mintį pabėgti
-    į
-    Maskvos
-    kunigaikštystę,
-    pamėgino, didikams išvykus,
-    įgyvendinti šį sumanymą. Netoli Maskvos kunigaikš­
-    tystės sienos ji valdė iš valstybės asmeninėms išlai­
-    doms gautą Breslaujos apskritį su dideliais dvarais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -492,7 +377,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-012
+    - t-014
 
 - id: c-55319
   autorius: "Michał Baliński"
@@ -560,7 +445,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-010
+    - t-008
 
 - id: c-55322
   autorius: "Michał Baliński"
@@ -655,7 +540,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-016
 
 - id: c-78764
   autorius: "Michał Baliński"
@@ -681,7 +566,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-013
 
 - id: c-78765
   autorius: "Michał Baliński"
@@ -704,7 +589,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012
 
 - id: c-78766
   autorius: "Michał Baliński"
@@ -733,7 +618,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-011
+    - t-009
 
 - id: c-78767
   autorius: "Michał Baliński"
@@ -786,7 +671,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011
 
 - id: c-78768
   autorius: "Michał Baliński"
@@ -812,7 +697,7 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-78769
   autorius: "Michał Baliński"
@@ -859,8 +744,8 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-018
+    - t-007
+    - t-010
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]

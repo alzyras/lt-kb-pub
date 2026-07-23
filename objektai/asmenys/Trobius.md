@@ -61,7 +61,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     - c-169444
 
 <a id="claim-t-196608"></a>
-- t-004
+- t-003
   teiginys: "Kojelavičius rašo, kad Trobius per trumpą viešpatavimą nieko daugiau nespėjo nuveikti, gal dėl senatvės ar ankstyvos mirties."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,16 +72,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169445
-- susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188527|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.
-- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
-- susijęs iš [[objektai/asmenys/Gvaželutis.md#claim-t-190154|Gvaželutis]]: Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios žmonos sūnus.
-- susijęs iš [[objektai/asmenys/Vainius.md#claim-t-190216|Vainius]]: Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio Vytenio sūnus iš antrosios žmonos.
-- susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Narimanto išrinkimas valdovu.md#claim-t-185713|Kernavės susirinkimas ir Narimanto išrinkimas valdovu]]: Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.
-- susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
-- susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
-- susijęs iš [[objektai/zodynas/globėjo titulas laikinas valdytojas.md#claim-t-185404|globėjo titulas laikinas valdytojas]]: Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Kernavėje rūmų maršalas įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.'
@@ -109,7 +100,6 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169443
@@ -192,7 +182,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Giliginas]]

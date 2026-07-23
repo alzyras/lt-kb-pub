@@ -55,13 +55,7 @@ Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nur
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174564
-- susijęs iš [[objektai/autoriai/Carlo Denina.md#claim-t-191667|Carlo Denina]]: Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivoluzioni d’Italia“ autorius.
-- susijęs iš [[objektai/autoriai/Tilemanas.md#claim-t-191909|Tilemanas]]: Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriaus ir kitų autorių.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192937|Skiriai]]: 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Narbuto išnašoje Carlo Deninos „Delle Rivoluzioni d’Italia“ nurodytas kaip 1784 m. Venecijoje išleistas šios temos pagrindo šaltinis.
+
 ## Citatos
 
 - id: c-174564

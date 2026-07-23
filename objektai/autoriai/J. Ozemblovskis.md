@@ -39,7 +39,7 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
 ## Teiginiai
 
 <a id="claim-t-197607"></a>
-- t-002
+- t-001
   teiginys: "J. Ozemblovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +73,4 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

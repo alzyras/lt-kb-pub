@@ -49,12 +49,7 @@ Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175666
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192943|Roksolanai]]: Teodoro Narbuto perpasakotame padavime keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192469|Slavai]]: Narbutas perpasakojo legendą, kurioje keliautojai per slavų Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
-- susijęs iš Tartarija: Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius Tartarijos kraštus ir per Roksolaniją pateko į Livoniją.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192365|Alanai]]: Narbuto perpasakotoje keliautojų istorijoje kelias į Livoniją ėjo per venedų ir alanų žemes.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192480|Venedai]]: Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją.
-- susijęs iš Livonija: Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
+
 ## Citatos
 
 - id: c-175666

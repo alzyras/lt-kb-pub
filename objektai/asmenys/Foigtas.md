@@ -50,7 +50,7 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
     - c-174227
 
 <a id="claim-t-197729"></a>
-- t-003
+- t-002
   teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -144,4 +144,4 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

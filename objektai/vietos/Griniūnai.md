@@ -53,7 +53,7 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Griniūnų užėmimą puolimo metu."
   pagrindžia:
     - c-45106
-- susijęs iš Katinai: Dešinioji kolona energingu puolimu užėmė Jotvainių, Griniūnų ir Katinų kaimus.
+
 ## Citatos
 
 - id: c-45106

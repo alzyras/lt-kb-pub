@@ -7,13 +7,13 @@ datos:
   - '1283 m.'
 date_start: '1283'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - šeima
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59736"></a>
-- t-002
+- t-001
   teiginys: "Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-60370
 
 <a id="claim-t-59737"></a>
-- t-001
+- t-002
   teiginys: "Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -148,11 +148,11 @@ Nenurodyta
     ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
     kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-006
 
 ## Citatos
 
@@ -219,8 +219,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003
     - t-004
     - t-005

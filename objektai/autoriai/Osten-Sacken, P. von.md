@@ -51,7 +51,3 @@ Osten-Sacken, P.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/P. von.md#claim-t-30913|P. von]]: P. von Osten-Sackenas 1910 m. paskelbė darbą apie Livonijos ir Rusios santykius Vytauto valdymo laikotarpiu.
-- susijęs iš [[objektai/autoriai/Petkun’, P.md#claim-t-30924|Petkun’, P]]: P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.

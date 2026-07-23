@@ -7,13 +7,13 @@ datos:
   - '1433 m.'
 date_start: '1433'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,7 +118,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168907
@@ -171,6 +170,7 @@ Nenurodyta
   citata_rodoma: "Lietuvos isto rija\n\n## Puslapis 448\n\nP odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­\nm o. Ž ygim antas, n esu lau k d am as iš len k ų  pag alb o s ir\np ag rįstai ab ejo d am as lietu v ių  d idikų ištikim ybe, n e išd rį­\nso p ats ro d y tis k ariu o m en ėje, o p ask y rė k arv ed žiu  P etrą\nM an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į\nn ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­\ndam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

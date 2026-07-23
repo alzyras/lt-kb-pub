@@ -30,7 +30,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 ## Teiginiai
 
 <a id="claim-t-40372"></a>
-- t-002
+- t-001
   teiginys: "Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     - c-42170
 
 <a id="claim-t-40373"></a>
-- t-001
+- t-002
   teiginys: "Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   semantiniai_rysiai: "Nikolajus Arsenjevas gynė Vilnius (0.78)"
   pagrindžia:
     - c-44478
-- susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-183758|Nikolajus Repinas]]: Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.
+
 ## Citatos
 
 - id: c-42170
@@ -85,7 +85,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44478
   sudarytojas: "Karolis Zikaras"
@@ -110,4 +110,4 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

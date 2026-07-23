@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41295"></a>
-- t-005
+- t-001
   teiginys: "Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-44906
 
 <a id="claim-t-41297"></a>
-- t-001
+- t-003
   teiginys: "Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Nenurodyta
     - c-43070
 
 <a id="claim-t-41299"></a>
-- t-003
+- t-005
   teiginys: "Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-43069
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-43067
@@ -173,7 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-43069
   sudarytojas: "Karolis Zikaras"
@@ -198,7 +198,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-43070
   sudarytojas: "Karolis Zikaras"
@@ -246,7 +246,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-44906
   sudarytojas: "Karolis Zikaras"

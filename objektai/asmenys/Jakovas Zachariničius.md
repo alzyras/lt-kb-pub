@@ -26,7 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos: Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.

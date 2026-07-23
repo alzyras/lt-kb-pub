@@ -7,13 +7,13 @@ datos:
   - '1784 m.'
 date_start: '1784'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,7 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 ## Teiginiai
 
 <a id="claim-t-188013"></a>
-- t-002
+- t-001
   teiginys: "Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::groups"
@@ -64,11 +64,7 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Narbutų giminę ir atitinka citatos informaciją. Papildomos atribucijos nereikia, nes tai nėra legendinis ar vertinamasis teiginys."
   pagrindžia:
     - c-170860
-- susijęs iš [[objektai/asmenys/Boleslovas Narbutas.md#claim-t-188040|Boleslovas Narbutas]]: 1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.
-- susijęs iš [[objektai/asmenys/Pranciškus Narbutas.md#claim-t-187904|Pranciškus Narbutas]]: 1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.
-- susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
-- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -108,4 +104,4 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

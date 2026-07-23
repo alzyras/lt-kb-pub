@@ -71,9 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Vitebsko karo lauko seimo veiksmą."
   pagrindžia:
     - c-23277
-- susijęs iš Vitebskas: 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
+
 ## Citatos
 
 - id: c-23277

@@ -101,7 +101,7 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175591
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-190974|Sventopelkas]]: Teodoras Narbutas aiškino, kad Giurgevo tvirtovė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką.
+
 ## Citatos
 
 - id: c-175591

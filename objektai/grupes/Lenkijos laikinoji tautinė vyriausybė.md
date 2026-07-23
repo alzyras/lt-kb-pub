@@ -43,6 +43,7 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
   citata_rodoma: "lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

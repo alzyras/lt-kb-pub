@@ -60,13 +60,7 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, kuriame demobilizacija aiškiai susieta su Ladygos veikla."
   pagrindžia:
     - c-45509
-- susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės).md#claim-t-20312|Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]: Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.
-- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
-- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101653|Josifas Stalinas]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
-- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19028|Juozas Urbšys]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir teritorijos perdavimo Vokietijai sutartis.
-- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75300|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.
-- susijęs iš SSRS siūlyta sutartis dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai: Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-- susijęs iš Maskva: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
+
 ## Citatos
 
 - id: c-45509

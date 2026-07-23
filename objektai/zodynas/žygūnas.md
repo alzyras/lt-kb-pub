@@ -87,7 +87,7 @@ media_all_json: |-
     - c-168694
 
 <a id="claim-t-185335"></a>
-- t-005
+- t-004
   teiginys: "Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ media_all_json: |-
     - c-168696
 
 <a id="claim-t-185336"></a>
-- t-006
+- t-005
   teiginys: "Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -123,10 +123,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168697
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184505|Kryžiuočių ordinas]]: 1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.
-- susijęs iš Maskva: Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.).md#claim-t-185593|Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas Lietuvai atviru karu.
-- susijęs iš Žemaitija: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.'
@@ -206,7 +203,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168692
@@ -323,7 +319,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-168697
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -348,4 +344,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

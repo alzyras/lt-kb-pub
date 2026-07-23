@@ -80,11 +80,11 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
     buvo kovinga, gausi, vadovaujama savimi pasitikinčio
     karvedžio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

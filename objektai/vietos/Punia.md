@@ -54,16 +54,7 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175664
-- susijęs iš Maročė: Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
-- susijęs iš [[objektai/daiktai/Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių.md#claim-t-200673|Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių]]: 1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.
-- susijęs iš Nemunas: Narbuto aprašytame kelyje Pripetės vandens baseinas jungėsi su Nemuno sistema.
-- susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
-- susijęs iš [[objektai/daiktai/Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių.md#claim-t-200673|Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių]]: 1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.
-- susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
+
 ## Citatos
 
 - id: c-175664

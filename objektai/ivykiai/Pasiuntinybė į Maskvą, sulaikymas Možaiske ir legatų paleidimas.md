@@ -7,13 +7,13 @@ datos:
   - '1528 m.'
 date_start: '1528'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatinis-įvykis
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185529"></a>
-- t-002
+- t-001
   teiginys: "Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-168890
 
 <a id="claim-t-185530"></a>
-- t-003
+- t-002
   teiginys: "Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-168891
 
 <a id="claim-t-196235"></a>
-- t-004
+- t-003
   teiginys: "Valdovui Vilniuje tvarkant Žygimanto Augusto išrinkimo reikalus, atvyko Maskvos kunigaikščio Vasilijaus legatas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-168890
 
 <a id="claim-t-196236"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičiaus pasakojime Vasilijus įsižeidė dėl jauno pasiuntinio Jono Jesmano ir pareikalavo į Maskvą siųsti brandesnių metų vyrą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -173,8 +173,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003
 
 - id: c-168891
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -218,5 +218,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004

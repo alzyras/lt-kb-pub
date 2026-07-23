@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-65011"></a>
-- t-002
+- t-001
   teiginys: "Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-65530
 
 <a id="claim-t-65013"></a>
-- t-001
+- t-002
   teiginys: "Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-65532
   redaktorius: "A. Šapoka"
@@ -136,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -8,15 +8,15 @@ datos:
   - '1265 m.'
 date_start: '1262'
 date_end: '1265'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karvedys
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ## Teiginiai
 
 <a id="claim-t-60151"></a>
-- t-002
+- t-001
   teiginys: "Prūsų vadas Kaltis žuvo nukautas kalaviju, kai bėgantys pėstininkai susidūrė su raiteliais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - c-60783
 
 <a id="claim-t-60152"></a>
-- t-001
+- t-002
   teiginys: "Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Kalčio paskyrimą apgulos pėstininkų vadu."
   pagrindžia:
     - c-60783
-- susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Prūsų vadas Kaltis žuvo nukautas kalaviju, kai bėgantys pėstininkai susidūrė su raiteliais.'
@@ -79,11 +79,10 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
     bėgdami pėstininkai susidūrė su raiteliais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60783
@@ -108,8 +107,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-60784
   autorius: "Petras Dusburgietis"
@@ -122,6 +121,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   citata_rodoma: "Per apgulą ir bėgant žuvo daug prūsų,\ndaug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes\nbėgdami pėstininkai susidūrė su raiteliais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

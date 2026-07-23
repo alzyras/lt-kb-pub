@@ -96,12 +96,7 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171806
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
-- susijęs iš [[objektai/asmenys/Albertas Krantcas.md#claim-t-190128|Albertas Krantcas]]: Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188391|Adomas Bremenietis]]: Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
+
 ## Citatos
 
 - id: c-171804

@@ -8,14 +8,14 @@ datos:
   - '2026 m.'
 date_start: '1700'
 date_end: '2026'
-amziai:
-  - 'XVII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'XVII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 ## Teiginiai
 
 <a id="claim-t-181533"></a>
-- t-017
+- t-001
   teiginys: "1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     - c-43959
 
 <a id="claim-t-181535"></a>
-- t-016
+- t-002
   teiginys: "Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,25 +72,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-165069
-- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78531|Valkininkų konfederacija]]: Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus.
-- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
-- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78534|Valkininkų konfederacija]]: Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus.
-- susijęs iš [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.).md#claim-t-78642|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]: Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.
-- susijęs iš [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.).md#claim-t-80679|Valkininkų konfederacijos nutarimas (1700 m.)]]: Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus.
-- susijęs iš Leipūnai: Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.
-- susijęs iš Leipūnai: Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.
-- susijęs iš Paneriai: Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.
-- susijęs iš Paneriai: Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.
-- susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
-- susijęs iš Vokė: Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.
-- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.
-- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92969|Kardas]]: 1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.
-- susijęs iš [[objektai/grupes/Respublikonai.md#claim-t-41123|Respublikonai]]: Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę.
-- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
-- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
-- susijęs iš [[objektai/zodynas/etatiniai vienetai.md#claim-t-42450|etatiniai vienetai]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
+
 ## Citatos
 
 - id: c-43959
@@ -119,7 +101,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-001
 
 - id: c-165069
   sudarytojas: "Karolis Zikaras"
@@ -147,4 +129,4 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-002

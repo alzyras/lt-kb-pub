@@ -38,8 +38,7 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   pagrindžia:
     - c-23689
     - c-166907
-- susijęs iš [[objektai/posakiai/„Prokrusto komunistinė lova“.md#claim-t-20866|„Prokrusto komunistinė lova“]]: Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.
-- susijęs iš [[objektai/zodynas/socialistinis realizmas.md#claim-t-22301|socialistinis realizmas]]: Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
+
 ## Citatos
 
 - id: c-23689

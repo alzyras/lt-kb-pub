@@ -44,8 +44,7 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75107
-- susijęs iš Kaunas: Pažaislio vienuolyno ansamblis prie Kauno minimas tarp europinės reikšmės meno kūrinių.
-- susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.
+
 ## Citatos
 
 - id: c-75107

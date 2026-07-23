@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-11775"></a>
-- t-005
+- t-001
   teiginys: "Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-14705
 
 <a id="claim-t-11776"></a>
-- t-006
+- t-002
   teiginys: "Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -64,7 +64,7 @@ media_all_json: |-
     - c-14706
 
 <a id="claim-t-11777"></a>
-- t-004
+- t-003
   teiginys: "Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -78,9 +78,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14705
-- susijęs iš Zigmanto Kęstutaičio 1434 m. privilegija: Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188014|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188017|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
+
 ## Citatos
 
 - id: c-14705
@@ -101,8 +99,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-003
 
 - id: c-14706
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -123,4 +121,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

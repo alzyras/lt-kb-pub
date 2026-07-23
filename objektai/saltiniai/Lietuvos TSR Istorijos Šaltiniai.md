@@ -8,13 +8,13 @@ datos:
   - '1955 m.'
 date_start: '1324'
 date_end: '1955'
-amziai:
-  - 'XIV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 ## Teiginiai
 
 <a id="claim-t-89528"></a>
-- t-003
+- t-001
   teiginys: "Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     - c-85474
 
 <a id="claim-t-89531"></a>
-- t-004
+- t-003
   teiginys: "Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -106,11 +106,11 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
     kronikos vertimas čia publikuojamas pirmą kartą.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-89531
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -130,7 +130,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003
 
 - id: c-85476
   autorius: "Petras Dusburgietis"
@@ -144,4 +144,4 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

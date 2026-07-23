@@ -89,7 +89,7 @@ Nenurodyta
     - c-60039
 
 <a id="claim-t-194420"></a>
-- t-004
+- t-003
   teiginys: "Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -150,4 +150,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003

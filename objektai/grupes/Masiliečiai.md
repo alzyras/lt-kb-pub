@@ -89,8 +89,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175728
-- susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191023|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru.
-- susijęs iš [[objektai/asmenys/Aleksandras Makedonietis.md#claim-t-191363|Aleksandras Makedonietis]]: Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams.
+
 ## Citatos
 
 - id: c-175726

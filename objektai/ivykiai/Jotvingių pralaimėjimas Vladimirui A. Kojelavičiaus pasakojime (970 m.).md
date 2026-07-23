@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196171"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius rašo, kad Vladimiras, atsiteisdamas už tėvo nesėkmę, prie rusų valstybės prijungė kaimynų žemes, tarp jų kai kas minėjo ir rusų Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

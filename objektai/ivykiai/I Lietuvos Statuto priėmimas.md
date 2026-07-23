@@ -7,13 +7,13 @@ datos:
   - '1529 m.'
 date_start: '1529'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - reforma
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187472"></a>
-- t-002
+- t-001
   teiginys: "Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -101,7 +101,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170442
@@ -124,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

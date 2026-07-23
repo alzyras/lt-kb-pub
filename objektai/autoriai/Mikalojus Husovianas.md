@@ -9,15 +9,15 @@ datos:
   - '1550 m.'
 date_start: '1523'
 date_end: '1550'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

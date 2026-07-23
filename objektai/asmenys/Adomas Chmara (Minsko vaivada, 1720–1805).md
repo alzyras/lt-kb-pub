@@ -39,7 +39,7 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
 ## Teiginiai
 
 <a id="claim-t-200461"></a>
-- t-002
+- t-001
   teiginys: "Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +56,7 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
     - c-183843
 
 <a id="claim-t-200462"></a>
-- t-001
+- t-002
   teiginys: "1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -87,5 +87,5 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

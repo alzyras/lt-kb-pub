@@ -56,7 +56,7 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Petro Biało vaidmenį ir sutarties pasirašymą, remiantis citata."
   pagrindžia:
     - c-83804
-- susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
+
 ## Citatos
 
 - id: c-83804

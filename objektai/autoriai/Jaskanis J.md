@@ -38,6 +38,7 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
     vidupio ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

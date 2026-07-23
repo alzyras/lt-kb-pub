@@ -47,14 +47,7 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   semantiniai_rysiai: "Divanas apgulė Senenzė (0.94); Bartai apgulė Senenzė (0.82)"
   pagrindžia:
     - c-64338
-- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88526|Bartai]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
-- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59913|Divanas]]: Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.
-- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66895|Senenzės pilies apgula ir Divano žūtis]]: Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.
-- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59913|Divanas]]: Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88526|Bartai]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
-- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
-- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66895|Senenzės pilies apgula ir Divano žūtis]]: Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.
+
 ## Citatos
 
 - id: c-64337

@@ -65,7 +65,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44697
-- susijęs iš [[objektai/daiktai/Vokiškas pistoletas Walther P38.md#claim-t-80696|Vokiškas pistoletas Walther P38]]: Vokiškas pistoletas Walther P38 buvo nurodytas kaip 220 puslapio iliustracija iš VDKM, fotografuota Artūro Užgalio.
+
 ## Citatos
 
 - id: c-44697

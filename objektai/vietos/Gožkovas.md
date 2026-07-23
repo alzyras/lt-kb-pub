@@ -44,8 +44,7 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82166
-- susijęs iš [[objektai/autoriai/Soltykovičius.md#claim-t-88098|Soltykovičius]]: Soltykovičius rašė, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas.
-- susijęs iš O stanie Akademii Krakowskiej: O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius.
+
 ## Citatos
 
 - id: c-82166

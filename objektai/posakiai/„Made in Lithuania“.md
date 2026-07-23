@@ -44,7 +44,7 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26584
-- susijęs iš [[objektai/grupes/Lietuvos policija.md#claim-t-26342|Lietuvos policija]]: Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.
+
 ## Citatos
 
 - id: c-26584

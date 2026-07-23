@@ -56,15 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata pagrindžia jo pareigas, datą ir pasirašymo veiksmą."
   pagrindžia:
     - c-83684
-- susijęs iš [[objektai/asmenys/Lukas Opachovskis.md#claim-t-87768|Lukas Opachovskis]]: 1563 m. Vilniaus burmistras Lukas Opachovskis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Karalystės seime Varšuvoje.
-- susijęs iš [[objektai/asmenys/Zenonas Zažeckis.md#claim-t-87891|Zenonas Zažeckis]]: 1563 m. Vilniaus burmistras Zenonas Zažeckis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Varšuvos seime.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
-- susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
-- susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
+
 ## Citatos
 
 - id: c-83684

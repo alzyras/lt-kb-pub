@@ -8,10 +8,10 @@ datos:
   - '1555 m.'
 date_start: '1551'
 date_end: '1555'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

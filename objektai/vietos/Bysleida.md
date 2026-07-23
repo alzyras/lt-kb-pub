@@ -63,31 +63,7 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59168
-- susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
-- susijęs iš [[objektai/asmenys/Nameda.md#claim-t-60393|Nameda]]: Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175135|Sūduviai-jotvingiai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89235|Sūduviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
-- susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65940|Nadruviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65940|Nadruviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.
-- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
-- susijęs iš [[objektai/posakiai/Gailiuosi jus pagimdžiusi.md#claim-t-59092|Gailiuosi jus pagimdžiusi]]: Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.
-- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190098|Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189974|Kristoforas Hartknochas]]: Hartknochas senosios Prūsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188433|Kristupas Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65940|Nadruviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175135|Sūduviai-jotvingiai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89235|Sūduviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
-- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62762|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.
-- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
-- susijęs iš Prūsa: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš [[objektai/asmenys/Nameda.md#claim-t-60393|Nameda]]: Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.
-- susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
-- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
-- susijęs iš [[objektai/posakiai/Gailiuosi jus pagimdžiusi.md#claim-t-59092|Gailiuosi jus pagimdžiusi]]: Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
-- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.'

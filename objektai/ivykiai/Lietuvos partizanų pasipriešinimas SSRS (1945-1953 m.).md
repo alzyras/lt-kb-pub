@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75180"></a>
-- t-002
+- t-001
   teiginys: "1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-23076
 
 <a id="claim-t-75181"></a>
-- t-005
+- t-002
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-23079
 
 <a id="claim-t-75182"></a>
-- t-008
+- t-003
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-73066
 
 <a id="claim-t-75183"></a>
-- t-007
+- t-004
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Nenurodyta
     - c-166642
 
 <a id="claim-t-75184"></a>
-- t-006
+- t-005
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Nenurodyta
     - c-23080
 
 <a id="claim-t-75185"></a>
-- t-001
+- t-006
   teiginys: "Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
     - c-23075
 
 <a id="claim-t-183254"></a>
-- t-009
+- t-007
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Nenurodyta
     - c-166642
 
 <a id="claim-t-193573"></a>
-- t-010
+- t-008
   teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176250
-- susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74760|Lietuvos partizanai]]: Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.
+
 ## Citatos
 
 - id: c-23075
@@ -216,7 +216,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-23076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -236,7 +236,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-23079
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -256,7 +256,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-23080
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -279,7 +279,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-23081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -326,7 +326,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-166642
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -347,8 +347,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-007
-    - t-009
 
 - id: c-176250
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -368,4 +368,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008

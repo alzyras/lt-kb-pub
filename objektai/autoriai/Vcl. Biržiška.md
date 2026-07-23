@@ -56,7 +56,7 @@ Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, k
   temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą, o likęs tekstas yra pašalinis triukšmas."
   pagrindžia:
     - c-94023
-- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
+
 ## Citatos
 
 - id: c-94023

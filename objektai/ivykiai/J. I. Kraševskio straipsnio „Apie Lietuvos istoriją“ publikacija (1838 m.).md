@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192046"></a>
-- t-002
+- t-001
   teiginys: "Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -95,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

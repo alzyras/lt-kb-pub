@@ -53,10 +53,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33863
-- susijęs iš [[objektai/autoriai/A. Tautavičius.md#claim-t-30544|A. Tautavičius]]: A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją.
-- susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179498|Archeologai ir priešistorės tyrėjai]]: R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema.
-- susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179501|Archeologai ir priešistorės tyrėjai]]: P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.
-- susijęs iš [[objektai/autoriai/R. Volkaitė-Kulikauskienė.md#claim-t-97218|R. Volkaitė-Kulikauskienė]]: R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje.
+
 ## Citatos
 
 - id: c-33863

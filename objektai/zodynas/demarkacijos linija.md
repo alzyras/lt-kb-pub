@@ -40,7 +40,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 ## Teiginiai
 
 <a id="claim-t-181355"></a>
-- t-027
+- t-001
   teiginys: "Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -60,7 +60,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     - c-164910
 
 <a id="claim-t-181357"></a>
-- t-028
+- t-002
   teiginys: "Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -74,8 +74,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-164911
-- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
-- susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
+
 ## Citatos
 
 - id: c-164910
@@ -95,7 +94,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-001
 
 - id: c-164911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -112,4 +111,4 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-002

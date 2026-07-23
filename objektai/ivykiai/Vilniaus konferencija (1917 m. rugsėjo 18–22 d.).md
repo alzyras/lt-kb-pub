@@ -64,11 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-02085
-- susijęs iš [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.).md#claim-t-01591|Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]: 1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.
-- susijęs iš Bernas: 1917 m. lapkričio 2–10 d. Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto reikalą.
-- susijęs iš Bernas: Vilniaus konferencijai išrinkus Lietuvos Tarybą, 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija.
-- susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72688|etnografinė siena]]: Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.
-- susijęs iš [[objektai/zodynas/etnografinė siena.md#claim-t-72690|etnografinė siena]]: Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.
+
 ## Citatos
 
 - id: c-02085

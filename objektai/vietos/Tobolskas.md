@@ -48,7 +48,7 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175674
-- susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-190965|Riurikas]]: Narbutas rašo, kad dauguma mokslininkų neigia slavų rusų egzistavimą iki Riuriko.
+
 ## Citatos
 
 - id: c-175674

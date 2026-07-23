@@ -58,7 +58,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - c-177437
 
 <a id="claim-t-195054"></a>
-- t-003
+- t-002
   teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +68,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177437
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
+
 ## Citatos
 
 - id: c-177436
@@ -137,7 +136,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-177438
   autorius: "Michał Baliński"
@@ -157,9 +156,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   citata_rodoma: "Dabar Veliuona priklauso dvari­\nninkui Mykolui Zaleskiui.\nUž mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­\nburgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­\nvarijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­\ndą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su \nkryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba- \njerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo \nžemaitiško žodžio „raudonas\", mat jos sienos sumūrytos iš \nraudonų plytų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

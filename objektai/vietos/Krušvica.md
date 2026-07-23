@@ -44,11 +44,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82060
-- susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
-- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
-- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
-- susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62844|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.
-- susijęs iš Gnieznas: Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.
+
 ## Citatos
 
 - id: c-82060

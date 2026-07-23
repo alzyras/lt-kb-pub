@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89359"></a>
-- t-003
+- t-001
   teiginys: "Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-85311
 
 <a id="claim-t-89360"></a>
-- t-001
+- t-002
   teiginys: "Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-85312
 
 <a id="claim-t-89361"></a>
-- t-002
+- t-003
   teiginys: "Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,12 +121,12 @@ Nenurodyta
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-89361
-    - t-194383
+  statusas: verified
+- t-003
+    - t-004
 
 ## Citatos
 
@@ -150,7 +150,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-85312
   autorius: "Petras Dusburgietis"
@@ -174,6 +174,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
     - t-004

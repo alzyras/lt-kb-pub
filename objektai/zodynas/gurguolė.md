@@ -12,14 +12,14 @@ datos:
   - '1489 m.'
 date_start: '1301'
 date_end: '1489'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - istorinė-sąvoka
+amziai:
+  - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 ## Teiginiai
 
 <a id="claim-t-113626"></a>
-- t-003
+- t-001
   teiginys: "Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-104823
 
 <a id="claim-t-113627"></a>
-- t-004
+- t-002
   teiginys: "Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-104824
 
 <a id="claim-t-113628"></a>
-- t-001
+- t-003
   teiginys: "Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-104822
 
 <a id="claim-t-184613"></a>
-- t-005
+- t-004
   teiginys: "Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167974
 
 <a id="claim-t-184615"></a>
-- t-007
+- t-005
   teiginys: "1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167976
 
 <a id="claim-t-184616"></a>
-- t-008
+- t-006
   teiginys: "Kęstutis ir Algirdas įsakė kariams trauktis rikiuotėje, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167977
 
 <a id="claim-t-193378"></a>
-- t-010
+- t-007
   teiginys: "Pasak Kojelavičiaus, metę gurguoles bėgliai būtų galėję lengviau pasprukti į tėvynę, nes jų raitija buvo lengvesnė ir eiklesnė."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-176103
 
 <a id="claim-t-196371"></a>
-- t-011
+- t-008
   teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai ir žemaičiai prie Liubavos pabėgo nuo kryžiuočių puolimo, palikdami stovyklą ir gurguoles."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167974
 
 <a id="claim-t-196372"></a>
-- t-012
+- t-009
   teiginys: "Lenkų būrys pasivijo besitraukiančius lietuvius ir užpuolė ariergardą, o lietuvių gurguolės tuo metu buvo nuvarytos į priekį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -191,7 +191,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167976
 
 <a id="claim-t-196373"></a>
-- t-013
+- t-010
   teiginys: "Kęstutis ir Algirdas įsakė kariams rikiuotėje trauktis nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     - c-167977
 
 <a id="claim-t-196374"></a>
-- t-014
+- t-011
   teiginys: "Jono Olbrachto kariuomenei prie Savranės upės kovojant su skitais, nedidelio būrio saugomos gurguolės lėtai slinko iš paskos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -215,13 +215,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178651
-- susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
-- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-184081|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
-- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89173|Pomeranai]]: Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.
-- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
-- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.'
@@ -272,7 +266,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-104822
@@ -299,7 +292,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-104823
   autorius: "Petras Dusburgietis"
@@ -324,7 +317,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-104824
   autorius: "Michał Baliński"
@@ -360,7 +353,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-167974
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -397,8 +390,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-011
+    - t-004
+    - t-008
 
 - id: c-167976
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -439,8 +432,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-012
+    - t-005
+    - t-009
 
 - id: c-167977
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -473,8 +466,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-013
+    - t-006
+    - t-010
 
 - id: c-176103
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -512,7 +505,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-178651
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -547,4 +540,4 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011

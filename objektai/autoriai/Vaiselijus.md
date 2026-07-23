@@ -8,15 +8,15 @@ datos:
   - '1684 m.'
 date_start: '1684'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vyskupas
   - autorius
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     - c-173344
 
 <a id="claim-t-190816"></a>
-- t-003
+- t-002
   teiginys: "Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     - c-173698
 
 <a id="claim-t-191910"></a>
-- t-004
+- t-003
   teiginys: "Narbuto perteiktas Hartknochas Vaiselijų įvardijo tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,8 +97,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174792
-- susijęs iš [[objektai/asmenys/Meletijus ir Vaiselijus.md#claim-t-190184|Meletijus ir Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
-- susijęs iš [[objektai/autoriai/Meletijus.md#claim-t-190338|Meletijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu.'
@@ -112,11 +111,10 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-173344
@@ -162,7 +160,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-174792
   autorius: "Teodoras Narbutas"
@@ -189,4 +187,4 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

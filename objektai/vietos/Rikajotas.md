@@ -48,7 +48,7 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171856
-- susijęs iš Upės (Oppen) kaimas: Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė šventyklos liekanoms.
+
 ## Citatos
 
 - id: c-171856

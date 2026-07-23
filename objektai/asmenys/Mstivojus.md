@@ -8,16 +8,16 @@ datos:
   - '1299 m.'
 date_start: '1244'
 date_end: '1299'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - vyskupas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 ## Teiginiai
 
 <a id="claim-t-59894"></a>
-- t-006
+- t-001
   teiginys: "Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - c-60530
 
 <a id="claim-t-59895"></a>
-- t-003
+- t-002
   teiginys: "Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - c-60531
 
 <a id="claim-t-59896"></a>
-- t-001
+- t-003
   teiginys: "Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - c-60529
 
 <a id="claim-t-59899"></a>
-- t-002
+- t-006
   teiginys: "Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,17 +136,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   semantiniai_rysiai: "Mstivojus buvo sūnus Sventopelkas (0.95)"
   pagrindžia:
     - c-60526
-- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
-- susijęs iš 1282 m. Mstivojaus ir Ordino taikos dokumentas: M. Tepenas manė, kad Dusburgietis galėjo žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
-- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
-- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
-- susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
-- susijęs iš 1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1324 m. popiežiaus legatų dokumentu dėl taikos su Gediminu.
-- susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
-- susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
-- susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
-- susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.'
@@ -157,13 +147,15 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
     tarp jo ir magistro bei brolių taikos susitarimą.
 
+
+
+
                    130 (125).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60526
@@ -186,7 +178,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-60527
   autorius: "Petras Dusburgietis"
@@ -214,7 +206,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
     - t-004
 
 - id: c-60528
@@ -280,7 +272,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-60531
   autorius: "Petras Dusburgietis"
@@ -302,7 +294,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
     - t-004
 
 ## Ryšiai

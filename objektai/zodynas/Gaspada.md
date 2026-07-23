@@ -39,7 +39,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-70003"></a>
-- t-004
+- t-001
   teiginys: "Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -61,4 +61,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

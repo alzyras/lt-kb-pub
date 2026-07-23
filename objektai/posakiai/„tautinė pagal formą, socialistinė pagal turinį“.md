@@ -86,8 +86,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26746
-- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
-- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
+
 ## Citatos
 
 - id: c-26746

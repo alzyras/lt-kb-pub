@@ -53,9 +53,7 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32955
-- susijęs iš Lietuvos TSR istorijos bibliografija 1940-1965: Lietuvos TSR istorijos bibliografiją 1940-1965 sudarė septynių asmenų kolektyvas, ji išleista Vilniuje 1969 m.
-- susijęs iš Bibliography of Baltic Bibliographies: J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją.
-- susijęs iš Lithuania and Lithuanians. A selected bibliography: J. Balio „Lithuania and Lithuanians. A selected bibliography“ išleista Niujorke 1961 m.
+
 ## Citatos
 
 - id: c-32955

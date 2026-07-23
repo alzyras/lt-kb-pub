@@ -188,8 +188,7 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184121
-- susijęs iš [[objektai/asmenys/Mikalojus III.md#claim-t-200871|Mikalojus III]]: Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą.
-- susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87022|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.
+
 ## Citatos
 
 - id: c-55846

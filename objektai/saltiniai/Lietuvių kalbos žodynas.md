@@ -39,7 +39,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 ## Teiginiai
 
 <a id="claim-t-67437"></a>
-- t-003
+- t-001
   teiginys: "Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     - c-67337
 
 <a id="claim-t-183364"></a>
-- t-004
+- t-003
   teiginys: "Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-67337
   autorius: "Petras Dusburgietis"
@@ -145,4 +145,4 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

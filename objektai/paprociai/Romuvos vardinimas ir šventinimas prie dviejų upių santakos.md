@@ -85,11 +85,10 @@ Nenurodyta
     jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
     takoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174957

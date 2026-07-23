@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75132"></a>
-- t-003
+- t-001
   teiginys: "Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-23023
 
 <a id="claim-t-75134"></a>
-- t-001
+- t-003
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -113,8 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-003
 
 - id: c-23023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

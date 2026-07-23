@@ -77,7 +77,7 @@ Nenurodyta
     - c-55387
 
 <a id="claim-t-54486"></a>
-- t-003
+- t-002
   teiginys: "Krikšto apeigų metu Vilniuje buvo užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-55388
 
 <a id="claim-t-54487"></a>
-- t-002
+- t-003
   teiginys: "Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -160,7 +160,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
 
 - id: c-55388
   autorius: "Michał Baliński"
@@ -179,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

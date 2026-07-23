@@ -59,9 +59,7 @@ Bereza čia minima kaip laidojimo vieta.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183976
-- susijęs iš [[objektai/asmenys/Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.).md#claim-t-200529|Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.)]]: Tadas Bučinskis buvo Oršos pavieto raikytojas.
-- susijęs iš [[objektai/asmenys/Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.).md#claim-t-200530|Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.)]]: Po Mykolo Antano Sapiegos mirties Tadas Bučinskis ieškojo galionų ir aksomo jo karstui.
-- susijęs iš Slonimas: 1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega.
+
 ## Citatos
 
 - id: c-183976

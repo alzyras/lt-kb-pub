@@ -44,8 +44,7 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166899
-- susijęs iš [[objektai/zodynas/savismauga.md#claim-t-183463|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
-- susijęs iš [[objektai/zodynas/savismauga.md#claim-t-22297|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
+
 ## Citatos
 
 - id: c-166899

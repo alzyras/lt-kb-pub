@@ -42,7 +42,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 ## Teiginiai
 
 <a id="claim-t-131654"></a>
-- t-012
+- t-001
   teiginys: "Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas dualizmu arba diarchija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -58,7 +58,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-120214
 
 <a id="claim-t-131655"></a>
-- t-011
+- t-002
   teiginys: "Diarchija apibūdinama kaip dviejų asmenų valdymo sistema, susidariusi Algirdo ir Kęstučio laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -74,7 +74,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-14686
 
 <a id="claim-t-131656"></a>
-- t-010
+- t-003
   teiginys: "Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -91,7 +91,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-14686
 
 <a id="claim-t-131657"></a>
-- t-006
+- t-004
   teiginys: "Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -109,7 +109,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-120212
 
 <a id="claim-t-183413"></a>
-- t-013
+- t-005
   teiginys: "Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -127,13 +127,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   semantiniai_rysiai: "Gediminas valdė Lietuva (0.84)"
   pagrindžia:
     - c-166807
-- susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
-- susijęs iš Trakai: Algirdas valdė Vilniuje, o Kęstutis - Trakuose.
-- susijęs iš Trakai: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
-- susijęs iš Vilnius: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
-- susijęs iš Vilnius: Lietuvą vienu metu valdė du didieji kunigaikščiai: Algirdas Vilniuje, o Kęstutis Trakuose.
-- susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11685|supremus dux ir magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36841|supremus dux magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
+
 ## Citatos
 
 - id: c-14686
@@ -163,8 +157,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-010
+    - t-002
+    - t-003
 
 - id: c-120212
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -186,7 +180,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-120214
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -209,7 +203,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-166807
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -229,4 +223,4 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005

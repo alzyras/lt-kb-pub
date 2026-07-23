@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01927"></a>
-- t-003
+- t-001
   teiginys: "Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-02166
 
 <a id="claim-t-01929"></a>
-- t-001
+- t-003
   teiginys: "Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-02166
   redaktorius: "A. Šapoka"
@@ -166,4 +166,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

@@ -7,14 +7,14 @@ datos:
   - '1740 m.'
 date_start: '1740'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
 ## Teiginiai
 
 <a id="claim-t-200506"></a>
-- t-003
+- t-001
   teiginys: "Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -73,9 +73,9 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
     - c-183866
 
 <a id="claim-t-200508"></a>
-- t-001
+- t-003
   teiginys: "Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 19:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): 0.85"
@@ -112,14 +112,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184046
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
+
 ## Citatos
 
 - id: c-183866
@@ -131,9 +124,9 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-002
+    - t-003
 
 - id: c-184046
   autorius: "Domininkas Burba"
@@ -144,5 +137,5 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   pagrindzia:
-    - t-001
+    - t-003
     - t-004

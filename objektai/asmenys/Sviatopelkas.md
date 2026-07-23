@@ -106,7 +106,7 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184382
-- susijęs iš Pamarys: 1247 m. Pamario kunigaikščio Sviatopelko remiamos kovos, Narbuto aiškinimu, trukdė kryžiuočiams tvarkyti Pamedę ir įtvirtinti krikščionybę.
+
 ## Citatos
 
 - id: c-173096

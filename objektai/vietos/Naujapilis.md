@@ -69,7 +69,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184438
-- susijęs iš Ragainė: Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.
+
 ## Citatos
 
 - id: c-35029

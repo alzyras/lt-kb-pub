@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 ## Teiginiai
 
 <a id="claim-t-59095"></a>
-- t-002
+- t-001
   teiginys: "Dusburgiečio pasakojime Marija pasirodė broliui Hermanui Saracėnui ir pakvietė jį į savo sūnaus puotą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
     - c-59728
 
 <a id="claim-t-59096"></a>
-- t-001
+- t-002
   teiginys: "Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,5 +80,5 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

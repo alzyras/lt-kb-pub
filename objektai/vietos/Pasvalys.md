@@ -4,7 +4,6 @@ pavadinimas: 'Pasvalys'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1507 m.'
   - '1544 m.'
@@ -13,15 +12,14 @@ datos:
   - '2026 m.'
 date_start: '1507'
 date_end: '2026'
-amziai:
-  - 'XX'
-  - 'XXI'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XVI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +42,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 ## Teiginiai
 
 <a id="claim-t-171948"></a>
-- t-004
+- t-001
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -62,7 +60,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - c-166461
 
 <a id="claim-t-201655"></a>
-- t-006
+- t-002
   teiginys: "Štai nuo 1507 iki 1544 m. Kauno klebonu vadinamas Erazmas Eustachijus buvo ne tik Vilniaus vyskupijos kapitulos kanauninkas ir Pasvalio klebonas, bet ir vienas iš Kauno muitininkų, vertėsi miško verslu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -72,36 +70,6 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185002
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Pulkams sustojus prie Pasvalio, Mikalojui Radvilai įsakyta su lengvųjų raitelių vėliavomis įsibrauti į Livoniją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Į pagalbą atskubėjo Jurgis bei
-    Simonas, Slucko kunigaikščiai, atsivedę keturis tūks­
-    tančius rinktinių karių, kuriuos didikai išlaikė savo
-    699
-
-    ## Puslapis 698
-
-    lėšomis. Kai pulkai sustojo
-    S ė k m in g a s ž y g is į Li-
-    prie Pasvalio, įsakė Mikalo-
-    v o n iją
-    j ui Radvilai patraukti į prie­
-    kį su lengvųjų raitelių vėlia­
-    vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.
-    Fiurstenbergas pasiryžo iš paskutiniųjų ginti savo žemę
-    ir tam tikslui sutelkė aštuonis tūkstančius samdytinės
-    raitijos bei kelis tūkstančius pėstininkų, greitosiomis
-    sutelktų ir apginkluotų kaimiečių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -123,7 +91,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-166461
   redaktorius: "A. Šapoka"
@@ -142,7 +110,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-185002
   autorius: "Zigmantas Kiaupa"
@@ -160,4 +128,4 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

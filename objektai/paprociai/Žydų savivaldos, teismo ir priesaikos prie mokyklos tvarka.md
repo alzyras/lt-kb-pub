@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87172"></a>
-- t-002
+- t-001
   teiginys: "Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-83152
 
 <a id="claim-t-87173"></a>
-- t-001
+- t-002
   teiginys: "Jei žydas per gaisrą, vagystę ar prievartą prarasdavo užstatus, krikščioniui jį pašaukus į teismą jis turėjo išsiteisinti asmenine priesaika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83152
   autorius: "Michał Baliński"
@@ -135,4 +135,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

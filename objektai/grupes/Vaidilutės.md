@@ -41,12 +41,7 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172331
-- susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
-- susijęs iš Stenderio „Lettische Grammatik“: Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi.
-- susijęs iš [[objektai/zodynas/Vaidilutės Wejdalotki.md#claim-t-189340|Vaidilutės Wejdalotki]]: Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios iki nustatytų metų ir vėliau galėjusios ištekėti.
-- susijęs iš [[objektai/paprociai/Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas.md#claim-t-189786|Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas]]: Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.
-- susijęs iš [[objektai/paprociai/Vaidilučių skaistybės įžadai, šventyklinė tarnyba ir priesaikos bausmės.md#claim-t-189874|Vaidilučių skaistybės įžadai, šventyklinė tarnyba ir priesaikos bausmės]]: Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.
-- susijęs iš [[objektai/zodynas/Vaidilos Wajdalotae vaidilutės.md#claim-t-189339|Vaidilos Wajdalotae vaidilutės]]: Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nustatytų metų, o vėliau jos galėdavo ištekėti.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vaidilutės (Wejdalotki) Tai buvo žynės, duodančios amžinos skaistybės - tikra šio žodžio prasme - įžadus; sulaužiusias tą priesaiką bausdavo 32 Lettische Grammatik.'

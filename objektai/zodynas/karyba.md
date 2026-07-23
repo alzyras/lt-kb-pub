@@ -54,9 +54,7 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45524
-- susijęs iš LIETUVOS KARYBA XIII A: Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.
-- susijęs iš [[objektai/autoriai/Gintautas Jakštys.md#claim-t-40615|Gintautas Jakštys]]: Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
+
 ## Citatos
 
 - id: c-45524

@@ -54,7 +54,7 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Muchavecą ir tiksliai atitinka citatos informaciją."
   pagrindžia:
     - c-45227
-- susijęs iš [[objektai/asmenys/Antanas Kaminskas.md#claim-t-183727|Antanas Kaminskas]]: Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.
+
 ## Citatos
 
 - id: c-45227

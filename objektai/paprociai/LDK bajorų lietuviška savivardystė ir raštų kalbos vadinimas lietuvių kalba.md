@@ -66,7 +66,7 @@ Nenurodyta
     - c-166705
 
 <a id="claim-t-183315"></a>
-- t-003
+- t-002
   teiginys: "Visa LDK teritorija, apėmusi dabartinę Lietuvą ir Baltarusiją, ilgainiui pradėta vadinti Lietuva, o šiandien vadinama istorine Lietuva."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -108,4 +108,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

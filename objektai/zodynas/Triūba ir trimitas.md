@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Triūba ir trimitas
 sukurta: '2026-07-12'
 variantai:
-  - 'triūba'
-  - 'trimitas'
+  - triūba
+  - trimitas
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -69,6 +69,7 @@ Terminas vartojamas kerdžiaus darbo ir kaimo signalų perdavimo kontekste.
   citata_rodoma: "Kerdžiaus pabūklas buvo ilgas rimbas (botagas) ir ilgas trimitas, \nvadinamas triūba"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

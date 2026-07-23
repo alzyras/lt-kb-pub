@@ -65,7 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13281"></a>
-- t-006
+- t-001
   teiginys: "Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-16415
 
 <a id="claim-t-13282"></a>
-- t-005
+- t-002
   teiginys: "Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -131,5 +131,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
+    - t-001
+    - t-002

@@ -16,15 +16,15 @@ datos:
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
-amziai:
-  - 'XI'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-119084"></a>
-- t-002
+- t-001
   teiginys: "1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -67,9 +67,9 @@ media_all_json: |-
     - c-32272
 
 <a id="claim-t-119085"></a>
-- t-022
+- t-002
   teiginys: "Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Naugardukas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -88,7 +88,7 @@ media_all_json: |-
     - c-182457
 
 <a id="claim-t-119087"></a>
-- t-028
+- t-003
   teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ media_all_json: |-
     - c-182439
 
 <a id="claim-t-119088"></a>
-- t-014
+- t-004
   teiginys: "Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ media_all_json: |-
     - c-182460
 
 <a id="claim-t-119089"></a>
-- t-017
+- t-005
   teiginys: "Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ media_all_json: |-
     - c-182436
 
 <a id="claim-t-119091"></a>
-- t-019
+- t-006
   teiginys: "Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ media_all_json: |-
     - c-182445
 
 <a id="claim-t-119092"></a>
-- t-020
+- t-007
   teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -175,7 +175,7 @@ media_all_json: |-
     - c-182439
 
 <a id="claim-t-119093"></a>
-- t-029
+- t-008
   teiginys: "Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -193,7 +193,7 @@ media_all_json: |-
     - c-182433
 
 <a id="claim-t-119094"></a>
-- t-004
+- t-009
   teiginys: "Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ media_all_json: |-
     - c-182454
 
 <a id="claim-t-119095"></a>
-- t-031
+- t-010
   teiginys: "1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -233,7 +233,7 @@ media_all_json: |-
     - c-182432
 
 <a id="claim-t-119096"></a>
-- t-025
+- t-011
   teiginys: "Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -254,7 +254,7 @@ media_all_json: |-
     - c-182444
 
 <a id="claim-t-119097"></a>
-- t-007
+- t-012
   teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -274,7 +274,7 @@ media_all_json: |-
     - c-182455
 
 <a id="claim-t-119098"></a>
-- t-001
+- t-013
   teiginys: "1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -294,7 +294,7 @@ media_all_json: |-
     - c-182438
 
 <a id="claim-t-119100"></a>
-- t-021
+- t-014
   teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Naugarduką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -311,7 +311,7 @@ media_all_json: |-
     - c-182433
 
 <a id="claim-t-119101"></a>
-- t-010
+- t-015
   teiginys: "1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -330,7 +330,7 @@ media_all_json: |-
     - c-182438
 
 <a id="claim-t-119104"></a>
-- t-009
+- t-016
   teiginys: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -348,7 +348,7 @@ media_all_json: |-
     - c-182450
 
 <a id="claim-t-119107"></a>
-- t-027
+- t-017
   teiginys: "Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -365,7 +365,7 @@ media_all_json: |-
     - c-182445
 
 <a id="claim-t-119108"></a>
-- t-013
+- t-018
   teiginys: "Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -385,7 +385,7 @@ media_all_json: |-
     - c-182444
 
 <a id="claim-t-119109"></a>
-- t-006
+- t-019
   teiginys: "Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -403,9 +403,9 @@ media_all_json: |-
     - c-182440
 
 <a id="claim-t-119110"></a>
-- t-026
+- t-020
   teiginys: "Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -422,7 +422,7 @@ media_all_json: |-
     - c-182448
 
 <a id="claim-t-119111"></a>
-- t-003
+- t-021
   teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -439,9 +439,9 @@ media_all_json: |-
     - c-182453
 
 <a id="claim-t-119112"></a>
-- t-018
+- t-022
   teiginys: "Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Naugardukas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -458,7 +458,7 @@ media_all_json: |-
     - c-182448
 
 <a id="claim-t-119113"></a>
-- t-032
+- t-023
   teiginys: "Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -497,7 +497,7 @@ media_all_json: |-
     - c-182440
 
 <a id="claim-t-183059"></a>
-- t-034
+- t-025
   teiginys: "Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -518,7 +518,7 @@ media_all_json: |-
     - c-182451
 
 <a id="claim-t-185063"></a>
-- t-037
+- t-026
   teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -540,7 +540,7 @@ media_all_json: |-
     - c-168424
 
 <a id="claim-t-185065"></a>
-- t-039
+- t-027
   teiginys: "Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -560,9 +560,9 @@ media_all_json: |-
     - c-168426
 
 <a id="claim-t-187622"></a>
-- t-033
+- t-028
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -583,9 +583,9 @@ media_all_json: |-
     - c-182431
 
 <a id="claim-t-187623"></a>
-- t-005
+- t-029
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -607,7 +607,7 @@ media_all_json: |-
     - c-182431
 
 <a id="claim-t-187624"></a>
-- t-035
+- t-030
   teiginys: "Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -628,7 +628,7 @@ media_all_json: |-
     - c-182429
 
 <a id="claim-t-193217"></a>
-- t-040
+- t-031
   teiginys: "Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -642,7 +642,7 @@ media_all_json: |-
     - c-182435
 
 <a id="claim-t-193218"></a>
-- t-041
+- t-032
   teiginys: "Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -656,7 +656,7 @@ media_all_json: |-
     - c-182459
 
 <a id="claim-t-193649"></a>
-- t-042
+- t-033
   teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -669,7 +669,7 @@ media_all_json: |-
     - c-182441
 
 <a id="claim-t-194256"></a>
-- t-043
+- t-034
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -682,7 +682,7 @@ media_all_json: |-
     - c-182447
 
 <a id="claim-t-196721"></a>
-- t-044
+- t-035
   teiginys: "Kojelavičiaus pasakojime kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę prieš imantis karo reikalų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -695,7 +695,7 @@ media_all_json: |-
     - c-178866
 
 <a id="claim-t-196722"></a>
-- t-045
+- t-036
   teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą, bet po pirmojo pilies antpuolio atsisakė puolimo."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -708,7 +708,7 @@ media_all_json: |-
     - c-168424
 
 <a id="claim-t-196723"></a>
-- t-046
+- t-037
   teiginys: "Kojelavičiaus pasakojime į Glinskio stovyklą atbėgę žmonės skelbė, kad dalis pajėgų liko prie Slucko, o kitos traukė prie Naugarduko."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -719,176 +719,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178868
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
-- susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
-- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
-- susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
-- susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
-- susijęs iš Гуревич Ф. Д. Древности белорусского Понеманья: Tūkstantmečio 2-oje pusėje (Гуревич Ф.
-- susijęs iš [[objektai/autoriai/Zinkevičius Z.md#claim-t-60829|Zinkevičius Z]]: Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
-- susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
-- susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
-- susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79157|Sirputis (Traidenio brolis)]]: Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176750|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
-- susijęs iš [[objektai/autoriai/Zinkevičius Z.md#claim-t-60829|Zinkevičius Z]]: Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
-- susijęs iš [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios.md#claim-t-87077|Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]: Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.
-- susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108288|Pranciškonų ordinas]]: Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108292|Pranciškonų ordinas]]: Gediminas Saksų pranciškonų prašė atsiųsti į Lietuvą vienuolių ir minėjo savo statytas katalikų bažnyčias Vilniuje bei Naugarduke.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
-- susijęs iš [[objektai/grupes/Rusų tautos suvažiavimas Lietuvos Naugarduke.md#claim-t-185447|Rusų tautos suvažiavimas Lietuvos Naugarduke]]: Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.
-- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
-- susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/ivykiai/Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas.md#claim-t-185820|Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas]]: Vytautui pavyko Lietuvos Naugarduke sušaukti rusų tautos suvažiavimą ir pačiam jame dalyvauti.
-- susijęs iš [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.).md#claim-t-34490|Naugarduko susirinkimas (1415 m.)]]: Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.
-- susijęs iš [[objektai/ivykiai/Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.).md#claim-t-185631|Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)]]: Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.
-- susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66896|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.
-- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75376|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
-- susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
-- susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
-- susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
-- susijęs iš Didysis Naugardukas: Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką.
-- susijęs iš Druckas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
-- susijęs iš Juodoji Rusija: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.
-- susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
-- susijęs iš Krivičių žemė: 1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.
-- susijęs iš Lietuvos Naugardukas: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
-- susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
-- susijęs iš Minskas: Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi.
-- susijęs iš Polockas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
-- susijęs iš Polockas: Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Vilnius: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Vitebskas: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Zietela: Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195017|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Jonas (Vilniaus vyskupas).md#claim-t-87713|Jonas (Vilniaus vyskupas)]]: Vilniaus vyskupas Jonas 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.
-- susijęs iš [[objektai/asmenys/Jonas Chojevskis.md#claim-t-87715|Jonas Chojevskis]]: Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
-- susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
-- susijęs iš [[objektai/asmenys/Jonas Zabžezinskis.md#claim-t-87419|Jonas Zabžezinskis]]: Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių.
-- susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/asmenys/Jurgis (Lucko vyskupas).md#claim-t-87471|Jurgis (Lucko vyskupas)]]: 1542 m. Vilniuje duotame rašte Lucko vyskupas Jurgis dalyvavo tarp išvardytų dignitorių ir pareigūnų.
-- susijęs iš [[objektai/asmenys/Jurgis Astikaitis.md#claim-t-87475|Jurgis Astikaitis]]: 1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.
-- susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87479|Stanislovas Goštautas]]: 1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97510|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. nebuvo paskirtas naujas įpėdinis.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87366|Ulrikas Hozijus]]: 1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.
-- susijęs iš [[objektai/asmenys/Vaclovas (Medininkų vyskupas).md#claim-t-87481|Vaclovas (Medininkų vyskupas)]]: Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.
-- susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87411|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173320|Žygimantas Senasis]]: 1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45608|Grigorijus Camblakas]]: Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45609|Grigorijus Camblakas]]: Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45610|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45611|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45612|Grigorijus Camblakas]]: Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.
-- susijęs iš [[objektai/autoriai/Paszkiewicz H.md#claim-t-64803|Paszkiewicz H]]: H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.
-- susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64922|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116691|Hanza]]: Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116733|Katalikų Bažnyčia]]: Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178992|Kryžiuočių ordinas]]: Gardinas buvo įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų.
-- susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113191|Mongolai]]: 1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-184580|Rusai]]: Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose.
-- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-182594|Stačiatikiai]]: Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171394|Totoriai]]: Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171434|Totoriai]]: Seniau totoriai vertėsi audinių ir siūlų prekyba.
-- susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185564|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.
-- susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185565|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.
-- susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
-- susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41287|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: 1506 m. vasarą totoriai įsiveržė į LDK valdas ir gegužės pabaigoje pradėjo žygį į valstybės gilumą.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
-- susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186737|Švitrigailos užpuolimas Ašmenoje]]: Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186740|Švitrigailos užpuolimas Ašmenoje]]: 1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.
-- susijęs iš [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas.md#claim-t-77947|LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]: Apie 1500 m. katalikiškoje LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
-- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Kojelavičiaus pasakojime Polocko liaudis valdžią valstybėje perdavė trisdešimčiai senelių ir į sueigas aikštėje buvo kviečiama variniu varpu.
-- susijęs iš [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje.md#claim-t-87227|Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]: Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.
-- susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
-- susijęs iš [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“.md#claim-t-26347|„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.
-- susijęs iš Didžiųjų magistrų jaunesnioji kronika: Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.
-- susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
-- susijęs iš Lietuvos ir Lenkijos sąjungos atnaujinimo viešasis dokumentas (1401 m.): Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvos prisijungimą prie Lenkijos karalystės.
-- susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
-- susijęs iš Vilniaus magistrato knygos: Vilniaus magistrato knygose buvo išrašas apie 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegiją rinkti muitą ant tilto per Viliją.
-- susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
-- susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą.
-- susijęs iš Гуревич Ф. Д. Древности белорусского Понеманья: Tūkstantmečio 2-oje pusėje (Гуревич Ф.
-- susijęs iš Braclavas: 1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.
-- susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
-- susijęs iš Eimsutis: Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.
-- susijęs iš Haličas: Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
-- susijęs iš Konstantinopolis: Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.
-- susijęs iš Konstantinopolis: Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.
-- susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Lenkija: Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.
-- susijęs iš Lietuva: XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų, nors ilgai buvo atsiribojusi nuo krikščionybės.
-- susijęs iš Lietuva: Lietuvos metraščio pasakojime Vaišvilkas, grįžęs į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko.
-- susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
-- susijęs iš Medininkų valsčius: Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių.
-- susijęs iš Myro pilis (pilis): Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
-- susijęs iš Nemunas: Lietuvos metraštis pasakoja, kad Vaišvilkas, nepasiekęs Šventojo Kalno, grįžo į Naugarduką ir įkūrė vienuolyną prie Nemuno.
-- susijęs iš Nemėžis: Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.
-- susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.
-- susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
-- susijęs iš Sluckas: Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.
-- susijęs iš Sluckas: Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.
-- susijęs iš Sluckas: 1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes.
-- susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
-- susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
-- susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.
-- susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
-- susijęs iš Turovas: Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.
-- susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
-- susijęs iš Vilnius: 1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.
-- susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
-- susijęs iš Vokė: Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
-- susijęs iš Vokė: Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
-- susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
-- susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
-- susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
-- susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
-- susijęs iš [[objektai/zodynas/Kanceliarinė rašto kalba.md#claim-t-32752|Kanceliarinė rašto kalba]]: Lietuvos didžiojo kunigaikščio kanceliarinė rašto kalba išsivystė iš vartotos slavų kalbos ir skyrėsi nuo maskvinės rusų kalbos.
-- susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22098|daugiakonfesiškumas daugiakultūriškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
-- susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22101|daugiakonfesiškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
-- susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
-- susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
+
 ## Reikšmingi paminėjimai
 - c-021
   santrauka: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
@@ -934,7 +765,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-32272
@@ -952,8 +782,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-013
 
 - id: c-32273
   autorius: "Zenonas Ivinskis"
@@ -974,9 +804,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-010
+    - t-013
+    - t-015
 
 - id: c-32274
   autorius: "Zenonas Ivinskis"
@@ -997,7 +827,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-021
 
 - id: c-32275
   autorius: "Zenonas Ivinskis"
@@ -1019,7 +849,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-43677
   sudarytojas: "Karolis Zikaras"
@@ -1041,8 +871,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-013
+    - t-011
+    - t-018
 
 - id: c-43678
   sudarytojas: "Karolis Zikaras"
@@ -1071,7 +901,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
 
 - id: c-109413
   autorius: "Michał Baliński"
@@ -1098,8 +928,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-021
+    - t-008
+    - t-014
 
 - id: c-109415
   autorius: "Michał Baliński"
@@ -1137,8 +967,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-027
+    - t-006
+    - t-017
 
 - id: c-109416
   autorius: "Michał Baliński"
@@ -1169,8 +999,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
-    - t-020
+    - t-003
+    - t-007
 
 - id: c-109417
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1193,7 +1023,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-012
 
 - id: c-109418
   autorius: "Michał Baliński"
@@ -1219,9 +1049,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
+    - t-020
     - t-022
-    - t-026
-    - t-018
 
 - id: c-109420
   autorius: "Michał Baliński"
@@ -1243,7 +1073,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-005
 
 - id: c-109421
   autorius: "Zenonas Ivinskis"
@@ -1265,7 +1095,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-023
 
 - id: c-109425
   autorius: "Michał Baliński"
@@ -1285,7 +1115,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-002
 
 - id: c-109426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1306,7 +1136,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-019
     - t-024
 
 - id: c-109428
@@ -1327,7 +1157,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-010
 
 - id: c-109430
   autorius: "Michał Baliński"
@@ -1356,7 +1186,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-020
 
 - id: c-109433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1378,7 +1208,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-016
 
 - id: c-166450
   redaktorius: "A. Šapoka"
@@ -1404,7 +1234,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-025
 
 - id: c-168424
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1450,8 +1280,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
-    - t-045
+    - t-026
+    - t-036
 
 - id: c-168426
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1474,7 +1304,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-027
 
 - id: c-170569
   autorius: "Anoniminis metraštininkas"
@@ -1495,7 +1325,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-028
 
 - id: c-170570
   autorius: "Anoniminis metraštininkas"
@@ -1515,8 +1345,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-005
+    - t-028
+    - t-029
 
 - id: c-170571
   autorius: "Anoniminis metraštininkas"
@@ -1543,8 +1373,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-035
+    - t-029
+    - t-030
 
 - id: c-175961
   redaktorius: "A. Šapoka"
@@ -1562,7 +1392,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-031
 
 - id: c-175962
   redaktorius: "A. Šapoka"
@@ -1580,7 +1410,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-032
 
 - id: c-176318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1599,7 +1429,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-033
 
 - id: c-176850
   autorius: "Michał Baliński"
@@ -1636,7 +1466,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-034
 
 - id: c-178866
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1669,7 +1499,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-035
 
 - id: c-178868
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1692,7 +1522,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-037
 
 - id: c-182428
   autorius: "Anoniminis metraštininkas"
@@ -1713,7 +1543,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-028
 
 - id: c-182429
   autorius: "Anoniminis metraštininkas"
@@ -1740,8 +1570,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-035
+    - t-029
+    - t-030
 
 - id: c-182431
   autorius: "Anoniminis metraštininkas"
@@ -1761,8 +1591,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
-    - t-005
+    - t-028
+    - t-029
 
 - id: c-182432
   autorius: "Petras Dusburgietis"
@@ -1782,7 +1612,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-010
 
 - id: c-182433
   autorius: "Michał Baliński"
@@ -1809,8 +1639,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-021
+    - t-008
+    - t-014
 
 - id: c-182434
   autorius: "Michał Baliński"
@@ -1836,9 +1666,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
+    - t-020
     - t-022
-    - t-026
-    - t-018
 
 - id: c-182435
   redaktorius: "A. Šapoka"
@@ -1856,7 +1686,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-031
 
 - id: c-182436
   autorius: "Michał Baliński"
@@ -1878,7 +1708,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-005
 
 - id: c-182438
   autorius: "Zenonas Ivinskis"
@@ -1899,9 +1729,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-010
+    - t-013
+    - t-015
 
 - id: c-182439
   autorius: "Michał Baliński"
@@ -1932,8 +1762,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
-    - t-020
+    - t-003
+    - t-007
 
 - id: c-182440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1954,7 +1784,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-019
     - t-024
 
 - id: c-182441
@@ -1974,7 +1804,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-033
 
 - id: c-182444
   sudarytojas: "Karolis Zikaras"
@@ -1996,8 +1826,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-013
+    - t-011
+    - t-018
 
 - id: c-182445
   autorius: "Michał Baliński"
@@ -2035,8 +1865,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-027
+    - t-006
+    - t-017
 
 - id: c-182446
   autorius: "Zenonas Ivinskis"
@@ -2058,7 +1888,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-023
 
 - id: c-182447
   autorius: "Michał Baliński"
@@ -2095,7 +1925,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-034
 
 - id: c-182448
   autorius: "Michał Baliński"
@@ -2121,9 +1951,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
+    - t-020
     - t-022
-    - t-026
-    - t-018
 
 - id: c-182450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2145,7 +1975,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-016
 
 - id: c-182451
   redaktorius: "A. Šapoka"
@@ -2171,7 +2001,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-025
 
 - id: c-182453
   autorius: "Zenonas Ivinskis"
@@ -2192,7 +2022,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-021
 
 - id: c-182454
   autorius: "Zenonas Ivinskis"
@@ -2214,7 +2044,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-182455
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2237,7 +2067,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-012
 
 - id: c-182456
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2272,7 +2102,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-002
 
 - id: c-182459
   redaktorius: "A. Šapoka"
@@ -2290,7 +2120,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-032
 
 - id: c-182460
   sudarytojas: "Karolis Zikaras"
@@ -2319,10 +2149,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Kukovaitis]]
 - Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]
 - Buvo siuntimo vieta: [[objektai/grupes/Totoriai]]
 - Gyvenamoji vieta: [[objektai/grupes/Krivičiai]]

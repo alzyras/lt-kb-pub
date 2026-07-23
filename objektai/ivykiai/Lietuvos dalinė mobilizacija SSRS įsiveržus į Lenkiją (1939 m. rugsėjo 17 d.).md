@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75135"></a>
-- t-002
+- t-001
   teiginys: "1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją, demonstruodamas pasiryžimą ginti nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-73043
 
 <a id="claim-t-75136"></a>
-- t-001
+- t-002
   teiginys: "1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-73043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

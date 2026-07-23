@@ -53,14 +53,7 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45302
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-188510|Aleksandras Jogailaitis]]: Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.
-- susijęs iš Krekenava: Gegužės 13 d. Panevėžio rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-190845|Aleksandras Jogailaitis]]: Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija.
-- susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
+
 ## Citatos
 
 - id: c-45301

@@ -47,7 +47,3 @@ Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Heidrigas.md#claim-t-191409|Heidrigas]]: Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gavo Vindliandiją, arba Vitlandą; įvykiai siejami su III a.

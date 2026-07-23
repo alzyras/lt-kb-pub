@@ -8,7 +8,6 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1368 m.'
   - '1399 m.'
@@ -19,14 +18,14 @@ aliases:
   - 'objektai/daiktai/Karinės vėliavos'
 variantai:
   - 'Karinės vėliavos'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +68,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08355"></a>
-- t-004
+- t-001
   teiginys: "Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -85,7 +84,7 @@ Nenurodyta
     - c-10308
 
 <a id="claim-t-08356"></a>
-- t-005
+- t-002
   teiginys: "Prie karūžojo buvo laikoma karės vėliava tos apykartos."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -101,7 +100,7 @@ Nenurodyta
     - c-10309
 
 <a id="claim-t-08357"></a>
-- t-006
+- t-003
   teiginys: "Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -117,7 +116,7 @@ Nenurodyta
     - c-10310
 
 <a id="claim-t-10166"></a>
-- t-007
+- t-004
   teiginys: "1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -137,7 +136,7 @@ Nenurodyta
     - c-160238
 
 <a id="claim-t-10167"></a>
-- t-008
+- t-005
   teiginys: "Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -154,7 +153,7 @@ Nenurodyta
     - c-42581
 
 <a id="claim-t-10168"></a>
-- t-009
+- t-006
   teiginys: "Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -170,7 +169,7 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-12340"></a>
-- t-010
+- t-007
   teiginys: "Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -186,7 +185,7 @@ Nenurodyta
     - c-14345
 
 <a id="claim-t-12341"></a>
-- t-011
+- t-008
   teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -195,7 +194,7 @@ Nenurodyta
     - c-160245
 
 <a id="claim-t-12343"></a>
-- t-013
+- t-009
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -211,7 +210,7 @@ Nenurodyta
     - c-160236
 
 <a id="claim-t-12344"></a>
-- t-014
+- t-010
   teiginys: "Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -227,7 +226,7 @@ Nenurodyta
     - c-14349
 
 <a id="claim-t-176206"></a>
-- t-023
+- t-011
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -243,7 +242,7 @@ Nenurodyta
     - c-160240
 
 <a id="claim-t-176207"></a>
-- t-002
+- t-012
   teiginys: "Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -259,7 +258,7 @@ Nenurodyta
     - c-160241
 
 <a id="claim-t-176209"></a>
-- t-019
+- t-013
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -275,7 +274,7 @@ Nenurodyta
     - c-160245
 
 <a id="claim-t-176210"></a>
-- t-001
+- t-014
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -292,7 +291,7 @@ Nenurodyta
     - c-167714
 
 <a id="claim-t-176211"></a>
-- t-018
+- t-015
   teiginys: "Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -308,7 +307,7 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-176212"></a>
-- t-020
+- t-016
   teiginys: "Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -324,7 +323,7 @@ Nenurodyta
     - c-36751
 
 <a id="claim-t-176213"></a>
-- t-003
+- t-017
   teiginys: "1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -343,7 +342,7 @@ Nenurodyta
     - c-160235
 
 <a id="claim-t-176214"></a>
-- t-022
+- t-018
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -359,7 +358,7 @@ Nenurodyta
     - c-160237
 
 <a id="claim-t-176215"></a>
-- t-016
+- t-019
   teiginys: "XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -379,7 +378,7 @@ Nenurodyta
     - c-160246
 
 <a id="claim-t-176216"></a>
-- t-017
+- t-020
   teiginys: "Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -396,7 +395,7 @@ Nenurodyta
     - c-160239
 
 <a id="claim-t-176217"></a>
-- t-015
+- t-021
   teiginys: "Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -416,7 +415,7 @@ Nenurodyta
     - c-160238
 
 <a id="claim-t-192507"></a>
-- t-026
+- t-022
   teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -434,107 +433,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175297
-- susijęs iš [[objektai/asmenys/B. P. Sapiega.md#claim-t-40057|B. P. Sapiega]]: Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.
-- susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190008|Henenbergeris]]: Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau.
-- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
-- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53892|J. P. Sapiega]]: J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.
-- susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
-- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
-- susijęs iš [[objektai/asmenys/Mykolas Kiełbasa.md#claim-t-34820|Mykolas Kiełbasa]]: Mykolas Kiełbasa, artimiausios vėliavos vadas, atsakė, kad tuo metu ne laikas gelbėti karalių.
-- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188613|Simonas Grunau]]: Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis.
-- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
-- susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184285|Ulrichas von Jungingenas]]: Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.
-- susijęs iš [[objektai/asmenys/Vaidevutis.md#claim-t-190030|Vaidevutis]]: Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176863|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.
-- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172961|Mykolas Lietuvis]]: Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190287|Tadas Volianskis]]: Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui.
-- susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186825|Kryžiuočių kariuomenės dalių vėliavos]]: Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.
-- susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186826|Kryžiuočių kariuomenės dalių vėliavos]]: Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.
-- susijęs iš [[objektai/daiktai/Lietuvos valstybės vėliava.md#claim-t-77928|Lietuvos valstybės vėliava]]: 1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona.
-- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
-- susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179491|Riterių vėliava]]: Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.
-- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais.md#claim-t-189766|Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
-- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189714|Senovės prūsų vėliava]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
-- susijęs iš [[objektai/daiktai/Valstybiniai ženklai ir vėliava.md#claim-t-26413|Valstybiniai ženklai ir vėliava]]: 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už valstybinių ženklų ir vėliavos niekinimą ar įžeidinėjimą.
-- susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
-- susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
-- susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188304|Prūsai]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.
-- susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-34366|Smolenskiečiai]]: Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi.
-- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
-- susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54179|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
-- susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78729|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.
-- susijęs iš Revelis: Narbutas Revelio šv. Olafo bažnyčioje matė vėliavos liekaną su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49286|petihorai]]: J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno.
-- susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
-- susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78912|vėliava]]: Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189984|Kristoforas Hartknochas]]: Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189990|Tadas Volianskis]]: Narbutas nurodo, kad pagal Tado Volianskio šifruotę runų užrašas piešinyje reiškė Vaivedučio vardą.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190984|Tadas Volianskis]]: Narbutas nurodo, kad runų užrašas reiškė Vaidevučio vardą pagal Tado Volianskio šifruotę.
-- susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
-- susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
-- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
-- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
-- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-08330|Skydas]]: Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
-- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111287|Skydas]]: Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
-- susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
-- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-38968|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
-- susijęs iš [[objektai/grupes/LDK 4-ojo pėstininkų regimento.md#claim-t-40976|LDK 4-ojo pėstininkų regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.
-- susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
-- susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
-- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186606|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių.
-- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49173|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.
-- susijęs iš [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija.md#claim-t-09545|Bajorų pašauktinės kariuomenės mobilizacija]]: Po totorių plėšimų buvo paskelbta bajorų mobilizacija.
-- susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-183695|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
-- susijęs iš Teodoro Narbuto „Naujosios mitologijos“ rankraštis: Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus.
-- susijęs iš Vyskupo Kristijono kronika: Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas.
-- susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
-- susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
-- susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
-- susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
-- susijęs iš Vilnius: 1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų.
-- susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
-## Reikšmingi paminėjimai
-- c-020
-  santrauka: 'Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Pagaliau herulai, dėl įvairių prie­
-    žasčių atplėšti nuo savo krašto, daug kartų siaubė Ro­
-    mos imperiją ir pačią Italiją, o truputį vėliau, iš priešų
-    L ie tu v ia i —
-    h eru lų
-    g im in a ičia i
-    ties dydžio raidėmis šventą­
-    ją maldą jų kasdienine šne­
-    ka. Atidžiau ją skaitydamas,
-    suvokiau, jog ši kalba visai
-    45
-
-    ## Puslapis 44
-
-    pavirtę sąjungininkais ir priskirti prie pagalbinės ka­
-    riuomenės, daugelį amžių ėjo karo tarnybą, gindami
-    romėnų vėliavas. Tačiau niekur nerandu patikimų ži­
-    nių, kokia proga ir kuriame
-    Iš k u i k ilę s  L ie tu v o s
-    amžiuje viena ar gotų, ar
-    p a v a d in im a s ir a p ie
-    kimbrų, ar (o šitai arčiau tie-
-    L italan ą V y re sn i]}
-    sos) herulų triba ėmė vadin­
-    tis Lietuva.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -552,7 +450,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-10309
   autorius: "Simonas Daukantas"
@@ -573,7 +471,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-10310
   autorius: "Simonas Daukantas"
@@ -591,7 +489,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-14345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -610,7 +508,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-14349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -626,7 +524,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-36751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -648,7 +546,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-016
 
 - id: c-42581
   sudarytojas: "Karolis Zikaras"
@@ -669,7 +567,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-42582
   sudarytojas: "Karolis Zikaras"
@@ -690,8 +588,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-018
+    - t-006
+    - t-015
 
 - id: c-160234
   autorius: "Zenonas Ivinskis"
@@ -708,7 +606,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-014
 
 - id: c-160235
   autorius: "Zenonas Ivinskis"
@@ -727,7 +625,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-017
 
 - id: c-160236
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -747,7 +645,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 - id: c-160237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -768,7 +666,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-018
 
 - id: c-160238
   sudarytojas: "Karolis Zikaras"
@@ -800,8 +698,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-015
+    - t-004
+    - t-021
 
 - id: c-160239
   sudarytojas: "Karolis Zikaras"
@@ -825,7 +723,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-020
 
 - id: c-160240
   autorius: "Zenonas Ivinskis"
@@ -842,7 +740,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-011
 
 - id: c-160241
   autorius: "Zenonas Ivinskis"
@@ -860,7 +758,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-012
 
 - id: c-160245
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -880,8 +778,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-019
+    - t-008
+    - t-013
 
 - id: c-160246
   sudarytojas: "Karolis Zikaras"
@@ -905,7 +803,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-019
 
 - id: c-167714
   autorius: "Zenonas Ivinskis"
@@ -922,7 +820,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-014
 
 - id: c-175297
   autorius: "Teodoras Narbutas"
@@ -940,4 +838,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-022

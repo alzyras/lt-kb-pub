@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-98888"></a>
-- t-002
+- t-001
   teiginys: "Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip gamtinė judėjimo kliūtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-93044
 
 <a id="claim-t-98889"></a>
-- t-001
+- t-002
   teiginys: "Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -97,5 +97,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

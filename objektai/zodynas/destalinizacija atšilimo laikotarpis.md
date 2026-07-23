@@ -31,7 +31,7 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 ## Teiginiai
 
 <a id="claim-t-193602"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -83,4 +83,4 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

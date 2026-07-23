@@ -37,7 +37,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 ## Teiginiai
 
 <a id="claim-t-22080"></a>
-- t-003
+- t-001
   teiginys: "Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     - c-166797
 
 <a id="claim-t-22082"></a>
-- t-001
+- t-002
   teiginys: "1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     - c-24765
 
 <a id="claim-t-183403"></a>
-- t-004
+- t-003
   teiginys: "1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -149,5 +149,5 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-004

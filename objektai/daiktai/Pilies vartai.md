@@ -72,9 +72,7 @@ Nenurodyta
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimis (0.90); Kryžiuočių ordinas užėmė Aukaimis (0.82); Kryžiuočių ordinas surengė žygį į Ragainė (0.50)"
   pagrindžia:
     - c-60332
-- susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
-- susijęs iš [[objektai/zodynas/šikšnogalis diržas.md#claim-t-58932|šikšnogalis diržas]]: Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.
+
 ## Citatos
 
 - id: c-60332

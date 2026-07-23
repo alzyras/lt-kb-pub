@@ -3,19 +3,18 @@ tipas: vieta
 pavadinimas: 'Viljandis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1608 m.'
   - '1609 m.'
 date_start: '1608'
 date_end: '1609'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,12 +32,12 @@ media_all_json: |-
 
 ## Santrauka
 
-1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį. Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį. Livonijos susitarimo raštus kartu su magistru patvirtino Kristupas iš Viljandžio, krašto maršalas, ir Henrikas Štendichas.
+Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin). 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 
 ## Teiginiai
 
 <a id="claim-t-42274"></a>
-- t-002
+- t-001
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,7 @@ media_all_json: |-
     - c-45407
 
 <a id="claim-t-42275"></a>
-- t-001
+- t-002
   teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,59 +75,6 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Viljandžio užėmimą."
   pagrindžia:
     - c-45408
-- susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
-- susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
-- susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
-- susijęs iš Vildenbergas: Vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
-- susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Livonijos susitarimo raštus kartu su magistru patvirtino Kristupas iš Viljandžio, krašto maršalas, ir Henrikas Štendichas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Jeigu Mask­
-    vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą
-    privalėsiančios
-    stoti jungtinės abiejų tautų jėgos, be
-    700
-
-    ## Puslapis 699
-
-    to, nė viena tauta negalėsianti atskirai sudaryti nei pa­
-    liaubų, nei pastovios taikos susitarimo. Po magistro ir
-    kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
-    tus patvirtino savo parašais, be magistro, dar du rite­
-    rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom­
-    tūras, ir Kristupas iš Viljandžio, krašto maršalas.
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas.
-  citata_rodoma: ''
-  statusas: not_found
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -155,7 +101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45408
   sudarytojas: "Karolis Zikaras"
@@ -178,7 +124,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]

@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Varianka
 sukurta: '2026-07-12'
 variantai:
-  - 'varianka'
-  - 'piltuvėlis'
+  - varianka
+  - piltuvėlis
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []

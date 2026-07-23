@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169889"></a>
-- t-011
+- t-001
   teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +59,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje pateiktus Akelaičio žodžius."
   pagrindžia:
     - c-154572
-- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63727|Jonas Mačiulis-Maironis]]: Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105713|Simonas Daukantas]]: Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.
-- susijęs iš [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose.md#claim-t-54358|Tautos istorijos atminties saugojimas piliečių lūpose]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-- susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13503|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-- susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13504|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: Frazė siejama su tautos atminties ir tautos ateities ryšiu.
-- susijęs iš [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“.md#claim-t-26361|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
+
 ## Citatos
 
 - id: c-154572
@@ -87,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001

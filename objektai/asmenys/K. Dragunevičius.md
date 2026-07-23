@@ -31,7 +31,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 ## Teiginiai
 
 <a id="claim-t-40246"></a>
-- t-002
+- t-001
   teiginys: "K. Dragunevičiaus vadovaujama vidurinioji vora turėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     - c-44400
 
 <a id="claim-t-40247"></a>
-- t-001
+- t-002
   teiginys: "K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +62,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   semantiniai_rysiai: "K. Dragunevičius gynė Kėdainiai (0.86); K. Dragunevičius dalyvavo mūšyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.) (0.78)"
   pagrindžia:
     - c-44399
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09855|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
+
 ## Citatos
 
 - id: c-44399
@@ -91,7 +90,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44400
   sudarytojas: "Karolis Zikaras"
@@ -113,7 +112,7 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - K. Dragunevičius gynė [[objektai/vietos/Kėdainiai]]

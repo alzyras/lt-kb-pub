@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32813"></a>
-- t-002
+- t-001
   teiginys: "Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ media_all_json: |-
     - c-32693
 
 <a id="claim-t-32814"></a>
-- t-001
+- t-002
   teiginys: "Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-34180
   autorius: "Zenonas Ivinskis"
@@ -120,4 +120,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

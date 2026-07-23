@@ -10,10 +10,6 @@ datos:
   - '1041 m.'
 date_start: '1009'
 date_end: '1041'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,10 @@ tags:
   - vyskupas
   - asmuo
   - valdovas
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 ## Teiginiai
 
 <a id="claim-t-190883"></a>
-- t-002
+- t-001
   teiginys: "Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - c-173765
 
 <a id="claim-t-190884"></a>
-- t-003
+- t-002
   teiginys: "Teodoras Narbutas Jaroslavo ir Kristijono pasakojimus apie ulmigerus laikė paremtais tikrove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - c-173766
 
 <a id="claim-t-197755"></a>
-- t-005
+- t-003
   teiginys: "Tas pats Jaroslavas 1041 metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur negalima matyti ukrainiečių tautybės žmonių susimai šymo su lietuviais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - c-179326
 
 <a id="claim-t-200998"></a>
-- t-006
+- t-004
   teiginys: "Višislavas įgavęs Naugardą į valdžią, Iziaslavas Polocką, Jaroslavas Rostovą, kuriam nustipus, kliuvo jis Bo risui, Glėbas gavo Muromą, Sviatoslavas Pajuodgirę, Viršuj: g eia i."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -105,18 +105,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184348
-- susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
-- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
-- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47771|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
-- susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
-- susijęs iš [[objektai/grupes/Kijevo Rusia.md#claim-t-181458|Kijevo Rusia]]: XI a. Lietuva patyrė Kijevo Rusios agresiją.
-- susijęs iš [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.).md#claim-t-31429|Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]: Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu.
-- susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
-- susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31563|na Litvu]]: 1131-1132 m. Kijevo Mstislavas esą dvejus metus iš eilės rengė žygius į Lietuvą („na Litvu“).
-- susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
-- susijęs iš Naugardukas: 1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.'
@@ -160,7 +149,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-21716
@@ -200,7 +188,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173766
   autorius: "Teodoras Narbutas"
@@ -223,7 +211,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179326
   autorius: "Teodoras Narbutas"
@@ -247,7 +235,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-184348
   autorius: "Simonas Daukantas"
@@ -276,7 +264,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]

@@ -63,6 +63,7 @@ media_all_json: |-
   citata_rodoma: "„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

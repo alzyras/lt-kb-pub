@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187951"></a>
-- t-002
+- t-001
   teiginys: "Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -45,11 +45,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170936
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188630|Teodoras Narbutas]]: Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.
-- susijęs iš [[objektai/autoriai/Johanas Severinas Fateris.md#claim-t-187948|Johanas Severinas Fateris]]: Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Peteris Bolenas.md#claim-t-187950|Peteris Bolenas]]: Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Samuelis Lindė.md#claim-t-187949|Samuelis Lindė]]: Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
+
 ## Citatos
 
 - id: c-170936
@@ -84,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

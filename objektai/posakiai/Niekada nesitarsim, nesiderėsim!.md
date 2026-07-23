@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09673"></a>
-- t-002
+- t-001
   teiginys: "„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -69,4 +69,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

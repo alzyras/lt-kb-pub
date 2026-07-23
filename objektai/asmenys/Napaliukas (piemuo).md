@@ -58,7 +58,7 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
     - c-177656
 
 <a id="claim-t-195293"></a>
-- t-004
+- t-002
   teiginys: "Napaliukas ištraukė vyžą iš Baltro ir ėmė pinti iš naujo."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -67,18 +67,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   pagrindžia:
     - c-177658
 
-<a id="claim-t-195294"></a>
-- t-002
-  teiginys: "Napaliukas klausinėjo apie atlygį už Baltro pagalbą."
-  atnaujinta: "2026-07-20 14:27"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177656
-- susijęs iš [[objektai/daiktai/Vyža.md#claim-t-195668|Vyža]]: Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą.
-- susijęs iš [[objektai/daiktai/Liuntas.md#claim-t-195325|Liuntas]]: Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas.
-- susijęs iš [[objektai/daiktai/Vyža.md#claim-t-195667|Vyža]]: Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų.
 ## Citatos
 
 - id: c-177656
@@ -104,7 +92,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177657
   autorius: "M. Katkus"
@@ -148,4 +135,4 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

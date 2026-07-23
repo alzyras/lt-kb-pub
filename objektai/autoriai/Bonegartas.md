@@ -30,7 +30,7 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
 ## Teiginiai
 
 <a id="claim-t-197279"></a>
-- t-002
+- t-001
   teiginys: "Bonegartas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173300
-- susijęs iš [[objektai/autoriai/Beli (Bayle).md#claim-t-190414|Beli (Bayle)]]: Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių.
+
 ## Citatos
 
 - id: c-173300
@@ -59,4 +59,4 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

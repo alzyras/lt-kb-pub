@@ -7,13 +7,13 @@ datos:
   - '1298 m.'
 date_start: '1298'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,13 +81,15 @@ Nenurodyta
     privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
 
+
+
+
              272 (265).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60163

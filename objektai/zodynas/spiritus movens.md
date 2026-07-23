@@ -55,13 +55,3 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-183344|Juozas Tumas (Vaižgantas)]]: Juozas Tumas (Vaižgantas) buvo nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ spiritus movens.
-- susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-19413|Juozas Tumas (Vaižgantas)]]: Juozas Tumas (Vaižgantas) buvo 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens.
-- susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63767|Juozas Tumas-Vaižgantas]]: Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas.
-- susijęs iš [[objektai/grupes/Lietuviškoji socialdemokratų partija.md#claim-t-74618|Lietuviškoji socialdemokratų partija]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.
-- susijęs iš [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas.md#claim-t-20262|Lietuviškosios socialdemokratų partijos susikūrimas]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija.
-- susijęs iš [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia.md#claim-t-26406|„Tėvynės sargo“ leidimo pradžia]]: Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu.
-- susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54314|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.
-- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.

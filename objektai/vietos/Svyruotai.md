@@ -45,7 +45,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170367
-- susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
+
 ## Citatos
 
 - id: c-170367

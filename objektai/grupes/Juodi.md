@@ -47,8 +47,7 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172406
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188234|Latviai]]: Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi.
-- susijęs iš [[objektai/posakiai/Johdi Kaujahs.md#claim-t-189580|Johdi Kaujahs]]: Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia oro dvasias ir mirusiųjų vėles.
+
 ## Citatos
 
 - id: c-172406

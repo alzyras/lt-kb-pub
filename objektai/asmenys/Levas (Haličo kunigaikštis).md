@@ -44,12 +44,7 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44435
-- susijęs iš Haličas: Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171442|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171405|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171442|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
-- susijęs iš Haličas: Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
-- susijęs iš Šventasis Kalnas: Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.
+
 ## Citatos
 
 - id: c-44435

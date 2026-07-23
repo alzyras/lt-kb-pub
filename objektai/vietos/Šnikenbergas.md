@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Teiginiai
 
 <a id="claim-t-58662"></a>
-- t-002
+- t-001
   teiginys: "Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
     - c-59294
 
 <a id="claim-t-58663"></a>
-- t-001
+- t-002
   teiginys: "Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,10 +60,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59295
-- susijęs iš [[objektai/asmenys/Hertvigas.md#claim-t-60328|Hertvigas]]: Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.
-- susijęs iš [[objektai/ivykiai/Šnikenbergo pilies pastatymas.md#claim-t-62541|Šnikenbergo pilies pastatymas (pilis)]]: Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus.
-- susijęs iš [[objektai/asmenys/Hertvigas.md#claim-t-60328|Hertvigas]]: Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.
-- susijęs iš Štraisbergas: Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.
+
 ## Citatos
 
 - id: c-59294
@@ -83,7 +80,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59295
   autorius: "Petras Dusburgietis"
@@ -108,4 +105,4 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

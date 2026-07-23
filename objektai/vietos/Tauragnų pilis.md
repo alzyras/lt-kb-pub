@@ -72,7 +72,7 @@ media_all_json: |-
   semantiniai_rysiai: "Tauragnų pilis (pilis) priklausė Vilniaus katedra (0.85)"
   pagrindžia:
     - c-106015
-- susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
+
 ## Citatos
 
 - id: c-106014

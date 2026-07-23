@@ -37,7 +37,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 ## Teiginiai
 
 <a id="claim-t-182705"></a>
-- t-004
+- t-001
   teiginys: "Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto."
   atnaujinta: "2026-05-31 14:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
     - c-166123
 
 <a id="claim-t-182707"></a>
-- t-003
+- t-002
   teiginys: "Vaidotas buvo Butauto sūnus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-166123
-- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+
 ## Citatos
 
 - id: c-166123
@@ -95,8 +95,8 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Butautas]]

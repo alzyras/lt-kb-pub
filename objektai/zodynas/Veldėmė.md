@@ -39,7 +39,7 @@ Vartojamos formos: `veldėme`.
 ## Teiginiai
 
 <a id="claim-t-07695"></a>
-- t-004
+- t-001
   teiginys: "Veldėme laikytas gyvenimas ir gruntas, įgytas darbu ir galėtas dovanoti kaip savas daiktas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,7 +69,7 @@ Vartojamos formos: `veldėme`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-09624
   autorius: "Simonas Daukantas"
@@ -80,6 +80,7 @@ Vartojamos formos: `veldėme`.
   citata_rodoma: "Dar Zigmantas III DLK, Augustu vadinamas, metuose 1557 savo valsčionų^1034 įstatymuose sako: „Lig šiol dar negal iš galvos lietuviams to iškulti, kurie vis taria^1035 , jog žemė esanti jų veldėme, kurios niekas nuo jų negalįs atimti neigi niekam dovanoti kaipo jų pelną.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

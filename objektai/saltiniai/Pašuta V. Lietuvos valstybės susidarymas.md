@@ -42,7 +42,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 ## Teiginiai
 
 <a id="claim-t-197022"></a>
-- t-003
+- t-001
   teiginys: "Apie vieną stebuklą Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso, kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
     - c-61554
 
 <a id="claim-t-197023"></a>
-- t-004
+- t-002
   teiginys: "Šiame mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
     - c-179007
 
 <a id="claim-t-197024"></a>
-- t-005
+- t-003
   teiginys: "Apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-179007
   autorius: "Petras Dusburgietis"
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-179008
   autorius: "Petras Dusburgietis"
@@ -136,4 +136,4 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

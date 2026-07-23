@@ -102,6 +102,7 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   citata_rodoma: "Barbora nusineša pančiuką — ir veste parveda bulių."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

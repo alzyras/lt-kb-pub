@@ -44,9 +44,7 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41634
-- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.
-- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.
-- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose.
+
 ## Citatos
 
 - id: c-41634

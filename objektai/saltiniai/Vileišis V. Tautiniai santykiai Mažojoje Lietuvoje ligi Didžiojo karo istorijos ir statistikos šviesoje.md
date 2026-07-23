@@ -7,12 +7,12 @@ datos:
   - '1935 m.'
 date_start: '1935'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,38 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad vileišis V.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
-    šviesoje.—K., 1935.
-      Vydūnas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61982
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
-    šviesoje.—K., 1935.
-  citata_rodoma: "Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos\nšviesoje.—K., 1935."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -84,3 +52,34 @@ Dusburgietis teigia, kad vileišis V.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį faktą apie leidinio temą, vietą ir metus."
   pagrindžia:
     - c-61982
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
+    šviesoje.—K., 1935.
+      Vydūnas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-61982
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
+    šviesoje.—K., 1935.
+  citata_rodoma: "Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos\nšviesoje.—K., 1935."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

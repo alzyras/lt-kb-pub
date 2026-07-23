@@ -50,8 +50,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173066
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188200|Jėzuitų ordinas]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188370|Žemaičiai]]: Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškina, kad Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus dėl kaimiečių religinės padėties savo diecezijoje.'

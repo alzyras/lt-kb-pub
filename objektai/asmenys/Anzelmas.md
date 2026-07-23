@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 ## Teiginiai
 
 <a id="claim-t-60084"></a>
-- t-002
+- t-001
   teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - c-60717
 
 <a id="claim-t-188513"></a>
-- t-001
+- t-002
   teiginys: "Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,11 +102,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184319
-- susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
-- susijęs iš Varmijos vyskupo Anzelmo raštas apie Lemptenburgą: Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“.
-- susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191175|Augustas Friderikas Kocebu]]: Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.
-- susijęs iš [[objektai/asmenys/Kocebus.md#claim-t-191351|Kocebus]]: Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.
-- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189627|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.
+
 ## Citatos
 
 - id: c-60717
@@ -129,7 +125,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171403
   autorius: "Teodoras Narbutas"
@@ -154,7 +150,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177306
   autorius: "Teodoras Narbutas"

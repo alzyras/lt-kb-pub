@@ -40,7 +40,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 ## Teiginiai
 
 <a id="claim-t-71615"></a>
-- t-002
+- t-001
   teiginys: "DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     - c-46274
 
 <a id="claim-t-71616"></a>
-- t-004
+- t-002
   teiginys: "DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     - c-46275
 
 <a id="claim-t-71617"></a>
-- t-001
+- t-003
   teiginys: "DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -95,6 +95,27 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-46273
+
+<a id="claim-t-77822"></a>
+- t-004
+  teiginys: "Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija užsienio lietuviams remti: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad draugija sukurta padėti užsienio lietuviams."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Draugija užsienio lietuviams remti rėmė Lietuviai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-75145
 
 <a id="claim-t-182887"></a>
 - t-005
@@ -150,7 +171,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-46274
   redaktorius: "A. Šapoka"
@@ -169,7 +190,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-46275
   redaktorius: "A. Šapoka"
@@ -191,7 +212,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-46276
   redaktorius: "A. Šapoka"
@@ -223,6 +244,32 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
     lietuvių spaudą raštais. Nepaprastai didelę reikšmę užsienio lietu-
     viams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-75145
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
+    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+    Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
+    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
+    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
+    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
+
+    L I E T U V O S  I S T O R I J A
+    176
+    remti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

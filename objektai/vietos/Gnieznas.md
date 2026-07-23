@@ -31,7 +31,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 ## Teiginiai
 
 <a id="claim-t-85782"></a>
-- t-002
+- t-001
   teiginys: "Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - c-81763
 
 <a id="claim-t-85783"></a>
-- t-004
+- t-002
   teiginys: "Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     - c-81764
 
 <a id="claim-t-85784"></a>
-- t-001
+- t-003
   teiginys: "Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,10 +77,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81765
-- susijęs iš [[objektai/autoriai/Martinas Galias.md#claim-t-88032|Martinas Galias]]: Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.
-- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
-- susijęs iš Poznanė: Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
-- susijęs iš Poznanė: Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
+
 ## Citatos
 
 - id: c-81763
@@ -110,7 +107,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-81764
   autorius: "Michał Baliński"
@@ -139,7 +136,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-81765
   autorius: "Michał Baliński"
@@ -161,4 +158,4 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

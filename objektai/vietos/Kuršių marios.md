@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1252'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 ## Teiginiai
 
 <a id="claim-t-68371"></a>
-- t-002
+- t-001
   teiginys: "Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-32172
 
 <a id="claim-t-68372"></a>
-- t-005
+- t-002
   teiginys: "Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-167559
 
 <a id="claim-t-68374"></a>
-- t-007
+- t-003
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-67964
 
 <a id="claim-t-68375"></a>
-- t-003
+- t-004
   teiginys: "Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-67967
 
 <a id="claim-t-68376"></a>
-- t-004
+- t-005
   teiginys: "Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-67966
 
 <a id="claim-t-192686"></a>
-- t-008
+- t-006
   teiginys: "Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - c-175456
 
 <a id="claim-t-201624"></a>
-- t-009
+- t-007
   teiginys: "1612 m. Kuršių mariose nukentėjo 40 laivų, tarp jų ir kauniečių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -159,25 +159,60 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184971
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65566|Kuršiai]]: Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.
+
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pruzze, Pruze ir
+    pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs:
+    Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p.
+    30), Pruscia (1210 m.— ten pat, Nr. 5, p. 4; 1216—1217 m.— Nr. 14, p. 10; 1218 m.—
+    Nr. 23, p. 17; 1222 m.— Nr. 41 B, p. 27; 1226 m.— Nr. 56, p. 42; 1243 m.— Nr. 143, p.
+    108), Prussia (1212 m..— ten pat, Nr. 6, p. 5; Nr. 7, p. 6; 1224 m.— Nr. 52, p. 38), Prutia
+    (1216 m.—ten pat, Nr. 9, p. 7; 1222 m.— Nr. 41, p. 28), Prusia (1223 m,— ten pat, Nr.
+    46, p. 34; 1230 m.— Nr. 75, p. 56), Prucia (1228 m.— ten pat, Nr. 67, p. 49—50).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Broliai, paženklinę save šv.
-    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
-    kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    Dievo ir švenčiausios panelės
     globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
-    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333).
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87). Prūsijoje karų
+    dalyviams dievas netgi atleidžiąs bausmes, už kurias šiaip gresiąs amžinas pasmerkimas
+    (III, 54).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-006
+  santrauka: 'Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Takas čia buvo toks siauras, kad
+    niekas jo negalėjo apeiti, todėl visi ėjo per jį. Skydas, kuriuo jis, negalėdamas atsistoti,
+    prisidengė, sutrupėjo į mažiausius gabalėlius. Galop, kai jau visi per jį perėjo, jis, dievo
+    padedamas, pasikėlė; kadangi neturėjo žirgo, be to, kadangi tolumoje matė tarną,
+    sėdintį ant žirgo ir vedantį kitą ristūną — pažabotą juodį, jis nuėjo prie jo ir pasiprašė
+    vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs,
+    jį sutrypė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-32172
@@ -198,7 +233,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67964
   redaktorius: "A. Šapoka"
@@ -216,7 +251,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-67966
   autorius: "Petras Dusburgietis"
@@ -232,7 +267,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-67967
   autorius: "Petras Dusburgietis"
@@ -251,7 +286,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-67968
   autorius: "Petras Dusburgietis"
@@ -270,7 +305,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-167559
   autorius: "Petras Dusburgietis"
@@ -289,7 +324,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-175456
   autorius: "Teodoras Narbutas"
@@ -312,7 +347,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-184971
   autorius: "Zigmantas Kiaupa"
@@ -328,4 +363,4 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007

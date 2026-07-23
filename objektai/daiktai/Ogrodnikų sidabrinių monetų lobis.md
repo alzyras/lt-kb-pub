@@ -76,7 +76,7 @@ Nenurodyta
     - c-172576
 
 <a id="claim-t-197241"></a>
-- t-003
+- t-002
   teiginys: "Monetos storis piešinyje nurodytas skersmens pjūviu, pa žymėtu tarp monetos šonų, kaip ir visuose kituose tos lentelės piešiniuose."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -132,4 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

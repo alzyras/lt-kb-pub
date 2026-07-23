@@ -106,6 +106,7 @@ Nenurodyta
   citata_rodoma: "„Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip\nir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias\nvargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas\nbuvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­\ndėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­\nmų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik\npadavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška\ndvasia dar tebegyvena“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

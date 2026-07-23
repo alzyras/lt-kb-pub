@@ -74,11 +74,11 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
     išnyko; net nežinoma, kur mitinė kunigaikštytė Pogeza-
     nija skelbė savo pranašystes ir sprendimus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

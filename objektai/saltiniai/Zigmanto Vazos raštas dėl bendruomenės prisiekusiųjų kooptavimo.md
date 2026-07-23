@@ -7,10 +7,10 @@ datos:
   - '1595 m.'
 date_start: '1595'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

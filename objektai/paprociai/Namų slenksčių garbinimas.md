@@ -60,11 +60,11 @@ Nenurodyta
     bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
     lietuvius1.
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -76,11 +76,10 @@ Nenurodyta
     lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
     ateinantysis arba išeinantysis nusilenktų slenksčiui2.
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -113,6 +112,7 @@ Nenurodyta
   citata_rodoma: "Senovės slavai specialiai darydavo žemas duris, kad\nateinantysis arba išeinantysis nusilenktų slenksčiui2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

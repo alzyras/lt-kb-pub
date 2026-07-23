@@ -54,7 +54,7 @@ Jono Kuklierio kūno 1920 m.
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44383
-- susijęs iš Vidugiriai: 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
+
 ## Citatos
 
 - id: c-44383

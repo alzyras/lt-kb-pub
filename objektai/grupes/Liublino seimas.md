@@ -50,8 +50,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-175873
-- susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
-- susijęs iš [[objektai/zodynas/statuto dėsniai.md#claim-t-70336|statuto dėsniai]]: Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.
+
 ## Citatos
 
 - id: c-66214

@@ -54,16 +54,7 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas ir pašalintos OCR klaidos."
   pagrindžia:
     - c-35418
-- susijęs iš [[objektai/asmenys/Didysis Machmetas.md#claim-t-34784|Didysis Machmetas]]: Didysis Machmetas 1424 m. Vytauto padedamas užėmė Kipčako sostą ir valdžią išlaikė iki 1437 ar 1438 m.
-- susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96028|Machmetas]]: 1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m.
-- susijęs iš [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje.md#claim-t-34470|Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]: 1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.
-- susijęs iš [[objektai/asmenys/Didysis Machmetas.md#claim-t-34784|Didysis Machmetas]]: Didysis Machmetas 1424 m. Vytauto padedamas užėmė Kipčako sostą ir valdžią išlaikė iki 1437 ar 1438 m.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179004|Kryžiuočių ordinas]]: Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179117|Kryžiuočių ordinas]]: Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171421|Totoriai]]: Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171431|Totoriai]]: Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.
-- susijęs iš [[objektai/posakiai/wieszczym duchem.md#claim-t-34415|wieszczym duchem]]: Jadvyga, pasak Prochaskos, savo „wieszczym duchem“ pranašavo ambicingo Vytauto didelių užsimojimų galą.
-- susijęs iš [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje.md#claim-t-34470|Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]: 1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.
+
 ## Citatos
 
 - id: c-35418

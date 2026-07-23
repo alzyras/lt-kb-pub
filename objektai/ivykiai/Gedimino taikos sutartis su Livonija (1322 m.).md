@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31415"></a>
-- t-003
+- t-001
   teiginys: "1322 m. Gediminas sudarė taikos sutartį su Livonija."
   atnaujinta: "2026-05-20 20:48"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-33392
 
 <a id="claim-t-31416"></a>
-- t-005
+- t-002
   teiginys: "1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +117,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-001
+    - t-002
 
 - id: c-33393
   autorius: "Zenonas Ivinskis"
@@ -141,4 +141,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

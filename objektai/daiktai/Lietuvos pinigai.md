@@ -14,14 +14,14 @@ datos:
   - '1922 m.'
 date_start: '1387'
 date_end: '1922'
-amziai:
-  - 'XIV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
   - daiktas
+amziai:
+  - 'XIV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,7 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10727"></a>
-- t-020
+- t-001
   teiginys: "Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-00210
 
 <a id="claim-t-10728"></a>
-- t-021
+- t-002
   teiginys: "Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-00211
 
 <a id="claim-t-10729"></a>
-- t-022
+- t-003
   teiginys: "Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Nenurodyta
     - c-00212
 
 <a id="claim-t-10731"></a>
-- t-023
+- t-004
   teiginys: "Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
     - c-00214
 
 <a id="claim-t-12316"></a>
-- t-015
+- t-005
   teiginys: "Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Nenurodyta
     - c-14327
 
 <a id="claim-t-12318"></a>
-- t-017
+- t-006
   teiginys: "Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Nenurodyta
     - c-14329
 
 <a id="claim-t-12319"></a>
-- t-018
+- t-007
   teiginys: "Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ Nenurodyta
     - c-14330
 
 <a id="claim-t-12320"></a>
-- t-019
+- t-008
   teiginys: "Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Nenurodyta
     - c-96649
 
 <a id="claim-t-103465"></a>
-- t-001
+- t-010
   teiginys: "Lietuvoje tebekursavusias ostmarkes Lietuvos valdžia pavadino auksinais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -238,7 +238,7 @@ Nenurodyta
     - c-96647
 
 <a id="claim-t-103466"></a>
-- t-024
+- t-011
   teiginys: "Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -254,7 +254,7 @@ Nenurodyta
     - c-96649
 
 <a id="claim-t-103467"></a>
-- t-002
+- t-012
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -273,7 +273,7 @@ Nenurodyta
     - c-96646
 
 <a id="claim-t-103468"></a>
-- t-003
+- t-013
   teiginys: "Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -293,7 +293,7 @@ Nenurodyta
     - c-96645
 
 <a id="claim-t-103469"></a>
-- t-004
+- t-014
   teiginys: "Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -307,7 +307,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-96648
-- susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
+
 ## Reikšmingi paminėjimai
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -323,7 +323,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00210
@@ -346,7 +345,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-001
 
 - id: c-00211
   redaktorius: "A. Šapoka"
@@ -366,7 +365,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-002
 
 - id: c-00212
   redaktorius: "A. Šapoka"
@@ -387,7 +386,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-003
 
 - id: c-00214
   redaktorius: "A. Šapoka"
@@ -405,7 +404,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-004
 
 - id: c-14327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -426,7 +425,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-005
 
 - id: c-14329
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -448,7 +447,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-006
     - t-009
 
 - id: c-14330
@@ -474,7 +473,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-007
 
 - id: c-14331
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -495,7 +494,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-008
     - t-009
 
 - id: c-15954
@@ -534,7 +533,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-013
 
 - id: c-96646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -552,7 +551,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-012
 
 - id: c-96647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -573,7 +572,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-96648
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -592,7 +591,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-014
 
 - id: c-96649
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -615,4 +614,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-024
+    - t-011

@@ -110,7 +110,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169025
@@ -172,6 +171,7 @@ Nenurodyta
   citata_rodoma: "Aukštutinę pilį, stovinčią ant\naukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,\n3 0 6\n\n## Puslapis 305\n\nkurią kalno papėdėje supo Vilnios upė, saugojo lietu­\nvių kariai. Keletą kartų pabandęs užimti šias pilis, bu­\nvo priverstas nutraukti apsiaustį ir išvesti kariuomenę\natgal į Prūsiją nepajėgęs įveikti gynėjų narsumo."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

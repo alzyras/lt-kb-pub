@@ -55,6 +55,7 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
   citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

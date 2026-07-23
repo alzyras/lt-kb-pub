@@ -58,15 +58,7 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184941
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
-- susijęs iš Eigulių pilis (pilis): 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.
-- susijęs iš Kaunas: 1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį.
-- susijęs iš Kaunas: 1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį.
-- susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.
-- susijęs iš [[objektai/asmenys/V. Vainauskas.md#claim-t-40491|V. Vainauskas]]: V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.
-- susijęs iš Juodikis miškas: Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
-- susijęs iš Paobeliai: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.
+
 ## Citatos
 
 - id: c-45091

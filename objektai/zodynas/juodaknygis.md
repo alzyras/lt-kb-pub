@@ -55,12 +55,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183973
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
+
 ## Citatos
 
 - id: c-183973

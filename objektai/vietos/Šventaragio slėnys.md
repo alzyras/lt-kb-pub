@@ -44,7 +44,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-93921
-- susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
+
 ## Citatos
 
 - id: c-93921

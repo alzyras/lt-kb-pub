@@ -44,7 +44,7 @@ Leontovičių ir M.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32915
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47895|Rusų ir ukrainiečių istorikai]]: E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.
+
 ## Citatos
 
 - id: c-32915

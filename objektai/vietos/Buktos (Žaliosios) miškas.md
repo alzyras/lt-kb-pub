@@ -46,7 +46,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - c-43351
 
 <a id="claim-t-41633"></a>
-- t-003
+- t-002
   teiginys: "Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,25 +60,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45046
-- susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
-- susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
-- susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
-- susijęs iš [[objektai/grupes/Gedimino būrys.md#claim-t-40883|Gedimino būrys]]: Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
-- susijęs iš [[objektai/grupes/Juozo Pandeikos būrys.md#claim-t-40904|Juozo Pandeikos būrys]]: Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
-- susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
-- susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
-- susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
-- susijęs iš Žuvinto palios: Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai.
-- susijęs iš [[objektai/grupes/Rėkaus būrys.md#claim-t-41139|Rėkaus būrys]]: 1945 m. balandžio 18 d. ties Vartų kaimu žuvo penki Rėkaus būrio kovotojai ir būrio vadas.
-- susijęs iš [[objektai/grupes/Žuvinto-Palių junginys.md#claim-t-41232|Žuvinto-Palių junginys]]: Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-183680|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71783|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš Daukšiai: Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa.
-- susijęs iš Vartų kaimas: 1945 m. balandžio 18 d. Buktos pamiškėje ties Vartų kaimu, čekistams susidūrus su partizanais, žuvo penki Rėkaus būrio kovotojai ir būrio vadas.
-- susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
-- susijęs iš [[objektai/grupes/Juozo Pandeikos būrys.md#claim-t-40904|Juozo Pandeikos būrys]]: Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
-- susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
+
 ## Citatos
 
 - id: c-43351
@@ -123,4 +105,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

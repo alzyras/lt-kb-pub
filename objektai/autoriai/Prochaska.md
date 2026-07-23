@@ -44,12 +44,7 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38197
-- susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
-- susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
-- susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.
-- susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.
-- susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70088|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.
-- susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70090|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose.
+
 ## Citatos
 
 - id: c-38197

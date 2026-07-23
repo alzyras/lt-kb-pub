@@ -52,8 +52,7 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą, o citata jį palaiko."
   pagrindžia:
     - c-33788
-- susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.
-- susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.
+
 ## Citatos
 
 - id: c-33788

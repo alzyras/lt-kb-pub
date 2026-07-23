@@ -109,6 +109,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   citata_rodoma: "Žy­\ngūnui įsakė joti tokiais keliais, kad atrodytų, jog jisai\nvisai atsitiktinai patekęs Vytauto žvalgams į rankas.\nŽygūną sugavo, laišką perskaitė ir patikėjo klastote, ir\nšitaip klastūnas pasiekė, ko norėjo. Mat Vytautas, nė\nneįtaręs, jog čia esama apgaulės, be to, norėdamas\ntrūks plyš užimti Brodnicą, bematant nutraukė Kulmo\napgulą, o vylių suvokė tik tada, kai prie Brodnicos pa­\ntyrė, jog padėtis čia visai kitokia."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

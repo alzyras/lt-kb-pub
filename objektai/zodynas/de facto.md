@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75544"></a>
-- t-004
+- t-001
   teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,26 +93,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo de facto pripažinimo valstybes ir datas."
   pagrindžia:
     - c-24788
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
-- susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
-- susijęs iš Kaunas: 1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
-- susijęs iš Sovietų Rusija: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
-- susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40041|Artūras Sakalauskas]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
-- susijęs iš [[objektai/asmenys/Georgijus Čičerinas.md#claim-t-18915|Georgijus Čičerinas]]: Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
-- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75339|Lietuvos trispalvė]]: 1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.
-- susijęs iš [[objektai/daiktai/Lėktuvai.md#claim-t-77929|Lėktuvai]]: 1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.).md#claim-t-23337|Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]: 1926 m. rugsėjo 28 d. Maskvoje pasirašyta Lietuvos ir SSRS nepuolimo ir neutralumo sutartis.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.).md#claim-t-23338|Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]: Sutartyje SSRS patvirtino 1920 m. sutarties sąlygų tęstinumą.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.).md#claim-t-23339|Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]: Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.).md#claim-t-23340|Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]: Lietuva 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.
-- susijęs iš Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo pakto: Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
-- susijęs iš Lietuvos ir SSRS nepuolimo ir neutralumo sutartis (1926 m.): 1926 m. rugsėjo 28 d. Lietuva Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.
-- susijęs iš Lietuvos ir SSRS nepuolimo ir neutralumo sutartis (1926 m.): Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje.
-- susijęs iš Maskva: Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje.
-- susijęs iš Maskva: Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
-- susijęs iš Sovietų Rusija: Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi.
-- susijęs iš Vilnius: Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
+
 ## Citatos
 
 - id: c-24788
@@ -159,7 +140,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-73294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

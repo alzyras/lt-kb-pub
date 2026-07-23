@@ -44,7 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01320
-- susijęs iš [[objektai/autoriai/Kraševskis.md#claim-t-01084|Kraševskis]]: Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.
+
 ## Citatos
 
 - id: c-01320

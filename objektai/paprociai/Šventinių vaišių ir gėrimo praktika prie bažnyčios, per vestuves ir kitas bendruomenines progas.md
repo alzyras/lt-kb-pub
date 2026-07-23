@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195372"></a>
-- t-002
+- t-001
   teiginys: "Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-177788
 
 <a id="claim-t-195373"></a>
-- t-005
+- t-002
   teiginys: "Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-177790
 
 <a id="claim-t-195374"></a>
-- t-004
+- t-003
   teiginys: "Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -116,7 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177789
   autorius: "M. Katkus"
@@ -139,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177790
   autorius: "M. Katkus"
@@ -156,4 +156,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

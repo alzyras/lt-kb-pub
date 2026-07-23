@@ -46,8 +46,7 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-75102
-- susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.).md#claim-t-35873|Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]: Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
+
 ## Citatos
 
 - id: c-75102

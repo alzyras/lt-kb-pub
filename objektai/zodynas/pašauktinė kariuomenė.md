@@ -36,7 +36,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 ## Teiginiai
 
 <a id="claim-t-78905"></a>
-- t-004
+- t-001
   teiginys: "Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76010
 
 <a id="claim-t-78906"></a>
-- t-001
+- t-002
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76011
 
 <a id="claim-t-78907"></a>
-- t-002
+- t-003
   teiginys: "XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-76011
   sudarytojas: "Karolis Zikaras"
@@ -141,7 +141,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-76013
   sudarytojas: "Karolis Zikaras"
@@ -167,4 +167,4 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

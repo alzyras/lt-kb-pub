@@ -95,14 +95,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-166839
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai litas.md#claim-t-19550|Lietuvos pinigai litas]]: Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103468|Lietuvos pinigai]]: Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.
-- susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23351|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: 1922 m. spalio 1 d. Lietuvoje įvestas litas.
-- susijęs iš [[objektai/ivykiai/Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.).md#claim-t-20524|Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)]]: Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.
-- susijęs iš Piniginio vieneto įstatymas (1922 m.): Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš [[objektai/zodynas/Valiutų valdybos modelis.md#claim-t-22031|Valiutų valdybos modelis]]: Pagal 1994 m. pradėtą taikyti valiutų valdybos modelį litas buvo susietas su JAV doleriu santykiu 4 litai už 1 dolerį.
-- susijęs iš [[objektai/grupes/Lietuvos bankas.md#claim-t-19858|Lietuvos bankas]]: Nuo 1993 m. vidurio infliacija mažėjo dėl Lietuvos banko sugriežtintos pinigų politikos ir 1994 m. pradėto valiutų valdybos modelio.
-- susijęs iš Rusija: 1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.
+
 ## Citatos
 
 - id: c-24907

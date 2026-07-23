@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08282"></a>
-- t-002
+- t-001
   teiginys: "Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -70,20 +70,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10239
-- susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
-- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189141|Trakai Troki]]: Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų terminu, reiškusiu prie balno tvirtinamus diržus žvėrienai.
-- susijęs iš [[objektai/zodynas/Utroczyc.md#claim-t-189338|Utroczyc]]: Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti.
-- susijęs iš [[objektai/daiktai/Brangūs aksomai.md#claim-t-186844|Brangūs aksomai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo brangių aksomų tarp kitų vertingų dovanų.
-- susijęs iš [[objektai/daiktai/Perlais siuvinėti drabužiai.md#claim-t-186843|Perlais siuvinėti drabužiai]]: Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.
-- susijęs iš [[objektai/posakiai/Širvintų stebuklas.md#claim-t-41478|Širvintų stebuklas]]: Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.
-- susijęs iš [[objektai/posakiai/Širvintų stebuklas.md#claim-t-41479|Širvintų stebuklas]]: Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“.
-- susijęs iš Motiejūnai: Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.
-- susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -117,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

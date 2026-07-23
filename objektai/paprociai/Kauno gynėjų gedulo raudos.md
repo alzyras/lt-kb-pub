@@ -7,13 +7,13 @@ datos:
   - '1362 m.'
 date_start: '1362'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - laidotuvės
   - paprotys
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

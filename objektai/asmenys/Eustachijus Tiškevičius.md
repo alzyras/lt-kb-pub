@@ -9,15 +9,15 @@ datos:
   - '1858 m.'
 date_start: '1857'
 date_end: '1858'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -95,7 +95,12 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   santrauka: 'Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Sis darbas tikriausiai yra vienas žymiau­
+    In­
+    formaciją apie
+    ukrainiečių pilkapius skaitytojas
+    ras
+    veikale, kurį kruopščiai ir moksliškai parašė M. Gra-
+    bovskis1. Sis darbas tikriausiai yra vienas žymiau­
     sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­
     ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
     randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
@@ -103,10 +108,11 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-003
 
 ## Citatos
 

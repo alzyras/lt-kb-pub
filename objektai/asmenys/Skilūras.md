@@ -48,12 +48,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174349
-- susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
-- susijęs iš [[objektai/asmenys/Pasijus.md#claim-t-191453|Pasijus]]: Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
-- susijęs iš [[objektai/ivykiai/Roksolanų pagalba Skilūrui kare su Mitridatu.md#claim-t-191072|Roksolanų pagalba Skilūrui kare su Mitridatu]]: 94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
-- susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192941|Roksolanai]]: Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.
-- susijęs iš [[objektai/asmenys/Pasijus.md#claim-t-191453|Pasijus]]: Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
+
 ## Citatos
 
 - id: c-174349

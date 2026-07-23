@@ -95,12 +95,13 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
     reiškia Rytų žemę, Rytų valstybę, Rytų kelią. Tam tikrą
     šios žemės dalį skandinavai vadino Reithgothland.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192200
-    - t-192554
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
 
 ## Citatos
 

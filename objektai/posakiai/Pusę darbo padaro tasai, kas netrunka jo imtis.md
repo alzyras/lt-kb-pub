@@ -66,11 +66,10 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
       179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
     kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59790

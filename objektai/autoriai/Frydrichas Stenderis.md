@@ -50,7 +50,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173148
 
 <a id="claim-t-190267"></a>
-- t-003
+- t-002
   teiginys: "Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173153
 
 <a id="claim-t-190268"></a>
-- t-004
+- t-003
   teiginys: "Stenderis rašė, kad latviams Lajma reiškia vaikų laimingą likimą arba laimę, o kai kuriose dainose vadinama Laema mahmina."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173151
 
 <a id="claim-t-190270"></a>
-- t-005
+- t-004
   teiginys: "Narbutas teigė, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173153
 
 <a id="claim-t-190271"></a>
-- t-006
+- t-005
   teiginys: "Stenderis pastebėjo, kad latviai turėjo deivę Dyža arba Dysza, kurią Narbutas pagal ypatybes siejo su Pergrube."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173154
 
 <a id="claim-t-190277"></a>
-- t-008
+- t-006
   teiginys: "Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173160
 
 <a id="claim-t-190279"></a>
-- t-009
+- t-007
   teiginys: "Pasak Stenderio, latvių mitinė būtybė Brehkina buvo namų senė, sergėjanti naminius žalčius ir rupūžes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173162
 
 <a id="claim-t-190280"></a>
-- t-010
+- t-008
   teiginys: "Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173163
 
 <a id="claim-t-190281"></a>
-- t-011
+- t-009
   teiginys: "Stenderis nurodė, kad latvių senieji mėnesiai buvo skaičiuojami nuo jauno iki jauno mėnulio ir jų buvo trylika."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-173164
 
 <a id="claim-t-194654"></a>
-- t-013
+- t-010
   teiginys: "Stenderis dar sako, kad latviams Lauma reiškia tą patį, ką ir ragana."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -215,7 +215,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177051
 
 <a id="claim-t-194655"></a>
-- t-014
+- t-011
   teiginys: "Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi- 17 Stender."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -228,7 +228,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-179109
 
 <a id="claim-t-194656"></a>
-- t-015
+- t-012
   teiginys: "Frydrichas Stenderis gali patekti į pastatą net pro rakto skylutę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -241,7 +241,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177053
 
 <a id="claim-t-194657"></a>
-- t-016
+- t-013
   teiginys: "Kankino moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių, 14 Stender."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -254,7 +254,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177054
 
 <a id="claim-t-194658"></a>
-- t-017
+- t-014
   teiginys: "Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -267,7 +267,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177054
 
 <a id="claim-t-197294"></a>
-- t-019
+- t-015
   teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-179108
 
 <a id="claim-t-197295"></a>
-- t-020
+- t-016
   teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -420,7 +420,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173153
   autorius: "Teodoras Narbutas"
@@ -441,8 +441,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004
 
 - id: c-173154
   autorius: "Teodoras Narbutas"
@@ -464,7 +464,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173160
   autorius: "Teodoras Narbutas"
@@ -485,7 +485,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-173162
   autorius: "Teodoras Narbutas"
@@ -504,7 +504,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-173163
   autorius: "Teodoras Narbutas"
@@ -524,7 +524,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-173164
   autorius: "Teodoras Narbutas"
@@ -542,7 +542,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-177050
   autorius: "Teodoras Narbutas"
@@ -578,7 +578,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-177052
   autorius: "Teodoras Narbutas"
@@ -614,7 +614,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-177054
   autorius: "Teodoras Narbutas"
@@ -634,8 +634,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-017
+    - t-013
+    - t-014
 
 - id: c-177055
   autorius: "Teodoras Narbutas"
@@ -676,7 +676,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-015
 
 - id: c-179109
   autorius: "Teodoras Narbutas"
@@ -699,5 +699,5 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-020
+    - t-011
+    - t-016

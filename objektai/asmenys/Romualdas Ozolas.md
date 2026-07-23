@@ -55,11 +55,7 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas kaip konkretus faktas apie asmenį."
   pagrindžia:
     - c-21958
-- susijęs iš [[objektai/ivykiai/Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.).md#claim-t-26395|Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)]]: Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.
-- susijęs iš Atgimimas: Laikraštis „Atgimimas“, redaguotas Romualdo Ozolo, pradėtas leisti rugsėjo 16 dieną.
-- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75336|Lietuvos trispalvė]]: Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.
-- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75338|Lietuvos trispalvė]]: Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“.
-- susijęs iš Sąjūdžio žinios: „Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.
+
 ## Citatos
 
 - id: c-21958

@@ -9,14 +9,14 @@ datos:
   - '1259 m.'
 date_start: '1253'
 date_end: '1259'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
   - žemė
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 <a id="claim-t-58373"></a>
-- t-005
+- t-001
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-59010
 
 <a id="claim-t-58374"></a>
-- t-001
+- t-002
   teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-59006
 
 <a id="claim-t-58377"></a>
-- t-006
+- t-005
   teiginys: "Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-59007
 
 <a id="claim-t-58378"></a>
-- t-002
+- t-006
   teiginys: "Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -144,47 +144,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168505
-- susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
-- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
-- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
-- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191972|Ptolemėjas]]: Teodoro Narbuto aiškinimu, Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o kraštą svetimšaliai vadino Skalva arba Rusia.
-- susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60065|Sarkis]]: Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184130|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-60442|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-184133|Svisdeta]]: Svisdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-60443|Svisdeta]]: Svisdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191523|Ptolemėjas]]: Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183898|Skalviai]]: Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89213|Skalviai]]: Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89222|Skalviai]]: Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89223|Skalviai]]: Skalvos centras buvo Ragainė (dab.
-- susijęs iš Liber censuum Daniae: Liber censuum Daniae žemių sąrašas, greičiausiai sudarytas 1231 m., rodo Sembos ir Skalvos pavaldumą Danijai.
-- susijęs iš Ptolemėjaus Geographia: Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia.
-- susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
-- susijęs iš Lamata: Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo.
-- susijęs iš Nadruva: Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.
-- susijęs iš Salavija: Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu.
-- susijęs iš Skalvių pilis (pilis, XIII a.): Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.
-- susijęs iš Skalvos žemė: 1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės.
-- susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
-- susijęs iš Skalvos žemė: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184129|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66529|Durbės mūšis (1260 m.)]]: 1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.
-- susijęs iš [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas.md#claim-t-62131|Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]: Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
-- susijęs iš Kuršas: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
-- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
-- susijęs iš Osa: Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.
-- susijęs iš Veliuona: 1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.
-- susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
-- susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.'
@@ -198,10 +158,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
     vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -215,11 +175,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59005
@@ -257,7 +216,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-002
+    - t-006
 
 - id: c-59007
   autorius: "Petras Dusburgietis"
@@ -276,7 +235,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-59008
   autorius: "Petras Dusburgietis"
@@ -297,7 +256,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59009
   autorius: "Petras Dusburgietis"
@@ -338,7 +297,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-168505
   autorius: "Albertas Vijūkas-Kojelavičius"

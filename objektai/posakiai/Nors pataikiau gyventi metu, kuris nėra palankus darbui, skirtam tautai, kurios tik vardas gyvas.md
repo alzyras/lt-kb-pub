@@ -7,13 +7,13 @@ datos:
   - '1852 m.'
 date_start: '1852'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - frazė
   - posakis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,11 +53,10 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
     nes turėjau viltį, jog šis darbas bus naudingas didesnių
     sugebėjimų žmonėms“4.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175018
@@ -75,6 +74,7 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   citata_rodoma: "Nors pataikiau gyventi metu,\n  kuris nėra palankus darbui, skirtam tautai, kurios tik\n  vardas gyvas; nors, dažnai pavydžių ir piktų balsų ap­\n  šauktas, nesugebėjau savo darbo atlikti naujosios istori­\n  nės filosofijos minties šviesoje, vis dėlto ir toliau vargau,\n  nes turėjau viltį, jog šis darbas bus naudingas didesnių\n  sugebėjimų žmonėms“4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

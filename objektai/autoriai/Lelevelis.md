@@ -57,15 +57,7 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-01333
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190870|Herodotas]]: Herodotas rašė, kad nuo Dnepro žiočių iki gerų krašto reikia plaukti 40 dienų, o Lelevelis tai siejo su maždaug 4000 stadijų.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-192591|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Joachimas Lelevelis gelonus ir budinus laikė išgalvotomis tautomis ir priekaištavo senovės geografų kompiliatoriams.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78033|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.
-- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
-- susijęs iš [[objektai/autoriai/Jokimas Lelevelis.md#claim-t-184351|Jokimas Lelevelis]]: Jokimas Lelevelis parašė Aug.
-- susijęs iš [[objektai/autoriai/Jokimas Lelevelis.md#claim-t-29204|Jokimas Lelevelis]]: Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190707|Herodotas]]: Herodotas teigė, kad nuo Dnepro žiočių iki Gerų krašto reikia plaukti 40 dienų.
-- susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81908|Ignas Danilavičius]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį.
-- susijęs iš Seimo upė: Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto upę jis siejo su dabartine Desna.
+
 ## Citatos
 
 - id: c-01333

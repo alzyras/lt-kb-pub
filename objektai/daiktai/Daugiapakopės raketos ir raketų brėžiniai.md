@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75314"></a>
-- t-002
+- t-001
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-22226
 
 <a id="claim-t-75315"></a>
-- t-003
+- t-002
   teiginys: "Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-22225
 
 <a id="claim-t-75316"></a>
-- t-001
+- t-003
   teiginys: "K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,8 +133,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-001
 
 - id: c-22226
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -151,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

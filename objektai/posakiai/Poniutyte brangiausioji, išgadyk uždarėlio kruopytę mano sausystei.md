@@ -65,6 +65,7 @@ Aiški socialinė prašymo formulė.
   citata_rodoma: "elgeta ima prašyti: „Poniutyte brangiausioji, išgadyk uždarėlio kruopytę mano sausystei.“"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

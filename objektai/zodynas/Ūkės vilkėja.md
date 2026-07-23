@@ -39,7 +39,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
 ## Teiginiai
 
 <a id="claim-t-07652"></a>
-- t-004
+- t-001
   teiginys: "Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,7 +48,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
     - c-09585
 
 <a id="claim-t-07653"></a>
-- t-003
+- t-002
   teiginys: "Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -72,7 +72,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-09585
   autorius: "Simonas Daukantas"
@@ -87,5 +87,5 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

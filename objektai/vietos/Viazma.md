@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 ## Teiginiai
 
 <a id="claim-t-69558"></a>
-- t-002
+- t-001
   teiginys: "Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     - c-32520
 
 <a id="claim-t-69559"></a>
-- t-001
+- t-002
   teiginys: "Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     - c-167693
 
 <a id="claim-t-184406"></a>
-- t-005
+- t-004
   teiginys: "Maskviečiai nesėkmingai apgulė Viazmą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
     - c-167771
 
 <a id="claim-t-187669"></a>
-- t-007
+- t-005
   teiginys: "Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -138,26 +138,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170610
-- susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
-- susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
-- susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184804|Mykolas Glinskis]]: Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
-- susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
-- susijęs iš [[objektai/ivykiai/Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.).md#claim-t-185652|Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)]]: 1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.
-- susijęs iš Chlepenis: Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.
-- susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
-- susijęs iš Viazmos žemė: Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184831|Stanislovas Kiška]]: Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
-- susijęs iš [[objektai/asmenys/Vasiljevičius (Maskvos valdovas).md#claim-t-186020|Vasiljevičius (Maskvos valdovas)]]: Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186639|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
-- susijęs iš Chlepenis: Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.'
@@ -174,7 +155,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-32520
@@ -193,7 +173,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-37797
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -234,7 +214,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167693
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -270,7 +250,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-170610
   autorius: "Anoniminis metraštininkas"
@@ -290,8 +270,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Ivanas Vasiljevičius]]
 - Užėmė Viazmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

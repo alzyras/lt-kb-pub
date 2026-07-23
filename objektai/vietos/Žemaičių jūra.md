@@ -7,14 +7,14 @@ datos:
   - '1561 m.'
 date_start: '1561'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - jūra
   - kraštas
   - vieta
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 ## Teiginiai
 
 <a id="claim-t-92018"></a>
-- t-008
+- t-001
   teiginys: "Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -67,7 +67,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     - c-10522
 
 <a id="claim-t-92020"></a>
-- t-009
+- t-002
   teiginys: "Šią jūrą kai kurie raštininkai vadino Rusų mare."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -83,7 +83,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     - c-10523
 
 <a id="claim-t-92021"></a>
-- t-010
+- t-003
   teiginys: "Žemaičių jūra šiame fragmente yra konkretus jūros vardas."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -92,7 +92,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     - c-10523
 
 <a id="claim-t-92022"></a>
-- t-007
+- t-004
   teiginys: "Žemaičių jūra per 1000 metų nuseko kelias uolektis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -106,32 +106,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10521
-
-## Reikšmingi paminėjimai
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: vieta
-    - kandidatas: Parusis
-    - potencialus_teiginys: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: match: normalized_whitespace
-    - santrauka: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Kiti vadino Žemaičių kraštą, pajūry esantį, tarp upės Išlos ir Nemuno, Prūsais, arba Parusais, nuo didžiai garsios žinyčios, senovėj Nemuno įtakos saloje
-        buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
-        gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -148,7 +122,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-10522
   autorius: "Simonas Daukantas"
@@ -163,7 +137,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-10523
   autorius: "Simonas Daukantas"
@@ -192,8 +166,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-010
+    - t-002
+    - t-003
 
 - id: c-10524
   autorius: "Simonas Daukantas"
@@ -215,6 +189,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,7 +49,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
 ## Teiginiai
 
 <a id="claim-t-188107"></a>
-- t-003
+- t-001
   teiginys: "1820 m. grafas bronzinę apie šešių colių aukščio statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     - c-170861
 
 <a id="claim-t-188108"></a>
-- t-004
+- t-002
   teiginys: "Narbutas rašė, kad Varšuvos Mokslo bičiulių draugijos nuomonei apie statulėlę nepritarė visi mokslininkai net Varšuvoje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     - c-170861
 
 <a id="claim-t-197225"></a>
-- t-005
+- t-003
   teiginys: "Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towarzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais personažais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -93,16 +93,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179073
-- susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
-- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
-- susijęs iš [[objektai/grupes/Linartai.md#claim-t-195510|Linartai]]: Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos.
-- susijęs iš [[objektai/grupes/Nepriklausomybės Sąjunga.md#claim-t-195665|Nepriklausomybės Sąjunga]]: Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija.
-- susijęs iš [[objektai/grupes/Suomių literatūros draugija.md#claim-t-195502|Suomių literatūros draugija]]: 1900–1909 m. A. R. Niemis buvo Suomių literatūros draugijos sekretorius.
-- susijęs iš [[objektai/grupes/Suomių literatūros draugija.md#claim-t-195503|Suomių literatūros draugija]]: Nuo 1897 m. A. R. Niemis šaltinyje priskiriamas prie Suomių literatūros draugijai priklausiusių mokslo draugijų narių.
-- susijęs iš Lietuvių liaudies dainų tyrinėjimai: Veikalas „Lietuvių liaudies dainų tyrinėjimai“ siejamas su A. R. Niemio 1910-1912 m. atliktu Lietuvių mokslo draugijos archyvo dainų katalogavimu, vadovaujant J. Basanavičiui.
-- susijęs iš Lietuvių vestuvių apeigos: A. R. Niemio „Lietuvių vestuvių apeigos“ paskelbta Suomių ugrų draugijos Memuaruose XXXV.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš [[objektai/autoriai/Jonas Kantas Boreiša.md#claim-t-190431|Jonas Kantas Boreiša]]: Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją.
+
 ## Citatos
 
 - id: c-170861
@@ -125,8 +116,8 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-172371
   autorius: "Teodoras Narbutas"
@@ -168,4 +159,4 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

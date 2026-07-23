@@ -46,9 +46,7 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59346
-- susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
-- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
-- susijęs iš [[objektai/autoriai/Топоров B. H.md#claim-t-175153|Топоров B. H]]: Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite.
+
 ## Citatos
 
 - id: c-59346

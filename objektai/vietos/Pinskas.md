@@ -15,9 +15,6 @@ datos:
   - '2026 m.'
 date_start: '1345'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,6 +22,9 @@ tags:
   - karalius
   - kunigaikštis
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 ## Teiginiai
 
 <a id="claim-t-180412"></a>
-- t-012
+- t-001
   teiginys: "Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182510
 
 <a id="claim-t-180415"></a>
-- t-013
+- t-002
   teiginys: "Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182512
 
 <a id="claim-t-180416"></a>
-- t-009
+- t-003
   teiginys: "Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182508
 
 <a id="claim-t-180418"></a>
-- t-011
+- t-004
   teiginys: "Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182508
 
 <a id="claim-t-180419"></a>
-- t-001
+- t-005
   teiginys: "Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182507
 
 <a id="claim-t-180420"></a>
-- t-002
+- t-006
   teiginys: "Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182505
 
 <a id="claim-t-180422"></a>
-- t-010
+- t-007
   teiginys: "Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182511
 
 <a id="claim-t-199666"></a>
-- t-003
+- t-008
   teiginys: "Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-182506
 
 <a id="claim-t-199668"></a>
-- t-004
+- t-009
   teiginys: "Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -211,13 +211,12 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai sako, kad naugardukiečiai buvo paimti kartu ir grįžo į Lietuvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Naugardukiečiai keliavo į Lietuva (0.78)"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-182504
 
 <a id="claim-t-201099"></a>
-- t-014
+- t-010
   teiginys: "Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir skitų kalba, už tų budinu juo dar į šiaurę, beje, apy gardose Vilniaus, neiriai; regis, upė Neris ir kalnai to krašto Paneriai nuo tų gyventojų yra praminti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -229,7 +228,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-184449
 
 <a id="claim-t-201656"></a>
-- t-015
+- t-011
   teiginys: "Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas, Gardinas, Pinskas, Polockas, kiti - dar mažiau."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -240,82 +239,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-185003
-- susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
-- susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191343|Eduardas Eichvaldas]]: Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“ apie Darijaus žygį prieš skitus.
-- susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191344|Eduardas Eichvaldas]]: Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link.
-- susijęs iš [[objektai/asmenys/Mengu-Timuras.md#claim-t-191443|Mengu-Timuras]]: 1276 m. Hipčiakų kanas Mengu-Timuras surengė žygį prieš jazigus, kuriuos Narbutas vadina jotvingių tauta, gyvenusia tarp Dnepro ir Pinsko pelkių.
-- susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
-- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską.
-- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186599|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi.
-- susijęs iš Eichvaldo straipsnis „Darijus, Histapo sūnus, Pinsko apylinkėse“: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“, kuriame nagrinėjo Darijaus žygį prieš skitus.
-- susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
-- susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
-- susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
-- susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
-- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
-- susijęs iš [[objektai/asmenys/Eichvaldas.md#claim-t-191390|Eichvaldas]]: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese.
-- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
-- susijęs iš [[objektai/asmenys/Nebra.md#claim-t-191447|Nebra]]: Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė.
-- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
-- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
-- susijęs iš [[objektai/asmenys/Valerijonas (raštininkas).md#claim-t-87465|Valerijonas (raštininkas)]]: Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172942|M. Strijkovskis Stryjkowski]]: Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172891|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, perimdamas Dlugošo pasakojimą.
-- susijęs iš [[objektai/daiktai/Paženklinta plyta.md#claim-t-08312|Paženklinta plyta]]: Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
-- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-192375|Dobrynės broliai]]: Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192433|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Konradas XIII a. pradžioje, pasak Narbuto, pasiekė didelių laimėjimų Jotvingijoje.
-- susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187767|Pskoviečiai]]: Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką.
-- susijęs iš [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.).md#claim-t-86908|Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]: 1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191011|Darijaus žygis prieš skitus]]: Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką.
-- susijęs iš [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.).md#claim-t-86910|Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: 1971 m. komentare pasakojimas apie mūšį prie Jieseldos siejamas ir su 1251–1252 m. Mindaugo bei Danieliaus Romanovičiaus karo aprašymu.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
-- susijęs iš [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus.md#claim-t-67247|Šventos ugnelės negesinimas trobesiui užsidegus]]: Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.
-- susijęs iš Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): 1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.
-- susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
-- susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
-- susijęs iš Vilniaus kapitulos archyvo rankraščiai: Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.
-- susijęs iš Žygimanto Senojo raštas Vilniaus magistratui dėl Vilniaus kapitulos jurisdikcijos (1533 m. liepos 26 d.): Žygimanto Senojo raštas Vilniaus magistratui buvo susijęs su vyskupo nesikišimu į miesto jurisdikcijoje tarnaujančiųjų teises.
-- susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
-- susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
-- susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
-- susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
-- susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
-- susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
-- susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
-- susijęs iš Smolenskas: 1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.
-- susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
-- susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
-- susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
-- susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
-- susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
-- susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
-- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-- susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187519|duoklė]]: Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai.
-- susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86422|indiktas]]: Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.
-- susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-184652|žygūnai]]: Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.
-- susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185331|žygūnas]]: Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.
-- susijęs iš [[objektai/asmenys/Mengu-Timuras.md#claim-t-191443|Mengu-Timuras]]: 1276 m. Hipčiakų kanas Mengu-Timuras surengė žygį prieš jazigus, kuriuos Narbutas vadina jotvingių tauta, gyvenusia tarp Dnepro ir Pinsko pelkių.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
+
 ## Citatos
 
 - id: c-164031
@@ -340,8 +264,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-011
+    - t-003
+    - t-004
 
 - id: c-164032
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -366,7 +290,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-164036
   redaktorius: "A. Šapoka"
@@ -386,7 +310,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-164037
   redaktorius: "A. Šapoka"
@@ -406,7 +330,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-002
 
 - id: c-164038
   redaktorius: "A. Šapoka"
@@ -432,7 +356,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-164039
   sudarytojas: "Karolis Zikaras"
@@ -463,7 +387,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-182504
   autorius: "Anoniminis metraštininkas"
@@ -483,7 +407,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-182505
   redaktorius: "A. Šapoka"
@@ -509,7 +433,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-182506
   autorius: "Zenonas Ivinskis"
@@ -531,7 +455,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-008
 
 - id: c-182507
   redaktorius: "A. Šapoka"
@@ -551,7 +475,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-182508
   autorius: "Michał Baliński"
@@ -575,8 +499,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-011
+    - t-003
+    - t-004
 
 - id: c-182510
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -601,7 +525,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-182511
   sudarytojas: "Karolis Zikaras"
@@ -632,7 +556,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-182512
   redaktorius: "A. Šapoka"
@@ -652,7 +576,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-002
 
 - id: c-184449
   autorius: "Simonas Daukantas"
@@ -676,7 +600,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-185003
   autorius: "Zigmantas Kiaupa"
@@ -695,7 +619,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-011
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

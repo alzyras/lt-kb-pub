@@ -65,6 +65,7 @@ Skundo formulė apie vyrų ir moterų nelygų palankumą.
   citata_rodoma: "— Mat, vyrui, kaip skriauda, taip skriauda, o moterims vis geriau išeina. Štai aš išgėriau putų stiklinę, o tamstai, žiūrėk, be putų yra ir gryno alaus."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

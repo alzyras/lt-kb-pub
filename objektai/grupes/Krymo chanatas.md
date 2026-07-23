@@ -11,14 +11,14 @@ datos:
   - '1515 m.'
 date_start: '1468'
 date_end: '1515'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - politinė-grupė
+amziai:
+  - 'XV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -80,7 +80,7 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     - c-170427
 
 <a id="claim-t-187448"></a>
-- t-004
+- t-003
   teiginys: "Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -102,7 +102,7 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
     - c-170426
 
 <a id="claim-t-187449"></a>
-- t-005
+- t-004
   teiginys: "Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -177,7 +177,7 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-170427
   autorius: "Zenonas Ivinskis"
@@ -221,4 +221,4 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

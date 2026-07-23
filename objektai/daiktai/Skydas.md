@@ -9,13 +9,13 @@ datos:
   - '2026 m.'
 date_start: '2026'
 date_end: ''
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - daiktas
+amziai:
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,7 +90,7 @@ Nenurodyta
     - c-10285
 
 <a id="claim-t-111284"></a>
-- t-007
+- t-003
   teiginys: "Pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-102945
 
 <a id="claim-t-111285"></a>
-- t-006
+- t-004
   teiginys: "Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,38 +113,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-102944
-- susijęs iš [[objektai/asmenys/Stanislovas Bakūnas.md#claim-t-190243|Stanislovas Bakūnas]]: Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalytas į dvi dalis.
-- susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
-- susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186862|Habdankas]]: Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.
-- susijęs iš [[objektai/daiktai/Šv. Trejybės reljefas.md#claim-t-200849|Šv. Trejybės reljefas]]: Glaistytinis Šv. Trejybės reljefas portalo frontono skyde Vorobjovui žymėjo vartų bažnytinę paskirtį ir telkė šviesos bei šešėlių atšvaitus.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
-- susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-192112|Kurcho, optimo maximo]]: Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.
-- susijęs iš Merkinė: Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.
-- susijęs iš Trakų pilis (pilis): Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.
-- susijęs iš Senieji Trakai: Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio.
-- susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190048|Alcis]]: Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu.
-- susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190049|Alcis]]: Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.
-- susijęs iš [[objektai/asmenys/Katilas.md#claim-t-190232|Katilas]]: Antspaudas priklausė Katilui (Koczel) 1617 metais.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188654|Šventaragis]]: Narbutas teigė, kad kunigaikštis Šventaragis 1282 m. priėmė lietuvių Vytį kaip valstybinį herbą.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08357|Vėliavos]]: Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.
-- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176222|Šarvai]]: Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78381|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187457|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187461|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
-- susijęs iš [[objektai/paprociai/Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje.md#claim-t-189922|Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje]]: Narbutas spėjo, kad Kovo statulėlė karo metu būdavo nešama ant ieties kariuomenės priešakyje, o taikos metais stovėdavo šventykloje.
-- susijęs iš [[objektai/paprociai/Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas.md#claim-t-189859|Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas]]: Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai.
-- susijęs iš [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!.md#claim-t-09667|Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]: Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną.
-- susijęs iš [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“.md#claim-t-41485|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]: Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas atrems savo ietį į Maskvos Kremliaus sieną.
-- susijęs iš Merkinė: 1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.
-- susijęs iš Šventoji žemė: Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -204,7 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-102945
   sudarytojas: "Karolis Zikaras"
@@ -222,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003

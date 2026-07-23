@@ -64,10 +64,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   semantiniai_rysiai: "Ulrichas von Jungingenas keliavo į Loebau (0.76); Ulrichas von Jungingenas keliavo į Torno (0.70)"
   pagrindžia:
     - c-167760
-- susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-182864|Ulrichas von Jungingenas]]: Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.
-- susijęs iš Gilgenburgas: Sąjungininkų kariuomenė paėmė Gilgenburgą ir žygiavo Tannenbergo kryptimi.
-- susijęs iš Gilgenburgas: Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.
-- susijęs iš Tanenbergas: Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
+
 ## Citatos
 
 - id: c-28299

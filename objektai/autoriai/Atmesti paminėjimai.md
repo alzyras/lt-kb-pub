@@ -8,16 +8,16 @@ datos:
   - '1416 m.'
 date_start: '1332'
 date_end: '1416'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - autorius
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -64,7 +64,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176194
 
 <a id="claim-t-193516"></a>
-- t-004
+- t-003
   teiginys: "Atmesti paminėjimai laikė šias pilis apsuptas ištisas dvidešimt dienų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176196
 
 <a id="claim-t-193518"></a>
-- t-006
+- t-004
   teiginys: "Atmesti paminėjimai atėmė iš lietuvių bei žemaičių keletą pilių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176198
 
 <a id="claim-t-193521"></a>
-- t-009
+- t-005
   teiginys: "Atmesti paminėjimai vėliau niekada jau nebegalėjo pasiekti ankstesnio didingumo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176201
 
 <a id="claim-t-193524"></a>
-- t-012
+- t-006
   teiginys: "Atmesti paminėjimai priprašė Vladislovą parašyti Žygimantui laišką ir priminti, kad nuolatinis bylos sprendimo atidėliojimas galįs pakenkti Glinskio vardui ir padėčiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176204
 
 <a id="claim-t-193528"></a>
-- t-016
+- t-007
   teiginys: "Atmesti paminėjimai skirstė į lietuvius ir rusus, atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176208
 
 <a id="claim-t-196336"></a>
-- t-019
+- t-008
   teiginys: "Atmesti paminėjimai ir pats h u žgniaužia N augarjame dalyvavo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -272,7 +272,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176193
@@ -373,7 +372,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-176198
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -399,7 +398,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-176201
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -429,7 +428,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-176203
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -484,7 +483,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-006
 
 - id: c-176208
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -508,7 +507,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-007
 
 - id: c-178634
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -540,4 +539,4 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-008

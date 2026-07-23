@@ -56,11 +56,7 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai."
   pagrindžia:
     - c-44328
-- susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
-- susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185501|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.
-- susijęs iš [[objektai/asmenys/Dmitrijus.md#claim-t-40086|Dmitrijus]]: Mažamečio Dmitrijaus mirtis prisidėjo prie Riurikaičių dinastijos nutrūkimo ir gilios Rusijos krizės XVII a. pradžioje.
-- susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185502|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.
-- susijęs iš [[objektai/posakiai/vartais į Rusiją.md#claim-t-41477|vartais į Rusiją]]: 1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.
+
 ## Citatos
 
 - id: c-44328

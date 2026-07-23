@@ -63,7 +63,7 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174253
-- susijęs iš [[objektai/asmenys/Ricimeras.md#claim-t-191311|Ricimeras]]: Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste.
+
 ## Citatos
 
 - id: c-174253

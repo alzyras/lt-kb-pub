@@ -66,10 +66,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178679
-- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59878|Bertoldas, vadinamas Briuhavenu]]: Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184495|Kryžiuočių ordinas]]: Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.).md#claim-t-185809|Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]: Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.
-- susijęs iš Prūsija: Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius.
+
 ## Citatos
 
 - id: c-169459

@@ -58,7 +58,7 @@ Nenurodyta
     - c-176181
 
 <a id="claim-t-196327"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičius vaizduoja, kad Gnezno arkivyskupas senate kalbėjo iškalbingai, bet varžėsi įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -100,4 +100,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

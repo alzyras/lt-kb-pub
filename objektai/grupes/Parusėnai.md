@@ -7,14 +7,14 @@ datos:
   - '1250 m.'
 date_start: '1250'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
   - gentis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 ## Teiginiai
 
 <a id="claim-t-07846"></a>
-- t-004
+- t-001
   teiginys: "Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -54,7 +54,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
     - c-10079
 
 <a id="claim-t-07847"></a>
-- t-003
+- t-002
   teiginys: "1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -72,9 +72,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes."
   pagrindžia:
     - c-10081
-- susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66404|Žuvėdai]]: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07680|meldžionys]]: Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.
+
 ## Citatos
 
 - id: c-10079
@@ -95,7 +93,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-10080
   autorius: "Simonas Daukantas"
@@ -131,7 +129,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Puolė Parusėnai: [[objektai/grupes/Lenkai]]

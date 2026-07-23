@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: Bravaras
 sukurta: '2026-07-12'
 variantai:
-  - 'bravarėlį'
-  - 'bravarą'
-  - 'bravare'
+  - bravarėlį
+  - bravarą
+  - bravare
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -68,6 +68,7 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
   citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
   atnaujinta: "2026-07-12 08:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

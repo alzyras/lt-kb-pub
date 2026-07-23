@@ -39,7 +39,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 ## Teiginiai
 
 <a id="claim-t-60523"></a>
-- t-004
+- t-001
   teiginys: "V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,13 +53,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61156
-- susijęs iš [[objektai/autoriai/I. Štai.md#claim-t-88063|I. Štai]]: I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.
-- susijęs iš [[objektai/autoriai/M. Ročka.md#claim-t-88030|M. Ročka]]: M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.
-- susijęs iš Gedimino laiškai: „Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.
-- susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81847|Gedimino antspaudas]]: Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178869|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178903|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178958|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
+
 ## Citatos
 
 - id: c-61156
@@ -77,7 +71,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-61157
   autorius: "Petras Dusburgietis"
@@ -95,6 +89,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   citata_rodoma: "Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro\n\n  149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,\nс. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—\n30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński\nJ. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV\n\niš Dusburgo kronikos faktai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

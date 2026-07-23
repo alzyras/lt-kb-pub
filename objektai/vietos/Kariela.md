@@ -67,9 +67,7 @@ Kariela šiame šaltinyje yra regionas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178055
-- susijęs iš [[objektai/grupes/Nepriklausomybės Sąjunga.md#claim-t-195664|Nepriklausomybės Sąjunga]]: Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis.
-- susijęs iš [[objektai/grupes/Nepriklausomybės Sąjunga.md#claim-t-195665|Nepriklausomybės Sąjunga]]: Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija.
-- susijęs iš [[objektai/grupes/Nepriklausomybės Sąjunga.md#claim-t-195666|Nepriklausomybės Sąjunga]]: Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę.
+
 ## Citatos
 
 - id: c-178054

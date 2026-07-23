@@ -30,7 +30,7 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 ## Teiginiai
 
 <a id="claim-t-191634"></a>
-- t-002
+- t-001
   teiginys: "Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     - c-174516
 
 <a id="claim-t-197581"></a>
-- t-003
+- t-002
   teiginys: "Aristotelis gabenamas, nei kelio, kuriuo jį veždavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,11 +75,12 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
     vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
+
 - c-002
   santrauka: 'Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -101,11 +102,10 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174515
@@ -132,7 +132,7 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-174516
   autorius: "Teodoras Narbutas"
@@ -163,4 +163,4 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

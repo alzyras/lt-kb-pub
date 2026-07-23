@@ -39,7 +39,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 ## Teiginiai
 
 <a id="claim-t-187198"></a>
-- t-004
+- t-001
   teiginys: "1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -59,7 +59,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
     - c-170275
 
 <a id="claim-t-187200"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -77,7 +77,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-170274
-- susijęs iš Daugai: Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.
+
 ## Citatos
 
 - id: c-170274
@@ -100,7 +100,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-170275
   autorius: "Anoniminis metraštininkas"
@@ -117,4 +117,4 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

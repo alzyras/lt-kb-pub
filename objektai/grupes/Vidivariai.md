@@ -48,8 +48,7 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175714
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191086|Jordanas]]: Narbutas rašo, kad Jordanas, pasakodamas apie Pavyslio vietoves prie jūros, minėjo vidivarius prie Vyslos žiočių.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
+
 ## Citatos
 
 - id: c-175714

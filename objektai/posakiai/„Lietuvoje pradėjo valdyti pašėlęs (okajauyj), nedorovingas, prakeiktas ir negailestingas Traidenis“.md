@@ -55,7 +55,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186398"></a>
-- t-003
+- t-002
   teiginys: "Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186399"></a>
-- t-004
+- t-003
   teiginys: "Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186400"></a>
-- t-002
+- t-004
   teiginys: "Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,6 +133,6 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
     - t-004
-    - t-002

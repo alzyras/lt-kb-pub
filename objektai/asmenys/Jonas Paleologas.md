@@ -45,7 +45,7 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   semantiniai_rysiai: "Jonas Paleologas buvo sūnus Manuelis (0.96); Muradas II siuntė į Smolenskas (0.88)"
   pagrindžia:
     - c-38060
-- susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
+
 ## Citatos
 
 - id: c-38060

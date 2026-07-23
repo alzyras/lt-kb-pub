@@ -31,7 +31,7 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 ## Teiginiai
 
 <a id="claim-t-197068"></a>
-- t-002
+- t-001
   teiginys: "Domininkas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,10 +41,7 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60900
-- susijęs iš [[objektai/asmenys/Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.).md#claim-t-200481|Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.)]]: Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.
-- susijęs iš [[objektai/autoriai/Domininkas Burba.md#claim-t-200432|Domininkas Burba]]: Domininkas Burba yra šio straipsnio autorius.
-- susijęs iš Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją: Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltinis apie jo ankstyvą karjerą ir XVIII a. vidurio Vilniaus bajorų gyvenimą.
-- susijęs iš Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją: Straipsnis paskelbtas 2015 m. leidinio „Istorija / History“ 97 tome, 1 numeryje, 26–46 puslapiuose.
+
 ## Citatos
 
 - id: c-60900
@@ -65,4 +62,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

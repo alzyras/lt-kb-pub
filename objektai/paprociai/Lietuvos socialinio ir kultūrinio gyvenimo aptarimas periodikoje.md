@@ -101,7 +101,7 @@ Nenurodyta
     - c-78409
 
 <a id="claim-t-81866"></a>
-- t-004
+- t-003
   teiginys: "XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -120,7 +120,7 @@ Nenurodyta
     - c-78409
 
 <a id="claim-t-81867"></a>
-- t-003
+- t-004
   teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -185,6 +185,6 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-004
     - t-003
+    - t-004
     - t-005

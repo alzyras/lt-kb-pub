@@ -30,7 +30,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 ## Teiginiai
 
 <a id="claim-t-60571"></a>
-- t-003
+- t-001
   teiginys: "J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
     - c-61204
 
 <a id="claim-t-60573"></a>
-- t-001
+- t-003
   teiginys: "Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-61204
   autorius: "Petras Dusburgietis"
@@ -138,4 +138,4 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -36,7 +36,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 ## Teiginiai
 
 <a id="claim-t-22012"></a>
-- t-002
+- t-001
   teiginys: "Pereinant iš planinės ekonomikos, Lietuvoje lėtai steigtos privačios žemės ūkio ir pramonės įmonės, daugiausia orientuotos į Vakarų rinką."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
     - c-166847
 
 <a id="claim-t-22013"></a>
-- t-001
+- t-002
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -144,5 +144,5 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
     - t-003

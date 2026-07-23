@@ -58,7 +58,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     - c-177976
 
 <a id="claim-t-195560"></a>
-- t-003
+- t-002
   teiginys: "Aiškindamas giminystę Vaičys sakė, kad antroji Lukošiukė buvo jo senelė, nuėjusi į Papušinį už Grigės."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -68,7 +68,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     - c-177978
 
 <a id="claim-t-195561"></a>
-- t-002
+- t-003
   teiginys: "Vaičys aiškino, kad ir broliai, ir nebroliai yra keliai, nes visas svietas yra giminės."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -113,7 +113,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-177978
   autorius: "M. Katkus"
@@ -132,4 +132,4 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

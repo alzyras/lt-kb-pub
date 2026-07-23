@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06171"></a>
-- t-004
+- t-001
   teiginys: "Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-00268
 
 <a id="claim-t-06172"></a>
-- t-006
+- t-002
   teiginys: "Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-00269
 
 <a id="claim-t-06173"></a>
-- t-005
+- t-003
   teiginys: "Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-00269
   redaktorius: "A. Šapoka"
@@ -140,5 +140,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
+    - t-002
+    - t-003

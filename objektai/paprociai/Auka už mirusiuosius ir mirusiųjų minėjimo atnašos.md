@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194621"></a>
-- t-003
+- t-001
   teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -107,4 +107,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

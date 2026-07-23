@@ -48,8 +48,7 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174340
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190888|Johanas Foigtas]]: Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.
-- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191553|J. Voigtas Foigtas]]: Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai.
+
 ## Citatos
 
 - id: c-174340

@@ -66,11 +66,10 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174631

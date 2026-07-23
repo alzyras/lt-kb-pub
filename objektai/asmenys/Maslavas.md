@@ -49,10 +49,7 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174177
-- susijęs iš [[objektai/asmenys/Kadlubekas.md#claim-t-191348|Kadlubekas]]: Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje prieš Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
-- susijęs iš [[objektai/asmenys/Vincentas Kadlubekas.md#claim-t-191251|Vincentas Kadlubekas]]: Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
-- susijęs iš [[objektai/autoriai/Kadlubekas.md#claim-t-191580|Kadlubekas]]: Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų.
-- susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190817|Vincentas Kadlubekas]]: Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.
+
 ## Citatos
 
 - id: c-174177

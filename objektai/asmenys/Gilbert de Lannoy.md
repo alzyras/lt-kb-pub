@@ -46,7 +46,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
   pagrindžia:
     - c-38019
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
+
 ## Citatos
 
 - id: c-38019

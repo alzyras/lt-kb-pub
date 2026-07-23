@@ -147,29 +147,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184454
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190005|Henenbergeris]]: Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189973|Kristoforas Hartknochas]]: Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
-- susijęs iš [[objektai/asmenys/Wespats.md#claim-t-191486|Wespats]]: Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai.
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188307|Prūsai]]: Narbutas, remdamasis Hartknochu, nurodo garsų prūsų šventąjį mišką prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
-- susijęs iš Jūros upė: Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.
-- susijęs iš Šventasis miškas prie Tenenio upės: Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką.
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
-- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190097|Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje.
-- susijęs iš [[objektai/asmenys/Protonas I.md#claim-t-191225|Protonas I]]: Teodoro Narbuto pasakojime Protonas I sudarė sąjungą su Ganduvanu ir vedė jo dukrą, taip užbaigdamas dviejų tautų karus.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188432|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pagal senus duomenis prie Žemaitijos sienos lokalizavo garsų šventąjį mišką.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191518|Ptolemėjas]]: Narbutas sprendė, kad Ptolemėjo nurodytos Krono, arba Nemuno, žiotys geriausiai atitinka Kuršių marių žiotis į jūrą.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-192502|Laivai]]: Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192425|Lietuviai]]: Foigto teigimu, senoji lietuvių tvirtovė Klaipėda stovėjo prie Dangės žiočių, susijusių su dešiniąja Nemuno deltos šaka.
-- susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
-- susijęs iš Romuniškiai: Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės.
-- susijęs iš Romučiai: Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos.
-- susijęs iš Šventasis miškas prie Tenenio upės: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, bet nelaimingiesiems veikiausiai ne.
-- susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
-- susijęs iš [[objektai/zodynas/Šventasis miškas miškelis.md#claim-t-189212|Šventasis miškas miškelis]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
-- susijęs iš [[objektai/zodynas/Šventasis miškelis šventasis miškas.md#claim-t-189216|Šventasis miškelis šventasis miškas]]: Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne.
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.'
@@ -215,7 +193,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-34030

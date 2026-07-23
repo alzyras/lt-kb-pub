@@ -62,7 +62,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ## Teiginiai
 
 <a id="claim-t-10296"></a>
-- t-003
+- t-001
   teiginys: "Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11915
 
 <a id="claim-t-10297"></a>
-- t-004
+- t-002
   teiginys: "1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11916
 
 <a id="claim-t-10298"></a>
-- t-005
+- t-003
   teiginys: "Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     - c-11917
 
 <a id="claim-t-10299"></a>
-- t-006
+- t-004
   teiginys: "Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11918
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11915
@@ -152,7 +152,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-11916
   sudarytojas: "Karolis Zikaras"
@@ -176,7 +176,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-11917
   sudarytojas: "Karolis Zikaras"
@@ -198,7 +198,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-11918
   sudarytojas: "Karolis Zikaras"
@@ -223,7 +223,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)

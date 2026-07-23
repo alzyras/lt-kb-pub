@@ -52,11 +52,7 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė Salernas (0.96); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas Barleta (0.94)"
   pagrindžia:
     - c-59392
-- susijęs iš Salernas: Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89829|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89829|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89833|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.
-- susijęs iš Salernas: Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje.
+
 ## Citatos
 
 - id: c-59392

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 ## Teiginiai
 
 <a id="claim-t-175153"></a>
-- t-002
+- t-001
   teiginys: "Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-159307
   autorius: "Petras Dusburgietis"
@@ -78,6 +78,7 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
     Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

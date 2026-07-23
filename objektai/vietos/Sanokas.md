@@ -48,10 +48,7 @@ Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dal
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168664
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
-- susijęs iš [[objektai/asmenys/Leopoldas (Austrijos erchercogas).md#claim-t-186233|Leopoldas (Austrijos erchercogas)]]: Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
-- susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185862|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.
-- susijęs iš [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas.md#claim-t-185473|visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]: Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
+
 ## Citatos
 
 - id: c-168664

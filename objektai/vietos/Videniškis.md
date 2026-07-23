@@ -30,7 +30,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 ## Teiginiai
 
 <a id="claim-t-42264"></a>
-- t-002
+- t-001
   teiginys: "9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - c-45402
 
 <a id="claim-t-193787"></a>
-- t-003
+- t-002
   teiginys: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -56,11 +56,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43978
-- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
-- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
-- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
-- susijęs iš Balnininkai: Lenkų pajėgos per puolimą priartėjo prie Videniškio ir Gelogalių, o paskui judėjo Balnininkų link.
-- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
+
 ## Citatos
 
 - id: c-43978
@@ -79,7 +75,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-45402
   sudarytojas: "Karolis Zikaras"
@@ -113,4 +109,4 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

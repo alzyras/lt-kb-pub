@@ -68,7 +68,7 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     - c-169354
 
 <a id="claim-t-196622"></a>
-- t-005
+- t-003
   teiginys: "Apie sausio vidurį į Vilniaus seimą atvyko maskvėnų pasiuntiniai tartis dėl taikos, o sudarius sutartį paleisti visi belaisviai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169353
@@ -219,7 +218,4 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-
-## Ryšiai
-- Vasilijus (Maskvos kunigaikštis) kariavo prieš [[objektai/asmenys/Žygimantas]]
+    - t-003

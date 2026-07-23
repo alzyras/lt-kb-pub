@@ -48,8 +48,7 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174327
-- susijęs iš Muratori Antiquitates Italicae medii aevi: Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją.
-- susijęs iš [[objektai/asmenys/Mečislovas.md#claim-t-192596|Mečislovas]]: Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų.
+
 ## Citatos
 
 - id: c-174327

@@ -8,15 +8,15 @@ datos:
   - '1269 m.'
 date_start: '1269'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Teiginiai
 
 <a id="claim-t-184835"></a>
-- t-003
+- t-001
   teiginys: "Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - c-168196
 
 <a id="claim-t-197156"></a>
-- t-004
+- t-002
   teiginys: "Surbantas esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-167514
@@ -115,7 +114,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-168196
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -138,4 +137,4 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

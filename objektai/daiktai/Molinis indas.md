@@ -47,9 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - kartu minimos ir neprietelių kaukolės ant grandies, bet kandidato ašį palieku pagal molinį indą kaip laidojimo daiktą.
@@ -69,6 +66,7 @@ Nenurodyta
   citata_rodoma: "paskui sušluostę gruzdinius^1299 numirėlio supylė į molio\nindą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir\nsakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,\npadėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo\npalaidotas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

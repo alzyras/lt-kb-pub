@@ -39,7 +39,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 ## Teiginiai
 
 <a id="claim-t-63708"></a>
-- t-003
+- t-001
   teiginys: "Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     - c-42007
 
 <a id="claim-t-63710"></a>
-- t-001
+- t-002
   teiginys: "1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     - c-21731
 
 <a id="claim-t-63711"></a>
-- t-002
+- t-003
   teiginys: "Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -100,8 +100,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176417
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20133|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T. Korsakas.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20134|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Lietuvoje 1794 m. sukilimas prasidėjo balandžio 16 d. Šiauliuose, o sukilėlių vadu tapo Jokūbas Jasinskis.
+
 ## Citatos
 
 - id: c-21731
@@ -125,7 +124,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-21732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -145,7 +144,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-42007
   sudarytojas: "Karolis Zikaras"
@@ -176,7 +175,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176417
   sudarytojas: "Karolis Zikaras"

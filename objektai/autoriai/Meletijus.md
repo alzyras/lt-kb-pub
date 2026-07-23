@@ -100,11 +100,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179130
-- susijęs iš [[objektai/asmenys/Meletijus ir Vaiselijus.md#claim-t-190184|Meletijus ir Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
-- susijęs iš Meletijaus šaltiniai apie prūsų ir lietuvių papročius: Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.
-- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190043|Pretorijus]]: Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190330|Motiejus Pretorijus]]: Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.
-- susijęs iš [[objektai/autoriai/Vaiselijus.md#claim-t-190461|Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros.
+
 ## Citatos
 
 - id: c-173221

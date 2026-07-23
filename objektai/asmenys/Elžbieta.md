@@ -40,7 +40,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 ## Teiginiai
 
 <a id="claim-t-82291"></a>
-- t-007
+- t-001
   teiginys: "Šventa Elžbieta mirė 1231 m. lapkričio 19 d."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78775
 
 <a id="claim-t-82292"></a>
-- t-005
+- t-002
   teiginys: "1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78770
 
 <a id="claim-t-82293"></a>
-- t-004
+- t-003
   teiginys: "Šventa Elžbieta gimė 1207 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78772
 
 <a id="claim-t-82294"></a>
-- t-001
+- t-004
   teiginys: "Elžbieta buvo Vengrijos karalienė ir Jadvygos motina."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78778
 
 <a id="claim-t-82295"></a>
-- t-002
+- t-005
   teiginys: "Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78771
 
 <a id="claim-t-82296"></a>
-- t-009
+- t-006
   teiginys: "Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78774
 
 <a id="claim-t-82297"></a>
-- t-006
+- t-007
   teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78773
 
 <a id="claim-t-82299"></a>
-- t-003
+- t-009
   teiginys: "Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -244,31 +244,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179023
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
-- susijęs iš [[objektai/asmenys/Danmilė.md#claim-t-87649|Danmilė]]: Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.
-- susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
-- susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173147|Elžbieta (Žygimanto Augusto žmona)]]: 1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.
-- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-87673|Fridrichas]]: Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
-- susijęs iš [[objektai/asmenys/Leopoldas (Austrijos erchercogas).md#claim-t-186233|Leopoldas (Austrijos erchercogas)]]: Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje.
-- susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Leopoldas, Austrijos erchercogas.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176413|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176415|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176420|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.
-- susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
-- susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89153|Mokinių slėnio brolių ordinas]]: Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kalno atsiskyrėlių ordiną.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
-- susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185862|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.
-- susijęs iš [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas.md#claim-t-185473|visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]: Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
-- susijęs iš Ašmena: 1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.
-- susijęs iš Brasta: 1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią.
-- susijęs iš Prūsija: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.
-- susijęs iš Prūsija: Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
@@ -278,13 +254,43 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
       1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.
 
+
+
                          22.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-010
+  santrauka: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    septyneriems metams, o klau-
+    S e p ty n m e tė s
+    p oliau -
+    simą dėl belaisvių perduoti
+    b o s su M a sk v o s ku -
+    pačiam karaliui. Po to mask-
+    n ig a ik šč iu
+    venai atvyko į Vilnių, dė­
+    damiesi atkeliavę pasirašy­
+    ti paliaubų, o iš tikrųjų norėdami sužinoti, kas ma­
+    noma dėl paliaubų metu užimtų kaimų ir belaisvių, ar
+    negalima trumpų paliaubų pakeisti taikos sutartimi,
+    tačiau tokiomis sąlygomis, kad lietuviai paliktų Mask­
+    vos kunigaikščiui Gomelį, atsisakytų Smolensko, rei­
+    kalaudami už tai kokių kitų žemių, o belaisvius abi
+    šalys be niekur nieko paleistų į laisvę, nepaisydamos
+    nei jų kilmės, nei kiekio. Atmetus visus šiuos reika­
+    lavimus, maskvėnams pažadėta, kad neilgai trukus prie
+    Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
+    kalą, jie ir atsilygins tiems, kurie neteko žemių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-78770
@@ -306,7 +312,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-78771
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -328,7 +334,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-78772
   autorius: "Petras Dusburgietis"
@@ -349,7 +355,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-78773
   autorius: "Petras Dusburgietis"
@@ -397,8 +403,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-009
-    - t-003
 
 - id: c-78775
   autorius: "Petras Dusburgietis"
@@ -420,8 +426,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-007
-    - t-006
 
 - id: c-78776
   autorius: "Petras Dusburgietis"
@@ -462,7 +468,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-167641
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

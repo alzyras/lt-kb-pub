@@ -44,10 +44,7 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41916
-- susijęs iš [[objektai/asmenys/Viesulas.md#claim-t-39666|Viesulas]]: Viesulas ir Gaidys turėjo tik pistoletus.
-- susijęs iš Merkinė: Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.
-- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40464|Tigras]]: Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.
-- susijęs iš Merkinė: 1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.
+
 ## Citatos
 
 - id: c-41916

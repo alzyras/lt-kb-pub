@@ -8,12 +8,12 @@ datos:
   - '1999 m.'
 date_start: '1983'
 date_end: '1999'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

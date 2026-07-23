@@ -55,10 +55,7 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171882
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189971|Kristoforas Hartknochas]]: Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189971|Kristoforas Hartknochas]]: Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.
-- susijęs iš [[objektai/daiktai/Dybovo šventyklos aptvaras.md#claim-t-189720|Dybovo šventyklos aptvaras]]: Narbutas Dybovo šventyklą prie Torunės aprašė kaip senovės prūsų šventą ąžuolą su dideliu ąžuolu viduryje ir stipriu aptvaru.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188302|Prūsai]]: Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę.
+
 ## Citatos
 
 - id: c-171882

@@ -39,7 +39,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 ## Teiginiai
 
 <a id="claim-t-30590"></a>
-- t-002
+- t-001
   teiginys: "E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     - c-32913
 
 <a id="claim-t-30591"></a>
-- t-001
+- t-002
   teiginys: "E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,13 +71,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32912
-- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
-- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
-- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
-- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
-- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
-- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192053|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+
 ## Citatos
 
 - id: c-32912
@@ -99,7 +93,7 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-32913
   autorius: "Zenonas Ivinskis"
@@ -121,4 +115,4 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

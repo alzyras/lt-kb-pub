@@ -77,7 +77,7 @@ Nenurodyta
     - c-63466
 
 <a id="claim-t-62709"></a>
-- t-003
+- t-002
   teiginys: "Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-63467
 
 <a id="claim-t-62710"></a>
-- t-002
+- t-003
   teiginys: "Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-63466
   autorius: "Petras Dusburgietis"
@@ -176,5 +176,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003

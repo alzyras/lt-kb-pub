@@ -30,7 +30,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 ## Teiginiai
 
 <a id="claim-t-192971"></a>
-- t-002
+- t-001
   teiginys: "Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,14 +49,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175741
-- susijęs iš [[objektai/asmenys/Surovieckis.md#claim-t-191473|Surovieckis]]: Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geografai variagus-lietuvius žinojo gitonų vardu.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192401|Gotai]]: Narbutas gotais vadinamą tautą sieja su pajūriu nuo Oderio iki Vyslos, gitonų arba variagų vardais ir gintaro prekyba.
-- susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-190977|Tacitas]]: Narbutas rašo, kad Tacitas 46 skyriuje venedus laikė nepriklausančiais nei sarmatams, nei germanams ir turėjusiais daug žemių.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190799|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas 46 skyriuje venedus skyrė nuo sarmatų ir germanų bei aprašė jų kaimynus.
-- susijęs iš [[objektai/grupes/Finai.md#claim-t-192968|Finai]]: Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiauriniai kaimynai.
-- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192478|Variagai (normanai)]]: Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.
-- susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
-- susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.
+
 ## Citatos
 
 - id: c-175740
@@ -106,4 +99,4 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -97,7 +97,7 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   temporalinis_llm_pakomentavimas: "Reikia suderinti asmenvardžio formą su lietuvišku note pavadinimu."
   pagrindžia:
     - c-167791
-- susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
+
 ## Citatos
 
 - id: c-167790

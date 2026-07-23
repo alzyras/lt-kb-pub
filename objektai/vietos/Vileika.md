@@ -53,11 +53,7 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vileikos apylinkių paskirtį."
   pagrindžia:
     - c-45406
-- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
-- susijęs iš Ašmenos pavietas: M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete.
-- susijęs iš Bresto vaivadija: Bresto vaivadijoje Višnioveckiai telkė LDK pietų bajoriją, pasitelkdami savo šalininkus, tarnus ir rekrūtus iš Voluinės dvarų.
-- susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
-- susijęs iš Voluinė: Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.
+
 ## Citatos
 
 - id: c-45406

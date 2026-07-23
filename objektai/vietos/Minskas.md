@@ -18,14 +18,14 @@ datos:
   - '1960 m.'
 date_start: '1432'
 date_end: '1960'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 ## Teiginiai
 
 <a id="claim-t-180319"></a>
-- t-020
+- t-001
   teiginys: "Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163949
 
 <a id="claim-t-180320"></a>
-- t-018
+- t-002
   teiginys: "XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163945
 
 <a id="claim-t-180321"></a>
-- t-022
+- t-003
   teiginys: "Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163944
 
 <a id="claim-t-180322"></a>
-- t-023
+- t-004
   teiginys: "Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163953
 
 <a id="claim-t-180323"></a>
-- t-013
+- t-005
   teiginys: "Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163947
 
 <a id="claim-t-180324"></a>
-- t-011
+- t-006
   teiginys: "Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-43646
 
 <a id="claim-t-180326"></a>
-- t-024
+- t-007
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163948
 
 <a id="claim-t-180328"></a>
-- t-010
+- t-008
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163950
 
 <a id="claim-t-180330"></a>
-- t-012
+- t-009
   teiginys: "Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163956
 
 <a id="claim-t-180332"></a>
-- t-016
+- t-010
   teiginys: "Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163943
 
 <a id="claim-t-180333"></a>
-- t-014
+- t-011
   teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-163951
 
 <a id="claim-t-185048"></a>
-- t-017
+- t-012
   teiginys: "Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -240,7 +240,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-168409
 
 <a id="claim-t-185049"></a>
-- t-001
+- t-013
   teiginys: "Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -259,7 +259,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-168410
 
 <a id="claim-t-185050"></a>
-- t-019
+- t-014
   teiginys: "Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -282,7 +282,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-168411
 
 <a id="claim-t-185051"></a>
-- t-002
+- t-015
   teiginys: "Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -301,7 +301,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - c-168412
 
 <a id="claim-t-201633"></a>
-- t-025
+- t-016
   teiginys: "Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kijevas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gardinas - 120 kapų grašių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -311,113 +311,34 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184980
-- susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
-- susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
-- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185364|algininkai]]: Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.
-- susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87393|Jonas Hlebavičius]]: Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas.
-- susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-192600|Povilas Juozapas Safaržykas]]: Teodoras Narbutas Safaržyko hipotezę apie kalną Minsko gubernijoje vadino juokinga ir priekaištavo jam dėl slavų pėdsakų ieškojimo pagal panašumus.
-- susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
-- susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
-- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188046|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
-- susijęs iš [[objektai/grupes/Litvinai.md#claim-t-188288|Litvinai]]: Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai.
-- susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš Ткачоў М. А. Абарочнычя забудаваннi заходнix зямель Беларуci XIII—XVIII ст. ст: M. A. Tkačiovo darbas apie Vakarų Baltarusijos žemių gynybinius statinius išleistas Minske 1978 m.
-- susijęs iš Ткачоў М. А. Замкi Беларусi (XIII—XVII ст.): M. A. Tkačiovo veikalas „Замкi Беларусi (XIII—XVII ст.)“ išleistas Minske 1977 m.
-- susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
-- susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
-- susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
-- susijęs iš Kauno gubernija: Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis.
-- susijęs iš Minsko Lietuva: Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.
-- susijęs iš Minsko Lietuva: Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.
-- susijęs iš Minsko Lietuva: Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.
-- susijęs iš Minsko Lietuva: Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.
-- susijęs iš Minsko Lietuva: Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.
-- susijęs iš Mozyrius: Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.
-- susijęs iš Mozyrius: Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.
-- susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
-- susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
-- susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
-- susijęs iš Vilniaus gubernija: Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
-- susijęs iš [[objektai/asmenys/Danielius iš Lenčicos.md#claim-t-87647|Danielius iš Lenčicos]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
-- susijęs iš [[objektai/asmenys/I. Zolotarenko.md#claim-t-40142|I. Zolotarenko]]: I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87394|Jonas Hlebavičius]]: Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.
-- susijęs iš [[objektai/asmenys/Jonas Karcanas.md#claim-t-87723|Jonas Karcanas]]: Apie 1580 metus Jonas Karcanas globojo Vilniuje klestėjusią evangelikų reformatų Danieliaus iš Lenčicos spaustuvę.
-- susijęs iš [[objektai/asmenys/Kasparas Vilkovskis.md#claim-t-87750|Kasparas Vilkovskis]]: Apie 1580 metus Vilniuje klestėjo Kasparo Vilkovskio spaustuvė, spausdinusi knygas evangelikams ir katalikams.
-- susijęs iš [[objektai/asmenys/Kazimieras Vežbickis.md#claim-t-87752|Kazimieras Vežbickis]]: 1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.
-- susijęs iš [[objektai/asmenys/Mykolas Vežbickis.md#claim-t-87803|Mykolas Vežbickis]]: 1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.
-- susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176612|Sofija (Vytauto duktė)]]: Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.
-- susijęs iš [[objektai/asmenys/V. B. Seremetjevas.md#claim-t-40482|V. B. Seremetjevas]]: Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.
-- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87412|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.
-- susijęs iš [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai.md#claim-t-87108|Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87064|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87065|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.
-- susijęs iš [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai.md#claim-t-87105|Žemutinės pilies sienos ir mediniai rūmai]]: 1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.
-- susijęs iš [[objektai/grupes/Evangelikai reformatai Vilniuje.md#claim-t-86791|Evangelikai reformatai Vilniuje]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
-- susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172835|Vilniaus miestiečių luomas]]: 1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu.
-- susijęs iš [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.).md#claim-t-86951|Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė bibliotekai lėšas iš mūrinių namų ir Užupio sklypų pelno knygoms gausinti.
-- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86890|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35920|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186742|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.
-- susijęs iš [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis.md#claim-t-87160|Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]: 1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.
-- susijęs iš [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje.md#claim-t-87271|Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]: 1583 m. lapkričio 26 d. Steponas Batoras uždraudė Vilniuje per naujojo kalendoriaus šventes atidaryti krautuves ir pardavinėti prekes.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87234|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.
-- susijęs iš Biblioteka Jagiellońska, Oddział Rękopisów, Rkp. 6636 II: 1751 m. kovo 5 d. Jono Dominyko Lopacinskio laiškas Adomui Chmarai nurodytas Biblioteka Jagiellońska rankraštyje Rkp. 6636 II.
-- susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): Vyskupo seminarijos įsteigimo iš Vozgėliškėmis vadinamo vyskupų stalo dvaro raštas datuojamas 1582 metais.
-- susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
-- susijęs iš Borisovas: Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.
-- susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
-- susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
-- susijęs iš Kauno gubernija: Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.
-- susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
-- susijęs iš Kijevas: Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.
-- susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
-- susijęs iš Liaudanskų mūrinis namas: 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.
-- susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
-- susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
-- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
-- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
-- susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
-- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
-- susijęs iš Smolenskas: Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis.
-- susijęs iš Vilniaus gubernija: Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.
-- susijęs iš Vilniaus gubernija: Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.
-- susijęs iš Vilniaus pilis: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš Vilnius: Kojelavičiaus pasakojime dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.
-- susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
-- susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
-- susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
-- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
-- susijęs iš Černigovas: Švitrigaila paėmė į savo valdžią Černigovo sritį.
-- susijęs iš Černigovas: Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis.
-- susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185364|algininkai]]: Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
-- susijęs iš Biblioteka Jagiellońska, Oddział Rękopisów, Rkp. 6636 II: 1751 m. kovo 5 d. Jono Dominyko Lopacinskio laiškas Adomui Chmarai nurodytas Biblioteka Jagiellońska rankraštyje Rkp. 6636 II.
-- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-- susijęs iš Vilniaus pilys: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
-- susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
+
+## Reikšmingi paminėjimai
+- c-014
+  santrauka: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti. Ne­
+    rasdamas užtarėjų žemėje, Šich Achmetas kreipėsi mal­
+    domis į dangų, norėdamas, atgavęs aukščiausiojo ma­
+    lonę, atkeršyti jo padedamas už skriaudas. Išklausė
+    dangus varguolio maldų. Mengli Girėjaus kariai, veda­
+    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
+    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
+    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
+    jūčio viduryje užpuolė Slucką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-43646
@@ -447,7 +368,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-163943
   autorius: "Zenonas Ivinskis"
@@ -468,7 +389,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-010
 
 - id: c-163944
   redaktorius: "A. Šapoka"
@@ -493,7 +414,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-003
 
 - id: c-163945
   redaktorius: "A. Šapoka"
@@ -512,7 +433,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-002
 
 - id: c-163947
   autorius: "Michał Baliński"
@@ -539,7 +460,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-163948
   redaktorius: "A. Šapoka"
@@ -559,7 +480,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-007
 
 - id: c-163949
   redaktorius: "A. Šapoka"
@@ -583,7 +504,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-001
 
 - id: c-163950
   sudarytojas: "Karolis Zikaras"
@@ -629,7 +550,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-163951
   autorius: "Michał Baliński"
@@ -652,7 +573,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-163953
   redaktorius: "A. Šapoka"
@@ -678,7 +599,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-004
 
 - id: c-163956
   sudarytojas: "Karolis Zikaras"
@@ -699,7 +620,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-168409
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -729,7 +650,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-012
 
 - id: c-168410
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -755,7 +676,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-013
 
 - id: c-168411
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -781,7 +702,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-014
 
 - id: c-168412
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -802,7 +723,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-015
 
 - id: c-184980
   autorius: "Zigmantas Kiaupa"
@@ -821,7 +742,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-016
 
 ## Ryšiai
 - Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]

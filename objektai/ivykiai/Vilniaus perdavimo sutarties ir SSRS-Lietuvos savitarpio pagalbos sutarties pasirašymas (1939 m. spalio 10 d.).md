@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75296"></a>
-- t-005
+- t-001
   teiginys: "Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-23263
 
 <a id="claim-t-75298"></a>
-- t-004
+- t-003
   teiginys: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Nenurodyta
     - c-23265
 
 <a id="claim-t-75299"></a>
-- t-003
+- t-004
   teiginys: "Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi ir apie 0,5 mln. gyventojų, bet turėjo įsileisti sovietų karines bazes."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Nenurodyta
     - c-23264
 
 <a id="claim-t-75300"></a>
-- t-001
+- t-005
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -169,8 +169,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-001
+    - t-005
 
 - id: c-23263
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -215,7 +215,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-23265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -237,4 +237,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

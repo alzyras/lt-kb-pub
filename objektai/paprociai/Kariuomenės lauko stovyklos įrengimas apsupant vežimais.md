@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78696"></a>
-- t-004
+- t-001
   teiginys: "Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-75904
 
 <a id="claim-t-78697"></a>
-- t-005
+- t-002
   teiginys: "Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-43161
 
 <a id="claim-t-78698"></a>
-- t-006
+- t-003
   teiginys: ") Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-75904
 
 <a id="claim-t-78699"></a>
-- t-003
+- t-004
   teiginys: "Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -154,8 +154,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-003
+    - t-002
+    - t-004
 
 - id: c-75904
   sudarytojas: "Karolis Zikaras"
@@ -177,5 +177,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-001
+    - t-003

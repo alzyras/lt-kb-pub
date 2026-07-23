@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195371"></a>
-- t-002
+- t-001
   teiginys: "Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -94,7 +94,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177785
   autorius: "M. Katkus"
@@ -147,6 +147,7 @@ Nenurodyta
   citata_rodoma: "Aš kurstydavau, šildydavaus ir klausydavau juokavimų."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

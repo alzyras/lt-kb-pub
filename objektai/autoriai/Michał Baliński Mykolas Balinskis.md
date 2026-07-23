@@ -37,7 +37,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 ## Teiginiai
 
 <a id="claim-t-182787"></a>
-- t-007
+- t-001
   teiginys: "M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166203
 
 <a id="claim-t-182788"></a>
-- t-010
+- t-002
   teiginys: "Rodyklė apima įvadą ir M. Balinskio veikalo vertimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166197
 
 <a id="claim-t-182789"></a>
-- t-002
+- t-003
   teiginys: "M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166200
 
 <a id="claim-t-182790"></a>
-- t-001
+- t-004
   teiginys: "M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166194
 
 <a id="claim-t-182791"></a>
-- t-011
+- t-005
   teiginys: "Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166194
 
 <a id="claim-t-182792"></a>
-- t-005
+- t-006
   teiginys: "Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166195
 
 <a id="claim-t-182793"></a>
-- t-009
+- t-007
   teiginys: "Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166199
 
 <a id="claim-t-182794"></a>
-- t-012
+- t-008
   teiginys: "Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166201
 
 <a id="claim-t-182795"></a>
-- t-006
+- t-009
   teiginys: "M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166198
 
 <a id="claim-t-182796"></a>
-- t-004
+- t-010
   teiginys: "1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166202
 
 <a id="claim-t-182797"></a>
-- t-003
+- t-011
   teiginys: "M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - c-166196
 
 <a id="claim-t-194201"></a>
-- t-013
+- t-012
   teiginys: "Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pramintas Dauggalis - galingas, didis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -268,8 +268,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-011
+    - t-004
+    - t-005
 
 - id: c-166195
   autorius: "Michał Baliński"
@@ -289,7 +289,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-166196
   autorius: "Michał Baliński"
@@ -309,7 +309,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-011
 
 - id: c-166197
   autorius: "Michał Baliński"
@@ -339,7 +339,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-002
 
 - id: c-166198
   autorius: "Michał Baliński"
@@ -360,7 +360,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-009
 
 - id: c-166199
   autorius: "Michał Baliński"
@@ -429,7 +429,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-166200
   autorius: "Michał Baliński"
@@ -449,7 +449,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-166201
   autorius: "Michał Baliński"
@@ -499,7 +499,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-166202
   autorius: "Michał Baliński"
@@ -522,7 +522,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-010
 
 - id: c-166203
   autorius: "Michał Baliński"
@@ -544,7 +544,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-166204
   autorius: "Michał Baliński"
@@ -594,4 +594,4 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012

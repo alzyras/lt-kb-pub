@@ -9,14 +9,14 @@ datos:
   - '1646 m.'
 date_start: '1539'
 date_end: '1646'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
+amziai:
+  - 'XVI'
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 ## Teiginiai
 
 <a id="claim-t-54837"></a>
-- t-003
+- t-001
   teiginys: "Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::groups"
@@ -69,7 +69,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - c-55859
 
 <a id="claim-t-54838"></a>
-- t-001
+- t-002
   teiginys: "1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -88,7 +88,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - c-55859
 
 <a id="claim-t-54839"></a>
-- t-002
+- t-003
   teiginys: "Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::groups"
@@ -105,11 +105,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
   temporalinis_llm_pakomentavimas: "Į sakinį įtrauktas note objektas."
   pagrindžia:
     - c-55859
-- susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
-- susijęs iš Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos: 1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.
-- susijęs iš Inocento X patvirtinimas dėl Vilniaus arkikonfratrijos: Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.
-- susijęs iš Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai: Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.
-- susijęs iš [[objektai/zodynas/arkibrolija arkikonfratrija.md#claim-t-86582|arkibrolija arkikonfratrija]]: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -157,6 +153,6 @@ Religinė brolija ir Vilniaus arkikonfratrija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
     - t-002
+    - t-003

@@ -62,7 +62,7 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
   semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo sūnus Gediminas (0.91)"
   pagrindžia:
     - c-91787
-- susijęs iš [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis.md#claim-t-31524|Kęstučio riteriškų papročių laikymasis]]: Priešų kronikos pabrėžė Kęstučio riteriškas ypatybes, taurius papročius ir kovos meną.
+
 ## Citatos
 
 - id: c-91786

@@ -16,14 +16,14 @@ datos:
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kraštas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 ## Teiginiai
 
 <a id="claim-t-93931"></a>
-- t-008
+- t-001
   teiginys: "Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-37351
 
 <a id="claim-t-93932"></a>
-- t-005
+- t-002
   teiginys: "Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-89184
 
 <a id="claim-t-93933"></a>
-- t-006
+- t-003
   teiginys: "Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-89183
 
 <a id="claim-t-93934"></a>
-- t-003
+- t-004
   teiginys: "Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-37351
 
 <a id="claim-t-93935"></a>
-- t-007
+- t-005
   teiginys: "Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-89184
 
 <a id="claim-t-93936"></a>
-- t-011
+- t-006
   teiginys: "Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-89185
 
 <a id="claim-t-93937"></a>
-- t-013
+- t-007
   teiginys: "Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-46484
 
 <a id="claim-t-93938"></a>
-- t-012
+- t-008
   teiginys: "Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-89186
 
 <a id="claim-t-184945"></a>
-- t-010
+- t-009
   teiginys: "Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -203,7 +203,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-168306
 
 <a id="claim-t-187573"></a>
-- t-001
+- t-010
   teiginys: "Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -223,7 +223,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-170521
 
 <a id="claim-t-192650"></a>
-- t-014
+- t-011
   teiginys: "Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -246,7 +246,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-175420
 
 <a id="claim-t-193178"></a>
-- t-015
+- t-012
   teiginys: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -258,7 +258,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-175923
 
 <a id="claim-t-196680"></a>
-- t-016
+- t-013
   teiginys: "Jogaila pirmiausia nuvedė kariuomenę prie Drohičino ir, sutikęs stiprų pasipriešinimą, veržliais antpuoliais ėmė kamuoti gynėjus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -271,7 +271,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-168306
 
 <a id="claim-t-201593"></a>
-- t-017
+- t-014
   teiginys: "Po Kauno ėjo 100 kapų grašių mokėti turėję Belskas, Drohičinas, Gardinas, Pinskas, Polockas, kiti - dar mažiau."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -281,43 +281,34 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184940
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
-- susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
-- susijęs iš [[objektai/asmenys/Mechovita.md#claim-t-191164|Mechovita]]: Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
-- susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190995|Vasilka]]: 1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę.
-- susijęs iš [[objektai/autoriai/Mechovita.md#claim-t-191575|Mechovita]]: Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė, kad prie Drohičino vartotos jotvingių kalbos lietuviai nesuprasdavo.
-- susijęs iš [[objektai/autoriai/Motiejus Mechovita.md#claim-t-191896|Motiejus Mechovita]]: Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
-- susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.).md#claim-t-35873|Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]: Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.
-- susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino.
-- susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
-- susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
-- susijęs iš [[objektai/asmenys/Liudvikas Bavaras.md#claim-t-60052|Liudvikas Bavaras]]: 1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste.
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
-- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-192375|Dobrynės broliai]]: Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams.
-- susijęs iš Haličas: Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.
-- susijęs iš Luckas: Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.
-- susijęs iš Melnikas: Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką.
-- susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
-- susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
-- susijęs iš Severskas: Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską.
-- susijęs iš Visla: Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.
-- susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
-- susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
-- susijęs iš [[objektai/autoriai/Motiejus Mechovita.md#claim-t-191896|Motiejus Mechovita]]: Motiejus Mechovita, Zigmanto I laikų istorikas, rašė girdėjęs jotvingių kalbą Polesėje prie Drohičino ir jos nesupratęs.
-- susijęs iš [[objektai/asmenys/Mechovita.md#claim-t-191164|Mechovita]]: Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios nesuprato nei jis, nei lietuvis ar žemaitis, bet ją sieja su čigonais, priskirtais jotvingiams.
+
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O paskui jis prikalbėjo savo
+    giminaitį, kurį žemaičiai buvo išsirinkę savo seniūnu,
+    kad jis nestotų už karą prieš taip didį valdovą ir, svar­
+    biausia. prieš teisėtą Lietuvos paveldėtoją a .
+    Tas Kantauto giminaitis suprato, kad negalima sto­
+    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
+    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
+    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
+    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
+    tarnauti
+    Ir didysis kunigaikštis Kazimieras juos priėmė, pri­
+    siekė elgsiąsis su jais maloningai ir patiksiąs jiems jų
+    turtą. Patvirtinęs jų privilegijas priesaikomis19 ir pa­
+    jungęs savo valdžiai, įsakė Žemaičių seniūnui Kęsgai­
+    lai palikti Kantautą bent trejus metus Žemaičių seniū­
+    nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
+    gaikščiui Kazimierui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-37351
@@ -344,8 +335,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-003
+    - t-001
+    - t-004
 
 - id: c-46484
   redaktorius: "A. Šapoka"
@@ -368,7 +359,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-007
 
 - id: c-89183
   autorius: "Michał Baliński"
@@ -395,7 +386,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-89184
   autorius: "Michał Baliński"
@@ -422,8 +413,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-005
-    - t-007
 
 - id: c-89185
   redaktorius: "A. Šapoka"
@@ -441,7 +432,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-89186
   redaktorius: "A. Šapoka"
@@ -461,7 +452,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-168306
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -501,8 +492,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-016
+    - t-009
+    - t-013
 
 - id: c-170521
   autorius: "Anoniminis metraštininkas"
@@ -528,7 +519,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-175420
   autorius: "Teodoras Narbutas"
@@ -552,7 +543,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-175923
   redaktorius: "A. Šapoka"
@@ -571,7 +562,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-184940
   autorius: "Zigmantas Kiaupa"
@@ -590,9 +581,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-014
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Konradas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Drohičiną: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Užėmė Drohičiną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

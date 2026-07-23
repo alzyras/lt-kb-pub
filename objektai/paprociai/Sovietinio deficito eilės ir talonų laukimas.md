@@ -78,6 +78,7 @@ Nenurodyta
   citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

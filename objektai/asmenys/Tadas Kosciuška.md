@@ -41,7 +41,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 ## Teiginiai
 
 <a id="claim-t-82738"></a>
-- t-008
+- t-001
   teiginys: "Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - c-79181
 
 <a id="claim-t-82740"></a>
-- t-010
+- t-002
   teiginys: "Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - c-79177
 
 <a id="claim-t-82741"></a>
-- t-006
+- t-003
   teiginys: "Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     - c-79183
 
 <a id="claim-t-82742"></a>
-- t-005
+- t-004
   teiginys: "Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,13 +91,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-79180
-- susijęs iš [[objektai/asmenys/Mykolas Velhorskis.md#claim-t-40363|Mykolas Velhorskis]]: Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186511|Teodoras Narbutas]]: Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182790|Michał Baliński Mykolas Balinskis]]: M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
-- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
-- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-54652|Vytautas Berenis (istorikas, XX–XXI a.)]]: Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius.
-- susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
+
 ## Citatos
 
 - id: c-79177
@@ -123,7 +117,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-002
 
 - id: c-79180
   redaktorius: "A. Šapoka"
@@ -142,7 +136,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-79181
   sudarytojas: "Karolis Zikaras"
@@ -170,7 +164,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-79183
   redaktorius: "A. Šapoka"
@@ -191,4 +185,4 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

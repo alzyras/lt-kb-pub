@@ -39,7 +39,7 @@ Lietuva žemėlapiuose.
 ## Teiginiai
 
 <a id="claim-t-45684"></a>
-- t-003
+- t-001
   teiginys: "„Lietuva žemėlapiuose“ antrąjį papildytą leidimą sudarė A. Bieliūnienė ir kiti, jis išleistas Vilniuje 2011 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +73,4 @@ Lietuva žemėlapiuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

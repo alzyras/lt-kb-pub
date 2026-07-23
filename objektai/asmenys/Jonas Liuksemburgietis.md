@@ -56,7 +56,7 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32759
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
+
 ## Citatos
 
 - id: c-32759

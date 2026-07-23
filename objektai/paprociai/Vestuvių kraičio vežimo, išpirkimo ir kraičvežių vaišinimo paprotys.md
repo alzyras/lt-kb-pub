@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195381"></a>
-- t-002
+- t-001
   teiginys: "Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-177797
 
 <a id="claim-t-195382"></a>
-- t-003
+- t-002
   teiginys: "Jaunikis turėdavo išpirkti vadinamą didelį kraitį, duodamas motinai ne mažiau kaip rublį."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-177800
 
 <a id="claim-t-195383"></a>
-- t-004
+- t-003
   teiginys: "Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -110,7 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177798
   autorius: "M. Katkus"
@@ -132,7 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177799
   autorius: "M. Katkus"
@@ -154,7 +154,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177800
   autorius: "M. Katkus"
@@ -180,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

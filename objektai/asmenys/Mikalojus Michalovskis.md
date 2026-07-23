@@ -45,8 +45,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   semantiniai_rysiai: "Mikalojus Michalovskis keliavo į Vilnius (0.82); Mikalojus Michalovskis buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.66)"
   pagrindžia:
     - c-83897
-- susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86759|Lenkijos senatas]]: Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.
-- susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87889|Zbignevas Olesnickis (vyskupas)]]: Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
+
 ## Citatos
 
 - id: c-83897

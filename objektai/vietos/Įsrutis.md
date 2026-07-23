@@ -40,7 +40,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-182881"></a>
-- t-026
+- t-001
   teiginys: "1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - c-166285
 
 <a id="claim-t-183818"></a>
-- t-027
+- t-002
   teiginys: "Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,18 +79,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį."
   pagrindžia:
     - c-167203
-- susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
-- susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
-- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Karaliaučius: Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
-- susijęs iš Karaliaučius: Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Mežuotnės pilis (pilis): 1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.
-- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
-- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
-- susijęs iš Karaliaučius: Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
+
 ## Citatos
 
 - id: c-166285
@@ -113,7 +102,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-001
 
 - id: c-167203
   sudarytojas: "Karolis Zikaras"
@@ -135,7 +124,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Svirdeika]]

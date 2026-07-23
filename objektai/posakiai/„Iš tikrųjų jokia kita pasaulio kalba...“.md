@@ -61,6 +61,7 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   citata_rodoma: "pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

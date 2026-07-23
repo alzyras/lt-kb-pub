@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05373"></a>
-- t-002
+- t-001
   teiginys: "Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-05436
 
 <a id="claim-t-67250"></a>
-- t-004
+- t-002
   teiginys: "Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67236
   redaktorius: "A. Šapoka"
@@ -123,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

@@ -39,7 +39,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 ## Teiginiai
 
 <a id="claim-t-71963"></a>
-- t-003
+- t-001
   teiginys: "Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - c-70431
 
 <a id="claim-t-71964"></a>
-- t-001
+- t-002
   teiginys: "Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - c-70431
 
 <a id="claim-t-183623"></a>
-- t-004
+- t-003
   teiginys: "Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-167015
-- susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
+
 ## Citatos
 
 - id: c-70431
@@ -119,8 +119,8 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002
 
 - id: c-167015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -141,4 +141,4 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

@@ -96,11 +96,10 @@ Nenurodyta
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175779

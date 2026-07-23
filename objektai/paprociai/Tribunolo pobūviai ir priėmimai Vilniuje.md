@@ -66,7 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200555"></a>
-- t-003
+- t-001
   teiginys: "1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -116,5 +116,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

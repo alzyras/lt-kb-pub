@@ -68,7 +68,6 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-14541

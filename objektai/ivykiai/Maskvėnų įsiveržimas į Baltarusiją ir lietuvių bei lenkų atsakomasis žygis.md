@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185621"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius rašo, kad Stanislovas Lesniovolskis su lenkų, lietuvių ir Davainos būriu netikėtai susidūrė su 45 tūkstančiais priešų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

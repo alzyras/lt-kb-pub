@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54707"></a>
-- t-003
+- t-001
   teiginys: "Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::events"
@@ -83,14 +83,14 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (Lenkijos karalius, 1382 m.): mention_match, person, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)\" parinktas kaip owner_note_path. Targetas \"Jogaila (Lenkijos karalius, 1382 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55670
 
 <a id="claim-t-54709"></a>
-- t-001
+- t-003
   teiginys: "1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -133,7 +133,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-001
+    - t-003
 
 - id: c-55671
   autorius: "Michał Baliński"
@@ -158,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

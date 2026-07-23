@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 27
+tema_objektu_skaicius: 26
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 27.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -27,7 +27,6 @@ Objektų skaičius: 27.
 
 ### Grupės
 - [[objektai/grupes/Birutės draugija]]
-- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/grupes/Filomatai ir filaretai]]
 - [[objektai/grupes/Lietuvių Dailės Draugija]]
@@ -51,5 +50,5 @@ Objektų skaičius: 27.
 - [[objektai/grupes/Vilniaus dailės draugija]]
 - [[objektai/grupes/Vilniaus Lietuvių Mokslo Draugija]]
 - [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
-- [Šubravcų draugija](../objektai/grupes/%C5%A0ubravc%C5%B3%20draugija)
+- [[objektai/grupes/Šubravcų draugija]]
 - [Žiburys](../objektai/grupes/%C5%BDiburys)

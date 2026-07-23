@@ -54,7 +54,7 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   pagrindžia:
     - c-184089
-- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200732|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
+
 ## Citatos
 
 - id: c-184089

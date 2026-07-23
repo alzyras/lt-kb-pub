@@ -83,7 +83,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-55685
 
 <a id="claim-t-55146"></a>
-- t-003
+- t-002
   teiginys: "Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::events"
@@ -102,7 +102,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-55686
 
 <a id="claim-t-81828"></a>
-- t-004
+- t-003
   teiginys: "1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -176,5 +176,5 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004

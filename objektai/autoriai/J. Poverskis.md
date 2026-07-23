@@ -51,7 +51,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 ## Teiginiai
 
 <a id="claim-t-64633"></a>
-- t-010
+- t-001
   teiginys: "J. Poverskis manė, kad prūsų sukilimas galėjo prasidėti 1243 m. paskutiniame ketvirtyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-65314
 
 <a id="claim-t-64634"></a>
-- t-001
+- t-002
   teiginys: "J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-56015
 
 <a id="claim-t-64635"></a>
-- t-007
+- t-003
   teiginys: "J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-65311
 
 <a id="claim-t-197000"></a>
-- t-012
+- t-004
   teiginys: "J. Poverskis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-178997
 
 <a id="claim-t-197001"></a>
-- t-013
+- t-005
   teiginys: "J. Poverskis galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,8 +124,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65309
-- susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
-- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
+
 ## Citatos
 
 - id: c-56015
@@ -146,7 +145,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-56016
   autorius: "Petras Dusburgietis"
@@ -180,7 +179,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-65311
   autorius: "Petras Dusburgietis"
@@ -197,7 +196,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-65314
   autorius: "Petras Dusburgietis"
@@ -215,7 +214,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 - id: c-178997
   autorius: "Petras Dusburgietis"
@@ -234,4 +233,4 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-004

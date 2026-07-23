@@ -30,7 +30,7 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 ## Teiginiai
 
 <a id="claim-t-197401"></a>
-- t-002
+- t-001
   teiginys: "Heziodas tuoj pat vykdavo pas tam tikrą signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo beturtis neregys arba šlubis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -55,11 +55,11 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -86,4 +86,4 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

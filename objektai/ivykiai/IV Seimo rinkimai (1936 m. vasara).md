@@ -103,7 +103,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir neaiškus; citata leidžia nurodyti atrankos mechanizmą."
   pagrindžia:
     - c-166612
-- susijęs iš [[objektai/grupes/IV Seimas.md#claim-t-183133|IV Seimas (seimas)]]: 1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti.
+
 ## Citatos
 
 - id: c-22941

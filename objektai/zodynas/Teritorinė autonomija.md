@@ -53,6 +53,7 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
   citata_rodoma: "Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

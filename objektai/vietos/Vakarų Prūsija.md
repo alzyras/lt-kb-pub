@@ -56,9 +56,7 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto."
   pagrindžia:
     - c-45390
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Vilnius: 1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną.
+
 ## Citatos
 
 - id: c-45390

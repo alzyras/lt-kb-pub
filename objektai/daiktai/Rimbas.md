@@ -11,7 +11,7 @@ variantai:
   - 'rimbą'
   - 'rimbo'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -190,9 +190,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Lazda.md#claim-t-195347|Lazda]]: Elgetos nešiojamas gynybos ir pasiramstymo daiktas.
-- susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
-- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
-- susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.

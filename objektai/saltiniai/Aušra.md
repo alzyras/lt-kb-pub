@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179569"></a>
-- t-002
+- t-001
   teiginys: "Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-34240
 
 <a id="claim-t-183357"></a>
-- t-003
+- t-002
   teiginys: "Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166749
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -136,4 +136,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

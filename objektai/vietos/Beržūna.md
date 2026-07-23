@@ -80,15 +80,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179369
-- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190678|Adomas Stanislovas Naruševičius]]: Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
-- susijęs iš Adomas Stanislovas Naruševičius, Historia narodu polskiego: Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos.
-- susijęs iš Dnepras: Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių.
-- susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
-- susijęs iš Desna: Narbutas aiškino, kad Pripetės vaga į kairiąją Dnepro šaką įsiliedavo priešais Desnos žiotis arba kiek žemiau.
-- susijęs iš Dnepras: Narbutas kairiąją Dnepro pakrantę apibūdino kaip platų pavasario potvynių užliejamą slėnį su vasarą išdžiūstančiais ežerais.
-- susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
-- susijęs iš Pripetė: Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių.'
@@ -110,10 +102,10 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     žemiau Kijevo virstančią didele upe — tikruoju senovės
     Boristeniu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -130,11 +122,10 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­
     žiaus paminklų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175582

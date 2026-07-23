@@ -60,7 +60,7 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     - c-177650
 
 <a id="claim-t-195286"></a>
-- t-003
+- t-002
   teiginys: "Iš pradžių Gatunkis bardavo pasakotoją dėl įrankių šipinimo, bet vėliau leido jam stalioriauti."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -70,7 +70,7 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     - c-177651
 
 <a id="claim-t-195287"></a>
-- t-002
+- t-003
   teiginys: "Gatunkis turėjo stališką varstotą ir tekinamąjį prietaisą."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -96,7 +96,7 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
 
 - id: c-177651
   autorius: "M. Katkus"
@@ -117,4 +117,4 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

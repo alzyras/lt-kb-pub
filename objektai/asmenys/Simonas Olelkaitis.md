@@ -67,7 +67,7 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169438
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184670|Algirdas (Lietuvos valdovas)]]: Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku.'
@@ -134,7 +134,6 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169437

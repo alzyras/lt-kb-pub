@@ -75,7 +75,7 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir visiškai pagrįstas pateikta citata."
   pagrindžia:
     - c-167735
-- susijęs iš [[objektai/posakiai/sicut anguillam per caudam.md#claim-t-184361|sicut anguillam per caudam]]: Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).
+
 ## Citatos
 
 - id: c-28654

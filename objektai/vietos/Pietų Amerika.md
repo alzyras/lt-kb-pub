@@ -54,7 +54,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24383
-- susijęs iš [[objektai/zodynas/kolonijos.md#claim-t-70183|kolonijos]]: Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.
+
 ## Citatos
 
 - id: c-24383

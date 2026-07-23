@@ -49,19 +49,12 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "MGB-KGB agentai smogikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group, gap=8"
+  ryšio_targeto_parinkimas: "agentai smogikai: mention_match, thing, gap=8"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MGB-KGB agentai smogikai\" parinktas kaip owner_note_path. Targetas \"agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22666
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75279|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.
-- susijęs iš Maskvos Butyrkų kalėjimas: J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš Sibiras: Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.
-- susijęs iš [[objektai/zodynas/agentai smogikai.md#claim-t-22045|agentai smogikai]]: MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.
+
 ## Citatos
 
 - id: c-22665

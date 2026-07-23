@@ -30,7 +30,7 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
 ## Teiginiai
 
 <a id="claim-t-189557"></a>
-- t-002
+- t-001
   teiginys: "Narbutas aiškino, kad Strijkovskio Pilwitos arba Pilwite reiškia turto deivę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -84,4 +84,4 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62690"></a>
-- t-003
+- t-001
   teiginys: "1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-63442
 
 <a id="claim-t-62691"></a>
-- t-001
+- t-002
   teiginys: "Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-63439
 
 <a id="claim-t-62692"></a>
-- t-002
+- t-003
   teiginys: "Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-63440
   autorius: "Petras Dusburgietis"
@@ -182,7 +182,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-63442
   autorius: "Petras Dusburgietis"
@@ -203,4 +203,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

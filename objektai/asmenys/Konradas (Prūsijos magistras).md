@@ -39,7 +39,7 @@ Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga už
 ## Teiginiai
 
 <a id="claim-t-186127"></a>
-- t-002
+- t-001
   teiginys: "Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga už
     - c-169488
 
 <a id="claim-t-196524"></a>
-- t-003
+- t-002
   teiginys: "Konradas, Kojelavičiaus vadinamas magistru, po žinios apie lenkų pralaimėjimą įsakė Albertui Hagenui užpulti Gardino pilį ir miestą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,5 +104,5 @@ Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

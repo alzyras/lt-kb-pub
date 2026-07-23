@@ -9,15 +9,15 @@ datos:
   - '1295 m.'
 date_start: '1294'
 date_end: '1295'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - c-85619
 
 <a id="claim-t-89680"></a>
-- t-003
+- t-002
   teiginys: "Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - c-85619
 
 <a id="claim-t-184679"></a>
-- t-005
+- t-003
   teiginys: "Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - c-168040
 
 <a id="claim-t-184681"></a>
-- t-007
+- t-004
   teiginys: "Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-168040
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -217,7 +217,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-168042
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -251,8 +251,4 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-
-## Ryšiai
-- Boleslovas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Palenkė]]
-- Boleslovas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Belskas]], [[objektai/vietos/Drohičinas]]
+    - t-004

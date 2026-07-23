@@ -8,15 +8,15 @@ datos:
   - '2026 m.'
 date_start: '1564'
 date_end: '2026'
-amziai:
-  - 'XVI'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - ūkis
   - kasdienybė
+amziai:
+  - 'XVI'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67251"></a>
-- t-002
+- t-001
   teiginys: "Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -77,9 +77,6 @@ Nenurodyta
   pagrindžia:
     - c-10055
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10055
@@ -96,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

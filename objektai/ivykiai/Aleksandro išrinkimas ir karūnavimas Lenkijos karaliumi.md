@@ -7,8 +7,6 @@ datos:
   - '1501 m.'
 date_start: '1501'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - karūnacija
   - seimas
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186791"></a>
-- t-002
+- t-001
   teiginys: "Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-169981
 
 <a id="claim-t-186792"></a>
-- t-001
+- t-002
   teiginys: "Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -142,5 +142,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -44,7 +44,7 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32810
-- susijęs iš Vorskla: Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.
+
 ## Citatos
 
 - id: c-32810

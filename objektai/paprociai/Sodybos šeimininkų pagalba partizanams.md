@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09597"></a>
-- t-005
+- t-001
   teiginys: "Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -55,7 +55,7 @@ Nenurodyta
     - c-12349
 
 <a id="claim-t-09598"></a>
-- t-004
+- t-002
   teiginys: "Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-12349
 
 <a id="claim-t-09599"></a>
-- t-006
+- t-003
   teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -94,6 +94,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
-    - t-006
+    - t-001
+    - t-002
+    - t-003

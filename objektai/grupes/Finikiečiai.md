@@ -32,7 +32,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
 ## Teiginiai
 
 <a id="claim-t-07833"></a>
-- t-002
+- t-001
   teiginys: "Finikiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -49,7 +49,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - c-10064
 
 <a id="claim-t-188183"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - c-171077
 
 <a id="claim-t-192380"></a>
-- t-004
+- t-003
   teiginys: "Narbutas aprašo finikiečių koloniją Gadirą už Heraklio stulpų kaip vietą, kur Viduržemio jūros laivai prekiavo su Okeano pakrančių gyventojais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - c-175174
 
 <a id="claim-t-194564"></a>
-- t-005
+- t-004
   teiginys: "Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - c-176964
 
 <a id="claim-t-194859"></a>
-- t-006
+- t-005
   teiginys: "Senovės tyrinėtojai netgi padarė gana taiklių prielaidų, jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul nie prie Vyslos3."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -113,19 +113,26 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177255
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190316|Herodotas]]: Herodotas ir Strabonas tikino, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti dievams skirtas šventyklas.
-- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190454|Strabonas]]: Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais dievų šventyklų statytojais.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188179|Egiptiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189424|Senovės egiptiečiai]]: Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams.
-- susijęs iš [[objektai/asmenys/Fosas.md#claim-t-191398|Fosas]]: Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
-- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191281|Johanas Fosas]]: Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
-- susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-189429|Persai]]: Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose.
-- susijęs iš Baltija: Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą.
-- susijęs iš Didžioji Britanija: Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.
-- susijęs iš [[objektai/zodynas/Miškas su kovarniais.md#claim-t-189313|Miškas su kovarniais]]: Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas rašė, kad finikiečiai, egiptiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    107
+
+    ## Puslapis 107
+
+    Taip pat straipsnyje „Krūminė“ papasakosime padavimą
+    apie Pokliaus ir tos deivės Krūminės dukters Nijolės vedybas.
+    Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
+    tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
+    mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-10064
@@ -144,7 +151,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171077
   autorius: "Teodoras Narbutas"
@@ -171,7 +178,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-175174
   autorius: "Teodoras Narbutas"
@@ -194,7 +201,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-176964
   autorius: "Teodoras Narbutas"
@@ -212,7 +219,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177255
   autorius: "Teodoras Narbutas"
@@ -237,4 +244,4 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

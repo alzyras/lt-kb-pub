@@ -65,16 +65,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   semantiniai_rysiai: "Didlenkiai priklausė Lenkija (0.90); Mažlenkiai priklausė Lenkija (0.90)"
   pagrindžia:
     - c-166442
-- susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
-- susijęs iš Didlenkiai: Sudarant Liublino uniją, Didlenkiai ir Mažlenkiai turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.
-- susijęs iš Didlenkiai: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
-- susijęs iš Didžioji Lenkija: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
-- susijęs iš Lenkija: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
-- susijęs iš [[objektai/asmenys/Andriejus.md#claim-t-35028|Andriejus]]: Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą.
-- susijęs iš [[objektai/asmenys/Vladislovas iš Opolijos.md#claim-t-35323|Vladislovas iš Opolijos]]: Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/autoriai/Kochanovskis.md#claim-t-35454|Kochanovskis]]: Kochanovskis uniją su Lietuva vadino genialia mintimi, pralenkusia ištisus amžius ir kartas.
+
 ## Citatos
 
 - id: c-02827

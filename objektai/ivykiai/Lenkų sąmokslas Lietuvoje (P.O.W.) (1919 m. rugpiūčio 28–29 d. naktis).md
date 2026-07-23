@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66659"></a>
-- t-002
+- t-001
   teiginys: "1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Nenurodyta
     - c-66856
 
 <a id="claim-t-66660"></a>
-- t-001
+- t-002
   teiginys: "P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-66856
   redaktorius: "A. Šapoka"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-66858
   redaktorius: "A. Šapoka"

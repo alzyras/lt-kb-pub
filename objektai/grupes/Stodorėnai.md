@@ -60,8 +60,7 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175768
-- susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
-- susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.'
@@ -76,11 +75,11 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

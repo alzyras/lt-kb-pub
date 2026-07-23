@@ -56,7 +56,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-33091
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
+
 ## Citatos
 
 - id: c-33091

@@ -53,7 +53,7 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
   temporalinis_llm_pakomentavimas: "Originale neaiškus įvardis, o citata nepateikia asmens vardo."
   pagrindžia:
     - c-72092
-- susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
+
 ## Citatos
 
 - id: c-72092

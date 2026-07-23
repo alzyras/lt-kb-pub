@@ -39,7 +39,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 ## Teiginiai
 
 <a id="claim-t-68038"></a>
-- t-002
+- t-001
   teiginys: "1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     - c-37406
 
 <a id="claim-t-68039"></a>
-- t-001
+- t-002
   teiginys: "Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,12 +70,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   semantiniai_rysiai: "Žemaičiai sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.83); Žemaičiai sudarė sutartį su Kryžiuočių ordinas (0.83); Žemaičiai prekiavo su Prūsai (0.78)"
   pagrindžia:
     - c-32078
-- susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190063|Dionizas Paškevičius]]: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą.
-- susijęs iš [[objektai/autoriai/Praleisti nelaikyti saugiais autoriais.md#claim-t-190448|Praleisti nelaikyti saugiais autoriais]]: Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.
-- susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
-- susijęs iš Bardžių dvaras: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms.
-- susijęs iš Žemaitija: Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.
-- susijęs iš Žemaitija: Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą.
+
 ## Citatos
 
 - id: c-32078
@@ -97,7 +92,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-37406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -119,4 +114,4 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

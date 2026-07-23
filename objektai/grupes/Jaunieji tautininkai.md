@@ -72,19 +72,7 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166519
-- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45272|Voldemarininkai]]: Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-183203|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-20098|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-74809|Lietuvos šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga, voldemarininkai ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis).md#claim-t-75134|Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]: Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
-- susijęs iš Lenkija: Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-74808|Lietuvos šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45272|Voldemarininkai]]: Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-183203|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-20098|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis).md#claim-t-75132|Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]: Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija.
+
 ## Citatos
 
 - id: c-22424

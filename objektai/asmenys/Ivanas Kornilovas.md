@@ -42,6 +42,7 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
   citata_rodoma: "manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

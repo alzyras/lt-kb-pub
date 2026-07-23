@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09658"></a>
-- t-002
+- t-001
   teiginys: "Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -72,4 +72,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -9,14 +9,14 @@ datos:
   - '1419 m.'
 date_start: '1419'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - etninė-grupė
   - grupe
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,7 +119,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-175255
 
 <a id="claim-t-192464"></a>
-- t-007
+- t-005
   teiginys: "514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-177263
 
 <a id="claim-t-192465"></a>
-- t-008
+- t-006
   teiginys: "Narbutas manė, kad skitai gintarą gaudavo keliu palei Baltijos jūrą ir tinkamiausia šio kelio upe laikė Nemuną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-175259
 
 <a id="claim-t-193340"></a>
-- t-009
+- t-007
   teiginys: "Kojelavičiaus pasakojime valdovas rusams žadėjo išvesti lietuvių pajėgas prieš skitus ir derybose tai pateikė kaip savo pažado įrodymą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176068
 
 <a id="claim-t-193341"></a>
-- t-010
+- t-008
   teiginys: "Kojelavičius rašo, kad Užvolgio skitų kunigaikštis Balaklajus rengė karą prieš Skirmantą ir pasiuntiniais reikalavo Rusios duoklės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176069
 
 <a id="claim-t-193342"></a>
-- t-011
+- t-009
   teiginys: "Kojelavičiaus pasakojime lietuviams pralaužus skitų rikiuotę, skitų būriai sutriko ir ėmė bėgti iš ilgų bei žiaurių kautynių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -191,7 +191,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176070
 
 <a id="claim-t-193343"></a>
-- t-012
+- t-010
   teiginys: "1419 m. Užvolgio skitai po chano Saladino mirties suskilo į grupes, kurios skirtingus jo sūnus siūlė sosto įpėdiniais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176072
 
 <a id="claim-t-193345"></a>
-- t-014
+- t-011
   teiginys: "Vytautas įsakė Lietuvos maršalui Mikalojui Radvilai sutelkti kariuomenę Lietuvos žemėse ir palydėti Jerim Berdį į Skitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -217,7 +217,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176073
 
 <a id="claim-t-193348"></a>
-- t-017
+- t-012
   teiginys: "Vargais negalais per pasiuntinius išsaugojus taiką didelę metų dali, rudens pradžioje karalius sužinojo, kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie tuvos valdose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -229,7 +229,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-176076
 
 <a id="claim-t-194866"></a>
-- t-021
+- t-013
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -241,7 +241,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-177262
 
 <a id="claim-t-194867"></a>
-- t-022
+- t-014
   teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -253,7 +253,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-177263
 
 <a id="claim-t-196124"></a>
-- t-023
+- t-015
   teiginys: "Kojelavičiaus pasakojime Skirmantas po pergalės prieš skitus iš jų valdžios išvadavo Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -266,7 +266,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-178544
 
 <a id="claim-t-196125"></a>
-- t-024
+- t-016
   teiginys: "Lietuviai derybose reikalavo grąžinti Podolę, kuri, jų teigimu, Lietuvos kunigaikščių ginklu buvo išvaduota iš skitų valdžios."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-178545
 
 <a id="claim-t-197519"></a>
-- t-026
+- t-017
   teiginys: "Kadangi priešo būriai buvo narsūs ir puikiai gink luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi galvoję ir išvengdami lemtingų kovų bei puldinėdami iš šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa jo nesuskaičiuojamų atsargų našta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -371,7 +371,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172368
@@ -489,7 +488,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-017
 
 - id: c-175259
   autorius: "Teodoras Narbutas"
@@ -516,7 +515,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-176068
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -541,7 +540,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-176069
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -573,7 +572,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-176070
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -596,7 +595,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-176072
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -627,7 +626,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-176073
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -650,7 +649,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-176076
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -675,7 +674,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-012
 
 - id: c-177262
   autorius: "Teodoras Narbutas"
@@ -699,7 +698,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-013
 
 - id: c-177263
   autorius: "Teodoras Narbutas"
@@ -726,8 +725,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-022
+    - t-005
+    - t-014
 
 - id: c-178544
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -748,7 +747,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-015
 
 - id: c-178545
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -777,4 +776,4 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-016

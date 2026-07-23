@@ -44,10 +44,7 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38192
-- susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
-- susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
-- susijęs iš F. Koneczny, Jagiełło i Witołd: F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.
-- susijęs iš [[objektai/autoriai/Prochaska.md#claim-t-35473|Prochaska]]: Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką.
+
 ## Citatos
 
 - id: c-38192

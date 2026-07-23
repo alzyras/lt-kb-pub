@@ -48,7 +48,7 @@ Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geogra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174355
-- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192478|Variagai (normanai)]]: Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.
+
 ## Citatos
 
 - id: c-174355

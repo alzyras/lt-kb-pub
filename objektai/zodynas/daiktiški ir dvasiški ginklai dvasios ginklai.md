@@ -36,7 +36,7 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 ## Teiginiai
 
 <a id="claim-t-197033"></a>
-- t-002
+- t-001
   teiginys: "Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,4 +77,4 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

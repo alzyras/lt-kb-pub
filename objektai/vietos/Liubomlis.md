@@ -26,40 +26,6 @@ media_all_json: |-
 
 Teodoro Sanguškos dalis buvo Liubomlis.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
-    lis— Mstislavlis7 . Ketvirtas — Vingaudas Andrius8 , jo
-    dalis — Triubčevskas9 . Penktas— Konstantinas l0 , jo da­
-    lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
-    Sanguška l3 , jo dalis — Liubomlis M .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170311
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Šeštas—Teodoras 1 2
-    Sanguška l3 , jo dalis — Liubomlis M .
-  citata_rodoma: "Šeštas—Teodoras 1 2  \nSanguška l3 , jo dalis — Liubomlis M ."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-187253"></a>
@@ -79,3 +45,36 @@ Teodoro Sanguškos dalis buvo Liubomlis.
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170311
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
+    lis— Mstislavlis7 . Ketvirtas — Vingaudas Andrius8 , jo
+    dalis — Triubčevskas9 . Penktas— Konstantinas l0 , jo da­
+    lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
+    Sanguška l3 , jo dalis — Liubomlis M .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-170311
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Šeštas—Teodoras 1 2
+    Sanguška l3 , jo dalis — Liubomlis M .
+  citata_rodoma: "Šeštas—Teodoras 1 2  \nSanguška l3 , jo dalis — Liubomlis M ."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

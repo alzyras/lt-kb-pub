@@ -38,7 +38,7 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
 ## Teiginiai
 
 <a id="claim-t-197423"></a>
-- t-002
+- t-001
   teiginys: "Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -71,4 +71,4 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -83,9 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-10307
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - terminas tekste yra ir veiksmo/įrankio vardas, ir bendras žodyninis vienetas, bet čia aiškiai aprašo konkretų pakabinimo daiktą.

@@ -61,7 +61,7 @@ Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšiki
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174218
-- susijęs iš Florencija: Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.'
@@ -80,11 +80,11 @@ Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšiki
     ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
     mi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

@@ -55,7 +55,7 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184088
-- susijęs iš [[objektai/autoriai/Jędrzej Kitowicz.md#claim-t-200745|Jędrzej Kitowicz]]: Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais.
+
 ## Citatos
 
 - id: c-184088

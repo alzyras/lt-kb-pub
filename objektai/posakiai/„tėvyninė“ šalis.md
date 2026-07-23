@@ -44,7 +44,7 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23681
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101667|Juzefas Pilsudskis]]: Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
+
 ## Citatos
 
 - id: c-23681

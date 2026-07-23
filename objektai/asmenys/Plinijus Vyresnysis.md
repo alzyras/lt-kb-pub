@@ -30,7 +30,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 ## Teiginiai
 
 <a id="claim-t-191089"></a>
-- t-002
+- t-001
   teiginys: "Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173971
 
 <a id="claim-t-191090"></a>
-- t-003
+- t-002
   teiginys: "Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173972
 
 <a id="claim-t-191091"></a>
-- t-004
+- t-003
   teiginys: "Plinijus rašė, kad sarmatai, venedai, skirtai ir tūriai gyvena iki Vyslos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173973
 
 <a id="claim-t-191092"></a>
-- t-005
+- t-004
   teiginys: "Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173974
 
 <a id="claim-t-191093"></a>
-- t-006
+- t-005
   teiginys: "Narbutas aiškino, kad Plinijaus Germanijos aprašyme Guitalus pavadinimas tenka Oderiui, nes ši upė nebūtų buvusi praleista."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173975
 
 <a id="claim-t-191095"></a>
-- t-008
+- t-006
   teiginys: "Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173977
 
 <a id="claim-t-191096"></a>
-- t-009
+- t-007
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173978
 
 <a id="claim-t-191097"></a>
-- t-010
+- t-008
   teiginys: "Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173979
 
 <a id="claim-t-191969"></a>
-- t-011
+- t-009
   teiginys: "Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-174851
 
 <a id="claim-t-197801"></a>
-- t-012
+- t-010
   teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -222,7 +222,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-174851
 
 <a id="claim-t-197802"></a>
-- t-013
+- t-011
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -234,6 +234,32 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-179346
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų palikuonis prie Dono žemupio ir Juodosios jūros.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    63
+
+    ## Puslapis 61
+
+    tam, kad būtų apgyvendintos Europos dykros. Tik iš
+    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
+    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo­
+    dosios jūros; pirmiausia buvo sarmatai, amazonių kara­
+    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
+    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
+    tisagetai, turkai1. Turbūt tos tautos tuomet sudarė sar-
+    matų lygą, nors jos skyrėsi gimine ir kilme tiek, kad,
+    įsigilinus į dabar esančias žinias apie tautų pradžią, prie
+    sarmatų lieka vien ginekokratuinenai, kažin kokia me-
+    dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
+    kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
+    laikyti panašia j skitų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-007
   santrauka: 'Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -246,10 +272,10 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -271,10 +297,10 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -292,10 +318,10 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -312,11 +338,11 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-011
 
 ## Citatos
 
@@ -340,7 +366,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173972
   autorius: "Teodoras Narbutas"
@@ -361,7 +387,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173973
   autorius: "Teodoras Narbutas"
@@ -381,7 +407,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173974
   autorius: "Teodoras Narbutas"
@@ -405,7 +431,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173975
   autorius: "Teodoras Narbutas"
@@ -430,7 +456,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173977
   autorius: "Teodoras Narbutas"
@@ -453,7 +479,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-173978
   autorius: "Teodoras Narbutas"
@@ -486,7 +512,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-173979
   autorius: "Teodoras Narbutas"
@@ -518,7 +544,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-174851
   autorius: "Teodoras Narbutas"
@@ -545,8 +571,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-012
+    - t-009
+    - t-010
 
 - id: c-179346
   autorius: "Teodoras Narbutas"
@@ -576,4 +602,4 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011

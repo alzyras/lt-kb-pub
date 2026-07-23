@@ -83,7 +83,6 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169697

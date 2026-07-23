@@ -11,16 +11,16 @@ datos:
   - '1632 m.'
 date_start: '1576'
 date_end: '1632'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '42'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Anonymous_Sigismund_III_Vasa_%28detail%29.jpg/1920px-Anonymous_Sigismund_III_Vasa_%28detail%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_III_Vasa_%28detail%29.jpg'
@@ -44,7 +44,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ## Teiginiai
 
 <a id="claim-t-82985"></a>
-- t-006
+- t-001
   teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79405
 
 <a id="claim-t-82987"></a>
-- t-009
+- t-002
   teiginys: "1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79403
 
 <a id="claim-t-82988"></a>
-- t-010
+- t-003
   teiginys: "1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79401
 
 <a id="claim-t-194248"></a>
-- t-011
+- t-004
   teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-176844
 
 <a id="claim-t-201559"></a>
-- t-012
+- t-005
   teiginys: "1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-184906
 
 <a id="claim-t-201560"></a>
-- t-013
+- t-006
   teiginys: "1622 m. Zigmantas Vaza ginčą išsprendė Vilniaus naudai, kauniečiams buvo įsakyta netrukdyti vilniečiams prekiauti Kaune ir leisti gabenti prekes savo arkliais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-184907
 
 <a id="claim-t-201561"></a>
-- t-014
+- t-007
   teiginys: "1580 m. Steponas Batoras leido Kauno cecho siuvėjams naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-184908
 
 <a id="claim-t-201562"></a>
-- t-015
+- t-008
   teiginys: "Vis dėlto 1626 m. Zigmantas Vaza nusprendė, kad Kauno miestas, kuris buvo gavęs leidimą pasigaminti pelenLĮ Kauno girioje ir už juos gautas pajamas panaudoti savo reikalams, privalo pastatyti prie vienuolyno ir jo bažnyčios pylimą arba krantinę."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-184909
 
 <a id="claim-t-201563"></a>
-- t-016
+- t-009
   teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -164,11 +164,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184910
-- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
-- susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
-- susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
-- susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
+
 ## Citatos
 
 - id: c-79401
@@ -192,7 +188,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-79402
   redaktorius: "A. Šapoka"
@@ -228,7 +224,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-79405
   redaktorius: "A. Šapoka"
@@ -245,7 +241,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-176844
   autorius: "Michał Baliński"
@@ -268,7 +264,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-184906
   autorius: "Zigmantas Kiaupa"
@@ -286,7 +282,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-005
 
 - id: c-184907
   autorius: "Zigmantas Kiaupa"
@@ -304,7 +300,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-006
 
 - id: c-184908
   autorius: "Zigmantas Kiaupa"
@@ -319,7 +315,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-007
 
 - id: c-184909
   autorius: "Zigmantas Kiaupa"
@@ -337,7 +333,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-008
 
 - id: c-184910
   autorius: "Zigmantas Kiaupa"
@@ -354,7 +350,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009
 
 ## Ryšiai
 - Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]

@@ -53,6 +53,7 @@ media_all_json: |-
   citata_rodoma: "— Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-\nlykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj\nzbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168\np. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —\nPresniakov, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,7 +45,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Naugardėlis (0.88)"
   pagrindžia:
     - c-38578
-- susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
+
 ## Citatos
 
 - id: c-38578

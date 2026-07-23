@@ -38,7 +38,7 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 ## Teiginiai
 
 <a id="claim-t-07663"></a>
-- t-003
+- t-001
   teiginys: "Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -68,4 +68,4 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

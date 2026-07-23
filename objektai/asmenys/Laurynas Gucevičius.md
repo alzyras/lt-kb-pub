@@ -9,14 +9,14 @@ datos:
   - '1786 m.'
 date_start: '1769'
 date_end: '1786'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-21851
 
 <a id="claim-t-197422"></a>
-- t-004
+- t-002
   teiginys: "Laurynas Gucevičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -68,25 +68,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171466
-- susijęs iš [[objektai/ivykiai/T. Kosciuškos sukilimas.md#claim-t-77916|T. Kosciuškos sukilimas]]: Tado Kosciuškos sukilimo metu Laurynas Gucevičius tapo Vilniaus gvardijos vadu.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66434|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: Laurynas Gucevičius per Tado Kosciuškos sukilimą tapo Vilniaus gvardijos vadu.
-- susijęs iš [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos.md#claim-t-77889|Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]: Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­
-    kimumu neabejota.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -146,4 +127,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

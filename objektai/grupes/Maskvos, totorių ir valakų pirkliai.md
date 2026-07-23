@@ -46,7 +46,7 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
   semantiniai_rysiai: "Maskvos, totorių ir valakų pirkliai keliavo į Vilnius (0.82); Maskvos, totorių ir valakų pirkliai prekiavo su Vilnius (0.76)"
   pagrindžia:
     - c-82790
-- susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
+
 ## Citatos
 
 - id: c-82790

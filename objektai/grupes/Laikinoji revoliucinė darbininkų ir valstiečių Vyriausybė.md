@@ -54,9 +54,7 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33301
-- susijęs iš [[objektai/grupes/Lietuvos Tarybų socialistinė respublika.md#claim-t-31291|Lietuvos Tarybų socialistinė respublika (institucija)]]: Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05427|Suverenitetas]]: Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.
-- susijęs iš [[objektai/zodynas/suverenumas.md#claim-t-32810|suverenumas]]: Tarybiniai istorikai 1940 m. laikė Lietuvos Tarybų Respublikos suverenumo įvykdymu.
+
 ## Citatos
 
 - id: c-33301

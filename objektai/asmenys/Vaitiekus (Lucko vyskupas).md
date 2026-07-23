@@ -9,16 +9,16 @@ datos:
   - '1550 m.'
 date_start: '1507'
 date_end: '1550'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,18 +70,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184894
-- susijęs iš [[objektai/autoriai/Gaudencijus.md#claim-t-191606|Gaudencijus]]: Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis, rašė 997-1006 metais.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07572|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07573|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01895|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
-- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas (vyskupas, XIII a.)]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01894|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
-- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
-- susijęs iš Vilniaus pilys: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
+
 ## Citatos
 
 - id: c-83910

@@ -65,7 +65,7 @@ Nenurodyta
     - c-174967
 
 <a id="claim-t-12418"></a>
-- t-006
+- t-002
   teiginys: "Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -109,7 +109,7 @@ Nenurodyta
     - c-14479
 
 <a id="claim-t-192100"></a>
-- t-002
+- t-006
   teiginys: "Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -120,7 +120,7 @@ Nenurodyta
     - c-05407
 
 <a id="claim-t-192508"></a>
-- t-008
+- t-007
   teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -154,11 +154,10 @@ Nenurodyta
     jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
     metu rengdavo turnyrus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-00230
@@ -222,7 +221,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-14479
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -265,7 +264,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-174967
   autorius: "Zenonas Ivinskis"
@@ -309,4 +308,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

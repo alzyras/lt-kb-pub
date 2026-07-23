@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67138"></a>
-- t-003
+- t-001
   teiginys: "Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-67160
 
 <a id="claim-t-67139"></a>
-- t-001
+- t-002
   teiginys: "Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-67159
 
 <a id="claim-t-67140"></a>
-- t-002
+- t-003
   teiginys: "Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -161,8 +161,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
 
 - id: c-67160
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -196,7 +196,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-166711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

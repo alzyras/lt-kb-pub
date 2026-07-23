@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87060"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus miesto viešųjų aktų antspaude turėjo būti šv. Kristoforo atvaizdas raudoname lake."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-83039
 
 <a id="claim-t-87061"></a>
-- t-003
+- t-002
   teiginys: "1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-83041
 
 <a id="claim-t-87062"></a>
-- t-001
+- t-003
   teiginys: "Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-83040
   autorius: "Michał Baliński"
@@ -217,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83041
   autorius: "Michał Baliński"
@@ -259,4 +259,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

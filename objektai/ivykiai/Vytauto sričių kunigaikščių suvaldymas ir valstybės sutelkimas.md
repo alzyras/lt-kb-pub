@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01875"></a>
-- t-002
+- t-001
   teiginys: "Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-02114
 
 <a id="claim-t-01876"></a>
-- t-004
+- t-002
   teiginys: "Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-02115
 
 <a id="claim-t-01879"></a>
-- t-001
+- t-004
   teiginys: "Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-02115
   redaktorius: "A. Šapoka"
@@ -183,7 +183,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-02117
   redaktorius: "A. Šapoka"
@@ -203,4 +203,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004

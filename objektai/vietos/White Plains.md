@@ -53,6 +53,7 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
   citata_rodoma: "vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

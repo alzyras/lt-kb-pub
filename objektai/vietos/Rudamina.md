@@ -39,7 +39,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 ## Teiginiai
 
 <a id="claim-t-114961"></a>
-- t-008
+- t-001
   teiginys: "Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105966
 
 <a id="claim-t-114962"></a>
-- t-003
+- t-002
   teiginys: "Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105967
 
 <a id="claim-t-114963"></a>
-- t-001
+- t-003
   teiginys: "Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105966
 
 <a id="claim-t-114965"></a>
-- t-009
+- t-005
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114966"></a>
-- t-010
+- t-006
   teiginys: "Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105973
 
 <a id="claim-t-114967"></a>
-- t-005
+- t-007
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114968"></a>
-- t-006
+- t-008
   teiginys: "1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114969"></a>
-- t-007
+- t-009
   teiginys: "Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -187,32 +187,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-105970
-- susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
-- susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
-- susijęs iš [[objektai/asmenys/Jonas Kazimieras Rudamina.md#claim-t-202415|Jonas Kazimieras Rudamina]]: Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23221|Andrius Rudamina]]: Andrius Rudamina buvo Vilniaus universiteto auklėtinis.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23222|Andrius Rudamina]]: Rudamina 1626–1634 m. misionieriavo Kinijoje.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23223|Andrius Rudamina]]: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-26708|Andrius Rudamina]]: Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
-- susijęs iš 1571 m. Valerijono Protasevičiaus potvarkis dėl Šv. Jono vikaro išlaikymo: 1571 m. birželio 1 d. Valerijonas Protasevičius Šv. Jono vikarui ir jo adjutoriams išlaikyti skyrė Elniakampius, Putviškes, Pukančius ir Rudaminą.
-- susijęs iš 1571 m. Žygimanto Augusto privilegija dėl Šv. Jono bažnyčios prijungimo prie Jėzaus Draugijos kolegijos: 1571 m. Žygimanto Augusto privilegija Rudaminos bažnyčią atidavė kolegijai ir kitus Šv. Jono bažnyčios aptarnavimo reikalus pavedė vyskupui.
-- susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87053|Karinės vėliavos ir ženklai]]: Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.
-- susijęs iš [[objektai/daiktai/Kariuomenės ženklai.md#claim-t-87110|Kariuomenės ženklai]]: Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.
-- susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87007|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172122|Jėzuitų ordinas]]: Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.
-- susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172857|Vilniaus pirkliai]]: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
-- susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
-- susijęs iš Adomo Ancypa skundas prieš tėvus jėzuitus dėl Šv. Jono bažnyčios turto: Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų ir pajamų.
-- susijęs iš Elniakampiai: Šv. Jono bažnyčios klebonas Adomas Ancypa skunde teigė pagal fundacijas laikantis Elniakampius.
-- susijęs iš Elniakampiai: 1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius skyrė Elniakampius vikaro ir jo adjutorių išlaikymui.
-- susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
-- susijęs iš Kinija: Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-- susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-- susijęs iš Pukančiai: Šv. Jono bažnyčios klebonas Adomas Ancypa skunde nurodė pagal fundacijas valdantis Pukančius su kitomis valdomis.
-- susijęs iš Pukančiai: 1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius Pukančius priskyrė prie valdų, skirtų vikarui ir jo pagalbininkams išlaikyti.
-- susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
-- susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
+
 ## Citatos
 
 - id: c-105965
@@ -242,9 +217,9 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-005
-    - t-006
+    - t-007
+    - t-008
 
 - id: c-105966
   autorius: "Michał Baliński"
@@ -268,7 +243,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
     - t-004
 
 - id: c-105967
@@ -304,7 +279,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-105970
   autorius: "Michał Baliński"
@@ -332,7 +307,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-009
 
 - id: c-105972
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -352,7 +327,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-105973
   autorius: "Michał Baliński"
@@ -400,4 +375,4 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006

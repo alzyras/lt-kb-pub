@@ -48,8 +48,7 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171942
-- susijęs iš Šventežeris: Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.
-- susijęs iš [[objektai/zodynas/Šventieji ežerai.md#claim-t-189190|Šventieji ežerai]]: Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu.
+
 ## Citatos
 
 - id: c-171942

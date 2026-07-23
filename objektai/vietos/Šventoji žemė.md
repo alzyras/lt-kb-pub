@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 ## Teiginiai
 
 <a id="claim-t-58407"></a>
-- t-004
+- t-001
   teiginys: "Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - c-59042
 
 <a id="claim-t-58410"></a>
-- t-001
+- t-004
   teiginys: "Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-59041
   autorius: "Petras Dusburgietis"
@@ -170,7 +170,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-59042
   autorius: "Petras Dusburgietis"

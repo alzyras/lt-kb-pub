@@ -39,7 +39,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ## Teiginiai
 
 <a id="claim-t-51184"></a>
-- t-002
+- t-001
   teiginys: "Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - c-36521
 
 <a id="claim-t-51185"></a>
-- t-001
+- t-002
   teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -128,8 +128,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   semantiniai_rysiai: "Kerim Berdis puolė Tochtamyšas (0.97); Tochtamyšas buvo brolis Kerim Berdis (0.90)"
   pagrindžia:
     - c-168204
-- susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
+
 ## Citatos
 
 - id: c-36521
@@ -151,8 +150,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-168202
   autorius: "Albertas Vijūkas-Kojelavičius"

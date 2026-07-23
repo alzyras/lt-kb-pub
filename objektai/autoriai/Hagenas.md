@@ -49,7 +49,3 @@ Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš Prūsija: Narbutas nurodo skirtingas nuomones apie gintare rastų vabzdžių kilmę: Masė jų tėvyne laikė Prūsiją, o Ragenas manė juos patekus iš šalies.

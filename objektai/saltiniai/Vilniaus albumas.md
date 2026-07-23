@@ -38,7 +38,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 ## Teiginiai
 
 <a id="claim-t-75528"></a>
-- t-005
+- t-001
   teiginys: "Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     - c-24005
 
 <a id="claim-t-75531"></a>
-- t-001
+- t-003
   teiginys: "J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     - c-24007
 
 <a id="claim-t-75533"></a>
-- t-007
+- t-005
   teiginys: "J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-24005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -205,7 +205,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-73285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -221,4 +221,4 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

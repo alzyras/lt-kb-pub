@@ -7,14 +7,14 @@ datos:
   - '1262 m.'
 date_start: '1262'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - konfliktas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62798"></a>
-- t-002
+- t-001
   teiginys: "Apsiaustieji iš bado suvalgė 250 arklių ir jų odas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-63604
 
 <a id="claim-t-62799"></a>
-- t-001
+- t-002
   teiginys: "Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -94,11 +94,12 @@ Nenurodyta
     pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
     keliais pasitraukė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-001
+    - t-003
 
 ## Citatos
 
@@ -119,7 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-63604
   autorius: "Petras Dusburgietis"
@@ -138,5 +139,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

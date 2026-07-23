@@ -70,10 +70,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179189
-- susijęs iš [[objektai/asmenys/Videvutis.md#claim-t-60073|Videvutis]]: Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.
-- susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
-- susijęs iš [[objektai/asmenys/Prūsijus.md#claim-t-60420|Prūsijus]]: XV a. Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
+
 ## Citatos
 
 - id: c-61051

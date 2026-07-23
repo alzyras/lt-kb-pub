@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67488"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-67374
 
 <a id="claim-t-67489"></a>
-- t-001
+- t-002
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -148,5 +148,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003

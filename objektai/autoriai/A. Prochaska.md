@@ -52,7 +52,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
     - c-50241
 
 <a id="claim-t-47869"></a>
-- t-005
+- t-002
   teiginys: "A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
     - c-30421
 
 <a id="claim-t-47870"></a>
-- t-004
+- t-003
   teiginys: "A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
     - c-50242
 
 <a id="claim-t-47871"></a>
-- t-002
+- t-004
   teiginys: "A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
     - c-30421
 
 <a id="claim-t-47872"></a>
-- t-003
+- t-005
   teiginys: "A. Prochaska gynė Gedimino laiškų autentiškumą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -116,9 +116,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-50244
-- susijęs iš Codex epistolaris Vitoldi, magni ducis Lithuaniae: Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179520|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją.'
@@ -155,8 +153,8 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-002
+    - t-004
 
 - id: c-50241
   autorius: "Zenonas Ivinskis"
@@ -204,7 +202,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-50244
   autorius: "Zenonas Ivinskis"
@@ -225,4 +223,4 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005

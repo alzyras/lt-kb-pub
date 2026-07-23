@@ -32,7 +32,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 ## Teiginiai
 
 <a id="claim-t-59988"></a>
-- t-002
+- t-001
   teiginys: "Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     - c-60623
 
 <a id="claim-t-59990"></a>
-- t-004
+- t-002
   teiginys: "Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-60623
   autorius: "Petras Dusburgietis"
@@ -147,4 +147,4 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

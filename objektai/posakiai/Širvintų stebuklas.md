@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41478"></a>
-- t-002
+- t-001
   teiginys: "Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-44971
 
 <a id="claim-t-41479"></a>
-- t-003
+- t-002
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -94,5 +94,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

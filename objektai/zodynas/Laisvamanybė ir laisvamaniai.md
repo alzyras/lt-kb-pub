@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10883"></a>
-- t-003
+- t-001
   teiginys: "Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-00276
 
 <a id="claim-t-10884"></a>
-- t-004
+- t-002
   teiginys: "Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-00277
   redaktorius: "A. Šapoka"
@@ -114,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

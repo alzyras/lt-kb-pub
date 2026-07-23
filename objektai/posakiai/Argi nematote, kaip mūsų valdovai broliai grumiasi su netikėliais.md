@@ -71,11 +71,11 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
     ginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė
     kilmingųjų, ko užsitarnavęs šitoks žmogžudys. Visi atsakė, kad vertas sudeginti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

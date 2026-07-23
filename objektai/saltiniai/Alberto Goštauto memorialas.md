@@ -8,13 +8,13 @@ datos:
   - '1529 m.'
 date_start: '1525'
 date_end: '1529'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - dokumentas
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,7 +84,6 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176768

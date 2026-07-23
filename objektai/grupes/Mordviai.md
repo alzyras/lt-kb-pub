@@ -49,7 +49,7 @@ Narbutas mordvius mini kaip Rusijos gilumoje gyvenančią tautą, kurios mergait
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172385
-- susijęs iš Rusijos giluma: Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papročio mergaitėms nešioti įvairaus dydžio rutulinius varpelius.
+
 ## Citatos
 
 - id: c-172385

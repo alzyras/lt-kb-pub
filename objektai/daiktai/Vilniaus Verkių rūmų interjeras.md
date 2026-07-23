@@ -90,8 +90,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi nutrūkusią inicialę ir pašalinį kontekstą, o citata palaiko aiškų enciklopedinį sakinį."
   pagrindžia:
     - c-48317
-- susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.
-- susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas.
+
 ## Citatos
 
 - id: c-22311

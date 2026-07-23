@@ -57,20 +57,7 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys."
   pagrindžia:
     - c-26550
-- susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
-- susijęs iš Burcos žemė: Burcos žemė Transilvanijoje.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82175|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113993|Steponas Batoras]]: Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare prieš Maskvą buvo pasiektos lemiamos pergalės.
-- susijęs iš [[objektai/asmenys/Steponas Genseris.md#claim-t-87461|Steponas Genseris]]: Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176213|Vėliavos]]: 1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų.
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55092|Vilniaus miesto auksakalių cechas]]: Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.
-- susijęs iš [[objektai/grupes/Vokietijos kunigaikščiai.md#claim-t-31373|Vokietijos kunigaikščiai]]: Vokietijos kunigaikščiai galėjo paremti ordiną.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
-- susijęs iš Liublino unijos aktas (1569 m.): LDK atstovai priėmė Liublino unijos kompromisą, nors lenkai ir Žygimantas Augustas spaudė naikinti Lietuvos valstybingumą ir atplėšti teritorijų.
-- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
-- susijęs iš Maskva: Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
-- susijęs iš Traupeinas: Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais.
+
 ## Citatos
 
 - id: c-26550

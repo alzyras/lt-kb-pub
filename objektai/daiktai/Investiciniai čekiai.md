@@ -66,7 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75327"></a>
-- t-011
+- t-001
   teiginys: "Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "gap::items"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-22242
 
 <a id="claim-t-75328"></a>
-- t-015
+- t-002
   teiginys: "Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::items"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-22244
 
 <a id="claim-t-75329"></a>
-- t-014
+- t-003
   teiginys: "Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::items"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-73138
 
 <a id="claim-t-75330"></a>
-- t-013
+- t-004
   teiginys: "Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "gap::items"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-22244
 
 <a id="claim-t-75331"></a>
-- t-012
+- t-005
   teiginys: "Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::items"
@@ -125,7 +125,7 @@ Nenurodyta
     - c-22243
 
 <a id="claim-t-75333"></a>
-- t-016
+- t-006
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -134,7 +134,7 @@ Nenurodyta
     - c-73138
 
 <a id="claim-t-193578"></a>
-- t-017
+- t-007
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-22243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -194,7 +194,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-005
 
 - id: c-22244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -219,8 +219,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-013
+    - t-002
+    - t-004
 
 - id: c-73138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -242,8 +242,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-016
+    - t-003
+    - t-006
 
 - id: c-176254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -264,4 +264,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-007

@@ -72,27 +72,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175618
-- susijęs iš Belaja Cerkovė: Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
-- susijęs iš Skitija: Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
-- susijęs iš Dnepras: Narbutas pasakoja, kad Herodotui Padneprės graikų kolonistai sakę, jog gintaras juos pasiekdavęs iš šiaurės vakarų jūros.
-- susijęs iš Pripetė: Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191172|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
-- susijęs iš [[objektai/asmenys/Julijonas.md#claim-t-191423|Julijonas]]: Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas persų karalių Saporą per Dneprą ir alanų kraštą.
-- susijęs iš [[objektai/asmenys/Konstantinas Purpurinis.md#claim-t-191435|Konstantinas Purpurinis]]: Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove.
-- susijęs iš [[objektai/asmenys/Konstantinas VII Purpurinis.md#claim-t-191353|Konstantinas VII Purpurinis]]: Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove.
-- susijęs iš [[objektai/asmenys/Saporas.md#claim-t-191461|Saporas]]: Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie Volgos vidurupio, kai Julijonas siuntė pas jį žygūnus.
-- susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191527|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
-- susijęs iš [[objektai/autoriai/Konstantinas Purpurinis.md#claim-t-191585|Konstantinas Purpurinis]]: Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192945|Boristeniečiai]]: Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia iš šiaurės vakaruose esančios jūros.
-- susijęs iš Belaja Cerkovė: Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
-- susijęs iš Dnepras: Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.
-- susijęs iš Kijevas: Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.
-- susijęs iš Skitija: Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
-- susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192945|Boristeniečiai]]: Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia iš šiaurės vakaruose esančios jūros.
+
 ## Citatos
 
 - id: c-175617

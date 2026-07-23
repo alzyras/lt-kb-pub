@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64908"></a>
-- t-004
+- t-001
   teiginys: "XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-30988
 
 <a id="claim-t-64909"></a>
-- t-003
+- t-002
   teiginys: "Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-14298
 
 <a id="claim-t-194614"></a>
-- t-005
+- t-003
   teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-30988
   autorius: "Zenonas Ivinskis"
@@ -135,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-177013
   autorius: "Teodoras Narbutas"
@@ -152,4 +152,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

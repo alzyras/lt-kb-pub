@@ -68,10 +68,7 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-45556
-- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117251|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-117255|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų.
-- susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
+
 ## Citatos
 
 - id: c-45556

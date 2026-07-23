@@ -8,14 +8,14 @@ datos:
   - '2026 m.'
 date_start: '1253'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - etninė-grupė
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66382"></a>
-- t-002
+- t-001
   teiginys: "Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -70,4 +70,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

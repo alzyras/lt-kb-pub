@@ -53,12 +53,7 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas be aiškaus veikėjo; citata leidžia jį sukonkretinti."
   pagrindžia:
     - c-75119
-- susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-183534|J. Pilsudskis]]: Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis.
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101675|Juzefas Pilsudskis]]: Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23325|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.
+
 ## Citatos
 
 - id: c-75119

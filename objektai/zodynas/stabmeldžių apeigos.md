@@ -95,7 +95,6 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168755

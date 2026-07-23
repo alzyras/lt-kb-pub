@@ -44,8 +44,7 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59361
-- susijęs iš [[objektai/grupes/Galindai.md#claim-t-65157|Galindai]]: Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
-- susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
+
 ## Citatos
 
 - id: c-59361

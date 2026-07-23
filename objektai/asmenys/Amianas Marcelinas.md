@@ -50,7 +50,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     - c-174053
 
 <a id="claim-t-191938"></a>
-- t-003
+- t-002
   teiginys: "Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     - c-174053
 
 <a id="claim-t-197708"></a>
-- t-004
+- t-003
   teiginys: "Amianas Marcelinas priklausė minėtai tautai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     - c-174054
 
 <a id="claim-t-197709"></a>
-- t-005
+- t-004
   teiginys: "Amianas Marcelinas pateikia tokių iš senovės rašytojų surinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynystėje, vakaruose jie ribojosi su neurais arba ir su skitųgerų kraštu, taip pat netoli gyveno masagetai, melanchlenai ir antropofagai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -100,11 +100,12 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą. Nestoras irgi nusirašė visa tai.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
+
 - c-003
   santrauka: 'Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -119,11 +120,11 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
     tirus išsikelti iš Uždneprės.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 
@@ -151,7 +152,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-174054
   autorius: "Teodoras Narbutas"
@@ -177,7 +178,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-174820
   autorius: "Teodoras Narbutas"
@@ -207,4 +208,4 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

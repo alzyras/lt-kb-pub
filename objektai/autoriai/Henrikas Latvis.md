@@ -10,13 +10,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'L'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - kunigas
+amziai:
+  - 'L'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -40,7 +40,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 ## Teiginiai
 
 <a id="claim-t-171490"></a>
-- t-005
+- t-001
   teiginys: "Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     - c-156013
 
 <a id="claim-t-171491"></a>
-- t-001
+- t-002
   teiginys: "Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   temporalinis_llm_pakomentavimas: "Nebaigtas fragmentas išplėstas į sakinį apie Henriko Latvio kronikos pastabas. Mitologinė interpretacija palikta su Narbuto atribucija."
   pagrindžia:
     - c-171292
-- susijęs iš [[objektai/autoriai/Henrikas.md#claim-t-10128|Henrikas]]: Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
@@ -132,11 +132,46 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
+- c-005
+  santrauka: 'Teodoro Narbuto vertinimu, Henrikas Latvis nepastebėjo lietuvių gentyse „tamsumo pėdsakų“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    191
+
+    ## Puslapis 189
+
+    ką drąsiai teigė nemažai istorikų, nors iš tiesų tuk tie,
+    kurie paviršutiniškai minėjo Lietuvos istoriją. Tačiau nei
+    Henrikas Latvis, nei Dusburgas, nei Grunau, nei vėlesni
+    istorikai, nuodugniai nagrinėję kurios nors lietuvių gen­
+    ties dalykus, nepastebėjo jokių tamsumo pėdsakų: atvirkš­
+    čiai, kiekvienas pripažįsta ir norom nenorom dažnai rašo,
+    jog tai buvo draugiškumo ir religinių ryšių į vieną didelę
+    tautą sujungtos gentys, gyvenusios dideliuose plotuose,
+    laisvi žemę dirbę, svetingi ir taikūs žmonės, puoselėję
+    žmonių tarpusavio draugiškumo jausmus ir atlygio ana­
+    pus kapo viltį; toji tokia gramatiška ir euforiška kalba,
+    tie dievai, mielų įkvėpimų ir širdį jaudinantys ženklai, di­
+    dieji nemirtingumo paveikslai, — visa tai liudija pirmykš­
+    tę kilmę iš tautos, pasiekusios gana aukštą civilizacijos
+    lygį ir kažkada gyvenusios apsišvietusio pasaulio kraštuo­
+    se. Kaimyninių tautų antpuoliai, Baltijos jūros plėšikų go­
+    dumas, pagaliau nežmoniškas vokiečių riterių noras grob­
+    ti ir krikštyti nugramzdino į nelaimes, nuvijo į laukines
+    dykras ir išmokė ieškoti maisto iš savo amato, tačiau tau­
+    tos branduolys neprarado nei savo tautinių bruožų, nei
+    savitumo, nei didelių dorybių, o tai visuomet ¡statė juos
+    greta pirmųjų Europos tautų, kai tik apvaizda duodavo
+    jiems tikrų valdovų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-156011
@@ -185,7 +220,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-156013
   autorius: "Petras Dusburgietis"
@@ -203,7 +238,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-171292
   autorius: "Teodoras Narbutas"

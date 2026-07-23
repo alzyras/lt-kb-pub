@@ -57,7 +57,7 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
 ## Teiginiai
 
 <a id="claim-t-187975"></a>
-- t-002
+- t-001
   teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -98,4 +98,4 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

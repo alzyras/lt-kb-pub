@@ -30,7 +30,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
 ## Teiginiai
 
 <a id="claim-t-194691"></a>
-- t-002
+- t-001
   teiginys: "Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
     - c-179156
 
 <a id="claim-t-197378"></a>
-- t-003
+- t-002
   teiginys: "Kitaip vadinosi Varputis (Warputis)."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -115,5 +115,5 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

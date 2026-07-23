@@ -53,7 +53,7 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gynė Tverės kunigaikštystė (0.72)"
   pagrindžia:
     - c-33360
-- susijęs iš Tverė: Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.
+
 ## Citatos
 
 - id: c-33360

@@ -50,7 +50,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
     - c-174124
 
 <a id="claim-t-191244"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174124
@@ -164,4 +163,4 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

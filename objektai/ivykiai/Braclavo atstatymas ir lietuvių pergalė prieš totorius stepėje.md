@@ -7,13 +7,13 @@ datos:
   - '1497 m.'
 date_start: '1497'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -76,7 +76,7 @@ Nenurodyta
     - c-169917
 
 <a id="claim-t-193849"></a>
-- t-004
+- t-002
   teiginys: "Didysis kunigaikštis Aleksandras išstovėjo Braclave nemaža laiko ir atstatė Braclavo miestą; visi žmonės, kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo į Braciavą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -132,4 +132,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-002

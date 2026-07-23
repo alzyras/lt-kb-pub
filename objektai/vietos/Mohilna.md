@@ -52,7 +52,7 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
   temporalinis_llm_pakomentavimas: "Teiginys pertvarkytas kaip aiškus sakinys apie metraščio pasakojimą."
   pagrindžia:
     - c-33955
-- susijęs iš Gudija: Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
+
 ## Citatos
 
 - id: c-33955

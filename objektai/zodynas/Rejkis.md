@@ -47,7 +47,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
 ## Teiginiai
 
 <a id="claim-t-192266"></a>
-- t-002
+- t-001
   teiginys: "Narbuto aiškinimu, Rejkis buvo provincijas valdžiusių karaliukų pavadinimas, o ne vieno konkretaus asmens vardas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -58,7 +58,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     - c-175096
 
 <a id="claim-t-192267"></a>
-- t-001
+- t-002
   teiginys: "Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,7 +69,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     - c-175096
 
 <a id="claim-t-192571"></a>
-- t-005
+- t-003
   teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,11 +103,12 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192267
+  statusas: verified
+- t-001
+
 - c-002
   santrauka: 'Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -121,11 +122,10 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     valdė provincijas.
     Tokie kilmingų giminių ponai gyveno Pamedėje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175096
@@ -152,8 +152,8 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-175348
   autorius: "Teodoras Narbutas"
@@ -177,4 +177,4 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

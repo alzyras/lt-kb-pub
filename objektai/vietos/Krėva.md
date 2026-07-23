@@ -14,15 +14,15 @@ datos:
   - '2026 m.'
 date_start: '1342'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - sostinė
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 ## Teiginiai
 
 <a id="claim-t-111656"></a>
-- t-010
+- t-001
   teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181894
 
 <a id="claim-t-111657"></a>
-- t-001
+- t-002
   teiginys: "Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181890
 
 <a id="claim-t-111658"></a>
-- t-009
+- t-003
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181897
 
 <a id="claim-t-111659"></a>
-- t-008
+- t-004
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181888
 
 <a id="claim-t-111660"></a>
-- t-007
+- t-005
   teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -135,9 +135,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181894
 
 <a id="claim-t-111661"></a>
-- t-011
+- t-006
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -155,7 +155,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181894
 
 <a id="claim-t-111662"></a>
-- t-004
+- t-007
   teiginys: "Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181898
 
 <a id="claim-t-111663"></a>
-- t-012
+- t-008
   teiginys: "Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181898
 
 <a id="claim-t-111664"></a>
-- t-005
+- t-009
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181897
 
 <a id="claim-t-183035"></a>
-- t-015
+- t-010
   teiginys: "Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181893
 
 <a id="claim-t-184995"></a>
-- t-016
+- t-011
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -252,7 +252,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-168356
 
 <a id="claim-t-184996"></a>
-- t-017
+- t-012
   teiginys: "Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -272,7 +272,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-168357
 
 <a id="claim-t-193642"></a>
-- t-018
+- t-013
   teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -285,7 +285,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181887
 
 <a id="claim-t-194028"></a>
-- t-019
+- t-014
   teiginys: "Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -297,7 +297,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181895
 
 <a id="claim-t-196698"></a>
-- t-020
+- t-015
   teiginys: "Kojelavičiaus pasakojime Vytautas, vežamas iš Vilniaus į Krėvą, buvo laikomas su karališka pagarba, bet nuolat saugomas sargybos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -310,7 +310,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-178850
 
 <a id="claim-t-199334"></a>
-- t-002
+- t-016
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "auto"
@@ -327,122 +327,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181891
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-183230|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-183231|Krėvos sutartis (1385 m.)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
-- susijęs iš [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje.md#claim-t-86916|Kęstučio laidotuvės Vilniuje]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.
-- susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
-- susijęs iš Krėvos aktas (1385 m.): 1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86895|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.
-- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183537|Jogaila (kunigaikštis, XIV–XV a.)]]: 1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183538|Jogaila (kunigaikštis, XIV–XV a.)]]: Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176517|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184772|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kojelavičius rašo, kad Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, Vytautą įkalinti Vilniuje.
-- susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184810|Ona (Vytauto žmona)]]: Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas iš Krėvos pabėgo su žmona Ona ir paspruko pas Jonušą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176770|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179127|Lenkai]]: Po Ostrovos sutarties lenkai, remdamiesi Krėvos unijos aktu, laikė Lietuvą savo provincija.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179146|Lenkai]]: Po Ostrovos sutarties lietuviai laikė valstybę savarankiška, o lenkai, remdamiesi Krėvos aktu, laikė Lietuvą savo provincija.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179192|Lenkai]]: Lenkai Krėvos unija siekė laimėti ginčijamus žemės plotus, todėl Lenkijoje ėmė reikštis silpna opozicija.
-- susijęs iš [[objektai/ivykiai/Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto.md#claim-t-186712|Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto]]: Krėvos aktu Jogaila įsipareigojo sujungti LDK žemes su Lenkija, paleisti lenkų belaisvius, atgauti prarastas žemes, sumokėti Vilhelmui ir priimti katalikybę.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-183230|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20235|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20236|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-183231|Krėvos sutartis (1385 m.)]]: 1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45347|Krėvos sutartis (1385 m.)]]: Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45348|Krėvos sutartis (1385 m.)]]: Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45349|Krėvos sutartis (1385 m.)]]: Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45350|Krėvos sutartis (1385 m.)]]: 1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45351|Krėvos sutartis (1385 m.)]]: Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86895|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.
-- susijęs iš [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje.md#claim-t-86916|Kęstučio laidotuvės Vilniuje]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.
-- susijęs iš [[objektai/ivykiai/Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai.md#claim-t-185731|Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai]]: Kojelavičius rašo, kad penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime.
-- susijęs iš [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis.md#claim-t-66819|Paskutinės Kęstučio kovos ir mirtis]]: Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.
-- susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185542|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.
-- susijęs iš [[objektai/ivykiai/Vytauto pabėgimas iš Krėvos kalėjimo (1382 m. pabaiga).md#claim-t-95967|Vytauto pabėgimas iš Krėvos kalėjimo (1382 m. pabaiga)]]: Kai Vytauto prašymai nieko negelbėjo, jis ėmė ieškoti būdų pabėgti iš Krėvos kalėjimo.
-- susijęs iš 1385 m. Vladislovo Jogailos laiškas iš Krėvos: 1385 m. Krėvoje datuotame Vladislovo Jogailos laiške Hanka vadinamas Vilniaus seniūnu.
-- susijęs iš Krėvos aktas (1385 m.): 1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.
-- susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
-- susijęs iš Krokuva: 1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų.
-- susijęs iš Krėvos pilis (pilis): Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.
-- susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
-- susijęs iš Vitebskas: Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje.
-- susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185380|budeliai]]: Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.
-- susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185381|budeliai]]: Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
-- susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
-- susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
-- susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176428|Jadvyga Jogailienė]]: Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.
-- susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176505|Julijona]]: Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10693|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176523|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
-- susijęs iš [[objektai/asmenys/Ona Vytautienė.md#claim-t-181595|Ona Vytautienė]]: Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.
-- susijęs iš [[objektai/asmenys/Petras (Vilniaus vyskupas).md#claim-t-87824|Petras (Vilniaus vyskupas)]]: Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179676|Skirgaila]]: Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176643|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176767|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.
-- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179052|Kryžiuočių ordinas]]: Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179135|Lenkai]]: Po personalinės unijos lenkų pareigūnai buvo siunčiami į Lietuvą su valdovo įgaliojimais, o lietuvių kariuomenė talkino lenkams.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179164|Lenkai]]: Po Krėvos sutarties lenkų pareigūnai buvo siunčiami į Lietuvą, o lietuvių ir lenkų kariuomenės talkino viena kitai.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179184|Lenkai]]: Jogaila pažadėjo atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74512|Lenkijos valstybės taryba (institucija)]]: Po Krėvos sutarties bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74514|Lenkijos valstybės taryba (institucija)]]: Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74515|Lenkijos valstybės taryba (institucija)]]: Bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169691|Lietuvos Didžioji Kunigaikštija]]: Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169697|Lietuvos Didžioji Kunigaikštija]]: Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia).md#claim-t-86909|Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]: 1382 m. lapkričio pradžioje Jogaila Dubysos upės saloje sudarė paliaubas su kryžiuočiais.
-- susijęs iš [[objektai/ivykiai/Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto.md#claim-t-186713|Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto]]: 1386 m. sausio 11 d. Volkovyske Lenkijos atstovai davė Jogailai raštą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos atidavimą jam į žmonas.
-- susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67064|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos.
-- susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67066|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje.
-- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
-- susijęs iš [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas.md#claim-t-184348|Naujai krikštytų lietuvių bajorų privilegijavimas]]: Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.
-- susijęs iš [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais.md#claim-t-87150|Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir pagal pagonių paprotį turėjo būti sudeginti su jo naudotais daiktais.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“.md#claim-t-169940|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]: Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“.md#claim-t-169944|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]: Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“.md#claim-t-101623|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]: Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“.md#claim-t-101624|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]: Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.
-- susijęs iš [[objektai/posakiai/„prišlieti“.md#claim-t-45869|„prišlieti“]]: Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/posakiai/„prišlieti“.md#claim-t-45870|„prišlieti“]]: Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/posakiai/„prišlieti“.md#claim-t-45871|„prišlieti“]]: Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/posakiai/„Čia nebus Lenkijos“.md#claim-t-75627|„Čia nebus Lenkijos“]]: Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.
-- susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
-- susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
-- susijęs iš Krikščionybės įvedimas Lietuvoje: Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.
-- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
-- susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
-- susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
-- susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
-- susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
-- susijęs iš Lenkija: Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu.
-- susijęs iš Lenkija: Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją.
-- susijęs iš Lenkija: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
-- susijęs iš Lenkija: 1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi.
-- susijęs iš Vilnius: 1323 m. Gediminas perkėlė Lietuvos sostinę iš Trakų į Vilnių.
-- susijęs iš [[objektai/zodynas/Paliaubos induciae.md#claim-t-86504|Paliaubos induciae]]: 1382 metų lapkričio pradžioje Jogaila Dubysos saloje sudarė paliaubas su kryžiuočiais, paaukodamas jiems nemažą Žemaitijos dalį.
-- susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182718|Personalinė unija (unija)]]: Savotiškos personalinės unijos reikalavo lietuviai.
-- susijęs iš [[objektai/zodynas/applicare prišlieti.md#claim-t-22058|applicare prišlieti]]: Jogaila sutartyje pažadėjo įvesti Lietuvoje katalikų tikėjimą, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė.md#claim-t-77811|lenkų pradų naikinimo politika istorinio pirmumo teisė]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75568|lenkų pradų naikinimo politika]]: Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75569|lenkų pradų naikinimo politika]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75570|lenkų pradų naikinimo politika]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176770|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
-- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą.'
@@ -490,7 +375,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-103194
@@ -518,9 +402,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-011
-    - t-005
+    - t-004
+    - t-006
+    - t-009
 
 - id: c-103195
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -539,8 +423,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-012
+    - t-007
+    - t-008
 
 - id: c-103196
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -558,7 +442,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-103199
   autorius: "Michał Baliński"
@@ -581,8 +465,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-009
-    - t-005
 
 - id: c-103200
   autorius: "Michał Baliński"
@@ -607,9 +491,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-007
-    - t-011
+    - t-001
+    - t-005
+    - t-006
 
 - id: c-166427
   redaktorius: "A. Šapoka"
@@ -628,7 +512,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-010
 
 - id: c-168356
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -669,7 +553,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-011
 
 - id: c-168357
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -697,7 +581,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-012
 
 - id: c-176312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -713,7 +597,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-013
 
 - id: c-176650
   autorius: "Anoniminis metraštininkas"
@@ -770,7 +654,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-015
 
 - id: c-181887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -786,7 +670,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-013
 
 - id: c-181888
   autorius: "Michał Baliński"
@@ -813,9 +697,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-011
-    - t-005
+    - t-004
+    - t-006
+    - t-009
 
 - id: c-181890
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -833,7 +717,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-181891
   sudarytojas: "Karolis Zikaras"
@@ -879,7 +763,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-016
 
 - id: c-181893
   redaktorius: "A. Šapoka"
@@ -898,7 +782,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-010
 
 - id: c-181894
   autorius: "Michał Baliński"
@@ -923,9 +807,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-007
-    - t-011
+    - t-001
+    - t-005
+    - t-006
 
 - id: c-181895
   autorius: "Anoniminis metraštininkas"
@@ -944,7 +828,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-014
 
 - id: c-181897
   autorius: "Michał Baliński"
@@ -967,8 +851,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-009
-    - t-005
 
 - id: c-181898
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -987,8 +871,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-012
+    - t-007
+    - t-008
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

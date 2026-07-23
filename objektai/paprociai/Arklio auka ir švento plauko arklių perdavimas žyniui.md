@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187995"></a>
-- t-006
+- t-001
   teiginys: "Narbutas rašo, kad švento plauko kumeliuką reikėdavo auginti iki penkerių metų ir atiduoti vyriausiajam žyniui."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-171280
 
 <a id="claim-t-187997"></a>
-- t-005
+- t-002
   teiginys: "Narbutas arklio auką sieja su sėkmingu grobiamuoju žygiu ir trečdalio grobio skyrimu dievams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::customs"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-171004
 
 <a id="claim-t-188387"></a>
-- t-007
+- t-003
   teiginys: "Narbutas arklio aukos apeigoje mini pagrobto arklio nujodinimą, Krivių Krivaičio papjovimą ir sudeginimą ant laužo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-171004
 
 <a id="claim-t-188388"></a>
-- t-008
+- t-004
   teiginys: "Narbutas rašo, kad prūsai aukai rinkdavosi širmus arklius, o kitos lietuvių genties tautos turėjusios savus plauko ir ženklų pasirinkimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -138,11 +138,10 @@ Nenurodyta
     pakeisti kitu ir pačiam juo naudotis, arba parduoti į kitą pro­
     vinciją ar į užsienį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-171003
@@ -164,7 +163,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-171004
   autorius: "Teodoras Narbutas"
@@ -183,8 +182,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
+    - t-002
+    - t-003
 
 - id: c-171013
   autorius: "Teodoras Narbutas"
@@ -230,5 +229,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-008
+    - t-001
+    - t-004

@@ -43,7 +43,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 ## Teiginiai
 
 <a id="claim-t-64642"></a>
-- t-003
+- t-001
   teiginys: "J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - c-03991
 
 <a id="claim-t-64643"></a>
-- t-004
+- t-002
   teiginys: "J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - c-03992
 
 <a id="claim-t-64645"></a>
-- t-002
+- t-003
   teiginys: "J. Puzinas pristatomas kaip specialistas, duodantis atskirą išsamų veikalą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - c-03990
 
 <a id="claim-t-201494"></a>
-- t-005
+- t-004
   teiginys: "1929-1932 m. Jonas Puzinas (1905-1978) žurnale Savivaldybė paskelbė keliolika straipsnių, populiarinančių XVXVIII a."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -107,8 +107,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184841
-- susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
-- susijęs iš [[objektai/daiktai/Vežimai.md#claim-t-93003|Vežimai]]: Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.
+
 ## Citatos
 
 - id: c-03990
@@ -128,7 +127,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-03991
   autorius: "Zenonas Ivinskis"
@@ -147,7 +146,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-03992
   autorius: "Zenonas Ivinskis"
@@ -170,7 +169,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-184841
   autorius: "Zigmantas Kiaupa"
@@ -187,4 +186,4 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

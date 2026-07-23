@@ -39,7 +39,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
 ## Teiginiai
 
 <a id="claim-t-93198"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-88598
 
 <a id="claim-t-93199"></a>
-- t-010
+- t-002
   teiginys: "Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-88598
 
 <a id="claim-t-93200"></a>
-- t-009
+- t-003
   teiginys: "1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-36288
 
 <a id="claim-t-93201"></a>
-- t-005
+- t-004
   teiginys: "Po Cemblako mirties Vytautas susitaikė su Maskvos „visos Rusijos“ metropolitu Focijumi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-36293
 
 <a id="claim-t-93202"></a>
-- t-003
+- t-005
   teiginys: "Focijus siuntė Lietuvos stačiatikiams raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-36291
 
 <a id="claim-t-93205"></a>
-- t-004
+- t-007
   teiginys: "1421 m. Vytautas pripažino Maskvos Focijų Kijevo metropolitu."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-167642
 
 <a id="claim-t-93206"></a>
-- t-007
+- t-008
   teiginys: "Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,7 +182,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-167642
 
 <a id="claim-t-93207"></a>
-- t-008
+- t-009
   teiginys: "Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,11 +196,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36293
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93283|Gregorijus Cemblakas]]: Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.
-- susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-184237|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
-- susijęs iš [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.).md#claim-t-35916|Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]: 1421 m. po Cemblako mirties Vytautas Kijevo metropolitu pripažino Maskvos Focijų ir prie bažnytinės unijos nebegrįžo.
-- susijęs iš Konstantinopolis: Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.
-- susijęs iš Konstantinopolis: Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.
+
 ## Citatos
 
 - id: c-36288
@@ -223,7 +219,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-36291
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -246,7 +242,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
     - t-006
 
 - id: c-36293
@@ -268,8 +264,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-004
+    - t-009
 
 - id: c-88595
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -295,7 +291,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-88598
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -320,8 +316,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-010
 
 - id: c-167642
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -345,5 +341,5 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-007
+    - t-008

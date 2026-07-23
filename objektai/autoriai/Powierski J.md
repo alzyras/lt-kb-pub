@@ -35,7 +35,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 ## Teiginiai
 
 <a id="claim-t-60506"></a>
-- t-004
+- t-001
   teiginys: "J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61143
 
 <a id="claim-t-60507"></a>
-- t-008
+- t-002
   teiginys: "J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61141
 
 <a id="claim-t-60508"></a>
-- t-005
+- t-003
   teiginys: "J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61144
 
 <a id="claim-t-60509"></a>
-- t-007
+- t-004
   teiginys: "J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61138
 
 <a id="claim-t-60511"></a>
-- t-002
+- t-005
   teiginys: "J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61139
 
 <a id="claim-t-60513"></a>
-- t-003
+- t-007
   teiginys: "J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61145
 
 <a id="claim-t-197008"></a>
-- t-010
+- t-008
   teiginys: "Powierski J paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61142
 
 <a id="claim-t-197009"></a>
-- t-011
+- t-009
   teiginys: "Powierski J galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-61139
   autorius: "Petras Dusburgietis"
@@ -229,7 +229,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-61142
   autorius: "Petras Dusburgietis"
@@ -248,7 +248,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-61143
   autorius: "Petras Dusburgietis"
@@ -266,7 +266,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-61144
   autorius: "Petras Dusburgietis"
@@ -283,7 +283,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-61145
   autorius: "Petras Dusburgietis"
@@ -303,8 +303,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
+    - t-005
+    - t-007
 
 - id: c-61146
   autorius: "Petras Dusburgietis"
@@ -325,4 +325,4 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009

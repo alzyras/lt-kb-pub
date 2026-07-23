@@ -94,9 +94,7 @@ Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176962
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188174|Egiptiečiai]]: Narbutas aiškino, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189416|Senovės egiptiečiai]]: Narbutas teigė, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.
-- susijęs iš Indija: Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta.
+
 ## Citatos
 
 - id: c-172339

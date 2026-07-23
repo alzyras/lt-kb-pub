@@ -53,7 +53,7 @@ Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į k
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatą."
   pagrindžia:
     - c-23614
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113887|Mikalojus Radvila Juodasis]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
+
 ## Citatos
 
 - id: c-23614

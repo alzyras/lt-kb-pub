@@ -36,9 +36,9 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
 ## Teiginiai
 
 <a id="claim-t-190526"></a>
-- t-002
+- t-001
   teiginys: "Narbutas nurodo, kad Kovo figūrą Burokų dvare netoli Kražių ardamas žemę iškasė pusbernis Bonaventūras Milevskis."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,4 +101,4 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

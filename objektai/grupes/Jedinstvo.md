@@ -40,7 +40,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 ## Teiginiai
 
 <a id="claim-t-65204"></a>
-- t-003
+- t-001
   teiginys: "Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - c-42681
 
 <a id="claim-t-65206"></a>
-- t-001
+- t-003
   teiginys: "Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-42681
   sudarytojas: "Karolis Zikaras"
@@ -197,7 +197,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-42683
   sudarytojas: "Karolis Zikaras"
@@ -266,4 +266,4 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

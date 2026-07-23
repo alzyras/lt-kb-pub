@@ -44,10 +44,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59234
-- susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
-- susijęs iš [[objektai/grupes/Galindai.md#claim-t-65157|Galindai]]: Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
-- susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
-- susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
+
 ## Citatos
 
 - id: c-59234

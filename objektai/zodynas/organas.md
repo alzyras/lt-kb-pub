@@ -55,8 +55,7 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47244
-- susijęs iš [[objektai/grupes/Susivienijimas Lietuvių Rymo Katalikų Amerikoje.md#claim-t-66151|Susivienijimas Lietuvių Rymo Katalikų Amerikoje]]: Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.
-- susijęs iš [[objektai/zodynas/seniūnas storasta.md#claim-t-36832|seniūnas storasta]]: 1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai.
+
 ## Citatos
 
 - id: c-47244

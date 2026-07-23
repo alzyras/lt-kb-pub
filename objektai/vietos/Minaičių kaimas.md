@@ -54,11 +54,7 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Minaičių kaimą ir atitinka citatos informaciją."
   pagrindžia:
     - c-45215
-- susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
-- susijęs iš [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis.md#claim-t-41186|Vakarų Lietuvos (Jūros) sritis]]: Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.
-- susijęs iš Baisogala: Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.
-- susijęs iš Pietų Lietuva: Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
-- susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
+
 ## Citatos
 
 - id: c-45215

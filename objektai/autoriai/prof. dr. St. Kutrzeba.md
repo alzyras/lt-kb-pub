@@ -29,7 +29,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 ## Teiginiai
 
 <a id="claim-t-54147"></a>
-- t-002
+- t-001
   teiginys: "St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     - c-55086
 
 <a id="claim-t-54148"></a>
-- t-001
+- t-002
   teiginys: "Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -79,5 +79,5 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

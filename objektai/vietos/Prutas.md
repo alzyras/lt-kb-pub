@@ -31,7 +31,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 ## Teiginiai
 
 <a id="claim-t-84558"></a>
-- t-003
+- t-001
   teiginys: "Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +61,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-80701
-- susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
-- susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
-- susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
-- susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
-- susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir ten išbuvo iki rugsėjo 18 d.
-- susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
-- susijęs iš Smolnėnai: Smolnėnai buvo dovanojami su visomis Smolnėnų ir Čirčinsko žemėmis bei žmonėmis.
-- susijęs iš Čirčinskas: Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.
-- susijęs iš [[objektai/zodynas/inkorporuoti.md#claim-t-86581|inkorporuoti]]: Kaimai prie Teterino dvaro, išsidėstę greta Pruto upės, šiuo raštu inkorporuoti, grąžinti ir užrašyti Teterino dvarui.
+
 ## Citatos
 
 - id: c-80701
@@ -127,5 +117,5 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

@@ -48,7 +48,7 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174391
-- susijęs iš [[objektai/asmenys/Džiovani Ramusio.md#claim-t-191389|Džiovani Ramusio]]: Džiovani Ramusio buvo 1482–1557 m. gyvenęs italų mokslininkas ir politikas, ilgalaikis pasiuntinys įvairiuose Europos karališkuosiuose dvaruose.
+
 ## Citatos
 
 - id: c-174391

@@ -38,7 +38,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
 ## Teiginiai
 
 <a id="claim-t-191307"></a>
-- t-002
+- t-001
   teiginys: "Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,4 +101,4 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

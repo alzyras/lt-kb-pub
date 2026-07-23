@@ -6,7 +6,7 @@ variantai:
   - 'piestu'
   - 'piestu muša'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -96,6 +96,7 @@ Nenurodyta
   citata_rodoma: "Kad mušimas būtų sėkmingesnis, galuose prikalinėta smulkių vinių. Galima \nmanyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį \npeilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar \nyra tiekiama piesta, būtent, anglimis."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

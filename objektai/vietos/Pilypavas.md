@@ -54,9 +54,7 @@ Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako įvykį ties Pilypavu ir remiasi citata."
   pagrindžia:
     - c-40442
-- susijęs iš [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.).md#claim-t-41342|Pilypavo mūšis (1656 m. spalio 22 d.)]]: Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.
-- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71640|Krymo totoriai]]: Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.
-- susijęs iš Suvalkai: 1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.
+
 ## Citatos
 
 - id: c-40442

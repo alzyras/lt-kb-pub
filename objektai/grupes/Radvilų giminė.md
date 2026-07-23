@@ -10,15 +10,15 @@ datos:
   - '1828 m.'
 date_start: '1493'
 date_end: '1828'
-amziai:
-  - 'XV'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - giminė
   - grupe
   - kunigaikštis
+amziai:
+  - 'XV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 ## Teiginiai
 
 <a id="claim-t-172761"></a>
-- t-003
+- t-001
   teiginys: "Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
     - c-157130
 
 <a id="claim-t-172763"></a>
-- t-001
+- t-003
   teiginys: "Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
     - c-157127
 
 <a id="claim-t-172765"></a>
-- t-007
+- t-004
   teiginys: "1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
     - c-157129
 
 <a id="claim-t-172766"></a>
-- t-004
+- t-005
   teiginys: "Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
     - c-157126
 
 <a id="claim-t-202312"></a>
-- t-009
+- t-006
   teiginys: "Radvilų manufaktūrose Nesvyžiuje buvo audžiamas linas, Minske buvo audžiami gobelenai, o Slucke buvo gaminama gelumbė ir audžiamos Slucko juostos."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-157127
   autorius: "Michał Baliński"
@@ -248,7 +248,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-157129
   autorius: "Michał Baliński"
@@ -277,7 +277,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-157130
   autorius: "Michał Baliński"
@@ -352,7 +352,7 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-185659
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
@@ -362,4 +362,4 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   pagrindzia:
-    - t-009
+    - t-006

@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71779"></a>
-- t-004
+- t-001
   teiginys: "Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-11949
 
 <a id="claim-t-71780"></a>
-- t-006
+- t-002
   teiginys: "1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71781"></a>
-- t-005
+- t-003
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71782"></a>
-- t-008
+- t-004
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-11951
 
 <a id="claim-t-71783"></a>
-- t-007
+- t-005
   teiginys: "Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,9 +144,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-11949
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš [[objektai/grupes/Varniškių būrys.md#claim-t-41192|Varniškių būrys]]: 1945 m. balandį Varniškių būrio partizanai veikė Paliose.
+
 ## Citatos
 
 - id: c-11949
@@ -195,8 +193,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-001
+    - t-005
 
 - id: c-11951
   sudarytojas: "Karolis Zikaras"
@@ -219,6 +217,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
-    - t-008
+    - t-002
+    - t-003
+    - t-004

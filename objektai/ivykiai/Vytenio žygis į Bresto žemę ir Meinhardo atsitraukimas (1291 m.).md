@@ -7,8 +7,6 @@ datos:
   - '1291 m.'
 date_start: '1291'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - ivykis
   - karalius
   - kunigaikštis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,11 +109,11 @@ Nenurodyta
     nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
     pavyko garbingai išvengti kovos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-194432
+  statusas: verified
+- t-002
 
 ## Citatos
 

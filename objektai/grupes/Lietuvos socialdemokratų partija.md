@@ -41,7 +41,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 ## Teiginiai
 
 <a id="claim-t-169731"></a>
-- t-002
+- t-001
   teiginys: "1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     - c-154433
 
 <a id="claim-t-169732"></a>
-- t-006
+- t-002
   teiginys: "Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     - c-166552
 
 <a id="claim-t-169734"></a>
-- t-007
+- t-004
   teiginys: "LDDP vėliau susivienijo su Lietuvos socialdemokratais ir tapo LSDP."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,11 +116,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-154429
-- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101469|Lietuvos valstiečių liaudininkų sąjunga]]: Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74191|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74193|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
-- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75287|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
-- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75288|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
+
 ## Citatos
 
 - id: c-154429
@@ -151,7 +147,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-154431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -196,7 +192,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-154434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,7 +213,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-166552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

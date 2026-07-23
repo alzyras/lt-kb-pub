@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64968"></a>
-- t-005
+- t-001
   teiginys: "Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -59,16 +59,13 @@ Nenurodyta
     - c-10258
 
 <a id="claim-t-64970"></a>
-- t-006
+- t-002
   teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10258
-- susijęs iš [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose.md#claim-t-07829|Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]: Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 
@@ -91,8 +88,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002
 
 - id: c-10259
   autorius: "Simonas Daukantas"
@@ -104,6 +101,7 @@ Nenurodyta
         išrašiau, yra yna^1022 pasaka, nekaip būti daiktai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,9 +45,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   pagrindžia:
     - c-61057
     - c-167507
-- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
-- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
-- susijęs iš [[objektai/zodynas/kiemai habitaciones curia.md#claim-t-184005|kiemai habitaciones curia]]: Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
+
 ## Citatos
 
 - id: c-61057

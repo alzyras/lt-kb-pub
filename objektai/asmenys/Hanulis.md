@@ -44,9 +44,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32734
-- susijęs iš [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.).md#claim-t-28819|Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogailai atvykus į Vilnių, Hanulis jam įteikė pilies raktus.
-- susijęs iš Vilnius: 1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus.
-- susijęs iš Vilnius: Jogailos šalininkai užėmė Vytauto saugotą Vilniaus pilį, išžudę Kęstučio sargybas.
+
 ## Citatos
 
 - id: c-32734

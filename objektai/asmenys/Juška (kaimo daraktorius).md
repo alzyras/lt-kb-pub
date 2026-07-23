@@ -70,7 +70,7 @@ Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177623
-- susijęs iš [[objektai/asmenys/Mikelis (žydas prekeivis).md#claim-t-195265|Mikelis (žydas prekeivis)]]: Mikelio verslas buvo po aplinkinius kaimus nešioti silkes ir buiką.
+
 ## Citatos
 
 - id: c-177623

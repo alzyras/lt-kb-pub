@@ -41,7 +41,7 @@ Duburys šiame šaltinyje yra upuokšnis.
 ## Teiginiai
 
 <a id="claim-t-195480"></a>
-- t-002
+- t-001
   teiginys: "Duburys apibūdinamas kaip gilėjantis savo krioklio tėkme."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -51,7 +51,7 @@ Duburys šiame šaltinyje yra upuokšnis.
     - c-177902
 
 <a id="claim-t-195481"></a>
-- t-001
+- t-002
   teiginys: "Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -59,7 +59,7 @@ Duburys šiame šaltinyje yra upuokšnis.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177901
-- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
+
 ## Citatos
 
 - id: c-177901
@@ -84,7 +84,7 @@ Duburys šiame šaltinyje yra upuokšnis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177902
   autorius: "M. Katkus"
@@ -100,4 +100,4 @@ Duburys šiame šaltinyje yra upuokšnis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

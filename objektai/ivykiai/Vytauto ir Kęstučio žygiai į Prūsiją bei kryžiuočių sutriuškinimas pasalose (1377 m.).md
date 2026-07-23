@@ -67,7 +67,7 @@ Nenurodyta
     - c-169016
 
 <a id="claim-t-185657"></a>
-- t-003
+- t-002
   teiginys: "Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-169018
 
 <a id="claim-t-196265"></a>
-- t-004
+- t-003
   teiginys: "Pasak Kojelavičiaus, sutvarkę reikalus Rusioje lietuviai pasijuto saugiau ir ėmė keršyti kryžiuočiams už praėjusių metų skriaudas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-169016
 
 <a id="claim-t-196266"></a>
-- t-005
+- t-004
   teiginys: "Lietuviai miškuose įrengė šakomis ir velėnomis pridengtus griovius, į kuriuos per pasalą sugriuvo dalis kryžiuočių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-169018
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -176,5 +176,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004

@@ -193,39 +193,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   pagrindžia:
     - c-184299
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Teodoro Narbuto vertinimu, be Vulfstano aprašymų apie prekybinį Truso miestą prie Drūsinės ežero galbūt nieko nebūtų žinoma.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Daugiausiai dėmesio vertas šios
-    provincijos prekybinis miestas Trusas prie Drūsinės eže­
-    ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
-    gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
-    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
-    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
-    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
-    nieko nežinotume apie šį miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  santrauka: 'Narbutas rašė, kad keliautojas Vulfstanas jau minėjo vietos ponus, turėjusius savarankiškas valdas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia irgi nestigo ponų, turėjusių savaran­
-    kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
-    jų karta išliko ligi šiol. Senovinė Kiedinių tvirtovė, kur
-    vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
-    Frauenburgo, ant Tolko kalno.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
 ## Citatos
 
 - id: c-64412

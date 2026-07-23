@@ -41,7 +41,7 @@ Mackevičius, vėliau K.
 ## Teiginiai
 
 <a id="claim-t-75694"></a>
-- t-002
+- t-001
   teiginys: "Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Mackevičius, vėliau K.
     - c-41830
 
 <a id="claim-t-75695"></a>
-- t-008
+- t-002
   teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Mackevičius, vėliau K.
     - c-73410
 
 <a id="claim-t-75696"></a>
-- t-006
+- t-003
   teiginys: "Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Mackevičius, vėliau K.
     - c-41834
 
 <a id="claim-t-75697"></a>
-- t-003
+- t-004
   teiginys: "Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Mackevičius, vėliau K.
     - c-41831
 
 <a id="claim-t-75699"></a>
-- t-007
+- t-005
   teiginys: "Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Mackevičius, vėliau K.
     - c-41835
 
 <a id="claim-t-75700"></a>
-- t-005
+- t-006
   teiginys: "Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Mackevičius, vėliau K.
     - c-41833
 
 <a id="claim-t-75701"></a>
-- t-004
+- t-007
   teiginys: "Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,10 +158,7 @@ Mackevičius, vėliau K.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41832
-- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75355|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje į sukilimo slopintojų rankas pakliuvo Antanas Mackevičius ir Konstantinas Kalinauskas, abu netrukus buvo viešai pakarti.
-- susijęs iš [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika.md#claim-t-75396|Sukilėlių partizaninio karo nedidelių antpuolių taktika]]: Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.
-- susijęs iš [[objektai/daiktai/Kovinis dalgis.md#claim-t-39184|Kovinis dalgis]]: Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.
-- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
+
 ## Citatos
 
 - id: c-41830
@@ -186,7 +183,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-41831
   sudarytojas: "Karolis Zikaras"
@@ -207,7 +204,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-41832
   sudarytojas: "Karolis Zikaras"
@@ -226,7 +223,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-41833
   sudarytojas: "Karolis Zikaras"
@@ -250,7 +247,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-41834
   sudarytojas: "Karolis Zikaras"
@@ -274,7 +271,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-41835
   sudarytojas: "Karolis Zikaras"
@@ -298,7 +295,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-73410
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -325,7 +322,7 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 ## Ryšiai
 - Paskyrė Antanas Mackevičių: [[objektai/asmenys/Zigmantas Sierakauskas]]

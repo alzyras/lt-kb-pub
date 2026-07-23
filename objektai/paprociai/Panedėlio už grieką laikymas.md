@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07797"></a>
-- t-002
+- t-001
   teiginys: "Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -61,9 +61,6 @@ Nenurodyta
   semantiniai_rysiai: "Lietuviai gyveno Vilnius (0.78)"
   pagrindžia:
     - c-09953
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -86,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

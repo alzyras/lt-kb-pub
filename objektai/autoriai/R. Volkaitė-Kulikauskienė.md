@@ -39,7 +39,7 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
 ## Teiginiai
 
 <a id="claim-t-97217"></a>
-- t-002
+- t-001
   teiginys: "R. Volkaitė-Kulikauskienė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
     - c-91703
 
 <a id="claim-t-97218"></a>
-- t-001
+- t-002
   teiginys: "R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-91702
-- susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179498|Archeologai ir priešistorės tyrėjai]]: R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema.
+
 ## Citatos
 
 - id: c-91702
@@ -97,7 +97,7 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-91703
   autorius: "Zenonas Ivinskis"
@@ -113,4 +113,4 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

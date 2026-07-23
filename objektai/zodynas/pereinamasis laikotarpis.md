@@ -39,7 +39,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 ## Teiginiai
 
 <a id="claim-t-72000"></a>
-- t-003
+- t-001
   teiginys: "Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     - c-46924
 
 <a id="claim-t-72001"></a>
-- t-001
+- t-002
   teiginys: "Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,10 +74,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-46924
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
-- susijęs iš [[objektai/zodynas/ponų įsigalėjimo laikotarpis.md#claim-t-74034|ponų įsigalėjimo laikotarpis]]: A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184754|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
+
 ## Citatos
 
 - id: c-46924
@@ -100,5 +97,5 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002

@@ -46,7 +46,7 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
 ## Teiginiai
 
 <a id="claim-t-192561"></a>
-- t-003
+- t-001
   teiginys: "Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +84,4 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

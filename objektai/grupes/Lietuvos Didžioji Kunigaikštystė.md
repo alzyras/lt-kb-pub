@@ -14,9 +14,6 @@ datos:
   - '2026 m.'
 date_start: '1386'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,6 +21,9 @@ tags:
   - grupe
   - kraštas
   - tauta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '49'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APiersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania%2C_Ruthenia_and_Samogitia.png'
@@ -47,7 +47,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169699"></a>
-- t-008
+- t-001
   teiginys: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ media_all_json: |-
     - c-181216
 
 <a id="claim-t-169700"></a>
-- t-007
+- t-002
   teiginys: "1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ media_all_json: |-
     - c-181218
 
 <a id="claim-t-169703"></a>
-- t-009
+- t-003
   teiginys: "Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ media_all_json: |-
     - c-181215
 
 <a id="claim-t-184560"></a>
-- t-011
+- t-004
   teiginys: "Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ media_all_json: |-
     - c-167921
 
 <a id="claim-t-198911"></a>
-- t-001
+- t-005
   teiginys: "Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -145,13 +145,12 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
   ryšio_paaiskinimas: "Citatoje Lietuvos kariuomenė tiesiogiai siejama su totorių nukovimu ir paėmimu, todėl ryšys rodo karinį veikimą prieš totorius."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.91); Mykolas Glinskis kariavo prieš Totoriai (0.87)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181214
 
 <a id="claim-t-198912"></a>
-- t-003
+- t-006
   teiginys: "1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -165,7 +164,7 @@ media_all_json: |-
     - c-181221
 
 <a id="claim-t-198913"></a>
-- t-013
+- t-007
   teiginys: "Įvadinio straipsnio autorius LTI nuvertinimą lenkų istoriografijoje sieja su Narbuto politinėmis simpatijomis LDK ir lietuvių tautai."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -187,7 +186,7 @@ media_all_json: |-
     - c-181219
 
 <a id="claim-t-198914"></a>
-- t-002
+- t-008
   teiginys: "Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -212,7 +211,7 @@ media_all_json: |-
     - c-181213
 
 <a id="claim-t-198915"></a>
-- t-004
+- t-009
   teiginys: "Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -237,7 +236,7 @@ media_all_json: |-
     - c-181211
 
 <a id="claim-t-198916"></a>
-- t-012
+- t-010
   teiginys: "Įvadinio straipsnio autorius teigia, kad Narbutas priešinosi mėginimams Lietuvos Didžiosios Kunigaikštystės žemes paversti Lenkijos provincija."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -262,7 +261,7 @@ media_all_json: |-
     - c-181220
 
 <a id="claim-t-198917"></a>
-- t-005
+- t-011
   teiginys: "Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -280,7 +279,7 @@ media_all_json: |-
     - c-181222
 
 <a id="claim-t-198918"></a>
-- t-010
+- t-012
   teiginys: "LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -305,7 +304,7 @@ media_all_json: |-
     - c-181212
 
 <a id="claim-t-198920"></a>
-- t-006
+- t-013
   teiginys: "Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -314,7 +313,7 @@ media_all_json: |-
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Teiginys paremtas citata, bet pataisyta į aiškų sakinį be OCR klaidų."
   susije_objektai: "llm_object: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Smolenskas; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius"
-  semantiniai_rysiai: "Smolenskas priklausė [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; Smolenskas priklausė Lietuvos Didžioji Kunigaikštystė (0.90)"
+  semantiniai_rysiai: "Smolenskas priklausė [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]"
   ryšio_patikimumas: "priklause -> Lietuvos Didžioji Kunigaikštystė: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
@@ -326,10 +325,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-181223
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176682|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
-- susijęs iš [[objektai/grupes/Korano giminė.md#claim-t-187779|Korano giminė]]: Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas.
-- susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -378,7 +374,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-42809
@@ -414,7 +409,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-154401
   sudarytojas: "Karolis Zikaras"
@@ -434,7 +429,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-154403
   autorius: "Michał Baliński"
@@ -473,7 +468,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-167921
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -499,7 +494,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-181211
   autorius: "Anoniminis metraštininkas"
@@ -515,7 +510,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-181212
   autorius: "Anoniminis metraštininkas"
@@ -539,7 +534,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-012
 
 - id: c-181213
   autorius: "Anoniminis metraštininkas"
@@ -566,7 +561,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-008
 
 - id: c-181214
   autorius: "Anoniminis metraštininkas"
@@ -590,7 +585,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-181215
   autorius: "Michał Baliński"
@@ -629,7 +624,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-181216
   sudarytojas: "Karolis Zikaras"
@@ -649,7 +644,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-181218
   sudarytojas: "Karolis Zikaras"
@@ -684,7 +679,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-181219
   autorius: "Teodoras Narbutas"
@@ -704,7 +699,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-007
 
 - id: c-181220
   autorius: "Teodoras Narbutas"
@@ -725,7 +720,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-181221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -746,7 +741,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-181222
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -763,7 +758,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-011
 
 - id: c-181223
   autorius: "Anoniminis metraštininkas"
@@ -783,7 +778,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Smolenskas]]
+    - t-013

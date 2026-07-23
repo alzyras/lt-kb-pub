@@ -61,7 +61,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05395"></a>
-- t-005
+- t-001
   teiginys: "Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ media_all_json: |-
     - c-03588
 
 <a id="claim-t-05396"></a>
-- t-006
+- t-002
   teiginys: "Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ media_all_json: |-
     - c-03589
 
 <a id="claim-t-05397"></a>
-- t-007
+- t-003
   teiginys: "Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ media_all_json: |-
     - c-03483
 
 <a id="claim-t-05400"></a>
-- t-010
+- t-004
   teiginys: "Pratarmėje aiškiai teigiama, kad pragmatiškai didaktinį istorijos rašymo būdą turi pakeisti genetinis, priežastinis metodas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ media_all_json: |-
     - c-03587
 
 <a id="claim-t-05401"></a>
-- t-011
+- t-005
   teiginys: "Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -157,8 +157,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-011
+    - t-003
+    - t-005
 
 - id: c-03484
   autorius: "Zenonas Ivinskis"
@@ -199,7 +199,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-03588
   autorius: "Zenonas Ivinskis"
@@ -219,7 +219,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-03589
   autorius: "Zenonas Ivinskis"
@@ -242,7 +242,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-03591
   autorius: "Zenonas Ivinskis"
@@ -252,6 +252,7 @@ media_all_json: |-
     Roma, 1975 m. spalių mėn. 15 d.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

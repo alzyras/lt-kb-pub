@@ -74,7 +74,7 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     - c-60767
 
 <a id="claim-t-194487"></a>
-- t-005
+- t-003
   teiginys: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,14 +84,7 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60767
-- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
-- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-183909|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių kariuomenė beveik 14 dienų žygiavo per Sembą nuo vieno pasienio iki kito ir atsitraukdama patyrė sunkių nuostolių.
-- susijęs iš [[objektai/ivykiai/Aukaimio pilies apylinkių nusiaubimas (1300 m.).md#claim-t-183913|Aukaimio pilies apylinkių nusiaubimas (1300 m.)]]: Po Aukaimio apylinkių nusiaubimo lietuviai besitraukiančius brolius kelis kartus smarkiai puolė, todėl abi šalys patyrė sužeistųjų.
-- susijęs iš [[objektai/ivykiai/Aukaimio pilies apylinkių nusiaubimas (1300 m.).md#claim-t-62199|Aukaimio pilies apylinkių nusiaubimas (1300 m.)]]: 1300 m. brolis Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
-- susijęs iš Aukaimio pilis (pilis): 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
-- susijęs iš Semba: Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.
+
 ## Citatos
 
 - id: c-60767
@@ -112,7 +105,7 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-003
 
 - id: c-167463
   autorius: "Petras Dusburgietis"

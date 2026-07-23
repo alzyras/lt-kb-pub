@@ -84,11 +84,11 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
     klausė Mezijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

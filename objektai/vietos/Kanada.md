@@ -39,7 +39,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 ## Teiginiai
 
 <a id="claim-t-183598"></a>
-- t-003
+- t-001
   teiginys: "Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     - c-166990
 
 <a id="claim-t-188704"></a>
-- t-001
+- t-002
   teiginys: "Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -76,13 +76,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   semantiniai_rysiai: "Huronai gyveno Kanada (0.91)"
   pagrindžia:
     - c-171593
-- susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
-- susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
-- susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
-- susijęs iš Didžioji Britanija: Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
-- susijęs iš Helsinkio Baigiamasis aktas: 1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.
-- susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
-- susijęs iš Meksika: Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.
+
 ## Citatos
 
 - id: c-67726
@@ -120,7 +114,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-171593
   autorius: "Teodoras Narbutas"
@@ -145,7 +139,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

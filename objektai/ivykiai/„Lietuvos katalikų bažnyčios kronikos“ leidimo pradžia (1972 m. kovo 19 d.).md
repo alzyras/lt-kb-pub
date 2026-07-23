@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75312"></a>
-- t-002
+- t-001
   teiginys: "Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-73132
 
 <a id="claim-t-75313"></a>
-- t-003
+- t-002
   teiginys: "„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-73132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -138,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

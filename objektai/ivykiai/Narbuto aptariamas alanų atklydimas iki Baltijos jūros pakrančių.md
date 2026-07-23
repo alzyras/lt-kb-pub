@@ -41,7 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-197547"></a>
-- t-002
+- t-001
   teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,4 +106,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

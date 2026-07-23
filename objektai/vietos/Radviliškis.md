@@ -48,7 +48,7 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43794
-- susijęs iš Ažytėnų ganykla: Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu.
+
 ## Citatos
 
 - id: c-43794

@@ -30,7 +30,7 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
 ## Teiginiai
 
 <a id="claim-t-197276"></a>
-- t-002
+- t-001
   teiginys: "Bandkė turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -58,4 +58,4 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

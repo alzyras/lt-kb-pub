@@ -54,7 +54,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 ## Teiginiai
 
 <a id="claim-t-195260"></a>
-- t-003
+- t-001
   teiginys: "Iešmantas ganė iki 1864 m., vėliau vedė žmoną, pasistatė trobą ir, kaimiečių gerbiamas, pabaigė savo amželį."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -64,7 +64,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     - c-177626
 
 <a id="claim-t-195261"></a>
-- t-001
+- t-002
   teiginys: "Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -74,7 +74,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     - c-177629
 
 <a id="claim-t-195262"></a>
-- t-005
+- t-003
   teiginys: "Iešmantas buvo linksmo būdo ir dainavo savo komponuotas dainas."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -94,7 +94,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     - c-177625
 
 <a id="claim-t-195264"></a>
-- t-002
+- t-005
   teiginys: "Iešmantas nuo mažystės tarnavo piemeniu, vėliau iš piemenų pastojo į kerdžius."
   atnaujinta: "2026-07-12 01:05"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -102,7 +102,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177628
-- susijęs iš [[objektai/paprociai/Kerdžiaus ganymo signalų sistema.md#claim-t-195363|Kerdžiaus ganymo signalų sistema]]: Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti.
+
 ## Citatos
 
 - id: c-177625
@@ -142,7 +142,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177627
   autorius: "M. Katkus"
@@ -158,7 +158,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-177628
   autorius: "M. Katkus"
@@ -174,7 +174,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-177629
   autorius: "M. Katkus"
@@ -194,4 +194,4 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -57,7 +57,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 ## Teiginiai
 
 <a id="claim-t-08804"></a>
-- t-012
+- t-001
   teiginys: "Leidykla nurodoma UAB „ALIO“, leidinį spausdino UAB „Petro ofsetas“, o tiražas siekė 2000 egzempliorių."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "source_intake"
@@ -73,7 +73,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - c-11108
 
 <a id="claim-t-08806"></a>
-- t-009
+- t-002
   teiginys: "Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "source_intake"
@@ -92,7 +92,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - c-11107
 
 <a id="claim-t-08810"></a>
-- t-010
+- t-003
   teiginys: "Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "source_intake"
@@ -108,7 +108,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     - c-11105
 
 <a id="claim-t-08811"></a>
-- t-011
+- t-004
   teiginys: "Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "source_intake"
@@ -144,7 +144,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-11107
   sudarytojas: "Karolis Zikaras"
@@ -164,7 +164,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-11108
   sudarytojas: "Karolis Zikaras"
@@ -195,7 +195,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-11111
   sudarytojas: "Karolis Zikaras"
@@ -216,4 +216,4 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004

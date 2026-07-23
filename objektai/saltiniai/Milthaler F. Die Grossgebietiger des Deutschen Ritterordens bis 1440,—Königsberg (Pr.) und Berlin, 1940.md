@@ -8,13 +8,13 @@ datos:
   - '1940 m.'
 date_start: '1440'
 date_end: '1940'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,11 +63,10 @@ Dusburgietis teigia, kad milthaler F.
     Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg
     (Pr.) und Berlin, 1940.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61814

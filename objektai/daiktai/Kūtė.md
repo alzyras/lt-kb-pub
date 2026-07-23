@@ -83,9 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-10256
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - terminas sutampa su žodyno vartosena, bet šiame gabale aiškiai kalbama apie konkretų gyvulių pastatą.

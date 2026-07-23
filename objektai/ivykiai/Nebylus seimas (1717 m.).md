@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-28789"></a>
-- t-002
+- t-001
   teiginys: "1717 m. Nebyliajam seimui generolas Grigorijus Dolgorukis padiktavo caro norimas bajorijos ir Augusto II susitaikymo sąlygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-28694
 
 <a id="claim-t-28790"></a>
-- t-001
+- t-002
   teiginys: "Nuo Nebyliojo seimo 1717 m. Petro I politika ilgainiui privedė prie Kotrynos II įvykdytų Respublikos padalijimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-28694
   autorius: "Zenonas Ivinskis"
@@ -130,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

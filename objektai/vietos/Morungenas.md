@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Teiginiai
 
 <a id="claim-t-58598"></a>
-- t-002
+- t-001
   teiginys: "Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
     - c-59230
 
 <a id="claim-t-58599"></a>
-- t-001
+- t-002
   teiginys: "1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi perteklinę atribuciją, bet citata palaiko konkretų faktą."
   pagrindžia:
     - c-59231
-- susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
-- susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
+
 ## Citatos
 
 - id: c-59230
@@ -89,7 +88,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59231
   autorius: "Petras Dusburgietis"
@@ -113,7 +112,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]

@@ -195,6 +195,54 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     - c-179349
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
+    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
+    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
+    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
+    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
+    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
+    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
+    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
+    šytojai savo raštuose praleido nenorėdami lyginti su švento­
+    mis dabartinės Romos apeigomis.
+    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
+    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
+    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
+    tvarką (pas Hartknochą, p. 149):
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
+    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
+    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
+    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
+    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
+    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
+    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
+    mada vaipydamiesi, skaitydavo lemties knygą .
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Teodoro Narbuto perteikimu, Pretorijus prūsus ir rusus laikė pirmine viena gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -208,11 +256,29 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
     jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
     krivičiams.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-008
+  santrauka: 'Paimdavo į saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31 Vėjininkai (Wejones) Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama sis savais pastebėjimais, ką buvo matęs savo akimis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
+    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
+    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
+    mi, katinu ir gyvate ir nuskandinti Nemune. Pasirodė tas bajoras rai­
+    tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
+    kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių. Toje vie­
+    toje vanduo ėmęs virti ir suktis verpetu, ir dabar taip daro, tarytum
+    nelaimingosios poros vestuvių ženklam Kai kada naktį, šviečiant mė­
+    nuliui, ji išlipanti į krantą, dainuojanti dainą apie savo nuotykį ir mai­
+    tinanti kūdikį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172924

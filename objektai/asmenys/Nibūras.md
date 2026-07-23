@@ -47,8 +47,7 @@ Teodoras Narbutas cituoja Nibūrą apie pelazgus: „Tai ne prielaida, kalbu kuo
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174331
-- susijęs iš [[objektai/asmenys/Bertoldas Nibūras.md#claim-t-191340|Bertoldas Nibūras]]: Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš istorinio įsitikinimo, o ne remdamasis prielaida.
-- susijęs iš [[objektai/autoriai/Bertoldas Nibūras.md#claim-t-191583|Bertoldas Nibūras]]: Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“.
+
 ## Citatos
 
 - id: c-174331

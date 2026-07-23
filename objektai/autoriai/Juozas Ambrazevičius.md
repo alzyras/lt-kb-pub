@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-183343"></a>
-- t-003
+- t-001
   teiginys: "Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -57,9 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas su pilnu asmens vardu ir be kabutinės fragmentiškos formuluotės."
   pagrindžia:
     - c-166734
-- susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19775|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
-- susijęs iš [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.).md#claim-t-20252|Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
-- susijęs iš Berlynas: Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.
+
 ## Citatos
 
 - id: c-166734
@@ -88,4 +86,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

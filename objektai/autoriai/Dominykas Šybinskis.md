@@ -48,7 +48,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173247
-- susijęs iš [[objektai/autoriai/Dominyko Gabrieliaus Šybinskio.md#claim-t-190334|Dominyko Gabrieliaus Šybinskio]]: Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis.
+
 ## Citatos
 
 - id: c-173247

@@ -27,7 +27,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.

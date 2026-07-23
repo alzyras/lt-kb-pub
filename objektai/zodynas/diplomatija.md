@@ -44,15 +44,7 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38730
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
-- susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija.
-- susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169879|Alfonsas Eidintas]]: Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.
-- susijęs iš [[objektai/grupes/LGGRTC Genocido aukų muziejus.md#claim-t-77827|LGGRTC Genocido aukų muziejus]]: Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.
-- susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05339|Gedimino dinastinė vedybų politika]]: Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
-- susijęs iš 1918–1940 m. Lietuvos žemėlapis: „1918–1940 m. Lietuvos žemėlapis“ nurodytas tarp Mokslo ir enciklopedijų leidybos centro fondų medžiagos.
-- susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m.
-- susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais.
+
 ## Citatos
 
 - id: c-38730

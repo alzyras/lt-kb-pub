@@ -56,7 +56,7 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
   temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą apie Margalio dvikovą."
   pagrindžia:
     - c-41401
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
+
 ## Citatos
 
 - id: c-41401

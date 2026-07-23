@@ -47,9 +47,7 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172343
-- susijęs iš [[objektai/daiktai/Kobolių skiedrų krūva ir sugadintas pienas.md#claim-t-189726|Kobolių skiedrų krūva ir sugadintas pienas]]: Narbutas kobolių apsigyvenimo ženklu laikė naktį pirkios vidury sudėtą skiedrų krūvą ir išmatomis sugadintą pieną.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-188335|Skandinavai]]: Narbutas rašo, kad skandinavams koboliai buvo įkyrios ir irzlios mitinės būtybės, su kuriomis buvo galima kovoti ir jas užmušti.
-- susijęs iš [[objektai/zodynas/Koboliai kobeliai koboldai.md#claim-t-189129|Koboliai kobeliai koboldai]]: Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.
+
 ## Citatos
 
 - id: c-172343

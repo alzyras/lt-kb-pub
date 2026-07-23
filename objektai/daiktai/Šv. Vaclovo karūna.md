@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35569"></a>
-- t-005
+- t-001
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-38231
 
 <a id="claim-t-35570"></a>
-- t-007
+- t-002
   teiginys: "Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-38233
 
 <a id="claim-t-35571"></a>
-- t-006
+- t-003
   teiginys: "Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -168,7 +168,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-38232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -192,7 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-38233
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -211,4 +211,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002

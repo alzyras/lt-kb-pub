@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200500"></a>
-- t-002
+- t-001
   teiginys: "1754 m. karnavalo metu Jonas Dominykas Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-183863
 
 <a id="claim-t-200501"></a>
-- t-001
+- t-002
   teiginys: "Liudvikas Chelchovskis buvo Kauno pavieto stalininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -85,5 +85,5 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -43,7 +43,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 ## Teiginiai
 
 <a id="claim-t-197385"></a>
-- t-002
+- t-001
   teiginys: "O Lietuvoje, garsėjusioje kaip paskutinė pagoniškoji citadelė Europoje, ilgiausiai išlai kiusioje savo senąją religiją ir mitologiją, kuri jau nuo Rene sanso laikų turėjo turtingą tyrinėjimo istoriją, tautinės mito logijos svarba XIX a."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -71,11 +71,11 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
     personažais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -104,4 +104,4 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

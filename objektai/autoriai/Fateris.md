@@ -30,7 +30,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 ## Teiginiai
 
 <a id="claim-t-190351"></a>
-- t-002
+- t-001
   teiginys: "Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė nesusipratimu dėl rusinų, latviškai vadinamų krieviais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
     - c-173234
 
 <a id="claim-t-197290"></a>
-- t-003
+- t-002
   teiginys: "Fateris išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
     - c-173233
 
 <a id="claim-t-197291"></a>
-- t-004
+- t-003
   teiginys: "Fateris kalba apie kadaise buvusį šventą Romovės miestą, kaip apie krivio buveine."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
     - c-179107
 
 <a id="claim-t-197292"></a>
-- t-005
+- t-004
   teiginys: "Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173234
   autorius: "Teodoras Narbutas"
@@ -134,8 +134,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-179107
   autorius: "Teodoras Narbutas"
@@ -160,4 +160,4 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

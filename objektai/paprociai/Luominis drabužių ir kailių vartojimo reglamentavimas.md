@@ -8,10 +8,10 @@ datos:
   - '1629 m.'
 date_start: '1613'
 date_end: '1629'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,9 +59,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
   pagrindžia:
     - c-185679
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

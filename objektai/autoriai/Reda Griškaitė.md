@@ -41,7 +41,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 ## Teiginiai
 
 <a id="claim-t-88040"></a>
-- t-002
+- t-001
   teiginys: "Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     - c-84020
 
 <a id="claim-t-88041"></a>
-- t-001
+- t-002
   teiginys: "Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,15 +87,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173671
-- susijęs iš [[objektai/autoriai/E. Aleksandravičius.md#claim-t-187793|E. Aleksandravičius]]: E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš [[objektai/autoriai/V. Visockas.md#claim-t-187944|V. Visockas]]: V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš [[objektai/autoriai/Z. Kiaupa.md#claim-t-187794|Z. Kiaupa]]: Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
-- susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
-- susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192423|Lietuviai]]: Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą.
-- susijęs iš Mykolas Balinskis kova dėl istorijos: Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.
+
 ## Citatos
 
 - id: c-84019
@@ -115,7 +107,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-84020
   autorius: "Michał Baliński"
@@ -134,7 +126,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173671
   autorius: "Teodoras Narbutas"

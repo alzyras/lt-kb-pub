@@ -8,8 +8,6 @@ datos:
   - '1243 m.'
 date_start: '1242'
 date_end: '1243'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +15,8 @@ tags:
   - karas
   - kunigaikštis
   - pilis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

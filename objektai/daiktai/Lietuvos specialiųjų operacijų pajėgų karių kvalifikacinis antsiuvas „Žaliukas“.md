@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10061"></a>
-- t-004
+- t-001
   teiginys: "„Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir žaliukų telkimusi ginti šalį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md::validation_repair"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-12237
 
 <a id="claim-t-10062"></a>
-- t-003
+- t-002
   teiginys: "„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md::validation_repair"
@@ -107,5 +107,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

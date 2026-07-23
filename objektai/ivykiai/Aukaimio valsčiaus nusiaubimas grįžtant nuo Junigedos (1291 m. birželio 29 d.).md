@@ -7,13 +7,13 @@ datos:
   - '1291 m.'
 date_start: '1291'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62742"></a>
-- t-002
+- t-001
   teiginys: "Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-63518
 
 <a id="claim-t-62743"></a>
-- t-001
+- t-002
   teiginys: "1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-63518
   autorius: "Petras Dusburgietis"
@@ -189,7 +189,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003
     - t-004

@@ -29,7 +29,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 ## Teiginiai
 
 <a id="claim-t-190503"></a>
-- t-002
+- t-001
   teiginys: "Narbutas mano, kad Grunau žinią apie vyriausiuosius žynius veikiausiai paėmė iš vyskupo Kristijono kronikos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
     - c-173386
 
 <a id="claim-t-190504"></a>
-- t-003
+- t-002
   teiginys: "Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173387
   autorius: "Teodoras Narbutas"
@@ -140,4 +140,4 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

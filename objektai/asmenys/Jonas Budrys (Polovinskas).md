@@ -44,11 +44,7 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26672
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169965|Ernestas Galvanauskas]]: Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183160|Lietuvos kariuomenė]]: Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26842|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-- susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-- susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
+
 ## Citatos
 
 - id: c-26672

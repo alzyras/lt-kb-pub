@@ -6,7 +6,7 @@ variantai:
   - 'balana'
   - 'skala'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -76,9 +76,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Balanos šipuliukas.md#claim-t-195355|Balanos šipuliukas]]: Mažas smaigas, ant kurio pasmeigiamos bulvės valgant garstyčninką.
-- susijęs iš [[objektai/daiktai/Spragilas.md#claim-t-195299|Spragilas]]: Spragilas minimas tarp senosios kaimo buities įrankių kaip javų kūlimo priemonė.
-- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.
-- susijęs iš [[objektai/posakiai/kada Lietuvos žmonės balana (skala) švietėsi.md#claim-t-195411|kada Lietuvos žmonės balana (skala) švietėsi]]: Autorius senąją gadynę nusako įsimintina apibendrinančia formule.

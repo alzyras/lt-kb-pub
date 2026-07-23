@@ -41,7 +41,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Teiginiai
 
 <a id="claim-t-71970"></a>
-- t-003
+- t-001
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     - c-43893
 
 <a id="claim-t-71972"></a>
-- t-001
+- t-003
   teiginys: "Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -94,62 +94,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-70435
-- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
-- susijęs iš [[objektai/asmenys/Juozapas Kosakovskis.md#claim-t-19012|Juozapas Kosakovskis (vyskupas)]]: Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.
-- susijęs iš [[objektai/asmenys/Simonas Kosakovskis.md#claim-t-19229|Simonas Kosakovskis]]: Simonas Kosakovskis 1792 m. vadovavo Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai.
-- susijęs iš [[objektai/grupes/Jakobinų klubas.md#claim-t-19717|Jakobinų klubas]]: Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą.
-- susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182712|Targovicos konfederacija]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
-- susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182713|Targovicos konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
-- susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182926|Targovicos konfederacija]]: Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.
-- susijęs iš [[objektai/grupes/Vilniaus konfederacija.md#claim-t-20071|Vilniaus konfederacija]]: Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183209|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66435|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183207|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20132|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų pakorimas Varšuvoje birželio 28 d.
-- susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20173|Brastos pasipriešinimas 1792 m. kare]]: 1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, bet liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66684|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: 1792 m. liepos 24 d. karalius S. A. Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos ir įsakė kariuomenei sudėti ginklus.
-- susijęs iš [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje.md#claim-t-20514|Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
-- susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66929|Targovicos konfederacija (1792—1793 m.)]]: Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.
-- susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66931|Targovicos konfederacija (1792—1793 m.)]]: Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.
-- susijęs iš [[objektai/ivykiai/Targovicos konfederacijos akto paskelbimas.md#claim-t-77908|Targovicos konfederacijos akto paskelbimas]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
-- susijęs iš [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai.md#claim-t-20537|Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]: 1792 m. birželio 25 d. Vilniaus, arba Lietuvos, konfederacija pritarė Targovicos konfederacijai.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-183329|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.
-- susijęs iš Targovicos konfederacijos aktas (1792 m.): Targovicos konfederacija taip vadinama dėl vietos, kurioje buvo paskelbtas jos aktas.
-- susijęs iš Targovicos konfederacijos aktas (1792 m.): Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.
-- susijęs iš Targovicos konfederacijos aktas: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
-- susijęs iš Brasta: 1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos.
-- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75847|Ignotas Masalskis]]: 1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.
-- susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170049|Jekaterina II]]: Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.
-- susijęs iš [[objektai/asmenys/Juozapas Kosakovskis.md#claim-t-19013|Juozapas Kosakovskis (vyskupas)]]: Juozapas Kosakovskis, Livonijos vyskupas, 1792 m. vadovavo Vilniaus konfederacijai kartu su Simonu Kosakovskiu ir I. Masalskiu.
-- susijęs iš [[objektai/asmenys/Liudvikas XVI.md#claim-t-19111|Liudvikas XVI]]: 1793 m. sausio 21 d. Prancūzijoje buvo nukirsdintas Liudvikas XVI, o sausio 23 d. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą.
-- susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170087|Stanislovas Augustas Poniatovskis (valdovas)]]: 1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.
-- susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107734|Edukacinė Komisija]]: Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107739|Edukacinė Komisija]]: Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107742|Edukacinė Komisija]]: Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.
-- susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-74186|Ketverių metų seimas]]: Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.
-- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66078|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.
-- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66079|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos.
-- susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71721|1792 m. LLV ir Rusijos karas]]: 1792 m. birželio 14 d. Vilnius buvo atiduotas be kovos, o liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją.
-- susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71722|1792 m. LLV ir Rusijos karas]]: Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-- susijęs iš [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.).md#claim-t-66451|Antrasis Respublikos padalinimas (1793 m.)]]: 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54325|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: 1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54326|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Kai kurių Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
-- susijęs iš Jekaterinos II nota Stanislovui Augustui (1792 m. liepos 21 d.): 1792 m. liepos 23 d. Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir priimti Jekaterinos II notą.
-- susijęs iš Lietuvos sukilėlių atsišaukimas į valstiečius (1794 m.): 1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę.
-- susijęs iš Gardinas: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
-- susijęs iš Peterburgas: Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.
-- susijęs iš Polockas: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.
-- susijęs iš Prūsija: 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo.
-- susijęs iš Prūsija: 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo.
-- susijęs iš Rusija: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.
-- susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
-- susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
-- susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš Vilnius: Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos.
-- susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/zodynas/jakobinizmas jakobinų klubas.md#claim-t-22172|jakobinizmas jakobinų klubas]]: Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.
-- susijęs iš [[objektai/zodynas/jakobinizmas.md#claim-t-22173|jakobinizmas]]: Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.
+
 ## Citatos
 
 - id: c-43893
@@ -197,5 +142,5 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-003

@@ -30,7 +30,7 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
 ## Teiginiai
 
 <a id="claim-t-185267"></a>
-- t-002
+- t-001
   teiginys: "Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,6 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168628
@@ -96,4 +95,4 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

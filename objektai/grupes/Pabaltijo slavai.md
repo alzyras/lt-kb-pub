@@ -109,11 +109,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172347
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190288|Tadas Volianskis]]: Narbutas perteikė Tado Volianskio pastabą, kad Smilginio 1475 m. antspaudo žąsis primena Pabaltijo slavų būrimą žirgu.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190805|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas.
-- susijęs iš [[objektai/paprociai/Kurcho garbinimas Pabaltijo slavų ir galimai kuršių kontekste.md#claim-t-193032|Kurcho garbinimas Pabaltijo slavų ir galimai kuršių kontekste]]: Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas siejo su derliumi, vaisiais ir daržininkyste.
-- susijęs iš [[objektai/paprociai/Pabaltijo slavų Kurcho garbinimas.md#claim-t-193037|Pabaltijo slavų Kurcho garbinimas]]: Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas vadino derliaus, vaisių ir daržininkystės dievuku.
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190980|Tadas Volianskis]]: Tadas Volianskis Narbutui pateikė numizmatinio radinio piešinį ir aprašė auksinį medalioną, jo siejamą su Samboru, vadintu Kurchu.
+
 ## Citatos
 
 - id: c-172346
@@ -198,6 +194,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   citata_rodoma: "Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)\nskersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­\nliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­\nkas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

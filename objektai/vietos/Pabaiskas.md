@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-171924"></a>
-- t-014
+- t-001
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-156384
 
 <a id="claim-t-171926"></a>
-- t-008
+- t-002
   teiginys: "Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-156380
 
 <a id="claim-t-171927"></a>
-- t-007
+- t-003
   teiginys: "Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ media_all_json: |-
     - c-156381
 
 <a id="claim-t-171929"></a>
-- t-009
+- t-004
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ media_all_json: |-
     - c-156379
 
 <a id="claim-t-171930"></a>
-- t-010
+- t-005
   teiginys: "Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ media_all_json: |-
     - c-156379
 
 <a id="claim-t-193778"></a>
-- t-015
+- t-007
   teiginys: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -154,15 +154,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176431
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114108|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66815|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.
-- susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
-- susijęs iš Kščeniškiai: Pabaiskas buvo už pusės mylios nuo Kščeniškių ir per 2 varstus į kairę nuo Vilniaus–Ukmergės pašto trakto.
-- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66815|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114108|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią.
+
 ## Citatos
 
 - id: c-156379
@@ -186,7 +178,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
     - t-006
 
 - id: c-156380
@@ -218,8 +210,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
+    - t-002
+    - t-005
 
 - id: c-156381
   autorius: "Michał Baliński"
@@ -249,7 +241,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-156384
   autorius: "Michał Baliński"
@@ -275,7 +267,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-001
 
 - id: c-176431
   sudarytojas: "Karolis Zikaras"
@@ -299,4 +291,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-007

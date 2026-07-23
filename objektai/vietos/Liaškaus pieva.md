@@ -53,6 +53,7 @@ Liaškaus pieva šiame šaltinyje yra pieva.
   citata_rodoma: "Mūsiškiai girdėjo anuos \nnusijuokiant ir patys nusijuokė. Vienas pastebėjo: „Tai iš Liaškaus \npievos“ ."
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

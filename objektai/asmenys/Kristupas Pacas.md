@@ -31,7 +31,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ## Teiginiai
 
 <a id="claim-t-79090"></a>
-- t-004
+- t-001
   teiginys: "Kancleris Kristupas Pacas vadovavo Pacų šeimai ir Lietuvos politikai, taip pat pastatė Pažaislio vienuolyną prie Kauno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     - c-76184
 
 <a id="claim-t-79091"></a>
-- t-005
+- t-002
   teiginys: "Jonui Kazimierui atsisakant sosto, Kristupas Pacas buvo vienas iš Lietuvoje vadovavusių Pacų ir ėjo kanclerio pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,10 +63,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-76183
-- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200862|Steponas Kristupas Pacas]]: Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karmelitams pastatydino Šv. Teresės bažnyčią Vilniuje.
-- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
-- susijęs iš Šv. Teresės bažnyčia: Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas.
-- susijęs iš Antverpenas: Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus.
+
 ## Citatos
 
 - id: c-76182
@@ -87,7 +84,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-76183
   sudarytojas: "Karolis Zikaras"
@@ -131,4 +128,4 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

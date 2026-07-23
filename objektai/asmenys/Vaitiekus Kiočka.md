@@ -30,7 +30,7 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 ## Teiginiai
 
 <a id="claim-t-196614"></a>
-- t-002
+- t-001
   teiginys: "Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -57,11 +57,12 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
     gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
     mas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
+    - t-003
 
 ## Citatos
 
@@ -105,4 +106,4 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

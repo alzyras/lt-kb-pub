@@ -30,7 +30,7 @@ Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinus�
 ## Teiginiai
 
 <a id="claim-t-197345"></a>
-- t-002
+- t-001
   teiginys: "Perrašau jį ištisai, ka dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -64,4 +64,4 @@ Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

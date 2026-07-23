@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66690"></a>
-- t-004
+- t-001
   teiginys: "Ją sudarė 35 visoje Lietuvoje žinomi inteligentai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-166643
 
 <a id="claim-t-183256"></a>
-- t-006
+- t-003
   teiginys: "1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje lietuvių inteligentų būrys įsteigė Lietuvos Persitvarkymo Sąjūdžio iniciatyvinę grupę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -161,5 +161,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-001
+    - t-003

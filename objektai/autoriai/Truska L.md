@@ -38,7 +38,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 ## Teiginiai
 
 <a id="claim-t-19483"></a>
-- t-002
+- t-001
   teiginys: "L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
     - c-22201
 
 <a id="claim-t-19484"></a>
-- t-001
+- t-002
   teiginys: "L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -106,4 +106,4 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

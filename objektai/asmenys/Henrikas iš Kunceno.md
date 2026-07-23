@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - c-60605
 
 <a id="claim-t-59974"></a>
-- t-003
+- t-002
   teiginys: "Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - c-60607
 
 <a id="claim-t-59975"></a>
-- t-002
+- t-003
   teiginys: "Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - c-60607
 
 <a id="claim-t-194488"></a>
-- t-005
+- t-004
   teiginys: "Apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-60606
   autorius: "Petras Dusburgietis"
@@ -144,8 +144,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003
 
 ## Ryšiai
 - Henrikas iš Kunceno keliavo į [[objektai/vietos/Prūsija]]

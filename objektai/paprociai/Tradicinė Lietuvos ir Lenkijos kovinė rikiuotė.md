@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09548"></a>
-- t-005
+- t-001
   teiginys: "XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-12309
 
 <a id="claim-t-09550"></a>
-- t-004
+- t-002
   teiginys: "XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -106,7 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-12309
   sudarytojas: "Karolis Zikaras"
@@ -127,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

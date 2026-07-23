@@ -73,11 +73,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167097
-- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-183690|Vytauto ženklas]]: Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.
-- susijęs iš [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-40805|Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
-- susijęs iš [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-39319|Žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos yra XIV a. pabaigos-XV a. rekonstrukcija.
-- susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-39323|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.
-- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78882|chanas]]: Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.
+
 ## Citatos
 
 - id: c-44163

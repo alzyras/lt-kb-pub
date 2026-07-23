@@ -7,12 +7,12 @@ datos:
   - '1679 m.'
 date_start: '1679'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

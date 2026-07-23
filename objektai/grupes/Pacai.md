@@ -105,17 +105,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184103
-- susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
-- susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
-- susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-40861|Bajorų konfederacija]]: Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.
-- susijęs iš [[objektai/grupes/Lenkijos bajorų partija.md#claim-t-74048|Lenkijos bajorų partija]]: Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-200759|Radvilos]]: Vorobjovo vertinimu, Radvilos kartu su Pacais ir Sapiegomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
-- susijęs iš [[objektai/grupes/Sapiegos.md#claim-t-200760|Sapiegos]]: Sapiegos kartu su Pacais ir Radvilomis minimi kaip vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
-- susijęs iš [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.).md#claim-t-41380|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]: Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.
-- susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
-- susijęs iš [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu.md#claim-t-67152|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]: Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.
-- susijęs iš [[objektai/zodynas/elektorius.md#claim-t-02988|elektorius]]: Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.
-- susijęs iš [[objektai/zodynas/elektorius.md#claim-t-182944|elektorius]]: Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.
+
 ## Citatos
 
 - id: c-66306

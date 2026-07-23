@@ -72,9 +72,7 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-45125
-- susijęs iš Griniūnai: Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus.
-- susijęs iš Ašagardas: Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus.
-- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38708|bendrasis rezervas]]: Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.
+
 ## Citatos
 
 - id: c-45125

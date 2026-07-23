@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54178"></a>
-- t-007
+- t-001
   teiginys: "Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-55111
 
 <a id="claim-t-54179"></a>
-- t-005
+- t-002
   teiginys: "Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-11890
 
 <a id="claim-t-54180"></a>
-- t-006
+- t-003
   teiginys: "Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Nenurodyta
     - c-11891
 
 <a id="claim-t-54181"></a>
-- t-008
+- t-004
   teiginys: "Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -127,9 +127,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-11890
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
-- susijęs iš [[objektai/zodynas/artilerijos pasala.md#claim-t-42432|artilerijos pasala]]: Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
+
 ## Citatos
 
 - id: c-11890
@@ -152,8 +150,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-002
+    - t-004
 
 - id: c-11891
   sudarytojas: "Karolis Zikaras"
@@ -174,7 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-55111
   sudarytojas: "Karolis Zikaras"
@@ -196,4 +194,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001

@@ -8,13 +8,13 @@ datos:
   - '1413 m.'
 date_start: '1412'
 date_end: '1413'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -79,7 +79,6 @@ Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176209

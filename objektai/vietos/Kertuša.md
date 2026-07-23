@@ -57,7 +57,7 @@ media_all_json: |-
     - c-79862
 
 <a id="claim-t-83566"></a>
-- t-003
+- t-002
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ media_all_json: |-
     - c-79860
 
 <a id="claim-t-83567"></a>
-- t-002
+- t-003
   teiginys: "Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,16 +87,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-79860
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
-- susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
-- susijęs iš Šesarka: Pabaisko parapijos riba ėjo iki Šesarkos upės, kur ties Skočiūnų dvaru Šešulka įteka į Šventąją.
-- susijęs iš Šešulka: Šešulka ties Skočiūnų dvaru įteka į Šventąją.
-- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
-- susijęs iš Širvinta: Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.
-- susijęs iš Širvinta: Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
+
 ## Citatos
 
 - id: c-79860
@@ -127,8 +118,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003
 
 - id: c-79862
   sudarytojas: "Karolis Zikaras"

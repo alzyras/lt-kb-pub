@@ -44,11 +44,7 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26666
-- susijęs iš [[objektai/asmenys/Stanislovas Narutavičius.md#claim-t-75999|Stanislovas Narutavičius]]: Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys.
-- susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108751|J. Pilsudskis]]: J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101674|Juzefas Pilsudskis]]: Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
-- susijęs iš [[objektai/asmenys/Stanislovas Narutavičius.md#claim-t-75999|Stanislovas Narutavičius]]: Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
+
 ## Citatos
 
 - id: c-26666

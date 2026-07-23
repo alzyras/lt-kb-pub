@@ -30,7 +30,7 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
 ## Teiginiai
 
 <a id="claim-t-197363"></a>
-- t-003
+- t-001
   teiginys: "Bentis (Bentis) Tai buvo ypatingos paskirties keleivių dievaitis: jo darbas buvo užmegzti draugystę tarp nepažįstamų ir svetimų žmonių - keleivių, kurie susiėjo kelyje arba išsirengė į kelionę viena kryptimi."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -88,4 +88,4 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

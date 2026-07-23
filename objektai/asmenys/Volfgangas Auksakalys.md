@@ -56,8 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas faktas apie Volfgangą Auksakalį ir paremtas citata."
   pagrindžia:
     - c-83866
-- susijęs iš [[objektai/asmenys/Štagelis.md#claim-t-87935|Štagelis]]: Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.
-- susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
+
 ## Citatos
 
 - id: c-83866

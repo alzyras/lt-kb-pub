@@ -35,7 +35,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 ## Teiginiai
 
 <a id="claim-t-179681"></a>
-- t-002
+- t-001
   teiginys: "Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
     - c-163348
 
 <a id="claim-t-183842"></a>
-- t-003
+- t-002
   teiginys: "Sofija buvo Vytauto duktė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -71,9 +71,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-167227
-- susijęs iš Bieloviežo giria: Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.
-- susijęs iš Bieloviežo giria: Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.
-- susijęs iš Žemaičių žemė: Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.
+
 ## Citatos
 
 - id: c-163348
@@ -98,7 +96,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167227
   autorius: "Michał Baliński"
@@ -120,7 +118,4 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-
-## Ryšiai
-- Sofija keliavo į [[objektai/vietos/Pernu]]
+    - t-002

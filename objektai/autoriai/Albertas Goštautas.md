@@ -7,16 +7,16 @@ datos:
   - '1529 m.'
 date_start: '1529'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - pareigūnas
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,6 @@ A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176760
@@ -79,6 +78,7 @@ A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarp
   citata_rodoma: "O Bychovco kronikoje iš \nto paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­\nvilko fragmentai.\nTurime taip pat išlikusį ir neginčijamai paties Al­\nberto Goštauto literatūrinės kūrybos pavyzdį — Žygi­\nmanto II Kazimieraičio pagyrimą, parašytą 1529 m. \nLietuvos Didžiosios Kunigaikštystės teisės kodekso —  \nI-jo Lietuvos Statuto priėmimo proga 5 7 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

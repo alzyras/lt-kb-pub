@@ -51,7 +51,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     - c-174100
 
 <a id="claim-t-197779"></a>
-- t-003
+- t-002
   teiginys: "2 Vidit enim eques Romanus missus ad id compar atidų m a Ju liana curante gladiatorium mumis Neronis principis, qui haec commercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia investa, ut retta arcendis feris podium protegentia succinis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     - c-177314
 
 <a id="claim-t-201017"></a>
-- t-004
+- t-003
   teiginys: "Jau pirmajame amžiuj gimus Kristui ne vien pa ti žemė gintarų, bet ir keliai, kuriais gaunami buvo, rados žinomi, kaipogi Neronas, viešpats Rymo, siun tė tyčioms savo eržilą gintarų į Žemaičių žemę pirk ti, kursai, kely metus sutrukęs, sugrįžo ir ne vien patį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -73,10 +73,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184367
-- susijęs iš [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro.md#claim-t-191026|Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]: Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro.
-- susijęs iš [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro.md#claim-t-191027|Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]: Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru.
-- susijęs iš Giaros sala: Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį.
-- susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug gintaro, norėdamas Romai parodyti prašmatnų reginį.'
@@ -96,7 +93,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174100
@@ -145,7 +141,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-184367
   autorius: "Simonas Daukantas"
@@ -177,7 +173,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Neronas siuntė į [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]

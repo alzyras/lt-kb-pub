@@ -7,15 +7,15 @@ datos:
   - '1998 m.'
 date_start: '1998'
 date_end: ''
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187794"></a>
-- t-002
+- t-001
   teiginys: "Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -96,11 +96,10 @@ Nenurodyta
     Įvedamasis straipsnis, paaiškinimai,
     papildymų vertimas, Reda Griškaitė,
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170736
@@ -118,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

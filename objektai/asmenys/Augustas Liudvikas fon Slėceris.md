@@ -7,15 +7,15 @@ datos:
   - '1000 m.'
 date_start: '1000'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'X'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - asmuo
+amziai:
+  - 'X'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-173997
 
 <a id="claim-t-191117"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašo, kad Slėceris juoko vertu dalyku laikė krivičių siejimą su prūsų vyriausiuoju kunigu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-173999
 
 <a id="claim-t-191118"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-174000
 
 <a id="claim-t-191119"></a>
-- t-005
+- t-004
   teiginys: "Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-174001
 
 <a id="claim-t-191120"></a>
-- t-006
+- t-005
   teiginys: "Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-174002
 
 <a id="claim-t-191942"></a>
-- t-007
+- t-006
   teiginys: "Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-174824
 
 <a id="claim-t-197713"></a>
-- t-008
+- t-007
   teiginys: "Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin ti tokius vaizdinius, Slėceris labai teisingai priskiria sunkumus, su kuriais, norėdami gauti tam tikrų žinių, keliautojai susiduria net ir labiausiai apsišvietusiuose kraštuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -183,10 +183,10 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­
     ties.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -201,11 +201,11 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
     atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-007
 
 ## Citatos
 
@@ -253,7 +253,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-174000
   autorius: "Teodoras Narbutas"
@@ -273,7 +273,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-174001
   autorius: "Teodoras Narbutas"
@@ -293,7 +293,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-174002
   autorius: "Teodoras Narbutas"
@@ -318,7 +318,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-174824
   autorius: "Teodoras Narbutas"
@@ -344,5 +344,5 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-007
-    - t-008

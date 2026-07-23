@@ -47,7 +47,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 ## Teiginiai
 
 <a id="claim-t-195034"></a>
-- t-005
+- t-001
   teiginys: "Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - c-177405
 
 <a id="claim-t-195035"></a>
-- t-004
+- t-002
   teiginys: "Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - c-177405
 
 <a id="claim-t-195036"></a>
-- t-002
+- t-003
   teiginys: "Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - c-177405
 
 <a id="claim-t-195037"></a>
-- t-003
+- t-004
   teiginys: "Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - c-177405
 
 <a id="claim-t-195038"></a>
-- t-001
+- t-005
   teiginys: "Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,10 +128,10 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
     - t-002
     - t-003
+    - t-004
 
 - id: c-177406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -155,4 +155,4 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005

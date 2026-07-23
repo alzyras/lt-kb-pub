@@ -61,20 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66822
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55111|Šubravcų draugija]]: Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.
-- susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
-- susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
-- susijęs iš Šubravcų draugijos kodeksas: XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais.
-- susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
-- susijęs iš [[objektai/asmenys/Fabianas (Varmės vyskupas).md#claim-t-87666|Fabianas (Varmės vyskupas)]]: Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173308|Žygimantas Senasis]]: 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173329|Žygimantas Senasis]]: 1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.
-- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/ivykiai/I Lietuvos Statuto priėmimas.md#claim-t-187472|I Lietuvos Statuto priėmimas]]: Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga.
-- susijęs iš Monumenta Poloniae Vaticana: „Monumenta Poloniae Vaticana“ leidimas nutrūko 1950 m., kai Lenkų Liaudies Respublikoje buvo perorganizuotas istorijos mokslas.
-- susijęs iš Spectator: Anglijoje leidžiamo žurnalo Spectator tradicijas.
-- susijęs iš Žygimanto Senojo laiškas Andriui Kopernikui dėl Varmės kapitulos (1514 m. gegužės 6 d.): Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.
-- susijęs iš [[objektai/zodynas/statutas.md#claim-t-100291|statutas]]: Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.
+
 ## Citatos
 
 - id: c-66822

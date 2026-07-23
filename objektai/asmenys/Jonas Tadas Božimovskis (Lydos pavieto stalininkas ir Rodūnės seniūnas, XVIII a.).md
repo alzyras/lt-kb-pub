@@ -73,7 +73,7 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183872
-- susijęs iš Rodūnė: 1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
+
 ## Citatos
 
 - id: c-183872

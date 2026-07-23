@@ -86,7 +86,7 @@ Nenurodyta
     - c-14351
 
 <a id="claim-t-192068"></a>
-- t-005
+- t-003
   teiginys: "Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-174939
 
 <a id="claim-t-192069"></a>
-- t-003
+- t-004
   teiginys: "Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-174938
 
 <a id="claim-t-192070"></a>
-- t-004
+- t-005
   teiginys: "Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -144,31 +144,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185692
-- susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184264|Jogaila (kunigaikštis, XIV–XV a.)]]: Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės.
-- susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
-- susijęs iš [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys).md#claim-t-60407|Petras (Hermano iš Lichtenburgo nuodėmklausys)]]: Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.
-- susijęs iš [[objektai/daiktai/Karacenos šarvų komplektas.md#claim-t-40724|Karacenos šarvų komplektas]]: Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10151|Karinė ginkluotė]]: XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10153|Karinė ginkluotė]]: XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.
-- susijęs iš [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai.md#claim-t-40733|Kristupo Mikalojaus Radvilos Perkūno šarvai]]: Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.
-- susijęs iš [[objektai/posakiai/dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį.md#claim-t-189558|dievų valia visi turi be ginklų ir be jokių šarvų užpulti Mazovijos šalį]]: Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
-- susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10152|Karinė ginkluotė]]: Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78663|Karinė ginkluotė]]: Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
-- susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09538|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.
-- susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09539|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Po operacijų išduota ginkluotė turėjo būti grąžinama.
-- susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09540|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine.
-- susijęs iš Mazovija: Narbutas pasakojo, kad pranašė paskelbė dievų valią be ginklų pulti Mazoviją, kur esą laukė didelis laimikis.
-- susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
-- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49272|husarai]]: Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.
-- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49274|husarai]]: Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49288|petihorai]]: Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49290|petihorai]]: Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.
+
 ## Citatos
 
 - id: c-14350
@@ -213,7 +189,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-005
 
 - id: c-174938
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -234,7 +210,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-174939
   autorius: "Teodoras Narbutas"
@@ -253,7 +229,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-174940
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

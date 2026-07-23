@@ -29,7 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200475"></a>
-- t-002
+- t-001
   teiginys: "1751 m. Juozapas Tiškevičius atvyko į Vilnių kartu su Ona Pociejūte Tiškevičiene."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-183847
 
 <a id="claim-t-200476"></a>
-- t-001
+- t-002
   teiginys: "Juozapas Tiškevičius buvo Vilniaus tijūnas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -75,8 +75,8 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 - Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.) keliavo į [[objektai/vietos/Vilnius]]

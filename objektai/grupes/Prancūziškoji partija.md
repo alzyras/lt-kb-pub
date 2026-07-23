@@ -69,7 +69,7 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-175883
-- susijęs iš [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.).md#claim-t-01635|Jono Sobieskio elekcija (1674 m.)]]: Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.
+
 ## Citatos
 
 - id: c-66369

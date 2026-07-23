@@ -36,7 +36,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 ## Teiginiai
 
 <a id="claim-t-70357"></a>
-- t-002
+- t-001
   teiginys: "1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,11 +53,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus."
   pagrindžia:
     - c-166871
-- susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
-- susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75752|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75756|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu.
-- susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40858|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.
+
 ## Citatos
 
 - id: c-166871
@@ -81,4 +77,4 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -43,10 +43,3 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
-## Teiginiai
-
-- susijęs iš Davidgorodokas: Gorodokas veikiausiai tapatinamas su Davidgorodoku.
-- susijęs iš Davidgorodokas: Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.
-- susijęs iš Davidgorodokas: Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.
-- susijęs iš Sluckas: Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.

@@ -9,16 +9,16 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - didikas
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 ## Teiginiai
 
 <a id="claim-t-113785"></a>
-- t-006
+- t-001
   teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104972
 
 <a id="claim-t-113786"></a>
-- t-005
+- t-002
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104969
 
 <a id="claim-t-113787"></a>
-- t-001
+- t-003
   teiginys: "Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104970
 
 <a id="claim-t-113788"></a>
-- t-002
+- t-004
   teiginys: "Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104973
 
 <a id="claim-t-113789"></a>
-- t-003
+- t-005
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104969
 
 <a id="claim-t-184707"></a>
-- t-007
+- t-006
   teiginys: "Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-168068
 
 <a id="claim-t-184708"></a>
-- t-008
+- t-007
   teiginys: "Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-168069
 
 <a id="claim-t-184709"></a>
-- t-009
+- t-008
   teiginys: "Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -182,84 +182,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) paskyrė Goštautas (vyskupas, XV a.) (0.96); Algirdas (Lietuvos valdovas) valdė teritoriją Podolė (0.92); Podolė priklausė Lietuva (0.86); Goštautas (vyskupas, XV a.) valdė teritoriją Podolė (0.78)"
   pagrindžia:
     - c-168070
-- susijęs iš [[objektai/asmenys/H. Goštautas.md#claim-t-39734|H. Goštautas]]: Karininkas H. Goštautas vadovavo husarų eskadrono būriui.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173211|Petras Goštautas]]: Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184821|Petras Goštautas]]: Kojelavičiaus pasakojime Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti aikštėje, kur jie skelbė Kristaus žodį.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54992|Petras Goštautas]]: Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
-- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-81901|Grzybowski]]: Grzybowskis teigė, kad Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į Kristaus tikėjimą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172927|M. Strijkovskis Stryjkowski]]: Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.
-- susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
-- susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88009|Stryjkowski Strijkovskis]]: Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.
-- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
-- susijęs iš [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės.md#claim-t-55118|Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]: Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186626|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186627|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.
-- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
-- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
-- susijęs iš Podolė: Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.
-- susijęs iš Podolė: Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš Podolė: Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/zodynas/luomai.md#claim-t-185358|luomai]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184620|luomas]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
-- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186021|Vladislovas (karalius, Kazimiero brolis)]]: Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.
-- susijęs iš [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra.md#claim-t-54729|Tiltai, jazai ir vandens infrastruktūra]]: 1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis.
-- susijęs iš [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis.md#claim-t-87096|Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]: 1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108289|Pranciškonų ordinas]]: Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108327|Pranciškonų ordinas]]: Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-184577|Pranciškonų ordinas]]: Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187741|Pranciškonų ordinas]]: Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
-- susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55096|Vilniaus prastuomenė]]: Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
-- susijęs iš [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.).md#claim-t-185756|Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]: Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.
-- susijęs iš [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių.md#claim-t-186572|Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]: Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje.
-- susijęs iš [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo.md#claim-t-186568|Vilniečių nubaudimas po pranciškonų nužudymo]]: Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti.
-- susijęs iš [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo.md#claim-t-186570|Vilniečių nubaudimas po pranciškonų nužudymo]]: Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.
-- susijęs iš [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje.md#claim-t-185792|Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]: Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
-- susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.
-- susijęs iš Alšėnai: Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.
-- susijęs iš Krokuva: Grzybowskio teigimu, Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į krikščionybę.
-- susijęs iš Palenkė: Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.
-- susijęs iš Podolė: Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.
-- susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.
-- susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
-- susijęs iš Tikocinas: Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.
-- susijęs iš Ulriko Hozijaus tiltas per Viliją: 1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vilija: Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vingrių pelkė: Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti šv. Mergelės Marijos bažnyčią.
-- susijęs iš Šv. Petro bažnyčia Antakalnyje: Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.
-- susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187543|pagonys]]: Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius.
-- susijęs iš [[objektai/zodynas/regula.md#claim-t-82094|regula]]: Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.
-- susijęs iš [[objektai/zodynas/seniūnas.md#claim-t-187529|seniūnas]]: Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.
-- susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185395|stabmeldžių apeigos]]: Kojelavičiaus pasakojime Goštauto globojami vienuoliai Vilniuje stengėsi įveikti stabmeldžių prietarus.
-- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-187532|vaivada]]: Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.
-- susijęs iš Vilniaus tiltas per Viliją: 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
@@ -299,7 +222,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-104969
@@ -330,8 +252,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-005
-    - t-003
 
 - id: c-104970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -353,7 +275,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-104972
   autorius: "Michał Baliński"
@@ -410,7 +332,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-104973
   autorius: "Michał Baliński"
@@ -440,7 +362,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-168068
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -468,7 +390,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-168069
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -497,7 +419,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-168070
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -526,7 +448,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 ## Ryšiai
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

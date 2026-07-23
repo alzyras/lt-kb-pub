@@ -32,7 +32,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 <a id="claim-t-188957"></a>
 - t-001
   teiginys: "Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilučių saugoma Amžinoji ugnis."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

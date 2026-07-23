@@ -70,7 +70,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169430
 
 <a id="claim-t-193507"></a>
-- t-005
+- t-004
   teiginys: "Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169429
 
 <a id="claim-t-193508"></a>
-- t-006
+- t-005
   teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169430
 
 <a id="claim-t-201013"></a>
-- t-008
+- t-006
   teiginys: "Tie atėjūnai turėjo su savim kunigą, vardu Meinhardą, augustijonį, noris apsenį vyrą, bet didį gei dulį Evangelijos platinimo, neskundžiantį nei darbo, nei žygio, nei sveikatos dėl padauginimo skaitliaus krikščionų, kursai, pramokęs tenai kalbos, pradėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -196,7 +196,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004
 
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -243,7 +243,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-006
+    - t-005
 
 - id: c-184363
   autorius: "Simonas Daukantas"
@@ -270,4 +270,4 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006

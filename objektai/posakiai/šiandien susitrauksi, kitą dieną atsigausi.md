@@ -60,6 +60,7 @@ Patariamoji formulė apie susilaikymo ir atsistatymo kaitą.
   citata_rodoma: "Arba: šiandien susitrauksi, kitą dieną atsigausi."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

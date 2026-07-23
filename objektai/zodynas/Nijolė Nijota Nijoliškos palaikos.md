@@ -30,7 +30,7 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
 ## Teiginiai
 
 <a id="claim-t-189165"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad jo apylinkės valstiečiai po Velykų pusryčio surinktus ir užkastus kaulus vadino Nijoliszkas Palajkas, arba Nijolės palaikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,4 +88,4 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

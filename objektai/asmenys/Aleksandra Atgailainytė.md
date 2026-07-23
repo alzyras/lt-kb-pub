@@ -44,7 +44,7 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41279
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41118|Prisikėlimo apygarda]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.
+
 ## Citatos
 
 - id: c-41279

@@ -39,7 +39,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Teiginiai
 
 <a id="claim-t-103839"></a>
-- t-005
+- t-001
   teiginys: "Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-96904
 
 <a id="claim-t-103840"></a>
-- t-003
+- t-002
   teiginys: "Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-32682
 
 <a id="claim-t-103841"></a>
-- t-001
+- t-003
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-96904
 
 <a id="claim-t-103843"></a>
-- t-002
+- t-005
   teiginys: "Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-32682
   autorius: "Zenonas Ivinskis"
@@ -163,7 +163,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-96904
   autorius: "Zenonas Ivinskis"
@@ -185,7 +185,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
     - t-004
 
 - id: c-96906
@@ -207,4 +207,4 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005

@@ -30,7 +30,7 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
 ## Teiginiai
 
 <a id="claim-t-194689"></a>
-- t-002
+- t-001
   teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,4 +89,4 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

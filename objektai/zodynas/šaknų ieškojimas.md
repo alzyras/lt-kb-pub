@@ -59,9 +59,7 @@ istoriografija, tautos kilmės klausimai
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175020
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
-- susijęs iš [[objektai/zodynas/lietuvių kilmės teorijos.md#claim-t-192133|lietuvių kilmės teorijos]]: Narbuto antrojo tomo įvadinis tekstas lietuvių kilmės teorijas pristato kaip nuo Renesanso žinotą istoriografinį lauką.
+
 ## Citatos
 
 - id: c-175020

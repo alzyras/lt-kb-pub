@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05349"></a>
-- t-003
+- t-001
   teiginys: "Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-88450
 
 <a id="claim-t-05350"></a>
-- t-004
+- t-002
   teiginys: "Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-88453
 
 <a id="claim-t-05352"></a>
-- t-006
+- t-003
   teiginys: "Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-88461
 
 <a id="claim-t-93035"></a>
-- t-009
+- t-004
   teiginys: "1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Nenurodyta
     - c-88455
 
 <a id="claim-t-93037"></a>
-- t-012
+- t-006
   teiginys: "Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Nenurodyta
     - c-88444
 
 <a id="claim-t-93038"></a>
-- t-002
+- t-007
   teiginys: "Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Nenurodyta
     - c-167622
 
 <a id="claim-t-93040"></a>
-- t-007
+- t-008
   teiginys: "1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose."
   atnaujinta: "2026-06-11 12:47"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ Nenurodyta
     - c-88444
 
 <a id="claim-t-93041"></a>
-- t-008
+- t-009
   teiginys: "1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,8 +271,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-007
+    - t-006
+    - t-008
 
 - id: c-88446
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -317,7 +317,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-88449
   autorius: "Zenonas Ivinskis"
@@ -356,7 +356,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-88453
   autorius: "Zenonas Ivinskis"
@@ -375,7 +375,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-88455
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -420,7 +420,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-88457
   autorius: "Zenonas Ivinskis"
@@ -475,7 +475,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-167622
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -498,5 +498,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
     - t-010

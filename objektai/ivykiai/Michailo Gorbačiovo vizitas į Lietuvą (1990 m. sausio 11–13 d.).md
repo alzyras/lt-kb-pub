@@ -71,7 +71,7 @@ Nenurodyta
     - c-73098
 
 <a id="claim-t-75254"></a>
-- t-003
+- t-002
   teiginys: "Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,4 +133,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

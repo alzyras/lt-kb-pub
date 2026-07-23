@@ -31,7 +31,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 ## Teiginiai
 
 <a id="claim-t-192304"></a>
-- t-005
+- t-001
   teiginys: "Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -49,7 +49,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     - c-175116
 
 <a id="claim-t-192305"></a>
-- t-001
+- t-002
   teiginys: "Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +67,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     - c-175115
 
 <a id="claim-t-192306"></a>
-- t-004
+- t-003
   teiginys: "Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -106,7 +106,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-175116
   autorius: "Teodoras Narbutas"
@@ -131,5 +131,5 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-003

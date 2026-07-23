@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41137"></a>
-- t-002
+- t-001
   teiginys: "Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-44844
 
 <a id="claim-t-41138"></a>
-- t-001
+- t-002
   teiginys: "Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44844
   sudarytojas: "Karolis Zikaras"
@@ -130,7 +130,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167059
   sudarytojas: "Karolis Zikaras"

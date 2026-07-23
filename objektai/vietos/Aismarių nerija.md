@@ -30,7 +30,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
 ## Teiginiai
 
 <a id="claim-t-90276"></a>
-- t-002
+- t-001
   teiginys: "Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   pagrindžia:
     - c-86142
     - c-86143
-- susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
+
 ## Citatos
 
 - id: c-86142
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-86143
   autorius: "Petras Dusburgietis"
@@ -93,4 +93,4 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

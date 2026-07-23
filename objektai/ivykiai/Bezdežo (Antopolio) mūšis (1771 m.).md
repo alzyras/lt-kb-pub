@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09821"></a>
-- t-003
+- t-001
   teiginys: "Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -66,7 +66,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes."
   pagrindžia:
     - c-11835
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11835
@@ -92,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

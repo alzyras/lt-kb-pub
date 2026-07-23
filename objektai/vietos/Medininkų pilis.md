@@ -68,7 +68,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-109758"></a>
-- t-007
+- t-001
   teiginys: "Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-101739
 
 <a id="claim-t-109759"></a>
-- t-001
+- t-002
   teiginys: "Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-05669
 
 <a id="claim-t-109760"></a>
-- t-005
+- t-003
   teiginys: "Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
     - c-101742
 
 <a id="claim-t-109761"></a>
-- t-006
+- t-004
   teiginys: "Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Nenurodyta
     - c-101741
 
 <a id="claim-t-109762"></a>
-- t-004
+- t-005
   teiginys: "Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,7 +167,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-101739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -188,7 +188,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-101740
   autorius: "Michał Baliński"
@@ -213,7 +213,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-101741
   autorius: "Michał Baliński"
@@ -240,7 +240,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-101742
   autorius: "Michał Baliński"
@@ -262,4 +262,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

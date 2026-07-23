@@ -57,9 +57,7 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-83720
-- susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
-- susijęs iš Kalnas prie Vilnelės: 1580 m. prie Kasparo Bekešo kapo ant kalno prie Vilnelės buvo pastatytas apvalaus bokšto pavidalo paminklas.
-- susijęs iš Vilnelė: 1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.
+
 ## Citatos
 
 - id: c-83720

@@ -31,7 +31,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 ## Teiginiai
 
 <a id="claim-t-40452"></a>
-- t-002
+- t-001
   teiginys: "T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     - c-44527
 
 <a id="claim-t-40453"></a>
-- t-001
+- t-002
   teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44527
   sudarytojas: "Karolis Zikaras"
@@ -121,7 +121,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44528
   sudarytojas: "Karolis Zikaras"

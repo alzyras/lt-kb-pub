@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44691
-- susijęs iš [[objektai/daiktai/Alebardos.md#claim-t-40687|Alebardos]]: Vokiškojo tipo alebarda datuojama XVI a., o kita alebarda - XVI a. antrąja puse-XVII a.
+
 ## Citatos
 
 - id: c-44691

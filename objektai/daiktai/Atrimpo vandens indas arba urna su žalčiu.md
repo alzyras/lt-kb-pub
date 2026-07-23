@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187980"></a>
-- t-004
+- t-001
   teiginys: "Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::items"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-170987
 
 <a id="claim-t-187981"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::items"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-171268
 
 <a id="claim-t-188374"></a>
-- t-005
+- t-003
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -91,8 +91,7 @@ Nenurodyta
   pagrindžia:
     - c-170988
     - c-171268
-- susijęs iš [[objektai/autoriai/Liudvikas Adomas Jucevičius.md#claim-t-188441|Liudvikas Adomas Jucevičius]]: Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
-- susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-189145|Atlimpas Atrimpas Potrimpos]]: Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys.
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -106,11 +105,10 @@ Nenurodyta
     Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
     na, pripildyta vandens, kurioje laikomas vandens žaltys.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170987
@@ -133,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-170988
   autorius: "Teodoras Narbutas"
@@ -149,8 +147,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-005
 
 - id: c-171268
   autorius: "Teodoras Narbutas"
@@ -172,5 +170,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-005

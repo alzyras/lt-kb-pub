@@ -44,9 +44,7 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01411
-- susijęs iš [[objektai/grupes/Šerno rinktinė.md#claim-t-41212|Šerno rinktinė]]: 1946 m. rugpjūčio 20 d. J. Žemaitis tapo Šerno rinktinės vadu.
-- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
-- susijęs iš Auksinė: Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.
+
 ## Citatos
 
 - id: c-01411

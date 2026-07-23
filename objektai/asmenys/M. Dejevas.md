@@ -38,7 +38,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 ## Teiginiai
 
 <a id="claim-t-40311"></a>
-- t-003
+- t-001
   teiginys: "Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - c-44439
 
 <a id="claim-t-40313"></a>
-- t-001
+- t-003
   teiginys: "Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-42110
   sudarytojas: "Karolis Zikaras"
@@ -119,7 +119,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-44439
   sudarytojas: "Karolis Zikaras"

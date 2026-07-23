@@ -81,7 +81,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-55820
 
 <a id="claim-t-82105"></a>
-- t-004
+- t-003
   teiginys: "Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -98,7 +98,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-78599
 
 <a id="claim-t-82106"></a>
-- t-003
+- t-004
   teiginys: "IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -112,20 +112,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78600
-- susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191216|Motiejus Pretorijus]]: Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190937|Nestoras]]: Teodoro Narbuto perteikimu, Nestoras pasakojo, kad 859 m. variagai paskyrė kailių duoklę ir krivičiams.
-- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190963|Pretorijus]]: Teodoro Narbuto perteikimu, Pretorijus prūsus ir rusus laikė pirmine viena gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190761|Motiejus Pretorijus]]: Pretorijus prūsus ir rusus laikė iš pradžių viena gentimi, o variagų vardą kildino iš prūsiško žodžio Warejs.
-- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191533|Nestoras]]: Nestoro pasakojime, kaip jį perteikia Narbutas, 859 metais variagai paskyrė kailių duoklę ir krivičiams.
-- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
-- susijęs iš Nestoro kronika: Narbutas nurodo Nestoro pasakojimą, kad 859 m. variagai paskyrė kailių duoklę, be kitų, ir krivičiams.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192261|Warejs]]: Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192263|Warejs]]: Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192261|Warejs]]: Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192263|Warejs]]: Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs.
+
 ## Citatos
 
 - id: c-55820
@@ -185,7 +172,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-78600
   autorius: "Michał Baliński"
@@ -230,4 +217,4 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-004

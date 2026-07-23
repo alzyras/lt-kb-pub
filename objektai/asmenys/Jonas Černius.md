@@ -39,7 +39,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 ## Teiginiai
 
 <a id="claim-t-170075"></a>
-- t-002
+- t-001
   teiginys: "1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     - c-154757
 
 <a id="claim-t-170076"></a>
-- t-001
+- t-002
   teiginys: "Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,9 +72,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154756
-- susijęs iš [[objektai/asmenys/V. Mironas.md#claim-t-78039|V. Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius.
-- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54005|Vladas Mironas]]: Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.
-- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
+
 ## Citatos
 
 - id: c-154756
@@ -96,7 +94,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-154757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -118,4 +116,4 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

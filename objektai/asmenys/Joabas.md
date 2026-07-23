@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60967
-- susijęs iš „2 Kar 11, 25“: 2 Kar 11, 25 cituojama kaip Dovydo pamokymas Joabui neprarasti drąsos dėl karių žūties.
+
 ## Citatos
 
 - id: c-60967

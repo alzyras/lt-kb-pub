@@ -7,14 +7,14 @@ datos:
   - '1760 m.'
 date_start: '1760'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,10 +90,7 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184048
-- susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200525|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: Gimbutas buvo Starodubo pateisėjininkaitis.
-- susijęs iš Bereza: 1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje.
-- susijęs iš Slonimas: 1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega.
-- susijęs iš Bereza: 1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje.
+
 ## Citatos
 
 - id: c-183876

@@ -72,12 +72,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30998
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190597|Lietuviai]]: Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.
-- susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190035|Juozapas Ignotas Kraševskis]]: Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.
-- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190432|Juozapas Ignacas Kraševskis]]: Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
-- susijęs iš [[objektai/daiktai/Troba.md#claim-t-08341|Troba]]: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
-- susijęs iš J. I. Kraševskio veikalas apie Lietuvą: Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
+
 ## Citatos
 
 - id: c-30998

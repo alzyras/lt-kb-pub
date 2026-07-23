@@ -48,17 +48,7 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174864
-- susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191239|Vyresnysis Starkateras]]: Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191239|Vyresnysis Starkateras]]: Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Chunigardija.md#claim-t-191381|Chunigardija]]: Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės Rusioje auklėjo Fridleifą.
-- susijęs iš [[objektai/asmenys/Fridleifas.md#claim-t-191268|Fridleifas]]: Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą.
-- susijęs iš [[objektai/asmenys/Frotonas III.md#claim-t-191141|Frotonas III]]: Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą.
-- susijęs iš [[objektai/ivykiai/Fridleifo Danijos sosto susigrąžinimas.md#claim-t-191061|Fridleifo Danijos sosto susigrąžinimas]]: Narbuto pasakojimu, Frotono III sūnus Fridleifas buvo auklėjamas Rusioje ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.
-- susijęs iš Danija: Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.
-- susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
-- susijęs iš Rusia: Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.
+
 ## Citatos
 
 - id: c-174864

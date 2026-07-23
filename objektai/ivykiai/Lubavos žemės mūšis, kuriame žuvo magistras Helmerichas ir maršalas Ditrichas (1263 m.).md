@@ -9,14 +9,14 @@ datos:
   - '1268 m.'
 date_start: '1263'
 date_end: '1268'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62869"></a>
-- t-002
+- t-001
   teiginys: "Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-63711
 
 <a id="claim-t-62870"></a>
-- t-001
+- t-002
   teiginys: "Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -122,10 +122,33 @@ Nenurodyta
     tie, kuriuos ji patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi
     rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.
   citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
+- c-002
+  santrauka: 'Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Liudviką, septintą Prūsijos žemės magistrą
+    Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo
+    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
+    Holdenštetės397.
+    125 (120). Apie daugybės maldininkų atvykimą
+    Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo
+    karaliai bei kunigaikščiai ir, nenorėdami, kad visiškai sunyktų Prūsijoje dievo bažnyčia,
+    kurią diegiant taip gausiai buvo liejamas krikščionių kraujas, o manydami, kad dėl jų
+    malonaus atvykimo ji deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių
+    ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties
+    metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo
+    markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos
+    karalius398.
+  citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -156,7 +179,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-63710
   autorius: "Petras Dusburgietis"
@@ -206,5 +229,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

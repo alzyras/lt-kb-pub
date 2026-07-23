@@ -36,7 +36,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 ## Teiginiai
 
 <a id="claim-t-82261"></a>
-- t-004
+- t-001
   teiginys: "Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - c-78749
 
 <a id="claim-t-196443"></a>
-- t-007
+- t-002
   teiginys: "Kojelavičius Dovydą vaizduoja kaip karo žygiuose garsų vadą, kurį lydėjo sėkmė ir kuris beveik visus žygius sėkmingai užbaigdavo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - c-168054
 
 <a id="claim-t-196820"></a>
-- t-008
+- t-003
   teiginys: "Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - c-176531
 
 <a id="claim-t-197069"></a>
-- t-009
+- t-004
   teiginys: "Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - c-179021
 
 <a id="claim-t-197070"></a>
-- t-010
+- t-005
   teiginys: "Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - c-179022
 
 <a id="claim-t-200982"></a>
-- t-011
+- t-006
   teiginys: "Nuo to rodės it pradėta jau karė lenkų su kryžėjais, bet Vladislovas palikinąs kryžėjus norėjo pirma išsigrumti su viešpačiu Branden burgo ir bendru kryžėjų, bet, jusdamas save ne vi sai stipriu, patelkė lietuvius, kuriam Gediminas tuo jau nuleido Dovydą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -112,25 +112,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184332
-- susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
-- susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173129|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173132|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei atsargų.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173133|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173140|Dovydas (Gardino pilininkas)]]: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173141|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
-- susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
-- susijęs iš [[objektai/asmenys/Vidas, pramintas Vilku.md#claim-t-87589|Vidas, pramintas Vilku]]: Vidas, pramintas Vilku, buvo pirmojo Vilniaus kunigaikščio Dovilo arba Dovydo sūnus.
-- susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
-- susijęs iš [[objektai/asmenys/Antiochas Epifanas.md#claim-t-60237|Antiochas Epifanas]]: Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.
-- susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175239|Judas Makabėjus]]: Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.
-- susijęs iš [[objektai/asmenys/Maukoldas.md#claim-t-87550|Maukoldas]]: Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
-- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.
-- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.
-- susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
+
 ## Citatos
 
 - id: c-78749
@@ -165,7 +147,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-167442
   autorius: "Petras Dusburgietis"
@@ -218,7 +200,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-176531
   autorius: "Anoniminis metraštininkas"
@@ -243,7 +225,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-179021
   autorius: "Petras Dusburgietis"
@@ -268,7 +250,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-179022
   autorius: "Petras Dusburgietis"
@@ -293,7 +275,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005
 
 - id: c-184332
   autorius: "Simonas Daukantas"
@@ -324,7 +306,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

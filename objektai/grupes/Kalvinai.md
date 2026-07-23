@@ -38,7 +38,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 ## Teiginiai
 
 <a id="claim-t-01342"></a>
-- t-002
+- t-001
   teiginys: "1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     - c-01580
 
 <a id="claim-t-01343"></a>
-- t-001
+- t-002
   teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +76,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-01581
-- susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-- susijęs iš [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.).md#claim-t-01845|Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]: Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.
-- susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
-- susijęs iš Semetyčiai: Semetyčiuose buvo įkurta protestantų mokykla.
-- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.
-- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla.
+
 ## Citatos
 
 - id: c-01580
@@ -102,7 +97,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-01581
   redaktorius: "A. Šapoka"
@@ -121,4 +116,4 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

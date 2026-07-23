@@ -30,7 +30,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 ## Teiginiai
 
 <a id="claim-t-189177"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
     - c-172065
 
 <a id="claim-t-189178"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-172066
   autorius: "Teodoras Narbutas"
@@ -127,4 +127,4 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

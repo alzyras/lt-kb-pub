@@ -7,14 +7,14 @@ datos:
   - '1466 m.'
 date_start: '1466'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
   - karas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185614"></a>
-- t-002
+- t-001
   teiginys: "Lietuvių pasalos išgąsdinti Livonijos raiteliai pasileido žirgais ir, suvirtę į užmaskuotus griovius, visi žuvo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168975
@@ -126,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

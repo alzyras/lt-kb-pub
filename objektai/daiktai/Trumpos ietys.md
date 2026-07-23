@@ -92,11 +92,11 @@ Nenurodyta
     mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
     ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- t-193872
+  statusas: verified
+- t-002
 
 ## Citatos
 

@@ -10,17 +10,17 @@ datos:
   - '1649 m.'
 date_start: '1576'
 date_end: '1649'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - valdovas
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '63'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Portrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg/1920px-Portrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APortrait_of_Crown_Prince_Ladislaus_Sigismund_Vasa_-_MNK_XII-353_%28257112%29.jpg'
@@ -44,7 +44,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Teiginiai
 
 <a id="claim-t-79221"></a>
-- t-011
+- t-001
   teiginys: "Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76290
 
 <a id="claim-t-79222"></a>
-- t-010
+- t-002
   teiginys: "Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76289
 
 <a id="claim-t-79223"></a>
-- t-007
+- t-003
   teiginys: "Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76292
 
 <a id="claim-t-79225"></a>
-- t-008
+- t-004
   teiginys: "1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76291
 
 <a id="claim-t-79226"></a>
-- t-001
+- t-005
   teiginys: "1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76287
 
 <a id="claim-t-79227"></a>
-- t-009
+- t-006
   teiginys: "1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-42319
 
 <a id="claim-t-79229"></a>
-- t-002
+- t-007
   teiginys: "Vladislovo Vazos valdymo laikai datuojami 1632–1648 m."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76289
 
 <a id="claim-t-79230"></a>
-- t-003
+- t-008
   teiginys: "Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,7 +180,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76288
 
 <a id="claim-t-201548"></a>
-- t-012
+- t-009
   teiginys: "Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno miesto konfirmacinės privilegijos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-184895
 
 <a id="claim-t-201549"></a>
-- t-013
+- t-010
   teiginys: "Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinės dvaro prie Neries savininku Motiejumi Voderackiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-184896
 
 <a id="claim-t-201550"></a>
-- t-014
+- t-011
   teiginys: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-184897
 
 <a id="claim-t-201551"></a>
-- t-015
+- t-012
   teiginys: "1644 m. Vladislovo Vazos rašte teigiama, kad jie jau anksčiau turėjo savo nuostatus, valdovas juos atnaujinąs ir prie laivavedžių į vieną cechą įjungiąs dar vežėjus ir linininkus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -228,7 +228,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-184898
 
 <a id="claim-t-201552"></a>
-- t-016
+- t-013
   teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -238,10 +238,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184899
-- susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
-- susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
-- susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
+
 ## Citatos
 
 - id: c-42319
@@ -266,7 +263,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-76284
   redaktorius: "A. Šapoka"
@@ -305,7 +302,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-76288
   redaktorius: "A. Šapoka"
@@ -326,7 +323,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-008
 
 - id: c-76289
   redaktorius: "A. Šapoka"
@@ -344,8 +341,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-002
+    - t-007
 
 - id: c-76290
   redaktorius: "A. Šapoka"
@@ -362,7 +359,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-76291
   sudarytojas: "Karolis Zikaras"
@@ -382,7 +379,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-76292
   sudarytojas: "Karolis Zikaras"
@@ -406,7 +403,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-184895
   autorius: "Zigmantas Kiaupa"
@@ -422,7 +419,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-184896
   autorius: "Zigmantas Kiaupa"
@@ -439,7 +436,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-184897
   autorius: "Zigmantas Kiaupa"
@@ -455,7 +452,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-184898
   autorius: "Zigmantas Kiaupa"
@@ -471,7 +468,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-184899
   autorius: "Zigmantas Kiaupa"
@@ -490,4 +487,4 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-013

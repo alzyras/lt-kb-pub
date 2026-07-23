@@ -82,37 +82,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175380
-- susijęs iš [[objektai/asmenys/Buda.md#claim-t-191259|Buda]]: Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo sektos narių padaugėjo Indijoje ir Vidurinėje Azijoje.
-- susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš Afrika: Teodoras Narbutas Afriką ir Aziją laikė seniau už Europą apgyvendintais ir anksčiau civilizuotais žemynais.
-- susijęs iš Europa: Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu.
-- susijęs iš Mažoji Azija: Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191243|Aleksandras Humboltas]]: Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.
-- susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
-- susijęs iš [[objektai/asmenys/Berosijus.md#claim-t-191339|Berosijus]]: Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.
-- susijęs iš [[objektai/asmenys/Buda.md#claim-t-191260|Buda]]: Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą.
-- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190917|Ksaveras Bogušas]]: Teodoras Narbutas Ksaverą Bogušą vadino puikiu kalbų mokovu, atskleidusiu lietuvių kalbos savybes, būdingas graikų ir lotynų kalboms.
-- susijęs iš [[objektai/asmenys/Saimsas.md#claim-t-191314|Saimsas]]: Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje.
-- susijęs iš [[objektai/asmenys/Skitas.md#claim-t-191468|Skitas]]: Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.
-- susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191328|Targitas]]: Narbutas svarsto, kad nauja karalių dinastija, kilusi iš Targito, valdė gentis, pradėjusias garsėti skitų vardu.
-- susijęs iš [[objektai/autoriai/Aleksandras Humboltas.md#claim-t-191593|Aleksandras Humboltas]]: Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.
-- susijęs iš [[objektai/autoriai/Bleikas.md#claim-t-191636|Bleikas]]: Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį kaip 28 000 angliškų pėdų.
-- susijęs iš [[objektai/autoriai/Priskas.md#claim-t-191631|Priskas]]: Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192369|Budinai]]: Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188173|Egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado kitokių polinkių žmones.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192942|Roksolanai]]: Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189415|Senovės egiptiečiai]]: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones.
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189382|Senovės graikai]]: Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192456|Skandinavai]]: Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją.
-- susijęs iš [[objektai/ivykiai/Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties.md#claim-t-191040|Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties]]: Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse.
-- susijęs iš [[objektai/paprociai/Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas.md#claim-t-189940|Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas]]: Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas.
-- susijęs iš Johann Severin Vater, Sprache der alten Preussen: Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išleistą Leipcige leidinyje „Annalisten“.
-- susijęs iš Šventojo Rašto knygos: Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istoriją laikė patvirtinama bešališkų tyrimų.
-- susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
+
 ## Citatos
 
 - id: c-171833

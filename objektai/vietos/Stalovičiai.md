@@ -43,7 +43,7 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40358
-- susijęs iš [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.).md#claim-t-09821|Bezdežo (Antopolio) mūšis (1771 m.)]]: Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.
+
 ## Citatos
 
 - id: c-40358

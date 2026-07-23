@@ -9,16 +9,16 @@ datos:
   - '1314 m.'
 date_start: '1290'
 date_end: '1314'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 ## Teiginiai
 
 <a id="claim-t-60000"></a>
-- t-002
+- t-001
   teiginys: "Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - c-60634
 
 <a id="claim-t-60001"></a>
-- t-003
+- t-002
   teiginys: "Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - c-60635
 
 <a id="claim-t-60002"></a>
-- t-001
+- t-003
   teiginys: "1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - c-60633
 
 <a id="claim-t-184837"></a>
-- t-006
+- t-005
   teiginys: "Surminas po pergalingos kovos grįžo pas valdovą nugalėtoju, bet joje neteko brolio Goštauto ir kitų karių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - c-168198
 
 <a id="claim-t-196596"></a>
-- t-007
+- t-006
   teiginys: "Surminas grįžo pas valdovą nugalėtoju, bet šioje kovoje neteko savo brolio Goštauto ir kitų narsių karių."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -143,42 +143,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168198
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184820|Petras Goštautas]]: Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.
-- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
-- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
-- susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
-- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
-- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
-- susijęs iš [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-55707|Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]: Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino.
-- susijęs iš [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-55710|Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]: Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo.
-- susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
-- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70947|Kolainių pilies puolimas (1290 m.)]]: 1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185527|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Surminas po pergalės grįžo pas valdovą, tačiau mūšyje neteko brolio Goštauto ir kitų karių.
-- susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
-- susijęs iš Kolainių pilis (pilis): Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.
-- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184820|Petras Goštautas]]: Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
-- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
-- susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
-- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Kojelavičiaus pasakojime Surminas per kryžiuočių atokvėpį išvedė Kolainių įgulą ir išgabeno vertingiausius daiktus.
-- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.).md#claim-t-62830|Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]: Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.
-- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70948|Kolainių pilies puolimas (1290 m.)]]: Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.
-- susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59448|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: 1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
-- susijęs iš [[objektai/posakiai/prisiekęs dievų galybe.md#claim-t-184039|prisiekęs dievų galybe]]: Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.
-- susijęs iš [[objektai/posakiai/prisiekęs dievų galybe.md#claim-t-59155|prisiekęs dievų galybe]]: Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.
-- susijęs iš Kolainių pilis (pilis): 1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
-- susijęs iš Kolainių pilis (pilis): Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.
-- susijęs iš Kolainių pilis (pilis): 1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
-- susijęs iš Nemunas: 1313 m. Surmino vadovaujami lietuviai Nemune paėmė pasroviui plaukusį laivą, nužudė keturis lankininkus ir laivą sudegino.
-- susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
-- susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį.'
@@ -292,7 +257,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-60635
   autorius: "Petras Dusburgietis"
@@ -317,7 +282,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167516
   autorius: "Petras Dusburgietis"
@@ -338,7 +303,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-168198
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -367,8 +332,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-006
-    - t-007
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Skaldonis]]

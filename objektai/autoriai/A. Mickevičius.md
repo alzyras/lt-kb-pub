@@ -86,9 +86,7 @@ Mickevičiaus, J.
   vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184221
-- susijęs iš Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): 1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau jo poezija pagarsėjo visoje Europoje.
-- susijęs iš Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): 1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau poetas pagarsėjo visoje Europoje.
-- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45926|Adomas Mickevičius (poetas)]]: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą.
+
 ## Citatos
 
 - id: c-22107

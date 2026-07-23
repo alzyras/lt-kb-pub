@@ -78,7 +78,7 @@ Bodzanta Vladislovo vardu.
     - c-78733
 
 <a id="claim-t-184677"></a>
-- t-004
+- t-003
   teiginys: "1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -98,8 +98,7 @@ Bodzanta Vladislovo vardu.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia Bodzantos veiksmą; pašalintas OCR ir puslapio triukšmas."
   pagrindžia:
     - c-168038
-- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54450|Lietuvos krikštas Vilniuje (1387 m.)]]: Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184725|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų.
+
 ## Citatos
 
 - id: c-78732
@@ -181,4 +180,4 @@ Bodzanta Vladislovo vardu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

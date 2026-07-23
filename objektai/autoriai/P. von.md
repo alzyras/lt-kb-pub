@@ -59,8 +59,3 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/Osten-Sacken, P. von.md#claim-t-30890|Osten-Sacken, P. von]]: P. von Osten-Sackenas rašė apie Livonijos ir Rusios santykius Lietuvos didžiojo kunigaikščio Vytauto valdymo laikotarpiu.
-- susijęs iš [[objektai/autoriai/Petkun’, P.md#claim-t-30924|Petkun’, P]]: P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.

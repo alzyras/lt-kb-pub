@@ -88,7 +88,7 @@ Nenurodyta
     - c-63736
 
 <a id="claim-t-194411"></a>
-- t-004
+- t-003
   teiginys: "Dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-63737
 
 <a id="claim-t-196963"></a>
-- t-005
+- t-004
   teiginys: "Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-178989
   autorius: "Petras Dusburgietis"
@@ -190,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

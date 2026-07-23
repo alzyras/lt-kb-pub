@@ -45,16 +45,7 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82560
-- susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
-- susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179140|Lenkai]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179177|Lenkai]]: Lenkai žiūrėjo į Vytautą kaip į priklausomą kunigaikštį, turintį klausyti jų ir ginti jų interesus.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179200|Lenkai]]: Lenkai Vytautą laikė priklausomu kunigaikščiu, turinčiu jų klausyti ir ginti jų interesus.
-- susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
-- susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
-- susijęs iš Smolnėnai: Smolnėnai buvo dovanojami su visomis Smolnėnų ir Čirčinsko žemėmis bei žmonėmis.
-- susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
-- susijęs iš Čirčinskas: Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.
+
 ## Citatos
 
 - id: c-82560

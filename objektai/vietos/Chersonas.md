@@ -62,15 +62,7 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184403
-- susijęs iš [[objektai/zodynas/emporiumai prekyvietės.md#claim-t-192925|emporiumai prekyvietės]]: Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš Kristaus gimimą klestėjo ir vėliau praturtėjo kaip Olbija, Heraklėja ir Chersonas.
-- susijęs iš [[objektai/asmenys/Neoptolemas.md#claim-t-191448|Neoptolemas]]: Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pastovias graikų gyvenvietes prie Dnestro ir Dnepro žiočių.
-- susijęs iš [[objektai/grupes/Graikai.md#claim-t-192404|Graikai]]: Graikai jau senais laikais užmezgė santykius su Juodosios jūros pakrančių skitais.
-- susijęs iš [[objektai/paprociai/Skitų svetingumas ir taikūs prekybiniai santykiai.md#claim-t-193018|Skitų svetingumas ir taikūs prekybiniai santykiai]]: Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis.
-- susijęs iš Heraklėja: Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankstyvų gyvenviečių prie Dnestro ir Dnepro žiočių vėliau tapo turtingos.
-- susijęs iš Olbija: Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodosios jūros pakrantėse virto turtingais centrais.
-- susijęs iš [[objektai/zodynas/emporiumai ir prekyvietės.md#claim-t-192145|emporiumai ir prekyvietės]]: Narbutas rašo, kad graikų emporiumai, arba prekyvietės, pradėjo klestėti VII amžiuje prieš Kristaus gimimą.
-- susijęs iš [[objektai/zodynas/emporiumai ir prekyvietės.md#claim-t-192146|emporiumai ir prekyvietės]]: Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių.
-- susijęs iš Olbija: Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodosios jūros pakrantėse virto turtingais centrais.
+
 ## Citatos
 
 - id: c-175639

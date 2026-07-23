@@ -72,7 +72,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02139
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82505|Kazimieras Jogailaitis]]: Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
+
 ## Citatos
 
 - id: c-02139

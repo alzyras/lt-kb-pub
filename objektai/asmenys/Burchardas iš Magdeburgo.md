@@ -38,7 +38,7 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 ## Teiginiai
 
 <a id="claim-t-60096"></a>
-- t-002
+- t-001
   teiginys: "Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
     - c-60729
 
 <a id="claim-t-60097"></a>
-- t-001
+- t-002
   teiginys: "Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60729
   autorius: "Petras Dusburgietis"
@@ -112,4 +112,4 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

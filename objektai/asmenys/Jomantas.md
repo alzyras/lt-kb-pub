@@ -41,7 +41,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ## Teiginiai
 
 <a id="claim-t-63713"></a>
-- t-002
+- t-001
   teiginys: "Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     - c-42012
 
 <a id="claim-t-63714"></a>
-- t-001
+- t-002
   teiginys: "Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-64667
-- susijęs iš Riazanė: Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.
+
 ## Citatos
 
 - id: c-42012
@@ -100,7 +100,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-64667
   autorius: "Zenonas Ivinskis"
@@ -122,7 +122,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Paskyrė Jomantą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

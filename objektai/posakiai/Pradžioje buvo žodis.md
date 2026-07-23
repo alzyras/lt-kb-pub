@@ -44,11 +44,7 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59784
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64223|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Generalinėje kapituloje Verneris nustatė kunigams kasdien po sumos skaityti evangeliją „Pradžioje buvo žodis“ ir nurodė broliams klauptis ties žodžiais „Ir žodis tapo kūnu“.
-- susijęs iš [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas.md#claim-t-62127|Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]: Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
-- susijęs iš Evangelija „Pradžioje buvo žodis“: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
-- susijęs iš [[objektai/zodynas/suma.md#claim-t-58926|suma]]: Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64227|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją.
+
 ## Citatos
 
 - id: c-59784

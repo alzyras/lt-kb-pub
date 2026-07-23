@@ -60,7 +60,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-173146
 
 <a id="claim-t-190261"></a>
-- t-004
+- t-003
   teiginys: "Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179105
 
 <a id="claim-t-190263"></a>
-- t-005
+- t-004
   teiginys: "Narbutas rašo, kad Charonas iš Lampsako išsaugojo pasakojimą apie Reką, pasirūpinusį griūvančiu ąžuolu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-173146
 
 <a id="claim-t-194645"></a>
-- t-006
+- t-005
   teiginys: "Charonas iš Lampsako turėjo ne vieną pavadinimą, priklausomai nuo to, koks kultas buvo toje ar kitoje provincijoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-177042
 
 <a id="claim-t-194646"></a>
-- t-007
+- t-006
   teiginys: "Charonas iš Lampsako priskiria dievui nepritinkančias savybes, paversdamas jį kiaulių globėju, nors jis pats tų gyvulių globėjais laiko visai kitas dievybes, tai yra Kremarą (Kremam) ir Priparšį (Priparszas), ir pasakoja, kad kažkokie kalviai Budraičiai (Budrajcis) labai karštai jam meldžiasi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-177043
 
 <a id="claim-t-194648"></a>
-- t-009
+- t-007
   teiginys: "Charonas iš Lampsako verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-177045
 
 <a id="claim-t-194649"></a>
-- t-010
+- t-008
   teiginys: "Charonas iš Lampsako nulemdavo gyvulių pašaro skalsumą ir saugodavo laikomą mėsą nuo sugedimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-177046
 
 <a id="claim-t-194650"></a>
-- t-011
+- t-009
   teiginys: "Charonas iš Lampsako taip pat turėjo galios saugoti bites nuo kenksmingų vabzdžių ir kitų nutikimų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-177047
 
 <a id="claim-t-197280"></a>
-- t-013
+- t-010
   teiginys: "Charonas iš Lampsako atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179099
 
 <a id="claim-t-197281"></a>
-- t-014
+- t-011
   teiginys: "Charonas iš Lampsako visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai buvo paprastas girtuoklių globėjo epitetas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179100
 
 <a id="claim-t-197282"></a>
-- t-015
+- t-012
   teiginys: "Charonas iš Lampsako nepriklauso XV amžiaus pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota perkūnijos."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179101
 
 <a id="claim-t-197283"></a>
-- t-016
+- t-013
   teiginys: "Charonas iš Lampsako sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-173139
 
 <a id="claim-t-197284"></a>
-- t-017
+- t-014
   teiginys: "Charonas iš Lampsako buvo vadinama Verpėja (Werpentie)."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179102
 
 <a id="claim-t-197285"></a>
-- t-018
+- t-015
   teiginys: "Charonas iš Lampsako buvo Brėkštos priešingybė, kitaip sakant, nekentė tamsos ir miegalių."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
     - c-179103
 
 <a id="claim-t-197286"></a>
-- t-019
+- t-016
   teiginys: "Charonas iš Lampsako buvo pripažinta deive."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -335,7 +335,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-013
 
 - id: c-173144
   autorius: "Teodoras Narbutas"
@@ -376,8 +376,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
-    - t-019
+    - t-004
+    - t-016
 
 - id: c-177042
   autorius: "Teodoras Narbutas"
@@ -397,7 +397,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-177043
   autorius: "Teodoras Narbutas"
@@ -420,7 +420,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-177045
   autorius: "Teodoras Narbutas"
@@ -443,7 +443,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-177046
   autorius: "Teodoras Narbutas"
@@ -461,7 +461,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-177047
   autorius: "Teodoras Narbutas"
@@ -480,7 +480,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-179099
   autorius: "Teodoras Narbutas"
@@ -503,7 +503,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-179100
   autorius: "Teodoras Narbutas"
@@ -522,7 +522,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-179101
   autorius: "Teodoras Narbutas"
@@ -545,7 +545,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-179102
   autorius: "Teodoras Narbutas"
@@ -566,7 +566,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-014
 
 - id: c-179103
   autorius: "Teodoras Narbutas"
@@ -584,7 +584,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-179104
   autorius: "Teodoras Narbutas"
@@ -619,4 +619,4 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

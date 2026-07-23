@@ -49,11 +49,3 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189252|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.
-- susijęs iš Jūros upė: Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.
-- susijęs iš Pajūris: Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės.
-- susijęs iš Raseinių apskritis: Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės.
-- susijęs iš Saratovas: Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais.

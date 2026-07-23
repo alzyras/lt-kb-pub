@@ -8,14 +8,14 @@ datos:
   - '1399 m.'
 date_start: '1399'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - etninė-grupė
   - grupe
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-168782
 
 <a id="claim-t-193466"></a>
-- t-007
+- t-003
   teiginys: "1429 m. valdovų posėdyje imperatorius Zigmantas ragino po husitų numalšinimo nukreipti kariuomenę prieš turkus ir saracėnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -74,8 +74,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168782
-- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
-- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
@@ -155,7 +154,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
 ## Citatos
 
 - id: c-168781
@@ -221,4 +219,4 @@ media_all_json: |-
   pagrindzia:
     - t-001
     - t-002
-    - t-007
+    - t-003

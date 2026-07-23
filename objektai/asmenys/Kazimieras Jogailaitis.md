@@ -12,10 +12,6 @@ datos:
   - '1492 m.'
 date_start: '1408'
 date_end: '1492'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,6 +19,10 @@ tags:
   - karalius
   - valdovas
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '7'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
@@ -46,7 +46,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
 ## Teiginiai
 
 <a id="claim-t-82505"></a>
-- t-020
+- t-001
   teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179846
 
 <a id="claim-t-82507"></a>
-- t-018
+- t-002
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179841
 
 <a id="claim-t-82508"></a>
-- t-023
+- t-003
   teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179823
 
 <a id="claim-t-82513"></a>
-- t-022
+- t-004
   teiginys: "Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179834
 
 <a id="claim-t-82514"></a>
-- t-019
+- t-005
   teiginys: "Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179838
 
 <a id="claim-t-184749"></a>
-- t-013
+- t-006
   teiginys: "Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168110
 
 <a id="claim-t-184750"></a>
-- t-014
+- t-007
   teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178745
 
 <a id="claim-t-184751"></a>
-- t-015
+- t-008
   teiginys: "Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168112
 
 <a id="claim-t-184752"></a>
-- t-016
+- t-009
   teiginys: "Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -229,7 +229,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178745
 
 <a id="claim-t-184753"></a>
-- t-017
+- t-010
   teiginys: "Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -242,7 +242,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168114
 
 <a id="claim-t-184754"></a>
-- t-001
+- t-011
   teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -264,7 +264,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168115
 
 <a id="claim-t-193935"></a>
-- t-025
+- t-012
   teiginys: "Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -278,7 +278,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179830
 
 <a id="claim-t-196513"></a>
-- t-027
+- t-013
   teiginys: "Breste Kazimierą Jogailaitį pasitikę Lietuvos didikų giminių atstovai rodė jam džiaugsmą, pagarbą ir palankumą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -291,7 +291,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168110
 
 <a id="claim-t-196514"></a>
-- t-028
+- t-014
   teiginys: "Smolensko bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero Jogailaičio kariuomenės."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -304,7 +304,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178741
 
 <a id="claim-t-196515"></a>
-- t-029
+- t-015
   teiginys: "Kviečiamas į Parčevo seimą, Kazimieras Jogailaitis pasakė negalįs patogiai ten vykti ir pažadėjo lenkų pasiuntinių laukti Breste."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -317,7 +317,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178742
 
 <a id="claim-t-196516"></a>
-- t-030
+- t-016
   teiginys: "Per krikštą kūdikiui buvo suteiktas Kazimiero vardas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -329,7 +329,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178743
 
 <a id="claim-t-196518"></a>
-- t-032
+- t-017
   teiginys: "Kojelavičiaus pasakojime Kazimieras Jogailaitis po Seversko kunigaikščių atsiskyrimo tik užprotestavo per pasiuntinį Vaitiekų Kiočką."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -342,7 +342,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178745
 
 <a id="claim-t-196839"></a>
-- t-033
+- t-018
   teiginys: "Lietuvos metraštis Kazimierą vadina didžiuoju karaliumi, kurio valia Lenkijos ir Lietuvos didikai suvažiavo į Parčevą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -358,7 +358,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179830
 
 <a id="claim-t-198131"></a>
-- t-002
+- t-019
   teiginys: "Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro kuvos 1485.V.18."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -378,7 +378,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179826
 
 <a id="claim-t-198136"></a>
-- t-003
+- t-020
   teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -393,7 +393,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179836
 
 <a id="claim-t-198141"></a>
-- t-004
+- t-021
   teiginys: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -404,7 +404,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179835
 
 <a id="claim-t-198145"></a>
-- t-006
+- t-022
   teiginys: "Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -416,7 +416,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179825
 
 <a id="claim-t-198148"></a>
-- t-007
+- t-023
   teiginys: "Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -427,7 +427,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179842
 
 <a id="claim-t-201529"></a>
-- t-034
+- t-024
   teiginys: "1432 m. Žygimanto Kęstutaičio, 1440 ir 1463 m. Kazimiero Jogailaičio privilegijose nurodoma, kad miestiečiai privalo paklusti tarėjų ir vaito teismams, kad taryba ir vaitas turi teisti pagal Magdeburgo teisės knygas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -439,7 +439,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184876
 
 <a id="claim-t-201530"></a>
-- t-035
+- t-025
   teiginys: "1443 m. Kazimieras Jogailaitis išdavė Vilniaus miestiečiams raštą, kuriame nurodė savo vietiniams pareigūnams - vietininkams ir tijūnams - bei bajorams netrukdyti vilniečių prekybos laivams laisvai plaukti Nerimi iki Kauno ir atgal."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -451,7 +451,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184877
 
 <a id="claim-t-201531"></a>
-- t-036
+- t-026
   teiginys: "Kazimieras skundėsi, kad Dancigas nenori leisti parduoti jo grūdų kitų kraštų pirkliams, ir reikalavo užtikrinti jų pardavimą Flandrijos pirkliams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -463,7 +463,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184878
 
 <a id="claim-t-201532"></a>
-- t-037
+- t-027
   teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -475,7 +475,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184879
 
 <a id="claim-t-201533"></a>
-- t-038
+- t-028
   teiginys: "Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -487,7 +487,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184880
 
 <a id="claim-t-201534"></a>
-- t-039
+- t-029
   teiginys: "Šį dovanoj imą 1463 m. privilegijoje Kaunui patvirtino Kazimieras Jogailaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -497,12 +497,124 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184881
-- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186768|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Kazimieras Jogailaitis nuo 1492 m. gegužės 16 d. buvo Gardine.
-- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186769|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną.
-- susijęs iš Kazimiero Jogailaičio testamentas: Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
-- susijęs iš Trakai: Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę.
-- susijęs iš Trakai: Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę.
+
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos. Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams. Kazimieras, maloniai pri­
+    ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma­
+    lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir
+    netrukus atvyko į miestą sveikinamas didžiulės minios
+    žmonių, karštai trokštančių jį išvysti ir puoselėjančių
+    viltį, jog štai galop įsiviešpataus ramybė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-027
+
+- c-010
+  santrauka: 'Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Š tai dėl to ir lenkai, ir lie­
+    tuviai pradėjo šnairuoti į karalių: lenkai manė, jog
+    skitai įsiveržė į Podolę dėl
+    L en k a i
+    ir
+    lie tu v ia i
+    to, kad sudarė kokius slaptus
+    p r a d e d a įta rin ėti ka-
+    susitarimus su karaliumi, o
+    ralių
+    lietuviai B učackio elgesį aiš­
+    k in o si karaliaus neapdairu­
+    mu. L enkai pirmieji atvirai jį užsipuolė, reik alau d am i
+    su šau k ti luom us į Piotrkovo seim ą. T am e seim e jie v i­
+    saip rag in o k a ra lių n iek o n ed a ry ti B učackui, atėm u siam
+    iš lietuvių Chmelniką ir M edžibožą, be to, neatiduoti
+    u žg ro b tų P odolės žem ių lietu v iam s, o su siru o šu s iš L en­
+    k ijo s į L ietuvą, n iek u b ū d u n esu g a lv o ti leistis į k elią
+    be lenkų senatorių. Karalius į tai atsakė, jo g nė v ie ­
+    nam len k u i n e k e tin ą s atsa k y ti teisės b ū ti jo palydovu,
+    bet tokiu svarbiu L ietu v ai reikalu jis nieko n eg alįs nu­
+    tarti be L ietuvos sen ato žinios ir p ritarim o .
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-029
+
+- c-011
+  santrauka: 'Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat jis, po tėvo mirties paveldėjęs
+    valdžią, sugalvojo padaryti tai, kas nepavyko jo tėvui,
+    todėl pradėjo karą prieš Ste-
+    1485 m e ta i
+    poną, Valachijos valdovą, ir
+    T urkų k a ra s V alach i-
+    užėmė Dakijoje keletą mies-
+    jo je
+    tų: vienus jėga užgrobė, kiti
+    patys pasidavė. Šitai sužino­
+    jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­
+    poną bei Valachi ją karalystė imanti į savo globą, nu­
+    siuntė į pagalbą tris tūkstančius rinktinės jaunuome­
+    nės. Kad pagalba buvo deramai stipri, parodė žygio
+    pabaiga: turkai buvo išstumti beveik iš visos Valachi­
+    jos. Sutvarkęs Valachijos reikalus, karalius nuvyko į
+    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
+    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
+    kiau mėgo medžioklę,
+    o ypač taurų, kurių Lenkijoje
+    negalima užtikti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-025
+
+- c-013
+  santrauka: 'Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O lenkų ponai neno­
+    rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­
+    gailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­
+    kijos karalystes, tą vasarą per mūšį su turkais be žinios
+    dingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­
+    vas, ar ne l3, ir todėl nenorėjo karalaičio išleisti. Lie­
+    tuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą,
+    apie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­
+    džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
+    tiko, nes jis labai mėgo medžioklę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-78978
@@ -523,7 +635,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-005
 
 - id: c-78979
   redaktorius: "A. Šapoka"
@@ -545,7 +657,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-004
 
 - id: c-78983
   redaktorius: "A. Šapoka"
@@ -582,7 +694,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-002
 
 - id: c-78986
   redaktorius: "A. Šapoka"
@@ -600,7 +712,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-003
 
 - id: c-78987
   redaktorius: "A. Šapoka"
@@ -619,7 +731,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-001
 
 - id: c-168110
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -649,8 +761,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-013
-    - t-027
 
 - id: c-168111
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -682,7 +794,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-007
 
 - id: c-168112
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -705,7 +817,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-008
 
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -745,7 +857,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009
 
 - id: c-168114
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -769,7 +881,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010
 
 - id: c-168115
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -807,8 +919,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-001
+    - t-010
+    - t-011
 
 - id: c-176560
   autorius: "Anoniminis metraštininkas"
@@ -833,8 +945,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-033
+    - t-012
+    - t-018
 
 - id: c-176561
   autorius: "Anoniminis metraštininkas"
@@ -852,7 +964,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-019
 
 - id: c-178741
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -878,8 +990,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-007
     - t-014
-    - t-028
 
 - id: c-178742
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -910,7 +1022,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-015
 
 - id: c-178743
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -933,7 +1045,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-016
 
 - id: c-178745
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -971,9 +1083,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-016
-    - t-032
+    - t-007
+    - t-009
+    - t-017
 
 - id: c-178936
   autorius: "Anoniminis metraštininkas"
@@ -997,7 +1109,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-018
 
 - id: c-179823
   redaktorius: "A. Šapoka"
@@ -1015,7 +1127,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-003
 
 - id: c-179825
   autorius: "Michał Baliński"
@@ -1040,7 +1152,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-022
 
 - id: c-179826
   autorius: "Anoniminis metraštininkas"
@@ -1058,7 +1170,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-019
 
 - id: c-179830
   autorius: "Anoniminis metraštininkas"
@@ -1083,8 +1195,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-033
+    - t-012
+    - t-018
 
 - id: c-179831
   redaktorius: "A. Šapoka"
@@ -1121,7 +1233,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-004
 
 - id: c-179835
   autorius: "Michał Baliński"
@@ -1143,7 +1255,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-021
 
 - id: c-179836
   autorius: "Michał Baliński"
@@ -1181,7 +1293,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-020
 
 - id: c-179838
   redaktorius: "A. Šapoka"
@@ -1201,7 +1313,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-005
 
 - id: c-179841
   redaktorius: "A. Šapoka"
@@ -1223,7 +1335,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-002
 
 - id: c-179842
   autorius: "Michał Baliński"
@@ -1258,7 +1370,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-023
 
 - id: c-179845
   autorius: "Anoniminis metraštininkas"
@@ -1282,7 +1394,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-018
 
 - id: c-179846
   redaktorius: "A. Šapoka"
@@ -1301,7 +1413,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-001
 
 - id: c-184876
   autorius: "Zigmantas Kiaupa"
@@ -1317,7 +1429,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-024
 
 - id: c-184877
   autorius: "Zigmantas Kiaupa"
@@ -1335,7 +1447,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-025
 
 - id: c-184878
   autorius: "Zigmantas Kiaupa"
@@ -1355,7 +1467,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-026
 
 - id: c-184879
   autorius: "Zigmantas Kiaupa"
@@ -1372,7 +1484,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-027
 
 - id: c-184880
   autorius: "Zigmantas Kiaupa"
@@ -1391,7 +1503,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-028
 
 - id: c-184881
   autorius: "Zigmantas Kiaupa"
@@ -1407,7 +1519,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-029
 
 ## Ryšiai
 - Kazimieras Jogailaitis keliavo į [[objektai/vietos/Severskas]]

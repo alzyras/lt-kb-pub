@@ -10,15 +10,15 @@ datos:
   - '1415 m.'
 date_start: '1300'
 date_end: '1415'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - religinis-terminas
   - sąvoka
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -94,7 +94,7 @@ Nenurodyta.
     - c-91771
 
 <a id="claim-t-05450"></a>
-- t-006
+- t-003
   teiginys: "1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta.
     - c-05580
 
 <a id="claim-t-97282"></a>
-- t-009
+- t-004
   teiginys: "1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Nenurodyta.
     - c-05575
 
 <a id="claim-t-97283"></a>
-- t-008
+- t-005
   teiginys: "Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,8 +138,7 @@ Nenurodyta.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91771
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93207|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta.
-- susijęs iš [[objektai/grupes/Lietuvos stačiatikiai.md#claim-t-31302|Lietuvos stačiatikiai]]: Po Romano mirties 1361 m. Lietuvos stačiatikių metropolija nebuvo atnaujinta ir vėl pajungta Maskvos metropolitui.
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -196,7 +195,6 @@ Nenurodyta.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-05575
@@ -219,7 +217,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-05576
   autorius: "Zenonas Ivinskis"
@@ -301,7 +299,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-91771
   autorius: "Zenonas Ivinskis"
@@ -321,4 +319,4 @@ Nenurodyta.
   pagrindzia:
     - t-001
     - t-002
-    - t-008
+    - t-005

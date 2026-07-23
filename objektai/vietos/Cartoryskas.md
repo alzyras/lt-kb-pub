@@ -25,7 +25,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169829"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-154514
 
 <a id="claim-t-169830"></a>
-- t-003
+- t-002
   teiginys: "Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-154514
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -128,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -93,12 +93,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Kražių įvykių reikšmę."
   pagrindžia:
     - c-166616
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
+
 ## Citatos
 
 - id: c-166616

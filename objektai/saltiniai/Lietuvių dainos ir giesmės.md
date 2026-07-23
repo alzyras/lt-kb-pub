@@ -41,7 +41,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 ## Teiginiai
 
 <a id="claim-t-195223"></a>
-- t-002
+- t-001
   teiginys: "1912 m. minima knyga „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“, parengta drauge su kun. A. Sabaliausko rinkiniu."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -51,7 +51,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     - c-177590
 
 <a id="claim-t-195224"></a>
-- t-001
+- t-002
   teiginys: "Per 1910-1912 m. keliones A. R. Niemis surinko apie 3500 liaudies dainų, kurių dalis išleista „Lietuvių dainos ir giesmės“ knygoje drauge su A. Sabaliausko rinkiniu."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -89,7 +89,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177590
   autorius: "A. Sabaliauskas"
@@ -107,4 +107,4 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

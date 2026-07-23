@@ -40,7 +40,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 <a id="claim-t-195211"></a>
-- t-002
+- t-001
   teiginys: "Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177575
 
 <a id="claim-t-195212"></a>
-- t-004
+- t-002
   teiginys: "Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177576
 
 <a id="claim-t-195213"></a>
-- t-001
+- t-003
   teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177577
 
 <a id="claim-t-195214"></a>
-- t-003
+- t-004
   teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177576
   autorius: "Michał Baliński"
@@ -133,7 +133,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-177577
   autorius: "Michał Baliński"
@@ -153,7 +153,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-177578
   autorius: "Michał Baliński"
@@ -176,4 +176,4 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

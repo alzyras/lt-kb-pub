@@ -59,7 +59,7 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
   temporalinis_llm_pakomentavimas: "Citata palaiko asmeniui svarbų faktą, bet pradinį sakinį reikia sutrumpinti ir išvalyti."
   pagrindžia:
     - c-169548
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184494|Kryžiuočių ordinas]]: Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.
+
 ## Citatos
 
 - id: c-169548

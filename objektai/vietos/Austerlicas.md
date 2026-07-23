@@ -58,14 +58,7 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171867
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187803|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: 1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187804|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.
-- susijęs iš [[objektai/ivykiai/Tilžės ir Austerlico kautynės.md#claim-t-189632|Tilžės ir Austerlico kautynės]]: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.
-- susijęs iš Tilžė: Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš [[objektai/ivykiai/Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas.md#claim-t-189631|Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare, buvo kontūzytas mūšyje prie Abo miesto ir netrukus apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187805|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187806|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-- susijęs iš Peterburgas: 1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.
+
 ## Citatos
 
 - id: c-171867

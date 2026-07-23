@@ -79,7 +79,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
     - c-173987
 
 <a id="claim-t-191107"></a>
-- t-004
+- t-003
   teiginys: "Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
     - c-173989
 
 <a id="claim-t-191108"></a>
-- t-005
+- t-004
   teiginys: "Povilas Juozapas Safaržykas minėjo Vienos Imperatoriškajame Senienų kabinete saugotą auksinę taurę kaip seniausią jazigų pėdsaką."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
     - c-173990
 
 <a id="claim-t-192600"></a>
-- t-006
+- t-005
   teiginys: "Teodoras Narbutas Safaržyko hipotezę apie kalną Minsko gubernijoje vadino juokinga ir priekaištavo jam dėl slavų pėdsakų ieškojimo pagal panašumus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173990
   autorius: "Teodoras Narbutas"
@@ -231,7 +231,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-175371
   autorius: "Teodoras Narbutas"
@@ -250,4 +250,4 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

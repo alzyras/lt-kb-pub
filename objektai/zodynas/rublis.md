@@ -89,7 +89,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167631
-- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195382|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Jaunikis turėdavo išpirkti vadinamą didelį kraitį, duodamas motinai ne mažiau kaip rublį.
+
 ## Citatos
 
 - id: c-35499

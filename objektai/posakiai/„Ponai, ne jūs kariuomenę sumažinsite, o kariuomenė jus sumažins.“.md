@@ -46,7 +46,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą."
   pagrindžia:
     - c-26585
-- susijęs iš [[objektai/daiktai/Raudonos vėliavos.md#claim-t-19584|Raudonos vėliavos]]: 1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.
+
 ## Citatos
 
 - id: c-26585

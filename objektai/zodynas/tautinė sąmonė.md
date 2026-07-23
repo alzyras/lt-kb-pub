@@ -60,7 +60,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 ## Teiginiai
 
 <a id="claim-t-47944"></a>
-- t-003
+- t-001
   teiginys: "Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -76,7 +76,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     - c-32689
 
 <a id="claim-t-47945"></a>
-- t-004
+- t-002
   teiginys: "Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -90,7 +90,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05597
-- susijęs iš [[objektai/posakiai/vardan tos Lietuvos.md#claim-t-36022|vardan tos Lietuvos]]: Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.
+
 ## Citatos
 
 - id: c-05597
@@ -113,7 +113,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-32689
   autorius: "Zenonas Ivinskis"
@@ -136,4 +136,4 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -104,19 +104,5 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   statusas: verified
 - t-001
 
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186767|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad 1485 m. rugsėjo 19–20 d. buvo puolama Moldavijos sostinė Sučiava.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
-- susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186653|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186655|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.
-- susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
-- susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
-- susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
-
 ## Ryšiai
 - Puolė Sučiavą: [[objektai/grupes/Turkijos kariuomenė]]

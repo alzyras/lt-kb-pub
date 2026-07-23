@@ -139,9 +139,7 @@ Sukilimo organizacinis komitetas.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
   pagrindžia:
     - c-55459
-- susijęs iš [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas.md#claim-t-86962|Vilniaus sukilimo centrinio komiteto susikūrimas]]: 1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
-- susijęs iš Varšuva: 1830 m. vėlyvą rudenį Varšuvoje prasidėjus sukilimui, Vilniuje susikūrė sukilimo centrinis komitetas.
-- susijęs iš Varšuva: 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vilniuje susikūrė sukilimo centrinis komitetas.
+
 ## Citatos
 
 - id: c-55459

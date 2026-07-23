@@ -57,12 +57,7 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą Lozoraičio poziciją."
   pagrindžia:
     - c-75124
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75262|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75264|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75618|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.
-- susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75619|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.
-- susijęs iš S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis): S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš Lietuva: Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga.
+
 ## Citatos
 
 - id: c-75124

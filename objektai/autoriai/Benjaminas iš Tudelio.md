@@ -91,9 +91,7 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo anglų ir Krokuvos pirklių laivus, minimus citatoje."
   pagrindžia:
     - c-78422
-- susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179482|Laivai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
-- susijęs iš Krokuva: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
+
 ## Citatos
 
 - id: c-78422

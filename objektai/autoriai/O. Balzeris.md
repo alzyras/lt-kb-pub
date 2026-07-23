@@ -44,8 +44,7 @@ Balzeris.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33074
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179516|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: O. Balzeris tyrinėjo Lenkijos ir Lietuvos unijos aktus ir leido svarbius teisės istorijos šaltinius.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179517|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: O. Balzeris buvo teisės istorikas ir svarbių šaltinių, tarp jų „Corpus iuris polonici“, leidėjas.
+
 ## Citatos
 
 - id: c-33074

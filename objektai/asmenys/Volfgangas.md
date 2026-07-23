@@ -7,15 +7,15 @@ datos:
   - '1363 m.'
 date_start: '1363'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karvedys
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,7 +90,6 @@ Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176192

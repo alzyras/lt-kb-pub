@@ -157,6 +157,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   citata_rodoma: "Jeigu šis paminklas nėra iš stabmeldystės lai­\nkų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus\npradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-\nkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota\nperkūnijos.\nPagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai\natitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino\nJunoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­\nnijos.\nPilvytį' (Pilwite)\nPinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

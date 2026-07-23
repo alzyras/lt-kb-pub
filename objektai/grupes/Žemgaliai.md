@@ -73,14 +73,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184288
-- susijęs iš [[objektai/grupes/Mechotėnai.md#claim-t-192988|Mechotėnai]]: Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Tervitėnai.md#claim-t-192991|Tervitėnai]]: Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Doblėnai.md#claim-t-192979|Doblėnai]]: Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Mechotėnai.md#claim-t-192988|Mechotėnai]]: Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Tervitėnai.md#claim-t-192991|Tervitėnai]]: Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Šeloniečiai.md#claim-t-192993|Šeloniečiai]]: Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, tauta, kurią jis siejo su žemgaliais.
-- susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
-- susijęs iš [[objektai/grupes/Doblėnai.md#claim-t-192979|Doblėnai]]: Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
+
 ## Citatos
 
 - id: c-175737

@@ -52,7 +52,7 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Janulaičio veikalą ir remiasi citata."
   pagrindžia:
     - c-03966
-- susijęs iš [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis).md#claim-t-01602|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]: Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.
+
 ## Citatos
 
 - id: c-03966

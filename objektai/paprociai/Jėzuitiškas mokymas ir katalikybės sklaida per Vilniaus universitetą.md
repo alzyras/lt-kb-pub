@@ -99,7 +99,7 @@ Nenurodyta
     - c-166702
 
 <a id="claim-t-183311"></a>
-- t-004
+- t-003
   teiginys: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-166702
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

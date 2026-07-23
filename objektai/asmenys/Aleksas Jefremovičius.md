@@ -53,9 +53,7 @@ media_all_json: |-
   semantiniai_rysiai: "Aleksas Jefremovičius sudarė sutartį su Švitrigaila (0.90); Joachimas (Pskovo vietininkas) sudarė sutartį su Švitrigaila (0.90)"
   pagrindžia:
     - c-83596
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113198|Pskovo respublika]]: Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.
-- susijęs iš Pskovas: 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176259|vietininkas]]: Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.
+
 ## Citatos
 
 - id: c-83596

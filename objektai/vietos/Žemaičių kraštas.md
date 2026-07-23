@@ -49,17 +49,14 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 ## Teiginiai
 
 <a id="claim-t-69966"></a>
-- t-005
+- t-001
   teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10528
-- susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
-- susijęs iš Drezdenka: Naujame dokumente Drezdenka buvo priskirta prie lenkų pasienio punktų, turėjusių priklausyti kryžiuočiams.
-- susijęs iš Santoko pilis Dobrine: Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.
-- susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
+
 ## Citatos
 
 - id: c-10528
@@ -76,7 +73,7 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-10529
   autorius: "Simonas Daukantas"

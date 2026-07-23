@@ -6,7 +6,7 @@ variantai:
   - 'sodoklį'
   - 'sodoklio'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis

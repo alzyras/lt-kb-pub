@@ -10,13 +10,13 @@ datos:
   - '1395 m.'
 date_start: '1388'
 date_end: '1395'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -91,7 +91,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169937
@@ -104,6 +103,7 @@ Nenurodyta
   citata_rodoma: "1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­\ntautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -50,7 +50,7 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82240
-- susijęs iš [[objektai/daiktai/Jono Budrio Polovinsko špaga.md#claim-t-40721|Jono Budrio Polovinsko špaga]]: Jono Budrio Polovinsko špaga buvo siejama su Klaipėdos sukilimo vadu ir Vytauto Didžiojo karo muziejumi.
+
 ## Citatos
 
 - id: c-82240

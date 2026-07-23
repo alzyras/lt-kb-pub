@@ -52,10 +52,7 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33494
-- susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11685|supremus dux ir magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36840|supremus dux magnus dux]]: Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36841|supremus dux magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
-- susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131657|diarchija]]: Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.
+
 ## Citatos
 
 - id: c-33494

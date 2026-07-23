@@ -40,7 +40,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 ## Teiginiai
 
 <a id="claim-t-68234"></a>
-- t-006
+- t-001
   teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-67879
 
 <a id="claim-t-68235"></a>
-- t-003
+- t-002
   teiginys: "Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-67875
 
 <a id="claim-t-68236"></a>
-- t-001
+- t-003
   teiginys: "1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-67877
 
 <a id="claim-t-68237"></a>
-- t-005
+- t-004
   teiginys: "Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-67875
 
 <a id="claim-t-68238"></a>
-- t-002
+- t-005
   teiginys: "1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų užpuolė Kolainių pilį."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - c-67880
 
 <a id="claim-t-68239"></a>
-- t-004
+- t-006
   teiginys: "Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -160,9 +160,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   temporalinis_llm_pakomentavimas: "Sutvarkytas OCR triukšmas ir suformuluotas pilnas enciklopedinis sakinys."
   pagrindžia:
     - c-167757
-- susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.
-- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
-- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
+
 ## Citatos
 
 - id: c-67875
@@ -187,8 +185,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004
 
 - id: c-67876
   autorius: "Petras Dusburgietis"
@@ -227,7 +225,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-67878
   autorius: "Petras Dusburgietis"
@@ -251,7 +249,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-67879
   autorius: "Petras Dusburgietis"
@@ -271,7 +269,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-67880
   autorius: "Petras Dusburgietis"
@@ -292,7 +290,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-167757
   autorius: "Zenonas Ivinskis"

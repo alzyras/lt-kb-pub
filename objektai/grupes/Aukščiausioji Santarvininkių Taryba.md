@@ -39,7 +39,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 ## Teiginiai
 
 <a id="claim-t-72029"></a>
-- t-004
+- t-001
   teiginys: "Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-46266
 
 <a id="claim-t-72030"></a>
-- t-001
+- t-002
   teiginys: "Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-46264
 
 <a id="claim-t-72031"></a>
-- t-002
+- t-003
   teiginys: "1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   temporalinis_llm_pakomentavimas: "Reikia tiksliau nurodyti, kad citata kalba apie demarkacijos liniją Suvalkų krašte."
   pagrindžia:
     - c-46266
-- susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44061|Kerzono linija]]: Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.
+
 ## Citatos
 
 - id: c-46264
@@ -117,7 +117,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-46266
   redaktorius: "A. Šapoka"
@@ -142,5 +142,5 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
+    - t-001
+    - t-003

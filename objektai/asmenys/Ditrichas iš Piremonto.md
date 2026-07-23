@@ -43,7 +43,7 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60899
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.'
@@ -56,13 +56,15 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
     abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir
     krito daug netikėlių.
 
+
+
+
                 335 (328).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60899

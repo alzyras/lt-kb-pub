@@ -8,8 +8,6 @@ datos:
   - '1496 m.'
 date_start: '1495'
 date_end: '1496'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +15,8 @@ tags:
   - vieta
   - pilis
   - regionas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 ## Teiginiai
 
 <a id="claim-t-187312"></a>
-- t-003
+- t-001
   teiginys: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -57,7 +57,7 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     - c-170349
 
 <a id="claim-t-194035"></a>
-- t-006
+- t-002
   teiginys: "Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     - c-176655
 
 <a id="claim-t-194036"></a>
-- t-007
+- t-003
   teiginys: "Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,6 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170349
@@ -151,8 +150,8 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-007
 
 - id: c-176655
   autorius: "Anoniminis metraštininkas"
@@ -176,4 +175,4 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

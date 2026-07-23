@@ -11,13 +11,13 @@ datos:
   - '1966 m.'
 date_start: '1276'
 date_end: '1966'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68384"></a>
-- t-002
+- t-001
   teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - c-67974
 
 <a id="claim-t-201078"></a>
-- t-003
+- t-002
   teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,22 +60,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184428
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš [[objektai/autoriai/A. Vanagas.md#claim-t-184448|A. Vanagas]]: A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.
-- susijęs iš [[objektai/autoriai/Zimmermann P.md#claim-t-60828|Zimmermann P]]: P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės: A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.
-- susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
@@ -89,7 +74,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-67974
@@ -106,7 +90,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184428
   autorius: "Simonas Daukantas"
@@ -132,7 +116,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Užėmė Labguvą: [[objektai/grupes/Skalviai]]

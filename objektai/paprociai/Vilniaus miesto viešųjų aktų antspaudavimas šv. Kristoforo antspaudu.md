@@ -65,7 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54745"></a>
-- t-002
+- t-001
   teiginys: "M. Balińskis abejojo teiginiu, kad 1548 m. Vilniaus miestiečiai galėjo naudoti antspaudą su pagonių milžinu Alkiu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-55735
 
 <a id="claim-t-54746"></a>
-- t-001
+- t-002
   teiginys: "Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -131,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-55735
   autorius: "Michał Baliński"
@@ -157,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

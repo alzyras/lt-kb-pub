@@ -31,7 +31,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 ## Teiginiai
 
 <a id="claim-t-189106"></a>
-- t-002
+- t-001
   teiginys: "Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-171994
 
 <a id="claim-t-189109"></a>
-- t-003
+- t-002
   teiginys: "Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-177080
 
 <a id="claim-t-194683"></a>
-- t-004
+- t-003
   teiginys: "O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-171993
 
 <a id="claim-t-194684"></a>
-- t-005
+- t-004
   teiginys: "Pasak jo, Kre ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego rijos teisėjais arba žyniais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-177081
 
 <a id="claim-t-197364"></a>
-- t-006
+- t-005
   teiginys: "Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto, panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mubad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-171993
 
 <a id="claim-t-197365"></a>
-- t-007
+- t-006
   teiginys: "Ar krivio buvimas dėl to nevykusio palyginimo virto pasaka?"
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-179150
 
 <a id="claim-t-197366"></a>
-- t-008
+- t-007
   teiginys: "Manau, kad šiais argumentais ir šiais galinčių kelti prie kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau senojo kryžiuočių kronikininko Dusburgiečio patikimumą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -149,8 +149,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-003
+    - t-005
 
 - id: c-171994
   autorius: "Teodoras Narbutas"
@@ -174,7 +174,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171997
   autorius: "Teodoras Narbutas"
@@ -206,7 +206,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-177080
   autorius: "Teodoras Narbutas"
@@ -229,7 +229,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177081
   autorius: "Teodoras Narbutas"
@@ -250,7 +250,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-179150
   autorius: "Teodoras Narbutas"
@@ -268,4 +268,4 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

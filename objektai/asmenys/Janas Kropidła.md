@@ -56,16 +56,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia Jano Kropidłos vaidmenį palaiminant santuoką."
   pagrindžia:
     - c-83680
-- susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
-- susijęs iš [[objektai/asmenys/Petras (Vilniaus vyskupas).md#claim-t-87824|Petras (Vilniaus vyskupas)]]: Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82654|Saladinas]]: Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82655|Saladinas]]: Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
-- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111436|Tochtamišas]]: 1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176643|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176735|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176767|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171411|Totoriai]]: Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171414|Totoriai]]: Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.
+
 ## Citatos
 
 - id: c-83680

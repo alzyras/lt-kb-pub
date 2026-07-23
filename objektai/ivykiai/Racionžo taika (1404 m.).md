@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92939"></a>
-- t-003
+- t-001
   teiginys: "1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-88379
 
 <a id="claim-t-194982"></a>
-- t-004
+- t-003
   teiginys: "Kad galėtų vėl imti veikti rytuose, Vytautas iš naujo Raciąže 1404 turėjo ordinui pažadėti pildyti Salyno taikos sąlygas^46."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-88379
   redaktorius: "A. Šapoka"
@@ -160,4 +160,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

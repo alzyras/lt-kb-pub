@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62665"></a>
-- t-002
+- t-001
   teiginys: "Dusburgietis siekė išaukštinti Ordine jau užmirštus pirminius idealus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-63395
 
 <a id="claim-t-62666"></a>
-- t-001
+- t-002
   teiginys: "Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-63396
   autorius: "Petras Dusburgietis"
@@ -123,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

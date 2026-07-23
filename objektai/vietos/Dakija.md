@@ -31,7 +31,7 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
 ## Teiginiai
 
 <a id="claim-t-192628"></a>
-- t-002
+- t-001
   teiginys: "Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios lietuvių gentys gyveno Dakijoje ir vertėsi žemdirbyste."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175398
-- susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185934|Boleslovas Švitrigaila]]: Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios lietuvių gentys gyveno Dakijoje ir vertėsi žemdirbyste.'
@@ -73,7 +73,6 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175398
@@ -101,4 +100,4 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

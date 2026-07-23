@@ -49,10 +49,7 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175665
-- susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
-- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
-- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
-- susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
+
 ## Citatos
 
 - id: c-175665

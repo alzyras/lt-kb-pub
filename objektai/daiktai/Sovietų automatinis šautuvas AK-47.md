@@ -67,7 +67,7 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Sovietų automatinis šautuvas AK-47: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: ""
+  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų automatinis šautuvas AK-47\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1947 m."
@@ -77,7 +77,7 @@ Nenurodyta
     - c-75891
 
 <a id="claim-t-78678"></a>
-- t-003
+- t-002
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-75893
 
 <a id="claim-t-78679"></a>
-- t-002
+- t-003
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-75893
   sudarytojas: "Karolis Zikaras"
@@ -194,4 +194,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

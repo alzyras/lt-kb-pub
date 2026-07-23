@@ -39,7 +39,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 ## Teiginiai
 
 <a id="claim-t-61011"></a>
-- t-002
+- t-001
   teiginys: "P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     - c-61643
 
 <a id="claim-t-197028"></a>
-- t-003
+- t-002
   teiginys: "Kai šitaip paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių, kur nužudė ir paėmė į nelaisvę daug žmonių; kai su dideliu grobiu traukė namo, susidūrė su būreliu lietuvių, kurie pavargę atsiliko nuo ne vieną kartą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-61643
   autorius: "Petras Dusburgietis"
@@ -106,4 +106,4 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -69,17 +69,7 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175724
-- susijęs iš [[objektai/asmenys/Karlas Riteris.md#claim-t-191250|Karlas Riteris]]: Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
-- susijęs iš Ritter Carl, Die Vorhalle europäischer Völkergeschichten: Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros.
-- susijęs iš Meotidė: Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje.
-- susijęs iš [[objektai/asmenys/Buda.md#claim-t-191260|Buda]]: Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą.
-- susijęs iš [[objektai/asmenys/Skilakas.md#claim-t-191356|Skilakas]]: Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kurių pats šiame skyriuje toliau nenagrinėjo.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192369|Budinai]]: Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono.
-- susijęs iš Azija: Narbutas kolchų tautos atsikėlimą kildino iš Azijos gilumos į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš Egiptas: Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą.
-- susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.
-- susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
+
 ## Citatos
 
 - id: c-175723

@@ -44,8 +44,7 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38502
-- susijęs iš [[objektai/asmenys/Vladislovas (Jogailos sūnus).md#claim-t-35321|Vladislovas (Jogailos sūnus)]]: 1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu.
-- susijęs iš [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas.md#claim-t-35818|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]: 1425 m. Bresto Kujavijoje seime lenkų didikai pripažino karalaitį Vladislovą sosto įpėdiniu Vytautui ir jo tarybai patariant.
+
 ## Citatos
 
 - id: c-38502

@@ -55,7 +55,7 @@ media_all_json: |-
     - c-82096
 
 <a id="claim-t-86117"></a>
-- t-004
+- t-002
   teiginys: "Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ media_all_json: |-
     - c-82097
 
 <a id="claim-t-86118"></a>
-- t-002
+- t-003
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ media_all_json: |-
     - c-82098
 
 <a id="claim-t-86119"></a>
-- t-003
+- t-004
   teiginys: "Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-82096
   autorius: "Michał Baliński"
@@ -162,7 +162,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-82098
   autorius: "Michał Baliński"
@@ -183,4 +183,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

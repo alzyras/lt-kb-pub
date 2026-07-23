@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1303'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Teiginiai
 
 <a id="claim-t-90529"></a>
-- t-004
+- t-001
   teiginys: "XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32090
 
 <a id="claim-t-90530"></a>
-- t-005
+- t-002
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-86347
 
 <a id="claim-t-90531"></a>
-- t-002
+- t-003
   teiginys: "Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32088
 
 <a id="claim-t-90533"></a>
-- t-003
+- t-004
   teiginys: "Nesisekė tada lietuviams ir Karšuvos srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-32089
 
 <a id="claim-t-184972"></a>
-- t-006
+- t-005
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - c-168333
 
 <a id="claim-t-184973"></a>
-- t-007
+- t-006
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -148,51 +148,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Karšuva (0.90)"
   pagrindžia:
     - c-168334
-- susijęs iš Putvė: Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-183929|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-62821|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-184048|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.
-- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60095|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184105|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60043|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/grupes/Karšuviai.md#claim-t-62603|Karšuviai]]: 1307 metais Ragainės komtūro pasiųstas Hildebrandas iš Rebergo įsiveržė į Karšuvos žemę, ją degino, plėšė ir išsivarė 70 belaisvių.
-- susijęs iš [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.).md#claim-t-28824|Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]: 1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-183929|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-62821|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-62896|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: 1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.
-- susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
-- susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
-- susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
-- susijęs iš Karšuvos žemė: 1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.
-- susijęs iš Kuršas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Putvė: Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu.
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60066|Sarkis]]: Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.
-- susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66529|Durbės mūšis (1260 m.)]]: 1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.
-- susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-183955|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: Karšuvos pilis ant švento Jurgio kalno buvo pastatyta Livonijos ir Prūsijos brolių lėšomis bei darbu.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
-- susijęs iš [[objektai/paprociai/Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius.md#claim-t-185925|Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius]]: Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse.
-- susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Karaliaučius: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
-- susijęs iš Kuršas: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Prūsija: Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Semba: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): 1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.
-- susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje.
-- susijęs iš Švento Jurgio pilis (pilis, XIII a.): Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu.
-- susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
-- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-184048|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.
-- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60095|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.
-- susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
-- susijęs iš Karšuvos žemė: 1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.
-- susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-62896|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: 1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
@@ -277,7 +233,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-32089
   autorius: "Zenonas Ivinskis"
@@ -296,7 +252,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-32090
   autorius: "Zenonas Ivinskis"
@@ -315,7 +271,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-86347
   autorius: "Petras Dusburgietis"
@@ -335,7 +291,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-168333
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -362,7 +318,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-168334
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -384,7 +340,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 - Puolė Karšuvą: [[objektai/grupes/Kryžiuočių ordinas]]

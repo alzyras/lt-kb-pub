@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66810"></a>
-- t-010
+- t-001
   teiginys: "Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-13100
 
 <a id="claim-t-66811"></a>
-- t-014
+- t-002
   teiginys: "Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-13104
 
 <a id="claim-t-66812"></a>
-- t-009
+- t-003
   teiginys: "1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Nenurodyta
     - c-43098
 
 <a id="claim-t-66813"></a>
-- t-011
+- t-004
   teiginys: "Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
     - c-13101
 
 <a id="claim-t-66814"></a>
-- t-012
+- t-005
   teiginys: "Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Nenurodyta
     - c-43099
 
 <a id="claim-t-66815"></a>
-- t-013
+- t-006
   teiginys: "Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 - id: c-13101
   sudarytojas: "Karolis Zikaras"
@@ -228,7 +228,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-13104
   sudarytojas: "Karolis Zikaras"
@@ -244,7 +244,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-002
 
 - id: c-43098
   sudarytojas: "Karolis Zikaras"
@@ -261,7 +261,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-43099
   sudarytojas: "Karolis Zikaras"
@@ -289,7 +289,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-005
 
 - id: c-43100
   sudarytojas: "Karolis Zikaras"
@@ -311,7 +311,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-006
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]

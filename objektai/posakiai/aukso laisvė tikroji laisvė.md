@@ -46,7 +46,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - c-02323
 
 <a id="claim-t-02084"></a>
-- t-003
+- t-002
   teiginys: "Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - c-02322
 
 <a id="claim-t-02085"></a>
-- t-002
+- t-003
   teiginys: "Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-02322
   redaktorius: "A. Šapoka"
@@ -108,7 +108,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-02323
   redaktorius: "A. Šapoka"

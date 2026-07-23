@@ -11,15 +11,15 @@ datos:
   - '1815 m.'
 date_start: '1342'
 date_end: '1815'
-amziai:
-  - 'XIV'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kariuomenė
   - bajorija
   - grupe
+amziai:
+  - 'XIV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,7 +90,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176477
 
 <a id="claim-t-193835"></a>
-- t-006
+- t-005
   teiginys: "Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176479
 
 <a id="claim-t-196780"></a>
-- t-008
+- t-006
   teiginys: "Miechovitos Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina lios."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176478
 
 <a id="claim-t-196781"></a>
-- t-009
+- t-007
   teiginys: "Bychovco kronikos autorius vietoj pasakojimo apie Podolės patekimą Lenkijos valdžion pateikė savą konflikto dėl Podolės versiją."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176335
@@ -278,7 +277,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-176479
   autorius: "Anoniminis metraštininkas"
@@ -297,7 +296,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-178903
   autorius: "Anoniminis metraštininkas"
@@ -324,4 +323,4 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007

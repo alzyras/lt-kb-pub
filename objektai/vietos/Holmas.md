@@ -54,14 +54,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175644
-- susijęs iš Ochodza: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.
-- susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190995|Vasilka]]: 1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę.
-- susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš Busavna: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą.
-- susijęs iš Drohičinas: Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš Ochodza: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.
-- susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš Ochodza: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.
+
 ## Citatos
 
 - id: c-175644

@@ -39,7 +39,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 ## Teiginiai
 
 <a id="claim-t-60862"></a>
-- t-007
+- t-001
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61495
 
 <a id="claim-t-60863"></a>
-- t-003
+- t-002
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61499
 
 <a id="claim-t-60864"></a>
-- t-008
+- t-003
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61497
 
 <a id="claim-t-60865"></a>
-- t-001
+- t-004
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61499
 
 <a id="claim-t-60866"></a>
-- t-004
+- t-005
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61499
 
 <a id="claim-t-60868"></a>
-- t-005
+- t-007
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61494
 
 <a id="claim-t-60869"></a>
-- t-002
+- t-008
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007
 
 - id: c-61495
   autorius: "Petras Dusburgietis"
@@ -180,10 +180,10 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-003
-    - t-004
+    - t-001
     - t-002
+    - t-005
+    - t-008
 
 - id: c-61496
   autorius: "Petras Dusburgietis"
@@ -214,7 +214,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-61498
   autorius: "Petras Dusburgietis"
@@ -249,8 +249,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-001
+    - t-002
+    - t-004
     - t-006
 
 - id: c-61500
@@ -281,6 +281,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   citata_rodoma: "560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,\nKalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus\nnuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

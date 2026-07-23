@@ -57,12 +57,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184153
-- susijęs iš [[objektai/daiktai/Vilniaus Katedros renesansinis perstatymas.md#claim-t-200850|Vilniaus Katedros renesansinis perstatymas]]: Vilniaus Katedra antrajame XVI amžiaus trečdalyje buvo renesansiškai perstatyta dalyvaujant Romos ir Sienos architektoriams.
-- susijęs iš [[objektai/daiktai/Šv. Kazimiero bažnyčios statyba.md#claim-t-200852|Šv. Kazimiero bažnyčios statyba]]: Šv. Kazimiero bažnyčia pradėta statyti 1604 metais, užbaigta 1615 metais ir pakartojo Romos pavyzdžio planą bei bendrą kompoziciją.
-- susijęs iš [[objektai/ivykiai/Šv. Kazimiero bažnyčios statyba.md#claim-t-200845|Šv. Kazimiero bažnyčios statyba]]: Šv. Kazimiero bažnyčia pradėta statyti 1604 metais, užbaigta 1615 metais ir pakartojo Romos Il Gesù plano bei bendros kompozicijos pavyzdį.
-- susijęs iš Vilniaus katedra: Antrajame XVI a. trečdalyje Vilniaus katedra buvo renesansiškai perstatyta, dalyvaujant Romos ir Sienos architektams.
-- susijęs iš Šv. Kazimiero bažnyčia: Šv. Kazimiero bažnyčia, pradėta 1604 m. ir užbaigta 1615 m., pakartojo Romos II Gesu bažnyčios planą ir bendrą kompoziciją.
-- susijęs iš [[objektai/ivykiai/Vilniaus Katedros renesansinis perstatymas.md#claim-t-200843|Vilniaus Katedros renesansinis perstatymas]]: Antrajame XVI amžiaus trečdalyje Vilniaus Katedra buvo renesansiškai perstatyta.
+
 ## Citatos
 
 - id: c-184153

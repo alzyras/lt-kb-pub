@@ -30,7 +30,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 ## Teiginiai
 
 <a id="claim-t-72057"></a>
-- t-003
+- t-001
   teiginys: "Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     - c-70483
 
 <a id="claim-t-72059"></a>
-- t-001
+- t-003
   teiginys: "Po Rohland'o būrio pasitraukimo į Prūsiją Dembinskio rinktinė liko vienintelė reguliarinė kariuomenė Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,5 +96,5 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-003

@@ -9,9 +9,6 @@ datos:
   - '1500 m.'
 date_start: '1298'
 date_end: '1500'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +16,9 @@ tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

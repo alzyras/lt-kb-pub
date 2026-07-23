@@ -55,10 +55,7 @@ Griškūnaitė 121 , P.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-32914
-- susijęs iš [[objektai/autoriai/A. Tyla.md#claim-t-30546|A. Tyla]]: A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.
-- susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
-- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
+
 ## Citatos
 
 - id: c-32914

@@ -54,8 +54,7 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   temporalinis_llm_pakomentavimas: "Citata mini masinį plitimą ir miestuose, todėl siaurinimas iki kaimų nėra tikslus."
   pagrindžia:
     - c-75117
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75391|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75393|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.
+
 ## Citatos
 
 - id: c-75117

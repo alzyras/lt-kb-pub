@@ -41,7 +41,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 ## Teiginiai
 
 <a id="claim-t-121038"></a>
-- t-003
+- t-001
   teiginys: "J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     - c-110943
 
 <a id="claim-t-121039"></a>
-- t-001
+- t-002
   teiginys: "J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     - c-03572
 
 <a id="claim-t-121040"></a>
-- t-002
+- t-003
   teiginys: "J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-110943
   autorius: "Zenonas Ivinskis"
@@ -127,5 +127,5 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-002

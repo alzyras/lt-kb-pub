@@ -45,7 +45,7 @@ Rimvydas Laužikas Šiaurės barbarikumą apibūdina kaip XIV–XVI a. Lietuvoje
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184068
-- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200734|Gėrimas iš vienos taurės]]: Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu.
+
 ## Citatos
 
 - id: c-184068

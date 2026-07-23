@@ -65,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Pilaitės kunigaikščių pilis priklausė Pilaitė (0.70); Pilaitė priklausė Vilnius (0.55)"
   pagrindžia:
     - c-83067
-- susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
+
 ## Citatos
 
 - id: c-83067

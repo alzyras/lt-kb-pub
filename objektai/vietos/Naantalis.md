@@ -55,8 +55,7 @@ Naantalis šiame šaltinyje yra miestas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178049
-- susijęs iš Lemu parapija: Augustas Robertas Niemi gimė Lemu parapijoje.
-- susijęs iš Luononmaa sala: Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje.
+
 ## Citatos
 
 - id: c-178049

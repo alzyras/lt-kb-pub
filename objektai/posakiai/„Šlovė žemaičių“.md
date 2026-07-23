@@ -56,12 +56,7 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
   temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas ir jungia kelis faktus; citata palaiko glaustesnį sakinį apie eilėraštį."
   pagrindžia:
     - c-75180
-- susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-169894|Simonas Stanevičius]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.
-- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
-- susijęs iš Būdas senovės lietuvių, žemaičių ir kalnėnų: Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.
-- susijęs iš Novatoriškas lietuvių kalbos elementorius žemaičių tarme: Vilniaus universiteto aplinkos inteligentai parašė ir išleido tiems laikams novatorišką lietuvių kalbos elementorių žemaičių tarme.
-- susijęs iš Šlovė žemaičių: Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.
-- susijęs iš Šlovė žemaičių: Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.
+
 ## Citatos
 
 - id: c-75180

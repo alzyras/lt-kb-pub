@@ -38,7 +38,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 ## Teiginiai
 
 <a id="claim-t-78896"></a>
-- t-002
+- t-001
   teiginys: "Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-76008
 
 <a id="claim-t-78898"></a>
-- t-005
+- t-002
   teiginys: "Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44137
 
 <a id="claim-t-78900"></a>
-- t-006
+- t-003
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44136
 
 <a id="claim-t-78901"></a>
-- t-003
+- t-004
   teiginys: "Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44135
 
 <a id="claim-t-78902"></a>
-- t-004
+- t-005
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-44136
 
 <a id="claim-t-193753"></a>
-- t-007
+- t-006
   teiginys: "Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-44136
   sudarytojas: "Karolis Zikaras"
@@ -137,8 +137,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-004
+    - t-003
+    - t-005
 
 - id: c-44137
   sudarytojas: "Karolis Zikaras"
@@ -169,7 +169,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-76008
   sudarytojas: "Karolis Zikaras"
@@ -189,7 +189,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176413
   sudarytojas: "Karolis Zikaras"
@@ -207,4 +207,4 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

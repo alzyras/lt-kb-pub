@@ -45,7 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "Koložas priklausė Gardinas (0.82)"
   pagrindžia:
     - c-93879
-- susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
+
 ## Citatos
 
 - id: c-93879

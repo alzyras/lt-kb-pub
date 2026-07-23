@@ -39,7 +39,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 ## Teiginiai
 
 <a id="claim-t-60550"></a>
-- t-003
+- t-001
   teiginys: "G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
     - c-61185
 
 <a id="claim-t-60552"></a>
-- t-004
+- t-002
   teiginys: "G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
     - c-61184
 
 <a id="claim-t-60553"></a>
-- t-002
+- t-003
   teiginys: "G. H. F. Neselmano darbai „Die Sprache...“ ir „Thesaurus...“ įtraukti į prūsų kalbos paminklų bibliografiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-61184
   autorius: "Petras Dusburgietis"
@@ -128,7 +128,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-61185
   autorius: "Petras Dusburgietis"
@@ -143,4 +143,4 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

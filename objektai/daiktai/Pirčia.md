@@ -58,9 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-10269
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10269

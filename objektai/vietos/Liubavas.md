@@ -43,9 +43,7 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40308
-- susijęs iš Raketija: Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.
-- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192929|Sudargai]]: Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais ir dviem Sudargais vadinamais miesteliais.
-- susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
+
 ## Citatos
 
 - id: c-40308

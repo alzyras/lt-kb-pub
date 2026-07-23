@@ -48,7 +48,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 ## Teiginiai
 
 <a id="claim-t-192179"></a>
-- t-003
+- t-001
   teiginys: "Narbutas formą „Litalain“ pateikia lietuvių ir alanų mišinio aiškinimo kontekste, greta „litalarrais“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,7 +66,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     - c-175052
 
 <a id="claim-t-192180"></a>
-- t-001
+- t-002
   teiginys: "Narbutas aiškina, kad prie Peipaus ežero gyvenantys estai lietuvius vadina „Litalain“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -84,7 +84,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
     - c-175052
 
 <a id="claim-t-192182"></a>
-- t-002
+- t-003
   teiginys: "Narbutas aiškina, kad žodžiu „Litalain“ estai prie Peipaus ežero supranta Lietuvos dalį, sudariusią Ukmergės apskritį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -113,10 +113,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175052
-- susijęs iš Peipaus ežeras: Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi.
-- susijęs iš [[objektai/grupes/Litalarai.md#claim-t-192987|Litalarai]]: Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-alanų tauta, galėjusi susidaryti iš lietuvių ir alanų mišinio.
-- susijęs iš Lietuva: Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse.
-- susijęs iš Ukmergės apskritis: Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -167,7 +164,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
     - t-002
+    - t-003
     - t-004

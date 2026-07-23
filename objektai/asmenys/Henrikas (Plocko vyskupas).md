@@ -98,7 +98,6 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169403

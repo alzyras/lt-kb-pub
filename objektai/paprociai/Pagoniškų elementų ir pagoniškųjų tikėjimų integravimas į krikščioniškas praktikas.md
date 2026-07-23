@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169871"></a>
-- t-004
+- t-001
   teiginys: "Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-154562
 
 <a id="claim-t-169873"></a>
-- t-001
+- t-002
   teiginys: "Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-154560
 
 <a id="claim-t-169874"></a>
-- t-002
+- t-003
   teiginys: "Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-154562
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -149,5 +149,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
+    - t-001
+    - t-003

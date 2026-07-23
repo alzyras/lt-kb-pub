@@ -8,10 +8,6 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - karalius
   - popiežius
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -93,11 +93,10 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     niais tapo Alėto vyskupas Baltramiejus ir šv. Teofrido
     vienuolyno abatas Bernardas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60882

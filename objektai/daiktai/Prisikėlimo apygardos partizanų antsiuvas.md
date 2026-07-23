@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78675"></a>
-- t-002
+- t-001
   teiginys: "Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,4 +106,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

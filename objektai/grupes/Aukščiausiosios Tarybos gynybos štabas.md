@@ -53,12 +53,7 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
   temporalinis_llm_pakomentavimas: "Pradinį teiginį verta išlaikyti kaip sklandų sakinį be puslapio ir kataloginio triukšmo."
   pagrindžia:
     - c-42645
-- susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40046|Audrius Butkevičius]]: 1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.
-- susijęs iš [[objektai/asmenys/Jonas Gečas.md#claim-t-40217|Jonas Gečas]]: 1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.
-- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79217|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.
-- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
-- susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
-- susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79245|Česlovas Jezerskas]]: 1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe.
+
 ## Citatos
 
 - id: c-42645

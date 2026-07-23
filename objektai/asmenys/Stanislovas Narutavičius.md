@@ -29,7 +29,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 ## Teiginiai
 
 <a id="claim-t-75999"></a>
-- t-002
+- t-001
   teiginys: "Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -44,10 +44,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   semantiniai_rysiai: "Stanislovas Narutavičius buvo brolis Gabrielis Narutovičius (0.91)"
   pagrindžia:
     - c-73657
-- susijęs iš [[objektai/asmenys/Gabrielis Narutovičius.md#claim-t-26441|Gabrielis Narutovičius]]: Dvarininkas Gabrielis Narutovičius tapo Lenkijos prezidentu.
-- susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108751|J. Pilsudskis]]: J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101674|Juzefas Pilsudskis]]: Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
+
 ## Citatos
 
 - id: c-73657
@@ -73,7 +70,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gabrielis Narutovičius]]

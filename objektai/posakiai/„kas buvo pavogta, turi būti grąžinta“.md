@@ -44,7 +44,7 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75165
-- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101682|Michailas Gorbačiovas]]: SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.
+
 ## Citatos
 
 - id: c-75165

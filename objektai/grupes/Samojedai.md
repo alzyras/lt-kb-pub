@@ -49,11 +49,7 @@ Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir raš�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172388
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-188397|Albertas Vijūkas-Kojalavičius]]: Narbutas rašė, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-188457|Mykolas Lietuvis]]: Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188251|Lietuviai]]: Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats.
-- susijęs iš [[objektai/posakiai/„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“.md#claim-t-195049|„Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė“]]: Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme“ ir siejo jį su menku lietuvių istorijos darbų skaičiumi per 400 metų.
+
 ## Citatos
 
 - id: c-172388

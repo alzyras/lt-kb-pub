@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66560"></a>
-- t-002
+- t-001
   teiginys: "Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-66768
 
 <a id="claim-t-66561"></a>
-- t-003
+- t-002
   teiginys: "Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-66769
 
 <a id="claim-t-66562"></a>
-- t-001
+- t-003
   teiginys: "Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-66768
   autorius: "Petras Dusburgietis"
@@ -145,7 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-66769
   autorius: "Petras Dusburgietis"
@@ -162,4 +162,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

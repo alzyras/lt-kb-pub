@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185541"></a>
-- t-003
+- t-001
   teiginys: "Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-168902
 
 <a id="claim-t-196263"></a>
-- t-004
+- t-002
   teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad didelės priešo jėgos įsitvirtino abiejuose Vedrošos krantuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168900
@@ -165,7 +164,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-178602
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -191,4 +190,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

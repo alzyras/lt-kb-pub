@@ -49,7 +49,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 ## Teiginiai
 
 <a id="claim-t-188002"></a>
-- t-002
+- t-001
   teiginys: "Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::vocabulary"
@@ -89,11 +89,10 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
     tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė­
     jęs „aiškias klaidas“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-171036
@@ -113,4 +112,4 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

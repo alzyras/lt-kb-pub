@@ -30,7 +30,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 ## Teiginiai
 
 <a id="claim-t-40818"></a>
-- t-002
+- t-001
   teiginys: "Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     - c-44706
 
 <a id="claim-t-40819"></a>
-- t-001
+- t-002
   teiginys: "Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44707
-- susijęs iš [[objektai/asmenys/S. Nastopka.md#claim-t-40411|S. Nastopka]]: S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.
+
 ## Citatos
 
 - id: c-44706
@@ -88,7 +88,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44707
   sudarytojas: "Karolis Zikaras"
@@ -106,4 +106,4 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

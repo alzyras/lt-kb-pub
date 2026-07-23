@@ -36,7 +36,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 ## Teiginiai
 
 <a id="claim-t-86474"></a>
-- t-002
+- t-001
   teiginys: "1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
     - c-82454
 
 <a id="claim-t-86475"></a>
-- t-001
+- t-002
   teiginys: "Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-82454
   autorius: "Michał Baliński"
@@ -128,4 +128,4 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

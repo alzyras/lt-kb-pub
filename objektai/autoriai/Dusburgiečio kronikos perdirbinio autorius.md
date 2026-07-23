@@ -88,11 +88,11 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
     istorinė tiesa dėl to tapo abejotina?
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
 
 ## Citatos
 

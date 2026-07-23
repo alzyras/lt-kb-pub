@@ -78,11 +78,10 @@ Nenurodyta
     nors rašytojai aiškiai sako, jog šis miestas gerokai anks­
     čiau su visa sritimi buvo prijungtas prie Lietuvos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169173

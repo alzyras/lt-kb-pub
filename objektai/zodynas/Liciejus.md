@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Liciejus
 sukurta: '2026-07-12'
 variantai:
-  - 'liciejų'
-  - 'suomių liciejų'
+  - liciejų
+  - suomių liciejų
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -69,6 +69,7 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie Turku suomių liciej�
   citata_rodoma: "įstojo į Turku suomių liciejų, mūsiškai — gimnaziją"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

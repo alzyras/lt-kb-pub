@@ -45,7 +45,7 @@ Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį liet
   vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184229
-- susijęs iš Lietuva: Basanavičius Seinų vyskupą Paulių Straszynskį vaizdavo kaip XIX a. 4-ajame ir 5-ajame dešimtmečiais Lietuvoje priešišką lietuvių kalbai.
+
 ## Citatos
 
 - id: c-184229

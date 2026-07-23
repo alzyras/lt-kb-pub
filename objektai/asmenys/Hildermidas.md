@@ -51,7 +51,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169572
@@ -74,6 +73,7 @@ Nenurodyta
   citata_rodoma: "Nusiaubęs dideliuose \nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš \nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto \ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo \nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal \nPrieš \nm ū šį \niškelia \njo žygių šlovę."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

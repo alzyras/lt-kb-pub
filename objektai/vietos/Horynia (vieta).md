@@ -43,7 +43,7 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
   vertinimo_atnaujinta: "2026-07-19T10:07:02Z"
   pagrindžia:
     - c-185749
-- susijęs iš [[objektai/ivykiai/1696 m. Lenkijos karaliaus mirtis Varšuvoje.md#claim-t-202410|1696 m. Lenkijos karaliaus mirtis Varšuvoje]]: Birželio 27 d. dienoraščio autorius iš pašto gavo žinią, kad Lenkijos karalius, jo valdovas, birželio 17 d. mirė Varšuvoje.
+
 ## Citatos
 
 - id: c-185749

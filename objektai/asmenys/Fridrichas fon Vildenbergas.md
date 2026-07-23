@@ -74,9 +74,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   temporalinis_llm_pakomentavimas: "Citata palaiko siauresnį faktą apie Fridricho fon Vildenbergo veiksmą."
   pagrindžia:
     - c-83480
-- susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
-- susijęs iš Pelplinas: 1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.
+
 ## Citatos
 
 - id: c-83480

@@ -48,7 +48,7 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174365
-- susijęs iš [[objektai/ivykiai/Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties.md#claim-t-191872|Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties]]: Narbutas rašo, kad Vitechindas padavimus apie prūsų ištakas nuspalvino pasakojimu apie makedonus po Aleksandro Didžiojo mirties.
+
 ## Citatos
 
 - id: c-174365

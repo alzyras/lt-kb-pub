@@ -44,7 +44,7 @@ Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha, kuri sutapo s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33492
-- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78949|Augustas II]]: Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste.
+
 ## Citatos
 
 - id: c-33492

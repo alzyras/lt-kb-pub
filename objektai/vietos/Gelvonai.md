@@ -45,17 +45,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.82); Švitrigaila keliavo į Gelvonai (0.78)"
   pagrindžia:
     - c-45099
-- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
-- susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
-- susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
-- susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64009|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
-- susijęs iš [[objektai/asmenys/Ona Tarnavska.md#claim-t-87812|Ona Tarnavska]]: Bajorė Ona Tarnavska privalėjo mokėti įprastą dešimtinę iš savo dvaro javų ir iš Stanislovo Vaitkavičiaus kviečių.
-- susijęs iš [[objektai/asmenys/Sofija Šimonova.md#claim-t-87578|Sofija Šimonova]]: Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.
-- susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66810|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.
-- susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
-- susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
-- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
+
 ## Citatos
 
 - id: c-45099

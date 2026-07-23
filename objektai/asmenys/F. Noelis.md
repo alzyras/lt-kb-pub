@@ -59,8 +59,7 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179163
-- susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189112|Aitvaras viršgulis]]: Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą.
-- susijęs iš [[objektai/zodynas/Gaila Magila.md#claim-t-189295|Gaila Magila]]: Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos (Magilla) vardą ir aiškino ją kaip pykčio deivę.
+
 ## Citatos
 
 - id: c-172963

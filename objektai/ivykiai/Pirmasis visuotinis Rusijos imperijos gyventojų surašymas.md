@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77887"></a>
-- t-002
+- t-001
   teiginys: "1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-75204
 
 <a id="claim-t-77888"></a>
-- t-001
+- t-002
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,13 +89,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje pateiktus surašymo duomenis."
   pagrindžia:
     - c-75205
-- susijęs iš Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): 1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.
-- susijęs iš Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): 1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.
-- susijęs iš Rusija: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.
-- susijęs iš Rusijos imperija: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179304|Lietuviai]]: 1897 m. surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai skaitė tik kas penktas iš jų.
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75392|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.
-- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75394|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.
+
 ## Citatos
 
 - id: c-75204
@@ -121,7 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-75205
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -149,4 +143,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

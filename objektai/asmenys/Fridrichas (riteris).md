@@ -30,7 +30,7 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
 ## Teiginiai
 
 <a id="claim-t-196451"></a>
-- t-002
+- t-001
   teiginys: "Galustalės puotoje greta austrų riterio Kinodijaus sėdėjo Fridrichas, Meiseno markgrafas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -64,4 +64,4 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

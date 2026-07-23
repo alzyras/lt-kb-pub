@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-23350"></a>
-- t-002
+- t-001
   teiginys: "Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-166655
 
 <a id="claim-t-23351"></a>
-- t-003
+- t-002
   teiginys: "1922 m. spalio 1 d. Lietuvoje įvestas litas."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-166655
 
 <a id="claim-t-23352"></a>
-- t-004
+- t-003
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -146,6 +146,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-004

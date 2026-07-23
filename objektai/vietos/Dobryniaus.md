@@ -56,8 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako lietuvių pasirodymą Dobryniaus srityje ir patirtą smūgį."
   pagrindžia:
     - c-33828
-- susijęs iš [[objektai/grupes/Dobryniaus riterių brolija.md#claim-t-99990|Dobryniaus riterių brolija]]: Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
-- susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
+
 ## Citatos
 
 - id: c-33828

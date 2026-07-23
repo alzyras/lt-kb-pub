@@ -51,7 +51,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 ## Teiginiai
 
 <a id="claim-t-12278"></a>
-- t-004
+- t-001
   teiginys: "Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169762
 
 <a id="claim-t-186424"></a>
-- t-003
+- t-002
   teiginys: "Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169762
 
 <a id="claim-t-186425"></a>
-- t-005
+- t-003
   teiginys: "Per krikštą dalyti balti vilnoniai marškiniai simbolizavo nekaltąją sielą."
   atnaujinta: "2026-06-13 18:57"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169763
 
 <a id="claim-t-186426"></a>
-- t-006
+- t-004
   teiginys: "Jogailos vardu dalinti balti vilnoniai marškiniai skatino dalį lietuvių krikštytis vien dėl šios dovanos."
   atnaujinta: "2026-06-13 18:57"
   sprendimo_priezastis: "auto"
@@ -113,24 +113,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-169763
-- susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-184088|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
-- susijęs iš [[objektai/asmenys/Hermanas iš Lichtenburgo.md#claim-t-60326|Hermanas iš Lichtenburgo]]: Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.
-- susijęs iš [[objektai/daiktai/Kilimas.md#claim-t-08296|Kilimas]]: `Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.
-- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86695|Vilniaus gyventojai]]: Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
-- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
-- susijęs iš [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų.md#claim-t-87232|Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]: Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
-- susijęs iš [[objektai/zodynas/Kilimas.md#claim-t-70006|kilimas]]: `Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.
-- susijęs iš [[objektai/asmenys/Grigoras (našlys samdinys).md#claim-t-195543|Grigoras (našlys samdinys)]]: Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių.
-- susijęs iš [[objektai/asmenys/Romanovskis.md#claim-t-191460|Romanovskis]]: 1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis.
-- susijęs iš [[objektai/daiktai/Kilimas.md#claim-t-08297|Kilimas]]: `Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.
-- susijęs iš [[objektai/daiktai/Vyženos.md#claim-t-08351|Vyženos]]: Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.
-- susijęs iš [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas.md#claim-t-86802|Lietuvių kunigaikščių ir bajorų visuotinis seimas]]: Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.
-- susijęs iš [[objektai/ivykiai/Antakriaunio pilkapio atkasimas 1826 m.md#claim-t-191029|Antakriaunio pilkapio atkasimas 1826 m]]: 1826 m. Antakriaunio dvare tiesiant naują kelią buvo atkastas senovinis pilkapis su skeletu ir variniais papuošalais.
-- susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62752|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.
-- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
-- susijęs iš [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba.md#claim-t-67170|Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
-- susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/zodynas/Kilimas.md#claim-t-70007|kilimas]]: Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“.
+
 ## Citatos
 
 - id: c-169762
@@ -154,8 +137,8 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002
 
 - id: c-169763
   redaktorius: "A. Šapoka"
@@ -173,5 +156,5 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-003
+    - t-004

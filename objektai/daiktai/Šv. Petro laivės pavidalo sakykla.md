@@ -66,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184193
-- susijęs iš Šv. Petro ir Povilo bažnyčia: Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar tęsėsi dvejus metus, bet didysis altorius nebuvo užbaigtas.
+
 ## Citatos
 
 - id: c-184193

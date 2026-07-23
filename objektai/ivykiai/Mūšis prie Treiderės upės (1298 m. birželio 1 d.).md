@@ -8,14 +8,14 @@ datos:
   - '1500 m.'
 date_start: '1298'
 date_end: '1500'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -92,11 +92,10 @@ Nenurodyta
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-63726

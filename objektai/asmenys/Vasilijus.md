@@ -32,7 +32,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 ## Teiginiai
 
 <a id="claim-t-185978"></a>
-- t-003
+- t-001
   teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
     - c-169339
 
 <a id="claim-t-185979"></a>
-- t-004
+- t-002
   teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
     - c-169340
 
 <a id="claim-t-196619"></a>
-- t-007
+- t-003
   teiginys: "Kojelavičiaus pasakojime Vasilijus kreipėsi į Glinskį, o šis pažadais ir dovanomis palaužė pilies įgulos bei bajorų ištikimybę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
     - c-178804
 
 <a id="claim-t-196621"></a>
-- t-009
+- t-004
   teiginys: "Kojelavičius rašė, kad Vasilijus Žygimantui siųstame laiške nepavadino jo Prūsijos ir Rusios kunigaikščiu, sukeldamas dingstį nesantaikai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -95,31 +95,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178805
-- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185993|Vasilijus (Maskvos kunigaikštis)]]: Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185994|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.
-- susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186802|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: Maskvos didysis kunigaikštis Ivanas III Vasiljevičius ir jo įpėdinis Vasilijus paliaubas prisiekė 1503 m. balandžio 2 d.
-- susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185545|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
-- susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-198529|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184804|Mykolas Glinskis]]: Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184805|Mykolas Glinskis]]: Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju.
-- susijęs iš [[objektai/asmenys/Ratajus Širiajevas.md#claim-t-183760|Ratajus Širiajevas]]: Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
-- susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186803|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: LDK ir Maskvos paliaubų aktas buvo surašytas 1503 m. kovo 28 d.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185529|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
-- susijęs iš [[objektai/ivykiai/Penkerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185633|Penkerių metų paliaubos tarp Lietuvos ir Maskvos]]: Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
-- susijęs iš [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas.md#claim-t-185921|Pasienio kelių saugojimas ir keleivių kratymas]]: Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.
-- susijęs iš [[objektai/posakiai/daugiau nebelieti krikščionių kraujo.md#claim-t-185476|daugiau nebelieti krikščionių kraujo]]: Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
-- susijęs iš Možaiskas: Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Trakai: Kęstutis valdė Trakus ir Žemaičių žemę.
-- susijęs iš Žemaičių žemė: Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.
-- susijęs iš [[objektai/zodynas/globėjas.md#claim-t-185385|globėjas]]: Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarkant taikos ir karo reikalus.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
@@ -199,7 +175,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
 ## Citatos
 
 - id: c-169339
@@ -228,7 +203,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -259,7 +234,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -305,7 +280,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-178805
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -332,8 +307,4 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-
-## Ryšiai
-- Vasilijus buvo valdovas [[objektai/vietos/Maskva]]
-- Vasilijus keliavo į [[objektai/vietos/Maskva]]
+    - t-004

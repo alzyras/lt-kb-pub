@@ -44,8 +44,7 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59533
-- susijęs iš [[objektai/grupes/Saviplakiai.md#claim-t-63212|Saviplakiai]]: Popiežiaus Inocento laikais viešai atgailaujantys krikščionys plakėsi rykštėmis ir vokiškai buvo vadinami Geyseler, tai yra saviplakiais.
-- susijęs iš [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka.md#claim-t-62724|Viešoji krikščionių atgaila ir saviplaka]]: Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.
+
 ## Citatos
 
 - id: c-59533

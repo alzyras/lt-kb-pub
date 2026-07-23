@@ -40,7 +40,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 ## Teiginiai
 
 <a id="claim-t-60040"></a>
-- t-002
+- t-001
   teiginys: "1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - c-60673
 
 <a id="claim-t-60041"></a>
-- t-001
+- t-002
   teiginys: "1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60673
   autorius: "Petras Dusburgietis"
@@ -149,7 +149,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
     - t-004
 
 - id: c-60674

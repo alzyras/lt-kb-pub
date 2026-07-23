@@ -47,9 +47,7 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174250
-- susijęs iš [[objektai/asmenys/Jasonas.md#claim-t-191280|Jasonas]]: Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais.
-- susijęs iš [[objektai/grupes/Argonautai.md#claim-t-192977|Argonautai]]: Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, nes plaukė Argo laivu.
-- susijęs iš [[objektai/ivykiai/Argonautų kelionė Argo laivu.md#claim-t-191039|Argonautų kelionė Argo laivu]]: Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais.
+
 ## Citatos
 
 - id: c-174250

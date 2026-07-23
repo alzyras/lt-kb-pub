@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija A. Tylos nagrinėtas temas ir remiasi citata."
   pagrindžia:
     - c-32892
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
+
 ## Citatos
 
 - id: c-32892

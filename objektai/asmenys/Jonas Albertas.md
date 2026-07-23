@@ -39,7 +39,7 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
 ## Teiginiai
 
 <a id="claim-t-194091"></a>
-- t-002
+- t-001
   teiginys: "Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnus ir gimė 1459 m. gruodžio 27 d. Krokuvoje."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -76,4 +76,4 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

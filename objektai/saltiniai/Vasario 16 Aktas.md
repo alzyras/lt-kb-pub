@@ -50,7 +50,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-71831"></a>
-- t-017
+- t-001
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-16301
 
 <a id="claim-t-71832"></a>
-- t-014
+- t-002
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei Lietuvos Nepriklausomybės diena."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-70349
 
 <a id="claim-t-71833"></a>
-- t-021
+- t-003
   teiginys: "1918 m. Vasario 16 Aktas savo dvasia buvo artimas Kovo 11 Aktui, kuris nebesirėmė tautų apsisprendimo teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-23995
 
 <a id="claim-t-71834"></a>
-- t-020
+- t-004
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei davė pradžią tikrai Lietuvos nepriklausomybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-70349
 
 <a id="claim-t-71835"></a>
-- t-019
+- t-005
   teiginys: "1918 m. vasario 16 d. Vilniuje Taryba paskelbė atkurianti nepriklausomą Lietuvos valstybę su sostine Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-16301
 
 <a id="claim-t-71837"></a>
-- t-015
+- t-006
   teiginys: "1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -183,8 +183,8 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-019
+    - t-001
+    - t-005
 
 - id: c-23994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -209,7 +209,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-006
 
 - id: c-23995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,7 +245,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-003
 
 - id: c-70349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -271,5 +271,5 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-020
+    - t-002
+    - t-004

@@ -39,7 +39,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ## Teiginiai
 
 <a id="claim-t-96866"></a>
-- t-005
+- t-001
   teiginys: "Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-91460
 
 <a id="claim-t-96867"></a>
-- t-003
+- t-002
   teiginys: "Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-167704
 
 <a id="claim-t-96869"></a>
-- t-002
+- t-003
   teiginys: "Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-31247
 
 <a id="claim-t-193561"></a>
-- t-007
+- t-004
   teiginys: "Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -101,9 +101,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176240
-- susijęs iš [[objektai/asmenys/Dmitrijus.md#claim-t-40086|Dmitrijus]]: Mažamečio Dmitrijaus mirtis prisidėjo prie Riurikaičių dinastijos nutrūkimo ir gilios Rusijos krizės XVII a. pradžioje.
-- susijęs iš [[objektai/asmenys/Fiodoras.md#claim-t-40106|Fiodoras]]: Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija.
-- susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
+
 ## Citatos
 
 - id: c-31247
@@ -129,7 +127,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-31248
   autorius: "Zenonas Ivinskis"
@@ -147,7 +145,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-91460
   autorius: "Zenonas Ivinskis"
@@ -167,7 +165,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-167704
   autorius: "Zenonas Ivinskis"
@@ -185,7 +183,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-176240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -205,7 +203,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 - Riurikaičių dinastija valdė [[objektai/vietos/Rusija]]

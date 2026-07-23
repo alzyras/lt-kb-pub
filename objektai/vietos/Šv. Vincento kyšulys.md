@@ -42,7 +42,7 @@ media_all_json: |-
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Šv. Vincento kyšulys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Heraklio stulpai: mention_match, place, gap=80"
+  ryšio_targeto_parinkimas: "Stulpai: mention_match, thing, gap=80"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Vincento kyšulys\" parinktas kaip owner_note_path. Targetas \"Stulpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"

@@ -38,7 +38,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 ## Teiginiai
 
 <a id="claim-t-109625"></a>
-- t-004
+- t-001
   teiginys: "1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmą kartą išsakė tikslą paskelbti Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - c-101636
 
 <a id="claim-t-109626"></a>
-- t-005
+- t-002
   teiginys: "1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
     - c-101636
 
 <a id="claim-t-109627"></a>
-- t-006
+- t-003
   teiginys: "JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis, kėlusias Lietuvos nepriklausomybės reikalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,13 +97,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-101635
-- susijęs iš [[objektai/asmenys/Juozas Gabrys-Paršaitis.md#claim-t-19014|Juozas Gabrys-Paršaitis]]: Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.
-- susijęs iš [[objektai/grupes/Lietuvių informacijos biuras Lozanoje.md#claim-t-19810|Lietuvių informacijos biuras Lozanoje]]: JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis apie Lietuvą.
-- susijęs iš [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.).md#claim-t-01577|Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]: Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.
-- susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168139|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179294|Lietuviai]]: Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190572|Lietuviai]]: Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.
-- susijęs iš Šveicarija: Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.
+
 ## Citatos
 
 - id: c-101635
@@ -129,7 +123,7 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-101636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -152,5 +146,5 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002

@@ -44,7 +44,7 @@ Stanevičius — lietuviškų dainų rinkinį.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01370
-- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-30684|Jonas Lasickis]]: S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.
+
 ## Citatos
 
 - id: c-01370

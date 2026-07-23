@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41458"></a>
-- t-003
+- t-001
   teiginys: "Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -61,11 +61,7 @@ media_all_json: |-
   pagrindžia:
     - c-44958
     - c-43192
-- susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai.md#claim-t-09612|Aukščiausiosios Tarybos gynybos principai (institucija)]]: Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.
-- susijęs iš Nacionalinė M. Mažvydo biblioteka: Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.
-- susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171455|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.
-- susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171464|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.
-- susijęs iš Žvėryno tiltas: Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.
+
 ## Citatos
 
 - id: c-43192
@@ -93,7 +89,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-44958
   sudarytojas: "Karolis Zikaras"
@@ -119,4 +115,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

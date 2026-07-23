@@ -41,7 +41,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 ## Teiginiai
 
 <a id="claim-t-195089"></a>
-- t-008
+- t-001
   teiginys: "1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177470
 
 <a id="claim-t-195091"></a>
-- t-007
+- t-002
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177477
 
 <a id="claim-t-195092"></a>
-- t-006
+- t-003
   teiginys: "Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177473
 
 <a id="claim-t-195093"></a>
-- t-005
+- t-004
   teiginys: "Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177475
 
 <a id="claim-t-195094"></a>
-- t-002
+- t-005
   teiginys: "LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177472
 
 <a id="claim-t-195095"></a>
-- t-001
+- t-006
   teiginys: "Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177471
-- susijęs iš Nesvyžius: Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.
+
 ## Reikšmingi paminėjimai
 - c-006
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -159,7 +159,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-177471
   sudarytojas: "Karolis Zikaras"
@@ -190,7 +190,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-177472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -211,7 +211,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-177473
   autorius: "Michał Baliński"
@@ -231,7 +231,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-177475
   sudarytojas: "Karolis Zikaras"
@@ -253,7 +253,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177477
   autorius: "Michał Baliński"
@@ -292,4 +292,4 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002

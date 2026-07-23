@@ -51,7 +51,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69145"></a>
-- t-004
+- t-001
   teiginys: "Rastenburgo pilis buvo įkurta 1345 m."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ media_all_json: |-
     - c-68558
 
 <a id="claim-t-185122"></a>
-- t-003
+- t-002
   teiginys: "Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -87,19 +87,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168483
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
-- susijęs iš [[objektai/ivykiai/Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.).md#claim-t-185783|Veliuonos susitikimas dėl taikos ir karo su kryžiuočiais atsinaujinimas (1418 m.)]]: Po Veliuonos susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
-- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
-- susijęs iš Barta: Bartos provincija plytėjo į pietryčius nuo Natangijos, su kuria ribojosi Alnos upe, ir buvo viena didžiausių Prūsijos provincijų.
-- susijęs iš Galinda: Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
-- susijęs iš Upa: Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.
-- susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
-- susijęs iš Veliuona: Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.
-- susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185354|ariergardas]]: Bartenšteino ir Rastenburgo komtūrai pasivijo iš Prūsijos grįžtantį Kęstutį ir užpuolė jo kariuomenės ariergardą.
+
 ## Citatos
 
 - id: c-68558
@@ -124,7 +112,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-168483
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -153,4 +141,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

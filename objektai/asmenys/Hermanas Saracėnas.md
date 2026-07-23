@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 ## Teiginiai
 
 <a id="claim-t-59920"></a>
-- t-002
+- t-001
   teiginys: "Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60556
 
 <a id="claim-t-59921"></a>
-- t-004
+- t-002
   teiginys: "Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60554
 
 <a id="claim-t-59924"></a>
-- t-001
+- t-004
   teiginys: "Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60553
 
 <a id="claim-t-194492"></a>
-- t-008
+- t-005
   teiginys: "Apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60553
 
 <a id="claim-t-194493"></a>
-- t-009
+- t-006
   teiginys: "Dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     - c-60556
 
 <a id="claim-t-197102"></a>
-- t-010
+- t-007
   teiginys: "Hermanas Saracėnas išėjo ir, uždaręs duris, pavertė pelenais ir minėtuosius kilminguosius, ir visą pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -140,11 +140,10 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
     nei šventųjų darbų“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60552
@@ -162,7 +161,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-60553
   autorius: "Petras Dusburgietis"
@@ -190,8 +189,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-008
+    - t-004
+    - t-005
 
 - id: c-60554
   autorius: "Petras Dusburgietis"
@@ -237,7 +236,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-60556
   autorius: "Petras Dusburgietis"
@@ -258,5 +257,5 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-009
+    - t-001
+    - t-006

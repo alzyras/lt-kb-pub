@@ -66,7 +66,6 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai valdė Pamedę."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Kryžiuočių ordinas valdė Pamedė (0.95)"
   temporaliniai_duomenys: "valdymo laikotarpis: 1247 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Legendinis-mitologinis pasakojimas paliktas su Narbuto atribucija ir modalumu „esą“. Neperimti smurtiniai epizodai, nes pakanka glausto teiginio apie kronikų motyvą."

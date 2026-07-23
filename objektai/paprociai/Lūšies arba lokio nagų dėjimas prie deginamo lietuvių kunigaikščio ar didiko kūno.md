@@ -87,11 +87,11 @@ Nenurodyta
     meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
     jo kančių įvaizdį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

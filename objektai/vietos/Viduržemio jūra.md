@@ -34,7 +34,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 <a id="claim-t-183104"></a>
-- t-002
+- t-001
   teiginys: "Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-166489
 
 <a id="claim-t-183105"></a>
-- t-003
+- t-002
   teiginys: "Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-166490
 
 <a id="claim-t-192771"></a>
-- t-004
+- t-003
   teiginys: "Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175541
-- susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
+
 ## Citatos
 
 - id: c-166489
@@ -109,7 +109,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166490
   redaktorius: "A. Šapoka"
@@ -132,7 +132,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-175541
   autorius: "Teodoras Narbutas"
@@ -160,4 +160,4 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

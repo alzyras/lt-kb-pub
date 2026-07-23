@@ -31,7 +31,7 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
 ## Teiginiai
 
 <a id="claim-t-190947"></a>
-- t-002
+- t-001
   teiginys: "Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
     - c-173829
 
 <a id="claim-t-197786"></a>
-- t-003
+- t-002
   teiginys: "Orestas, nedrįsęs atvirai pasiprie šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,26 +61,7 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173829
-- susijęs iš Pavija: Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190941|Odoakras]]: Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191049|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.
-- susijęs iš [[objektai/ivykiai/Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą.md#claim-t-191070|Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą]]: Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš Pavija: Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
-- susijęs iš [[objektai/asmenys/Gliceras.md#claim-t-191271|Gliceras]]: Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190942|Odoakras]]: Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/asmenys/Romulas Momilijus Augustulas.md#claim-t-191313|Romulas Momilijus Augustulas]]: Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš [[objektai/asmenys/Severas.md#claim-t-191464|Severas]]: Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192937|Skiriai]]: 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų versti sąjungininkų kariuomenės gailėtis žygio į Italiją.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192241|patricijus]]: Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191049|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
+
 ## Citatos
 
 - id: c-173829
@@ -102,5 +83,5 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

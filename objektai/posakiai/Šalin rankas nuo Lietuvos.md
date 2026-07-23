@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-13512"></a>
-- t-006
+- t-001
   teiginys: "1991 m. kovą Maskvos demonstracijoje kartu su „Šalin rankas nuo Lietuvos“ skambėjo šūkis „Gorbačiovai, atsistatydink!“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -77,4 +77,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

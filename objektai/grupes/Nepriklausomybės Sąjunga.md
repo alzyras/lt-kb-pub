@@ -8,7 +8,7 @@ variantai:
   - 'Nepriklausomybės Sąjungą'
 aliases: []
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 bukle: 'juodrastis'
 laikotarpis: ''
 datos: []
@@ -56,7 +56,7 @@ Visuomeninė draugija.
 ## Teiginiai
 
 <a id="claim-t-195664"></a>
-- t-003
+- t-001
   teiginys: "Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -66,7 +66,7 @@ Visuomeninė draugija.
     - c-178066
 
 <a id="claim-t-195665"></a>
-- t-001
+- t-002
   teiginys: "Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -76,7 +76,7 @@ Visuomeninė draugija.
     - c-178066
 
 <a id="claim-t-195666"></a>
-- t-002
+- t-003
   teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
   atnaujinta: "2026-07-12 11:11"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -84,7 +84,7 @@ Visuomeninė draugija.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178066
-- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
+
 ## Citatos
 
 - id: c-178066
@@ -101,6 +101,6 @@ Visuomeninė draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
     - t-002
+    - t-003

@@ -31,7 +31,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 ## Teiginiai
 
 <a id="claim-t-12588"></a>
-- t-002
+- t-001
   teiginys: "Sidabrinė duoklė šiame tekste reiškia mokestį pinigais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     - c-14713
 
 <a id="claim-t-12589"></a>
-- t-003
+- t-002
   teiginys: "Piniginis paklusnybės mokestis, lotyniškai vadintas tributum, dažniausiai buvo žinomas sidabrinės, arba serebsčinos, vardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14713
-- susijęs iš [[objektai/zodynas/sidabrinė duoklė tributum serebsčina.md#claim-t-34312|sidabrinė duoklė tributum serebsčina]]: Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.
+
 ## Citatos
 
 - id: c-14713
@@ -82,5 +82,5 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

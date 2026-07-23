@@ -48,6 +48,7 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
   citata_rodoma: "tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

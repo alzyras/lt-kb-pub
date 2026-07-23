@@ -38,8 +38,7 @@ Skardžiaus. Skardžiaus, Dr.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36686
-- susijęs iš [[objektai/autoriai/V. Kamantauskas.md#claim-t-96058|V. Kamantauskas]]: V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.
-- susijęs iš Kirčiuota lietuvių literatūros chrestomatija: V. Kamantausko „Kirčiuotos lietuvių literatūros chrestomatijos“ kirčius patikrino dr. Pr. Skardžius.
+
 ## Citatos
 
 - id: c-36686

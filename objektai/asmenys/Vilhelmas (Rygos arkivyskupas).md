@@ -26,6 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Ryšiai
-- Vilhelmas (Rygos arkivyskupas) keliavo į [[objektai/vietos/Kuoknesė]]

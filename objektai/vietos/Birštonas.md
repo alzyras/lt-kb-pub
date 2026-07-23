@@ -30,7 +30,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
 ## Teiginiai
 
 <a id="claim-t-38347"></a>
-- t-002
+- t-001
   teiginys: "Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravažiavusias vokiečių patrankas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
     - c-40151
 
 <a id="claim-t-38348"></a>
-- t-001
+- t-002
   teiginys: "Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40152
-- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
+
 ## Citatos
 
 - id: c-40151
@@ -77,7 +77,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-40152
   sudarytojas: "Karolis Zikaras"
@@ -96,4 +96,4 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

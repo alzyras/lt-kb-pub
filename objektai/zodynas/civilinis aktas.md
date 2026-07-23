@@ -54,7 +54,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 ## Teiginiai
 
 <a id="claim-t-97279"></a>
-- t-005
+- t-001
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -70,7 +70,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     - c-32641
 
 <a id="claim-t-97280"></a>
-- t-004
+- t-002
   teiginys: "Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -129,6 +129,6 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002
     - t-003

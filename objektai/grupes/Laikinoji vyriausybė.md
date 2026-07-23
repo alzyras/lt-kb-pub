@@ -93,10 +93,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176221
-- susijęs iš J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo: J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.
-- susijęs iš Žydų padėties nuostatai: Lietuvos laikinoji vyriausybė Žydų padėties nuostatais ir VII forto konclageriu demonstravo antisemitizmą, siekdama nuolaidų iš nacių Vokietijos.
-- susijęs iš Žydų padėties nuostatai: LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.
-- susijęs iš Kauno VII fortas: Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos.
+
 ## Citatos
 
 - id: c-22479

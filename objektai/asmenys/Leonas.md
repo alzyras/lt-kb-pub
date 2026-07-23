@@ -56,7 +56,7 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169370
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200491|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas.
+
 ## Citatos
 
 - id: c-169370

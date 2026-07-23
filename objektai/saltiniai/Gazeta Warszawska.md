@@ -36,7 +36,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 ## Teiginiai
 
 <a id="claim-t-193049"></a>
-- t-002
+- t-001
   teiginys: "„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     - c-175818
 
 <a id="claim-t-193050"></a>
-- t-001
+- t-002
   teiginys: "„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -95,8 +95,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-175818
   autorius: "Michał Baliński"
@@ -119,8 +119,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-177074
   autorius: "Teodoras Narbutas"

@@ -36,7 +36,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 <a id="claim-t-195192"></a>
-- t-003
+- t-001
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177559
 
 <a id="claim-t-195194"></a>
-- t-001
+- t-003
   teiginys: "Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177558
 
 <a id="claim-t-195195"></a>
-- t-006
+- t-004
   teiginys: "1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177557
 
 <a id="claim-t-195196"></a>
-- t-004
+- t-005
   teiginys: "Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177558
 
 <a id="claim-t-195197"></a>
-- t-005
+- t-006
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-177558
   autorius: "Michał Baliński"
@@ -155,8 +155,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
+    - t-003
+    - t-005
 
 - id: c-177559
   autorius: "Michał Baliński"
@@ -202,8 +202,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-001
+    - t-006
 
 - id: c-177561
   autorius: "Michał Baliński"
@@ -226,6 +226,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   citata_rodoma: "Pa-\n49\nDaug sutarčių su tuo Onka yra Lie­\ntuvos Metrikoje, V knygoje, prie \n1505 metų.\n50\nIki šiol Šv. Dvasios dominikonų baž­\nnyčioje galima pamatyti karaliaus \nAleksandro portretą visu ūgiu ant \npirmosios kolonos nuo įėjimo deši­\nnėje pusėje, o ant priešais stovinčios - \ntokio pat didumo kunigo Korčiako \npaveikslą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

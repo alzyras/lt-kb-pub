@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09671"></a>
-- t-004
+- t-001
   teiginys: "„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-12484
 
 <a id="claim-t-09672"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -80,7 +80,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-12484
   sudarytojas: "Karolis Zikaras"
@@ -100,4 +100,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

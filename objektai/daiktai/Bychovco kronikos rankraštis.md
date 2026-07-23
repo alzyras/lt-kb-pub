@@ -10,14 +10,14 @@ datos:
   - '1831 m.'
 date_start: '1440'
 date_end: '1831'
-amziai:
-  - 'XV'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - daiktas
+amziai:
+  - 'XV'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -83,7 +83,7 @@ Nenurodyta
     - c-169990
 
 <a id="claim-t-186810"></a>
-- t-003
+- t-002
   teiginys: "Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-169993
 
 <a id="claim-t-186811"></a>
-- t-002
+- t-003
   teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -118,8 +118,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169992
-- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
-- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-200401|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'
@@ -137,10 +136,10 @@ Nenurodyta
     ką įvertino,4  *
     *  O  šmierci x Zygm unta Kiejsiutowlcza.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -150,10 +149,10 @@ Nenurodyta
     iš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII,
     p. 3 0 4 - 305).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -170,11 +169,30 @@ Nenurodyta
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos
     paties transkribuotojo prirašytos — neišaiškinta.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-005
+  santrauka: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
+    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
+    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
+    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
+    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
+    Kukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­
+    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
+    Užpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­
+    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
+    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
+    dakcijos nuorašų tekstais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-169990
@@ -235,7 +253,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-169993
   autorius: "Anoniminis metraštininkas"
@@ -258,7 +276,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Bychovco kronikos rankraštis priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]

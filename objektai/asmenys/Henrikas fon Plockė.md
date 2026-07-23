@@ -39,7 +39,7 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
 ## Teiginiai
 
 <a id="claim-t-186044"></a>
-- t-002
+- t-001
   teiginys: "Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
     - c-169405
 
 <a id="claim-t-186045"></a>
-- t-003
+- t-002
   teiginys: "Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
     - c-169406
 
 <a id="claim-t-196472"></a>
-- t-004
+- t-003
   teiginys: "Vos brėkštant dienai, lietuvius iš visų pusių apsupo kryžiuočiai, vedami Henriko fon Plockės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-169406
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -170,7 +170,7 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178712
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -191,4 +191,4 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

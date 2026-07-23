@@ -127,7 +127,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - c-21740
 
 <a id="claim-t-24544"></a>
-- t-008
+- t-007
   teiginys: "Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,11 +144,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   temporalinis_llm_pakomentavimas: "Vertinamajam teiginiui reikia aiškios atribucijos ir pilno vardo."
   pagrindžia:
     - c-25413
-- susijęs iš [[objektai/ivykiai/Šv. Kotrynos bažnyčios statybos užbaigimas.md#claim-t-200842|Šv. Kotrynos bažnyčios statybos užbaigimas]]: Šv. Kotrynos bažnyčios statybą 1743 metais galutinai užbaigė tuo metu Vilniuje garsus architektorius Jonas Kristupas Glaubicas.
-- susijęs iš [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla.md#claim-t-21978|Baroko epocha Vilniaus baroko mokykla]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
-- susijęs iš [[objektai/zodynas/Baroko epocha.md#claim-t-21979|Baroko epocha]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
-- susijęs iš [[objektai/grupes/Vilniaus baroko mokykla.md#claim-t-183195|Vilniaus baroko mokykla]]: J. K. Glaubicas suformavo analogų neturinčią baroko architektūros atmainą – Vilniaus baroko mokyklą.
-- susijęs iš Vilnius: Jonas Kristupas Glaubicas suformavo analogų neturinčią Vilniaus baroko mokyklą.
+
 ## Citatos
 
 - id: c-21740
@@ -236,4 +232,4 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-008
+    - t-007

@@ -37,7 +37,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 ## Teiginiai
 
 <a id="claim-t-19207"></a>
-- t-002
+- t-001
   teiginys: "Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
     - c-21952
 
 <a id="claim-t-19208"></a>
-- t-001
+- t-002
   teiginys: "Romanas Dmovskis buvo lenkų tautinių demokratų lyderis ir vadovavosi lenkų organinio nacionalizmo doktrina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,11 +90,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166956
-- susijęs iš [[objektai/grupes/Lenkų tautiniai demokratai.md#claim-t-77826|Lenkų tautiniai demokratai]]: Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga.
-- susijęs iš [[objektai/zodynas/organinis nacionalizmas.md#claim-t-183449|organinis nacionalizmas]]: Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina.
-- susijęs iš [[objektai/zodynas/organinis nacionalizmas.md#claim-t-22235|organinis nacionalizmas]]: Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinės mažumos statusą Lenkijos valstybėje arba autonominėje Lenkijoje.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169934|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-183474|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.
+
 ## Citatos
 
 - id: c-21951
@@ -117,7 +113,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-21952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -144,7 +140,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

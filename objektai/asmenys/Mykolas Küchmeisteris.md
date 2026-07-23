@@ -42,7 +42,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 ## Teiginiai
 
 <a id="claim-t-176558"></a>
-- t-002
+- t-001
   teiginys: "Lietuviškai pramokęs Mykolas Küchmeisteris turėjo sostinę ir krašto administracijos centrą prie Dubysos žiočių."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - c-160559
 
 <a id="claim-t-176559"></a>
-- t-001
+- t-002
   teiginys: "Mykolas Küchmeisteris buvo ordino vietininkas vaitas, įsikūręs 1400 m. arti Dubysos pastatytoje Friedeburgo pilyje."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167745
-- susijęs iš Grabovė: Derybos Grabove nedavė Vytautui naudingų rezultatų.
+
 ## Citatos
 
 - id: c-30264
@@ -133,7 +133,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-160559
   autorius: "Zenonas Ivinskis"
@@ -153,7 +153,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-160560
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

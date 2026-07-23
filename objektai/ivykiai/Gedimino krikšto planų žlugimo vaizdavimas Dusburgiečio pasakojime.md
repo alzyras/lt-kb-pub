@@ -7,14 +7,14 @@ datos:
   - '1328 m.'
 date_start: '1328'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - krikštas
   - ordinas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -85,7 +85,7 @@ Nenurodyta
     - c-63589
 
 <a id="claim-t-196943"></a>
-- t-004
+- t-003
   teiginys: "Lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-63588
   autorius: "Petras Dusburgietis"
@@ -199,4 +199,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

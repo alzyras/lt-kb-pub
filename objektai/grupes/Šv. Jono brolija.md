@@ -7,13 +7,13 @@ datos:
   - '1521 m.'
 date_start: '1521'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-bendruomenė
   - grupe
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ Vilniaus religinė miesto brolija.
 ## Teiginiai
 
 <a id="claim-t-54835"></a>
-- t-002
+- t-001
   teiginys: "Šv. Jono brolijai priklausę gyventojai turėjo rūpintis bažnyčios reikmėmis, pastatais ir papuošimu."
   atnaujinta: "2026-05-27 07:56"
   sprendimo_priezastis: "gap::groups"
@@ -60,7 +60,7 @@ Vilniaus religinė miesto brolija.
     - c-55858
 
 <a id="claim-t-54836"></a>
-- t-001
+- t-002
   teiginys: "Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams."
   atnaujinta: "2026-05-27 07:56"
   sprendimo_priezastis: "gap::groups"
@@ -117,5 +117,5 @@ Vilniaus religinė miesto brolija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -75,7 +75,7 @@ Nenurodyta
     - c-177989
 
 <a id="claim-t-195582"></a>
-- t-003
+- t-002
   teiginys: "Po Sevastopolio karo trejus metus visai neėmė rekrutų."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-177990
 
 <a id="claim-t-195583"></a>
-- t-002
+- t-003
   teiginys: "1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-177989
 
 <a id="claim-t-195584"></a>
-- t-005
+- t-004
   teiginys: "Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-177990
 
 <a id="claim-t-195585"></a>
-- t-004
+- t-005
   teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -134,7 +134,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
 
 - id: c-177990
   autorius: "M. Katkus"
@@ -150,6 +150,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
     - t-004
+    - t-005

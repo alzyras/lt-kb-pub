@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86529"></a>
-- t-002
+- t-001
   teiginys: "Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ media_all_json: |-
     - c-82508
 
 <a id="claim-t-86530"></a>
-- t-001
+- t-002
   teiginys: "Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +71,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktą sumą, laiką ir procentus."
   pagrindžia:
     - c-82509
-- susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176098|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55107|Vilniaus žydų kahalas]]: Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81750|Vilniaus žydų kahalas]]: Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
-- susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
-- susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
-- susijęs iš [[objektai/asmenys/Stanislovas Goreckis.md#claim-t-87579|Stanislovas Goreckis]]: Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176089|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų.
-- susijęs iš [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios.md#claim-t-87264|Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]: 1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių.
+
 ## Citatos
 
 - id: c-82508
@@ -113,7 +102,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-82509
   autorius: "Michał Baliński"
@@ -143,4 +132,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

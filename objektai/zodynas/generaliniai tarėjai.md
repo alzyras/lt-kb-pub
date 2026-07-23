@@ -36,7 +36,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 ## Teiginiai
 
 <a id="claim-t-75547"></a>
-- t-002
+- t-001
   teiginys: "1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     - c-73296
 
 <a id="claim-t-75548"></a>
-- t-003
+- t-002
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     - c-73296
 
 <a id="claim-t-75549"></a>
-- t-001
+- t-003
   teiginys: "Generaliniai tarėjai prižiūrėjo lietuvių administraciją ir buvo pavaldūs generaliniam tarėjui Petrui Kubiliūnui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,12 +113,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina generalinių tarėjų paskyrimą ir yra pagrįstas citata."
   pagrindžia:
     - c-166820
-- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101477|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą.
-- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101478|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
-- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101527|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
-- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101528|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
+
 ## Citatos
 
 - id: c-73296
@@ -142,8 +137,8 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-166820
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -169,5 +164,5 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
     - t-004

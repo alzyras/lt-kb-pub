@@ -65,8 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Ruseinis pastatė Medinis kryžius (0.78)"
   pagrindžia:
     - c-60325
-- susijęs iš [[objektai/daiktai/Vytautinis Krucifiksas.md#claim-t-200847|Vytautinis Krucifiksas]]: Vytautiniu Krucifiksu vadinamas medinis kryžius su dramblio kaulo Nukryžiuotojo figūra, nors Vorobjovas jį datavo XVII amžiaus pabaiga.
-- susijęs iš Vilniaus katedra: Vilniaus katedros zakristijoje buvo saugoma XVII a. pabaigos dramblio kaulo Nukryžiuotojo figūra, vadinta Vytautiniu Krucifiksu.
+
 ## Citatos
 
 - id: c-60325

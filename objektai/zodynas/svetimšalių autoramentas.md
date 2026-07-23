@@ -36,7 +36,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 ## Teiginiai
 
 <a id="claim-t-78908"></a>
-- t-003
+- t-001
   teiginys: "Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - c-76014
 
 <a id="claim-t-78909"></a>
-- t-001
+- t-002
   teiginys: "Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - c-76015
 
 <a id="claim-t-78910"></a>
-- t-002
+- t-003
   teiginys: "Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76014
   sudarytojas: "Karolis Zikaras"
@@ -109,7 +109,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-76015
   sudarytojas: "Karolis Zikaras"
@@ -134,4 +134,4 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

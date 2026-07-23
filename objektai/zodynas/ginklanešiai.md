@@ -10,8 +10,6 @@ datos:
   - '1300 m.'
 date_start: '1289'
 date_end: '1300'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +17,8 @@ tags:
   - pilis
   - sąvoka
   - tikėjimas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 ## Teiginiai
 
 <a id="claim-t-175170"></a>
-- t-004
+- t-001
   teiginys: "1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159327
 
 <a id="claim-t-175172"></a>
-- t-001
+- t-003
   teiginys: "Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159326
 
 <a id="claim-t-175174"></a>
-- t-003
+- t-004
   teiginys: "Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159328
 
 <a id="claim-t-194453"></a>
-- t-006
+- t-005
   teiginys: "Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159326
 
 <a id="claim-t-197035"></a>
-- t-007
+- t-006
   teiginys: "Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,34 +132,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159324
-- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59909|Ditrichas iš Bernheimo]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį.
-- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
-- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
-- susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-184075|Gundramas]]: 1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių.
-- susijęs iš [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-55708|Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]: Kai laivą prie kranto nubloškė vėjas, Junigedos pilėnai jį užpuolė, bet pirmąjį susidūrimą broliai ir ginklanešiai atlaikė.
-- susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
-- susijęs iš [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.).md#claim-t-59450|Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]: Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.
-- susijęs iš Baiga: Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.
-- susijęs iš Baiga: Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
-- susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-60298|Gundramas]]: 1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62753|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: 1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.
-- susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62754|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: Dusburgietis pasakoja, kad Gundramo išvaduotos moterys virš į Kristburgą gabentų jo palaikų sakėsi mačiusios du baltus balandžius.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-183964|Susirėmimas Pokarviuose (1261 m.)]]: Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.
-- susijęs iš [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos.md#claim-t-67028|Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]: Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.
-- susijęs iš Aismares: Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.
-- susijęs iš Baiga: Broliai perplaukė Gėlo vandens marias ieškodami vietos piliai ir netoli būsimos Baigos pamatė prūsų pilį.
-- susijęs iš Baiga: Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos.
-- susijęs iš Kristburgas: Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį.
-- susijęs iš Kristburgas: 1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių.
-- susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.
-- susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.
-- susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-184021|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
-- susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
@@ -176,11 +149,10 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-159324
@@ -207,8 +179,8 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-001
+    - t-006
 
 - id: c-159326
   autorius: "Petras Dusburgietis"
@@ -227,8 +199,8 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
+    - t-003
+    - t-005
 
 - id: c-159327
   autorius: "Petras Dusburgietis"
@@ -275,4 +247,4 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

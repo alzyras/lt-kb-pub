@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87139"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

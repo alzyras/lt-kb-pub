@@ -71,8 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir tiksliai paremtas citata."
   pagrindžia:
     - c-82919
-- susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
-- susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
+
 ## Citatos
 
 - id: c-82919

@@ -59,6 +59,7 @@ Savarankiškas prisitaikymo ir atsargumo posakis.
   citata_rodoma: "Geriau: „Tarnauk Dievui, neužmiršk ir velnio“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

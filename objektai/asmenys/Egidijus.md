@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 ## Teiginiai
 
 <a id="claim-t-197074"></a>
-- t-004
+- t-001
   teiginys: "Egidijus nepakenčia tik niekingos nuodėmės, jis tik ją persekioja bei atperka."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,8 +48,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60903
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.
-- susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
+
 ## Citatos
 
 - id: c-60903
@@ -72,7 +71,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 - Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]

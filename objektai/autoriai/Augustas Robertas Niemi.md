@@ -61,7 +61,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
 ## Teiginiai
 
 <a id="claim-t-195247"></a>
-- t-002
+- t-001
   teiginys: "Prof. Niemi parašė apie 70 folkloro veikalų ir trumpesnių studijų, o jo moksliškas darbas prasidėjo 1895 m."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -71,7 +71,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177613
 
 <a id="claim-t-195248"></a>
-- t-003
+- t-002
   teiginys: "1898 m. Augustas Robertas Niemi parašė „Kalevalos I sudėtį. Rinkinį runų apie Vainamoiną“, nurodytą kaip licenciato disertaciją."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -81,7 +81,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177618
 
 <a id="claim-t-195249"></a>
-- t-004
+- t-003
   teiginys: "1911 m. Augustas Robertas Niemi paskelbė darbą „Latviškos ir lietuviškos žymės suomių liaudies poezijoje“."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -91,7 +91,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177615
 
 <a id="claim-t-195250"></a>
-- t-006
+- t-004
   teiginys: "1913 m. Augusto Roberto Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -101,7 +101,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177614
 
 <a id="claim-t-195251"></a>
-- t-001
+- t-005
   teiginys: "Augustas Robertas Niemi buvo suomis, gimęs 1869 m. liepos 25 d. vakarų Suomijoje, prie Turku ir Naantalio."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -111,7 +111,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177616
 
 <a id="claim-t-195252"></a>
-- t-005
+- t-006
   teiginys: "1912 m. Augustas Robertas Niemi paskelbė „Lietuvių dainas ir giesmes šiaurės rytų Lietuvoje“ kaip dainų rinkinį drauge su kun. A. Sabaliausko rinkiniu."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -119,30 +119,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177617
-- susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
-- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
-- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
-- susijęs iš Helsinkai: 1888 m. Augustas Robertas Niemi įstojo į Helsinkų universitetą.
-- susijęs iš Helsinkai: Helsinkuose buvo pastatytas Lonnroto paminklas, kuriam lėšas rinko Augustas Robertas Niemi.
-- susijęs iš Kariela: Augustas Robertas Niemi Lonnroto pėdomis padarė keletą kelionių po Karielą.
-- susijęs iš Kariela: 1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą.
-- susijęs iš Lemu parapija: Augustas Robertas Niemi gimė Lemu parapijoje.
-- susijęs iš Luononmaa sala: Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje.
-- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
-- susijęs iš Turku: 1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų.
-- susijęs iš Vakarų Suomija: Augustas Robertas Niemi gimė vakarų Suomijoje.
-- susijęs iš [[objektai/zodynas/Docentas.md#claim-t-195458|Docentas]]: 1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu.
-- susijęs iš [[objektai/zodynas/Filosofijos kandidato laipsnis.md#claim-t-195457|Filosofijos kandidato laipsnis]]: A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį.
-- susijęs iš [[objektai/zodynas/Filosofijos licenciato laipsnis.md#claim-t-195614|Filosofijos licenciato laipsnis]]: A. R. Niemi 1899 m. gavo fil. licenciato laipsnį.
-- susijęs iš [[objektai/zodynas/Filosofijos magistro laipsnis.md#claim-t-195613|Filosofijos magistro laipsnis]]: A. R. Niemi 1894 m. gavo fil. magistro laipsnį.
-- susijęs iš [[objektai/zodynas/Ordinarinis profesorius.md#claim-t-195459|Ordinarinis profesorius]]: A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi.
-- susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
-- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195256|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją.
-- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195257|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: 1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius.
-- susijęs iš [[objektai/autoriai/Lonnrotas (Kalevalos kūrėjas).md#claim-t-195254|Lonnrotas (Kalevalos kūrėjas)]]: 1895 m. A. R. Niemis rinko žinias apie Lonnrotą, apklausinėdamas žmones ir rinkdamas su juo susijusius laiškus.
-- susijęs iš [[objektai/grupes/Suomių mokslo akademija.md#claim-t-195504|Suomių mokslo akademija]]: Suomių mokslo akademija buvo pažadėjusi paskirti vieną savo leidinį likusiam lietuvių dainų rankraščiui ir anksčiau buvo išleidusi kitą su tuo darbu susijusią knygą.
-- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
-- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195566|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: Toje kelionėje A. R. Niemis rinko estų liaudies dainas.
+
 ## Citatos
 
 - id: c-177613
@@ -167,7 +144,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177614
   autorius: "A. Sabaliauskas"
@@ -185,7 +162,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-177615
   autorius: "A. Sabaliauskas"
@@ -203,7 +180,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177616
   autorius: "A. Sabaliauskas"
@@ -226,7 +203,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-177617
   autorius: "A. Sabaliauskas"
@@ -244,7 +221,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-177618
   autorius: "A. Sabaliauskas"
@@ -264,4 +241,4 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -39,7 +39,7 @@ Vartojamos formos: `žiuponais`.
 ## Teiginiai
 
 <a id="claim-t-07692"></a>
-- t-003
+- t-001
   teiginys: "Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -55,7 +55,7 @@ Vartojamos formos: `žiuponais`.
     - c-09621
 
 <a id="claim-t-07693"></a>
-- t-004
+- t-002
   teiginys: "Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -85,8 +85,8 @@ Vartojamos formos: `žiuponais`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-09622
   autorius: "Simonas Daukantas"
@@ -97,6 +97,7 @@ Vartojamos formos: `žiuponais`.
   citata_rodoma: "Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

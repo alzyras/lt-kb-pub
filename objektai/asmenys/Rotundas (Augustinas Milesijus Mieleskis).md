@@ -41,7 +41,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 ## Teiginiai
 
 <a id="claim-t-87455"></a>
-- t-003
+- t-001
   teiginys: "Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - c-83434
 
 <a id="claim-t-87456"></a>
-- t-001
+- t-002
   teiginys: "Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     - c-83435
 
 <a id="claim-t-87457"></a>
-- t-002
+- t-003
   teiginys: "Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-83435
   autorius: "Michał Baliński"
@@ -151,7 +151,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83436
   autorius: "Michał Baliński"
@@ -177,4 +177,4 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

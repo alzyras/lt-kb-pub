@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07520"></a>
-- t-004
+- t-001
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-00228
 
 <a id="claim-t-07521"></a>
-- t-005
+- t-002
   teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-00229
 
 <a id="claim-t-188379"></a>
-- t-001
+- t-003
   teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171273
-- susijęs iš [[objektai/zodynas/Baublys Baublis.md#claim-t-189218|Baublys Baublis]]: Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį ąžuolo, laikyto pranašaujančiu, pavadinimą.
+
 ## Citatos
 
 - id: c-00228
@@ -128,7 +128,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-00229
   redaktorius: "A. Šapoka"
@@ -152,7 +152,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-171273
   autorius: "Teodoras Narbutas"
@@ -174,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

@@ -47,11 +47,3 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-87424|Eustachijus Valavičius]]: Eustachijus Valavičius buvo Vilniaus kaštelionas.
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
-- susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
-- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-182985|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
-- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-70375|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.

@@ -11,16 +11,16 @@ datos:
   - '1530 m.'
 date_start: '1514'
 date_end: '1530'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 ## Teiginiai
 
 <a id="claim-t-181590"></a>
-- t-014
+- t-001
   teiginys: "Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-165127
 
 <a id="claim-t-183553"></a>
-- t-015
+- t-002
   teiginys: "Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-166946
 
 <a id="claim-t-184755"></a>
-- t-016
+- t-003
   teiginys: "Aleksandro pasiųstiems lengviesiems daliniams į Smolenską vadovavo Konstantinas Ostrogiškis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-168116
 
 <a id="claim-t-184757"></a>
-- t-018
+- t-004
   teiginys: "Po karo su Maskva karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-168118
 
 <a id="claim-t-184759"></a>
-- t-020
+- t-005
   teiginys: "Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
     - c-168118
 
 <a id="claim-t-193396"></a>
-- t-021
+- t-006
   teiginys: "Konstantinas Ostrogiškis įtaisė karo stovyklą Obolcuose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -140,13 +140,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176120
-- susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188018|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188019|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
-- susijęs iš Medininkų vartai: Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.
-- susijęs iš Orša: Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.
-- susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
-- susijęs iš Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
@@ -170,7 +164,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-165127
@@ -189,7 +182,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-001
 
 - id: c-166946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -210,7 +203,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-002
 
 - id: c-168116
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -241,7 +234,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-003
 
 - id: c-168118
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -267,8 +260,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-020
+    - t-004
+    - t-005
 
 - id: c-168119
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -341,7 +334,7 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-006
 
 ## Ryšiai
 - Konstantinas Ostrogiškis pastatė [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]

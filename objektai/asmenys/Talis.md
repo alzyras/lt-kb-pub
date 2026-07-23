@@ -30,7 +30,7 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
 ## Teiginiai
 
 <a id="claim-t-197823"></a>
-- t-002
+- t-001
   teiginys: "Talis gabenamas, nei kelio, kuriuo jį veždavo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -55,11 +55,11 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
     vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -87,4 +87,4 @@ Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -52,7 +52,7 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63916
-- susijęs iš [[objektai/grupes/Kluniečių ordinas.md#claim-t-63010|Kluniečių ordinas]]: Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.
+
 ## Citatos
 
 - id: c-63916

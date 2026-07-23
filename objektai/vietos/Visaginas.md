@@ -54,8 +54,7 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir paliktas objektui aktualus faktas."
   pagrindžia:
     - c-18369
-- susijęs iš Klaipėda: Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.
-- susijęs iš Sniečkus: Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.
+
 ## Citatos
 
 - id: c-18369

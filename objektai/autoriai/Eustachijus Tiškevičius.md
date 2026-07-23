@@ -78,11 +78,11 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

@@ -10,15 +10,15 @@ datos:
   - '1928 m.'
 date_start: '1918'
 date_end: '1928'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - rašytojas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 ## Teiginiai
 
 <a id="claim-t-93049"></a>
-- t-011
+- t-001
   teiginys: "1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,9 +71,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie leidinį ir jo leidimo metus."
   pagrindžia:
     - c-36683
-- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
-- susijęs iš P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais: P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245.
-- susijęs iš Lietuvių kalbos sintaksė: P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -124,7 +122,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00089
@@ -180,7 +177,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-88463
   autorius: "Zenonas Ivinskis"
@@ -194,6 +191,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     nius 1923.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

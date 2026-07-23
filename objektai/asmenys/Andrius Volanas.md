@@ -44,10 +44,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83605
-- susijęs iš [[objektai/autoriai/Andrius Volanas Volanus.md#claim-t-88052|Andrius Volanas Volanus]]: Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.
-- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86463|disidentai reformatai reformatoriai]]: Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi.
-- susijęs iš [[objektai/grupes/Vilniaus reformatai ir disidentai.md#claim-t-86750|Vilniaus reformatai ir disidentai]]: Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus.
-- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
+
 ## Citatos
 
 - id: c-83605

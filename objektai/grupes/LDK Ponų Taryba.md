@@ -66,7 +66,3 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
-## Teiginiai
-
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.

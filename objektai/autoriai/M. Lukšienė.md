@@ -51,9 +51,7 @@ Lukšienė (BBK, t.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30731
-- susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97146|A. Šidlauskas]]: A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.
-- susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97148|A. Šidlauskas]]: A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179533|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.
+
 ## Citatos
 
 - id: c-30731

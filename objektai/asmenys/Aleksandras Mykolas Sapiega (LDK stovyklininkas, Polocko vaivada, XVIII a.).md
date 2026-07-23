@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200687"></a>
-- t-004
+- t-001
   teiginys: "1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -56,8 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir turi aiškų kontekstą: 1749 m. laišką Aleksandrui Mykolui Sapiegai. Jis neprideda daugiau, negu leidžia citata."
   pagrindžia:
     - c-183880
-- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
-- susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
+
 ## Citatos
 
 - id: c-183880
@@ -69,4 +68,4 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   pagrindzia:
-    - t-004
+    - t-001

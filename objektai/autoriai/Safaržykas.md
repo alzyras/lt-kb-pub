@@ -7,14 +7,14 @@ datos:
   - '1799 m.'
 date_start: '1799'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -121,11 +121,10 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
     (Zeller.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174437

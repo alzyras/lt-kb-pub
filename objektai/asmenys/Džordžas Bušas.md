@@ -45,9 +45,7 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26663
-- susijęs iš [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.).md#claim-t-26375|JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]: 2002 m. lapkričio 23 d. Vilniuje Džordžas Bušas pareiškė, kad Lietuvos priešai taptų ir JAV priešais.
-- susijęs iš Vilnius: Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares.
-- susijęs iš Jungtinės Amerikos Valstijos: JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais.
+
 ## Citatos
 
 - id: c-26663

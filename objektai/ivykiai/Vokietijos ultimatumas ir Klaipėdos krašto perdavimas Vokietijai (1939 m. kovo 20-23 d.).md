@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75307"></a>
-- t-004
+- t-001
   teiginys: "1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-73127
 
 <a id="claim-t-75310"></a>
-- t-005
+- t-004
   teiginys: "1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,8 +149,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-005
 
 - id: c-73127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

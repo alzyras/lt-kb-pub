@@ -58,8 +58,7 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą."
   pagrindžia:
     - c-83796
-- susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
-- susijęs iš Vyskupų gatvė: 1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.
+
 ## Citatos
 
 - id: c-83796

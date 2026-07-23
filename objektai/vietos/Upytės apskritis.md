@@ -30,7 +30,7 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
 ## Teiginiai
 
 <a id="claim-t-197481"></a>
-- t-002
+- t-001
   teiginys: "Upinė (Uppinė ) Upių, šaltinių, apskritai tekančio vandens deivė."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -54,11 +54,11 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
     Upinė (Uppinė )
     Upių, šaltinių, apskritai tekančio vandens deivė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -83,4 +83,4 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

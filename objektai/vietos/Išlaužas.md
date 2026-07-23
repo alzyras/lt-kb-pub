@@ -49,8 +49,7 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171839
-- susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
-- susijęs iš [[objektai/paprociai/Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas.md#claim-t-189898|Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas]]: Narbutas pateikia vietos padavimą, kad prie Išlaužo esantis šakelių laužas dengęs plėšikų nužudyto svetimšalio palaikus.
+
 ## Citatos
 
 - id: c-171839

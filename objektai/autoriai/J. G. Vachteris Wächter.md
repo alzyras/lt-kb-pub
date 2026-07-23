@@ -58,6 +58,7 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
   citata_rodoma: "Ūkiniai prie jų priklausantys pastatai (des Königes \nHof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų\na\nHof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai \nprincipis comitatus - praedium cum pastarąja prasme; juk folwark - ūki- \nomnibus aedificiis, agris, pasenis etc. niai sandėliai\n—  •\n169\n\n## Puslapis 186\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nKoms vnd ander gud es dat dar inne dėmė Houe was ok ersa- \nme lene Her Mester 20 sėdit de vorgescreuene Dener dat \ndeVörste Vytouwete wil wesen to Garden kegen Palmen vnd \nden Pascken dar kolden Vortmer so lieft lie Mannevyden to \nsycli vorkodet to Garden vnd dar is Mannevide eme entegen \ntogen mit groteme vrockten (*) vnd seyde daromme dat de \nVille vorkrant is."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

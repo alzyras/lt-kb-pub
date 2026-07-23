@@ -43,12 +43,7 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61081
-- susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101534|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
-- susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101535|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
-- susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101536|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
-- susijęs iš [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.).md#claim-t-20246|LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
-- susijęs iš Molotovo–Ribentropo paktas: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas, minint pakto pasirašymo 50-ąsias metines.
-- susijęs iš Molotovo–Ribentropo paktas: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas dėl Molotovo–Ribentropo pakto.
+
 ## Citatos
 
 - id: c-61081

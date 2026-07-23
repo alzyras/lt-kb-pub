@@ -48,7 +48,7 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174180
-- susijęs iš [[objektai/ivykiai/Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis.md#claim-t-191068|Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis]]: Narso vadovaujama Justiniano kariuomenė 552 m. buvo sutelkta Pado žemupyje ir dalyvavo Taginos mūšyje, kuriame žuvo Totila.
+
 ## Citatos
 
 - id: c-174180

@@ -41,7 +41,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 ## Teiginiai
 
 <a id="claim-t-170245"></a>
-- t-010
+- t-001
   teiginys: "Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154926
 
 <a id="claim-t-170246"></a>
-- t-008
+- t-002
   teiginys: "1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154922
 
 <a id="claim-t-170247"></a>
-- t-009
+- t-003
   teiginys: "Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154923
 
 <a id="claim-t-170248"></a>
-- t-003
+- t-004
   teiginys: "Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154921
 
 <a id="claim-t-170249"></a>
-- t-002
+- t-005
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154919
 
 <a id="claim-t-170250"></a>
-- t-007
+- t-006
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - c-154924
 
 <a id="claim-t-170253"></a>
-- t-004
+- t-007
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,21 +168,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-42328
-- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13477|Lietuvos Persitvarkymo Sąjūdis]]: Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.
-- susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-183178|Rusijos Federacija]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas.md#claim-t-26398|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]: Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-183243|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“.md#claim-t-26352|„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]: Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.
-- susijęs iš Deklaracija dėl geros kaimynystės santykių principų: Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš Lietuvos ir Baltarusijos sutartis dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos: Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos.
-- susijęs iš Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartis: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš Aušros vartai: 1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų.
-- susijęs iš Baltarusija: 1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš Rusija: 1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-183452|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13477|Lietuvos Persitvarkymo Sąjūdis]]: Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.
+
 ## Citatos
 
 - id: c-42328
@@ -199,7 +185,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-154919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -221,7 +207,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-154921
   sudarytojas: "Karolis Zikaras"
@@ -244,7 +230,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-154922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -264,7 +250,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-154923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -289,7 +275,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-154924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -310,7 +296,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-154926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -332,7 +318,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Borisas Jelcinas]]

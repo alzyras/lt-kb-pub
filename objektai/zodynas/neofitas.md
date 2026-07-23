@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179583"></a>
-- t-007
+- t-001
   teiginys: "1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-37936
 
 <a id="claim-t-179584"></a>
-- t-009
+- t-002
   teiginys: "Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ media_all_json: |-
     - c-14704
 
 <a id="claim-t-179585"></a>
-- t-008
+- t-003
   teiginys: "Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,9 +90,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37937
-- susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195042|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.
-- susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195040|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.
-- susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195041|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.
+
 ## Citatos
 
 - id: c-14704
@@ -114,7 +112,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-37936
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -134,7 +132,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-37937
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -154,4 +152,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003

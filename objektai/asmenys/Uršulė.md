@@ -8,14 +8,14 @@ datos:
   - '1632 m.'
 date_start: '1632'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,16 +68,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176623
-- susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87775|Mauricijus]]: Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.
-- susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87776|Mauricijus]]: 1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
-- susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
-- susijęs iš [[objektai/asmenys/Petras (Onos vyras, XIX a.).md#claim-t-195550|Petras (Onos vyras, XIX a.)]]: Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas.
-- susijęs iš [[objektai/asmenys/Uršulė (Petro ir Onos pašnekovė, XIX a.).md#claim-t-195556|Uršulė (Petro ir Onos pašnekovė, XIX a.)]]: Uršulė Petro paklausė, kada bus jo ir Onos vestuvės.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81750|Vilniaus žydų kahalas]]: Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.
-- susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
-- susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
-- susijęs iš [[objektai/asmenys/Ona (Petro žmona, XIX a.).md#claim-t-195553|Ona (Petro žmona, XIX a.)]]: Ganiavos epizode Ona įvardijama kaip viena iš mergaičių, artimų Petrui.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila.'
@@ -93,7 +84,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-83909

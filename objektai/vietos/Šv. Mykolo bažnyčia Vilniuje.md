@@ -51,7 +51,7 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
   semantiniai_rysiai: "Šv. Mykolo bažnyčia Vilniuje priklausė Vilnius (0.82)"
   pagrindžia:
     - c-82265
-- susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
+
 ## Citatos
 
 - id: c-82265

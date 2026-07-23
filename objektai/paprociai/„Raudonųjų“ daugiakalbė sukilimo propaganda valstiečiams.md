@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54379"></a>
-- t-002
+- t-001
   teiginys: "Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-55228
 
 <a id="claim-t-193580"></a>
-- t-003
+- t-002
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176255
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -121,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

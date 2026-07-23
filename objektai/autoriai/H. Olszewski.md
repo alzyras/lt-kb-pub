@@ -37,8 +37,7 @@ Olszewski.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22135
-- susijęs iš [[objektai/autoriai/M. Šapoka.md#claim-t-19431|M. Šapoka]]: M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.
-- susijęs iš [[objektai/autoriai/Mindaugas Šapoka.md#claim-t-71534|Mindaugas Šapoka]]: Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“.
+
 ## Citatos
 
 - id: c-22135

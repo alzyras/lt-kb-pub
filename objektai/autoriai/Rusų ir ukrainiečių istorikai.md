@@ -40,7 +40,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Teiginiai
 
 <a id="claim-t-47895"></a>
-- t-002
+- t-001
   teiginys: "E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-50252
 
 <a id="claim-t-47897"></a>
-- t-004
+- t-002
   teiginys: "Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-30850
 
 <a id="claim-t-47899"></a>
-- t-007
+- t-004
   teiginys: "M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-30852
 
 <a id="claim-t-47901"></a>
-- t-001
+- t-006
   teiginys: "Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-007
+    - t-004
 
 - id: c-30852
   autorius: "Zenonas Ivinskis"
@@ -201,7 +201,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-50253
   autorius: "Zenonas Ivinskis"
@@ -221,7 +221,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-50255
   autorius: "Zenonas Ivinskis"
@@ -240,4 +240,4 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

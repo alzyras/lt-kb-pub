@@ -41,7 +41,7 @@ Krašto padalinimas į pavietus ir vaivadijas.
 ## Teiginiai
 
 <a id="claim-t-69428"></a>
-- t-002
+- t-001
   teiginys: "Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +84,4 @@ Krašto padalinimas į pavietus ir vaivadijas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

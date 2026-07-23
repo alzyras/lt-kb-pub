@@ -50,6 +50,7 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
   citata_rodoma: "krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

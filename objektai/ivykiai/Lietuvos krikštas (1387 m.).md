@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186366"></a>
-- t-003
+- t-001
   teiginys: "Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186367"></a>
-- t-005
+- t-002
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-169729
 
 <a id="claim-t-186368"></a>
-- t-007
+- t-003
   teiginys: "Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186369"></a>
-- t-002
+- t-004
   teiginys: "Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-169726
 
 <a id="claim-t-186370"></a>
-- t-006
+- t-005
   teiginys: "Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Nenurodyta
     - c-169727
 
 <a id="claim-t-200707"></a>
-- t-008
+- t-006
   teiginys: "Viljamas Pochliobkinas 1387 m. Lietuvos krikštą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -167,16 +167,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184052
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173246|Vladislovas Jogaila]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178873|Kryžiuočių ordinas]]: Kryžiuočiai Vakarų Europoje skleidė gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117317|Vokiečiai]]: Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.
-- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186408|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
-- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186409|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
-- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
-- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
-- susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
+
 ## Citatos
 
 - id: c-169726
@@ -200,9 +191,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-007
-    - t-002
+    - t-004
 
 - id: c-169727
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -226,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-169729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -249,7 +240,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-184052
   autorius: "Rimvydas Laužikas"
@@ -260,4 +251,4 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   pagrindzia:
-    - t-008
+    - t-006

@@ -45,10 +45,7 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42102
-- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
-- susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
-- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
-- susijęs iš Pogulianka: Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka.
+
 ## Citatos
 
 - id: c-42102

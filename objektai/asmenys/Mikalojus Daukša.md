@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78026"></a>
-- t-003
+- t-001
   teiginys: "Daukšos lietuviakalbė programa nebuvo įgyvendinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,9 +56,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-75341
-- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-67311|„Kurgi, sakau, pasaulyje yra tauta...“]]: Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.
-- susijęs iš M. Daukšos Postilė: 1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.
-- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-26647|„Kurgi, sakau, pasaulyje yra tauta...“]]: Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.
+
 ## Citatos
 
 - id: c-75341
@@ -78,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

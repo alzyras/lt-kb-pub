@@ -59,7 +59,7 @@ Nenurodyta
     - c-169896
 
 <a id="claim-t-186612"></a>
-- t-005
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad vokiečiai priminė Vytautui turint grąžinti tris šimtus auksinų už užstatytą Žemaitiją."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-169896
 
 <a id="claim-t-186613"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas priėmė žemaičius savo globon po jų pasiuntinių prašymo valdyti Žemaičius."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-169897
 
 <a id="claim-t-186614"></a>
-- t-002
+- t-004
   teiginys: "Lietuvos metraštis vaizduoja Prūsijos ir Livonijos vokiečius telkus kariuomenę Palangoje, o žemaičius nuo kopų akmenimis ją išmušus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-169897
 
 <a id="claim-t-186615"></a>
-- t-006
+- t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas surinko ir nusiuntė vokiečiams visą auksinų sumą, o šie po to Žemaitijos nebepuolė."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -131,7 +131,7 @@ Nenurodyta
     - c-169896
 
 <a id="claim-t-186616"></a>
-- t-003
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės žemaičiai siuntė pasiuntinius pas Vytautą ir prašė jį valdyti Žemaičius jų nebeužstatinėjant."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -270,8 +270,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-005
-    - t-006
     - t-007
     - t-008
 
@@ -297,6 +297,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
     - t-003
+    - t-004
+    - t-006

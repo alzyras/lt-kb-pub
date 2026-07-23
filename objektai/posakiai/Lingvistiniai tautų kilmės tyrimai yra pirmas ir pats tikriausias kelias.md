@@ -69,7 +69,6 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175004

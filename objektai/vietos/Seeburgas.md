@@ -54,13 +54,7 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
   temporalinis_llm_pakomentavimas: "Pašalintos OCR skiemenavimo liekanos ir paliktas aiškus faktas apie Seeburgą."
   pagrindžia:
     - c-28366
-- susijęs iš Grobinė: VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.
-- susijęs iš [[objektai/ivykiai/Apuolės apgula (853 m.).md#claim-t-31404|Apuolės apgula (853 m.)]]: Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.
-- susijęs iš Grobinė: VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.
+
 ## Citatos
 
 - id: c-28366

@@ -48,7 +48,7 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172245
-- susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
+
 ## Citatos
 
 - id: c-172245

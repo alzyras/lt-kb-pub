@@ -10,8 +10,6 @@ datos:
   - '1300 m.'
 date_start: '1289'
 date_end: '1300'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +17,8 @@ tags:
   - pilis
   - sąvoka
   - tikėjimas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159332
 
 <a id="claim-t-175176"></a>
-- t-004
+- t-002
   teiginys: "1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159333
 
 <a id="claim-t-175177"></a>
-- t-002
+- t-003
   teiginys: "Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159329
 
 <a id="claim-t-175178"></a>
-- t-003
+- t-004
   teiginys: "Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159331
 
 <a id="claim-t-194454"></a>
-- t-006
+- t-005
   teiginys: "Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159332
 
 <a id="claim-t-197036"></a>
-- t-007
+- t-006
   teiginys: "Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,12 +132,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159333
-- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
-- susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
-- susijęs iš [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema).md#claim-t-62921|Skalvių pilies puolimas (1293 m. žiema)]]: 1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.
-- susijęs iš Skalvių pilis (pilis, XIII a.): Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
@@ -154,11 +149,10 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-159329
@@ -183,7 +177,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-159331
   autorius: "Petras Dusburgietis"
@@ -206,7 +200,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-159332
   autorius: "Petras Dusburgietis"
@@ -226,7 +220,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-005
 
 - id: c-159333
   autorius: "Petras Dusburgietis"
@@ -252,5 +246,5 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-002
+    - t-006

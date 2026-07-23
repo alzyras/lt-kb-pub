@@ -57,6 +57,7 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
   citata_rodoma: "bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -56,8 +56,3 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191008|Darijaus žygis prieš skitus]]: Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą.
-- susijęs iš Herodoto istorija: Pasak Narbuto perteikto Herodoto, persų karalius Darijus, dvariškių pataikavimo suklaidintas, neapdairiu įkarščiu padėjo skitams įgyvendinti jų ketinimus.

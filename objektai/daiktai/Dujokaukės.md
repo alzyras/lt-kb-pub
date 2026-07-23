@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44649
-- susijęs iš [[objektai/daiktai/Statybininkų šalmai.md#claim-t-40772|Statybininkų šalmai]]: Statybininkų šalmai ir dujokaukės Lietuvos atsikūrimo metu buvo gautos iš Vilniaus miesto tarybos.
+
 ## Citatos
 
 - id: c-44649

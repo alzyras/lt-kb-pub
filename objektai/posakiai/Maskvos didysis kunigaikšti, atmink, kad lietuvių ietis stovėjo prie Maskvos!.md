@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09667"></a>
-- t-004
+- t-001
   teiginys: "Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -54,7 +54,7 @@ media_all_json: |-
     - c-12479
 
 <a id="claim-t-09668"></a>
-- t-003
+- t-002
   teiginys: "Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -68,7 +68,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12480
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192079|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
+
 ## Citatos
 
 - id: c-12479
@@ -91,7 +91,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-12480
   sudarytojas: "Karolis Zikaras"
@@ -108,4 +108,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

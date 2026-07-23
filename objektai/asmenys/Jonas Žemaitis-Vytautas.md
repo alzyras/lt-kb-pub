@@ -88,18 +88,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-21756
-- susijęs iš [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.).md#claim-t-20551|Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]: Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
-- susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41027|Lietuvos gynybos pajėgos]]: 1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės kovos sąjūdis.md#claim-t-169728|Lietuvos laisvės kovos sąjūdis]]: LLKS Vasario 16-osios deklaracijoje numatyta atkurti Lietuvos valstybę kaip demokratinę respubliką.
-- susijęs iš [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.).md#claim-t-20245|LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]: LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.
-- susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.
-- susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).
-- susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): 1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.
-- susijęs iš Lietuva: LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.
-- susijęs iš Prancūzija: Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje.
-- susijęs iš Prancūzija: Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje, o vėliau buvo išrinktas LLKS Tarybos prezidiumo pirmininku.
-- susijęs iš [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai.md#claim-t-183467|stribai naikintojų batalionai liaudies gynėjai]]: Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.
-- susijęs iš [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai.md#claim-t-70338|stribai naikintojų batalionai liaudies gynėjai]]: Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.
+
 ## Citatos
 
 - id: c-21756
@@ -179,6 +168,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   citata_rodoma: "nežinoma. Tačiau vien tas faktas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

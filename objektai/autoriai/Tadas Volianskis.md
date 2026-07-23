@@ -102,9 +102,9 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173165
 
 <a id="claim-t-190287"></a>
-- t-006
+- t-005
   teiginys: "Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -122,7 +122,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173170
 
 <a id="claim-t-190288"></a>
-- t-007
+- t-006
   teiginys: "Narbutas perteikė Tado Volianskio pastabą, kad Smilginio 1475 m. antspaudo žąsis primena Pabaltijo slavų būrimą žirgu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173171
 
 <a id="claim-t-190289"></a>
-- t-008
+- t-007
   teiginys: "Tadas Volianskis Bartoševičiaus 1603 m. antspaudo runų užrašą skaitė kaip „Simeonas“."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173171
 
 <a id="claim-t-190290"></a>
-- t-009
+- t-008
   teiginys: "Narbutas informaciją apie užrašą paėmė iš 1844 m. sausio 17 d. Tado Volianskio laiško iš Bidgoščiaus."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173173
 
 <a id="claim-t-190801"></a>
-- t-010
+- t-009
   teiginys: "Tekstas apie Tadą Volianskį buvo parengtas remiantis jo tyrinėjimais ir J. Hamerio monografija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173683
 
 <a id="claim-t-190802"></a>
-- t-011
+- t-010
   teiginys: "Teodoras Narbutas Tado Volianskio išvadomis pildė parankinio „Lietuvių tautos istorijos“ egzemplioriaus tomus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173684
 
 <a id="claim-t-190803"></a>
-- t-012
+- t-011
   teiginys: "Teodoras Narbutas rašo, kad Tadas Volianskis statulėlės galvoje matė ragus, iš užpakalio panašius į erelį su nagais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -237,7 +237,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173686
 
 <a id="claim-t-190804"></a>
-- t-013
+- t-012
   teiginys: "Teodoras Narbutas nurodo, kad Tadas Volianskis priekaištavo dėl Szwaixtiks statulėlės nepanašumo į Lietuvos Apoloną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -257,7 +257,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173686
 
 <a id="claim-t-190805"></a>
-- t-014
+- t-013
   teiginys: "Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -277,7 +277,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173687
 
 <a id="claim-t-190806"></a>
-- t-015
+- t-014
   teiginys: "Teodoras Narbutas nurodo, kad Tadas Volianskis runų užrašą skaitė kaip Simeonas (SI-ME-ON)."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -290,7 +290,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173686
 
 <a id="claim-t-190807"></a>
-- t-016
+- t-015
   teiginys: "Teodoras Narbutas rašo, kad Tadas Volianskis užrašą skaitė kaip Maitez (MATTEZ), t. y. Maljasz arba Matas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -303,7 +303,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173686
 
 <a id="claim-t-197338"></a>
-- t-017
+- t-016
   teiginys: "Tadas Volianskis remiasi į nulaužtą medžio kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, laiko kažką panašaus į pasagą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -315,7 +315,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173172
 
 <a id="claim-t-197645"></a>
-- t-018
+- t-017
   teiginys: "Šios dainos vertimą į lenkų kalbą istorikas gavo iš savo korespondento archeologo, kolekcio nieriaus Tado Volianskio (Wolanski)."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -327,7 +327,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-179278
 
 <a id="claim-t-197646"></a>
-- t-019
+- t-018
   teiginys: "Tadas Volianskis reiškia IOVI OPTIMO MAXIMO."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -339,7 +339,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
     - c-173685
 
 <a id="claim-t-197647"></a>
-- t-020
+- t-019
   teiginys: "Tadas Volianskis pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama riteriška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnuliai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du erelio sparnai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -434,7 +434,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-173165
@@ -523,7 +522,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173171
   autorius: "Teodoras Narbutas"
@@ -541,8 +540,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-007
-    - t-008
 
 - id: c-173172
   autorius: "Teodoras Narbutas"
@@ -563,7 +562,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
 - id: c-173173
   autorius: "Teodoras Narbutas"
@@ -580,7 +579,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-173683
   autorius: "Teodoras Narbutas"
@@ -599,7 +598,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-173684
   autorius: "Teodoras Narbutas"
@@ -619,7 +618,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-173685
   autorius: "Teodoras Narbutas"
@@ -642,7 +641,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-173686
   autorius: "Teodoras Narbutas"
@@ -668,10 +667,10 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-011
     - t-012
-    - t-013
+    - t-014
     - t-015
-    - t-016
 
 - id: c-173687
   autorius: "Teodoras Narbutas"
@@ -696,7 +695,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-173688
   autorius: "Teodoras Narbutas"
@@ -741,7 +740,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-019
 
 - id: c-179278
   autorius: "Teodoras Narbutas"
@@ -769,4 +768,4 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-017

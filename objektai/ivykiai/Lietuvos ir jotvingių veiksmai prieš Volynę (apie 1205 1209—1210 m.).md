@@ -74,7 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Rewrite failed deterministic gates: missing_factual_predicate"
   pagrindžia:
     - c-60288
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175134|Sūduviai-jotvingiai]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.
+
 ## Citatos
 
 - id: c-60288

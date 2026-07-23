@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87154"></a>
-- t-002
+- t-001
   teiginys: "Įsigiję valdas rusai ir totoriai turėjo mokėti tas pačias dešimtines, pelno mokestį ir duokles, kurias mokėjo ankstesni savininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

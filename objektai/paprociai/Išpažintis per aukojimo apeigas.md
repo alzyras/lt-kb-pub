@@ -165,6 +165,7 @@ Nenurodyta
   citata_rodoma: "Į mote­\nris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­\nžintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug\nkitokių pamokymų. Iš to matyti, kad įvedus krikščionybę bu­\nvo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip\nnuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­\nžintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.\nTačiau tikra turėtų būti ir tai, kad kažką panašaus lietuviai\n320\n\n## Puslapis 320\n\nturėjo ir pačioje stabmeldiškoje religijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

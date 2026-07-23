@@ -117,7 +117,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-55713
 
 <a id="claim-t-89428"></a>
-- t-007
+- t-004
   teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85389
 
 <a id="claim-t-89429"></a>
-- t-004
+- t-005
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-89430"></a>
-- t-005
+- t-006
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85390
 
 <a id="claim-t-89431"></a>
-- t-006
+- t-007
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,24 +186,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu."
   pagrindžia:
     - c-85391
-- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
-- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87413|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172833|Vilniaus miestiečių luomas]]: 1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.
-- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-183931|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.
-- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-62322|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87135|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87233|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: 1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.
-- susijęs iš Lionas: Po popiežiaus Klemenso vainikavimo prie Liono esančioje Šv. Justo bažnyčioje griuvusi mūro siena nuslėgė daug žmonių.
-- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
-- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113645|Magdeburgo teisės]]: 1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113648|Magdeburgo teisės]]: 1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus.
-- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
-- susijęs iš [[objektai/zodynas/prekymečiai ir turgūs.md#claim-t-86610|prekymečiai ir turgūs]]: Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.
-- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86689|Vilniaus gyventojai]]: Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.
-- susijęs iš [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus.md#claim-t-86859|ius Teutonicum quod Magdeburiense dicitur denuo darnus]]: 1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184636|pilėnas]]: Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.
+
 ## Citatos
 
 - id: c-55711
@@ -277,7 +260,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-85390
   autorius: "Michał Baliński"
@@ -300,7 +283,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-85391
   autorius: "Michał Baliński"
@@ -328,7 +311,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-85392
   autorius: "Michał Baliński"
@@ -356,4 +339,4 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-005

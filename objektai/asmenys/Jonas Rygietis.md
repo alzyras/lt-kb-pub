@@ -65,6 +65,7 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
   citata_rodoma: "Tad buvo perskaitytas tas laiškas ir du kiti, \nkurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo \naptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką \ndaryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­\nsius Ordino riterius, Rygos presbiterį, Vendeno komtūrą \nVeimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau\n99\n\n## Puslapis 116\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nir Gotfridą fon Ostą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -54,7 +54,7 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie posakio moralinę prasmę ir remiasi citata."
   pagrindžia:
     - c-75160
-- susijęs iš [[objektai/zodynas/Desovietizacija ir liustracija.md#claim-t-21988|Desovietizacija ir liustracija]]: Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.
+
 ## Citatos
 
 - id: c-75160

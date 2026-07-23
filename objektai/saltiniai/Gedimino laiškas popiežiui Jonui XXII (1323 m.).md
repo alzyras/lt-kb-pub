@@ -35,7 +35,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 ## Teiginiai
 
 <a id="claim-t-88131"></a>
-- t-004
+- t-001
   teiginys: "Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84113
 
 <a id="claim-t-88132"></a>
-- t-001
+- t-002
   teiginys: "Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84112
 
 <a id="claim-t-88133"></a>
-- t-002
+- t-003
   teiginys: "Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84113
 
 <a id="claim-t-88134"></a>
-- t-005
+- t-004
   teiginys: "Balińskis aiškino, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą buvo įterptas siekiant išsklaidyti abejones dėl laiškų tikrumo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - c-84110
 
 <a id="claim-t-88135"></a>
-- t-003
+- t-005
   teiginys: "Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-84111
   autorius: "Michał Baliński"
@@ -166,7 +166,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-84112
   autorius: "Michał Baliński"
@@ -198,7 +198,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-84113
   autorius: "Michał Baliński"
@@ -229,8 +229,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
+    - t-001
+    - t-003
 
 - id: c-84114
   autorius: "Michał Baliński"
@@ -252,6 +252,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     Ecclesie gubernatur.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

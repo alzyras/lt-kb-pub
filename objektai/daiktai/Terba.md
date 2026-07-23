@@ -13,7 +13,7 @@ variantai:
   - 'šikšninė terba'
   - 'šikšniniu pasaitu'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -64,17 +64,18 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195300"></a>
-- t-003
+- t-001
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
+    - c-177667
     - c-177673
 
 <a id="claim-t-195301"></a>
-- t-001
+- t-002
   teiginys: "Terba minima kaip fizinis nešimo daiktas vėžiams parnešti."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -84,7 +85,7 @@ Nenurodyta
     - c-177671
 
 <a id="claim-t-195302"></a>
-- t-005
+- t-003
   teiginys: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -96,36 +97,13 @@ Nenurodyta
 <a id="claim-t-195304"></a>
 - t-004
   teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177670
-- susijęs iš [[objektai/paprociai/Moterų vėžiavimas.md#claim-t-195357|Moterų vėžiavimas]]: Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių.
-- susijęs iš [[objektai/daiktai/Naginės.md#claim-t-195349|Naginės]]: Elgetos apavas.
-- susijęs iš [[objektai/daiktai/Ražončius.md#claim-t-195348|Ražončius]]: Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys.
-- susijęs iš [[objektai/daiktai/Vyža.md#claim-t-195668|Vyža]]: Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą.
-- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195567|1902 m. A. R. Niemio kelionė į Lietuvą]]: 1902 m. vasarą A. R. Niemis atnaujino kelionę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195568|1902 m. A. R. Niemio kelionė į Lietuvą]]: Per šią kelionę A. R. Niemis lankė Kauną ir buvo nuolat sekamas rusų žandarų.
-- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195569|1902 m. A. R. Niemio kelionė į Lietuvą]]: Kelionės tikslas buvo susipažinti su lietuvių liaudies poezija.
-- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195570|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: 1904 m. rugpjūčio ir rugsėjo mėnesiais A. R. Niemis vyko į Archangelsko guberniją.
-- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195571|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: Kelionės tikslas buvo pasiekti senų runų rinkimo vietą.
-- susijęs iš [[objektai/ivykiai/1906 m. A. R. Niemio studijų kelionė į Vokiją.md#claim-t-195572|1906 m. A. R. Niemio studijų kelionė į Vokiją]]: 1906 m. vasarą A. R. Niemis vyko į studijų kelionę į Vokiją.
-- susijęs iš [[objektai/ivykiai/1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje.md#claim-t-195573|1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje]]: 1909 m. vasarą A. R. Niemis vyko į studijų ir dainų rinkimo kelionę Suomijos Karieloje.
-- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195574|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Kelionių maršrute buvo Kaunas, Tilžė, Karaliaučius, Vilnius ir Ryga.
-- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195575|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Per šias keliones A. R. Niemis surinko apie 3500 liaudies dainų.
-- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195576|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910 m. A. R. Niemis rinko dainas šiaurės rytų Lietuvoje.
-- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195577|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910-1912 m. A. R. Niemis keliavo po Lietuvą ir Latviją lietuvių tautosakos studijų tikslais.
-- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
-- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195579|1930 m. A. R. Niemio kelionė į Kauną]]: Šios kelionės tikslas buvo susipažinti su naujais lietuvių liaudies dainų rinkiniais.
-- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195580|1930 m. A. R. Niemio kelionė į Kauną]]: 1930 m. A. R. Niemis vėl buvo atkeliavęs į Kauną.
-- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195370|Klojime pasakojamos pasakos ir juokai]]: Kūlimo metu klojime klausytasi juokavimų ir pasakų.
-- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
-- susijęs iš [[objektai/posakiai/Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai.md#claim-t-195427|Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai]]: Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus.
-- susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
-- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
-- susijęs iš Kariela: 1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą.
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -156,10 +134,12 @@ Nenurodyta
   citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-177668
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -213,7 +193,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
     - t-004
 
 - id: c-177671
@@ -234,7 +214,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177672
   autorius: "M. Katkus"
@@ -273,7 +253,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177674
   autorius: "M. Katkus"
@@ -288,6 +268,7 @@ Nenurodyta
   citata_rodoma: "Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­\njetą didesnių vaikų."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

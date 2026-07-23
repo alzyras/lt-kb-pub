@@ -46,7 +46,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-76753
 
 <a id="claim-t-79828"></a>
-- t-003
+- t-002
   teiginys: "Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-76751
 
 <a id="claim-t-79829"></a>
-- t-002
+- t-003
   teiginys: "Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-76752
   sudarytojas: "Karolis Zikaras"
@@ -136,7 +136,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76753
   sudarytojas: "Karolis Zikaras"

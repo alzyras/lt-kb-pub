@@ -47,7 +47,7 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169588
-- susijęs iš Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
+
 ## Citatos
 
 - id: c-169588

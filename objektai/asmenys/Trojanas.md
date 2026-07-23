@@ -75,11 +75,10 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
     vino kaip vandalų, finų, galindų ir venedų nugalėto­
     ją.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174361

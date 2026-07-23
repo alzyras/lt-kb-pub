@@ -6,7 +6,7 @@ variantai:
   - 'išverstų kailinių'
   - 'kailinių'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - drabužis
@@ -62,6 +62,7 @@ Nenurodyta
   citata_rodoma: "Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

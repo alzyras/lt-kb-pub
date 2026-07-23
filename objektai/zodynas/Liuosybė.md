@@ -50,6 +50,3 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Karo grobio dalijimas į keturias dalis.md#claim-t-07781|Karo grobio dalijimas į keturias dalis]]: Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.

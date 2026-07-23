@@ -30,7 +30,7 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
 ## Teiginiai
 
 <a id="claim-t-197703"></a>
-- t-002
+- t-001
   teiginys: "(Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina žemaičiais) protėviai buvę italai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -40,9 +40,7 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177303
-- susijęs iš [[objektai/grupes/Germanai.md#claim-t-192394|Germanai]]: Narbutas mini, bet atmeta nuomonę, kad lietuvių tauta susidarė IV ar V amžiuje Vyslos žemupyje iš daugelio, ypač germanų, tautų.
-- susijęs iš [[objektai/grupes/Vidivariai.md#claim-t-192944|Vidivariai]]: Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidarė kaip germanų kilmės lydinys ir vadinta vidivariais.
-- susijęs iš Vysla: Narbutas atmetė nuomonę, kad lietuvių tauta IV ar V a. susidarė Vyslos žemupyje kaip daugelio, ypač germanų, tautų lydinys.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse.'
@@ -56,11 +54,11 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
     (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
     žemaičiais) protėviai buvę italai.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -86,4 +84,4 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

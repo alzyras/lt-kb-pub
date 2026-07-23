@@ -53,9 +53,3 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
-- susijęs iš Katavos valsčius: Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.
-- susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
-- susijęs iš Stabo ežeras: Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.

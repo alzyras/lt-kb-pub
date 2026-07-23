@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-70315"></a>
-- t-006
+- t-001
   teiginys: "1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-14709
 
 <a id="claim-t-70316"></a>
-- t-004
+- t-002
   teiginys: "Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-14707
 
 <a id="claim-t-70318"></a>
-- t-005
+- t-003
   teiginys: "Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-14708
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -117,7 +117,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-14709
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -136,4 +136,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

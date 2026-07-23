@@ -55,7 +55,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   temporalinis_llm_pakomentavimas: "Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą."
   pagrindžia:
     - c-75149
-- susijęs iš Vilnius: 1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.
+
 ## Citatos
 
 - id: c-75149

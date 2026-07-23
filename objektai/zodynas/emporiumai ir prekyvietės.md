@@ -47,7 +47,7 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
 ## Teiginiai
 
 <a id="claim-t-192145"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad graikų emporiumai, arba prekyvietės, pradėjo klestėti VII amžiuje prieš Kristaus gimimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -65,7 +65,7 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
     - c-175031
 
 <a id="claim-t-192146"></a>
-- t-001
+- t-002
   teiginys: "Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -105,5 +105,5 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

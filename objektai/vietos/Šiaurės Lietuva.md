@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80579"></a>
-- t-003
+- t-001
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-77300
 
 <a id="claim-t-80580"></a>
-- t-001
+- t-002
   teiginys: "Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-77298
 
 <a id="claim-t-80581"></a>
-- t-002
+- t-003
   teiginys: "Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-77300
   sudarytojas: "Karolis Zikaras"
@@ -135,5 +135,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-002

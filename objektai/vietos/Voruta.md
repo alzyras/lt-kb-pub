@@ -30,7 +30,7 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
 ## Teiginiai
 
 <a id="claim-t-187395"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -46,9 +46,7 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170394
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187497|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje.
-- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -90,4 +88,4 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

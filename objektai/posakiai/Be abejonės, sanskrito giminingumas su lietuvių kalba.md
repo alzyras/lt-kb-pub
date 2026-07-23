@@ -30,7 +30,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 ## Teiginiai
 
 <a id="claim-t-13491"></a>
-- t-005
+- t-001
   teiginys: "Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -46,7 +46,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     - c-16503
 
 <a id="claim-t-13492"></a>
-- t-006
+- t-002
   teiginys: "Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -90,5 +90,5 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002

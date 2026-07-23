@@ -52,12 +52,7 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Volfgangą ir atitinka citatą."
   pagrindžia:
     - c-84079
-- susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
-- susijęs iš [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.).md#claim-t-185764|Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]: Kojelavičius badą Lietuvoje siejo su prastu oru ir tuo, kad dėl nuolatinių priešo antpuolių galėjo būti nebedirbama žemė.
-- susijęs iš Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei: Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.
-- susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
-- susijęs iš Pernarava: Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
+
 ## Citatos
 
 - id: c-84079

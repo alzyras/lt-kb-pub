@@ -44,13 +44,7 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82216
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82285|Elena (vyskupas, XV–XVI a.)]]: Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.
-- susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
-- susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
-- susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
-- susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
-- susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
-- susijęs iš Čirčinskas: Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.
+
 ## Citatos
 
 - id: c-82216

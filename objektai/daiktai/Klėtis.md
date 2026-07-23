@@ -82,10 +82,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10254
-- susijęs iš [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje.md#claim-t-31394|1279 m. badmetis Lietuvoje ir Jotvingijoje]]: Per 1279 m. badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikštį Vladimirą parduoti rugių.
-- susijęs iš Jotvingija: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

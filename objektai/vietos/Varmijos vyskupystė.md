@@ -39,7 +39,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 ## Teiginiai
 
 <a id="claim-t-02829"></a>
-- t-002
+- t-001
   teiginys: "1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - c-03067
 
 <a id="claim-t-02830"></a>
-- t-001
+- t-002
   teiginys: "1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Varmijos vyskupystę."
   pagrindžia:
     - c-03068
-- susijęs iš Marijenburgas: Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.
+
 ## Citatos
 
 - id: c-03067
@@ -105,7 +105,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-03068
   redaktorius: "A. Šapoka"
@@ -122,7 +122,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Varmijos vyskupystė priklausė [[objektai/vietos/Lenkija]]

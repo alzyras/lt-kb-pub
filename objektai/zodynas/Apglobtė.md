@@ -48,7 +48,7 @@ Narbutas apglobte (Abglojte) vadino senovės prūsų nuometą reiškusį jaunosi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172164
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188315|Prūsai]]: Narbutas rašo, kad senovės prūsų tarme jaunosios vainikas, apvyniotas balta skarele, vadinosi apglobtė (Abglojte), tai yra nuometas.
+
 ## Citatos
 
 - id: c-172164

@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113454"></a>
-- t-003
+- t-001
   teiginys: "Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-42485
 
 <a id="claim-t-113456"></a>
-- t-007
+- t-002
   teiginys: "1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-104689
 
 <a id="claim-t-113457"></a>
-- t-006
+- t-003
   teiginys: "Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-104687
 
 <a id="claim-t-113458"></a>
-- t-001
+- t-004
   teiginys: "1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
     - c-05201
 
 <a id="claim-t-193743"></a>
-- t-008
+- t-005
   teiginys: "Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -142,15 +142,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-176408
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
-- susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
-- susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87024|Bombardos, patrankos ir artilerijos karo mašinos]]: Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.
-- susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87025|Bombardos, patrankos ir artilerijos karo mašinos]]: Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis.
-- susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86996|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.
-- susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86998|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176669|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172075|Anglai]]: Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179424|Livonijos ordinas]]: Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.
+
 ## Citatos
 
 - id: c-05201
@@ -168,7 +160,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-42485
   sudarytojas: "Karolis Zikaras"
@@ -191,7 +183,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-104687
   sudarytojas: "Karolis Zikaras"
@@ -217,7 +209,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-104689
   autorius: "Michał Baliński"
@@ -238,7 +230,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-176408
   sudarytojas: "Karolis Zikaras"
@@ -259,4 +251,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005

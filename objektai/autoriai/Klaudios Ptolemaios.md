@@ -44,8 +44,7 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33005
-- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
-- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+
 ## Citatos
 
 - id: c-33005

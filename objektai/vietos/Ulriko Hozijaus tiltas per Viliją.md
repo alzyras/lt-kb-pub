@@ -38,7 +38,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 ## Teiginiai
 
 <a id="claim-t-86154"></a>
-- t-003
+- t-001
   teiginys: "Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - c-82133
 
 <a id="claim-t-194260"></a>
-- t-004
+- t-003
   teiginys: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176854
   autorius: "Michał Baliński"
@@ -155,4 +155,4 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

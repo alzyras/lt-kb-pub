@@ -30,7 +30,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 ## Teiginiai
 
 <a id="claim-t-70034"></a>
-- t-002
+- t-001
   teiginys: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
     - c-69173
 
 <a id="claim-t-183453"></a>
-- t-003
+- t-002
   teiginys: "Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166848
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -102,4 +102,4 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

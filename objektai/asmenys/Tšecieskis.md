@@ -44,11 +44,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83850
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172115|Jėzuitų ordinas]]: Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.
-- susijęs iš [[objektai/grupes/Vilniaus reformatai ir disidentai.md#claim-t-86749|Vilniaus reformatai ir disidentai]]: Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas.
-- susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54498|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.
-- susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54499|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.
-- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
+
 ## Citatos
 
 - id: c-83850

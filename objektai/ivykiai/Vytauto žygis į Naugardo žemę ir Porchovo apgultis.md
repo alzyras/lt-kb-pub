@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186595"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas, šešis mėnesius nepaėmęs Porchovo, niokojo, degino ir ėmė nelaisvėn Naugardo bei Pskovo žemėje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-169890
 
 <a id="claim-t-186596"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-169890
 
 <a id="claim-t-186597"></a>
-- t-002
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -121,12 +121,12 @@ Nenurodyta
     nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
     gindamas ir imdamas nelaisvėn * .
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-186596
-    - t-186597
+  statusas: verified
+- t-003
+    - t-001
 
 ## Citatos
 
@@ -156,6 +156,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
     - t-002
+    - t-003

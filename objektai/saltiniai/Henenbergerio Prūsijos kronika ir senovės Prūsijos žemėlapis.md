@@ -78,11 +78,11 @@ Teodoro Narbuto teigimu, XV a. prūsų kronikininkas Henenbergeris nurodė nebee
     dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
     jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

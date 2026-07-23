@@ -73,9 +73,7 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173251
-- susijęs iš [[objektai/autoriai/Fateris.md#claim-t-190350|Fateris]]: Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį.
-- susijęs iš [[objektai/posakiai/Šiaurės popiežius.md#claim-t-189549|Šiaurės popiežius]]: Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo.
-- susijęs iš Nerčia: Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
+
 ## Citatos
 
 - id: c-173251

@@ -61,19 +61,7 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172989
-- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
-- susijęs iš [[objektai/asmenys/Dormunimundas.md#claim-t-190143|Dormunimundas]]: Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas.
-- susijęs iš [[objektai/grupes/Liutauro dinastija.md#claim-t-189522|Liutauro dinastija]]: Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems tauta dėkojo už tautinį gyvenimą ir pakluso jų valiai.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-188651|Vytenis (valdovas, XIII–XIV a.)]]: Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.
-- susijęs iš [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md#claim-t-189601|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]: Narbutas perteikia aiškinimą, kad katalikybės priėmimą Lietuvoje palengvino lietuvių paklusnumas viešpataujantiems kunigaikščiams.
-- susijęs iš [[objektai/ivykiai/Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m.md#claim-t-189606|Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m]]: Narbutas perteikia aiškinimą, kad katalikybės priėmimą Lietuvoje palengvino lietuvių paklusnumas viešpataujantiems kunigaikščiams.
-- susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
-- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
-- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
-- susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
-- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
-- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
-- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
+
 ## Citatos
 
 - id: c-172989

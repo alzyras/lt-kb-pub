@@ -47,7 +47,7 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174251
-- susijęs iš [[objektai/ivykiai/Ariamo jūrų puolimas prieš skitus.md#claim-t-191058|Ariamo jūrų puolimas prieš skitus]]: Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių.
+
 ## Citatos
 
 - id: c-174251

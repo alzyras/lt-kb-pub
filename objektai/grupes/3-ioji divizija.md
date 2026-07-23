@@ -45,8 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "3-ioji divizija gynė Smalėnai (0.58)"
   pagrindžia:
     - c-40737
-- susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
-- susijęs iš Rykantai: Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.
+
 ## Citatos
 
 - id: c-40737

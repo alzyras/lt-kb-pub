@@ -44,12 +44,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166568
-- susijęs iš Kovelis: Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.
-- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
-- susijęs iš Slavuta: Slavuta buvo viena iš Voluinės vietovių, kuriose Sanguškos sukūrė savo tėvonijas.
-- susijęs iš Slavuta: Voluinėje Sanguškos sukūrė tėvonijas Kovelyje ir vėliau Slavuta.
-- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
-- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
+
 ## Citatos
 
 - id: c-166568

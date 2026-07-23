@@ -43,7 +43,7 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45151
-- susijęs iš [[objektai/grupes/Bolševikų 2-asis šaulių pulkas.md#claim-t-40869|Bolševikų 2-asis šaulių pulkas]]: Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.
+
 ## Citatos
 
 - id: c-45151

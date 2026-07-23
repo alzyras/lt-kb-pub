@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186622"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-169901
 
 <a id="claim-t-186623"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -95,11 +95,11 @@ Nenurodyta
     žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
     siuntiniais ponus Mykolą ir Joną Kęsgailas1 1 .
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-186623
+  statusas: verified
+- t-001
 
 ## Citatos
 
@@ -121,5 +121,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

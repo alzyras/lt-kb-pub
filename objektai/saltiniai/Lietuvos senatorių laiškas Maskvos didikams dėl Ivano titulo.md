@@ -29,7 +29,7 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
 ## Teiginiai
 
 <a id="claim-t-196355"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius Ivaną Vasiljevičių vaizduoja kaip nesiekusį taikos su Lietuva ir svajojusį apie viešpatavimą visoje Rusioje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -67,4 +67,4 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

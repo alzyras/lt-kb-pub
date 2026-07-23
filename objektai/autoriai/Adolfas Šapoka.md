@@ -9,16 +9,16 @@ datos:
   - '1987 m.'
 date_start: '1936'
 date_end: '1987'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - redaktorius
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -93,14 +93,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184839
-- susijęs iš [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.).md#claim-t-183244|Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]: 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.
-- susijęs iš [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.).md#claim-t-20311|Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]: Lietuvos Respublikos švietimo ministerijos iniciatyva grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, redaguotą Adolfo Šapokos.
-- susijęs iš A. Šapoka (red.), Lietuvos istorija (1936 m.): 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.
-- susijęs iš [[objektai/autoriai/Kazimieras Masiliūnas.md#claim-t-63308|Kazimieras Masiliūnas]]: Viceministro Kazimiero Masiliūno iniciatyva ir rūpesčiu lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos švietimo ministerija.md#claim-t-19844|Lietuvos Respublikos švietimo ministerija (institucija)]]: 1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją.
-- susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-183336|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva.
-- susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-54362|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: 1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.
-- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103839|poliublininis laikotarpis poliublininiai laikai]]: Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos.
+
 ## Citatos
 
 - id: c-64340

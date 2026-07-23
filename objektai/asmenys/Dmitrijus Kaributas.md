@@ -46,9 +46,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Naugardas (0.88); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Dmitrijus Kaributas (0.75)"
   pagrindžia:
     - c-83470
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
+
 ## Citatos
 
 - id: c-83470
@@ -84,5 +82,4 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     - t-001
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Rėmė Dmitrijus Kaributą: [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]

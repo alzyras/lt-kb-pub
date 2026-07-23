@@ -60,7 +60,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     - c-175106
 
 <a id="claim-t-192288"></a>
-- t-003
+- t-002
   teiginys: "Narbutas tą patį reiškinį apibūdina ir kaip „akmens krušą“, jos įrodymu laikydamas akmens sangrūdų išsidėstymą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -78,7 +78,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     - c-175107
 
 <a id="claim-t-192290"></a>
-- t-004
+- t-003
   teiginys: "Narbutas akmens audros pėdsakus aiškina nevienodu uolienų nuolaužų išsidėstymu žemės paviršiuje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -109,11 +109,11 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     ba apskritai nėra, dar kitur — ištisos lysvės, tarytum ak­
     menys būtų iš visų kampų sunešti į vieną krūvą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192290
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -163,5 +163,5 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004

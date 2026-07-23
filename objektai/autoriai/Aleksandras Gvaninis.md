@@ -8,15 +8,15 @@ datos:
   - '1610 m.'
 date_start: '1610'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - metraštininkas
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 ## Teiginiai
 
 <a id="claim-t-187917"></a>
-- t-003
+- t-001
   teiginys: "Narbutas citavo Gvaninio 1610 m. liudijimą, kad kai kurie žmonės namuose laikė žalčius ar gyvates ir aukos vietoj duodavo jiems pieno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -76,7 +76,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - c-170906
 
 <a id="claim-t-187919"></a>
-- t-001
+- t-003
   teiginys: "Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -157,10 +157,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179098
-- susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
-- susijęs iš Aleksandras Gvaninis, Sarmacya Europejska: Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos.
-- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191539|Gotthardas Friedrichas Stenderis]]: Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį.'
@@ -175,10 +172,10 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
     bintojų keletą avilių bičių.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -195,11 +192,10 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
     tingais mitais.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170905
@@ -234,7 +230,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-170906
   autorius: "Teodoras Narbutas"
@@ -273,7 +269,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-173508
   autorius: "Teodoras Narbutas"

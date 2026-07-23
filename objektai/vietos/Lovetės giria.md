@@ -31,7 +31,7 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 ## Teiginiai
 
 <a id="claim-t-197893"></a>
-- t-002
+- t-001
   teiginys: "Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,4 +87,4 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

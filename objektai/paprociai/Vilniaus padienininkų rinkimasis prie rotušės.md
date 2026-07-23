@@ -65,7 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54741"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-55731
 
 <a id="claim-t-54742"></a>
-- t-001
+- t-002
   teiginys: "1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -124,5 +124,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

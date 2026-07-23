@@ -8,13 +8,13 @@ datos:
   - '1668 m.'
 date_start: '1588'
 date_end: '1668'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

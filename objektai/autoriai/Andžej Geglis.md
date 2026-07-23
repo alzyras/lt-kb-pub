@@ -39,7 +39,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 ## Teiginiai
 
 <a id="claim-t-71495"></a>
-- t-009
+- t-001
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42395
 
 <a id="claim-t-71496"></a>
-- t-003
+- t-002
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42396
 
 <a id="claim-t-71497"></a>
-- t-005
+- t-003
   teiginys: "Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42391
 
 <a id="claim-t-71498"></a>
-- t-007
+- t-004
   teiginys: "Andžej Geglis buvo teksto „Šautuvų raida XX a. pradžioje“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42393
 
 <a id="claim-t-71499"></a>
-- t-006
+- t-005
   teiginys: "Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42392
 
 <a id="claim-t-71501"></a>
-- t-004
+- t-006
   teiginys: "Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,26 +107,14 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42390
 
 <a id="claim-t-71502"></a>
-- t-008
+- t-007
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42395
-- susijęs iš HUSARŲ TAKTIKA: „Husarų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.
-- susijęs iš ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA: „Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.
-- susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
-- susijęs iš LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A: Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
-- susijęs iš MORTYROS IR PATRANKOS TRAJEKTORIJOS: Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis.
-- susijęs iš XVI A. PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA: Andžejus Geglis sukūrė iliustraciją „XVI a. pradžios Lietuvos ir Lenkijos kariuomenių taktika“.
-- susijęs iš XVII A. LAUKO FORTIFIKACIJA: Andžejus Geglis sukūrė iliustraciją „XVII a. lauko fortifikacija“.
-- susijęs iš XVII A. PRADŽIOS KARO LAIVAI IR BRANDERIAI: Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“.
-- susijęs iš XVII A. PRADŽIOS RAITARŲ TAKTIKA: Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios raitarų taktika“.
-- susijęs iš XVIII A. LINIJINĖ TAKTIKA: Andžejus Geglis sukūrė iliustraciją „XVIII a. linijinė taktika“.
-- susijęs iš XX A. PRADŽIOS PĖSTININKŲ TAKTIKA: „XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.
-- susijęs iš [[objektai/autoriai/Vidmantas Airini.md#claim-t-40675|Vidmantas Airini]]: Vidmantas Airini buvo teksto „Rapyros“ autorius.
-- susijęs iš LIETUVOS KARYBA XIII A: Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.
+
 ## Citatos
 
 - id: c-42390
@@ -141,7 +129,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-42391
   sudarytojas: "Karolis Zikaras"
@@ -157,7 +145,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-42392
   sudarytojas: "Karolis Zikaras"
@@ -173,7 +161,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-42393
   sudarytojas: "Karolis Zikaras"
@@ -187,7 +175,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-42395
   sudarytojas: "Karolis Zikaras"
@@ -205,8 +193,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-008
+    - t-001
+    - t-007
 
 - id: c-42396
   sudarytojas: "Karolis Zikaras"
@@ -226,4 +214,4 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

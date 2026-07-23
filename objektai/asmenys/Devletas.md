@@ -57,7 +57,7 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Devletą ir remiasi citata."
   pagrindžia:
     - c-35941
-- susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
+
 ## Citatos
 
 - id: c-35941

@@ -57,8 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir glaustai perteikia citatos informaciją apie Abiejų Tautų Respubliką."
   pagrindžia:
     - c-25824
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+
 ## Citatos
 
 - id: c-25824

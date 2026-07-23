@@ -22,7 +22,7 @@ media_all_json: |-
 # Dviprasmių žmonių auditas
 
 ## Vykdymo metaduomenys
-- knyga: Mūsų tautosaka, t.4 (1931)
+- knyga: [[Mūsų tautosaka, t.4 (1931)]]
 - source_file: `darbas/sources/Mūsų tautosaka, t.4 (1931).md`
 - modelis: unknown
 - data_ir_laikas: 2026-07-11 22:16 EEST

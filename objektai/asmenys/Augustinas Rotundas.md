@@ -64,11 +64,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60719
-- susijęs iš [[objektai/asmenys/Augustinas Rotundas Milesijus.md#claim-t-87906|Augustinas Rotundas Milesijus]]: Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.
-- susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88000|Augustinas Mieleckis Rotundas]]: Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.
-- susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87455|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.
-- susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87457|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.
-- susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
+
 ## Citatos
 
 - id: c-60718

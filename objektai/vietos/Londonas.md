@@ -44,7 +44,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 ## Teiginiai
 
 <a id="claim-t-79713"></a>
-- t-005
+- t-001
   teiginys: "Zigmantą Sierakauską, ginklų ir savanorių iš Londono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-76660
 
 <a id="claim-t-79716"></a>
-- t-001
+- t-002
   teiginys: "Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-24267
 
 <a id="claim-t-79717"></a>
-- t-002
+- t-003
   teiginys: "1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-24268
 
 <a id="claim-t-193646"></a>
-- t-006
+- t-004
   teiginys: "Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -109,37 +109,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-176316
-- susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
-- susijęs iš [[objektai/asmenys/Čemberlenas.md#claim-t-191989|Čemberlenas]]: Čemberlenas perrašė Lazijaus išsaugotą užrašą, o iš Čemberleno tas užrašas vėliau pateko į Londono „Sylloge“.
-- susijęs iš [[objektai/autoriai/Bełch, St. J.md#claim-t-29306|Bełch, St. J]]: St. J. Bełchas 1956 m. paskelbė darbą „Falkenberg“ ir 1965 m. Londone išleistą veikalą apie Pauliaus Vladimiri doktriną.
-- susijęs iš [[objektai/autoriai/Schmalstieg W. R.md#claim-t-60785|Schmalstieg W. R]]: W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.
-- susijęs iš [[objektai/autoriai/Čemberlenas.md#claim-t-191664|Čemberlenas]]: Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o iš Čemberleno tas užrašas pateko į Londono „Sylloge“.
-- susijęs iš Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego: W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m.
-- susijęs iš Londono „Sylloge“: Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos.
-- susijęs iš Schmalstieg W. R. An Old Prussian Grammar The Phonology and Morphology of the Three Catechisms: W. R. Schmalstiego „An Old Prussian Grammar: The Phonology and Morphology of the Three Catechisms“ buvo išleista Londone 1974 m.
-- susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
-- susijęs iš [[objektai/asmenys/Anthony Kiedis.md#claim-t-78044|Anthony Kiedis]]: Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.
-- susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18855|Bob Dylan]]: Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV.
-- susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18856|Bob Dylan]]: Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/asmenys/Bruce Springsteen.md#claim-t-18860|Bruce Springsteen]]: Bruce Springsteenas grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/David Gilmour.md#claim-t-18873|David Gilmour]]: Davidas Gilmouras grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Eric Clapton.md#claim-t-18886|Eric Clapton]]: Eric Clapton grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/George Harrison.md#claim-t-18914|George Harrison]]: George Harrison grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Jimi Hendrix.md#claim-t-18962|Jimi Hendrix]]: Jimi Hendrixas grojo Tony'o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Keith Richards.md#claim-t-19063|Keith Richards]]: Keith Richards grojo Tony’o Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/asmenys/Leonard Cohen.md#claim-t-19105|Leonard Cohen]]: Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.
-- susijęs iš [[objektai/asmenys/Paul McCartney.md#claim-t-19186|Paul McCartney]]: Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Ronnie Wood.md#claim-t-19215|Ronnie Wood]]: Ronnie Wood grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Volfgangas Lazijus.md#claim-t-191333|Volfgangas Lazijus]]: Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-190629|Kristupas Hartknochas]]: Narbutas pažymi, kad Hartknochas, regis, abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.
-- susijęs iš [[objektai/autoriai/Volfgangas Lazijus.md#claim-t-191661|Volfgangas Lazijus]]: Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos maldos užrašą, įdėdamas jį į savo istoriją.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45489|Gitara „Zemaitis“]]: Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45490|Gitara „Zemaitis“]]: Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45491|Gitara „Zemaitis“]]: Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš Hartknocho „Alt- und Neues Preussen“: Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kryžiuočių atsikraustymo.
-- susijęs iš Volfgango Lazijaus istorija: Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenburgo istorijos“ paimtą Dievo maldos užrašą.
-- susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
+
 ## Citatos
 
 - id: c-24267
@@ -159,7 +129,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -181,7 +151,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76660
   sudarytojas: "Karolis Zikaras"
@@ -205,7 +175,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-171658
   autorius: "Teodoras Narbutas"
@@ -239,7 +209,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

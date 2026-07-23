@@ -56,7 +56,7 @@ media_all_json: |-
     - c-84223
 
 <a id="claim-t-88244"></a>
-- t-003
+- t-002
   teiginys: "1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-84223
   autorius: "Michał Baliński"

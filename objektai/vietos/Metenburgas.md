@@ -45,10 +45,7 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   semantiniai_rysiai: "Kryžiuočių ordinas pastatė Metenburgas (0.84)"
   pagrindžia:
     - c-38567
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179019|Kryžiuočių ordinas]]: Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178904|Kryžiuočių ordinas]]: Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179019|Kryžiuočių ordinas]]: Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.
-- susijęs iš Naujasis Gardinas: Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos.
+
 ## Citatos
 
 - id: c-38567

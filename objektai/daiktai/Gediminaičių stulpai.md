@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169858"></a>
-- t-011
+- t-001
   teiginys: "Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,11 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Gediminaičių stulpų panaudojimą, bet įvestyje yra puslapio ir OCR triukšmo."
   pagrindžia:
     - c-154541
-- susijęs iš Druskininkų kapavietė: 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
-- susijęs iš Kaunas: Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė.
-- susijęs iš Kaunas: Prie Kauno rasta senovinė lietuviška moneta, kurios vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176215|Vėliavos]]: XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
+
 ## Citatos
 
 - id: c-154541
@@ -107,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001

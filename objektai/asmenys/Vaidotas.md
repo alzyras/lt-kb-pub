@@ -58,9 +58,7 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Vaidoto kilmę, studijas ir pareigas, paremtas citata."
   pagrindžia:
     - c-65020
-- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
-- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
-- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+
 ## Citatos
 
 - id: c-65020

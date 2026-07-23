@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-102086"></a>
-- t-014
+- t-001
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-24553
 
 <a id="claim-t-102087"></a>
-- t-013
+- t-002
   teiginys: "1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-16576
 
 <a id="claim-t-102088"></a>
-- t-022
+- t-003
   teiginys: "1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Nenurodyta
     - c-16576
 
 <a id="claim-t-102090"></a>
-- t-018
+- t-004
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
     - c-95449
 
 <a id="claim-t-102091"></a>
-- t-020
+- t-005
   teiginys: "1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,7 +159,7 @@ Nenurodyta
     - c-25427
 
 <a id="claim-t-102092"></a>
-- t-017
+- t-006
   teiginys: "1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Nenurodyta
     - c-25427
 
 <a id="claim-t-102093"></a>
-- t-015
+- t-007
   teiginys: "Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Nenurodyta
     - c-16575
 
 <a id="claim-t-102095"></a>
-- t-021
+- t-008
   teiginys: "Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,22 +215,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys neįvardijo objekto ir buvo foninis."
   pagrindžia:
     - c-24553
-- susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-183558|L. Želigovskis]]: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
-- susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-19100|L. Želigovskis]]: L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179206|Lenkai]]: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.
-- susijęs iš Minsko Lietuva: Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.
-- susijęs iš Minsko Lietuva: Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.
-- susijęs iš Minsko Lietuva: Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.
-- susijęs iš Vilnius: 1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
-- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
-- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101665|Juzefas Pilsudskis]]: Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188249|Lenkai]]: Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.
-- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
-- susijęs iš [[objektai/grupes/Želigovskininkai.md#claim-t-20114|Želigovskininkai]]: Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.
-- susijęs iš [[objektai/posakiai/„nei karo, nei taikos“.md#claim-t-20922|„nei karo, nei taikos“]]: Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.
-- susijęs iš Lenkija: 1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.
-- susijęs iš Lenkija: 1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.
+
 ## Citatos
 
 - id: c-16575
@@ -251,7 +236,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-007
 
 - id: c-16576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -277,8 +262,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-022
+    - t-002
+    - t-003
 
 - id: c-24553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -298,8 +283,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-021
+    - t-001
+    - t-008
 
 - id: c-25427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -321,8 +306,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-017
+    - t-005
+    - t-006
 
 - id: c-95449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -340,7 +325,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-004
 
 ## Ryšiai
 - Vidurinė Lietuva priklausė [[objektai/vietos/Lenkija]]

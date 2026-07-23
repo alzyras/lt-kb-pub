@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169852"></a>
-- t-004
+- t-001
   teiginys: "Vilniaus televizijos bokšto šturmo įvykiai sukrėtė Lietuvą ir nuskambėjo pasaulyje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-154539
 
 <a id="claim-t-169853"></a>
-- t-001
+- t-002
   teiginys: "Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-154539
 
 <a id="claim-t-169856"></a>
-- t-005
+- t-003
   teiginys: "1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Nenurodyta
     - c-154539
 
 <a id="claim-t-169857"></a>
-- t-002
+- t-004
   teiginys: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-154539
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -177,9 +177,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-001
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-154540
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -199,6 +199,7 @@ Nenurodyta
   citata_rodoma: "damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

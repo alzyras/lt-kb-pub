@@ -54,8 +54,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   temporalinis_llm_pakomentavimas: "Teiginys buvo nutrūkęs ir su OCR klaida; citata leidžia suformuluoti aiškų faktą."
   pagrindžia:
     - c-03177
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179553|Motiejus Valančius]]: Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00061|Motiejus Valančius]]: Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.
+
 ## Citatos
 
 - id: c-03177

@@ -44,7 +44,7 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44358
-- susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40414|S. Zaskevičius]]: Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.
+
 ## Citatos
 
 - id: c-44358

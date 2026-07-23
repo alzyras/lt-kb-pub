@@ -10,16 +10,16 @@ datos:
   - '1076 m.'
 date_start: '1009'
 date_end: '1076'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - metraštininkas
   - autorius
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -205,27 +205,43 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173563
-- susijęs iš [[objektai/posakiai/homines humanissimi.md#claim-t-31557|homines humanissimi]]: Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.
-- susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
+
 ## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
+    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
+    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Kvedliriburgo kronika mini prieš 1009 metus ru­
-    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
-    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
-    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
-    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
-    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
-    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
+    Ra-
     devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą.
+    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
+    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
+    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
+    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
+    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
+    slaviškumu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-009
 
 ## Citatos
 

@@ -62,21 +62,7 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44556
-- susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190127|Abraomas Vaina]]: Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį.
-- susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190834|Abraomas Vaina]]: Narbutas aiškina, kad piktnaudžiavimas stipriaisiais gėrimais paskatino Vilniaus vyskupą Abraomą Vainą uždrausti aukojimo puotų paprotį.
-- susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
-- susijęs iš [[objektai/asmenys/Stanislovas Jonas Da Vaina.md#claim-t-87859|Stanislovas Jonas Da Vaina]]: Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192025|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį.
-- susijęs iš Vilniaus vyskupija Vilnius kaip vyskupų centras: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192025|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį.
-- susijęs iš [[objektai/asmenys/A. Liuneburgietis.md#claim-t-39696|A. Liuneburgietis]]: Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.
-- susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
-- susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40456|T. Lackis]]: Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.
-- susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40967|Kuršiečiai]]: Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10278|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
+
 ## Citatos
 
 - id: c-44555

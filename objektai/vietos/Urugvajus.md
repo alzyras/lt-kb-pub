@@ -38,7 +38,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 ## Teiginiai
 
 <a id="claim-t-23520"></a>
-- t-002
+- t-001
   teiginys: "Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
     - c-25128
 
 <a id="claim-t-23521"></a>
-- t-001
+- t-002
   teiginys: "Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,20 +72,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   semantiniai_rysiai: "Lietuviai keliavo į Urugvajus (0.87)"
   pagrindžia:
     - c-24520
-- susijęs iš Brazilija: Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.
-- susijęs iš Venesuela: Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
-- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
-- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
-- susijęs iš Brazilija: Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.
-- susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-183156|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinė tarnyba per sovietų okupaciją rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje.
-- susijęs iš Brazilija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Brazilijoje iki 1967 m.
-- susijęs iš Didžioji Britanija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.
-- susijęs iš JAV: JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
-- susijęs iš Kanada: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.
-- susijęs iš Kolumbija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.
-- susijęs iš Prancūzija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS.
-- susijęs iš Prancūzija: Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.
-- susijęs iš Venesuela: Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
+
 ## Citatos
 
 - id: c-24520
@@ -106,7 +93,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-25128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -128,7 +115,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

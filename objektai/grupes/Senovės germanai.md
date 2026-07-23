@@ -48,15 +48,7 @@ Narbutas rašė, kad senovės germanai Herta vadino Motiną žemę.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172422
-- susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
-- susijęs iš [[objektai/autoriai/Tavernjė.md#claim-t-190407|Tavernjė]]: Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
-- susijęs iš [[objektai/grupes/Graikai.md#claim-t-189509|Graikai]]: Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą - Alkida ir turėjo atskiras Alkidėmis vadintas dievybes.
-- susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188327|Romėnai]]: Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, o Minervą - Alkida.
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189393|Senovės graikai]]: Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides.
-- susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189373|Senovės romėnai]]: Narbutas pažymi, kad graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes, vadintas Alkidėmis.
-- susijęs iš [[objektai/grupes/Čerkesų ir kumanų totoriai.md#claim-t-189547|Čerkesų ir kumanų totoriai]]: Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
-- susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
-- susijęs iš [[objektai/zodynas/Pergrubė Grubytė Grubios.md#claim-t-189132|Pergrubė Grubytė Grubios]]: Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
+
 ## Citatos
 
 - id: c-172422

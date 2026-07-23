@@ -11,10 +11,6 @@ datos:
   - '1506 m.'
 date_start: '1501'
 date_end: '1506'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,6 +18,10 @@ tags:
   - diplomatas
   - karvedys
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,9 +44,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 ## Teiginiai
 
 <a id="claim-t-82624"></a>
-- t-003
+- t-001
   teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,9 +63,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179964
 
 <a id="claim-t-82625"></a>
-- t-008
+- t-002
   teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -82,9 +82,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179969
 
 <a id="claim-t-82626"></a>
-- t-002
+- t-003
   teiginys: "Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Italija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -123,9 +123,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179975
 
 <a id="claim-t-82630"></a>
-- t-001
+- t-005
   teiginys: "Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kiška: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,7 +142,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179963
 
 <a id="claim-t-184799"></a>
-- t-010
+- t-006
   teiginys: "Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168164
 
 <a id="claim-t-184801"></a>
-- t-012
+- t-007
   teiginys: "Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -174,7 +174,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179974
 
 <a id="claim-t-184803"></a>
-- t-014
+- t-008
   teiginys: "Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168165
 
 <a id="claim-t-184804"></a>
-- t-015
+- t-009
   teiginys: "Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168164
 
 <a id="claim-t-184805"></a>
-- t-016
+- t-010
   teiginys: "Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -228,7 +228,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168166
 
 <a id="claim-t-184806"></a>
-- t-017
+- t-011
   teiginys: "Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -248,7 +248,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168167
 
 <a id="claim-t-193399"></a>
-- t-018
+- t-012
   teiginys: "Mykolas Glinskis bodėjosi dabartine padėtimi, kai niekuo negalima pasitikėti; visur matydamas rusų barbariškumą, juto širdyje gailestį dėl savo veiksmų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -260,7 +260,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168164
 
 <a id="claim-t-193962"></a>
-- t-020
+- t-013
   teiginys: "Kunigaikš tis Mykolas !3, matydamas su didikais ir su visa kariuo mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems pulkams žengti abiem perėjimais per upę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -274,9 +274,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179978
 
 <a id="claim-t-193963"></a>
-- t-021
+- t-014
   teiginys: "O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per upę, smogė visiems totorių pulkams ir per skėlė juos į dvi dalis."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -285,10 +285,13 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176587
+    - c-176588
+    - c-179968
+    - c-179976
     - c-179978
 
 <a id="claim-t-196569"></a>
-- t-023
+- t-015
   teiginys: "Įniršęs ir suniektas Mykolas su barbarišku žiaurumu nusiaubė didelius Slucko ir Kopylio žemių plotus."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -301,7 +304,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168160
 
 <a id="claim-t-196570"></a>
-- t-024
+- t-016
   teiginys: "Mykolas Glinskis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -314,7 +317,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168162
 
 <a id="claim-t-196571"></a>
-- t-025
+- t-017
   teiginys: "Valdovas įsakė laišku pažadėti Mykolui Glinskiui užmiršti praeities įvykius ir laiduoti prielankumą ateityje."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -328,7 +331,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168164
 
 <a id="claim-t-196859"></a>
-- t-027
+- t-018
   teiginys: "Mykolas Glinskis paaugo ir kol prie jo priprato žmonės."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -341,7 +344,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179966
 
 <a id="claim-t-198203"></a>
-- t-005
+- t-019
   teiginys: "Mykolas Glinskis per ištikimą giminaitį laišku paprašė karaliaus atleidimo ir žadėjo ištikima tarnyba atpirkti savo veiklą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -358,7 +361,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168166
 
 <a id="claim-t-198204"></a>
-- t-006
+- t-020
   teiginys: "Glinskis buvo apkaltintas antru mėginimu pabėgti į Lietuvą, suimtas, apakintas, įkalintas ir kalėjime mirė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -381,7 +384,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168167
 
 <a id="claim-t-198205"></a>
-- t-007
+- t-021
   teiginys: "Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -403,7 +406,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179974
 
 <a id="claim-t-198206"></a>
-- t-009
+- t-022
   teiginys: "Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas."
   atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
@@ -418,7 +421,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168164
 
 <a id="claim-t-198208"></a>
-- t-011
+- t-023
   teiginys: "1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku."
   atnaujinta: "2026-07-12 22:58"
   sprendimo_priezastis: "auto"
@@ -439,7 +442,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179970
 
 <a id="claim-t-198209"></a>
-- t-013
+- t-024
   teiginys: "Kojelavičiaus pasakojime įniršęs Mykolas Glinskis nusiaubė didelius Slucko ir Kopylio žemių plotus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -452,7 +455,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168160
 
 <a id="claim-t-198214"></a>
-- t-019
+- t-025
   teiginys: "Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -470,7 +473,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179973
 
 <a id="claim-t-198215"></a>
-- t-022
+- t-026
   teiginys: "Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -481,7 +484,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-179970
 
 <a id="claim-t-198220"></a>
-- t-026
+- t-027
   teiginys: "Lietuvos metraštis pasakoja, kad Mykolas Glinskis su Lietuvos kariuomene prie Cepros paėmė arba nukovė daugybę totorių ir grįžo į stovyklą prie Klecko su belaisviais bei grobiu."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -492,22 +495,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176589
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195012|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195016|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis vaizduoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė prie Cepros paėmė arba nukovė daugybę totorių.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89628|Aleksandras]]: Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89629|Aleksandras]]: Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.
-- susijęs iš [[objektai/grupes/Korano giminė.md#claim-t-187779|Korano giminė]]: Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169700|Lietuvos Didžioji Kunigaikštystė]]: 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187718|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187750|Totoriai]]: Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185780|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Po Kiškos žygio Vasilijus, Maskvos kunigaikštis, pasiūlė karaliui sudaryti taiką ir atsiųsti didesnių įgaliojimų legatus.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185781|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
-- susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
-- susijęs iš Kleckas: Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195010|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195018|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
@@ -560,7 +548,6 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-42155
@@ -597,7 +584,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-42156
   sudarytojas: "Karolis Zikaras"
@@ -621,7 +608,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-42157
   sudarytojas: "Karolis Zikaras"
@@ -674,7 +661,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-79096
   sudarytojas: "Karolis Zikaras"
@@ -699,9 +686,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-003
+    - t-005
 
 - id: c-168160
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -722,8 +709,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-013
+    - t-015
+    - t-024
 
 - id: c-168162
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -763,8 +750,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
-    - t-009
+    - t-016
+    - t-022
 
 - id: c-168164
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -797,14 +784,14 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-012
-    - t-014
-    - t-015
-    - t-018
-    - t-025
+    - t-006
     - t-007
+    - t-008
     - t-009
+    - t-012
+    - t-017
+    - t-021
+    - t-022
 
 - id: c-168165
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -829,9 +816,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-025
-    - t-005
+    - t-008
+    - t-017
+    - t-019
 
 - id: c-168166
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -864,10 +851,10 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-016
-    - t-005
-    - t-006
+    - t-009
+    - t-010
+    - t-019
+    - t-020
 
 - id: c-168167
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -892,8 +879,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-006
+    - t-011
+    - t-020
 
 - id: c-176586
   autorius: "Anoniminis metraštininkas"
@@ -925,7 +912,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-018
 
 - id: c-176587
   autorius: "Anoniminis metraštininkas"
@@ -945,8 +932,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-021
+    - t-013
+    - t-014
 
 - id: c-176588
   autorius: "Anoniminis metraštininkas"
@@ -963,10 +950,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-176589
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -989,8 +978,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-026
+    - t-013
+    - t-027
 
 - id: c-179959
   autorius: "Michał Baliński"
@@ -1010,7 +999,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-025
 
 - id: c-179961
   sudarytojas: "Karolis Zikaras"
@@ -1034,7 +1023,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-179963
   sudarytojas: "Karolis Zikaras"
@@ -1059,9 +1048,9 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-003
+    - t-005
 
 - id: c-179964
   sudarytojas: "Karolis Zikaras"
@@ -1085,7 +1074,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-179966
   autorius: "Anoniminis metraštininkas"
@@ -1117,7 +1106,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-018
 
 - id: c-179968
   autorius: "Anoniminis metraštininkas"
@@ -1134,10 +1123,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-179969
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1160,7 +1151,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-179970
   autorius: "Michał Baliński"
@@ -1182,8 +1173,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-022
+    - t-023
+    - t-026
 
 - id: c-179973
   autorius: "Michał Baliński"
@@ -1203,7 +1194,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-025
 
 - id: c-179974
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1228,8 +1219,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
     - t-007
+    - t-021
 
 - id: c-179975
   sudarytojas: "Karolis Zikaras"
@@ -1275,10 +1266,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-179978
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1297,9 +1290,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-021
+    - t-013
+    - t-014
 
 ## Ryšiai
 - Mykolas Glinskis keliavo į [[objektai/vietos/Vilnius]]
-- Mykolas Glinskis puolė [[objektai/grupes/Totoriai]]

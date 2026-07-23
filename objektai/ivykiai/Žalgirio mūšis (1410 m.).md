@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-63385"></a>
-- t-003
+- t-001
   teiginys: "1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-64427
 
 <a id="claim-t-63386"></a>
-- t-001
+- t-002
   teiginys: "Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-166680
 
 <a id="claim-t-63387"></a>
-- t-002
+- t-003
   teiginys: "Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-64429
 
 <a id="claim-t-63389"></a>
-- t-005
+- t-004
   teiginys: "Žalgirio pergalė pakirto Vokiečių ordino hegemoniją ir pašalino jo egzistencinę grėsmę Lietuvai bei Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
     - c-64428
 
 <a id="claim-t-63390"></a>
-- t-004
+- t-005
   teiginys: "Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja."
   atnaujinta: "2026-05-30 15:09"
   sprendimo_priezastis: "auto"
@@ -170,17 +170,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citatos chronologiniu įrašu."
   pagrindžia:
     - c-166680
-- susijęs iš [[objektai/autoriai/O. Urbonas.md#claim-t-30887|O. Urbonas]]: O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.
-- susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
-- susijęs iš [[objektai/autoriai/W. Zakrzewski.md#claim-t-31074|W. Zakrzewski]]: W. Zakrzewski parašė darbą „Bitwa pod Grunwaldem“, paskelbtą 1890 m. leidinyje RTPNP.
-- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54139|Werminghoef, A]]: A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
-- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54140|Werminghoef, A]]: A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
-- susijęs iš [[objektai/autoriai/Zakrzewski, W.md#claim-t-31090|Zakrzewski, W]]: W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.
-- susijęs iš [[objektai/autoriai/Zaskevičius, St.md#claim-t-54143|Zaskevičius, St]]: St. Zaskevičius 1930 m. paskelbė darbą „Trijų elementų reikšmė Tannenbergo kautynėse“.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
-- susijęs iš St. Zaskevičius, Trijų elementų reikšmė Tannenbergo kautynėse: St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ.
-- susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
+
 ## Citatos
 
 - id: c-64427
@@ -203,7 +193,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-64428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -224,8 +214,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-004
+    - t-005
 
 - id: c-64429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,7 +235,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-64430
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -284,7 +274,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-006
 
 ## Ryšiai

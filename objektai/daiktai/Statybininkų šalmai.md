@@ -72,9 +72,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44683
-- susijęs iš [[objektai/asmenys/M. Kalašnikovas.md#claim-t-40315|M. Kalašnikovas]]: Sovietų konstruktorius M. Kalašnikovas 1947 m. sukūrė automatinį šautuvą AK-47.
-- susijęs iš [[objektai/daiktai/Dujokaukės.md#claim-t-40705|Dujokaukės]]: Dujokaukės buvo gautos iš Vilniaus miesto tarybos.
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-47.md#claim-t-78677|Sovietų automatinis šautuvas AK-47]]: 1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
+
 ## Citatos
 
 - id: c-44683

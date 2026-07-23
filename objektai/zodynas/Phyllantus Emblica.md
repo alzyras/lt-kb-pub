@@ -47,7 +47,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
 ## Teiginiai
 
 <a id="claim-t-192252"></a>
-- t-004
+- t-001
   teiginys: "Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -65,7 +65,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     - c-175089
 
 <a id="claim-t-192253"></a>
-- t-001
+- t-002
   teiginys: "Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,7 +83,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     - c-175090
 
 <a id="claim-t-192254"></a>
-- t-002
+- t-003
   teiginys: "Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -101,7 +101,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     - c-175090
 
 <a id="claim-t-192255"></a>
-- t-003
+- t-004
   teiginys: "Narbutas Phyllantus Emblica vadina karšto klimato medžiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -128,9 +128,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179297
-- susijęs iš [[objektai/asmenys/Gartneris.md#claim-t-191402|Gartneris]]: Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas, kad minėtas vaisius neišaugo jokioje Emblikoje.
-- susijęs iš [[objektai/autoriai/Gartneris.md#claim-t-191672|Gartneris]]: Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę.
-- susijęs iš De fructibus et seminibus plantarum: Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi teigdamas, kad minėtas vaisius neišaugo jokioje Emblikoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -144,11 +142,12 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     ,,De fructibus et seminibus plantarum", kad įsitikintume,
     jog minėtas vaisius neišaugo jokioje Emblikoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192255
+  statusas: verified
+- t-001
+
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -161,11 +160,11 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
     vaisius susijęs su viena palme, kai netoli Paryžiaus ir
     Kolonijos buvo rasta įvairių palmių vaisių“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192254
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -186,8 +185,8 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-003
 
 - id: c-175090
   autorius: "Teodoras Narbutas"
@@ -209,8 +208,8 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
 
 - id: c-179297
   autorius: "Teodoras Narbutas"

@@ -29,7 +29,7 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 ## Teiginiai
 
 <a id="claim-t-196360"></a>
-- t-002
+- t-001
   teiginys: "Sutarties sąlygose numatyta, kad iš priešo atsiimtas grobis grąžinamas ankstesniems savininkams, o maskvėnų manta dalijama Lietuvai ir Livonijai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

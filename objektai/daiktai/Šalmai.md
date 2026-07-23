@@ -64,14 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175785
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192066|Ietys]]: Narbutas vaizduoja riterių rikiuotę, kurioje visiškai apsiginklavusių karių ietys žibėjo tankiai kaip tendrūnas.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192499|Ietys]]: Vadas įsakė riteriams išeiti iš stovyklos visiškai apsiginklavus, o jų ietys rikiuotėje žibėjo tankiai kaip tendrūnas.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192071|Lankai]]: Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192503|Lankai]]: Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui.
-- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192052|Skydai]]: Narbutas rašo, kad riterių išėjimo į mūšį apraše skydai spindėjo kaip žvaigždės.
-- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192505|Skydai]]: Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo skydus, spindėjusius kaip žvaigždės.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-192367|Bartai]]: Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
+
 ## Citatos
 
 - id: c-175785

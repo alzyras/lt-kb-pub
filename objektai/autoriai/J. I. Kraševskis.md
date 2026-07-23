@@ -90,9 +90,7 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179113
-- susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63665|J. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
-- susijęs iš [[objektai/posakiai/Narbuto darbą naudosiantis istorikas ilgai dvejos.md#claim-t-189586|Narbuto darbą naudosiantis istorikas ilgai dvejos]]: J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesnis istorikas ilgai dvejotų, prieš juo pasinaudodamas.
-- susijęs iš Atheneum: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
+
 ## Citatos
 
 - id: c-75391

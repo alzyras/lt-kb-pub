@@ -47,7 +47,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 ## Teiginiai
 
 <a id="claim-t-78855"></a>
-- t-003
+- t-001
   teiginys: "Petro Seredos-Stumbro pasakojime nurodoma, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų apsupo NKVD kariuomenė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
     - c-11240
 
 <a id="claim-t-78856"></a>
-- t-005
+- t-002
   teiginys: "Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
     - c-43260
 
 <a id="claim-t-78857"></a>
-- t-004
+- t-003
   teiginys: "Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-43260
   sudarytojas: "Karolis Zikaras"
@@ -144,5 +144,5 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-002
+    - t-003

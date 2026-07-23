@@ -46,8 +46,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   semantiniai_rysiai: "Henrikas Stange surengė žygį į Semba (0.90); Henrikas Stange kariavo prieš Sembai (0.82); Henrikas Stange keliavo į Girmava (0.78)"
   pagrindžia:
     - c-60951
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
-- susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
+
 ## Citatos
 
 - id: c-60951

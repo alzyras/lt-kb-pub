@@ -76,8 +76,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172579
-- susijęs iš [[objektai/asmenys/Aurelijus Antoninas.md#claim-t-190084|Aurelijus Antoninas]]: Narbutas imperatoriaus Aurelijaus Antonino Heliogabalą lygina su Santvaro, vadinto Gabija, arba ugnies dievo stabu.
-- susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
+
 ## Citatos
 
 - id: c-172578

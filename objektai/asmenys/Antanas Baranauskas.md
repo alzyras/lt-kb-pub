@@ -79,10 +79,7 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75342
-- susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
-- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26651|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“.
-- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26903|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.
-- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-67317|„Viso svieto mokslus lietuviam paduosiu...“]]: Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija.
+
 ## Citatos
 
 - id: c-75342

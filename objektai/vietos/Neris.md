@@ -10,8 +10,6 @@ datos:
   - '2026 m.'
 date_start: '2013'
 date_end: '2026'
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +17,8 @@ tags:
   - valstybė
   - vieta
   - žemė
+amziai:
+  - 'XXI'
 media_total_count: '8'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg/1920px-Vilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg'
@@ -42,7 +42,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 ## Teiginiai
 
 <a id="claim-t-195103"></a>
-- t-005
+- t-001
   teiginys: "Neris buvo siejama su žodžiu „Panerta“, nes žiūrint nuo aukštų kalnų atrodė tarsi panirusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177498
 
 <a id="claim-t-195104"></a>
-- t-027
+- t-002
   teiginys: "Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177483
 
 <a id="claim-t-195105"></a>
-- t-001
+- t-003
   teiginys: "Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177505
 
 <a id="claim-t-195106"></a>
-- t-017
+- t-004
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177493
 
 <a id="claim-t-195107"></a>
-- t-008
+- t-005
   teiginys: "Taip pat kunigas Sirvydas savo žodyne Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris)."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177498
 
 <a id="claim-t-195110"></a>
-- t-024
+- t-007
   teiginys: "Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177492
 
 <a id="claim-t-195111"></a>
-- t-013
+- t-008
   teiginys: "Kryžiuočių archyve esančiame sename Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177498
 
 <a id="claim-t-195112"></a>
-- t-028
+- t-009
   teiginys: "Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -159,7 +159,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177496
 
 <a id="claim-t-195113"></a>
-- t-023
+- t-010
   teiginys: "Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177506
 
 <a id="claim-t-195114"></a>
-- t-021
+- t-011
   teiginys: "Baliński teigė, kad Vilniaus vardas kilo nuo į Viliją įtekančios Vilnios, todėl pirmykštė gyvenvietė turėjo būti prie Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177488
 
 <a id="claim-t-195115"></a>
-- t-003
+- t-012
   teiginys: "Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177498
 
 <a id="claim-t-195116"></a>
-- t-030
+- t-013
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias ėjo per Vilnią ir Vingrių upokšnį link kelto per Viliją."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177490
 
 <a id="claim-t-195117"></a>
-- t-026
+- t-014
   teiginys: "Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177504
 
 <a id="claim-t-195118"></a>
-- t-018
+- t-015
   teiginys: "Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -237,7 +237,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177484
 
 <a id="claim-t-195119"></a>
-- t-009
+- t-016
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -250,7 +250,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177502
 
 <a id="claim-t-195120"></a>
-- t-014
+- t-017
   teiginys: "Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -262,7 +262,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177486
 
 <a id="claim-t-195121"></a>
-- t-002
+- t-018
   teiginys: "Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -274,7 +274,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-37594
 
 <a id="claim-t-195122"></a>
-- t-031
+- t-019
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -286,7 +286,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177500
 
 <a id="claim-t-195123"></a>
-- t-015
+- t-020
   teiginys: "Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -298,7 +298,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177493
 
 <a id="claim-t-195124"></a>
-- t-019
+- t-021
   teiginys: "Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -310,7 +310,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177487
 
 <a id="claim-t-195125"></a>
-- t-029
+- t-022
   teiginys: "Dabartinio Antakalnio užuomazgos buvo trobos, išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -322,7 +322,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177495
 
 <a id="claim-t-195126"></a>
-- t-004
+- t-023
   teiginys: "Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -334,7 +334,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177493
 
 <a id="claim-t-195127"></a>
-- t-025
+- t-024
   teiginys: "Baliński spėjo, kad Vilijos vardas lietuviškai galėjo kilti iš „vilioju“ arba „vylius“ ir reikšti Vilioklę."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -344,34 +344,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177499
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184770|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.
-- susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186134|Kūnas]]: Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris.
-- susijęs iš Lietauka: Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
-- susijęs iš Lietauka: Labiausiai paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
-- susijęs iš Lietauka: Paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
-- susijęs iš Lietuva: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.
-- susijęs iš Nemunas: Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.
-- susijęs iš Paneriai: Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi.
-- susijęs iš Prūsija: Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria.
-- susijęs iš [[objektai/zodynas/Vilija Vigilia Neris Nerige.md#claim-t-86447|Vilija Vigilia Neris Nerige]]: Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.
-- susijęs iš [[objektai/asmenys/Erazmas Bretneris.md#claim-t-87660|Erazmas Bretneris]]: Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.
-- susijęs iš [[objektai/asmenys/Giovanni Maria Gaili.md#claim-t-200866|Giovanni Maria Gaili]]: Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčios skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188543|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą.
-- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/asmenys/Pietro Peretti.md#claim-t-200873|Pietro Peretti]]: Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188280|Lietuviai]]: Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185752|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/paprociai/Valdovų deginimo ir laidojimo apeigos Šventaragyje.md#claim-t-185856|Valdovų deginimo ir laidojimo apeigos Šventaragyje]]: Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.
-- susijęs iš [[objektai/posakiai/Rzeko, ktdrędy lz} poniesiesz moję.md#claim-t-189548|Rzeko, ktdrędy lz} poniesiesz moję]]: Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.
-- susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
-- susijęs iš Akademinės Šv. Jono Kolegijos Vaistinės kronika: 1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
-- susijęs iš Kernavė: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
-- susijęs iš Kernavė: Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.
-- susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
-- susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
-- susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
-- susijęs iš Šeškinės laukas: Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.
+
 ## Reikšmingi paminėjimai
 - c-022
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -400,7 +373,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-37594
@@ -420,7 +392,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-018
 
 - id: c-177483
   autorius: "Michał Baliński"
@@ -446,7 +418,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-002
 
 - id: c-177484
   autorius: "Michał Baliński"
@@ -486,7 +458,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-177485
   autorius: "Michał Baliński"
@@ -545,7 +517,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-017
 
 - id: c-177487
   autorius: "Michał Baliński"
@@ -580,7 +552,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-021
 
 - id: c-177488
   autorius: "Michał Baliński"
@@ -610,7 +582,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-011
 
 - id: c-177489
   autorius: "Teodoras Narbutas"
@@ -630,7 +602,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-177490
   autorius: "Michał Baliński"
@@ -657,7 +629,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-013
 
 - id: c-177491
   autorius: "Michał Baliński"
@@ -707,7 +679,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-009
 
 - id: c-177492
   autorius: "Michał Baliński"
@@ -730,7 +702,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-007
 
 - id: c-177493
   autorius: "Michał Baliński"
@@ -754,9 +726,9 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-015
     - t-004
+    - t-020
+    - t-023
 
 - id: c-177494
   autorius: "Michał Baliński"
@@ -804,7 +776,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-022
 
 - id: c-177496
   autorius: "Michał Baliński"
@@ -831,7 +803,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-009
 
 - id: c-177497
   autorius: "Michał Baliński"
@@ -881,10 +853,10 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
     - t-006
-    - t-013
-    - t-003
+    - t-008
+    - t-012
 
 - id: c-177499
   autorius: "Michał Baliński"
@@ -910,7 +882,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-024
 
 - id: c-177500
   autorius: "Michał Baliński"
@@ -936,7 +908,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-019
 
 - id: c-177501
   autorius: "Michał Baliński"
@@ -991,7 +963,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-016
 
 - id: c-177503
   autorius: "Teodoras Narbutas"
@@ -1044,7 +1016,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-014
 
 - id: c-177505
   autorius: "Michał Baliński"
@@ -1068,7 +1040,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-177506
   autorius: "Michał Baliński"
@@ -1091,4 +1063,4 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-010

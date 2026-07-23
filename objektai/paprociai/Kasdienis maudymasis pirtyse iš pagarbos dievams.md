@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89446"></a>
-- t-002
+- t-001
   teiginys: "Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-85403
 
 <a id="claim-t-89447"></a>
-- t-001
+- t-002
   teiginys: "Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,8 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-85404
   autorius: "Petras Dusburgietis"
@@ -122,4 +122,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

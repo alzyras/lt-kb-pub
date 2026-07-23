@@ -70,7 +70,7 @@ Nenurodyta
     - c-66853
 
 <a id="claim-t-66657"></a>
-- t-003
+- t-002
   teiginys: "Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose, Dusburgietis veikiausiai perdėjo prūsų padarytų nuostolių mastą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-66852
 
 <a id="claim-t-194400"></a>
-- t-005
+- t-003
   teiginys: "Apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-66853
   autorius: "Petras Dusburgietis"
@@ -140,4 +140,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003

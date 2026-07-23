@@ -55,15 +55,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie asmens veiklą."
   pagrindžia:
     - c-21944
-- susijęs iš [[objektai/asmenys/Aleksandras Štromas.md#claim-t-18780|Aleksandras Štromas]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.
-- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19286|Tomas Venclova]]: 1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos.
-- susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74671|Lietuvos disidentai]]: Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
-- susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
-- susijęs iš Sintaksis: Žurnalui „Sintaksis“ informaciją iš Lietuvos teikė lietuvių disidentai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus.
-- susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104184|disidentai disidentinis judėjimas kitaminčiai]]: Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
-- susijęs iš Helsinkio Baigiamasis aktas: 1975 m. Helsinkio Baigiamuoju aktu jo dalyvės įsipareigojo gerbti žmogaus teises.
-- susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.
-- susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
+
 ## Citatos
 
 - id: c-21944

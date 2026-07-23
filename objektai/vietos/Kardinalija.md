@@ -38,7 +38,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 ## Teiginiai
 
 <a id="claim-t-85932"></a>
-- t-003
+- t-001
   teiginys: "Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81914
 
 <a id="claim-t-85933"></a>
-- t-004
+- t-002
   teiginys: "Apie 1601 metus Goštautų ir Filipovo namai, sujungti Albrechto Radvilos laikais, gavo bendrą Kardinalijos pavadinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81916
 
 <a id="claim-t-85934"></a>
-- t-002
+- t-003
   teiginys: "Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     - c-81913
 
 <a id="claim-t-85935"></a>
-- t-001
+- t-004
   teiginys: "Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,37 +101,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81915
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103046|Jurgis Radvila (vyskupas, XVI a.)]]: Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103047|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.
-- susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87553|Mikalojus Malinovskis]]: Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.
-- susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87001|Kardinalijos namų kompleksas]]: Apie 1601 metus Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
-- susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87002|Kardinalijos namų kompleksas]]: Kardinalija buvo vienas didžiausių Vilniaus namų, iškilęs Jurgio Radvilos lėšomis tarp senų mūrinių namų ir medinių dvarų.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172765|Radvilų giminė]]: 1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172766|Radvilų giminė]]: Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.
-- susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs.
-- susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.
-- susijęs iš Filipovo namai: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir pavadinti Kardinalija.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103037|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82569|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82574|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113878|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113881|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87000|Kardinalijos namų kompleksas]]: Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176071|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176102|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas.md#claim-t-87295|Kardinalijos koplyčios pamaldų laikymas]]: Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.
-- susijęs iš Filipovo namai: Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.
-- susijęs iš Goštautų mūras: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.
-- susijęs iš Goštautų mūras: Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.
-- susijęs iš Šv. Jono bažnyčia: Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
-- susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.
+
 ## Citatos
 
 - id: c-81913
@@ -155,7 +125,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-81914
   autorius: "Michał Baliński"
@@ -185,7 +155,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-81915
   autorius: "Michał Baliński"
@@ -212,7 +182,7 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-81916
   autorius: "Michał Baliński"
@@ -238,4 +208,4 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

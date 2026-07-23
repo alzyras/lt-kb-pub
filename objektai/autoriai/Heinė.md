@@ -48,7 +48,7 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173308
-- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190353|Homeras]]: Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais.
+
 ## Citatos
 
 - id: c-173308

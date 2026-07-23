@@ -40,7 +40,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Teiginiai
 
 <a id="claim-t-43651"></a>
-- t-002
+- t-001
   teiginys: "Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - c-47055
 
 <a id="claim-t-43652"></a>
-- t-001
+- t-002
   teiginys: "Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -85,9 +85,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184413
-- susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
-- susijęs iš Ryga: 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
-- susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
+
 ## Citatos
 
 - id: c-47055
@@ -112,7 +110,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-47056
   redaktorius: "A. Šapoka"
@@ -133,7 +131,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-184413
   autorius: "Simonas Daukantas"

@@ -47,8 +47,7 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167201
-- susijęs iš Šešuolė: Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.
-- susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195332|Bonka]]: Gėrimo talpa prie bažnyčios vaišių ir gertuvių.
+
 ## Citatos
 
 - id: c-167201

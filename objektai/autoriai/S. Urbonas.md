@@ -55,7 +55,7 @@ Urbonas.
   temporalinis_llm_pakomentavimas: "Pirminis teiginys per trumpas, bet citata pagrindžia sudarytojo vaidmenį."
   pagrindžia:
     - c-22190
-- susijęs iš Čiurlionis Vilniuje: „Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.
+
 ## Citatos
 
 - id: c-22190

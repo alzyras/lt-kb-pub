@@ -53,7 +53,7 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie Lietuvos senatorius."
   pagrindžia:
     - c-82740
-- susijęs iš Lietuvos senatorių laiškas Maskvos didikams dėl Ivano titulo: Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.
+
 ## Citatos
 
 - id: c-82740

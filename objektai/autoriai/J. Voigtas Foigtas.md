@@ -7,15 +7,15 @@ datos:
   - '1669 m.'
 date_start: '1669'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -126,11 +126,11 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
 
 ## Citatos
 

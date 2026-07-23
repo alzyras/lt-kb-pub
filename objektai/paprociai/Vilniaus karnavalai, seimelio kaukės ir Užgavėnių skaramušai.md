@@ -66,7 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200559"></a>
-- t-002
+- t-001
   teiginys: "1757 m. Vilniuje buvo rengiamas karnavalas, kuriame ketino dalyvauti Mykolas Kazimieras Radvila Žuvelė."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-183949
 
 <a id="claim-t-200560"></a>
-- t-003
+- t-002
   teiginys: "1751 m. Jonas Dominykas Lopacinskis ironiškai rašė, kad artėjant Užgavėnėms į Vilnių pribėga nereikalingų skaramušų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -117,5 +117,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

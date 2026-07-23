@@ -30,7 +30,7 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
 ## Teiginiai
 
 <a id="claim-t-187692"></a>
-- t-003
+- t-001
   teiginys: "Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,6 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170632
@@ -92,4 +91,4 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

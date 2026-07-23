@@ -45,7 +45,7 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
   semantiniai_rysiai: "Lamatiečiai gyveno Minija (0.90); Lamatiečiai gyveno Nemunas (0.78)"
   pagrindžia:
     - c-59668
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
+
 ## Citatos
 
 - id: c-59668

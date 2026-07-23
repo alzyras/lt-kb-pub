@@ -98,11 +98,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi prikabintą pavadinimo fragmentą, bet citata palaiko glaustesnį sakinį."
   pagrindžia:
     - c-41086
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-47.md#claim-t-78678|Sovietų automatinis šautuvas AK-47]]: Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba.
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-47.md#claim-t-78679|Sovietų automatinis šautuvas AK-47]]: Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba.
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-74.md#claim-t-40770|Sovietų automatinis šautuvas AK-74]]: 1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.
-- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AVS-36.md#claim-t-39285|Sovietų automatinis šautuvas AVS-36]]: AVS-36 buvo 1936 m. pavyzdžio Simonovo automatinis šautuvas, naudojęs 7,62x54 mm R šovinius ir 15 šovinių dėtuvę.
-- susijęs iš [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas.md#claim-t-40702|Dainavos apygardos kovotojų rankovės antsiuvas]]: Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m.
+
 ## Citatos
 
 - id: c-41086

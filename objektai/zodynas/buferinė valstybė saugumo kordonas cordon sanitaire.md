@@ -37,7 +37,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 ## Teiginiai
 
 <a id="claim-t-101571"></a>
-- t-004
+- t-001
   teiginys: "Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     - c-95097
 
 <a id="claim-t-101572"></a>
-- t-003
+- t-002
   teiginys: "Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     - c-24771
 
 <a id="claim-t-101573"></a>
-- t-002
+- t-003
   teiginys: "Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
     - c-95097
 
 <a id="claim-t-101574"></a>
-- t-001
+- t-004
   teiginys: "Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant grėsmę savo sienoms ir atskiram valstybiniam gyvenimui."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-24771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,7 +137,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-95097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -165,5 +165,5 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
+    - t-001
+    - t-003

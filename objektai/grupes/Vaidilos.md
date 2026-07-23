@@ -61,22 +61,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172329
-- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
-- susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
-- susijęs iš [[objektai/paprociai/Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį.md#claim-t-189921|Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį]]: Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį.
-- susijęs iš [[objektai/paprociai/Permaldavimo aukos Pokliui ir kraujo atnašavimas.md#claim-t-189774|Permaldavimo aukos Pokliui ir kraujo atnašavimas]]: Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo.
-- susijęs iš [[objektai/paprociai/Slaptas naujo vyriausiojo žynio išrinkimas ir pristatymas žmonėms.md#claim-t-189941|Slaptas naujo vyriausiojo žynio išrinkimas ir pristatymas žmonėms]]: Narbutas aprašo paprotį, kai po vyriausiojo žynio mirties vaidilos slapta išrinkdavę įpėdinį ir žmonėms skelbdavę jį dievų pasirinktu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179302|Lietuviai]]: Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190579|Lietuviai]]: Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.
-- susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189805|Išpažintis per aukojimo apeigas]]: Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų.
-- susijęs iš [[objektai/paprociai/Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams.md#claim-t-189945|Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams]]: Vaidilos tarnaudami dievams dėvėdavo ilgą viršutinį drabužį su baltu drobiniu apvadu ir žalumynų vainikus.
-- susijęs iš [[objektai/paprociai/Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas.md#claim-t-189946|Vaidilų ligonių raminimas, apžadai ir Amžinosios ugnies pelenų naudojimas]]: Narbutas vaidilus apibūdina kaip dvasios ir kūno gydytojus, kurie ramindavo ligonius, skatindavo apžadus ir naudodavo Amžinosios ugnies pelenus.
-- susijęs iš [[objektai/paprociai/Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą.md#claim-t-189965|Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą]]: Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami.
-- susijęs iš Ariogala: Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.
-- susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
-- susijęs iš Ariogala: Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.
-- susijęs iš Ariogala: Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.
-- susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
+
 ## Citatos
 
 - id: c-172328

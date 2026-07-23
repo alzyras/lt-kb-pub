@@ -34,7 +34,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 ## Teiginiai
 
 <a id="claim-t-64705"></a>
-- t-003
+- t-001
   teiginys: "Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
     - c-42434
 
 <a id="claim-t-64707"></a>
-- t-004
+- t-002
   teiginys: "Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -116,5 +116,5 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

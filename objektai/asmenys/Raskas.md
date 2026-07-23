@@ -59,7 +59,7 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174392
-- susijęs iš [[objektai/asmenys/Rasmusas Raskas.md#claim-t-191354|Rasmusas Raskas]]: Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
+
 ## Citatos
 
 - id: c-174392

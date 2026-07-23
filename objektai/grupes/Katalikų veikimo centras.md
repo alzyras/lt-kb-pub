@@ -44,10 +44,7 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22453
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
-- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
-- susijęs iš [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis).md#claim-t-20506|Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]: Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.
-- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
+
 ## Citatos
 
 - id: c-22453

@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-21028"></a>
-- t-002
+- t-001
   teiginys: "1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-166750
 
 <a id="claim-t-21029"></a>
-- t-001
+- t-002
   teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-23750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -147,5 +147,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
     - t-003

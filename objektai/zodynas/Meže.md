@@ -44,7 +44,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 ## Teiginiai
 
 <a id="claim-t-192204"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, nes kraštas ribojosi su svetimais kraštais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -62,7 +62,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     - c-175066
 
 <a id="claim-t-192205"></a>
-- t-001
+- t-002
   teiginys: "Narbutas lietuvišką žodį „Meže“ aiškina kaip reiškiantį ribą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -117,8 +117,8 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-175345
   autorius: "Teodoras Narbutas"

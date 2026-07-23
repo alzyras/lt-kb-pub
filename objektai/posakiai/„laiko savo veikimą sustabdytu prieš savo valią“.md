@@ -46,8 +46,7 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   temporalinis_llm_pakomentavimas: "Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija."
   pagrindžia:
     - c-75166
-- susijęs iš [[objektai/autoriai/Juozas Ambrazevičius.md#claim-t-183343|Juozas Ambrazevičius]]: Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.
-- susijęs iš J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo: J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.
+
 ## Citatos
 
 - id: c-75166

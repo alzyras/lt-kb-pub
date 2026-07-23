@@ -58,8 +58,7 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
   temporalinis_llm_pakomentavimas: "Pradinis teiginys gremėzdiškas; citata leidžia suformuluoti aiškesnį sakinį."
   pagrindžia:
     - c-83697
-- susijęs iš Poznanė: Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.
-- susijęs iš Poznanė: Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.
+
 ## Citatos
 
 - id: c-83697

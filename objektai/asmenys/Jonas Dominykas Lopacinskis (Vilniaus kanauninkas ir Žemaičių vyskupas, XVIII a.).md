@@ -49,7 +49,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 ## Teiginiai
 
 <a id="claim-t-200578"></a>
-- t-004
+- t-001
   teiginys: "Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -66,7 +66,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183893
 
 <a id="claim-t-200579"></a>
-- t-005
+- t-002
   teiginys: "Lopacinskio laiškuose gausu informacijos apie LDK sostinėje gyvenusius dvasininkus ir pasauliečius bajorus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -93,7 +93,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200581"></a>
-- t-001
+- t-004
   teiginys: "Jonas Dominykas Lopacinskis nuo 1752 m. buvo Vilniaus kanauninkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -113,7 +113,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200582"></a>
-- t-007
+- t-005
   teiginys: "Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -130,7 +130,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183985
 
 <a id="claim-t-200583"></a>
-- t-002
+- t-006
   teiginys: "1755 m. Jonas Dominykas Lopacinskis buvo LDK sekretorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -151,7 +151,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200584"></a>
-- t-006
+- t-007
   teiginys: "Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -178,8 +178,8 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002
 
 - id: c-183921
   autorius: "Domininkas Burba"
@@ -191,8 +191,8 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
   atnaujinta: "2026-07-14 06:05"
   pagrindzia:
     - t-003
-    - t-001
-    - t-002
+    - t-004
+    - t-006
 
 - id: c-183985
   autorius: "Domininkas Burba"
@@ -203,5 +203,5 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
   pagrindzia:
+    - t-005
     - t-007
-    - t-006

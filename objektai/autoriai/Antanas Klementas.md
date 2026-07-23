@@ -55,8 +55,7 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-64341
-- susijęs iš Žemaitiška dainelė: Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
-- susijęs iš Žemaitiška dainelė Žemaitiška giesmelė: Antanas Klementas „Žemaitišką dainelę“ parašė revoliucijos laikais, 1794 m.
+
 ## Citatos
 
 - id: c-64341

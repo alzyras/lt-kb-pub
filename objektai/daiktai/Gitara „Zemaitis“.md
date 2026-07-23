@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45488"></a>
-- t-010
+- t-001
   teiginys: "Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-48270
 
 <a id="claim-t-45489"></a>
-- t-007
+- t-002
   teiginys: "Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Nenurodyta
     - c-22239
 
 <a id="claim-t-45490"></a>
-- t-009
+- t-003
   teiginys: "Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Nenurodyta
     - c-22239
 
 <a id="claim-t-45491"></a>
-- t-008
+- t-004
   teiginys: "Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -128,13 +128,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22239
-- susijęs iš [[objektai/asmenys/Bruce Springsteen.md#claim-t-18860|Bruce Springsteen]]: Bruce Springsteenas grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/David Gilmour.md#claim-t-18873|David Gilmour]]: Davidas Gilmouras grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Eric Clapton.md#claim-t-18886|Eric Clapton]]: Eric Clapton grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/George Harrison.md#claim-t-18914|George Harrison]]: George Harrison grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Jimi Hendrix.md#claim-t-18962|Jimi Hendrix]]: Jimi Hendrixas grojo Tony'o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Paul McCartney.md#claim-t-19186|Paul McCartney]]: Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Ronnie Wood.md#claim-t-19215|Ronnie Wood]]: Ronnie Wood grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -161,9 +155,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-009
-    - t-008
+    - t-002
+    - t-003
+    - t-004
 
 - id: c-48270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -186,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001

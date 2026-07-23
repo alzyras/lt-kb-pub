@@ -43,7 +43,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03011
-- susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
+
 ## Citatos
 
 - id: c-03011

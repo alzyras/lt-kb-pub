@@ -44,7 +44,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
 ## Teiginiai
 
 <a id="claim-t-182861"></a>
-- t-013
+- t-001
   teiginys: "Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
     - c-166265
 
 <a id="claim-t-184284"></a>
-- t-014
+- t-002
   teiginys: "Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
     - c-36494
 
 <a id="claim-t-184824"></a>
-- t-015
+- t-003
   teiginys: "Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -96,11 +96,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168185
-- susijęs iš [[objektai/asmenys/Radvila.md#claim-t-186171|Radvila]]: Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.
-- susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184875|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.
-- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184707|Goštautas (vyskupas, XV a.)]]: Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.
+
 ## Citatos
 
 - id: c-36494
@@ -121,7 +117,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-002
 
 - id: c-166265
   autorius: "Zenonas Ivinskis"
@@ -142,7 +138,7 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-001
 
 - id: c-168185
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -171,4 +167,4 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-003

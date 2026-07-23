@@ -5,7 +5,7 @@ sukurta: '2026-07-12'
 variantai:
   - 'rėtį'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - daiktas
@@ -45,6 +45,18 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-195336"></a>
+- t-001
+  teiginys: "Rėtis minimas kaip kiaušinių talpa kamaroje."
+  atnaujinta: "2026-07-23 20:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177735
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -73,3 +85,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

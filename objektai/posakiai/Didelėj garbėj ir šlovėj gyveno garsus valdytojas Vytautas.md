@@ -38,7 +38,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 ## Teiginiai
 
 <a id="claim-t-67266"></a>
-- t-005
+- t-001
   teiginys: "Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     - c-14583
 
 <a id="claim-t-67267"></a>
-- t-004
+- t-002
   teiginys: "Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,5 +94,5 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002

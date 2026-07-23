@@ -64,9 +64,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10312
-- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08288|Dievų stabai]]: Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

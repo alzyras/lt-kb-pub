@@ -47,14 +47,7 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174373
-- susijęs iš [[objektai/asmenys/Khaintajas.md#claim-t-191433|Khaintajas]]: Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino.
-- susijęs iš [[objektai/asmenys/Khaintajas.md#claim-t-191433|Khaintajas]]: Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino.
-- susijęs iš [[objektai/asmenys/Hameris.md#claim-t-191205|Hameris]]: Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą.
-- susijęs iš Koranas: Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie Ross upės, išsisklaidžiusi žiloje senovėje.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
+
 ## Citatos
 
 - id: c-174373

@@ -26,6 +26,17 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 14 Mažiulis V.
 
+## Teiginiai
+
+<a id="claim-t-61332"></a>
+- t-001
+  teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61964
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius.'
@@ -34,11 +45,10 @@ Dusburgietis teigia, kad 14 Mažiulis V.
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
     7; Lietuvininkai.— LTE, t. 6, p. 527— 528; Mažoji Lietuva.— Ten pat, t. 7, p. 338—340.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61964
@@ -55,14 +65,3 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-61332"></a>
-- t-001
-  teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61964

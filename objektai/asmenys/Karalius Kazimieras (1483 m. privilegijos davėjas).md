@@ -7,15 +7,15 @@ datos:
   - '1483 m.'
 date_start: '1483'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

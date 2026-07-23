@@ -31,7 +31,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 ## Teiginiai
 
 <a id="claim-t-89608"></a>
-- t-004
+- t-001
   teiginys: "Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-85549
 
 <a id="claim-t-89609"></a>
-- t-009
+- t-002
   teiginys: "Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-85549
 
 <a id="claim-t-89610"></a>
-- t-008
+- t-003
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-85549
 
 <a id="claim-t-89612"></a>
-- t-001
+- t-004
   teiginys: "Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89615"></a>
 - t-007
   teiginys: "Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-22 01:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -143,10 +143,11 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
+    - c-85549
     - c-85552
 
 <a id="claim-t-184655"></a>
-- t-010
+- t-008
   teiginys: "Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -175,12 +176,15 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
     nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
 
+
+
+
                             231 (225).
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,13 +193,15 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     pareigybių naštą arba tiesiog pasiimti iš šios žemės. Tą pačią naktį jis buvo viešpaties
     išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
 
+
+
+
                             232 (225).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-56139
@@ -214,7 +220,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
     - t-005
 
 - id: c-56140
@@ -257,9 +263,10 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-009
-    - t-008
+    - t-001
+    - t-002
+    - t-003
+    - t-007
 
 - id: c-85550
   autorius: "Petras Dusburgietis"
@@ -341,4 +348,4 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008

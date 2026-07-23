@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59350"></a>
-- t-002
+- t-001
   teiginys: "Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-59983
 
 <a id="claim-t-59351"></a>
-- t-001
+- t-002
   teiginys: "Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59983
   autorius: "Petras Dusburgietis"
@@ -124,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

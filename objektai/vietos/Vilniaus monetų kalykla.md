@@ -95,15 +95,7 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81228
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87368|Ulrikas Hozijus]]: Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179729|Švitrigaila]]: Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.
-- susijęs iš [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai.md#claim-t-87071|Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]: Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.
-- susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
-- susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
-- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
-- susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
-- susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86423|indiktas]]: Karaliaus Kazimiero sutartis su Pskovu Vilniuje datuota 1440 m. gruodžio 30 d., 4 indiktu.
-- susijęs iš [[objektai/zodynas/neofitai.md#claim-t-113658|neofitai]]: 1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.
+
 ## Citatos
 
 - id: c-55853

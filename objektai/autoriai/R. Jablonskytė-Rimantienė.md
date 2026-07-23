@@ -44,7 +44,7 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33113
-- susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
+
 ## Citatos
 
 - id: c-33113

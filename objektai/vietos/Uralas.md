@@ -49,12 +49,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175678
-- susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
-- susijęs iš [[objektai/asmenys/Skilūras.md#claim-t-191467|Skilūras]]: 94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
-- susijęs iš [[objektai/autoriai/Priskas.md#claim-t-191631|Priskas]]: Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.
-- susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš Kaukazas: Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono.
-- susijęs iš [[objektai/autoriai/Priskas.md#claim-t-191631|Priskas]]: Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų.
+
 ## Citatos
 
 - id: c-175678

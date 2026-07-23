@@ -8,16 +8,16 @@ datos:
   - '1232 m.'
 date_start: '1232'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - šventė
   - dvasininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,28 +84,7 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178720
-- susijęs iš [[objektai/asmenys/Viklifas.md#claim-t-190219|Viklifas]]: Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į tėvynę juos parsinešė.
-- susijęs iš Vda: Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
-- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188545|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.
-- susijęs iš [[objektai/asmenys/Melchioras Giedraitis.md#claim-t-190920|Melchioras Giedraitis (vyskupas)]]: Narbutas aiškina, kad Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus dėl kaimiečių religinės padėties savo diecezijoje.
-- susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
-- susijęs iš [[objektai/autoriai/Viklifas.md#claim-t-190408|Viklifas]]: Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė Viklifo raštus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-190568|Kryžiuočių ordinas]]: Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.
-- susijęs iš [[objektai/grupes/Saulės garbintojai.md#claim-t-189533|Saulės garbintojai]]: Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
-- susijęs iš [[objektai/grupes/Žyniai.md#claim-t-189398|Žyniai]]: Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.
-- susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
-- susijęs iš [[objektai/ivykiai/Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius.md#claim-t-189637|Teodoro Lenko pasiuntinybė į Konstancos susirinkimą su skundais prieš kryžiuočius]]: Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenką, kad šis išdėstytų skundus prieš kryžiuočius.
-- susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59052|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.
-- susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai.md#claim-t-58935|daiktiški ir dvasiški ginklai dvasios ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
-- susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai.md#claim-t-58934|daiktiški ir dvasiški ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200511|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas buvo Minsko vaivada.
-- susijęs iš [[objektai/asmenys/Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.).md#claim-t-200512|Jonas Augustas Hylzenas (Minsko vaivada, XVIII a.)]]: Jonas Augustas Hylzenas teigė atvyksiąs į Vilnių, todėl jam reikėjo numatyti vietą M. Lopacinskio mūriniame name.
-- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200507|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila.
-- susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200508|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko.'
@@ -122,7 +101,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-60782

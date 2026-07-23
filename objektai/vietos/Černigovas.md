@@ -45,7 +45,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Teiginiai
 
 <a id="claim-t-122957"></a>
-- t-018
+- t-001
   teiginys: "Švitrigaila paėmė į savo valdžią Černigovo sritį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183670
 
 <a id="claim-t-122959"></a>
-- t-020
+- t-002
   teiginys: "Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183668
 
 <a id="claim-t-122960"></a>
-- t-016
+- t-003
   teiginys: "Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183669
 
 <a id="claim-t-122962"></a>
-- t-014
+- t-004
   teiginys: "Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183673
 
 <a id="claim-t-122963"></a>
-- t-017
+- t-005
   teiginys: "1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183666
 
 <a id="claim-t-122965"></a>
-- t-015
+- t-006
   teiginys: "Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183664
 
 <a id="claim-t-122966"></a>
-- t-021
+- t-007
   teiginys: "Jo valdymo pabaigoje atskiros kunigaikštystės dar liko Černigovo krašte ir Maskvos pasienyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -175,7 +175,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183668
 
 <a id="claim-t-122968"></a>
-- t-019
+- t-008
   teiginys: "Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183668
 
 <a id="claim-t-122969"></a>
-- t-008
+- t-009
   teiginys: "Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183666
 
 <a id="claim-t-122970"></a>
-- t-001
+- t-010
   teiginys: "Černigove susidarė atskira kunigaikštija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -247,7 +247,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183673
 
 <a id="claim-t-183110"></a>
-- t-022
+- t-012
   teiginys: "Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -268,7 +268,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183670
 
 <a id="claim-t-193255"></a>
-- t-023
+- t-013
   teiginys: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -281,7 +281,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183670
 
 <a id="claim-t-193256"></a>
-- t-024
+- t-014
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -294,7 +294,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183665
 
 <a id="claim-t-200376"></a>
-- t-007
+- t-015
   teiginys: "Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -312,7 +312,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183669
 
 <a id="claim-t-200381"></a>
-- t-010
+- t-016
   teiginys: "Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -330,7 +330,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183673
 
 <a id="claim-t-200385"></a>
-- t-002
+- t-017
   teiginys: "Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -352,7 +352,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183672
 
 <a id="claim-t-200390"></a>
-- t-004
+- t-018
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -367,7 +367,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183674
 
 <a id="claim-t-201121"></a>
-- t-025
+- t-019
   teiginys: "Ateinančius metus tas patsai karvedys, nukariavęs severionis, rodomičionis, gudų tautos dalis, būk taip pat užėmęs pilis Černigovo ir Vitebsko nuo chazarų, kuriuos iš visos Baltosios žemės, arba Baltųjų Gudų, išujęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -377,52 +377,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184471
-- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
-- susijęs iš Novosilė: Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.
-- susijęs iš Brianskas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
-- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191307|Petras Malachovskis]]: Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus.
-- susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
-- susijęs iš Novosilė: Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.
-- susijęs iš [[objektai/asmenys/Jonas Švitrigaila.md#claim-t-87734|Jonas Švitrigaila]]: Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.
-- susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
-- susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
-- susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05217|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas.
-- susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191616|Petras Malachovskis]]: Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu.
-- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185640|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Kojelavičiaus pasakojimu, Boleslovo pakviesta skitų kariauna ketino išvyti Žygimantą ir sugrąžinti Boleslovą į valdžią Lietuvoje.
-- susijęs iš Piotr Małachowski, Zbior nazwisk szlachty z opisem herbow: T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą „Zbior nazwisk szlachty z opisem herbow“.
-- susijęs iš Brianskas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
-- susijęs iš Dniepras: Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį.
-- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
-- susijęs iš Kijevas: 1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.
-- susijęs iš Kijevas: Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.
-- susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
-- susijęs iš Kijevas: Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.
-- susijęs iš Kopilius: Valdymo pabaigoje Kopiliuje liko viena iš atskirų kunigaikštysčių.
-- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
-- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
-- susijęs iš Novosilė: Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje.
-- susijęs iš Pinskas: Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.
-- susijęs iš Pinskas: Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.
-- susijęs iš Pinskas: Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.
-- susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
-- susijęs iš Polockas: 1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.
-- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
-- susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
-- susijęs iš Sluckas: Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai.
-- susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
-- susijęs iš Sluckas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
-- susijęs iš Smolenskas: 1411 m. pavasarį Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą.
-- susijęs iš Smolenskas: 1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.
-- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
-- susijęs iš Smolenskas: Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis.
-- susijęs iš Vitebskas: 1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.
-- susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
-- susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-182991|vietininkas]]: Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
-- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
-- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191307|Petras Malachovskis]]: Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus.
+
 ## Citatos
 
 - id: c-37864
@@ -445,8 +400,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-007
+    - t-003
+    - t-015
 
 - id: c-37865
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -470,8 +425,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-008
+    - t-005
+    - t-009
 
 - id: c-46854
   redaktorius: "A. Šapoka"
@@ -491,9 +446,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-021
-    - t-019
+    - t-002
+    - t-007
+    - t-008
 
 - id: c-112447
   autorius: "Michał Baliński"
@@ -529,9 +484,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
     - t-011
-    - t-010
+    - t-016
 
 - id: c-112452
   redaktorius: "A. Šapoka"
@@ -555,9 +510,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-022
-    - t-023
+    - t-001
+    - t-012
+    - t-013
 
 - id: c-112453
   redaktorius: "A. Šapoka"
@@ -576,7 +531,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-112459
   autorius: "Michał Baliński"
@@ -609,8 +564,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-015
+    - t-004
+    - t-006
     - t-011
 
 - id: c-175988
@@ -629,7 +584,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-014
 
 - id: c-183664
   autorius: "Michał Baliński"
@@ -662,8 +617,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-015
+    - t-004
+    - t-006
     - t-011
 
 - id: c-183665
@@ -682,7 +637,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-014
 
 - id: c-183666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -706,8 +661,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-008
+    - t-005
+    - t-009
 
 - id: c-183668
   redaktorius: "A. Šapoka"
@@ -727,9 +682,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-021
-    - t-019
+    - t-002
+    - t-007
+    - t-008
 
 - id: c-183669
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -751,8 +706,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-007
+    - t-003
+    - t-015
 
 - id: c-183670
   redaktorius: "A. Šapoka"
@@ -776,9 +731,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-022
-    - t-023
+    - t-001
+    - t-012
+    - t-013
 
 - id: c-183671
   redaktorius: "A. Šapoka"
@@ -797,7 +752,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-183672
   autorius: "Anoniminis metraštininkas"
@@ -823,7 +778,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-017
 
 - id: c-183673
   autorius: "Michał Baliński"
@@ -859,9 +814,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
     - t-011
-    - t-010
+    - t-016
 
 - id: c-183674
   autorius: "Zenonas Ivinskis"
@@ -880,7 +835,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-018
 
 - id: c-184471
   autorius: "Simonas Daukantas"
@@ -907,7 +862,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-019
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

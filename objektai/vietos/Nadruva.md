@@ -11,13 +11,13 @@ datos:
   - '1274 m.'
 date_start: '1253'
 date_end: '1274'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 ## Teiginiai
 
 <a id="claim-t-77017"></a>
-- t-014
+- t-001
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius, kuriuos buvo galima pasiekti laivais Nemunu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74485
 
 <a id="claim-t-77018"></a>
-- t-006
+- t-002
   teiginys: "Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74485
 
 <a id="claim-t-77019"></a>
-- t-012
+- t-003
   teiginys: "1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74490
 
 <a id="claim-t-77020"></a>
-- t-005
+- t-004
   teiginys: "Po Tirsko pasidavimo daug galingų ir kilmingų Nadruvos vyrų su šeimynomis perėjo pas brolius ir buvo pakrikštyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74490
 
 <a id="claim-t-77021"></a>
-- t-009
+- t-005
   teiginys: "Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74491
 
 <a id="claim-t-77022"></a>
-- t-016
+- t-006
   teiginys: "Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74487
 
 <a id="claim-t-77023"></a>
-- t-015
+- t-007
   teiginys: "Nadruvoje buvusi Romuva ir jos krivis šaltinyje laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74492
 
 <a id="claim-t-77024"></a>
-- t-013
+- t-008
   teiginys: "Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -169,7 +169,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74495
 
 <a id="claim-t-77025"></a>
-- t-004
+- t-009
   teiginys: "1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74494
 
 <a id="claim-t-77028"></a>
-- t-007
+- t-012
   teiginys: "1253-1259 m. komentare Nadruva tarptautinėje plotmėje laikoma Lietuvos valdovo žeme."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -243,7 +243,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74486
 
 <a id="claim-t-192700"></a>
-- t-017
+- t-013
   teiginys: "Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -264,7 +264,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-175470
 
 <a id="claim-t-192701"></a>
-- t-018
+- t-014
   teiginys: "Narbutas Nadruvą apibūdina kaip beveik ežerų neturėjusią, bet miškų turtingą prūsų provinciją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -284,7 +284,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-175471
 
 <a id="claim-t-197899"></a>
-- t-019
+- t-015
   teiginys: "Nadruva Devinta prūsų provincija buvo Nadruva, kuri šiau rėje ribojosi su Sūduva, galbūt per Pisos upę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -294,128 +294,28 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179387
-- susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
-- susijęs iš Romuva: Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš Romuva: Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.
-- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
-- susijęs iš Retavos valsčius: Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
-- susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
-- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
-- susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
-- susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89914|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65937|Nadruviai]]: Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65942|Nadruviai]]: Po Tirsko pasidavimo daug kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas.md#claim-t-62882|Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]: 1274 m. magistras ir broliai, siekdami praplėsti krikščionių žemių ribas, nukreipė ginklus prieš nadruvius.
-- susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62918|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54335|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
-- susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
-- susijęs iš Retavos valsčius: Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.
-- susijęs iš Romuva: Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.
-- susijęs iš Sūduva: Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.
-- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75586|Romuva ir krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77804|Romuva krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58816|krivis krivė krivaitis]]: A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.
-- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
-- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/asmenys/Maudelis.md#claim-t-60386|Maudelis]]: Maudelis buvo Vėluvos pilininko Tirsko sūnus.
-- susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
-- susijęs iš [[objektai/autoriai/Greimas A.md#claim-t-60707|Greimas A]]: Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.
-- susijęs iš [[objektai/autoriai/Kosman М.md#claim-t-60731|Kosman М]]: M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190762|Motiejus Pretorijus]]: Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa.
-- susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97208|P. Pakarklis]]: P. Pakarklis plėtojo mintį, kad Pavyslio, Rytprūsių ir Lietuvos gyventojus siejo bendra kalba, tikyba ir politinis vienetas.
-- susijęs iš [[objektai/daiktai/Aukuro kalnai ir akmenys.md#claim-t-77919|Aukuro kalnai ir akmenys]]: Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88525|Bartai]]: 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78405|Notangai]]: 1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89157|Pagudėnai]]: 1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175091|Sembai]]: 1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78535|Varmiai]]: 1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.
-- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
-- susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
-- susijęs iš [[objektai/paprociai/Krivio valios ir potvarkių klausymas.md#claim-t-189924|Krivio valios ir potvarkių klausymas]]: Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54336|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/posakiai/krikšto prikelti naujam gyvenimui.md#claim-t-184035|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]: 1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
-- susijęs iš [[objektai/posakiai/krikšto prikelti naujam gyvenimui.md#claim-t-59118|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]: 1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
-- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
-- susijęs iš Arsa: Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.
-- susijęs iš Auksinė: Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.
-- susijęs iš Auktuolyčiai: Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.
-- susijęs iš Kampsvykiai: 1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.
-- susijęs iš Kampsvykiai: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.
-- susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
-- susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
-- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
-- susijęs iš Osa: Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.
-- susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
-- susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.
-- susijęs iš Romintės giria: Nadruvos pietryčiuose, Pisos intako Romintės (dab.
-- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
-- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
-- susijęs iš Romuva: Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš Skalva: 1253-1259 m. Mindaugo dokumentai liudija, kad Skalva tarptautinėje plotmėje laikyta Lietuvos valdovo žeme.
-- susijęs iš Skalva: Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.
-- susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
-- susijęs iš [[objektai/zodynas/Nadrau.md#claim-t-192216|Nadrau]]: Narbutas „Nadrau“ aiškina kaip lietuviškai-prūsišką žodį, turėjusį reikšti vidų.
-- susijęs iš [[objektai/zodynas/Nadrau.md#claim-t-192565|Nadrau]]: Narbutas Nadruvos pavadinimą kildina iš žodžio „Nadrau“, lietuviškai-prūsiškai turėjusio reikšti vidų.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
-- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75583|Romuva ir krivis]]: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.
-- susijęs iš [[objektai/zodynas/amfiktionija.md#claim-t-23432|amfiktionija]]: Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
-- susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
-- susijęs iš Romintės giria: Nadruvos pietryčiuose, Pisos intako Romintės (dab.
-- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75586|Romuva ir krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77804|Romuva krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/zodynas/Nadrau.md#claim-t-192216|Nadrau]]: Narbutas „Nadrau“ aiškina kaip lietuviškai-prūsišką žodį, turėjusį reikšti vidų.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190762|Motiejus Pretorijus]]: Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa.
-- susijęs iš Auktuolyčiai: Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.
+
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 - c-006
   santrauka: 'Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
-    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
-    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
-    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4. P. Pakarklis plėtojo
-    mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
-    buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
-    vardu vadinami savo kaimynų, išpažinę vieną  ir tą pačią tikybą (dvasinės kultūros
+    Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
+    vardu vadinami savo kaimynų, išpažinę vieną ir tą pačią tikybą (dvasinės kultūros
     bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
+    Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
+    J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
+    lietuvių lingvistai, ypač tarybiniu laikotarpiu6. Ilgainiui pavyko nustatyti prūsų kalbos
+    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
+    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
+    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
+    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
+    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -431,10 +331,10 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     tėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau
     nustatytos.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-011
   santrauka: 'Narbutas Nadruvą apibūdina kaip beveik ežerų neturėjusią, bet miškų turtingą prūsų provinciją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -448,11 +348,10 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     driekusioje per visą šios provincijos rytinę dalį, buvo dau­
     gybė įvairiausių laukinių žvėrių.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-74485
@@ -473,8 +372,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-006
+    - t-001
+    - t-002
 
 - id: c-74486
   autorius: "Petras Dusburgietis"
@@ -493,7 +392,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-007
+    - t-012
 
 - id: c-74487
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -511,7 +410,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-006
 
 - id: c-74488
   autorius: "Petras Dusburgietis"
@@ -556,9 +455,9 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-005
+    - t-003
     - t-004
+    - t-009
 
 - id: c-74491
   autorius: "Petras Dusburgietis"
@@ -576,7 +475,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-74492
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -594,7 +493,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-007
 
 - id: c-74494
   autorius: "Petras Dusburgietis"
@@ -633,7 +532,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-008
 
 - id: c-175470
   autorius: "Teodoras Narbutas"
@@ -661,7 +560,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-013
 
 - id: c-175471
   autorius: "Teodoras Narbutas"
@@ -688,7 +587,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-014
 
 - id: c-179387
   autorius: "Teodoras Narbutas"
@@ -711,7 +610,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-015
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

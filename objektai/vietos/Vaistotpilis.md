@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 ## Teiginiai
 
 <a id="claim-t-58484"></a>
-- t-003
+- t-001
   teiginys: "Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
     - c-59116
 
 <a id="claim-t-58485"></a>
-- t-001
+- t-002
   teiginys: "Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
     - c-59118
 
 <a id="claim-t-58486"></a>
-- t-002
+- t-003
   teiginys: "Prūsams apsupus Vaistotpilio pilį, broliai ją gynė nuo aušros iki sutemų, o vėliau sudegino ir slapta pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
     - c-59117
 
 <a id="claim-t-194552"></a>
-- t-005
+- t-004
   teiginys: "Apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,11 +90,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59117
-- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-183972|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Kai prūsai pasitraukė, broliai sudegino nepakankamai sutvirtintą Vaistotpilio pilį ir slapta pasitraukė.
-- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89412|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu.
-- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89413|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies.
-- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89414|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175136|Sūduviai-jotvingiai]]: Kariuomenė iš Sūduvos ir kitų žemių prie Valevonos pilies apiplėšė aplinkinius valsčius ir pasitraukė.
+
 ## Citatos
 
 - id: c-59116
@@ -111,7 +107,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-59117
   autorius: "Petras Dusburgietis"
@@ -131,8 +127,8 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-003
+    - t-004
 
 - id: c-59118
   autorius: "Petras Dusburgietis"
@@ -152,4 +148,4 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

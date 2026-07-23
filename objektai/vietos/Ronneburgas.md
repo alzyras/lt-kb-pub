@@ -44,7 +44,7 @@ media_all_json: |-
   semantiniai_rysiai: "Ronneburgas priklausė Livonija (0.82)"
   pagrindžia:
     - c-34025
-- susijęs iš Livonija: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
+
 ## Citatos
 
 - id: c-34025

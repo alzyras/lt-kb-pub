@@ -39,7 +39,7 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 ## Teiginiai
 
 <a id="claim-t-197592"></a>
-- t-002
+- t-001
   teiginys: "Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +69,4 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

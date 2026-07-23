@@ -32,7 +32,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 ## Teiginiai
 
 <a id="claim-t-184963"></a>
-- t-002
+- t-001
   teiginys: "Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
     - c-168324
 
 <a id="claim-t-201062"></a>
-- t-003
+- t-002
   teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -62,9 +62,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184412
-- susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186015|Skirmantas]]: Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą.
-- susijęs iš Luckas: Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.
+
 ## Citatos
 
 - id: c-168324
@@ -105,7 +103,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184412
   autorius: "Simonas Daukantas"
@@ -132,4 +130,4 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

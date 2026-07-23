@@ -103,7 +103,6 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169667

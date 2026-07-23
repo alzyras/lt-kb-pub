@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Apieravonė
 sukurta: '2026-07-12'
 variantai:
-  - '„apieravonė“'
+  - „apieravonė“
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -66,6 +66,3 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/zodynas/Poterėliai.md#claim-t-195646|Poterėliai]]: Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu.

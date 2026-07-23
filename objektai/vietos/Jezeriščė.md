@@ -54,7 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys neturėjo aiškaus subjekto; perrašyta kaip savarankiškas faktinis sakinys."
   pagrindžia:
     - c-77317
-- susijęs iš Usviatai: 1580 m. Kristupas Radvila dalyvavo paimant Usviatų tvirtovę.
+
 ## Citatos
 
 - id: c-77317

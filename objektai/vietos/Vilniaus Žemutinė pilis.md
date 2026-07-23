@@ -61,7 +61,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81884
 
 <a id="claim-t-85902"></a>
-- t-004
+- t-002
   teiginys: "Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81885
 
 <a id="claim-t-85903"></a>
-- t-005
+- t-003
   teiginys: "Žemutinė pilis taip pat vadinta Kreivąja pilimi."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81884
 
 <a id="claim-t-85904"></a>
-- t-002
+- t-004
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81883
 
 <a id="claim-t-85905"></a>
-- t-003
+- t-005
   teiginys: "Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-81884
   autorius: "Michał Baliński"
@@ -169,7 +169,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003
 
 - id: c-81885
   autorius: "Michał Baliński"
@@ -190,7 +190,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-81886
   autorius: "Michał Baliński"
@@ -222,4 +222,4 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005

@@ -35,7 +35,7 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
 ## Teiginiai
 
 <a id="claim-t-197691"></a>
-- t-002
+- t-001
   teiginys: "2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,4 +66,4 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -8,13 +8,13 @@ datos:
   - '1364 m.'
 date_start: '1363'
 date_end: '1364'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - paprotys
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185909"></a>
-- t-002
+- t-001
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kėlusius darbininkus ir išardė pradėtą pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-169270
 
 <a id="claim-t-196321"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičiaus pasakojime, sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leidosi vis giliau į Lietuvos žemes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169269
@@ -164,7 +163,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-169270
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -199,4 +198,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

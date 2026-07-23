@@ -45,7 +45,7 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.76)"
   pagrindžia:
     - c-44810
-- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
+
 ## Citatos
 
 - id: c-44810

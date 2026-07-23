@@ -61,7 +61,7 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82243
-- susijęs iš Vilija: Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.
+
 ## Citatos
 
 - id: c-82243

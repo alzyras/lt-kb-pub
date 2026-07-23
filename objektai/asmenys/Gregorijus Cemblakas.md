@@ -55,7 +55,7 @@ media_all_json: |-
     - c-36308
 
 <a id="claim-t-93284"></a>
-- t-003
+- t-002
   teiginys: "Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ media_all_json: |-
     - c-88681
 
 <a id="claim-t-93285"></a>
-- t-002
+- t-003
   teiginys: "Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-88681
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -151,7 +151,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Gregorijus Cemblakas keliavo į [[objektai/vietos/Vilnius]]

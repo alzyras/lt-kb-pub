@@ -36,7 +36,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ## Teiginiai
 
 <a id="claim-t-22099"></a>
-- t-002
+- t-001
   teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +91,4 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

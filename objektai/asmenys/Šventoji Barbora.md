@@ -92,11 +92,10 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
     išėjo iš rūsio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60711

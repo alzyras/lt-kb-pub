@@ -11,9 +11,6 @@ datos:
   - '2026 m.'
 date_start: '1387'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +18,9 @@ tags:
   - sąvoka
   - tauta
   - socialinis-terminas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154602
 
 <a id="claim-t-169918"></a>
-- t-004
+- t-002
   teiginys: "Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154602
 
 <a id="claim-t-169919"></a>
-- t-016
+- t-003
   teiginys: "Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154599
 
 <a id="claim-t-169920"></a>
-- t-002
+- t-004
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154600
 
 <a id="claim-t-169921"></a>
-- t-015
+- t-005
   teiginys: "Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154601
 
 <a id="claim-t-169923"></a>
-- t-003
+- t-006
   teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167628
 
 <a id="claim-t-184620"></a>
-- t-020
+- t-007
   teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167981
 
 <a id="claim-t-184621"></a>
-- t-021
+- t-008
   teiginys: "Kojelavičiaus pasakojime karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką kaip kitą politinę perspektyvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167982
 
 <a id="claim-t-184622"></a>
-- t-022
+- t-009
   teiginys: "Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -200,7 +200,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167983
 
 <a id="claim-t-184623"></a>
-- t-023
+- t-010
   teiginys: "Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167984
 
 <a id="claim-t-196379"></a>
-- t-027
+- t-011
   teiginys: "Visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-167980
 
 <a id="claim-t-196380"></a>
-- t-028
+- t-012
   teiginys: "Kojelavičiaus pasakojime karalius Korčine sukvietė seimą, kad karalystės luomai nuspręstų, kaip priešintis Vytauto potroškiams."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -242,63 +242,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167981
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12290|Herbai]]: Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169560|Bajorai]]: Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169561|Bajorai]]: Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169565|Bajorai]]: Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169568|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-183120|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
-- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110662|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.
-- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110663|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.
-- susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-184222|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172836|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172844|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55077|Vilniaus miestiečių luomas]]: Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55078|Vilniaus miestiečių luomas]]: Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
-- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86499|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55269|Riterių luomas]]: Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55270|Riterių luomas]]: Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-82096|Riterių luomas]]: Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/leno teisė feodas luominė monarchija.md#claim-t-77813|leno teisė feodas luominė monarchija]]: XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
-- susijęs iš [[objektai/zodynas/kasta.md#claim-t-192265|kasta]]: Narbutas apibūdina senąsias gentis kaip priklausiusias kastai arba luomui su viršenybe kitiems.
-- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
-- susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
-- susijęs iš [[objektai/ivykiai/1449 m. amžinoji taika su Maskva.md#claim-t-100029|1449 m. amžinoji taika su Maskva]]: Vytauto ir Kazimiero laikais Lietuvos ekspansija į rytus pasiekė kulminaciją, kurią žymėjo 1449 m. amžinoji taika su Maskva.
-- susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
-- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101621|„jogailaičių Europa“ „krikščionybės forpostas“]]: Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.
-- susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
-- susijęs iš Armamentarium Heroicum: 1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis.
-- susijęs iš Brastos Biblija: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
-- susijęs iš Lietuvos Statutai: Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.
-- susijęs iš Lietuvos Statutai: Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.
-- susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
-- susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
-- susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
-- susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
-- susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21975|Bajorų respublika liberum veto]]: Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22068|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija.
-- susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101565|bajorų tauta politinė lietuvių tauta]]: LDK visuomenei europėjant susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-- susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101566|bajorų tauta politinė lietuvių tauta]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
-- susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101568|bajorų tauta politinė tauta lietuvių nacija]]: LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-- susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101570|bajorų tauta politinė tauta lietuvių nacija]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
-- susijęs iš [[objektai/zodynas/leno teisė.md#claim-t-77812|leno teisė]]: XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.
-- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200449|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas.
-- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200450|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojaus Lopacinskio interesai Vilniuje buvo viena pagrindinių Jono Dominyko Lopacinskio laiškų temų.
-- susijęs iš [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778).md#claim-t-200451|Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]: Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
@@ -403,7 +347,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-37930
@@ -425,7 +368,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-154599
   autorius: "Michał Baliński"
@@ -472,7 +415,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-003
 
 - id: c-154600
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -497,7 +440,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-154601
   autorius: "Michał Baliński"
@@ -526,7 +469,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-005
 
 - id: c-154602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -549,7 +492,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-002
 
 - id: c-167628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -569,7 +512,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-167980
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -603,7 +546,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-011
 
 - id: c-167981
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -626,8 +569,8 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-028
+    - t-007
+    - t-012
 
 - id: c-167982
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -654,7 +597,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-008
 
 - id: c-167983
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -684,7 +627,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-009
 
 - id: c-167984
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -707,4 +650,4 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-010

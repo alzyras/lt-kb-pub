@@ -78,14 +78,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-24730
-- susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/grupes/MGB-KGB agentai smogikai.md#claim-t-19936|MGB-KGB agentai smogikai]]: MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75279|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.
-- susijęs iš Maskvos Butyrkų kalėjimas: J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš Sibiras: Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.
+
 ## Citatos
 
 - id: c-24728

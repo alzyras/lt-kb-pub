@@ -45,7 +45,7 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44405
-- susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40059|B. Zenavičius]]: Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
+
 ## Citatos
 
 - id: c-44405

@@ -67,6 +67,7 @@ Atsisakymo būti vadinamai martelė iki visiško priėmimo formulė.
   citata_rodoma: "Dar aš ne jūsų esu martelė,\nIr nevadinkite tuoju žodeliu.\nPenkių brolučių esmu seselė,\nBaltos močiutės esmu dukrele."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

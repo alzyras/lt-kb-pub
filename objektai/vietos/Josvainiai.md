@@ -49,6 +49,7 @@ Josvainiai šiame šaltinyje yra gyvenvietė ar vietovė.
   citata_rodoma: "Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­niais."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,7 +30,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
 ## Teiginiai
 
 <a id="claim-t-45674"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi politinės partijos, karinė vadovybė ir Šaulių sąjunga."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
     - c-23781
 
 <a id="claim-t-45675"></a>
-- t-004
+- t-002
   teiginys: "Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
     - c-23782
 
 <a id="claim-t-45676"></a>
-- t-001
+- t-003
   teiginys: "Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
     - c-166753
 
 <a id="claim-t-183360"></a>
-- t-005
+- t-004
   teiginys: "Lietuva ir Lenkija sutarė priimti Himanso planą kaip derybų pagrindą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-23782
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -131,7 +131,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-166753
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -151,5 +151,5 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-005
+    - t-003
+    - t-004

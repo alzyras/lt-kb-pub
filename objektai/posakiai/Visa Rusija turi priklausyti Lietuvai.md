@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05384"></a>
-- t-002
+- t-001
   teiginys: "Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-05503
 
 <a id="claim-t-05385"></a>
-- t-003
+- t-002
   teiginys: "Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-05503
@@ -109,7 +108,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-05504
   autorius: "Zenonas Ivinskis"
@@ -126,4 +125,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

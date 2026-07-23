@@ -43,7 +43,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 ## Teiginiai
 
 <a id="claim-t-192283"></a>
-- t-002
+- t-001
   teiginys: "Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,7 +61,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     - c-175103
 
 <a id="claim-t-192284"></a>
-- t-001
+- t-002
   teiginys: "Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -95,11 +95,10 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
     po įvairias lygumas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175103
@@ -135,7 +134,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175104
   autorius: "Teodoras Narbutas"
@@ -156,4 +155,4 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -36,7 +36,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 ## Teiginiai
 
 <a id="claim-t-104215"></a>
-- t-003
+- t-001
   teiginys: "1918 m. vasario 16 d. akto žodžiai apie Lietuvos nepriklausomybės atkūrimą siejo naują valstybę su LDK tradicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
     - c-97171
 
 <a id="claim-t-104217"></a>
-- t-001
+- t-003
   teiginys: "1918 m. vasario 16 d. Lietuvos Taryba paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-97171
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -150,5 +150,5 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

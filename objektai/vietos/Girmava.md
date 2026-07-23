@@ -46,7 +46,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - c-86288
 
 <a id="claim-t-90454"></a>
-- t-003
+- t-002
   teiginys: "Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - c-86288
 
 <a id="claim-t-90455"></a>
-- t-002
+- t-003
   teiginys: "Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -78,17 +78,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-86289
-- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
-- susijęs iš [[objektai/autoriai/Гуревич Ф. Д.md#claim-t-91939|Гуревич Ф. Д]]: F. D. Gurevič darbas cituojamas duomenims apie trimis pylimais įtvirtintą pilies kalvą prie Girmavos.
-- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66562|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
-- susijęs iš Girmavos kaimas: Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.
-- susijęs iš Girmavos kaimas: Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
-- susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
-- susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
-- susijęs iš Lochštetė: Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.
-- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
-- susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
+
 ## Citatos
 
 - id: c-86288
@@ -112,7 +102,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002
 
 - id: c-86289
   autorius: "Petras Dusburgietis"
@@ -128,4 +118,4 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

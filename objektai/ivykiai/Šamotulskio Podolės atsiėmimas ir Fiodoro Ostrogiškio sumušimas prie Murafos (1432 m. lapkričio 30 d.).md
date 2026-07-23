@@ -61,7 +61,7 @@ Nenurodyta
     - c-168863
 
 <a id="claim-t-185503"></a>
-- t-003
+- t-002
   teiginys: "1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-168864
 
 <a id="claim-t-196289"></a>
-- t-004
+- t-003
   teiginys: "Boleslovas padalijo savo kariuomenę į dvi žygio voras: vieną pats nuvedė į Lietuvą, o kitai pavedė Fiodorui Ostrogiškiui užimti Podolę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-168862
 
 <a id="claim-t-196290"></a>
-- t-005
+- t-004
   teiginys: "Fiodoras Ostrogiškis su lengvąja rusų, valachų ir skitų raitija vengė atviro susidūrimo su Šamotulskiu ir puldinėdamas vargino lenkus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
     - c-168863
 
 <a id="claim-t-196291"></a>
-- t-006
+- t-005
   teiginys: "Lapkričio pabaigoje Šamotulskis su visa kariuomene patraukė į Lenkiją, nes, pasak Kojelavičiaus, priešo kariuomenė vengė susirėmimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-168863
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -196,7 +196,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-168864
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -217,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178613
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -244,4 +244,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

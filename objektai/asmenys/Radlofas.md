@@ -43,7 +43,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     - c-174109
 
 <a id="claim-t-191974"></a>
-- t-004
+- t-002
   teiginys: "Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -141,4 +141,4 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

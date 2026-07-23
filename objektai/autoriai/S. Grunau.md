@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-64836"></a>
-- t-002
+- t-001
   teiginys: "S. Grunau XVI a. pirmoje pusėje rašė, kad Romuvoje augo milžiniškas ąžuolas su Perkūno, Patulo ir Patrimpo stabais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-65431
 
 <a id="claim-t-64837"></a>
-- t-003
+- t-002
   teiginys: "S. Grunau ir vėlesni autoriai Krivį vadino Krivių Krivaičiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,15 +60,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65430
-- susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
-- susijęs iš [[objektai/autoriai/Иванов В. В.md#claim-t-60643|Иванов В. В]]: V. V. Ivanovo ir V. N. Toporovo tyrimai siejami su aiškinimu, kad Romovės šventasis ąžuolas buvo tridalio pasaulio medžio simbolis.
-- susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
-- susijęs iš S. Grunau, Preussische Chronik: S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.
-- susijęs iš S. Grunau, Preussische Chronik: S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai.
-- susijęs iš [[objektai/daiktai/Dievų trejybės stabai.md#claim-t-59681|Dievų trejybės stabai]]: S. Grunau rašė, kad Romovės ąžuolo uoksuose stovėjo dievų trejybės stabai: Perkūnas, Patulas ir Patrimpas.
-- susijęs iš [[objektai/daiktai/Šventasis ąžuolas.md#claim-t-59712|Šventasis ąžuolas]]: S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.
-- susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-12421|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.
-- susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-93015|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų.
+
 ## Citatos
 
 - id: c-65430
@@ -91,7 +83,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-65431
   autorius: "Petras Dusburgietis"
@@ -108,4 +100,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

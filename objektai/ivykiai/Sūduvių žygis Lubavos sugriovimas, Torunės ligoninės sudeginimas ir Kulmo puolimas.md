@@ -64,7 +64,7 @@ Nenurodyta
     - c-60061
 
 <a id="claim-t-196973"></a>
-- t-004
+- t-002
   teiginys: "Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -120,4 +120,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

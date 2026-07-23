@@ -7,7 +7,7 @@ variantai:
   - 'gudai'
 aliases: []
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 bukle: 'juodrastis'
 laikotarpis: ''
 datos: []

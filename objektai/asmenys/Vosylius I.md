@@ -42,7 +42,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Teiginiai
 
 <a id="claim-t-64265"></a>
-- t-003
+- t-001
   teiginys: "Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-36551
 
 <a id="claim-t-64266"></a>
-- t-001
+- t-002
   teiginys: "Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-65066
 
 <a id="claim-t-64267"></a>
-- t-004
+- t-003
   teiginys: "1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - c-36552
 
 <a id="claim-t-64268"></a>
-- t-002
+- t-004
   teiginys: "Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -113,11 +113,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   temporalinis_llm_pakomentavimas: "Reikia tiksliau atskirti karo veiksmų pradžią nuo jų trukmės."
   pagrindžia:
     - c-65067
-- susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
-- susijęs iš Maskva: Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.
-- susijęs iš Pronskas: Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
-- susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
-- susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
+
 ## Citatos
 
 - id: c-36551
@@ -138,7 +134,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-36552
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -166,7 +162,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-65066
   autorius: "Zenonas Ivinskis"
@@ -187,7 +183,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-65067
   autorius: "Zenonas Ivinskis"
@@ -207,4 +203,4 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004

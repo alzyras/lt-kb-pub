@@ -48,7 +48,7 @@ Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolę
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173020
-- susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189120|Užuotas ąžuolas]]: Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis.
+
 ## Citatos
 
 - id: c-173020

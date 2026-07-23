@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69891"></a>
-- t-004
+- t-001
   teiginys: "1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-44088
 
 <a id="claim-t-69893"></a>
-- t-003
+- t-002
   teiginys: "1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ media_all_json: |-
     - c-44087
 
 <a id="claim-t-193788"></a>
-- t-005
+- t-003
   teiginys: "Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -86,12 +86,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44086
-- susijęs iš Šilutės deklaracija: 1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją.
-- susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64844|Salys A]]: Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.
-- susijęs iš Pagėgiai: Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.
-- susijęs iš Pagėgiai: Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.
-- susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-- susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
+
 ## Citatos
 
 - id: c-44086
@@ -112,7 +107,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-44087
   sudarytojas: "Karolis Zikaras"
@@ -138,7 +133,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-44088
   sudarytojas: "Karolis Zikaras"
@@ -163,4 +158,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

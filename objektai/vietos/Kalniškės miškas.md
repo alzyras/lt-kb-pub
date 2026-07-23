@@ -38,7 +38,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 ## Teiginiai
 
 <a id="claim-t-171634"></a>
-- t-004
+- t-001
   teiginys: "1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - c-156116
 
 <a id="claim-t-171635"></a>
-- t-001
+- t-002
   teiginys: "1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - c-156117
 
 <a id="claim-t-171636"></a>
-- t-002
+- t-003
   teiginys: "Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - c-156119
 
 <a id="claim-t-171638"></a>
-- t-003
+- t-004
   teiginys: "Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį."
   pagrindžia:
     - c-156115
-- susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.
+
 ## Citatos
 
 - id: c-156115
@@ -145,7 +145,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-156116
   sudarytojas: "Karolis Zikaras"
@@ -171,7 +171,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-156117
   sudarytojas: "Karolis Zikaras"
@@ -209,7 +209,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-156119
   sudarytojas: "Karolis Zikaras"
@@ -239,4 +239,4 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

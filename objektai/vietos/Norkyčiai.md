@@ -39,7 +39,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
 <a id="claim-t-58606"></a>
 - t-001
   teiginys: "XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,10 +73,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   pagrindžia:
     - c-59238
     - c-59239
-- susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.
-- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
-- susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
-- susijęs iš Katavos valsčius: Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.
+
 ## Citatos
 
 - id: c-59238

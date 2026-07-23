@@ -49,10 +49,7 @@ Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175670
-- susijęs iš [[objektai/asmenys/Malte-Brunas.md#claim-t-191294|Malte-Brunas]]: Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.
-- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190758|Malte-Brunas]]: Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.
-- susijęs iš [[objektai/grupes/Stirniai.md#claim-t-192990|Stirniai]]: Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuose ir jų pavadinimą siejo su Styrės upe.
-- susijęs iš Conrad Malte-Brun, Tableau de Pologne: Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, jo taisomų į Stirnii, gyvenamųjų vietų pavadinimą.
+
 ## Citatos
 
 - id: c-175670

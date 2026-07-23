@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88181"></a>
-- t-002
+- t-001
   teiginys: "Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ media_all_json: |-
     - c-84162
 
 <a id="claim-t-88182"></a>
-- t-004
+- t-002
   teiginys: "Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ media_all_json: |-
     - c-84163
 
 <a id="claim-t-88184"></a>
-- t-001
+- t-003
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-84162
   autorius: "Michał Baliński"
@@ -145,7 +145,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84163
   autorius: "Michał Baliński"
@@ -168,4 +168,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

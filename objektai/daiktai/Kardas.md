@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92967"></a>
-- t-008
+- t-001
   teiginys: "Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-88398
 
 <a id="claim-t-92968"></a>
-- t-009
+- t-002
   teiginys: "1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-88402
 
 <a id="claim-t-92969"></a>
-- t-001
+- t-003
   teiginys: "1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Nenurodyta
     - c-88400
 
 <a id="claim-t-92970"></a>
-- t-011
+- t-004
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Nenurodyta
     - c-88397
 
 <a id="claim-t-92971"></a>
-- t-007
+- t-005
   teiginys: "Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Nenurodyta
     - c-88401
 
 <a id="claim-t-92972"></a>
-- t-002
+- t-006
   teiginys: "Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Nenurodyta
     - c-88396
 
 <a id="claim-t-92974"></a>
-- t-003
+- t-007
   teiginys: "Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,7 +169,7 @@ Nenurodyta
     - c-88404
 
 <a id="claim-t-92975"></a>
-- t-010
+- t-008
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Nenurodyta
     - c-88399
 
 <a id="claim-t-200940"></a>
-- t-012
+- t-009
   teiginys: "Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -188,52 +188,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184290
-- susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
-- susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
-- susijęs iš [[objektai/daiktai/Pistoletas.md#claim-t-40752|Pistoletas]]: Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.
-- susijęs iš [[objektai/grupes/Kardo rinktinė.md#claim-t-38962|Kardo rinktinė]]: 1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
-- susijęs iš [[objektai/paprociai/Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais.md#claim-t-189925|Laidotuvių palyda su kardų žvanginimu ir Pykuolio varymo šūksniais]]: Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį.
-- susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
-- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
-- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176384|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.
-- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176499|Jonas XXIII]]: Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.
-- susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190035|Juozapas Ignotas Kraševskis]]: Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179644|Skirgaila]]: Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176877|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.
-- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190432|Juozapas Ignacas Kraševskis]]: Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
-- susijęs iš [[objektai/daiktai/Mėnesį perkertantis kalavijas.md#claim-t-189646|Mėnesį perkertantis kalavijas]]: Narbutas perteikė latvių pasakojimą, kad Saulė aštriu kardu perkirto Mėnesį už meilę Aušrinei.
-- susijęs iš [[objektai/grupes/Klevo kuopa.md#claim-t-40924|Klevo kuopa]]: 1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178827|Kryžiuočių ordinas]]: Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės armija.md#claim-t-78377|Lietuvos laisvės armija]]: Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78381|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.
-- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
-- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66526|Dovydiškių sutarties sudarymas]]: Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams.
-- susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05290|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.
-- susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę.md#claim-t-185541|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]: Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties.
-- susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
-- susijęs iš [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos.md#claim-t-35967|Damoklo kardas tikrai pakibo ant unijos (unija)]]: 1430 m. kovą Jogailos pašaukti lenkai susivažiavo į Jedlną ieškoti paramos unijai, kuriai kilo pavojus dėl Vytauto veiksmų.
-- susijęs iš J. I. Kraševskio veikalas apie Lietuvą: Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
-- susijęs iš Bobro upė: Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.
-- susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
-- susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07680|meldžionys]]: Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.
-- susijęs iš [[objektai/zodynas/vachmistras.md#claim-t-38738|vachmistras]]: Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą.
+
 ## Citatos
 
 - id: c-88396
@@ -254,7 +209,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-88397
   redaktorius: "A. Šapoka"
@@ -276,7 +231,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-88398
   redaktorius: "A. Šapoka"
@@ -297,7 +252,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-88399
   redaktorius: "A. Šapoka"
@@ -316,7 +271,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-88400
   sudarytojas: "Karolis Zikaras"
@@ -337,7 +292,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-88401
   sudarytojas: "Karolis Zikaras"
@@ -355,7 +310,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-88402
   redaktorius: "A. Šapoka"
@@ -377,7 +332,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-88404
   redaktorius: "A. Šapoka"
@@ -399,7 +354,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-007
 
 - id: c-184290
   autorius: "Simonas Daukantas"
@@ -425,4 +380,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009

@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-197245"></a>
-- t-002
+- t-001
   teiginys: "Narbutas teigia, kad ragelienė (Ragutienie) Dievo Ragučio žynės; vieną užuominą apie jas radau žmo nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy me."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

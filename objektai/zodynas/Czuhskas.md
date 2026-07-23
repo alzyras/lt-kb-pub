@@ -48,7 +48,7 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172177
-- susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189403|Rusinai]]: Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.
+
 ## Citatos
 
 - id: c-172177

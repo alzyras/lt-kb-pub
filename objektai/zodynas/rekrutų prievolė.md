@@ -38,7 +38,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 ## Teiginiai
 
 <a id="claim-t-75579"></a>
-- t-003
+- t-001
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-24963
 
 <a id="claim-t-75580"></a>
-- t-001
+- t-002
   teiginys: "Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama)."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-166855
 
 <a id="claim-t-75581"></a>
-- t-004
+- t-003
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-24963
 
 <a id="claim-t-75582"></a>
-- t-002
+- t-004
   teiginys: "1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +123,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166855
-- susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-104194|rekrutų prievolė rekrutai]]: Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).
-- susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-183461|rekrutų prievolė rekrutai]]: Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.
+
 ## Citatos
 
 - id: c-24963
@@ -145,8 +144,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-004
 
 - id: c-73314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -184,7 +183,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-166855
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -205,5 +204,5 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-005

@@ -44,8 +44,7 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38280
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172101|Husitai]]: Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.
-- susijęs iš [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.).md#claim-t-34547|Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]: 1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.
+
 ## Citatos
 
 - id: c-38280

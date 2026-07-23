@@ -70,7 +70,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174397
 
 <a id="claim-t-191517"></a>
-- t-004
+- t-003
   teiginys: "Ptolemėjas nuo Vyslos žiočių iki Panonijos suskaičiavo tokį pat nuotolį kaip Plinijus."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174399
 
 <a id="claim-t-191518"></a>
-- t-005
+- t-004
   teiginys: "Narbutas sprendė, kad Ptolemėjo nurodytos Krono, arba Nemuno, žiotys geriausiai atitinka Kuršių marių žiotis į jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174400
 
 <a id="claim-t-191520"></a>
-- t-007
+- t-005
   teiginys: "Narbutas atmetė Erazmo Stelos požiūrį, kad Ptolemėjo boruskų ar borusų reikėtų ieškoti prie Ritėjų kalnų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174402
 
 <a id="claim-t-191521"></a>
-- t-008
+- t-006
   teiginys: "Pasak Safaržyko, prūsų protėviai buvo Ptolemėjo aprašyti frugundionai, kurių Narbutas nedrįso priskirti lietuvių genčiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174403
 
 <a id="claim-t-191522"></a>
-- t-009
+- t-007
   teiginys: "Narbutas rašė, kad Ptolemėjas turėjo žinių apie Sūduvą ir žinojo sudinų koloniją prie Vltavos, markomanų kaimynystėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174404
 
 <a id="claim-t-191523"></a>
-- t-010
+- t-008
   teiginys: "Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174405
 
 <a id="claim-t-191524"></a>
-- t-011
+- t-009
   teiginys: "Narbutas rašė, kad Ptolemėjas stavanus vadino Stabatiix ir jų paminėjimo vietoje atpažino lietuvius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174406
 
 <a id="claim-t-191525"></a>
-- t-012
+- t-010
   teiginys: "Narbutas nurodo, kad senovės tyrinėtojai, remdamiesi Ptolemėjumi, latgalus vadino veltais, Veltae."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -223,7 +223,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174407
 
 <a id="claim-t-194888"></a>
-- t-013
+- t-011
   teiginys: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą, gyvenusią galų kaimynystėje, prie Dnestro."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -236,7 +236,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-177284
 
 <a id="claim-t-197640"></a>
-- t-014
+- t-012
   teiginys: "Esmė ta, kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų, daugiausia netvarkingai surašytų ir sukompiliuotų iš įvairių šaltinių, kuriuos naudojo šis geografas, daugybė je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau tos pavadinimus iš įvairių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -248,7 +248,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-179275
 
 <a id="claim-t-197641"></a>
-- t-015
+- t-013
   teiginys: "Tačiau Ptolemėjas turi tam tikrų žinių apie šią, toje pačioje vietoje esančią provinciją, be to, neabe jotina, kad nuo seno ten gyveno ir lietuviui Tas pats geografas taip pat žinojo vieną sudinų koloniją, buvusią germanų markomanų genties kaimynystėje, dabar."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -306,7 +306,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174396
@@ -374,7 +373,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-174400
   autorius: "Teodoras Narbutas"
@@ -400,7 +399,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-174402
   autorius: "Teodoras Narbutas"
@@ -422,7 +421,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-174403
   autorius: "Teodoras Narbutas"
@@ -449,7 +448,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-174404
   autorius: "Teodoras Narbutas"
@@ -476,8 +475,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-015
+    - t-007
+    - t-013
 
 - id: c-174405
   autorius: "Teodoras Narbutas"
@@ -499,7 +498,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-174406
   autorius: "Teodoras Narbutas"
@@ -518,7 +517,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-174407
   autorius: "Teodoras Narbutas"
@@ -537,7 +536,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-177284
   autorius: "Teodoras Narbutas"
@@ -557,7 +556,7 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011
 
 - id: c-179275
   autorius: "Teodoras Narbutas"
@@ -583,4 +582,4 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012

@@ -41,7 +41,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 ## Teiginiai
 
 <a id="claim-t-19168"></a>
-- t-003
+- t-001
   teiginys: "1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,4 +139,4 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

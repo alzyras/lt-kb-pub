@@ -39,7 +39,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ## Teiginiai
 
 <a id="claim-t-18758"></a>
-- t-002
+- t-001
   teiginys: "Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - c-21544
 
 <a id="claim-t-18759"></a>
-- t-001
+- t-002
   teiginys: "Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +73,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-21543
-- susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75653|Aleksandras I]]: Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.
-- susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75653|Aleksandras I]]: Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.
+
 ## Citatos
 
 - id: c-21543
@@ -97,7 +96,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-21544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -119,4 +118,4 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

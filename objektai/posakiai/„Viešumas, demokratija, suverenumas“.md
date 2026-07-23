@@ -44,9 +44,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75176
-- susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13363|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
-- susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13364|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
-- susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-183451|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
+
 ## Citatos
 
 - id: c-75176

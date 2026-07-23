@@ -50,7 +50,7 @@ Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kuni
   vertinimo_atnaujinta: "2026-07-19T10:07:02Z"
   pagrindžia:
     - c-185752
-- susijęs iš Kunigėliai (vieta): Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kunigėliuose.
+
 ## Citatos
 
 - id: c-185752

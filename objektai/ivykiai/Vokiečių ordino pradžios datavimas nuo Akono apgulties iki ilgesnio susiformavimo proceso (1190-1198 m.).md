@@ -9,8 +9,6 @@ datos:
   - '1198 m.'
 date_start: '1190'
 date_end: '1198'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +16,8 @@ tags:
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59629"></a>
-- t-002
+- t-001
   teiginys: "Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-60261
 
 <a id="claim-t-59630"></a>
-- t-001
+- t-002
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,11 +117,10 @@ Nenurodyta
     jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
     kunigaikštis jau buvo miręs.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60261
@@ -140,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-60262
   autorius: "Petras Dusburgietis"
@@ -162,5 +161,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003

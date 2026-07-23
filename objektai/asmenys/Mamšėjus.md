@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44451
-- susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
+
 ## Citatos
 
 - id: c-44451

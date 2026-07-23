@@ -32,7 +32,7 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
 ## Teiginiai
 
 <a id="claim-t-60111"></a>
-- t-002
+- t-001
   teiginys: "Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -41,7 +41,7 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
     - c-60743
 
 <a id="claim-t-60112"></a>
-- t-001
+- t-002
   teiginys: "Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,10 +69,7 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178695
-- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
-- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
-- susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-184029|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
-- susijęs iš [[objektai/posakiai/išvaduotų iš velnio vergovės.md#claim-t-59098|išvaduotų iš velnio vergovės]]: Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
@@ -91,7 +88,6 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-60743
@@ -117,8 +113,8 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-60744
   autorius: "Petras Dusburgietis"

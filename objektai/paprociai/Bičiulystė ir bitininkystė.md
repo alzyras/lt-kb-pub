@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97124"></a>
-- t-004
+- t-001
   teiginys: "Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Nenurodyta
     - c-91643
 
 <a id="claim-t-97127"></a>
-- t-001
+- t-004
   teiginys: "Bitininkystė Lietuvoje sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-31406
   autorius: "Zenonas Ivinskis"
@@ -197,7 +197,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-91643
   autorius: "Zenonas Ivinskis"

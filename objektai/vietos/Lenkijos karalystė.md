@@ -39,7 +39,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 ## Teiginiai
 
 <a id="claim-t-114450"></a>
-- t-012
+- t-001
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105528
 
 <a id="claim-t-114451"></a>
-- t-009
+- t-002
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105533
 
 <a id="claim-t-114452"></a>
-- t-001
+- t-003
   teiginys: "Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24242
 
 <a id="claim-t-114453"></a>
-- t-008
+- t-004
   teiginys: "Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114454"></a>
-- t-010
+- t-005
   teiginys: "Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114455"></a>
-- t-007
+- t-006
   teiginys: "Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105530
 
 <a id="claim-t-114456"></a>
-- t-011
+- t-007
   teiginys: "Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105532
 
 <a id="claim-t-114457"></a>
-- t-002
+- t-008
   teiginys: "Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24243
 
 <a id="claim-t-114458"></a>
-- t-005
+- t-009
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105529
 
 <a id="claim-t-114459"></a>
-- t-004
+- t-010
   teiginys: "Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,30 +208,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-105531
-- susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96096|Didžioji Lietuvos kunigaikštystė]]: Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74514|Lenkijos valstybės taryba (institucija)]]: Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.
-- susijęs iš [[objektai/posakiai/„Čia nebus Lenkijos“.md#claim-t-75626|„Čia nebus Lenkijos“]]: Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.
-- susijęs iš [[objektai/posakiai/„Čia nebus Lenkijos“.md#claim-t-75627|„Čia nebus Lenkijos“]]: Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.
-- susijęs iš Lenkija: Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu.
-- susijęs iš Lenkija: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
-- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70369|tėvonija tėvų palikimas]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22335|tėvonija]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
-- susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
-- susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183538|Jogaila (kunigaikštis, XIV–XV a.)]]: Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.
-- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-183121|Bajorų seimas (seimas)]]: Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.
-- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
-- susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67064|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos.
-- susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67066|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“.md#claim-t-169940|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]: Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“.md#claim-t-169944|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]: Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“.md#claim-t-101623|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]: Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“.md#claim-t-101624|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]: Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė.md#claim-t-77811|lenkų pradų naikinimo politika istorinio pirmumo teisė]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75568|lenkų pradų naikinimo politika]]: Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75569|lenkų pradų naikinimo politika]]: Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika.
-- susijęs iš [[objektai/zodynas/lenkų pradų naikinimo politika.md#claim-t-75570|lenkų pradų naikinimo politika]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika.
+
 ## Citatos
 
 - id: c-24242
@@ -252,7 +229,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-24243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -273,7 +250,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-008
 
 - id: c-105527
   autorius: "Michał Baliński"
@@ -302,8 +279,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
+    - t-004
+    - t-005
 
 - id: c-105528
   autorius: "Michał Baliński"
@@ -332,7 +309,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
 
 - id: c-105529
   autorius: "Michał Baliński"
@@ -351,7 +328,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
 
 - id: c-105530
   autorius: "Michał Baliński"
@@ -387,7 +364,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-105531
   autorius: "Michał Baliński"
@@ -420,7 +397,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-010
 
 - id: c-105532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -446,7 +423,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-105533
   autorius: "Michał Baliński"
@@ -468,7 +445,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

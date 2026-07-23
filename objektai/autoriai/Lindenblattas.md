@@ -52,15 +52,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84053
-- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88027|Lindenblattas Joannes von der Pusilie]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
-- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88028|Lindenblattas Joannes von der Pusilie]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
-- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88029|Lindenblattas Joannes von der Pusilie]]: Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87976|Lindenblattas Johannes Lindenblatt]]: Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87977|Lindenblattas Johannes Lindenblatt]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87978|Lindenblattas Johannes Lindenblatt]]: Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87979|Lindenblattas Johannes Lindenblatt]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
-- susijęs iš Lindenblatt Jahrbücher: Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.
-- susijęs iš Lindenblatt Jahrbücher: Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.
+
 ## Citatos
 
 - id: c-84053

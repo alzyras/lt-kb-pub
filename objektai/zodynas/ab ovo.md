@@ -9,14 +9,14 @@ datos:
   - '1837 m.'
 date_start: '1569'
 date_end: '1837'
-amziai:
-  - 'XVI'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - skolinys
   - sąvoka
+amziai:
+  - 'XVI'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -97,9 +97,7 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175111
-- susijęs iš [[objektai/posakiai/Aš nerašau lietuvių tautos istorijos.md#claim-t-192108|Aš nerašau lietuvių tautos istorijos]]: Teodoras Narbutas rašė „Aš nerašau lietuvių tautos istorijos“, savo darbą vadindamas veikalais, o ne istorija.
-- susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192298|dzieje]]: Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.
-- susijęs iš [[objektai/zodynas/dzieje.md#claim-t-192298|dzieje]]: Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Anoniminis recenzentas „ab ovo“ vartojo kaip pradėjimo nuo Lietuvos ištakų vaizdinį.'

@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50178"></a>
-- t-003
+- t-001
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-43738
 
 <a id="claim-t-50181"></a>
-- t-004
+- t-003
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,19 +77,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43738
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
-- susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63405|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.
-- susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
-- susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
-- susijęs iš [[objektai/asmenys/Antanas Liesys-Idenas.md#claim-t-40024|Antanas Liesys-Idenas]]: Antanas Liesys-Idenas buvo Vakarų Lietuvos srities Agitacijos ir propagandos skyriaus viršininkas.
-- susijęs iš [[objektai/asmenys/Robertas Gedvilas-Remigijus.md#claim-t-40403|Robertas Gedvilas-Remigijus]]: Robertas Gedvilas-Remigijus buvo Kęstučio apygardos štabo viršininkas.
-- susijęs iš [[objektai/asmenys/Vytautas Gužas-Kardas.md#claim-t-40525|Vytautas Gužas-Kardas]]: Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-183662|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41086|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
-- susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-183662|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
-- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41086|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
+
 ## Citatos
 
 - id: c-43737
@@ -113,7 +101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
@@ -136,7 +124,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

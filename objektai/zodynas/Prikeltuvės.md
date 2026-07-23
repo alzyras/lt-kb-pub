@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Prikeltuvės
 sukurta: '2026-07-12'
 variantai:
-  - 'prikeltuves'
-  - 'prikeltuvės'
+  - prikeltuves
+  - prikeltuvės
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -69,6 +69,7 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
   citata_rodoma: "Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ ."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

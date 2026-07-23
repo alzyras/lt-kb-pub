@@ -9,16 +9,16 @@ datos:
   - '1390 m.'
 date_start: '1390'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 ## Teiginiai
 
 <a id="claim-t-82428"></a>
-- t-002
+- t-001
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78906
 
 <a id="claim-t-82429"></a>
-- t-005
+- t-002
   teiginys: "Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78907
 
 <a id="claim-t-82430"></a>
-- t-001
+- t-003
   teiginys: "1390 m. Jonas Olesnickis užėmė Maskoževskio vietą ir pasirodė kaip kariuomenės vadas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78904
 
 <a id="claim-t-82431"></a>
-- t-006
+- t-004
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris gerokai sustiprino abiejų pilių įgulas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78906
 
 <a id="claim-t-82432"></a>
-- t-008
+- t-005
   teiginys: "Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78905
 
 <a id="claim-t-82433"></a>
-- t-003
+- t-006
   teiginys: "Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78910
 
 <a id="claim-t-82434"></a>
-- t-009
+- t-007
   teiginys: "Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,7 +159,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78907
 
 <a id="claim-t-82436"></a>
-- t-004
+- t-008
   teiginys: "Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,7 +176,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - c-78908
 
 <a id="claim-t-184740"></a>
-- t-011
+- t-009
   teiginys: "Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-78904
@@ -243,7 +242,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-78905
   autorius: "Michał Baliński"
@@ -273,7 +272,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-78906
   autorius: "Michał Baliński"
@@ -296,8 +295,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-006
+    - t-001
+    - t-004
 
 - id: c-78907
   autorius: "Michał Baliński"
@@ -321,8 +320,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-009
+    - t-002
+    - t-007
 
 - id: c-78908
   autorius: "Michał Baliński"
@@ -344,7 +343,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-78910
   autorius: "Michał Baliński"
@@ -369,7 +368,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -389,7 +388,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 ## Ryšiai
 - Jonas Olesnickis puolė [[objektai/grupes/Vokiečiai]]

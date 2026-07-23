@@ -102,6 +102,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

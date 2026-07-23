@@ -7,14 +7,14 @@ datos:
   - '1307 m.'
 date_start: '1307'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -124,7 +124,7 @@ Nenurodyta
     - c-168860
 
 <a id="claim-t-196246"></a>
-- t-006
+- t-005
   teiginys: "1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama vokiečių riterių kariuomenė, turėjusi su Ordino riteriais žygiuoti į Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168857
@@ -252,7 +251,7 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-003
-    - t-006
+    - t-005
 
 - id: c-168858
   autorius: "Albertas Vijūkas-Kojelavičius"

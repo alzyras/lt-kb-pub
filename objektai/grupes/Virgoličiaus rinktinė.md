@@ -54,11 +54,7 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas faktinis sakinys apie Virgoličiaus rinktinę."
   pagrindžia:
     - c-40818
-- susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66496|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
-- susijęs iš Dauguva: Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.
-- susijęs iš Kuršėnai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš Šiauliai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
+
 ## Citatos
 
 - id: c-40818

@@ -17,15 +17,15 @@ datos:
   - '2026 m.'
 date_start: '1225'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - upė
   - kariuomenė
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -80,7 +80,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-31145
 
 <a id="claim-t-65557"></a>
-- t-011
+- t-003
   teiginys: "Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-31148
 
 <a id="claim-t-65558"></a>
-- t-013
+- t-004
   teiginys: "Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių."
   atnaujinta: "2026-07-19 19:54"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-65957
 
 <a id="claim-t-65559"></a>
-- t-010
+- t-005
   teiginys: "Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-31145
 
 <a id="claim-t-65560"></a>
-- t-007
+- t-006
   teiginys: "Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-42750
 
 <a id="claim-t-65561"></a>
-- t-004
+- t-007
   teiginys: "Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-65960
 
 <a id="claim-t-65564"></a>
-- t-003
+- t-008
   teiginys: "Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais."
   atnaujinta: "2026-05-31 17:12"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-31144
 
 <a id="claim-t-65566"></a>
-- t-014
+- t-010
   teiginys: "Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -214,7 +214,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-65964
 
 <a id="claim-t-65567"></a>
-- t-005
+- t-011
   teiginys: "Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -232,7 +232,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-31148
 
 <a id="claim-t-65568"></a>
-- t-015
+- t-012
   teiginys: "Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -248,7 +248,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-65959
 
 <a id="claim-t-184514"></a>
-- t-017
+- t-013
   teiginys: "Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -267,7 +267,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-167875
 
 <a id="claim-t-192418"></a>
-- t-019
+- t-014
   teiginys: "Teodoro Narbuto teigimu, kuršiai pirmosios apskrities gyventojus vadino Kreeminen, arba krevinėnais, o antruosius - lyviais arba rehdingais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -287,7 +287,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - c-175212
 
 <a id="claim-t-196086"></a>
-- t-020
+- t-015
   teiginys: "Pasak Kojelavičiaus, Livonijos vokiečiai užpuolė kuršius, kurie tuo metu priklausė Lietuvai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -298,129 +298,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178520
-- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
-- susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
-- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191539|Gotthardas Friedrichas Stenderis]]: Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191518|Ptolemėjas]]: Narbutas sprendė, kad Ptolemėjo nurodytos Krono, arba Nemuno, žiotys geriausiai atitinka Kuršių marių žiotis į jūrą.
-- susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30953|Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
-- susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30955|Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
-- susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30956|Rimberto, Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
-- susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30957|Rimberto, Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
-- susijęs iš [[objektai/autoriai/Saxo Grammaticus.md#claim-t-30977|Saxo Grammaticus]]: XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš [[objektai/autoriai/V. Mažiulis.md#claim-t-64861|V. Mažiulis]]: V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.
-- susijęs iš [[objektai/grupes/Estai.md#claim-t-65146|Estai]]: Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179250|Lietuviai]]: Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
-- susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
-- susijęs iš [[objektai/ivykiai/Apuolės apgula (853 m.).md#claim-t-31404|Apuolės apgula (853 m.)]]: Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66528|Durbės mūšis (1260 m.)]]: Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66530|Durbės mūšis (1260 m.)]]: Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.
-- susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
-- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10289|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
-- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.
-- susijęs iš Genealogia regum Danorum: „Genealogia regum Danorum“ yra vienas iš XI-XII a. danų šaltinių, iš kurių matyti, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.
-- susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
-- susijęs iš Klaipėda: Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija.
-- susijęs iš Kuršas: Narbutas rašė, kad kuršiai lietuviškai vadinti Koryones arba Kuryones, o savo kraštą vadino Kurr zemme.
-- susijęs iš Kuršas: Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai.
-- susijęs iš Kuršas: Kuršiai visuomet buvo žem dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda mi turtingi, buvo priversti nuolat kariauti su skandina vais ir jiems giminingomis gentimis.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.
-- susijęs iš Kuršas: Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.
-- susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
-- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
-- susijęs iš Kuršių marios: Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą.
-- susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
-- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
-- susijęs iš Kuršių marios: Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.
-- susijęs iš Kuršių marios: Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.
-- susijęs iš Kuršių nerija: 1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.
-- susijęs iš Lietuva: Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse.
-- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
-- susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
-- susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
-- susijęs iš [[objektai/zodynas/Kruonis Meta.md#claim-t-189229|Kruonis Meta]]: Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kuršių garbintą laiko ar laiko tarpsnių deivę.
-- susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
-- susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184105|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60043|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191134|Pitėjas Masilietis]]: Narbutas spėjo, kad Pitėjas Masilietis priplaukė prie Nogato žiočių ir iš ten pakrante galėjo pasiekti Sembą per vieną ar dvi dienas.
-- susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
-- susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-39676|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.
-- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191187|Vulfstanas]]: Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą.
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192506|Valtys]]: Narbuto pasakojime po rusų jūros pajėgų sutriuškinimo nugalėtojai įplaukę į įlanką turėjo brautis pro sudužusias valtis.
-- susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
-- susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
-- susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-184331|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
-- susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31268|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188257|Lietuviai]]: Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192425|Lietuviai]]: Foigto teigimu, senoji lietuvių tvirtovė Klaipėda stovėjo prie Dangės žiočių, susijusių su dešiniąja Nemuno deltos šaka.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175089|Sembai]]: XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89221|Skalviai]]: Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
-- susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-192967|Žemgaliai]]: Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-184336|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89347|Žiemgaliai]]: Kronikininkai mini, kad kuršiai ir žiemgaliai turėjo spindinčių metalo ginklų.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89350|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89351|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89354|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89356|Žiemgaliai]]: Kronikininkai mini, kad kuršiai ir žiemgaliai turėjo spindinčių metalo ginklų.
-- susijęs iš [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje.md#claim-t-91910|Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]: Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
-- susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
-- susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-183929|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-62821|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.).md#claim-t-28832|Kuršių sukilimas prieš danus (853 m.)]]: 853 m. kuršiai susivieniję sumušė juos vėl pavergti ir apiplėšti atvykusius danus, užgrobė dalį laivų ir daug turto.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66816|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.
-- susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191022|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją.
-- susijęs iš [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius.md#claim-t-62671|Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]: Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.
-- susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-- susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78706|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
-- susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
-- susijęs iš Badania archeologiczne na Litwie w latach 1955-1961: P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.
-- susijęs iš Issledovanie archeologičeskich pamiatnikov Litvy: P. Kulikausko „Issledovanie archeologičeskich pamiatnikov Litvy“ paskelbta 1952 m. leidinio „Kratkie soobščenija“ 42 tome.
-- susijęs iš Lietuvos TSR archeologijos atlasas Akmens ir žalvario amžiaus paminklai: Lietuvos TSR archeologijos atlaso pirmasis tomas „Akmens ir žalvario amžiaus paminklai“ išleistas Vilniuje 1974 m.
-- susijęs iš Lietuvos proistorė: Marijos Gimbutienės „Lietuvos proistorė“ paskelbta „Lietuvių enciklopedijos“ 15 tome, 269-291 puslapiuose.
-- susijęs iš Mažiulis V., Dėl Neringos: Vidurio Ordino dokumentuose atsiranda lytis Neringe.
-- susijęs iš Načal’nye etapy naselenija vostočnoj Pribaltiki: V. P. Jakimovo „Načal’nye etapy naselenija vostočnoj Pribaltiki“ paskelbtas 1956 m. Maskvoje, „Baltijskij Etnografičeskij Sbornik“ leidinyje.
-- susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
-- susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.
-- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Dubysa: Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.
-- susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
-- susijęs iš Lenkija: Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.
-- susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
-- susijęs iš Livonija: Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus.
-- susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
-- susijęs iš Peipaus ežeras: Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi.
-- susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
-- susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
-- susijęs iš Ragainė: Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.
-- susijęs iš Tverės sritis: 1285 m. pavasarį lietuviai plėšė Tverės sritį.
-- susijęs iš Ukmergės apskritis: Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį.
-- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-184001|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
-- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58808|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
-- susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32789|kuopiniai kaimai]]: Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-- susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
-- susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
@@ -455,7 +333,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-31144
@@ -497,7 +374,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-010
+    - t-005
 
 - id: c-31146
   autorius: "Zenonas Ivinskis"
@@ -515,7 +392,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-008
 
 - id: c-31148
   autorius: "Zenonas Ivinskis"
@@ -539,8 +416,8 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-011
-    - t-005
 
 - id: c-42750
   sudarytojas: "Karolis Zikaras"
@@ -563,7 +440,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-65957
   autorius: "Petras Dusburgietis"
@@ -581,7 +458,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-004
 
 - id: c-65959
   autorius: "Petras Dusburgietis"
@@ -603,7 +480,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-65960
   autorius: "Zenonas Ivinskis"
@@ -620,7 +497,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-65964
   autorius: "Petras Dusburgietis"
@@ -639,7 +516,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-167698
   autorius: "Zenonas Ivinskis"
@@ -656,7 +533,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-008
 
 - id: c-167875
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -681,7 +558,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-013
 
 - id: c-175212
   autorius: "Teodoras Narbutas"
@@ -705,7 +582,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-014
 
 - id: c-178520
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -747,7 +624,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-015
 
 ## Ryšiai
 - Kuršiai surengė žygį į [[objektai/vietos/Švedija]]

@@ -76,9 +76,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44287
-- susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40081|D. Maleckis]]: D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai.
-- susijęs iš [[objektai/asmenys/M. Stanišauskas.md#claim-t-40321|M. Stanišauskas]]: M. Stanišausko batalionai stovėjo kairiajame sparne.
-- susijęs iš [[objektai/asmenys/P. Vivulskis.md#claim-t-40385|P. Vivulskis]]: P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis.
+
 ## Citatos
 
 - id: c-44286

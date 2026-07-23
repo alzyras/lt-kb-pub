@@ -90,7 +90,7 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   semantiniai_rysiai: "Tirskas valdė miestą Vėluva (0.72)"
   pagrindžia:
     - c-60701
-- susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62917|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.
+
 ## Citatos
 
 - id: c-60699

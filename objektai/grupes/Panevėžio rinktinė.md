@@ -61,16 +61,7 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40696
-- susijęs iš [[objektai/grupes/Ukmergės rinktinė.md#claim-t-39009|Ukmergės rinktinė]]: Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
-- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
-- susijęs iš Ukmergė: Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.
-- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
-- susijęs iš Ukmergė: Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.
-- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
-- susijęs iš Rokiškis: Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi.
-- susijęs iš Troškūnai: Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.
-- susijęs iš Utena: Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi.
+
 ## Citatos
 
 - id: c-40696

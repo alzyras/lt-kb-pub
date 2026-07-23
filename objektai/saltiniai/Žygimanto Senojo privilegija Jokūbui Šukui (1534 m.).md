@@ -12,11 +12,11 @@ datos:
   - '1655 m.'
 date_start: '1534'
 date_end: '1655'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

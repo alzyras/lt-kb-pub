@@ -7,12 +7,12 @@ datos:
   - '1976 m.'
 date_start: '1976'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +51,6 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176213
@@ -67,6 +66,7 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
   citata_rodoma: "Vienok jo istorija yra trumpa ir\ndaug dar trūksta, užvis toje daly, kurioj aprašo darbus\npagonų lietuvių, žemaičių; bet jaunam lietuviui ar že­\nmaičiui, norinčiam išmokti lotyniškai, nebreikia geres­\nnės knygos\" (Raštai. T. 1. V., 1976, p. 37—38)."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

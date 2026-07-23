@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs ir turėjo OCR triukšmo."
   pagrindžia:
     - c-01485
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
+
 ## Citatos
 
 - id: c-01485

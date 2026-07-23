@@ -59,10 +59,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83566
-- susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
-- susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
-- susijęs iš Leipcigas: Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.
-- susijęs iš [[objektai/zodynas/filipka.md#claim-t-86525|filipka]]: Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.
+
 ## Citatos
 
 - id: c-83565

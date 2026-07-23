@@ -56,10 +56,7 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų aišku, kurį ordiną Folkvinas siekė prijungti."
   pagrindžia:
     - c-60908
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89820|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175536|Kalavijuočių ordinas]]: Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175539|Kalavijuočių ordinas]]: Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.
-- susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62814|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.
+
 ## Citatos
 
 - id: c-60908

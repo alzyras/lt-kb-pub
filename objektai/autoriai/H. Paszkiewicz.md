@@ -69,10 +69,7 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-30519
-- susijęs iš H. Paszkiewicz Polityka Ruska Kazimierza Wielkiego: H. Paszkiewicziaus „Polityka Ruska Kazimierza Wielkiego“ 1925 m. išleista Varšuvoje.
-- susijęs iš Polityka miska Kazimierza Wielkiego: H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.
-- susijęs iš Kernavė: H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
-- susijęs iš Kernavė: H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
+
 ## Citatos
 
 - id: c-30519

@@ -47,7 +47,7 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173095
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188343|Slavai]]: Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų.
+
 ## Citatos
 
 - id: c-173095

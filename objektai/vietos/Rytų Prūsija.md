@@ -73,7 +73,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - c-167023
 
 <a id="claim-t-170846"></a>
-- t-004
+- t-003
   teiginys: "Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - c-24459
 
 <a id="claim-t-170847"></a>
-- t-003
+- t-004
   teiginys: "„Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - c-167024
 
 <a id="claim-t-183632"></a>
-- t-006
+- t-005
   teiginys: "Be nusileidimo 37 val. 11 min. skridę ir 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - c-167024
 
 <a id="claim-t-192750"></a>
-- t-007
+- t-006
   teiginys: "Erazmas Stela veikale „Apie Prūsijos senienas“ įrodinėjo, kad vokiečiai buvo seniausi Rytų Prūsijos gyventojai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-155456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -211,8 +211,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-004
+    - t-005
 
 - id: c-175520
   autorius: "Teodoras Narbutas"
@@ -231,7 +231,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Vokiečiai]]

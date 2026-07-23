@@ -45,8 +45,7 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44837
-- susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika.md#claim-t-09609|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]: Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.
-- susijęs iš Nacionalinė M. Mažvydo biblioteka: Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.
+
 ## Citatos
 
 - id: c-44837

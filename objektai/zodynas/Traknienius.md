@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Traknienius
 sukurta: '2026-07-12'
 variantai:
-  - 'traknienius'
+  - traknienius
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -70,6 +70,7 @@ Terminas vartojamas ūkinių darbų sekoje, kai ruošiama medžiaga stogui dengt
   citata_rodoma: "Taip iš­\nkūlę, \ndirba stogui dengti kūlius arba laužo ir trina pėdus, vadinasi, \ndirba „traknienius“ ; tais krato tvartus arba šeria gyvulius"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

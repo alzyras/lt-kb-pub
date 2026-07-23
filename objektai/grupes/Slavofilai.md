@@ -31,7 +31,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 ## Teiginiai
 
 <a id="claim-t-72625"></a>
-- t-002
+- t-001
   teiginys: "Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - c-71025
 
 <a id="claim-t-72626"></a>
-- t-003
+- t-002
   teiginys: "Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
     - c-71025
 
 <a id="claim-t-72627"></a>
-- t-001
+- t-003
   teiginys: "Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166327
-- susijęs iš [[objektai/autoriai/Jonas Juškevičius.md#claim-t-01069|Jonas Juškevičius]]: Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.
+
 ## Citatos
 
 - id: c-71024
@@ -106,7 +106,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-71025
   redaktorius: "A. Šapoka"
@@ -128,8 +128,8 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-166327
   redaktorius: "A. Šapoka"

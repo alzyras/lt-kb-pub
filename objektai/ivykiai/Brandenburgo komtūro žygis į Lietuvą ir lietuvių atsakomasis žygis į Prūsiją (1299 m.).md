@@ -8,13 +8,13 @@ datos:
   - '1300 m.'
 date_start: '1299'
 date_end: '1300'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,7 +71,7 @@ Nenurodyta
     - c-168916
 
 <a id="claim-t-185557"></a>
-- t-003
+- t-002
   teiginys: "Lietuviai per žvalgus sužinojo apie Kunono pasalas, pasislėpė miškuose ir po jo kariuomenės paleidimo nuniokojo kraštą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-168918
 
 <a id="claim-t-196137"></a>
-- t-004
+- t-003
   teiginys: "Per Nemuno laivų grumtynes šeši šimtai raitelių įsiveržė į Prūsiją, nuniokojo pakeliui buvusius kaimus ir sukėlė baimę aplinkinėse žemėse."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-168917
 
 <a id="claim-t-196138"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičiaus pasakojime lietuviai, išėję iš slėpynių, pasklido po laukus ir pradėjo niokoti kraštą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168916
@@ -200,7 +199,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-168918
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -235,5 +234,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-002
+    - t-004

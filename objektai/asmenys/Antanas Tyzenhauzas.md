@@ -9,15 +9,15 @@ datos:
   - '1800 m.'
 date_start: '1767'
 date_end: '1800'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 ## Teiginiai
 
 <a id="claim-t-46002"></a>
-- t-016
+- t-001
   teiginys: "Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-26900
 
 <a id="claim-t-46003"></a>
-- t-025
+- t-002
   teiginys: "Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-25412
 
 <a id="claim-t-46004"></a>
-- t-023
+- t-003
   teiginys: "Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-26902
 
 <a id="claim-t-46005"></a>
-- t-015
+- t-004
   teiginys: "Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-21603
 
 <a id="claim-t-46006"></a>
-- t-017
+- t-005
   teiginys: "Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-26902
 
 <a id="claim-t-46007"></a>
-- t-018
+- t-006
   teiginys: "Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-21603
 
 <a id="claim-t-46008"></a>
-- t-021
+- t-007
   teiginys: "Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-25412
 
 <a id="claim-t-46009"></a>
-- t-022
+- t-008
   teiginys: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,7 +180,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-21603
 
 <a id="claim-t-46010"></a>
-- t-024
+- t-009
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-48648
 
 <a id="claim-t-46011"></a>
-- t-020
+- t-010
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -214,7 +214,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-26902
 
 <a id="claim-t-46012"></a>
-- t-019
+- t-011
   teiginys: "Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -230,7 +230,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - c-26901
 
 <a id="claim-t-202314"></a>
-- t-026
+- t-012
   teiginys: "XVIII a. Lietuvoje LDK rūmų iždininkas Antanas Tyzenhauzas įsteigė lino gamyklas Šiauliuose ir Pastovyse bei karališkųjų manufaktūrų kompleksą Horodnicoje ir Lososnoje netoli Gardino."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -241,19 +241,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
     - c-185661
-- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-183217|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
-- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66449|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
-- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
-- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
-- susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66535|Edukacinės komisijos įkūrimas]]: Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.
-- susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77884|Jėzuitų ordino panaikinimas]]: Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.
-- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77885|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika minima tarp įvykių, kartais laikomų Apšvietos epochos pradžia.
-- susijęs iš Anglija: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
-- susijęs iš Gardinas: Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.
-- susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
-- susijęs iš Paulava: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
+
 ## Citatos
 
 - id: c-21603
@@ -275,9 +263,9 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-018
-    - t-022
+    - t-004
+    - t-006
+    - t-008
 
 - id: c-25412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -295,8 +283,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-021
+    - t-002
+    - t-007
 
 - id: c-26900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -317,7 +305,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-001
 
 - id: c-26901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -340,7 +328,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-011
 
 - id: c-26902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -361,9 +349,9 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-017
-    - t-020
+    - t-003
+    - t-005
+    - t-010
 
 - id: c-48648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -387,7 +375,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-009
 
 - id: c-185661
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
@@ -397,7 +385,7 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   pagrindzia:
-    - t-026
+    - t-012
 
 ## Ryšiai
 - Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

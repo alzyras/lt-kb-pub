@@ -44,9 +44,7 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37927
-- susijęs iš Witold Wielki Książe Litewski: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą.
-- susijęs iš [[objektai/grupes/Slavofilai.md#claim-t-182924|Slavofilai]]: Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.
-- susijęs iš [[objektai/grupes/Slavofilai.md#claim-t-72626|Slavofilai]]: Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.
+
 ## Citatos
 
 - id: c-37927

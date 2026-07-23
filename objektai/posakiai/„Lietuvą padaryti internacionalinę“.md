@@ -56,10 +56,7 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   temporalinis_llm_pakomentavimas: "Teiginyje yra OCR ir antraščių triukšmo, bet citata pagrindžia glaustą faktą."
   pagrindžia:
     - c-25844
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75109|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75111|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
+
 ## Citatos
 
 - id: c-25844

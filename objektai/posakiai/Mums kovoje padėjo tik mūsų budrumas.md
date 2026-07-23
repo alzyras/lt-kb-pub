@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67276"></a>
-- t-002
+- t-001
   teiginys: "Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

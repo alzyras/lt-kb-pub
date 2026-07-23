@@ -70,10 +70,7 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174140
-- susijęs iš [[objektai/asmenys/Boristenė.md#claim-t-191379|Boristenė]]: Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupiterio sūnų ir pirmą tikrųjų skitų karalių.
-- susijęs iš [[objektai/asmenys/Boristenė.md#claim-t-191379|Boristenė]]: Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupiterio sūnų ir pirmą tikrųjų skitų karalių.
-- susijęs iš [[objektai/grupes/Hiperborėjai.md#claim-t-192972|Hiperborėjai]]: Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus.
-- susijęs iš Kerčės tvirtovė: Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
+
 ## Citatos
 
 - id: c-174139

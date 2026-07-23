@@ -9,16 +9,16 @@ datos:
   - '484 m.'
 date_start: '400'
 date_end: '484'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'IV'
-  - 'V'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - asmuo
+amziai:
+  - 'IV'
+  - 'V'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -113,23 +113,15 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 <a id="claim-t-190870"></a>
 - t-005
   teiginys: "Herodotas rašė, kad nuo Dnepro žiočių iki gerų krašto reikia plaukti 40 dienų, o Lelevelis tai siejo su maždaug 4000 stadijų."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herodotas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herodotas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173751
-    - c-173752
 
 <a id="claim-t-190871"></a>
 - t-006
@@ -172,7 +164,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173754
 
 <a id="claim-t-190874"></a>
-- t-009
+- t-008
   teiginys: "Pasak Herodoto, gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -193,7 +185,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173756
 
 <a id="claim-t-190875"></a>
-- t-010
+- t-009
   teiginys: "Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -214,7 +206,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173757
 
 <a id="claim-t-190876"></a>
-- t-011
+- t-010
   teiginys: "Narbutas manė, kad gelonų ir budinų priskyrimą pasakoms galėjo lemti dvejopa jų padėtis Herodoto geografijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -234,7 +226,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173758
 
 <a id="claim-t-190877"></a>
-- t-012
+- t-011
   teiginys: "Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -257,7 +249,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173759
 
 <a id="claim-t-190878"></a>
-- t-013
+- t-012
   teiginys: "Narbutas spėjo, kad Herodotas keliaudamas po Skitiją lankėsi šioje vietoje ir ieškojo žinių apie šiaurines jūras, alavą bei gintarą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -278,7 +270,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173760
 
 <a id="claim-t-190879"></a>
-- t-014
+- t-013
   teiginys: "Narbuto perteikimu, Herodotas IV knygoje rašė apie skitų kapus prie Molocho vandenų arba aukščiau kairiojo Dnepro kranto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -298,7 +290,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173761
 
 <a id="claim-t-190880"></a>
-- t-015
+- t-014
   teiginys: "Narbutas nurodė, kad seniausios žinios apie Meotų jūrą randamos Herodoto darbuose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -318,7 +310,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173762
 
 <a id="claim-t-190881"></a>
-- t-016
+- t-015
   teiginys: "Narbutas teigė, kad Herodoto aprašymuose yra neaiškių vietų, kurias reikia nagrinėti skirtingų laikų dvasia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -331,7 +323,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173763
 
 <a id="claim-t-190882"></a>
-- t-017
+- t-016
   teiginys: "Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -344,7 +336,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173764
 
 <a id="claim-t-194706"></a>
-- t-018
+- t-017
   teiginys: "Pasak Herodoto, skitai, laidodami savo karalius, taip pat užmušdavo jų mylimiausius tarnus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -356,7 +348,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-177102
 
 <a id="claim-t-194707"></a>
-- t-019
+- t-018
   teiginys: "Apie juos senovės Graikijos geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad ir paties Herodoto išvardytų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -368,7 +360,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-177103
 
 <a id="claim-t-197744"></a>
-- t-020
+- t-019
   teiginys: "Šios upės, susiliejančios netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų; tai sako ir Herodotas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -380,7 +372,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173751
 
 <a id="claim-t-197745"></a>
-- t-021
+- t-020
   teiginys: "Herodotas raišo-, kaid karalių kapai yra pas gerus, kurie gyvena tolimuosiuose Geruose ir kapinėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -392,7 +384,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173752
 
 <a id="claim-t-197746"></a>
-- t-022
+- t-021
   teiginys: "Herodotas nukrito iš dangaus ir nuskendo Vakaruose, Eridane."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -404,7 +396,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-179322
 
 <a id="claim-t-197747"></a>
-- t-023
+- t-022
   teiginys: "Senovės amžių neurai, anot paties Herodoto, gyveno Dnepro vidurupio kairiojoje pakrantėje, o iš ten persikėlė j dešiniąją pakrantę todėl, kad jiems pradėjo įkyrėti neapsakoma daugybė žalčių; bet niekur nesakoma, kad jie visiškai išsikėlė iš kairiosios pakran."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -416,7 +408,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-179323
 
 <a id="claim-t-197748"></a>
-- t-024
+- t-023
   teiginys: "Niekas iš gerai pažintų dalykų neatitinka labiau tikrovės už mūsų 1 Herodotas buvo kilęs iš Halikarnaso, dorėnų krašto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -428,7 +420,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173759
 
 <a id="claim-t-197749"></a>
-- t-025
+- t-024
   teiginys: "Herodotas, keliaudamas po Skitiją, be abejo, turėjo lankytis šioje vietoje, nes, kaip matome iš jo ap rašymų, jis bandė nustatyti kelią į šiaurę ir ketino tęsti savo kelionę į tą pusę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -440,7 +432,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173760
 
 <a id="claim-t-197750"></a>
-- t-026
+- t-025
   teiginys: "Herodotas būtų lankęsis tik Dnepro žemupyje esančiose tenykštėse graikų kolonijose, nebūtų taip įtikinamai aprašęs Gerų krašto ir kitų smulkmenų, susijusių su šiaurės vakarų Skitija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -452,7 +444,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-179324
 
 <a id="claim-t-197751"></a>
-- t-027
+- t-026
   teiginys: "Herodotas rašo (IV knyga), kad prie Molocho van denų arba, kaip mano kiti, kažkur aukščiau kairiojo Dnep ro kranto matęs skitų kapų, o kiti, jo nuomone, turi būti kažkur šiauriau Gerų krašte, kur taip pat teka to paties pavadinimo upė; ten skitai nuo Dnepro."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -464,7 +456,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173761
 
 <a id="claim-t-197752"></a>
-- t-028
+- t-027
   teiginys: "Herodoto aprašymuose yra ne mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa nagrinėsime jas dabartinių ir praėjusių laikų dvasia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -476,6 +468,48 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     - c-173763
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Herodotas minėjo miestą prie Juodosios jūros netoli Dioskūrijos, kur prekyvietės traukė žmones iš maždaug trijų šimtų genčių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    82
+
+    ## Puslapis 80
+
+    64
+    Gėlo h a i išsikelti į tokias tolimas kolonijas prie Do­
+    no, — gal apie tai iš senų geografinių aprašymų žinojo
+    romėnų poetas, — turėjo tuo metu, kai jie dar gyveno
+    dešiniojoje Dnepro pakrantėje tarp graikų emporiumų.
+    Pirmosios jų gyvenvietės turėjo būti Očekovo miesto apy­
+    linkėse, nes kažkur ten buvo Gelono miestas. Herodotas
+    prisimena buvus tokį miestą prie Juodosios jūros, kur
+    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
+    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
+    skaičiuojamos minios žmonių iš maždaug trijų šimtų
+    genčių, įvairių savo kalba ir gyvenamąja vieta1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-015
   santrauka: 'Narbutas nurodė, kad seniausios žinios apie Meotų jūrą randamos Herodoto darbuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -490,10 +524,10 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-017
   santrauka: 'Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -512,11 +546,40 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-019
+  santrauka: 'Apie juos senovės Graikijos geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi nius pavadinimus iš daugelio Siaurės Europos gyventojų, kad ir paties Herodoto išvardytų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    VI priedas
+    Apie lietuvių kalbą
+    Aprašius religiją, papročius, prietarus ir daugelį kitų smul­
+    kesnių dalykų, susijusių su lietuvių tautos gyvenimu senovėje,
+    baigiant šį senovės istorijos tomą, dera pakalbėti apie lietuvių
+    kalbą tam, kad labiau priartėtume prie tų tyrimo objektų, iš
+    kurių būtų galima išvesti tautos istorijos pradžią: jos kilmę,
+    protėvių klajones iš vienos stovyklos į kitą, pastovų apsigyve­
+    nimą, giminystę su kitomis tautomis ir pagausėjimą slenkant
+    amžiams. Ne be pagrindo tyrėjai sugalvojo susekti seniausią
+    tautų istoriją iš jų gimtosios kalbos, nes rezultatas dažniausiai
+    apvainikuodavo jų pastangas visiškai naujais, iki šiol visiškai
+    nežinomais ir visiškai tikrais atradimais. Nesigilinsime į tų at­
+    radimų smulkmenas, kaip teko su jais padirbėti; neturime nė
+    tikslo mėgdžioti etimologinius išvedžiojimus, kaip tik gana pa­
+    plitusius, kadangi visam laikui pasirinkome savo pačių atrastą
+    kelią, kuriame neturi būti vietos etimologinėms išmonėms, pri­
+    temptoms daiktų ir žodžių panašybėmis, išskyrus tik tas, ku­
+    rios negali būti nuginčytos iš pirmo žvilgsnio ir dėl jų akivaiz­
+    daus sutapimo ir kurių palyginimui pakanka paprasto pasvars­
+    tymo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172934
@@ -600,7 +663,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-020
+    - t-019
 
 - id: c-173752
   autorius: "Teodoras Narbutas"
@@ -623,8 +686,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
-    - t-021
+    - t-020
 
 - id: c-173753
   autorius: "Teodoras Narbutas"
@@ -690,7 +752,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-173757
   autorius: "Teodoras Narbutas"
@@ -711,7 +773,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-173758
   autorius: "Teodoras Narbutas"
@@ -732,7 +794,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-173759
   autorius: "Teodoras Narbutas"
@@ -756,8 +818,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-012
-    - t-024
+    - t-011
+    - t-023
 
 - id: c-173760
   autorius: "Teodoras Narbutas"
@@ -780,8 +842,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-025
+    - t-012
+    - t-024
 
 - id: c-173761
   autorius: "Teodoras Narbutas"
@@ -804,8 +866,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-027
+    - t-013
+    - t-026
 
 - id: c-173762
   autorius: "Teodoras Narbutas"
@@ -832,7 +894,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 - id: c-173763
   autorius: "Teodoras Narbutas"
@@ -860,8 +922,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-028
+    - t-015
+    - t-027
 
 - id: c-173764
   autorius: "Teodoras Narbutas"
@@ -895,7 +957,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-017
+    - t-016
 
 - id: c-177102
   autorius: "Teodoras Narbutas"
@@ -914,7 +976,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-017
 
 - id: c-177103
   autorius: "Teodoras Narbutas"
@@ -939,7 +1001,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-179322
   autorius: "Teodoras Narbutas"
@@ -962,7 +1024,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-021
 
 - id: c-179323
   autorius: "Teodoras Narbutas"
@@ -987,7 +1049,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-023
+    - t-022
 
 - id: c-179324
   autorius: "Teodoras Narbutas"
@@ -1009,7 +1071,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-026
+    - t-025
 
 ## Ryšiai
 - Herodotas keliavo į [[objektai/vietos/Skitija]]

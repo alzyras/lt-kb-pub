@@ -39,7 +39,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 ## Teiginiai
 
 <a id="claim-t-186510"></a>
-- t-008
+- t-001
   teiginys: "Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -73,7 +73,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169852
 
 <a id="claim-t-186512"></a>
-- t-010
+- t-003
   teiginys: "1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -94,7 +94,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169850
 
 <a id="claim-t-186513"></a>
-- t-011
+- t-004
   teiginys: "Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -111,7 +111,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169851
 
 <a id="claim-t-186514"></a>
-- t-009
+- t-005
   teiginys: "Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -131,7 +131,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169848
 
 <a id="claim-t-186515"></a>
-- t-003
+- t-006
   teiginys: "Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -148,7 +148,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169849
 
 <a id="claim-t-186516"></a>
-- t-001
+- t-007
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -165,7 +165,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169853
 
 <a id="claim-t-188622"></a>
-- t-004
+- t-008
   teiginys: "Teodoras Narbutas vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171511
 
 <a id="claim-t-188623"></a>
-- t-005
+- t-009
   teiginys: "Pirmieji Teodoro Narbuto spausdinti darbai buvo užsienietiškų leidinių apžvalgos, eilėraščiai ir vertimai Vilniaus laikraščiuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -206,7 +206,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171512
 
 <a id="claim-t-188624"></a>
-- t-006
+- t-010
   teiginys: "Rimanto Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -229,7 +229,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171513
 
 <a id="claim-t-188625"></a>
-- t-007
+- t-011
   teiginys: "Teodoras Narbutas 1830 m. išleido „Čigonų liaudies istorijos bruožus“ ir rengė Horacijaus bei Ž. B. Ruso kūrybos vertimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -317,7 +317,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171517
 
 <a id="claim-t-188631"></a>
-- t-017
+- t-015
   teiginys: "Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -337,7 +337,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171520
 
 <a id="claim-t-188632"></a>
-- t-018
+- t-016
   teiginys: "Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija: „Aš nerašau lietuvių tautos istorijos <...>“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -357,7 +357,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171521
 
 <a id="claim-t-188633"></a>
-- t-019
+- t-017
   teiginys: "Laiške Ignotui Onacevičiui Teodoras Narbutas savo uždaviniu vadino praeities įvykių esmės atskleidimą nuo tautos kilmės iki 1569 m."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -382,7 +382,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179199
 
 <a id="claim-t-188634"></a>
-- t-020
+- t-018
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas sąmoningai vengė žodžio „istorija“ ir save suvokė veikiau kaip aprašinėtoją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -402,7 +402,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171523
 
 <a id="claim-t-188635"></a>
-- t-021
+- t-019
   teiginys: "Oficialios recenzijos į Teodoro Narbuto „Lietuvių mitologiją“ pasirodė 1835 ir 1836 metais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -422,7 +422,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171524
 
 <a id="claim-t-188636"></a>
-- t-022
+- t-020
   teiginys: "1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -445,7 +445,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171525
 
 <a id="claim-t-188637"></a>
-- t-023
+- t-021
   teiginys: "Teksto analizė rodo, kad Teodoras Narbutas savo parankinį LTI egzempliorių pildė iki 1863 metų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -465,7 +465,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171526
 
 <a id="claim-t-188638"></a>
-- t-024
+- t-022
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas lietuvių mitologijos tyrinėjimams skyrė ypač daug dėmesio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -478,7 +478,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171527
 
 <a id="claim-t-188640"></a>
-- t-026
+- t-023
   teiginys: "Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -498,7 +498,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171529
 
 <a id="claim-t-188641"></a>
-- t-027
+- t-024
   teiginys: "Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -521,7 +521,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171530
 
 <a id="claim-t-188642"></a>
-- t-028
+- t-025
   teiginys: "Papildymo tekstas leidžia spręsti, kad Teodoras Narbutas gerai pažinojo visus 1804 m. komisijos narius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -537,7 +537,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171531
 
 <a id="claim-t-190985"></a>
-- t-029
+- t-026
   teiginys: "Narbutas vartoja terminą „dzieje“, o ne „historia“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -556,21 +556,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   pagrindžia:
     - c-173867
 
-<a id="claim-t-190986"></a>
-- t-030
-  teiginys: "Rasa Griškaitė Narbuto lietuvių mitologijos tyrinėjimų paieškas vadino atkaklesnėmis ir tragiškesnėmis, nei galėtų atrodyti jų nepažinus."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-179355
-
 <a id="claim-t-190987"></a>
-- t-031
+- t-027
   teiginys: "Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -590,7 +577,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173869
 
 <a id="claim-t-190988"></a>
-- t-032
+- t-028
   teiginys: "Teodoras Narbutas yra dailiau už anuos padarytas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -610,7 +597,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173870
 
 <a id="claim-t-190989"></a>
-- t-033
+- t-029
   teiginys: "Teodoras Narbutas Dievo Kovo stabą ypač vertino ir laikė jį vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -630,7 +617,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173871
 
 <a id="claim-t-197447"></a>
-- t-034
+- t-030
   teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -642,7 +629,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179194
 
 <a id="claim-t-197448"></a>
-- t-035
+- t-031
   teiginys: "Narbutas elgiasi ir su daugeliu kitų senųjų ra šytinių šaltinių - praplečia jų informaciją, sukonkretina, per teikia ne tik tai, kas juose pasakyta, bet ir tai, kas, jo manymu, galėjo būti pasakyta."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -654,7 +641,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179195
 
 <a id="claim-t-197449"></a>
-- t-036
+- t-032
   teiginys: "Narbutas visą dėmesį sukoncentravo į len kiškojo teksto pataisas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -666,7 +653,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179196
 
 <a id="claim-t-197450"></a>
-- t-037
+- t-033
   teiginys: "Narbuto idėja, o ir pirmo LTI tomo papildymai „Mažesniuose istorijos raštuose“ sudarė tik nedidelę dalį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -678,7 +665,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179197
 
 <a id="claim-t-197451"></a>
-- t-038
+- t-034
   teiginys: "Teodoras Narbutas buvo tikra istoriko požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiška) buvo pakoreguota tik įrašant vieną nedidelę papildomą pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -690,7 +677,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179198
 
 <a id="claim-t-197452"></a>
-- t-039
+- t-035
   teiginys: "Narbutas rašė: „Tos svarbios religijos primini mas ir pažinimas yra nepaprastai reikalingas istorijos žinioms turtinti - dar daugiau, be tinkamo jos išaiškinimo negali būti pažinta lietuvių žemės praeitis“54."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -702,7 +689,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179199
 
 <a id="claim-t-197453"></a>
-- t-040
+- t-036
   teiginys: "Teodoras Narbutas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -714,7 +701,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179200
 
 <a id="claim-t-197454"></a>
-- t-041
+- t-037
   teiginys: "Teodoras Narbutas globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -726,7 +713,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179201
 
 <a id="claim-t-197455"></a>
-- t-042
+- t-038
   teiginys: "Teodoras Narbutas visiems metams įgydavo gydomosios galios."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -738,7 +725,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179202
 
 <a id="claim-t-197825"></a>
-- t-043
+- t-039
   teiginys: "Per 400 metų nė vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeitimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -750,7 +737,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179355
 
 <a id="claim-t-197826"></a>
-- t-044
+- t-040
   teiginys: "Narbuto darbiniame LTI egzemp lioriuje, visose devyniose dalyse, atsirado daugybė pa taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -762,7 +749,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179356
 
 <a id="claim-t-197827"></a>
-- t-045
+- t-041
   teiginys: "Teodoras Narbutas buvo „nuoširdesnis“, be to, galima įžvelgti mažiau kompromisų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -774,7 +761,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173868
 
 <a id="claim-t-197828"></a>
-- t-046
+- t-042
   teiginys: "Teodoras Narbutas yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -784,259 +771,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179357
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-191935|Albertas Vijūkas-Kojalavičius]]: Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
-- susijęs iš [[objektai/asmenys/Buda.md#claim-t-191260|Buda]]: Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą.
-- susijęs iš [[objektai/asmenys/Erazmas Stela.md#claim-t-191147|Erazmas Stela]]: Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų.
-- susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-188397|Albertas Vijūkas-Kojalavičius]]: Narbutas rašė, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Francas Bopas.md#claim-t-187951|Francas Bopas]]: Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Heningas Henning.md#claim-t-191596|Heningas Henning]]: Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko.
-- susijęs iš [[objektai/autoriai/Johanas Severinas Fateris.md#claim-t-187948|Johanas Severinas Fateris]]: Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Peteris Bolenas.md#claim-t-187950|Peteris Bolenas]]: Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Samuelis Lindė.md#claim-t-187949|Samuelis Lindė]]: Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188483|Teodoras Narbutas]]: Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-190808|Teodoras Narbutas]]: Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-190810|Teodoras Narbutas]]: Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-191907|Teodoras Narbutas]]: Teodoras Narbutas svarstė, kad ašarinėse esantis skystis žemėje galėjo tapti dujiškai nepatvarus ir išgaruoti per stiklą.
-- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-188487|Vytautas Berenis (istorikas, XX–XXI a.)]]: Vytautas Berenis Teodorą Narbutą pavadino lietuvių mitologijos tėvu ir nepagydomu svajotoju bei romantiku.
-- susijęs iš [[objektai/daiktai/T. Narbuto epigrafų autografai.md#claim-t-189663|T. Narbuto epigrafų autografai]]: Teodoras Narbutas, rengdamas spaudai antrąjį LTI IV tomo leidimą, tekstą papildė epigrafo autografu iš I. Krasickio „Pieśni Ossjana“.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-192415|Kryžiuočių ordinas]]: Teodoras Narbutas rašė, kad kryžiuočiai beveik iškapojo laisvę gynusius Sūduvos gyventojus, o likusius perkėlė į Sambiją.
-- susijęs iš [[objektai/grupes/Narbutai.md#claim-t-188013|Narbutai]]: Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Abo miesto.md#claim-t-187808|Mūšis prie Abo miesto (mūšis, XIX a.)]]: Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą.
-- susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192049|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Pratarmėje Teodoras Narbutas rašo skubėjęs atiduoti spaudai antrą tomą, skirtą lietuvių tautos ištakoms ir protėvių atsikėlimo istorijai.
-- susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192050|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną.
-- susijęs iš Narbutt T., Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się: Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się“.
-- susijęs iš Narbutt T., Spisanie Muzeum w Szawrach: Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.
-- susijęs iš Ptolemėjaus Geographia: Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.
-- susijęs iš Busavna: 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą.
-- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
-- susijęs iš [[objektai/zodynas/piliavietė.md#claim-t-192197|piliavietė]]: Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų.
-- susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192049|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Pratarmėje Teodoras Narbutas rašo skubėjęs atiduoti spaudai antrą tomą, skirtą lietuvių tautos ištakoms ir protėvių atsikėlimo istorijai.
-- susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192050|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną.
-- susijęs iš Šaurų dvaras: Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje.
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191171|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai apsigyveno Vyslos ir Nemuno tarpupyje.
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191172|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191948|Eduka]]: Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus.
-- susijęs iš [[objektai/asmenys/Eratostenas.md#claim-t-191949|Eratostenas]]: Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.
-- susijęs iš [[objektai/asmenys/Evarikas.md#claim-t-191393|Evarikas]]: Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190871|Herodotas]]: Teodoras Narbutas Herodotą vadino tiksliausiu senovės rašytoju ir jam priskyrė pusiau pasakišką sarmatų kilmę iš amazonių bei skitų.
-- susijęs iš [[objektai/asmenys/Ignas Onacevičius.md#claim-t-188537|Ignas Onacevičius]]: Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos <...>“.
-- susijęs iš [[objektai/asmenys/Indatiras.md#claim-t-191209|Indatiras]]: Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip išpuikusį, žiaurų ir nelabai išmintingą monarchą.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190884|Jaroslavas]]: Teodoras Narbutas Jaroslavo ir Kristijono pasakojimus apie ulmigerus laikė paremtais tikrove.
-- susijęs iš [[objektai/asmenys/Jasonas.md#claim-t-191280|Jasonas]]: Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais.
-- susijęs iš [[objektai/asmenys/Jurgis de Biufonas.md#claim-t-191425|Jurgis de Biufonas]]: Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis prasidėjo nuo ašigalių.
-- susijęs iš [[objektai/asmenys/Kadlubekas.md#claim-t-191348|Kadlubekas]]: Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje prieš Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
-- susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
-- susijęs iš [[objektai/asmenys/Kapitolinas.md#claim-t-191501|Kapitolinas]]: Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią tautą vadino Cestobochy.
-- susijęs iš [[objektai/asmenys/Kocebus.md#claim-t-191351|Kocebus]]: Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.
-- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190917|Ksaveras Bogušas]]: Teodoras Narbutas Ksaverą Bogušą vadino puikiu kalbų mokovu, atskleidusiu lietuvių kalbos savybes, būdingas graikų ir lotynų kalboms.
-- susijęs iš [[objektai/asmenys/Makartnis.md#claim-t-191440|Makartnis]]: Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesnis keliautojas Barovas.
-- susijęs iš [[objektai/asmenys/Malabatas.md#claim-t-191292|Malabatas]]: Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mitologiniu dievo Alabačio vardu.
-- susijęs iš [[objektai/asmenys/Markas Polo.md#claim-t-191442|Markas Polo]]: Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais.
-- susijęs iš [[objektai/asmenys/Masos.md#claim-t-191296|Masos]]: Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190931|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190932|Nestoras]]: Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190936|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: jie degino mirusiuosius ir pelenus rinko į urnas.
-- susijęs iš [[objektai/asmenys/Nibūras.md#claim-t-191449|Nibūras]]: Teodoras Narbutas cituoja Nibūrą apie pelazgus: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“.
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191143|Nikolajus Karamzinas]]: Teodoras Narbutas nurodo, kad Karamzinas tyrimuose rašė apie vitbionų sostinę Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191144|Nikolajus Karamzinas]]: Teodoras Narbutas remiasi Karamzinu teigdamas, kad poloviečiai patys save vadino Kipczak.
-- susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191167|Odinas]]: Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais.
-- susijęs iš [[objektai/asmenys/Oktavianas Augustas.md#claim-t-191300|Oktavianas Augustas]]: Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto amžininku, tik kiek jaunesniu.
-- susijęs iš [[objektai/asmenys/Olafas Dalinas.md#claim-t-191507|Olafas Dalinas]]: Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.
-- susijęs iš [[objektai/asmenys/Olafas Rudbekas.md#claim-t-191450|Olafas Rudbekas]]: Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiaurės tautų lopšį.
-- susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-191104|Povilas Juozapas Safaržykas]]: Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį išsamų ir visa apimantį slavų istorijos tyrinėjimą.
-- susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-192600|Povilas Juozapas Safaržykas]]: Teodoras Narbutas Safaržyko hipotezę apie kalną Minsko gubernijoje vadino juokinga ir priekaištavo jam dėl slavų pėdsakų ieškojimo pagal panašumus.
-- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190961|Pretorijus]]: Teodoras Narbutas spėjo, kad Hartknocho ir Pretorijaus naudotuose egzemplioriuose kimbrų datos klaida galėjo atsirasti prie 190 pridėjus vienetą.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105708|Simonas Daukantas]]: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.
-- susijęs iš [[objektai/asmenys/Skalka.md#claim-t-191465|Skalka]]: Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-190972|Skomantas]]: Teodoras Narbutas nesutiko, kad 1264 m. mūšyje žuvęs lenkų istorikų Komodu vadintas Skomantas buvo vėlesnis prūsų sukilimo vadas.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-190974|Sventopelkas]]: Teodoras Narbutas aiškino, kad Giurgevo tvirtovė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką.
-- susijęs iš [[objektai/autoriai/Aleksandras Humboltas.md#claim-t-191593|Aleksandras Humboltas]]: Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.
-- susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191527|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191528|Amianas Marcelinas]]: Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais.
-- susijęs iš [[objektai/autoriai/Aristotelis.md#claim-t-191633|Aristotelis]]: Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas.
-- susijęs iš [[objektai/autoriai/Aristotelis.md#claim-t-191634|Aristotelis]]: Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190693|Augustas Liudvigas Šleceris]]: Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/autoriai/Francua Noelis.md#claim-t-190422|Francua Noelis]]: Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Noelio mitologinio žodyno.
-- susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190295|Francua Žozefas Noelis]]: Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno.
-- susijęs iš [[objektai/autoriai/Gartneris.md#claim-t-191672|Gartneris]]: Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę.
-- susijęs iš [[objektai/autoriai/Gelonas.md#claim-t-191607|Gelonas]]: Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas apie Galindos kilmę.
-- susijęs iš [[objektai/autoriai/Geropijus Bekanas.md#claim-t-191673|Geropijus Bekanas]]: Teodoras Narbutas rašė, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190705|Herodotas]]: Teodoras Narbutas skitų tautos bruožų vaizdą siejo su Herodoto kūriniais ir jo kelione tarp skitų.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190719|Herodotas]]: Teodoras Narbutas Herodoto darbuose rado seniausių žinių apie Meotų jūrą.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-192525|Herodotas]]: Teodoras Narbutas nurodė iki tol rėmęsis Herodoto pasakojimu apie kelionę nuo Maetis ežero į žemyno gilumą.
-- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190352|Homeras]]: Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190727|Johanas Foigtas]]: Teodoras Narbutas poną Foigtą vadino įžymiu autoriumi, kuris darbštumu ir talentais atskleidė kryžiuočių dokumentų bei kronikų turtingumą.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190729|Johanas Foigtas]]: Teodoras Narbutas IV priede pateikė Foigto surinktas žinias apie senovės Prūsijos provincijas, kokias jas XIII a. pradžioje rado kryžiuočiai.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190731|Johanas Foigtas]]: Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182792|Michał Baliński Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
-- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55013|Mykolas Balinskis]]: Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.
-- susijęs iš [[objektai/autoriai/Pisanskis.md#claim-t-191589|Pisanskis]]: Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą.
-- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191547|Pitėjas]]: Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą.
-- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191549|Pitėjas]]: Teodoras Narbutas nurodo nuomonę, kad Pitėjas keliavo du kartus: į Britaniją ir į šiaurės rytus, kur atrado Baltijos salą.
-- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191550|Pitėjas]]: Teodoras Narbutas rašo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas tokį pavadinimą laikė neseniai pradėtu vartoti.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190779|Plinijus]]: Teodoras Narbutas pažymi, kad Diodoras Sicilietis, Mela ir Plinijus, rėmęsi Šiaurės jūrų kelionių aprašymais, estų neminėjo.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190781|Plinijus]]: Teodoras Narbutas cituoja Plinijų, kad sarmatai, venedai, skirtai ir tūriai gyveno iki Vyslos.
-- susijęs iš [[objektai/autoriai/Solovjovas.md#claim-t-191620|Solovjovas]]: Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios dvi skirtingos tautos istoriniu laiku susiliejo.
-- susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81965|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.
-- susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81966|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.
-- susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81968|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m.
-- susijęs iš [[objektai/autoriai/Steponas Bizantietis.md#claim-t-191582|Steponas Bizantietis]]: Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir vėlesni Bizantijos tyrinėtojai vartojo formą ’Iv8ixvję.
-- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190794|Strabonas]]: Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos.
-- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190795|Strabonas]]: Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190796|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas gotus apibūdino kaip nuo senų laikų kairiojoje Vyslos žemupio pakrantėje gyvenusią tautą.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190797|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas nurodo, kad I a. pabaigoje rašęs Tacitas po germanų aprašymo perėjo prie Prūsijos pakrančių ir estų.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190798|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas Tacito estų aprašyme matė istorinę tiesą, kad Tacitas turėjęs žinių apie lietuvių tautą.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190799|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas 46 skyriuje venedus skyrė nuo sarmatų ir germanų bei aprašė jų kaimynus.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190800|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas nurodo, kad Tacitas jazigus laikė karinga gentimi, turėjusia rinktinę raitąją kariuomenę.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190802|Tadas Volianskis]]: Teodoras Narbutas Tado Volianskio išvadomis pildė parankinio „Lietuvių tautos istorijos“ egzemplioriaus tomus.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190803|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis statulėlės galvoje matė ragus, iš užpakalio panašius į erelį su nagais.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190804|Tadas Volianskis]]: Teodoras Narbutas nurodo, kad Tadas Volianskis priekaištavo dėl Szwaixtiks statulėlės nepanašumo į Lietuvos Apoloną.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190805|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190806|Tadas Volianskis]]: Teodoras Narbutas nurodo, kad Tadas Volianskis runų užrašą skaitė kaip Simeonas (SI-ME-ON).
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190807|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis užrašą skaitė kaip Maitez (MATTEZ), t. y. Maljasz arba Matas.
-- susijęs iš [[objektai/autoriai/Talis.md#claim-t-191685|Talis]]: Teodoras Narbutas Talį mini tarp autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas.
-- susijęs iš [[objektai/autoriai/Teofrastas.md#claim-t-191686|Teofrastas]]: Teodoras Narbutas Teofrastą mini tarp autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas.
-- susijęs iš [[objektai/autoriai/Vasilijus Tatiščevas.md#claim-t-191602|Vasilijus Tatiščevas]]: Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.
-- susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88083|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.
-- susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88084|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.
-- susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190818|Vincentas Kadlubekas]]: Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą.
-- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190819|Vulfstanas (jūrininkas, IX amžius)]]: Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-192413|Krivičiai]]: Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-192419|Latviai]]: Teodoras Narbutas spėjo, kad Latvijos pradžią galėjo lemti jos atskyrimas nuo viengenčių lietuvių ir prūsų.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-192420|Latviai]]: Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192423|Lietuviai]]: Teodoras Narbutas pratarmėje antrąjį tomą pristatė kaip lietuvių tautos ištakų ir protėvių atsikėlimo istorijos apžvalgą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192426|Lietuviai]]: Teodoras Narbutas laikė istorine tiesa, kad lietuvių tautos protėviai gyveno prie Rosės upės dabartinėje Volkovysko apskrityje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192427|Lietuviai]]: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192428|Lietuviai]]: Teodoras Narbutas darė išvadą, kad pirmos lietuvių tautos gyvenvietės buvo dešiniosios Nemuno žemupio šakos pakrantėse.
-- susijęs iš [[objektai/grupes/Litalarai.md#claim-t-192987|Litalarai]]: Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-alanų tauta, galėjusi susidaryti iš lietuvių ir alanų mišinio.
-- susijęs iš [[objektai/grupes/Liutičiai.md#claim-t-192996|Liutičiai]]: Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica.
-- susijęs iš [[objektai/grupes/Lygai.md#claim-t-192955|Lygai]]: Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192438|Persai]]: Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus.
-- susijęs iš [[objektai/grupes/Pečenegai.md#claim-t-192989|Pečenegai]]: Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-192443|Poloviečiai]]: Teodoras Narbutas rašo, kad Ksaveras Bogušas, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192444|Prūsai]]: Teodoras Narbutas rašo, kad prūsai ir latviai turėjo pilnesnius istorijos aprašymus už lietuvius dėl ryšių su vokiečių tauta ir gausesnių kronikininkų.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192446|Prūsai]]: Teodoras Narbutas rašo, kad prūsų Sembos pakrantėje ypač dažnai randama gintaro kilmę aiškinančių medžių liekanų.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192448|Prūsai]]: Teodoras Narbutas tikrąja Prūsija iki XIII a. vadina dvylikos provincijų ir dvylikos genčių savarankišką kraštą.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192450|Prūsai]]: Teodoras Narbutas teigia, kad Henenbergerio užrašas nurodė Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliavą.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192941|Roksolanai]]: Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192942|Roksolanai]]: Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais.
-- susijęs iš [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną.md#claim-t-191870|Kimbrų pergalė prieš konsulą Scipioną]]: Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos.
-- susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191022|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją.
-- susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54747|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Istorikų darbai buvo aptarinėjami bajorų pobūviuose.
-- susijęs iš [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas.md#claim-t-54748|Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]: Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/posakiai/Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti.md#claim-t-192107|Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti]]: Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.
-- susijęs iš [[objektai/posakiai/Aš nerašau lietuvių tautos istorijos.md#claim-t-192108|Aš nerašau lietuvių tautos istorijos]]: Teodoras Narbutas rašė „Aš nerašau lietuvių tautos istorijos“, savo darbą vadindamas veikalais, o ne istorija.
-- susijęs iš [[objektai/posakiai/Geriau būtų nuo Wannas, senovės prūsų kalba — uodas.md#claim-t-192127|Geriau būtų nuo Wannas, senovės prūsų kalba — uodas]]: Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
-- susijęs iš [[objektai/posakiai/Kurcho, optimo maximo.md#claim-t-192112|Kurcho, optimo maximo]]: Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu.
-- susijęs iš [[objektai/posakiai/Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias.md#claim-t-192121|Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias]]: Teodoras Narbutas kalbotyrą vadina pirmu ir patikimiausiu tautų kilmės tyrimo keliu, atveriančiu ir kitas senienas.
-- susijęs iš [[objektai/posakiai/Neklystančiojo tonas istorijai nedaro garbės.md#claim-t-192122|Neklystančiojo tonas istorijai nedaro garbės]]: Teodoras Narbutas istorijai priešpriešina neklystančiojo toną ir faktų bei įrodytų tiesų nagrinėjimą.
-- susijęs iš [[objektai/posakiai/Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas.md#claim-t-192130|Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas]]: 1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.
-- susijęs iš Darbai žemaičių ir lietuvių: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“, kai Lietuvos praeities tyrimų dar buvo nedaug.
-- susijęs iš Herodoto istorija: Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą.
-- susijęs iš Hesichijaus leidimas: Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję ginče dėl skaitymo Indi ar Sindi.
-- susijęs iš Hlebovičiaus Vytauto gyvenimas: Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas požiūrį, kad senesnės kronikų žinios apie lietuvių gentis tėra išmonė.
-- susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
-- susijęs iš Homero Odisėja: Teodoras Narbutas nurodė, kad Homero „Odisėjos“ IV ir XV giesmėse minimas elektronas senovėje laikytas brangiuoju metalu.
-- susijęs iš Honorijaus III 1224 metų bulė dėl Samlandia ir Witlandia: Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir Witlandia, pabrėždamas, kad vietoj Wirlandia reikia skaityti Witlandia.
-- susijęs iš Horacego ody wszystkie: Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego ody wszystkie“.
-- susijęs iš Karamzinas, Istorija gosudarstva Rossiiskogo: Teodoras Narbutas Karamzinui priskyrė aiškinimą, kad Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia baltą namą, palapinę, turgų, užeigą ar smuklę.
-- susijęs iš Kasiodoro laiškų rinkinys: Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkinyje.
-- susijęs iš Kirchen Geschichte: Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodžiui paimti iš Enėjaus Silvijaus.
-- susijęs iš Klaproth, Asia Polyglotta: Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žodyne nėra reikšmingo panašumo į lietuvių kalbą.
-- susijęs iš Lietuvių tautos istorija: 1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.
-- susijęs iš Lietuvių tautos istorija: Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.
-- susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą.
-- susijęs iš M. Strijkovskio kronika: Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.
-- susijęs iš Martynas Kromeris, De situ, populis, moribus, magistratibus: Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, magistratibus“ poloviečius vadina gotais ir šios nuomonės nelaiko visai nepagrįsta.
-- susijęs iš Prūsų vyskupo Kristijono kronika: Teodoras Narbutas vaizduoja Kulmo vyskupą Kristijoną kaip į savo kroniką įrašiusį ištrauką iš Plocko kronikininko raštų.
-- susijęs iš Radlofo veikalas apie Hesperą ir Fajetoną: Teodoras Narbutas Radlofo veikalą siejo su planetų ar Žemės palydovų žuvimo aiškinimu ir rekomendavo jį skaitytojams.
-- susijęs iš Ravenos geografo veikalas: Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad agatirai, agazirai ar angershirai buvę ta pati Amiano minima gentis.
-- susijęs iš Rozencveigo kronika: Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos potvynį, kuris esą buvęs iki prūsų įsikūrimo prie Baltijos jūros.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu.
-- susijęs iš Šiaurės keliautojo Vulfstano aprašymai: Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero.
-- susijęs iš Šventojo Rašto knygos: Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istoriją laikė patvirtinama bešališkų tyrimų.
-- susijęs iš „Dziennik Wilenski“: Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams.
-- susijęs iš Abo: Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto.
-- susijęs iš Afrika: Teodoras Narbutas Afriką ir Aziją laikė seniau už Europą apgyvendintais ir anksčiau civilizuotais žemynais.
-- susijęs iš Asgarai: Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu.
-- susijęs iš Brasta: Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.
-- susijęs iš Būgas: Teodoras Narbutas senovinį Hipanio upės vardą tapatino su dabartiniu Būgu.
-- susijęs iš Grevožos kalnas: Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kadaise stovėjusia pilimi ir netoliese buvusia šventa giria bei šventove.
-- susijęs iš Kijevas: Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio.
-- susijęs iš Kijevas: Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.
-- susijęs iš Kijevas: Teodoras Narbutas teigė, kad dabartinio Kijevo žemė pirmiausia tapo pastovia skitų gyvenamąja vieta prie Dnepro.
-- susijęs iš Kuršių marios: Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą.
-- susijęs iš Kvidzinas: Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.
-- susijęs iš Lietuva: Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
-- susijęs iš Lietuva: Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį.
-- susijęs iš Lietuva: Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis.
-- susijęs iš Narevas: Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link.
-- susijęs iš Nemunas: Teodoras Narbutas Dionyzo iš Charakso minimą Aldeską tapatino su Nemunu.
-- susijęs iš Nemunas: Teodoras Narbutas Nemuno žemupio pakrantes laikė pirmąja lietuvių tautos buveine šiame krašte.
-- susijęs iš Neroma: Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos kraštą ir jos vardą kildino iš Neries upės.
-- susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
-- susijęs iš Polesė: Teodoras Narbutas rašo, kad Kazimieras, priėmęs nusižeminusią jotvingių vyresnybę, pavertė Polesę visiems laikams lenkų valdomis.
-- susijęs iš Polesė: Teodoras Narbutas Polesę po jotvingių iškapojimo vaizduoja kaip plačias kapines ir nykią dykrą, nebekėlusią baimės kaimynams.
-- susijęs iš Pripetė: Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus.
-- susijęs iš Pripetė: Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.
-- susijęs iš Prūsija: Teodoras Narbutas laiko tikėtina nuomonę, kad Prūsija turėjo pirmykščių gyventojų, su kuriais susipažino kimbrai.
-- susijęs iš Prūsija: Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis.
-- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.
-- susijęs iš Sankt Peterburgas: 1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą.
-- susijęs iš Sankt Peterburgas: 1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge.
-- susijęs iš Toloma: Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme.
-- susijęs iš Uppeleela: Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių.
-- susijęs iš Uralas: Teodoras Narbutas Uralo kalnus ir turtingas rūdynas nurodė kaip tikėtiną šios plačiai pasklidusios tautos įtakos ribą.
-- susijęs iš Vakarų Europa: Teodoras Narbutas siejo Vakarų Europą su kimbrų persikėlimu netrukus po 650 metų prieš Kristų ir jų giminyste su senovės germanais.
-- susijęs iš Venedija: Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.
-- susijęs iš Vengrija: Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje.
-- susijęs iš Verona: Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai.
-- susijęs iš Vidurio Europa: Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę.
-- susijęs iš Švedija: Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192261|Warejs]]: Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
-- susijęs iš [[objektai/zodynas/kasta.md#claim-t-192264|kasta]]: Teodoras Narbutas rašo, kad iš šios kastos arba luomo buvo renkami vadai ir įsakinėtojai.
-- susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192137|paminklai]]: Teodoras Narbutas tautinius paminklus vaizduoja kaip su laisve ir namų taika susijusius tautos atminties ženklus.
-- susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192138|paminklai]]: Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius.
-- susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192139|paminklai]]: Teodoras Narbutas mitologinius paminklus apibūdina kaip versmę, iš kurios trykšta istorijos šaltiniai.
-- susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192567|paminklai]]: Teodoras Narbutas rašo, kad prarasti paminklai palaidojo neįkainojamą tautos istoriją.
-- susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192568|paminklai]]: Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192241|patricijus]]: Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192147|pecuarii ir nomadai]]: Teodoras Narbutas piemenis, pecuarii arba nomadus lokalizuoja už Pantikapo, Arklių Vandenų, į šiaurę.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-- susijęs iš [[objektai/zodynas/piliavietė.md#claim-t-192196|piliavietė]]: Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192277|pilkapis]]: Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192278|pilkapis]]: Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
-- susijęs iš [[objektai/zodynas/pyrgoniškas nepatiklumas.md#claim-t-192141|pyrgoniškas nepatiklumas]]: Teodoras Narbutas „pyrgonišką nepatiklumą“ sieja su laikysena visas kronikų sakmes vadinti pasakomis.
-- susijęs iš [[objektai/zodynas/pyrgoniškas nepatiklumas.md#claim-t-192570|pyrgoniškas nepatiklumas]]: Teodoras Narbutas pyrgonišką nepatiklumą priskiria autoriams, kurie kronikų sakmes vadino pasakomis ir abejojo ankstyvąja Lietuvos istorija.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192233|revoliucija]]: Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192235|revoliucija]]: Teodoras Narbutas nauja revoliucija vadina hunų į Europą atneštą padėties pasikeitimą.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192236|revoliucija]]: Teodoras Narbutas naują revoliuciją sieja su hunais, kurie, jo pasakojime, pakeitė tuometinę Europos situaciją.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/romėnų miliarijus.md#claim-t-192177|romėnų miliarijus]]: Teodoras Narbutas kelio ilgį pagal Plinijų nusako kaip 600 romėnų miliarijų.
-- susijęs iš [[objektai/zodynas/romėnų miliarijus.md#claim-t-192178|romėnų miliarijus]]: Teodoras Narbutas 600 romėnų miliarijų prilygina 120—125 vokiečių mylioms ir sieja su Ptolemėjo nurodytu nuotoliu.
-- susijęs iš [[objektai/zodynas/romėnų miliarijus.md#claim-t-192574|romėnų miliarijus]]: Teodoras Narbutas rašo, kad kelio ilgis sutampa su Plinijaus skaičiavimu — 600 romėnų miliarijų, arba 120—125 vokiečių mylių.
-- susijęs iš [[objektai/zodynas/senienos.md#claim-t-192134|senienos]]: Teodoras Narbutas senienas vadina vertingomis praeities liekanomis, kurių tūkstančiai pražuvo dėl užmaršties ir nepalankių aplinkybių.
-- susijęs iš [[objektai/zodynas/senienos.md#claim-t-192576|senienos]]: Teodoras Narbutas rašo, kad Siaurės pasaulyje pražuvo tūkstančiai vertingiausių senienų, todėl reikia gelbėti atminties ir stebėjimų žinias.
-- susijęs iš [[objektai/zodynas/senienos.md#claim-t-192577|senienos]]: Teodoras Narbutas priešistorinės senovės epochas apibūdina kaip apiplėštas įvairių senienų.
-- susijęs iš [[objektai/zodynas/upė.md#claim-t-192579|upė]]: Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192273|vitingas]]: Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192274|vitingas]]: Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192275|vitingas]]: Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms.
-- susijęs iš [[objektai/posakiai/Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti.md#claim-t-192107|Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti]]: Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.
-- susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.'
@@ -1361,7 +1096,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169848
@@ -1382,7 +1116,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-169849
   autorius: "Michał Baliński"
@@ -1407,7 +1141,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-169850
   autorius: "Anoniminis metraštininkas"
@@ -1426,7 +1160,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-169851
   autorius: "Anoniminis metraštininkas"
@@ -1444,7 +1178,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-004
 
 - id: c-169852
   autorius: "Michał Baliński"
@@ -1493,7 +1227,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
 
 - id: c-169854
   autorius: "Anoniminis metraštininkas"
@@ -1515,7 +1249,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-171511
   autorius: "Teodoras Narbutas"
@@ -1533,7 +1267,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-171512
   autorius: "Teodoras Narbutas"
@@ -1552,7 +1286,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
 
 - id: c-171513
   autorius: "Teodoras Narbutas"
@@ -1575,7 +1309,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-010
 
 - id: c-171514
   autorius: "Teodoras Narbutas"
@@ -1594,7 +1328,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-011
 
 - id: c-171515
   autorius: "Teodoras Narbutas"
@@ -1670,7 +1404,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-015
 
 - id: c-171521
   autorius: "Teodoras Narbutas"
@@ -1687,7 +1421,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-016
 
 - id: c-171522
   autorius: "Teodoras Narbutas"
@@ -1710,7 +1444,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-017
 
 - id: c-171523
   autorius: "Teodoras Narbutas"
@@ -1735,7 +1469,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-018
 
 - id: c-171524
   autorius: "Teodoras Narbutas"
@@ -1756,7 +1490,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-019
 
 - id: c-171525
   autorius: "Teodoras Narbutas"
@@ -1775,7 +1509,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-020
 
 - id: c-171526
   autorius: "Teodoras Narbutas"
@@ -1796,7 +1530,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-021
 
 - id: c-171527
   autorius: "Teodoras Narbutas"
@@ -1815,7 +1549,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-022
 
 - id: c-171529
   autorius: "Teodoras Narbutas"
@@ -1835,7 +1569,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-023
 
 - id: c-171530
   autorius: "Teodoras Narbutas"
@@ -1859,7 +1593,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-024
 
 - id: c-171531
   autorius: "Teodoras Narbutas"
@@ -1880,7 +1614,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
 
 - id: c-173867
   autorius: "Teodoras Narbutas"
@@ -1899,7 +1633,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-026
 
 - id: c-173868
   autorius: "Teodoras Narbutas"
@@ -1922,7 +1656,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
+    - t-041
 
 - id: c-173869
   autorius: "Teodoras Narbutas"
@@ -1945,7 +1679,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-027
 
 - id: c-173870
   autorius: "Teodoras Narbutas"
@@ -1968,7 +1702,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-028
 
 - id: c-173871
   autorius: "Teodoras Narbutas"
@@ -1986,7 +1720,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-029
 
 - id: c-179194
   autorius: "Teodoras Narbutas"
@@ -2007,7 +1741,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-030
 
 - id: c-179195
   autorius: "Teodoras Narbutas"
@@ -2030,7 +1764,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-031
 
 - id: c-179196
   autorius: "Teodoras Narbutas"
@@ -2053,8 +1787,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-036
+    - t-017
+    - t-032
 
 - id: c-179197
   autorius: "Teodoras Narbutas"
@@ -2076,7 +1810,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-033
 
 - id: c-179198
   autorius: "Teodoras Narbutas"
@@ -2098,7 +1832,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-034
 
 - id: c-179199
   autorius: "Teodoras Narbutas"
@@ -2121,8 +1855,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-039
+    - t-017
+    - t-035
 
 - id: c-179200
   autorius: "Teodoras Narbutas"
@@ -2145,7 +1879,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-036
 
 - id: c-179201
   autorius: "Teodoras Narbutas"
@@ -2167,7 +1901,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-037
 
 - id: c-179202
   autorius: "Teodoras Narbutas"
@@ -2185,7 +1919,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-038
 
 - id: c-179355
   autorius: "Teodoras Narbutas"
@@ -2205,8 +1939,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-043
+    - t-039
 
 - id: c-179356
   autorius: "Teodoras Narbutas"
@@ -2228,7 +1961,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-040
 
 - id: c-179357
   autorius: "Teodoras Narbutas"
@@ -2251,4 +1984,4 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-042

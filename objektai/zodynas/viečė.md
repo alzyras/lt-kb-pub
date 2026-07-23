@@ -109,11 +109,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170486
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
-- susijęs iš [[objektai/paprociai/Viečė kaip gyventojų susirinkimas svarbiausiems klausimams svarstyti.md#claim-t-199231|Viečė kaip gyventojų susirinkimas svarbiausiems klausimams svarstyti]]: 3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
-- susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.'
@@ -136,11 +132,10 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-168776

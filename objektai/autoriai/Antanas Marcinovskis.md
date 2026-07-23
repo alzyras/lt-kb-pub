@@ -9,16 +9,16 @@ datos:
   - '1855 m.'
 date_start: '1781'
 date_end: '1855'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 ## Teiginiai
 
 <a id="claim-t-187935"></a>
-- t-007
+- t-001
   teiginys: "1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -62,7 +62,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-170746
 
 <a id="claim-t-187936"></a>
-- t-008
+- t-002
   teiginys: "Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -81,7 +81,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-170926
 
 <a id="claim-t-187937"></a>
-- t-009
+- t-003
   teiginys: "Narbutas Marcinovskį įvardijo kaip „Kurjer Litewski“ redaktorių ir savo veikalų leidėją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -98,7 +98,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-170746
 
 <a id="claim-t-187938"></a>
-- t-010
+- t-004
   teiginys: "Leidinio pastaboje Antanas Marcinovskis vadinamas Vilniaus literatu, redaktoriumi, leidėju ir T. Narbuto LTI leidėju."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -116,7 +116,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-170925
 
 <a id="claim-t-187939"></a>
-- t-006
+- t-005
   teiginys: "Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors::validation_repair"
@@ -137,7 +137,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-170744
 
 <a id="claim-t-190627"></a>
-- t-011
+- t-006
   teiginys: "Įvado autorė, remdamasi A. Marcinovskio biografija ir aspiracijomis, svarstė, kad leidėjui rūpėjo ne vien pelnas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-173510
 
 <a id="claim-t-190690"></a>
-- t-012
+- t-007
   teiginys: "Antanas Marcinovskis buvo „Lietuvių tautos istorijos“ leidėjas, Vilniaus literatas, redaktorius ir spaustuvės savininkas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-173572
 
 <a id="claim-t-190691"></a>
-- t-013
+- t-008
   teiginys: "Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
     - c-173572
 
 <a id="claim-t-197580"></a>
-- t-014
+- t-009
   teiginys: "Antanas Marcinovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -193,19 +193,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179251
-- susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190019|Antanas Marcinovskis]]: Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.
-- susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190020|Antanas Marcinovskis]]: Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.
-- susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190021|Antanas Marcinovskis]]: Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.
-- susijęs iš [[objektai/autoriai/J. Ozemblovskis.md#claim-t-191647|J. Ozemblovskis]]: J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio.
-- susijęs iš [[objektai/ivykiai/T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas.md#claim-t-189629|T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas (sutartis)]]: T. Narbuto sutartis su A. Marcinovskiu dėl visos LTI leidimo buvo sudaryta praėjus porai metų po pirmo tomo išspausdinimo.
-- susijęs iš [[objektai/ivykiai/T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas.md#claim-t-192014|T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas (sutartis)]]: Sutartis su A. Marcinovskiu dėl viso LTI išleidimo buvo sudaryta praėjus porai metų po pirmo tomo išspausdinimo.
-- susijęs iš [[objektai/ivykiai/T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas.md#claim-t-192015|T. Narbuto ir A. Marcinovskio sutarties dėl LTI leidimo sudarymas (sutartis)]]: Antro tomo įvadinis straipsnis tą patį susitarimą taip pat sieja su galutiniu A. Marcinovskio apsisprendimu leisti visą LTI.
-- susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188045|Lietuvos masonų organizacijos]]: Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją.
-- susijęs iš [[objektai/paprociai/Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą.md#claim-t-189795|Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą]]: Nuo 1837 metų A. Marcinovskis rūpinosi T. Narbuto „Lietuvių tautos istorijos“ leidyba, prenumerata ir reklama.
-- susijęs iš [[objektai/paprociai/Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą.md#claim-t-189796|Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą]]: Narbutui artimas literatas A. Marcinovskis suprato „Lietuvių tautos istorijos“ reikšmę ir reklamos tekste veikė ne vien kaip prekiautojas.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje.'
@@ -241,7 +229,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170744
@@ -263,7 +250,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-170745
   autorius: "Teodoras Narbutas"
@@ -306,8 +293,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-009
+    - t-001
+    - t-003
 
 - id: c-170925
   autorius: "Teodoras Narbutas"
@@ -330,8 +317,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
+    - t-002
+    - t-004
 
 - id: c-170926
   autorius: "Teodoras Narbutas"
@@ -351,7 +338,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-173510
   autorius: "Teodoras Narbutas"
@@ -373,7 +360,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-173572
   autorius: "Teodoras Narbutas"
@@ -396,8 +383,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-013
+    - t-007
+    - t-008
 
 - id: c-173573
   autorius: "Teodoras Narbutas"
@@ -439,4 +426,4 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-009

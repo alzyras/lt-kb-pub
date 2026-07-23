@@ -91,7 +91,7 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168169
-- susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti.'
@@ -123,7 +123,6 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-61027

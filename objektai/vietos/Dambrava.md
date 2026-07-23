@@ -47,13 +47,7 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   semantiniai_rysiai: "Dambrava priklausė Vilniaus katedra (0.88)"
   pagrindžia:
     - c-82153
-- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
-- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
-- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40453|T. Dambrava]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
-- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40454|T. Dambrava]]: Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.
-- susijęs iš Labanoras: Jogaila iškilmingu aktu dovanojo Vilniaus vyskupui Labanoro, Molėtų, Dambravos ir Verkių kaimus prie Vilniaus.
-- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
+
 ## Citatos
 
 - id: c-82153

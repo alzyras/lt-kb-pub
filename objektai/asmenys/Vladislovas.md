@@ -9,15 +9,15 @@ datos:
   - '1135 m.'
 date_start: '1135'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -106,76 +106,44 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184397
-- susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas).md#claim-t-87884|Vladislovas (karalius, Stepono pirmtakas)]]: Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184861|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.
-- susijęs iš [[objektai/asmenys/Vladislovas iš Opolijos.md#claim-t-35323|Vladislovas iš Opolijos]]: Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.
-- susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93547|Vladislovas iš Opolės]]: Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.
-- susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93548|Vladislovas iš Opolės]]: Vladislovas iš Opolės pasiūlė Vengrijos karaliui ir keliems kunigaikščiams pasidalyti Lenkijos žemes.
-- susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93549|Vladislovas iš Opolės]]: Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184527|Lenkai]]: Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.
-- susijęs iš Maskvos bajorų raštas dėl Vladislovo išrinkimo caru (1610 m.): 1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.
-- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200504|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200505|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
-- susijęs iš [[objektai/asmenys/Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.).md#claim-t-200479|Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelio vėliavininku išrinktas Povilas Vladislovas Košycas.
-- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
-- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184749|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.
-- susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82988|Zigmantas Vaza]]: 1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184528|Lenkai]]: Pasak Lietuvos istorikų, Kazimieras negavęs lenkų pritarimo slaptai iškeliavo iš Sandomiro į Brestą.
-- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185588|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09883|Smolensko apgultis (1632–1634 m.)]]: 1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.
-- susijęs iš Dobrynė: Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės.
-- susijęs iš Drohičinas: Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.
-- susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
-- susijęs iš Vilniaus katedra: Jogaila Vladislovas buvo Vilniaus katedros fundatorius.
-- susijęs iš Vilnius: Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200462|Adomas Chmara (Minsko vaivada, 1720–1805)]]: 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus.
-- susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200463|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
-- susijęs iš [[objektai/asmenys/Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.).md#claim-t-200480|Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius buvo išrinktas žemės teisėju.
-- susijęs iš [[objektai/asmenys/Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.).md#claim-t-200482|Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Piotrovskis ėjo žemės raštininko pareigas.
-- susijęs iš [[objektai/asmenys/Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.).md#claim-t-200481|Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.)]]: Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.
-- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200534|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis tikėjosi per seimelį pasiderėti su Vilniaus vaivada Mykolu Kazimieru Radvila Žuvele dėl brolio interesų.
-- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200651|Smolensko pavieto seimelis]]: 1749 m. įvyko Smolensko pavieto seimelis.
-- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
-- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200620|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200631|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200632|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200667|seimelis]]: 1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas.
-- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.'
+- c-002
+  santrauka: 'Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Mat Lenkija, kuri visaip
-    iki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su
-    ordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,
-    kryžiuočiai ir padarė karą neišvengiamą. Vladislovui į
-    pagalbą nuskubėjo pats Gediminas, atskiriems kariuo­
-    menės daliniams vadovauti
-    patikėjęs sūnums. Nunioko­
-    jęs Kulmo kraštą, nuvijęs
-    kryžiuočius ligi Drevantos,
-    apiplėšęs ir išdeginęs bemaž
-    visą* Prūsiją ir kelis kartus į
-    Lietuvą išsivaręs didžiulį gro­
-    bį, Gediminas ilgainiui ant savo pečių užsikrovė visą
-    karo naštą.
+    Lenkai ėmė naujas
+    2 J 2
+
+    viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
+    pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
+    šas buvo kalaviju nusiaubęs, arba patys palikę ne­
+    gyvenamas dėl nuolatinių antpuolių, Gediminas padėjo
+    vėliau Vladislovui kariauti
+    su Voldemaru, Brandenburgo
+    markgrafu. Šiuo žygiu buvo
+    nusiaubti
+    didžiuliai
+    priešo
+    valdų plotai, ypač dėl to, kad
+    lietuviai nelyginant laukiniai
+    stabmeldžiai niokojo šventas ir nešventas vietas, nie­
+    ko nepaisydami ir nerodydami jokios pagarbos tikėji­
+    mui. Dėl vieno bajoro nepaprastos drąsos žuvo pulko
+    vadas Dovydas, garsus sve-
+    L ietu vio v a d o D o v y -
+    timuose kraštuose karo žy­
+    do š lo v ė ir m irtis
+    giais, o tėvynėje aukščiau­
+    siomis pareigybėmis ir gimi­
+    nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
+    tada, kai, grįždamas su kariuomene namo, siaubė Ma-
+    zoviją.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-44570
@@ -310,4 +278,3 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 
 ## Ryšiai
 - Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vladislovas mirė [[objektai/vietos/Bulgarija]]

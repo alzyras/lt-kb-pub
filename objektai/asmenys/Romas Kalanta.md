@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-46284"></a>
-- t-005
+- t-001
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ media_all_json: |-
     - c-21954
 
 <a id="claim-t-46287"></a>
-- t-001
+- t-003
   teiginys: "Sovietiniai saugumiečiai Romą Kalantą slapta palaidojo anksčiau paskelbto laiko."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-21956
 
 <a id="claim-t-183564"></a>
-- t-006
+- t-005
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu, sušuko „Laisvę Lietuvai!“, pasidegė ir mirė ligoninėje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ media_all_json: |-
     - c-166957
 
 <a id="claim-t-183565"></a>
-- t-007
+- t-006
   teiginys: "Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -122,11 +122,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166958
-- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
-- susijęs iš [[objektai/posakiai/„Laisvę Lietuvai!“.md#claim-t-77837|„Laisvę Lietuvai!“]]: 1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.
-- susijęs iš Kaunas: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
-- susijęs iš Kaunas: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
-- susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
+
 ## Citatos
 
 - id: c-21954
@@ -167,7 +163,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-21956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -207,7 +203,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-166957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -225,7 +221,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-166958
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -242,5 +238,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-007
+    - t-003
+    - t-006

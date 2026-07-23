@@ -71,7 +71,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-183739
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186810|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.
+
 ## Citatos
 
 - id: c-183739

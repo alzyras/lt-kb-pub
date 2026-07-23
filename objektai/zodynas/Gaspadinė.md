@@ -51,6 +51,3 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.

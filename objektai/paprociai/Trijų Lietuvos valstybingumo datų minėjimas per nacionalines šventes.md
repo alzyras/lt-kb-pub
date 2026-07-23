@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78722"></a>
-- t-004
+- t-001
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-12431
 
 <a id="claim-t-78723"></a>
-- t-006
+- t-002
   teiginys: "Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-43178
 
 <a id="claim-t-78725"></a>
-- t-008
+- t-003
   teiginys: "Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Nenurodyta
     - c-43178
 
 <a id="claim-t-78726"></a>
-- t-005
+- t-004
   teiginys: "Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -162,8 +162,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-005
 
 - id: c-43178
   sudarytojas: "Karolis Zikaras"
@@ -188,5 +188,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-008
+    - t-002
+    - t-003

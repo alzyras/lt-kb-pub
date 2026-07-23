@@ -50,7 +50,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 ## Teiginiai
 
 <a id="claim-t-195543"></a>
-- t-002
+- t-001
   teiginys: "Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -60,7 +60,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     - c-177959
 
 <a id="claim-t-195544"></a>
-- t-001
+- t-002
   teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -78,9 +78,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177960
-- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195546|Jokūbas (samdytojas, XIX a.)]]: Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą.
-- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195547|Jokūbas (samdytojas, XIX a.)]]: Jokūbas derėjosi su Grigoru dėl algos ir pasirūpino duoti du auksinus rankpinigių.
-- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195548|Jokūbas (samdytojas, XIX a.)]]: Po nesėkmingos baigties Jokūbui teko ieškoti kito berno.
+
 ## Citatos
 
 - id: c-177959
@@ -97,7 +95,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177960
   autorius: "M. Katkus"
@@ -129,4 +127,4 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

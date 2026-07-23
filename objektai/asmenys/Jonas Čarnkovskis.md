@@ -30,7 +30,7 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
 ## Teiginiai
 
 <a id="claim-t-196500"></a>
-- t-002
+- t-001
   teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -40,8 +40,7 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169579
-- susijęs iš [[objektai/asmenys/Cigala iš Vienos.md#claim-t-186191|Cigala iš Vienos]]: Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
-- susijęs iš [[objektai/asmenys/Zigmantas Rotas.md#claim-t-186270|Zigmantas Rotas]]: Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.
+
 ## Citatos
 
 - id: c-169579
@@ -68,4 +67,4 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

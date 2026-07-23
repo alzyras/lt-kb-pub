@@ -44,9 +44,7 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167451
-- susijęs iš [[objektai/ivykiai/Notangos pakraščio nuniokojimas ir Gadiko žūtis.md#claim-t-183950|Notangos pakraščio nuniokojimas ir Gadiko žūtis]]: Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis.
-- susijęs iš [[objektai/ivykiai/Notangos pakraščio nuniokojimas ir Gadiko žūtis.md#claim-t-62418|Notangos pakraščio nuniokojimas ir Gadiko žūtis]]: Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis.
-- susijęs iš Notanga: Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.
+
 ## Citatos
 
 - id: c-167451

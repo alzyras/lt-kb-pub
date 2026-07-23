@@ -39,7 +39,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 ## Teiginiai
 
 <a id="claim-t-70422"></a>
-- t-004
+- t-001
   teiginys: "Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
     - c-09774
 
 <a id="claim-t-70423"></a>
-- t-003
+- t-002
   teiginys: "`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -70,8 +70,8 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002
 
 - id: c-09775
   autorius: "Simonas Daukantas"
@@ -86,6 +86,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   citata_rodoma: "Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

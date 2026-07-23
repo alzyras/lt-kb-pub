@@ -111,9 +111,7 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175713
-- susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
-- susijęs iš [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją.md#claim-t-191052|Roksolanų įsiveržimas į Meziją]]: Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.
+
 ## Citatos
 
 - id: c-175710

@@ -45,7 +45,7 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   semantiniai_rysiai: "Kinsgaila valdė Ukmergė (0.64)"
   pagrindžia:
     - c-32771
-- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
+
 ## Citatos
 
 - id: c-32771

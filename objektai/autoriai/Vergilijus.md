@@ -99,6 +99,7 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   citata_rodoma: "371\n\n## Puslapis 371\n\nkad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad\nEnėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-\ntas sako apie persus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

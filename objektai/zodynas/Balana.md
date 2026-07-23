@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Balana
 sukurta: '2026-07-12'
 variantai:
-  - 'skala'
-  - 'balana (skala)'
+  - skala
+  - balana (skala)
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -73,6 +73,7 @@ Terminas vartojamas kaip vienas senosios kaimo buities ženklų.
   citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją, \nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, \nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, \ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

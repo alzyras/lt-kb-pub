@@ -41,7 +41,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 ## Teiginiai
 
 <a id="claim-t-58634"></a>
-- t-002
+- t-001
   teiginys: "Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - c-59266
 
 <a id="claim-t-58635"></a>
-- t-001
+- t-002
   teiginys: "Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59267
   autorius: "Petras Dusburgietis"
@@ -147,7 +147,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-171722
   autorius: "Teodoras Narbutas"

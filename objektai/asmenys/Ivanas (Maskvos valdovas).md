@@ -50,7 +50,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169305
 
 <a id="claim-t-185947"></a>
-- t-004
+- t-002
   teiginys: "Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169308
 
 <a id="claim-t-185948"></a>
-- t-005
+- t-003
   teiginys: "Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169309
 
 <a id="claim-t-193391"></a>
-- t-006
+- t-004
   teiginys: "Ivano maskvėnų atstovus Lietuvoje sutiko Mikalojus Kiška, o derybas vedė Mikalojus Radvila ir kiti Lietuvos pareigūnai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169309
 
 <a id="claim-t-196477"></a>
-- t-007
+- t-005
   teiginys: "Ivano maskvėnų raiteliai neatlaikė antpuolio ir mūšiui prasidėjus pasitraukė iš atviro lauko į stovyklą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169305
@@ -196,7 +195,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-169308
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -218,7 +217,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-169309
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -253,8 +252,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-003
+    - t-004
 
 - id: c-176115
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -280,6 +279,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   citata_rodoma: "Sutiko ir priėmė\nmaskvėnus pataurininkis Mikalojus Kiška, stalininkas\nMikalojus Dorogostaiskis, maršalai Jonas Valavičius ir\nJonas Vilčekas, rūmininkai Jonas Trizna, Skuminas To-\nčinskis ir Mikalojus Konča, o vedė derybas tokie orūs\nvyrai, kaip Vilniaus vaivada Mikalojus Radvila, Trakų\nkaštelionas Jurgis Chodkevičius, Bresto vaivada Jurgis\nTiškevičius, maršalai Eustachijus Valavičius ir Jonas\nSimkovičius, iždininkas Mikalojus Naruševičius, Lietu­\nvos raštininkas Mykolas Garaburda. Kai prieita prie\npagrindinio derybų klausimo, maskvėnai atkakliausiai\npareikalavo amžinam Maskvos valdymui perduoti tai,\nką didysis kunigaikštis esąs užėmęs. Karalius turįs vi­\nsiškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,\nJezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį\nsu visais palydovais."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

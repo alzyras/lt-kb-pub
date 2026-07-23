@@ -130,6 +130,7 @@ Nenurodyta
   citata_rodoma: "Daugiau smulkmenų apie\nšią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į\nRomą. Pasaulio sostinę didžiai nustebino neregėta pra­\nbanga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­\njų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio\nmetu naudoti reikmenys spindėjo gintaru. Tarp daugelio\nretų egzempliorių matytas vienas gintaro gabalas, svėręs\n13 romėniškų svarų, arba apie pusę dešimties mūsų sva­\nrų2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08322"></a>
-- t-002
+- t-001
   teiginys: "Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -65,9 +65,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56404
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 
@@ -106,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

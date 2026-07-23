@@ -57,7 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai atitinka citatoje pateiktą publikacijos įrašą."
   pagrindžia:
     - c-33102
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
+
 ## Citatos
 
 - id: c-33102

@@ -37,7 +37,7 @@ Katche.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41251
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41237|Antrasis Panevėžio puolimas]]: 1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu.
+
 ## Citatos
 
 - id: c-41251

@@ -26,7 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš Kimerija: Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.

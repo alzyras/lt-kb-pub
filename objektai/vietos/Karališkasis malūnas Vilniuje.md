@@ -60,7 +60,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 ## Teiginiai
 
 <a id="claim-t-55248"></a>
-- t-002
+- t-001
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-177469
 
 <a id="claim-t-55249"></a>
-- t-003
+- t-002
   teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-177469
 
 <a id="claim-t-195086"></a>
-- t-004
+- t-003
   teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     - c-55849
 
 <a id="claim-t-195087"></a>
-- t-001
+- t-004
   teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,13 +110,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55849
-- susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
-- susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
-- susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
-- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
-- susijęs iš [[objektai/zodynas/neofitai.md#claim-t-113658|neofitai]]: 1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.
+
 ## Citatos
 
 - id: c-55849
@@ -135,8 +129,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-001
 
 - id: c-177469
   autorius: "Michał Baliński"
@@ -166,5 +160,5 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

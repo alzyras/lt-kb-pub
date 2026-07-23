@@ -30,7 +30,7 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
 ## Teiginiai
 
 <a id="claim-t-187278"></a>
-- t-002
+- t-001
   teiginys: "Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -46,7 +46,7 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170325
-- susijęs iš Šventasis Kryžius: Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -65,7 +65,6 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170325
@@ -83,4 +82,4 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

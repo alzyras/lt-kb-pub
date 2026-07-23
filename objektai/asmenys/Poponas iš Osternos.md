@@ -8,16 +8,16 @@ datos:
   - '1244 m.'
 date_start: '1241'
 date_end: '1244'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - karys
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-60580
 
 <a id="claim-t-59945"></a>
-- t-005
+- t-002
   teiginys: "Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-167505
 
 <a id="claim-t-59946"></a>
-- t-002
+- t-003
   teiginys: "1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-167505
 
 <a id="claim-t-59947"></a>
-- t-003
+- t-004
   teiginys: "Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-60579
 
 <a id="claim-t-59948"></a>
-- t-004
+- t-005
   teiginys: "Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-167505
 
 <a id="claim-t-194515"></a>
-- t-008
+- t-006
   teiginys: "Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - c-60579
 
 <a id="claim-t-197149"></a>
-- t-009
+- t-007
   teiginys: "Poponas iš Osternos atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su manimi gyventi taikiai“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179038
-- susijęs iš [[objektai/ivykiai/Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru.md#claim-t-62442|Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru]]: Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.'
@@ -150,10 +150,10 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
     galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -167,10 +167,10 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
     (PKD, p. 44).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -185,11 +185,10 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
     sužalojo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60576
@@ -230,7 +229,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-60578
   autorius: "Petras Dusburgietis"
@@ -275,8 +274,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-008
+    - t-004
+    - t-006
 
 - id: c-60580
   autorius: "Petras Dusburgietis"
@@ -323,9 +322,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-002
-    - t-004
+    - t-003
+    - t-005
 
 - id: c-179038
   autorius: "Petras Dusburgietis"
@@ -347,7 +346,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 ## Ryšiai
 - Poponas iš Osternos keliavo į [[objektai/vietos/Vokietija]]

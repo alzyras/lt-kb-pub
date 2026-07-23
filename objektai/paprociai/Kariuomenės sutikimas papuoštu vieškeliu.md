@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71806"></a>
-- t-008
+- t-001
   teiginys: "Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-12392
 
 <a id="claim-t-71807"></a>
-- t-006
+- t-002
   teiginys: "Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-43162
 
 <a id="claim-t-71808"></a>
-- t-005
+- t-003
   teiginys: "Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-12391
 
 <a id="claim-t-71810"></a>
-- t-007
+- t-005
   teiginys: "Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,8 +170,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-005
+    - t-001
+    - t-003
 
 - id: c-43162
   sudarytojas: "Karolis Zikaras"
@@ -188,7 +188,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-43163
   sudarytojas: "Karolis Zikaras"
@@ -205,4 +205,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

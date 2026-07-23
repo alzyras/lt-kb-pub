@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54238"></a>
-- t-002
+- t-001
   teiginys: "Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-55141
 
 <a id="claim-t-54239"></a>
-- t-001
+- t-002
   teiginys: "Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -101,5 +101,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

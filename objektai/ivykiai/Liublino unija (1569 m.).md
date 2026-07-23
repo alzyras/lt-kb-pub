@@ -13,9 +13,6 @@ datos:
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
-amziai:
-  - 'XIV'
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,6 +20,9 @@ tags:
   - ivykis
   - valdovas
   - seimas
+amziai:
+  - 'XIV'
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169842"></a>
-- t-007
+- t-001
   teiginys: "1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-154533
 
 <a id="claim-t-169843"></a>
-- t-006
+- t-002
   teiginys: "Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Nenurodyta
     - c-154534
 
 <a id="claim-t-169844"></a>
-- t-012
+- t-003
   teiginys: "Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169846"></a>
-- t-003
+- t-005
   teiginys: "Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Nenurodyta
     - c-154532
 
 <a id="claim-t-169847"></a>
-- t-005
+- t-006
   teiginys: "Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
     - c-154525
 
 <a id="claim-t-169848"></a>
-- t-011
+- t-007
   teiginys: "Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169851"></a>
-- t-001
+- t-010
   teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -232,7 +232,7 @@ Nenurodyta
     - c-166648
 
 <a id="claim-t-184599"></a>
-- t-015
+- t-011
   teiginys: "Cituojamoje istoriografinėje interpretacijoje unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -256,7 +256,7 @@ Nenurodyta
     - c-167960
 
 <a id="claim-t-188373"></a>
-- t-014
+- t-012
   teiginys: "Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ Nenurodyta
     - c-171267
 
 <a id="claim-t-196215"></a>
-- t-016
+- t-013
   teiginys: "Cituojamoje interpretacijoje Lietuvos Statuto, valstybės praeities ir valdovų aukštinimas laikytas kliūtimi Liublino unijai įgyvendinti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -290,17 +290,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167959
-- susijęs iš [[objektai/grupes/Abiejų tautų seimas.md#claim-t-189511|Abiejų tautų seimas (seimas, XVI a.)]]: Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga.
-- susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-183516|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-67328|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš Liublino unijos aktas (1569 m.): 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
-- susijęs iš Liublino unijos aktas (1569 m.): 1569 m. sudaryta Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183542|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80771|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80778|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80779|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178841|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.'
@@ -321,7 +311,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-154525
@@ -344,8 +333,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-011
+    - t-006
+    - t-007
 
 - id: c-154526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -397,7 +386,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-003
 
 - id: c-154529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -436,7 +425,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
     - t-008
 
 - id: c-154533
@@ -460,7 +449,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-154534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -482,7 +471,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-166648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -501,7 +490,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-167959
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -529,7 +518,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-013
 
 - id: c-167960
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -557,7 +546,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-011
 
 - id: c-171267
   autorius: "Teodoras Narbutas"
@@ -576,4 +565,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012

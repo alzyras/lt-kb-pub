@@ -53,7 +53,7 @@ GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps.
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, aiškus ir pagrįstas pateikta citata."
   pagrindžia:
     - c-40274
-- susijęs iš Želva: 1946 m. sausio 22 d. Želvos valsčiaus Gursčių kaimo apylinkėse Plieno būrio partizanai kovėsi su NKVD kariuomene.
+
 ## Citatos
 
 - id: c-40274

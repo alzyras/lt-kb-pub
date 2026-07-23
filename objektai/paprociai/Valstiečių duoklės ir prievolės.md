@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05370"></a>
-- t-005
+- t-001
   teiginys: "Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-05435
 
 <a id="claim-t-97142"></a>
-- t-008
+- t-002
   teiginys: "Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-91655
 
 <a id="claim-t-97143"></a>
-- t-007
+- t-003
   teiginys: "XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-91653
   redaktorius: "A. Šapoka"
@@ -142,7 +142,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-91655
   redaktorius: "A. Šapoka"
@@ -166,4 +166,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002

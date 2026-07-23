@@ -46,6 +46,7 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
   citata_rodoma: "kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

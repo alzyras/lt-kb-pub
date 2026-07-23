@@ -38,7 +38,7 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
 ## Teiginiai
 
 <a id="claim-t-197410"></a>
-- t-002
+- t-001
   teiginys: "Jurgis Plioteris buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -48,10 +48,7 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173050
-- susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190045|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų.
-- susijęs iš [[objektai/asmenys/Juozapas Januškevičius.md#claim-t-190164|Juozapas Januškevičius]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
-- susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-188475|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.
-- susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189652|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono Juozapo Januškevičiaus sode rasto lobio istorija buvo žinoma vietos gyventojams.
+
 ## Citatos
 
 - id: c-173050
@@ -77,4 +74,4 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

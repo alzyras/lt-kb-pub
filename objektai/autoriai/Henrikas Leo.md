@@ -48,8 +48,7 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173249
-- susijęs iš Henrikas Leo, Die Malbergische Glosse: Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškais vadintus žodžius aiškino kaip keltų kalbos liekanas.
-- susijęs iš [[objektai/posakiai/Motininės kalbos yra rodyklė į seniausią tautų istoriją.md#claim-t-189597|Motininės kalbos yra rodyklė į seniausią tautų istoriją]]: Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją.
+
 ## Citatos
 
 - id: c-173249

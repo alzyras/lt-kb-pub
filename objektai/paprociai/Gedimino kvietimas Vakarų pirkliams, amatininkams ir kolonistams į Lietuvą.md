@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113464"></a>
-- t-004
+- t-001
   teiginys: "Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-104696
 
 <a id="claim-t-113465"></a>
-- t-007
+- t-002
   teiginys: "Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-104695
 
 <a id="claim-t-113466"></a>
-- t-002
+- t-003
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-104699
 
 <a id="claim-t-113469"></a>
-- t-006
+- t-004
   teiginys: "1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-104696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -183,8 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-006
 
 - id: c-104698
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -219,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

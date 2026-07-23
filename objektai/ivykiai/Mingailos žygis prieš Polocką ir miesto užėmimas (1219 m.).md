@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196226"></a>
-- t-002
+- t-001
   teiginys: "Polockiečiams pasiekus Gorodecą, Mingaila juos užpuolė, privertė bėgti iš kovos lauko ir stovyklos, o paskui patraukė prie Polocko sienų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-178587
 
 <a id="claim-t-196227"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičiaus pasakojime Mingaila tais pačiais metais po pergalės mirė, palikęs įpėdiniais Skirmantą ir Ginvilą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178588
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -121,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

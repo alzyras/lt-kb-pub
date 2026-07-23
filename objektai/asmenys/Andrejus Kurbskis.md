@@ -30,7 +30,7 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
 ## Teiginiai
 
 <a id="claim-t-186031"></a>
-- t-002
+- t-001
   teiginys: "Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169392
-- susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185947|Ivanas (Maskvos valdovas)]]: Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.'
@@ -74,7 +74,6 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169392
@@ -110,4 +109,4 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

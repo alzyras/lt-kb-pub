@@ -79,17 +79,7 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48013
-- susijęs iš [[objektai/asmenys/Polencas.md#claim-t-190201|Polencas]]: Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m.
-- susijęs iš [[objektai/asmenys/Valerijonas Suškovskis Protasevičius.md#claim-t-186263|Valerijonas Suškovskis Protasevičius (vyskupas)]]: Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190571|Lietuviai]]: Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74886|Oberostas]]: Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.
-- susijęs iš [[objektai/ivykiai/Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas.md#claim-t-185760|Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas]]: Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.
-- susijęs iš [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas.md#claim-t-77951|LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]: LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.
-- susijęs iš Dabartis: Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis.
-- susijęs iš Oberostas: Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.
-- susijęs iš [[objektai/zodynas/atskala.md#claim-t-185348|atskala]]: Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.
+
 ## Citatos
 
 - id: c-22661

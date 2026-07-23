@@ -45,7 +45,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   semantiniai_rysiai: "Popiežius Celestinas III paskyrė Teutonai (0.74)"
   pagrindžia:
     - c-59544
-- susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.
+
 ## Citatos
 
 - id: c-59544

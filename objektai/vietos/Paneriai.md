@@ -42,9 +42,9 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 ## Teiginiai
 
 <a id="claim-t-84407"></a>
-- t-011
+- t-001
   teiginys: "Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -59,9 +59,9 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184016
 
 <a id="claim-t-84408"></a>
-- t-003
+- t-002
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +79,9 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184016
 
 <a id="claim-t-84409"></a>
-- t-005
+- t-003
   teiginys: "Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,7 +96,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-80576
 
 <a id="claim-t-84410"></a>
-- t-010
+- t-004
   teiginys: "Balińskis Panerių pavadinimą siejo su įspūdžiu, kad tarp aukštų kalnų tekanti Neris atrodo tarsi panirusi."
   atnaujinta: "2026-07-14 08:50"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-80579
 
 <a id="claim-t-84411"></a>
-- t-002
+- t-005
   teiginys: "Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi."
   atnaujinta: "2026-07-14 08:50"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184014
 
 <a id="claim-t-84412"></a>
-- t-007
+- t-006
   teiginys: "Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-80580
 
 <a id="claim-t-84413"></a>
-- t-004
+- t-007
   teiginys: "Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-80580
 
 <a id="claim-t-84414"></a>
-- t-012
+- t-008
   teiginys: "Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-80580
 
 <a id="claim-t-84415"></a>
-- t-006
+- t-009
   teiginys: "Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -195,7 +195,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184017
 
 <a id="claim-t-84416"></a>
-- t-001
+- t-010
   teiginys: "Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus."
   atnaujinta: "2026-07-14 08:50"
   sprendimo_priezastis: "auto"
@@ -211,9 +211,9 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-24362
 
 <a id="claim-t-84417"></a>
-- t-009
+- t-011
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -231,7 +231,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184016
 
 <a id="claim-t-200637"></a>
-- t-013
+- t-012
   teiginys: "Paneriai buvo viena dažniausiai minimų Jono Dominyko Lopacinskio laiškų sukūrimo ir išsiuntimo vietų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::places"
@@ -248,7 +248,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - c-184015
 
 <a id="claim-t-201098"></a>
-- t-014
+- t-013
   teiginys: "Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir skitų kalba, už tų budinu juo dar į šiaurę, beje, apy gardose Vilniaus, neiriai; regis, upė Neris ir kalnai to krašto Paneriai nuo tų gyventojų yra praminti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -258,55 +258,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184448
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-190905|Kernius]]: Teodoro Narbuto aiškinimu, kunigaikščio Kerniaus valdymo metais Panerių genčių dūdų pūtimas prie Neries tapo dingstimi kraštą vadinti Litvania.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173244|Vladislovas Jogaila]]: 1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.
-- susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
-- susijęs iš [[objektai/grupes/2-asis pėstininkų pulkas.md#claim-t-38927|2-asis pėstininkų pulkas]]: 2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
-- susijęs iš [[objektai/grupes/Trakų sukilėlių daliniai.md#claim-t-39006|Trakų sukilėlių daliniai]]: Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176077|Vilniaus kapitula]]: Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86882|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200556|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
-- susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. Vladislovo Jogailos privilegija dėl Panerių buvo patvirtinta 1518 m. didžiajame Brastos konvente.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
-- susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
-- susijęs iš Verkiai: Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.
-- susijęs iš Vilijos upė: Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.
-- susijęs iš Vokė: Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.
-- susijęs iš [[objektai/zodynas/plaustai.md#claim-t-86608|plaustai]]: Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.
-- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
-- susijęs iš [[objektai/daiktai/Mažasis staliukas Panerių priėmime.md#claim-t-200668|Mažasis staliukas Panerių priėmime]]: 1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
-- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200604|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: 1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200556|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
-- susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39466|A. Chlapovskis]]: Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
-- susijęs iš [[objektai/asmenys/E. Doterivas.md#claim-t-39722|E. Doterivas]]: Pulkininkas E. Doterivas ir generolas D. Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
-- susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
-- susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/daiktai/Mažasis staliukas Panerių priėmime.md#claim-t-200668|Mažasis staliukas Panerių priėmime]]: 1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
-- susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172069|Anglai]]: Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.
-- susijęs iš [[objektai/grupes/Kališo raitelių dalinys.md#claim-t-38961|Kališo raitelių dalinys]]: Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.
-- susijęs iš [[objektai/grupes/Poznanės raitininkų eskadronai.md#claim-t-38997|Poznanės raitininkų eskadronai]]: Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176084|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176095|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausti perkėlimai plaustais per Viliją.
-- susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
-- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200604|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: 1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo.
-- susijęs iš [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“.md#claim-t-87269|Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]: Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.
-- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
-- susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
-- susijęs iš Kernavė: Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.
-- susijęs iš Nemenčinė: Nuo Nemenčinės dvaro iki Kernavės miestelio buvo draudžiama per Viliją statyti mažus tiltelius, vadinamus jazais.
-- susijęs iš Stavanija: Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo.
-- susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
-- susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
-- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
+
 ## Citatos
 
 - id: c-24362
@@ -333,7 +285,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-43722
   sudarytojas: "Karolis Zikaras"
@@ -354,7 +306,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-80576
   autorius: "Michał Baliński"
@@ -384,10 +336,10 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
+    - t-002
     - t-003
-    - t-005
-    - t-009
+    - t-011
 
 - id: c-80579
   autorius: "Michał Baliński"
@@ -413,8 +365,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-004
+    - t-007
 
 - id: c-80580
   autorius: "Michał Baliński"
@@ -445,10 +397,10 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-004
-    - t-012
     - t-006
+    - t-007
+    - t-008
+    - t-009
 
 - id: c-184014
   sudarytojas: "Karolis Zikaras"
@@ -472,7 +424,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-184015
   autorius: "Domininkas Burba"
@@ -483,7 +435,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   statusas: verified
   atnaujinta: "2026-07-14 08:49"
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-184016
   autorius: "Michał Baliński"
@@ -506,10 +458,10 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
+    - t-002
     - t-003
-    - t-005
-    - t-009
+    - t-011
 
 - id: c-184017
   autorius: "Michał Baliński"
@@ -532,7 +484,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-009
 
 - id: c-184448
   autorius: "Simonas Daukantas"
@@ -556,4 +508,4 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013

@@ -39,7 +39,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Teiginiai
 
 <a id="claim-t-74186"></a>
-- t-004
+- t-001
   teiginys: "Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - c-72232
 
 <a id="claim-t-74187"></a>
-- t-005
+- t-002
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - c-166300
 
 <a id="claim-t-182897"></a>
-- t-001
+- t-004
   teiginys: "Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -113,14 +113,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166301
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
-- susijęs iš [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.).md#claim-t-78620|Ketverių metų seimas (1788–1792 m.)]]: Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.
-- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77886|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169566|Bajorai]]: Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75099|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75101|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.
-- susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
+
 ## Citatos
 
 - id: c-72232
@@ -141,7 +134,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-72233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -164,7 +157,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-166300
   redaktorius: "A. Šapoka"
@@ -211,4 +204,4 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004

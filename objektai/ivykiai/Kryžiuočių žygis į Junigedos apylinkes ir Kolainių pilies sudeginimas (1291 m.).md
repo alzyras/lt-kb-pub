@@ -7,14 +7,14 @@ datos:
   - '1291 m.'
 date_start: '1291'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - paliaubos
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

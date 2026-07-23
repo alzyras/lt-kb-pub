@@ -7,15 +7,15 @@ datos:
   - '2013 m.'
 date_start: '2013'
 date_end: ''
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
 ## Teiginiai
 
 <a id="claim-t-200693"></a>
-- t-002
+- t-001
   teiginys: "Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavyzdinio gyvenimo bei pagirtinos veiklos atminimą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "auto"
@@ -72,4 +72,4 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   pagrindzia:
-    - t-002
+    - t-001

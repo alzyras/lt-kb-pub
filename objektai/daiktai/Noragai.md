@@ -59,10 +59,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10265
-- susijęs iš [[objektai/autoriai/Guagnini.md#claim-t-30624|Guagnini]]: Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.
-- susijęs iš [[objektai/daiktai/Medžio noragai geležiniai noragai.md#claim-t-92024|Medžio noragai geležiniai noragai]]: Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

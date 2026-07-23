@@ -58,7 +58,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 ## Teiginiai
 
 <a id="claim-t-176226"></a>
-- t-004
+- t-001
   teiginys: "Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
@@ -75,7 +75,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     - c-14483
 
 <a id="claim-t-176227"></a>
-- t-005
+- t-002
   teiginys: "Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
@@ -114,5 +114,5 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002

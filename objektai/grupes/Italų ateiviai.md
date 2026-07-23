@@ -30,7 +30,7 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
 ## Teiginiai
 
 <a id="claim-t-193313"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius vaizdavo italų ateivius kaip sumaniai veikusius Lietuvoje, kur ateiviai ir vietiniai gyventojai galiausiai susivienijo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,6 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168787
@@ -136,4 +135,4 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

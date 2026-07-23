@@ -80,7 +80,7 @@ Nenurodyta
     - c-63721
 
 <a id="claim-t-194408"></a>
-- t-004
+- t-003
   teiginys: "Apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -131,4 +131,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003

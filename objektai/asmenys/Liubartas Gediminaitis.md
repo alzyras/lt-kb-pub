@@ -57,11 +57,7 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-32786
-- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
-- susijęs iš [[objektai/autoriai/J. Puzyna.md#claim-t-30698|J. Puzyna]]: J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.
-- susijęs iš A. Presnjakov Obrazovanie velikorusskogo gosudarstva: A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.
-- susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
-- susijęs iš Jaunutis, Gedimino sūnus: „Jaunutis, Gedimino sūnus“ nurodytas LE 9 tome, 355–356 puslapiuose.
+
 ## Citatos
 
 - id: c-32786

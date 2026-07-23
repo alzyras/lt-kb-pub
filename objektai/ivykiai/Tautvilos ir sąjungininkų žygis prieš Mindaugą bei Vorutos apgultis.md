@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187497"></a>
-- t-002
+- t-001
   teiginys: "Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-170457
 
 <a id="claim-t-187499"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-170457
 
 <a id="claim-t-193859"></a>
-- t-005
+- t-004
   teiginys: "Lietuvos metraščio pasakojime Tautvilas parbėgo į Žemaitiją pas Vykintą, sutelkė jotvingius, žemaičius ir Danieliaus pagalbą bei išžygiavo prieš Mindaugą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003
-    - t-005
+    - t-004

@@ -44,7 +44,7 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82175
-- susijęs iš Ukmergė: Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių.
+
 ## Citatos
 
 - id: c-82175

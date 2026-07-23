@@ -29,7 +29,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
 ## Teiginiai
 
 <a id="claim-t-36108"></a>
-- t-002
+- t-001
   teiginys: "„Rusiškai lietuviško žodyno“ autorius žodžiams aiškinti naudojo daug lietuviškų raštų, o rusiškiems žodžiams nustatyti rėmėsi Dalio žodynu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
     - c-38434
 
 <a id="claim-t-36109"></a>
-- t-001
+- t-002
   teiginys: "J. Barono „Rusiškai lietuviškas žodynas“ turėjo 575 puslapius ir kainavo 10 litų vietoj ankstesnių 15 litų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-38434
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -89,4 +89,4 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

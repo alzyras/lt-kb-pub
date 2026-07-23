@@ -30,7 +30,7 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
 ## Teiginiai
 
 <a id="claim-t-185244"></a>
-- t-003
+- t-001
   teiginys: "Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
     - c-168605
 
 <a id="claim-t-193422"></a>
-- t-004
+- t-002
   teiginys: "Po Švitrigailos puolimo ir maisto stokos Vytauto kariai pasiekė Lietuvos valdas, kur, pasak Kojelavičiaus, pailsėjo ir atsigavo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176144
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -111,4 +111,4 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

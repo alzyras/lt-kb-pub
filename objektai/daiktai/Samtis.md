@@ -5,7 +5,7 @@ sukurta: '2026-07-12'
 variantai:
   - 'samtį'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -60,6 +60,7 @@ Nenurodyta
   citata_rodoma: "Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį..."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

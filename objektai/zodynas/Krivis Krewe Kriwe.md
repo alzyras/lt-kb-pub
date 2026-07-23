@@ -32,7 +32,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 ## Teiginiai
 
 <a id="claim-t-189198"></a>
-- t-002
+- t-001
   teiginys: "Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-172086
 
 <a id="claim-t-189200"></a>
-- t-003
+- t-002
   teiginys: "Narbutas remiasi Pretorijumi aiškindamas, kad „Kreive“ arba „Kriwe“ reiškė žynį arba tautos teisėją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-172088
 
 <a id="claim-t-194685"></a>
-- t-004
+- t-003
   teiginys: "O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
     - c-172085
 
 <a id="claim-t-197367"></a>
-- t-005
+- t-004
   teiginys: "Tikslus vyriausiojo žynio pavadinimas yra Krewe-Krewejto, panašiai kaip senovės persų vyriausiasis kunigas vadinosi Mubad-Mubaden arba Destruri-Destur; tai reiškė žynių žynį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -120,8 +120,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-005
 
 - id: c-172086
   autorius: "Teodoras Narbutas"
@@ -145,7 +145,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-172088
   autorius: "Teodoras Narbutas"
@@ -166,7 +166,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177082
   autorius: "Teodoras Narbutas"
@@ -185,6 +185,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   citata_rodoma: "Antra\nvertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios\ngiminės tautas pasaulietiškos grafo pareigos nebuvo susijusios\nsu žyniavimu . O be to, krivio pavadinimą žinojo beveik vien\nlietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­\nna provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1\nSkaityk pabaigoje I priedą.\n10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

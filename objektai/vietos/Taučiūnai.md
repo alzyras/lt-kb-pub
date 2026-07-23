@@ -38,7 +38,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 ## Teiginiai
 
 <a id="claim-t-172013"></a>
-- t-011
+- t-001
   teiginys: "Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - c-156446
 
 <a id="claim-t-172014"></a>
-- t-012
+- t-002
   teiginys: "Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,11 +68,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-156447
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49483|Povilas Lukšys]]: Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09853|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09854|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41298|Kėdainių-Šėtos kautynės]]: Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49483|Povilas Lukšys]]: Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.
+
 ## Citatos
 
 - id: c-156446
@@ -93,7 +89,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-156447
   sudarytojas: "Karolis Zikaras"
@@ -113,4 +109,4 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-002

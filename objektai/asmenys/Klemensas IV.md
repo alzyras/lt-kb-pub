@@ -78,10 +78,7 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatos turinį."
   pagrindžia:
     - c-166945
-- susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
-- susijęs iš [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius).md#claim-t-60040|Karolis (Provanso grafas ir Sicilijos karalius)]]: 1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
-- susijęs iš [[objektai/posakiai/„šviesaus atminimo valdovu“.md#claim-t-77863|„šviesaus atminimo valdovu“]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
+
 ## Citatos
 
 - id: c-21823

@@ -38,7 +38,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
 ## Teiginiai
 
 <a id="claim-t-05265"></a>
-- t-002
+- t-001
   teiginys: "Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją gimtąja kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
     - c-163055
 
 <a id="claim-t-179349"></a>
-- t-004
+- t-002
   teiginys: "Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -94,5 +94,5 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004

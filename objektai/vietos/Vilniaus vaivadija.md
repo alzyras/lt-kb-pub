@@ -32,6 +32,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Krymo totoriai]]

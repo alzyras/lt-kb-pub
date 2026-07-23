@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
 ## Teiginiai
 
 <a id="claim-t-197136"></a>
-- t-004
+- t-001
   teiginys: "Otokaras smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - c-61031
 
 <a id="claim-t-201020"></a>
-- t-005
+- t-002
   teiginys: "Būt rasi ir tą patį metą kryžėjai į Samiją trau kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - c-184370
 
 <a id="claim-t-201021"></a>
-- t-006
+- t-003
   teiginys: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184371
-- susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
+
 ## Citatos
 
 - id: c-61031
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-184370
   autorius: "Simonas Daukantas"
@@ -120,7 +120,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-184371
   autorius: "Simonas Daukantas"
@@ -139,4 +139,4 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

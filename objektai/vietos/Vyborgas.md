@@ -54,15 +54,7 @@ Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karal
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir aiškiai mini Vyborgą kaip Baltijos pakrantės ribą."
   pagrindžia:
     - c-24603
-- susijęs iš [[objektai/ivykiai/Šiaurės karas.md#claim-t-20574|Šiaurės karas]]: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš Livonija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš Rusija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš Švedija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
-- susijęs iš [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija.md#claim-t-101529|Kėdainių sutarties sudarymas su Švedija (sutartis)]]: Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
-- susijęs iš [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija.md#claim-t-101530|Kėdainių sutarties sudarymas su Švedija (sutartis)]]: Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
-- susijęs iš Kėdainių sutartis su Švedija (1655 m.): Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.
-- susijęs iš Kėdainių sutartis su Švedija (1655 m.): Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.
-- susijęs iš Lietuva: Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.
+
 ## Citatos
 
 - id: c-24603

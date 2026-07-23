@@ -39,7 +39,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 ## Teiginiai
 
 <a id="claim-t-43516"></a>
-- t-002
+- t-001
   teiginys: "Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     - c-47009
 
 <a id="claim-t-43517"></a>
-- t-001
+- t-002
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   pagrindžia:
     - c-47007
     - c-166314
-- susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
+
 ## Citatos
 
 - id: c-47007
@@ -95,7 +95,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-47009
   redaktorius: "A. Šapoka"
@@ -112,7 +112,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166314
   redaktorius: "A. Šapoka"
@@ -131,7 +131,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Napoleono kariuomenė užėmė [[objektai/vietos/Lietuva]]

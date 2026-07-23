@@ -49,7 +49,7 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173038
-- susijęs iš [[objektai/zodynas/Froblosk.md#claim-t-189293|Froblosk]]: Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
+
 ## Citatos
 
 - id: c-173038

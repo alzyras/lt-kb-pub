@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-197247"></a>
-- t-002
+- t-001
   teiginys: "Šis tėvynės paminklų brangintojas liepė iš trūnijusiame šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją ir istorijos veikalus apie krašto praeitį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Nenurodyta
     - c-179085
 
 <a id="claim-t-197248"></a>
-- t-003
+- t-002
   teiginys: "Mitologinis šio ąžuolo vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė, nei jautis14."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179085
   autorius: "Teodoras Narbutas"
@@ -116,4 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

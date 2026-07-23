@@ -57,9 +57,7 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175677
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
-- susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartimi kryžiuočiai atidavė šeštadalį jotvingių krašto, o kunigaikštis įsipareigojo remti Ordiną.
-- susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartis buvo pasirašyta Trošine 1260 m. birželio 15 dieną.
+
 ## Citatos
 
 - id: c-175677

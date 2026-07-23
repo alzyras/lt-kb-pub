@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40170"></a>
-- t-002
+- t-001
   teiginys: "J. Čaplikas puolė Jestšembną, sustabdė lenkus ir galėjo atsitraukti į Gruškų-Liepynės liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-44368
 
 <a id="claim-t-40171"></a>
-- t-001
+- t-002
   teiginys: "J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44368
   sudarytojas: "Karolis Zikaras"
@@ -98,4 +98,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

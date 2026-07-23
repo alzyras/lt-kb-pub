@@ -61,7 +61,7 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44581
-- susijęs iš [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus.md#claim-t-41473|apsuptą nusivaryti iki pat Maskvos kaip galvijus]]: Čeliadninas teigė, kad Maskvos pajėgos gali Lietuvos kariuomenę įveikti arba apsuptą nusivaryti iki Maskvos kaip galvijus.
+
 ## Citatos
 
 - id: c-44581

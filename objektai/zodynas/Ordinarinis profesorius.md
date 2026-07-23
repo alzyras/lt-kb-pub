@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Ordinarinis profesorius
 sukurta: '2026-07-12'
 variantai:
-  - 'Ordinariniu profesorium'
+  - Ordinariniu profesorium
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -61,8 +61,7 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177880
-- susijęs iš [[objektai/grupes/Suomių literatūros draugija.md#claim-t-195502|Suomių literatūros draugija]]: 1900–1909 m. A. R. Niemis buvo Suomių literatūros draugijos sekretorius.
-- susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
+
 ## Citatos
 
 - id: c-177880

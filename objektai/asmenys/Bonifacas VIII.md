@@ -8,17 +8,17 @@ datos:
   - '1316 m.'
 date_start: '1217'
 date_end: '1316'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - popiežius
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 ## Teiginiai
 
 <a id="claim-t-59900"></a>
-- t-003
+- t-001
   teiginys: "Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,17 +57,18 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - c-60536
 
 <a id="claim-t-59901"></a>
-- t-001
+- t-002
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-60532
     - c-60534
     - c-60536
 
 <a id="claim-t-59902"></a>
-- t-004
+- t-003
   teiginys: "1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +87,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - c-60533
 
 <a id="claim-t-59903"></a>
-- t-005
+- t-004
   teiginys: "1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,7 +99,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - c-60532
 
 <a id="claim-t-59904"></a>
-- t-002
+- t-005
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,7 +118,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - c-60534
 
 <a id="claim-t-194476"></a>
-- t-007
+- t-006
   teiginys: "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -129,7 +130,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - c-60534
 
 <a id="claim-t-197062"></a>
-- t-008
+- t-007
   teiginys: "Bonifacas VIII nepakenčia tik niekingos nuodėmės, jis tik ją persekioja bei atperka."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -139,11 +140,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60535
-- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
-- susijęs iš [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia).md#claim-t-62212|Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]: 1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60049|Liudvikas (Prancūzijos karalius)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.
-- susijęs iš [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.).md#claim-t-62544|Švento Liudviko kanonizavimas (1296 m.)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
@@ -155,12 +152,10 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-59902
-
+  statusas: verified
 ## Citatos
 
 - id: c-60532
@@ -181,7 +176,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
+    - t-004
 
 - id: c-60533
   autorius: "Petras Dusburgietis"
@@ -204,7 +200,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-60534
   autorius: "Petras Dusburgietis"
@@ -223,9 +219,9 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
-    - t-007
+    - t-005
+    - t-006
 
 - id: c-60535
   autorius: "Petras Dusburgietis"
@@ -247,7 +243,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-60536
   autorius: "Petras Dusburgietis"
@@ -270,5 +266,5 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002

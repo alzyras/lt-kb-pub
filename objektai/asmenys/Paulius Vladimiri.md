@@ -61,7 +61,7 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
   semantiniai_rysiai: "Paulius Vladimiri gynė Lietuva (0.78); Paulius Vladimiri gynė Lietuviai (0.66)"
   pagrindžia:
     - c-38110
-- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176499|Jonas XXIII]]: Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.
+
 ## Citatos
 
 - id: c-38110

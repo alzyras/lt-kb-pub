@@ -52,6 +52,7 @@ Eckert, W.
   citata_rodoma: "— Eckert, W. : _Die kurische Landschaft Cedis.\nUntersuchungen des Kampfes um Südkurland zwischen dem Deutschen\nOrden und Litauen_ , AF, t. 20, 1943, 6-84 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

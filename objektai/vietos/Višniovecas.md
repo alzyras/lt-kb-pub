@@ -48,8 +48,7 @@ Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo pal
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168681
-- susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
-- susijęs iš Zbaražas: Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
+
 ## Citatos
 
 - id: c-168681

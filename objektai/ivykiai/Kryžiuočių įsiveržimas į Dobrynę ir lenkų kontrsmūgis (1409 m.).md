@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185602"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičiaus vertinimu, karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -93,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75262"></a>
-- t-002
+- t-001
   teiginys: "Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-73103
 
 <a id="claim-t-75263"></a>
-- t-003
+- t-002
   teiginys: "1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-73105
 
 <a id="claim-t-75264"></a>
-- t-001
+- t-003
   teiginys: "S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -133,8 +133,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-003
 
 - id: c-73105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -157,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

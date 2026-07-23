@@ -44,8 +44,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   semantiniai_rysiai: "Judas Makabėjus kariavo prieš Bachidas (0.94); Judas Makabėjus kariavo prieš Alchimas (0.94)"
   pagrindžia:
     - c-60864
-- susijęs iš [[objektai/asmenys/Bachidas.md#claim-t-60243|Bachidas]]: Bachidas ir Alchimas kovojo su Judu Makabėjumi; po šių kautynių Judas žuvo, o Izraelio kariuomenė pabėgo.
-- susijęs iš [[objektai/asmenys/Bachidas.md#claim-t-60243|Bachidas]]: Bachidas ir Alchimas kovojo su Judu Makabėjumi; po šių kautynių Judas žuvo, o Izraelio kariuomenė pabėgo.
+
 ## Citatos
 
 - id: c-60864

@@ -64,11 +64,10 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
     burge herulai, nors ir engiami vokiečių, savo kalboje ir
     papročiuose išsaugojo nemažai kilmės pėdsakų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175766

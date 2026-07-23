@@ -30,7 +30,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 ## Teiginiai
 
 <a id="claim-t-86509"></a>
-- t-002
+- t-001
   teiginys: "Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
     - c-82489
 
 <a id="claim-t-86510"></a>
-- t-001
+- t-002
   teiginys: "Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82488
-- susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
+
 ## Citatos
 
 - id: c-82488
@@ -82,7 +82,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-82489
   autorius: "Michał Baliński"
@@ -100,4 +100,4 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

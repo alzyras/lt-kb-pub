@@ -43,15 +43,7 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33352
-- susijęs iš [[objektai/autoriai/E. I. Leontovičius.md#claim-t-30593|E. I. Leontovičius]]: E. I. Leontovičius buvo žymus teisės istorikas, palikęs studijų apie Lietuvos valstybės teisinius santykius ir institucijas.
-- susijęs iš [[objektai/autoriai/M. F. Vladimirskij-Budanov.md#claim-t-30827|M. F. Vladimirskij-Budanov]]: M. F. Vladimirskij-Budanovas buvo teisės istorikas, palikęs daug studijų ir straipsnių apie Lietuvos valstybės teisinius santykius ir institucijas.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47895|Rusų ir ukrainiečių istorikai]]: E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.
-- susijęs iš Giurgevo tvirtovė: Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas klausimas.
-- susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191246|Karamzinas]]: Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiksmais ir teigė, kad miestas atstatytas XII a. pradžioje po to, kai poloviečiai jį sunaikino.
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191142|Nikolajus Karamzinas]]: Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pradžioje buvo atstatytas po poloviečių sunaikinimo.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-190973|Sventopelkas]]: Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet sudarė taiką su Sventopelku.
-- susijęs iš Belaja Cerkovė: Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje.
-- susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui.
+
 ## Citatos
 
 - id: c-33352

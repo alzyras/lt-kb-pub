@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-23483"></a>
-- t-002
+- t-001
   teiginys: "Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,8 +51,7 @@ media_all_json: |-
   semantiniai_rysiai: "Lenkijos karalystės kariuomenė keliavo į Prūsija (0.83); Lenkijos karalystės kariuomenė puolė Vilnius (0.82); Lenkijos karalystės kariuomenė keliavo į Lenkija (0.74)"
   pagrindžia:
     - c-22505
-- susijęs iš [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje.md#claim-t-23481|Laikinoji Lenkijos vyriausybė Lietuvoje]]: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.
-- susijęs iš Kaunas: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną.
+
 ## Citatos
 
 - id: c-22505
@@ -72,7 +71,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-25111
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -88,6 +87,7 @@ media_all_json: |-
   citata_rodoma: "Ji lengvai užėmė Kauną, bet Vil-\nniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

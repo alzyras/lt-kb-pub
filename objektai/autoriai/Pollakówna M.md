@@ -61,6 +61,7 @@ Dusburgietis teigia, kad pollakówna M.
   citata_rodoma: "Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,\nWarszawa, 1958, s. 160—207."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

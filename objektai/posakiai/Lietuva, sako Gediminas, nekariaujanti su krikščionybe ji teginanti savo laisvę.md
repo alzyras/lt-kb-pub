@@ -34,7 +34,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06877"></a>
-- t-002
+- t-001
   teiginys: "Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -67,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -16,10 +16,6 @@ datos:
   - '1283 m.'
 date_start: '1232'
 date_end: '1283'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +23,10 @@ tags:
   - karalius
   - mūšis
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Vicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVicie%C5%84._%D0%92%D1%96%D1%86%D0%B5%D0%BD%D1%8C_%281709%29.jpg'
@@ -50,7 +50,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-176814"></a>
-- t-021
+- t-001
   teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais."
   atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ media_all_json: |-
     - c-180413
 
 <a id="claim-t-176816"></a>
-- t-020
+- t-002
   teiginys: "Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-180431
 
 <a id="claim-t-176817"></a>
-- t-032
+- t-003
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ media_all_json: |-
     - c-180426
 
 <a id="claim-t-176818"></a>
-- t-007
+- t-004
   teiginys: "Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ media_all_json: |-
     - c-180430
 
 <a id="claim-t-176822"></a>
-- t-015
+- t-005
   teiginys: "Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ media_all_json: |-
     - c-180407
 
 <a id="claim-t-176825"></a>
-- t-019
+- t-006
   teiginys: "Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -169,7 +169,7 @@ media_all_json: |-
     - c-180421
 
 <a id="claim-t-176828"></a>
-- t-017
+- t-007
   teiginys: "Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ media_all_json: |-
     - c-180407
 
 <a id="claim-t-176830"></a>
-- t-028
+- t-008
   teiginys: "Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ media_all_json: |-
     - c-180428
 
 <a id="claim-t-176833"></a>
-- t-025
+- t-009
   teiginys: "Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -222,7 +222,7 @@ media_all_json: |-
     - c-180426
 
 <a id="claim-t-176835"></a>
-- t-011
+- t-010
   teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -242,7 +242,7 @@ media_all_json: |-
     - c-180418
 
 <a id="claim-t-176836"></a>
-- t-026
+- t-011
   teiginys: "Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -262,7 +262,7 @@ media_all_json: |-
     - c-180417
 
 <a id="claim-t-176838"></a>
-- t-016
+- t-012
   teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -282,7 +282,7 @@ media_all_json: |-
     - c-180418
 
 <a id="claim-t-176839"></a>
-- t-027
+- t-013
   teiginys: "Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -299,7 +299,7 @@ media_all_json: |-
     - c-180410
 
 <a id="claim-t-176840"></a>
-- t-008
+- t-014
   teiginys: "Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -320,7 +320,7 @@ media_all_json: |-
     - c-180405
 
 <a id="claim-t-176841"></a>
-- t-023
+- t-015
   teiginys: "Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -340,7 +340,7 @@ media_all_json: |-
     - c-180423
 
 <a id="claim-t-176843"></a>
-- t-010
+- t-016
   teiginys: "Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -361,7 +361,7 @@ media_all_json: |-
     - c-180403
 
 <a id="claim-t-176846"></a>
-- t-018
+- t-017
   teiginys: "Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -382,7 +382,7 @@ media_all_json: |-
     - c-180415
 
 <a id="claim-t-184884"></a>
-- t-038
+- t-018
   teiginys: "Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -403,7 +403,7 @@ media_all_json: |-
     - c-168245
 
 <a id="claim-t-184885"></a>
-- t-039
+- t-019
   teiginys: "Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -423,7 +423,7 @@ media_all_json: |-
     - c-168246
 
 <a id="claim-t-184886"></a>
-- t-040
+- t-020
   teiginys: "Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -444,7 +444,7 @@ media_all_json: |-
     - c-168247
 
 <a id="claim-t-184888"></a>
-- t-042
+- t-021
   teiginys: "Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -467,7 +467,7 @@ media_all_json: |-
     - c-168249
 
 <a id="claim-t-184889"></a>
-- t-043
+- t-022
   teiginys: "Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -490,7 +490,7 @@ media_all_json: |-
     - c-168250
 
 <a id="claim-t-184891"></a>
-- t-045
+- t-023
   teiginys: "Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -509,7 +509,7 @@ media_all_json: |-
     - c-168252
 
 <a id="claim-t-184892"></a>
-- t-046
+- t-024
   teiginys: "Kojelavičiaus pasakojime Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -522,7 +522,7 @@ media_all_json: |-
     - c-168247
 
 <a id="claim-t-193408"></a>
-- t-047
+- t-025
   teiginys: "Kojelavičiaus pasakojime Vytenis matė, kad priešų nesantarvė jam būtų naudingesnė taikiai gyvenant negu kariaujant."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -535,7 +535,7 @@ media_all_json: |-
     - c-176130
 
 <a id="claim-t-194015"></a>
-- t-048
+- t-026
   teiginys: "Lietuvos metraščio legendinėje istorijoje Vyteniui priskiriamas Lietuvos sostas po Palemono įpėdinių ir Kentauro herbo dinastijos išmirimo."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -549,7 +549,7 @@ media_all_json: |-
     - c-180406
 
 <a id="claim-t-196645"></a>
-- t-052
+- t-027
   teiginys: "Kojelavičiaus pasakojime Traidenis po žygio į Prūsiją pastebėjo mažametį Vytenį, kuris netrukus atsidūrė jo šeimoje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -562,7 +562,7 @@ media_all_json: |-
     - c-178817
 
 <a id="claim-t-196646"></a>
-- t-053
+- t-028
   teiginys: "Vytenis patraukė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -575,7 +575,7 @@ media_all_json: |-
     - c-168247
 
 <a id="claim-t-196648"></a>
-- t-055
+- t-029
   teiginys: "Vytenis pagrindines jėgas atvedė prie Karksio, po apsupties paėmė pilį, o gyvi liko keturi riteriai, komtūro sargyba ir keli belaisviai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -588,7 +588,7 @@ media_all_json: |-
     - c-168249
 
 <a id="claim-t-196649"></a>
-- t-056
+- t-030
   teiginys: "Vytenis, sunkiai sužeistas į galvą, paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko nuo priešo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -601,7 +601,7 @@ media_all_json: |-
     - c-168252
 
 <a id="claim-t-196650"></a>
-- t-057
+- t-031
   teiginys: "Kojelavičiaus pasakojime Vytenis, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes ir netrukus po šio žygio mirė."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -614,7 +614,7 @@ media_all_json: |-
     - c-178817
 
 <a id="claim-t-197166"></a>
-- t-058
+- t-032
   teiginys: "Vytenis traukė atgal, prie jo prisijungė laivu atplaukęs vienas Ragainės brolis su būreliu ginklanešių, kurie, stoję į kovą su pilėnais, privertė visą brolių kariuomenę sugrįžti į mūšį ir pradėti kovą, kurioje žuvo vienas narsus lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -627,7 +627,7 @@ media_all_json: |-
     - c-180431
 
 <a id="claim-t-198470"></a>
-- t-037
+- t-033
   teiginys: "Lietuvos metraštis pasakoja, kad Vytenis valdė Lietuvos, Žemaičių ir Rusų Didžiojoje Kunigaikštystėje ir turėjo sūnų Gediminą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -671,7 +671,7 @@ media_all_json: |-
     - c-180422
 
 <a id="claim-t-201050"></a>
-- t-059
+- t-035
   teiginys: "126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -681,81 +681,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184400
-- susijęs iš Polockas: Vytenio ir Gedimino brolis Vainys valdė Polocką.
-- susijęs iš Polockas: Vainys buvo vienas iš brolių ir valdė Polocką.
-- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
-- susijęs iš [[objektai/autoriai/Barzdaitis J.md#claim-t-60675|Barzdaitis J]]: Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102852|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102853|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.
-- susijęs iš [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia.md#claim-t-87103|Vytenio minoritams pastatyta bažnyčia]]: Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179012|Kryžiuočių ordinas]]: Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.
-- susijęs iš [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md#claim-t-185506|Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]: Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.).md#claim-t-62880|Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]: 1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-183949|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62885|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.).md#claim-t-185671|Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]: Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.
-- susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185672|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: 1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio.
-- susijęs iš [[objektai/ivykiai/Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis.md#claim-t-185835|Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis]]: Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
-- susijęs iš [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.).md#claim-t-62953|Vytenio užimta Karkuso pilis (1298 m.)]]: 1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
-- susijęs iš Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis: Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
-- susijęs iš Prūsija: Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.
-- susijęs iš Prūsija: Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184611|fogtas]]: Sembos vyskupystės fogtas Pilypas fon Bolandas pasinaudojo Vytenio sušauktu luomų pasitarimu ir nusiaubė pasienio kaimiečius.
-- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195043|„Lietuvos karaliaus sūnus“]]: Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
-- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195046|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54966|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89710|Fridrichas (Rygos arkivyskupas)]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89714|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59916|Henrikas Cutsvertas]]: Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.
-- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
-- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87519|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių.
-- susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87564|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87565|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64234|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178855|Kryžiuočių ordinas]]: Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179048|Kryžiuočių ordinas]]: Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108279|Pranciškonų ordinas]]: Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108296|Pranciškonų ordinas]]: Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108310|Pranciškonų ordinas]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų.
-- susijęs iš [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.).md#claim-t-185554|Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]: Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.
-- susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
-- susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
-- susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62837|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: 1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.).md#claim-t-31466|Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]: Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.
-- susijęs iš [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.).md#claim-t-185670|Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]: 1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.
-- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62691|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.
-- susijęs iš [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę.md#claim-t-06877|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]: Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
-- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186405|„mano priešo priešas yra mano draugas“]]: Ivinskis posakiu „mano priešo priešas yra mano draugas“ apibūdino lietuvių ir rygiečių sąjungos pagrindą.
-- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186406|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.
-- susijęs iš Bartos žemė: Po Vytenio žygio į Varmę lietuviai grobio prisiplėšusius karius nuvedė į Bartos žemę ir sustojo pailsėti atvirame lauke.
-- susijęs iš Christmemelio pilis (pilis): Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.
-- susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
-- susijęs iš Kristmemelis: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių.
-- susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
-- susijęs iš Lenčica: Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.
-- susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
-- susijęs iš Polockas: Vytenio ir Gedimino brolis Vainys valdė Polocką.
-- susijęs iš Polockas: Vainys buvo vienas iš brolių ir valdė Polocką.
-- susijęs iš Polockas: Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.
-- susijęs iš Prūsija: Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.
-- susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
-- susijęs iš Sandomiras: Kojelavičiaus pasakojime Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir smarkiai nusiaubė jos kaimus bei dvarus.
-- susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
-- susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70130|ekspansija]]: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
-- susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70131|ekspansija]]: Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
-- susijęs iš [[objektai/zodynas/ponai.md#claim-t-186928|ponai]]: Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.
-- susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
-- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195044|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
-- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195045|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.
+
 ## Reikšmingi paminėjimai
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -871,7 +797,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-30362
   autorius: "Zenonas Ivinskis"
@@ -891,7 +817,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-014
 
 - id: c-56175
   autorius: "Petras Dusburgietis"
@@ -914,8 +840,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-016
+    - t-010
+    - t-012
 
 - id: c-56177
   autorius: "Petras Dusburgietis"
@@ -957,7 +883,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-003
 
 - id: c-160781
   autorius: "Petras Dusburgietis"
@@ -978,7 +904,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-001
 
 - id: c-160785
   autorius: "Petras Dusburgietis"
@@ -1001,8 +927,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-058
+    - t-002
+    - t-032
 
 - id: c-160787
   autorius: "Petras Dusburgietis"
@@ -1044,7 +970,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-017
 
 - id: c-160789
   autorius: "Michał Baliński"
@@ -1070,7 +996,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-013
 
 - id: c-160790
   autorius: "Michał Baliński"
@@ -1101,8 +1027,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-025
+    - t-003
+    - t-009
 
 - id: c-160791
   autorius: "Michał Baliński"
@@ -1139,8 +1065,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-023
+    - t-003
+    - t-015
 
 - id: c-160795
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1160,7 +1086,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-016
 
 - id: c-160796
   autorius: "Michał Baliński"
@@ -1189,7 +1115,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-008
 
 - id: c-160800
   autorius: "Michał Baliński"
@@ -1213,7 +1139,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-011
 
 - id: c-160801
   autorius: "Petras Dusburgietis"
@@ -1236,8 +1162,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-017
+    - t-005
+    - t-007
 
 - id: c-160804
   autorius: "Petras Dusburgietis"
@@ -1264,7 +1190,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-006
 
 - id: c-168245
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1305,8 +1231,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
-    - t-053
+    - t-018
+    - t-028
 
 - id: c-168246
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1331,8 +1257,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
-    - t-040
+    - t-019
+    - t-020
 
 - id: c-168247
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1364,9 +1290,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
-    - t-046
-    - t-053
+    - t-020
+    - t-024
+    - t-028
 
 - id: c-168249
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1409,8 +1335,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
-    - t-055
+    - t-021
+    - t-029
 
 - id: c-168250
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1451,7 +1377,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-022
 
 - id: c-168252
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1482,8 +1408,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
-    - t-056
+    - t-023
+    - t-030
 
 - id: c-168253
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1536,7 +1462,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-025
 
 - id: c-176640
   autorius: "Anoniminis metraštininkas"
@@ -1560,7 +1486,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-026
 
 - id: c-178817
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1588,8 +1514,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
-    - t-057
+    - t-027
+    - t-031
 
 - id: c-180403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1609,7 +1535,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-016
 
 - id: c-180405
   autorius: "Zenonas Ivinskis"
@@ -1629,7 +1555,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-014
 
 - id: c-180406
   autorius: "Anoniminis metraštininkas"
@@ -1653,7 +1579,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-026
 
 - id: c-180407
   autorius: "Petras Dusburgietis"
@@ -1676,8 +1602,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-017
+    - t-005
+    - t-007
 
 - id: c-180410
   autorius: "Michał Baliński"
@@ -1704,7 +1630,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-013
 
 - id: c-180413
   autorius: "Petras Dusburgietis"
@@ -1725,7 +1651,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-001
 
 - id: c-180414
   autorius: "Michał Baliński"
@@ -1747,7 +1673,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-003
 
 - id: c-180415
   autorius: "Petras Dusburgietis"
@@ -1789,7 +1715,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-017
 
 - id: c-180417
   autorius: "Michał Baliński"
@@ -1813,7 +1739,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-011
 
 - id: c-180418
   autorius: "Petras Dusburgietis"
@@ -1836,8 +1762,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-016
+    - t-010
+    - t-012
 
 - id: c-180419
   autorius: "Petras Dusburgietis"
@@ -1877,7 +1803,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-033
 
 - id: c-180421
   autorius: "Petras Dusburgietis"
@@ -1904,7 +1830,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-006
 
 - id: c-180422
   autorius: "Teodoras Narbutas"
@@ -1964,8 +1890,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-023
+    - t-003
+    - t-015
 
 - id: c-180426
   autorius: "Michał Baliński"
@@ -1997,8 +1923,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-025
+    - t-003
+    - t-009
 
 - id: c-180428
   autorius: "Michał Baliński"
@@ -2028,7 +1954,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-008
 
 - id: c-180430
   autorius: "Zenonas Ivinskis"
@@ -2048,7 +1974,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-180431
   autorius: "Petras Dusburgietis"
@@ -2071,8 +1997,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-058
+    - t-002
+    - t-032
 
 - id: c-184400
   autorius: "Simonas Daukantas"
@@ -2097,7 +2023,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-035
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

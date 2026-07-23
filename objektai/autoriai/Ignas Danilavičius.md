@@ -9,13 +9,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'D'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - diplomatas
+amziai:
+  - 'D'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -136,8 +136,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184295
-- susijęs iš [[objektai/zodynas/regestai.md#claim-t-28625|regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
-- susijęs iš [[objektai/zodynas/regestas regestai.md#claim-t-28626|regestas regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną.'
@@ -158,7 +157,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-78439

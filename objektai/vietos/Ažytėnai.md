@@ -57,10 +57,7 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177897
-- susijęs iš [[objektai/grupes/Linartai.md#claim-t-195508|Linartai]]: Linartų pasakojimas šaltinyje siejamas su Ažytėnų muštynių ir girtavimo ratu.
-- susijęs iš Ažytėnų ganykla: Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu.
-- susijęs iš Ažytėnų ganykla: Ažytėnų ganykla apibūdinama kaip apie pusantro šimto hektarų mišku ir aikštėmis apaugęs plotas, prieinantis Bilazaro mišką.
-- susijęs iš Bilazaro miškas: Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla.
+
 ## Citatos
 
 - id: c-177897
@@ -97,6 +94,7 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
   citata_rodoma: "Ažytėnai, 1927 m. rugsėjo 25 d."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -152,7 +152,7 @@ Nenurodyta
     - c-11838
 
 <a id="claim-t-186363"></a>
-- t-008
+- t-006
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-11838
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11838
@@ -192,7 +192,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-008
+    - t-006
 
 - id: c-169723
   sudarytojas: "Karolis Zikaras"

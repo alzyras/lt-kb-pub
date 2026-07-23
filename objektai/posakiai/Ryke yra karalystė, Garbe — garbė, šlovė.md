@@ -64,6 +64,7 @@ Senovės prūsų vietovardžių aiškinimas, kuriame pati formulė pateikiama ka
   citata_rodoma: "Romovės šventykla. Visa tai buvo grindžiama Romsdorfo\n  ir Rykgarbeno kaimų pavadinimais; senovės prūsų kalba\n  Ryke yra karalystė, Garbe — garbė, šlovė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,7 +46,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ## Teiginiai
 
 <a id="claim-t-75013"></a>
-- t-004
+- t-001
   teiginys: "Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-167705
 
 <a id="claim-t-75014"></a>
-- t-001
+- t-002
   teiginys: "Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-166579
 
 <a id="claim-t-75015"></a>
-- t-005
+- t-003
   teiginys: "Vazų dinastijos ATR karalių pretenzijos į Švedijos sostą komplikavo ATR karus su Švedija 1600–1629 ir 1655–1660 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-72953
 
 <a id="claim-t-75016"></a>
-- t-003
+- t-004
   teiginys: "Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-31274
 
 <a id="claim-t-183192"></a>
-- t-006
+- t-005
   teiginys: "Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-31275
   autorius: "Zenonas Ivinskis"
@@ -184,7 +184,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-72953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -202,7 +202,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-166579
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -232,8 +232,8 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
+    - t-002
+    - t-005
 
 - id: c-167705
   autorius: "Zenonas Ivinskis"
@@ -252,4 +252,4 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

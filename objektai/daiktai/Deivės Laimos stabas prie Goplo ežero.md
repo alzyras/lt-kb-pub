@@ -7,13 +7,13 @@ datos:
   - '1096 m.'
 date_start: '1096'
 date_end: ''
-amziai:
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,6 +90,21 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
     - c-174927
 
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
+    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
+    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep­
+    tynis amžius. Šiandien tai lenkų
+    armijos
+    generolo Skažinskio
+    (Skaržynski) nuosavybė. Statulėlės išmatavimai nežinomi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -104,11 +119,10 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
     rastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis
     išskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174927
@@ -147,6 +161,7 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   citata_rodoma: "Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos\nstabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis\natsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį\npat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo\nrastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis\nišskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

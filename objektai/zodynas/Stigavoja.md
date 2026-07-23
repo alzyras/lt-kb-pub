@@ -39,38 +39,13 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-70051"></a>
-- t-004
+- t-001
   teiginys: "Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09745
-- susijęs iš [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus.md#claim-t-67247|Šventos ugnelės negesinimas trobesiui užsidegus]]: Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - status: unused
-    - claim_role: supports_existing_claim
-    - kategorija: zodynas
-    - kandidatas: dabą
-    - potencialus_teiginys: Dabą
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 14326-14508; match: whitespace_regex
-    - santrauka: Dabą
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -123,4 +98,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

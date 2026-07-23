@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78714"></a>
-- t-008
+- t-001
   teiginys: "XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-75910
 
 <a id="claim-t-78715"></a>
-- t-007
+- t-002
   teiginys: "XIII a. pabaigoje - XV a. pradžioje Lietuva palei naująją sieną sukūrė lietuviškų pilių tinklą, kurio pilys buvo ir gynybos fortai, ir administraciniai centrai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-75913
 
 <a id="claim-t-78716"></a>
-- t-010
+- t-003
   teiginys: "Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-75910
 
 <a id="claim-t-78717"></a>
-- t-009
+- t-004
   teiginys: "Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -118,7 +118,7 @@ Nenurodyta
     - c-75911
 
 <a id="claim-t-183693"></a>
-- t-011
+- t-005
   teiginys: "Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
     - c-167083
 
 <a id="claim-t-193746"></a>
-- t-012
+- t-006
   teiginys: "Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -172,9 +172,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
-    - t-012
+    - t-001
+    - t-003
+    - t-006
 
 - id: c-75911
   sudarytojas: "Karolis Zikaras"
@@ -194,7 +194,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-75913
   sudarytojas: "Karolis Zikaras"
@@ -212,7 +212,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-167083
   sudarytojas: "Karolis Zikaras"
@@ -235,4 +235,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-005

@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47814"></a>
-- t-002
+- t-001
   teiginys: "Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-31009
 
 <a id="claim-t-47816"></a>
-- t-001
+- t-002
   teiginys: "Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -88,21 +88,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05245
-- susijęs iš [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai.md#claim-t-192493|Brangenybės, auksas, sidabras ir papuošalai]]: Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių.
-- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47810|Geležiniai ginklai ir įrankiai]]: Patobulėjo ginklų, įrankių ir papuošalų formos.
-- susijęs iš [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai.md#claim-t-64967|Lietuvos žalvario (bronzos) amžiaus dirbiniai]]: Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.
-- susijęs iš [[objektai/ivykiai/Antakriaunio pilkapio atkasimas 1826 m.md#claim-t-191029|Antakriaunio pilkapio atkasimas 1826 m]]: 1826 m. Antakriaunio dvare tiesiant naują kelią buvo atkastas senovinis pilkapis su skeletu ir variniais papuošalais.
-- susijęs iš [[objektai/zodynas/glaistytinė lipdyba.md#claim-t-200816|glaistytinė lipdyba]]: Šv. Petro ir Povilo bažnyčioje kupolo šviesa sujungia gausius glaistytinius papuošalus į tapybišką visumą.
-- susijęs iš [[objektai/asmenys/Mykolas Šulcas.md#claim-t-190055|Mykolas Šulcas]]: Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas.
-- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171491|Henrikas Latvis]]: Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.
-- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
-- susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
-- susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47812|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
-- susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47813|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
-- susijęs iš De veteribus Tumulis vulgo Kurhani nuncupatis: „De veteribus Tumulis vulgo Kurhani nuncupatis“ Narbutui buvo žinomas iš velionio Vilniaus universiteto profesoriaus Mykolo Šulco pasakojimo.
-- susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05332|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192096|Aisčių laidotuvių ir vėlinių apeigos]]: Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.
+
 ## Citatos
 
 - id: c-05245
@@ -122,7 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-31009
   autorius: "Zenonas Ivinskis"
@@ -142,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

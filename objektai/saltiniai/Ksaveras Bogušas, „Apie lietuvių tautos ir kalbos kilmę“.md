@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75455"></a>
-- t-002
+- t-001
   teiginys: "1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-73231
 
 <a id="claim-t-75456"></a>
-- t-001
+- t-002
   teiginys: "Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-73231
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -116,4 +116,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

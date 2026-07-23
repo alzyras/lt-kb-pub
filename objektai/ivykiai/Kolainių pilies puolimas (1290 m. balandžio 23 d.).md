@@ -7,8 +7,6 @@ datos:
   - '1290 m.'
 date_start: '1290'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - ivykis
   - pilis
   - šventė
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -84,7 +84,7 @@ Nenurodyta
     - c-63652
 
 <a id="claim-t-194395"></a>
-- t-004
+- t-003
   teiginys: "Apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -159,4 +159,4 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-004
+    - t-003

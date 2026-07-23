@@ -47,7 +47,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 ## Teiginiai
 
 <a id="claim-t-192208"></a>
-- t-006
+- t-001
   teiginys: "Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,7 +83,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     - c-175069
 
 <a id="claim-t-192210"></a>
-- t-005
+- t-003
   teiginys: "Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -119,7 +119,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     - c-175069
 
 <a id="claim-t-192212"></a>
-- t-001
+- t-005
   teiginys: "Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -153,13 +153,13 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     reikėtų pagrįsti šių genčių pavadinimu, remtis žodžiu
     „galinduoti“, t. y. elgtis kaip galindas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192209
-    - t-192210
-    - t-192212
+  statusas: verified
+- t-002
+    - t-003
+    - t-001
 
 ## Citatos
 
@@ -228,8 +228,8 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-002
-    - t-005
-    - t-004
     - t-001
+    - t-002
+    - t-003
+    - t-004
+    - t-005

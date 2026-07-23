@@ -7,14 +7,14 @@ datos:
   - '1314 m.'
 date_start: '1314'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - žygis
   - konfliktas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59395"></a>
-- t-002
+- t-001
   teiginys: "Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-60027
 
 <a id="claim-t-59396"></a>
-- t-001
+- t-002
   teiginys: "1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,10 +93,10 @@ Nenurodyta
     karšto tikėjimo ir tvirtai pasikliaudami viešpačiu, jie iki galo padarė visa, ko buvo ėmęsi
     mūsų dievo Jėzaus Kristaus garbei.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,13 +107,15 @@ Nenurodyta
     per tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei
     paėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.
 
+
+
+
                             321 (314).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60027
@@ -133,8 +135,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-60028
   autorius: "Petras Dusburgietis"
@@ -152,6 +154,7 @@ Nenurodyta
   citata_rodoma: "Štai todėl kitą dieną jie įsiveržė į minėtąjį valsčių ir\nper tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei\npaėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.\n\n\n\n\n                        321 (314)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

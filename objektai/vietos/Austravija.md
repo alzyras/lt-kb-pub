@@ -47,7 +47,7 @@ Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amela
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175687
-- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191282|Johanas Fosas]]: Pasak Narbuto, Johanas Fosas neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją tapatino su fryzų sala Amelandu.
+
 ## Citatos
 
 - id: c-175687

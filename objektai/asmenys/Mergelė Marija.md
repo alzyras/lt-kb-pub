@@ -8,10 +8,6 @@ datos:
   - '1259 m.'
 date_start: '1257'
 date_end: '1259'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-60520
 
 <a id="claim-t-59889"></a>
-- t-004
+- t-002
   teiginys: "Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-60524
 
 <a id="claim-t-59890"></a>
-- t-005
+- t-003
   teiginys: "Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-167498
 
 <a id="claim-t-59891"></a>
-- t-002
+- t-004
   teiginys: "Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,9 +99,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-60525
 
 <a id="claim-t-59892"></a>
-- t-006
+- t-005
   teiginys: "Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,7 +116,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-60525
 
 <a id="claim-t-59893"></a>
-- t-003
+- t-006
   teiginys: "Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -176,26 +176,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60521
-- susijęs iš [[objektai/asmenys/Hermanas Saracėnas.md#claim-t-59921|Hermanas Saracėnas]]: Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176625|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.
-- susijęs iš [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą.md#claim-t-59096|Hermanai, aš tave kviečiu į savo sūnaus puotą]]: Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.
-- susijęs iš [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs.md#claim-t-59127|Man liūdna, kad mano mielieji sūnūs]]: Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.
-- susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
-- susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-60301|Heidenreichas (vyskupas, XIII–XIV a.)]]: Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.
-- susijęs iš [[objektai/asmenys/Hermanas Saracėnas.md#claim-t-59923|Hermanas Saracėnas]]: Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.
-- susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178824|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178982|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.
-- susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui.md#claim-t-91912|Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]: Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas.
-- susijęs iš [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje.md#claim-t-91907|Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]: Jai tarus šiuos žodžius, regėjimas dingo.
-- susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-184038|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.
-- susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-59140|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime Marija parodė Teutonų ordino brolių žaizdas ir randus, patirtus ginant tikėjimą.
-- susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-59141|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.
-- susijęs iš [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes.md#claim-t-59163|Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]: Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.
-- susijęs iš Bartenšteinas: Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį.
-- susijęs iš Karaliaučius: Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas.
-- susijęs iš Lietuva: Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.
-- susijęs iš Štarkenbergas: 1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis.'
@@ -209,11 +190,12 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     ginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė
     kilmingųjų, ko užsitarnavęs šitoks žmogžudys. Visi atsakė, kad vertas sudeginti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-009
+
 - c-003
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,13 +209,13 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
     jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.
 
+
     krante žemiau Nogato atsišakojimo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60520
@@ -301,7 +283,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-60523
   autorius: "Petras Dusburgietis"
@@ -326,7 +308,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-60524
   autorius: "Petras Dusburgietis"
@@ -346,7 +328,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-60525
   autorius: "Petras Dusburgietis"
@@ -375,9 +357,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
+    - t-004
     - t-005
-    - t-002
-    - t-006
 
 - id: c-167498
   autorius: "Petras Dusburgietis"
@@ -398,7 +380,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
     - t-007
 
 - id: c-179036

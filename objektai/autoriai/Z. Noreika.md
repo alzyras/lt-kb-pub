@@ -51,8 +51,7 @@ Dusburgietis teigia, kad noreika ir V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61456
-- susijęs iš [[objektai/autoriai/V. Stravinskas.md#claim-t-60805|V. Stravinskas]]: V. Stravinskas kartu su Z. Noreika parengė Lietuvos TSR administracinio-teritorinio suskirstymo žinyno antrąją dalį.
-- susijęs iš Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas Parengė Z. Noreika ir V. Stravinskas: Z. Noreikos ir V. Stravinsko parengto „Lietuvos TSR administracinio-teritorinio suskirstymo žinyno“ antra dalis išleista Vilniuje 1976 m.
+
 ## Citatos
 
 - id: c-61456

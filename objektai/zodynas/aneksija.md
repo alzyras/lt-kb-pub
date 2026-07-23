@@ -73,7 +73,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-24738
 
 <a id="claim-t-70086"></a>
-- t-004
+- t-003
   teiginys: "Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-37896
 
 <a id="claim-t-70087"></a>
-- t-003
+- t-004
   teiginys: "Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-166789
 
 <a id="claim-t-193599"></a>
-- t-007
+- t-005
   teiginys: "Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -118,11 +118,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176274
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78355|Lietuvos komunistų partija]]: Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78367|Lietuvos komunistų partija]]: Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-183234|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75122|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.
-- susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
+
 ## Citatos
 
 - id: c-24737
@@ -185,7 +181,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-166789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -206,7 +202,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-176274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -231,4 +227,4 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

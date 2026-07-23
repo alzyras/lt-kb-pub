@@ -49,8 +49,7 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175616
-- susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
-- susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
+
 ## Citatos
 
 - id: c-175616

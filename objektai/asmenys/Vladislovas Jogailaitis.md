@@ -8,10 +8,6 @@ datos:
   - '1435 m.'
 date_start: '1435'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '39'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Vladislaus_I_%28Chronica_Hungarorum%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVladislaus_I_%28Chronica_Hungarorum%29.jpg'
@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40515"></a>
-- t-003
+- t-001
   teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ media_all_json: |-
     - c-167157
 
 <a id="claim-t-40516"></a>
-- t-001
+- t-002
   teiginys: "Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ media_all_json: |-
     - c-44563
 
 <a id="claim-t-40517"></a>
-- t-002
+- t-003
   teiginys: "1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ media_all_json: |-
     - c-44565
 
 <a id="claim-t-184859"></a>
-- t-007
+- t-004
   teiginys: "Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ media_all_json: |-
     - c-168220
 
 <a id="claim-t-184861"></a>
-- t-009
+- t-005
   teiginys: "Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti."
   atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ media_all_json: |-
     - c-178806
 
 <a id="claim-t-196629"></a>
-- t-010
+- t-006
   teiginys: "Kojelavičiaus pasakojime Vladislovo tėvas piktinosi ir, puoselėdamas kerštą sūnui Vladislovui, skatino Joną pradėti karą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -207,7 +207,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-44563
@@ -229,7 +228,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44564
   sudarytojas: "Karolis Zikaras"
@@ -269,7 +268,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-44565
   sudarytojas: "Karolis Zikaras"
@@ -294,7 +293,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-167157
   sudarytojas: "Karolis Zikaras"
@@ -336,7 +335,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-168220
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -359,7 +358,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-168222
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -387,7 +386,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-178806
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -409,5 +408,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-010
+    - t-005
+    - t-006

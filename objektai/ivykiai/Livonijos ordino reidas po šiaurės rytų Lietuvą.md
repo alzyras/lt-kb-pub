@@ -8,14 +8,14 @@ datos:
   - '1433 m.'
 date_start: '1432'
 date_end: '1433'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
   - karas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186744"></a>
-- t-003
+- t-001
   teiginys: "Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-169960
 
 <a id="claim-t-186745"></a>
-- t-006
+- t-002
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -104,7 +104,7 @@ Nenurodyta
     - c-169960
 
 <a id="claim-t-186746"></a>
-- t-001
+- t-003
   teiginys: "1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -126,7 +126,7 @@ Nenurodyta
     - c-169960
 
 <a id="claim-t-186747"></a>
-- t-002
+- t-004
   teiginys: "1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -148,7 +148,7 @@ Nenurodyta
     - c-169960
 
 <a id="claim-t-186748"></a>
-- t-004
+- t-005
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -215,7 +215,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-169960
   autorius: "Anoniminis metraštininkas"
@@ -236,8 +236,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
     - t-001
     - t-002
+    - t-003
     - t-004
+    - t-005

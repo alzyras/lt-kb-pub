@@ -41,7 +41,7 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
 ## Teiginiai
 
 <a id="claim-t-34259"></a>
-- t-002
+- t-001
   teiginys: "Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
     - c-35484
 
 <a id="claim-t-34260"></a>
-- t-001
+- t-002
   teiginys: "Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-35485
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -150,7 +150,7 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167625
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

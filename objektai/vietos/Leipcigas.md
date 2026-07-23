@@ -11,14 +11,14 @@ datos:
   - '1752 m.'
 date_start: '1310'
 date_end: '1752'
-amziai:
-  - 'XIV'
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XIV'
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 ## Teiginiai
 
 <a id="claim-t-83727"></a>
-- t-003
+- t-001
   teiginys: "Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - c-79985
 
 <a id="claim-t-83728"></a>
-- t-001
+- t-002
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - c-24233
 
 <a id="claim-t-83729"></a>
-- t-002
+- t-003
   teiginys: "Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,24 +116,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184973
-- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101689|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.
-- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš [[objektai/asmenys/Mlodyčius.md#claim-t-87919|Mlodyčius]]: Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.
-- susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87587|Turčinas]]: Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.
-- susijęs iš [[objektai/autoriai/S. F. Platonov.md#claim-t-30968|S. F. Platonov]]: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ 1927 m. buvo išleista Leipcige.
-- susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
-- susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
-- susijęs iš Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście: Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m.
-- susijęs iš Johann Severin Vater, Sprache der alten Preussen: Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išleistą Leipcige leidinyje „Annalisten“.
-- susijęs iš Plinius C. Secundus Naturalis historiae libri XXXVII Ed. C. Mayhoff. Vol. V. Libri XXXI— XXXVII,—Lipsiae, 1897: C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.
-- susijęs iš S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
-- susijęs iš S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
-- susijęs iš Scriptores rerum Prussicarum T. Hirsch, M. Toppen, E. Strehlke 5 Bd: Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.
-- susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
-- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
-- susijęs iš [[objektai/asmenys/Plockis.md#claim-t-87834|Plockis]]: Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.
+
 ## Citatos
 
 - id: c-24233
@@ -158,7 +141,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-79985
   autorius: "Michał Baliński"
@@ -181,7 +164,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-004
 
 - id: c-79986
@@ -199,7 +182,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-184973
   autorius: "Zigmantas Kiaupa"

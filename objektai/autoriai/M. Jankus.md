@@ -44,8 +44,7 @@ Jankus ir lietuvių draugas vokietis S.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01341
-- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
-- susijęs iš [[objektai/autoriai/Šernas.md#claim-t-01173|Šernas]]: Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.
+
 ## Citatos
 
 - id: c-01341

@@ -41,9 +41,7 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172430
-- susijęs iš [[objektai/daiktai/Žvakinių žvakės.md#claim-t-189762|Žvakinių žvakės]]: Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį.
-- susijęs iš [[objektai/zodynas/Žvakiniai Žwakones.md#claim-t-189353|Žvakiniai Žwakones]]: Narbutas žvakinius (Žwakones) aprašo kaip pranašautojus, kurie liedavosi žvakes ir ateitį spėdavo pagal jų degimą bei dūmus.
-- susijęs iš [[objektai/paprociai/Pranašavimas iš žvakių degimo ir dūmų.md#claim-t-189931|Pranašavimas iš žvakių degimo ir dūmų]]: Narbutas žvakinius, arba Žwakones, apibūdino kaip pranašautojus, kurie ateitį spėdavo iš specialių žvakių degimo ir dūmų.
+
 ## Citatos
 
 - id: c-172430

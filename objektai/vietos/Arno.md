@@ -49,10 +49,7 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175632
-- susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
-- susijęs iš [[objektai/grupes/Pelazgai.md#claim-t-192436|Pelazgai]]: Teodoro Narbuto aiškinimu, įvairios pelazgų kartos perėjo į helenų tautą, o iš pelazgų kalbos susiformavo graikų kalba.
-- susijęs iš Dnepras: Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.
-- susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
+
 ## Citatos
 
 - id: c-175632

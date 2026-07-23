@@ -54,7 +54,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir išvalytas nuo perteklinės formuluotės."
   pagrindžia:
     - c-33870
-- susijęs iš Karšuva: XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.
+
 ## Citatos
 
 - id: c-33870

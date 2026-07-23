@@ -55,11 +55,7 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-21957
-- susijęs iš Barselona: 1992 m. Barselonos olimpinėse žaidynėse disko metikas Romas Ubartas iškovojo pirmą aukso medalį nepriklausomai Lietuvai.
-- susijęs iš [[objektai/daiktai/Olimpiniai medaliai.md#claim-t-19575|Olimpiniai medaliai]]: Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.
-- susijęs iš [[objektai/daiktai/Olimpiniai medaliai.md#claim-t-19576|Olimpiniai medaliai]]: Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.
-- susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.).md#claim-t-75211|Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.)]]: Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.
-- susijęs iš [[objektai/ivykiai/Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.).md#claim-t-20465|Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)]]: Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.
+
 ## Citatos
 
 - id: c-21957

@@ -62,9 +62,7 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   semantiniai_rysiai: "P. Liatukas siuntė į Prienai (0.94)"
   pagrindžia:
     - c-41427
-- susijęs iš [[objektai/asmenys/J. Butkus.md#claim-t-40153|J. Butkus]]: J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49491|V. Grigaliūnas-Glovackis]]: Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49492|V. Grigaliūnas-Glovackis]]: 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
+
 ## Citatos
 
 - id: c-41426

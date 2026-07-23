@@ -42,7 +42,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 ## Teiginiai
 
 <a id="claim-t-65908"></a>
-- t-003
+- t-001
   teiginys: "1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - c-42861
 
 <a id="claim-t-193557"></a>
-- t-004
+- t-003
   teiginys: "Visuotinį šio karo mastą rodo okupantų baudžiamųjų akcijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -148,4 +148,4 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

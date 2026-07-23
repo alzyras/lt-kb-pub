@@ -44,8 +44,7 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38352
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184344|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184330|Lenkai]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+
 ## Citatos
 
 - id: c-38352

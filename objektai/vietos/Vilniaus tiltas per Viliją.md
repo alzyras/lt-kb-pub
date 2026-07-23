@@ -38,7 +38,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 ## Teiginiai
 
 <a id="claim-t-195185"></a>
-- t-002
+- t-001
   teiginys: "Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - c-177553
 
 <a id="claim-t-195186"></a>
-- t-003
+- t-002
   teiginys: "Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - c-177551
 
 <a id="claim-t-195187"></a>
-- t-004
+- t-003
   teiginys: "Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - c-177550
 
 <a id="claim-t-195188"></a>
-- t-005
+- t-004
   teiginys: "1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     - c-177552
 
 <a id="claim-t-195189"></a>
-- t-001
+- t-005
   teiginys: "Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177551
   autorius: "Michał Baliński"
@@ -193,7 +193,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177552
   autorius: "Michał Baliński"
@@ -219,7 +219,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177553
   autorius: "Michał Baliński"
@@ -269,8 +269,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-005
 
 - id: c-177554
   autorius: "Michał Baliński"
@@ -289,9 +289,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   citata_rodoma: "O po kele­\nlių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir \nžemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus \nmalūnas. Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­\ntautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­\ndimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę \nnutiesti tiltą iš akmenų arba plytų. Ant to tilto pastatyti pir­\nkliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys \ngavo teisę visiems laikams imti mokestį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

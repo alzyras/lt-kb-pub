@@ -45,12 +45,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - c-59706
     - c-167409
-- susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89876|Jėzus Kristus]]: Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai.
-- susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89878|Jėzus Kristus]]: Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.
-- susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64226|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102847|Dusburgas]]: Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.
+
 ## Citatos
 
 - id: c-59706

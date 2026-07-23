@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį, bet citata leidžia suformuluoti aiškų faktą."
   pagrindžia:
     - c-28747
-- susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
+
 ## Citatos
 
 - id: c-28747

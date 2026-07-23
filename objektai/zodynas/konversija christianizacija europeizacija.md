@@ -37,7 +37,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 ## Teiginiai
 
 <a id="claim-t-22198"></a>
-- t-002
+- t-001
   teiginys: "Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - c-24886
 
 <a id="claim-t-183438"></a>
-- t-003
+- t-002
   teiginys: "Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -136,4 +136,4 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

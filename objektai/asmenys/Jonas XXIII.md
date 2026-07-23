@@ -31,7 +31,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 ## Teiginiai
 
 <a id="claim-t-176495"></a>
-- t-002
+- t-001
   teiginys: "Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-160497
 
 <a id="claim-t-176496"></a>
-- t-005
+- t-002
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-36388
 
 <a id="claim-t-176497"></a>
-- t-001
+- t-003
   teiginys: "Jonas XXIII pagal Jogailos ir Vytauto prašymą panaikino pasenusias Ordino privilegijas į Lietuvą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-167658
 
 <a id="claim-t-184282"></a>
-- t-007
+- t-005
   teiginys: "Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -113,11 +113,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167659
-- susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Gregorijus XII.md#claim-t-35086|Gregorijus XII]]: Gregorijus XII rėmė Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Inocentas VII.md#claim-t-35101|Inocentas VII]]: Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
-- susijęs iš Konstanca: Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.
+
 ## Citatos
 
 - id: c-36387
@@ -157,7 +153,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-160496
   autorius: "Zenonas Ivinskis"
@@ -180,7 +176,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-160497
   autorius: "Zenonas Ivinskis"
@@ -199,7 +195,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167658
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -238,4 +234,4 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

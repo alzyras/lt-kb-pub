@@ -61,6 +61,7 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   citata_rodoma: "Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

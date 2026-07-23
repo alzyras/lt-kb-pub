@@ -74,11 +74,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184459
-- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-192605|Vulfstanas]]: Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero.
-- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190820|Vulfstanas (jūrininkas, IX amžius)]]: Teodoro Narbuto vertinimu, be Vulfstano aprašymų apie prekybinį Truso miestą prie Drūsinės ežero galbūt nieko nebūtų žinoma.
-- susijęs iš Šiaurės keliautojo Vulfstano aprašymai: Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190760|Motiejus Pretorijus]]: Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę.
-- susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190786|Pretorijus]]: Pasak Pretorijaus, Poiein ziemme senovės prūsams reiškė galingos genties žemę.
+
 ## Citatos
 
 - id: c-175627

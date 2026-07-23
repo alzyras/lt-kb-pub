@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80590"></a>
-- t-008
+- t-001
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-77306
 
 <a id="claim-t-80591"></a>
-- t-005
+- t-002
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -78,7 +78,7 @@ media_all_json: |-
     - c-44123
 
 <a id="claim-t-80592"></a>
-- t-004
+- t-003
   teiginys: "Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -97,7 +97,7 @@ media_all_json: |-
     - c-77306
 
 <a id="claim-t-80594"></a>
-- t-009
+- t-004
   teiginys: "Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -113,7 +113,7 @@ media_all_json: |-
     - c-77305
 
 <a id="claim-t-80595"></a>
-- t-006
+- t-005
   teiginys: "Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -127,13 +127,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-77305
-- susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-183680|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71783|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-- susijęs iš [[objektai/grupes/Muškietininkų būrys.md#claim-t-41091|Muškietininkų būrys]]: 1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
-- susijęs iš Buktos (Žaliosios) miškas: Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
+
 ## Citatos
 
 - id: c-44123
@@ -156,7 +150,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-77305
   sudarytojas: "Karolis Zikaras"
@@ -177,8 +171,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-006
+    - t-004
+    - t-005
 
 - id: c-77306
   sudarytojas: "Karolis Zikaras"
@@ -221,5 +215,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-004
+    - t-001
+    - t-003

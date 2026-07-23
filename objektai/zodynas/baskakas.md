@@ -56,7 +56,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 ## Teiginiai
 
 <a id="claim-t-78877"></a>
-- t-006
+- t-001
   teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -72,7 +72,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-75996
 
 <a id="claim-t-78878"></a>
-- t-003
+- t-002
   teiginys: "1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -90,7 +90,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-44151
 
 <a id="claim-t-78879"></a>
-- t-005
+- t-003
   teiginys: "1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -119,7 +119,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - c-75996
 
 <a id="claim-t-187518"></a>
-- t-001
+- t-005
   teiginys: "Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170469
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
+
 ## Citatos
 
 - id: c-44150
@@ -184,8 +184,8 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-005
 
 - id: c-75996
   sudarytojas: "Karolis Zikaras"
@@ -210,7 +210,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
     - t-004
 
 - id: c-170469
@@ -237,4 +237,4 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005

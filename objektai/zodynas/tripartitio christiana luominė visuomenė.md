@@ -30,7 +30,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ## Teiginiai
 
 <a id="claim-t-22330"></a>
-- t-002
+- t-001
   teiginys: "Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     - c-176287
 
 <a id="claim-t-193614"></a>
-- t-003
+- t-002
   teiginys: "Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -90,5 +90,5 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

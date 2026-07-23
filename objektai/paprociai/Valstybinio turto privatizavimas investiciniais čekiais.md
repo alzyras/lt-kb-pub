@@ -69,7 +69,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 ## Teiginiai
 
 <a id="claim-t-20821"></a>
-- t-005
+- t-001
   teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -78,7 +78,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     - c-23543
 
 <a id="claim-t-20822"></a>
-- t-006
+- t-002
   teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -112,7 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-23544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -132,4 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

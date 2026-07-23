@@ -74,7 +74,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177004
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188349|Slavai]]: Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.
+
 ## Citatos
 
 - id: c-172372

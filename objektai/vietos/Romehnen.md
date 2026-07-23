@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59350
-- susijęs iš [[objektai/autoriai/Voigt J.md#claim-t-64867|Voigt J]]: J. Voigtas cituojamas dėl Romuvos paieškų ir Romehnen vietovės Semboje siejimo su šventa kulto vieta.
+
 ## Citatos
 
 - id: c-59350

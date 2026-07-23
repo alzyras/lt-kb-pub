@@ -52,7 +52,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187832"></a>
-- t-002
+- t-001
   teiginys: "Įžangos autorius teigia, kad tautinei savimonei palaikyti buvo keliama gimtosios kalbos, papročių, istorijos ir tautinės kultūros puoselėjimo bei tyrimo programa."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -96,4 +96,4 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

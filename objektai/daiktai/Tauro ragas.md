@@ -66,9 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184074
-- susijęs iš [[objektai/asmenys/Motiejus Stryjkowskis.md#claim-t-200738|Motiejus Stryjkowskis]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-200709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas padovanojo imperatoriui Zigmantui brangakmeniais puoštą tauro ragą.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-200710|Zigmantas (Romos imperatorius)]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo imperatorius Zigmantas iš Vytauto gavo brangakmeniais puoštą tauro ragą.
+
 ## Citatos
 
 - id: c-184074

@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62687"></a>
-- t-002
+- t-001
   teiginys: "Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-63435
 
 <a id="claim-t-196986"></a>
-- t-003
+- t-002
   teiginys: "Šiuos visus užpuolė broliai ir kovoje išžudė, o vežimus bei ketverinius kinkinius nusivarė į pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-178994
 
 <a id="claim-t-196987"></a>
-- t-004
+- t-003
   teiginys: "Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji prigėrė Vysloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178994
   autorius: "Petras Dusburgietis"
@@ -132,7 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178995
   autorius: "Petras Dusburgietis"
@@ -149,4 +149,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

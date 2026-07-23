@@ -58,9 +58,7 @@ Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir apraš
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174162
-- susijęs iš [[objektai/ivykiai/Argonautų kelionė Argo laivu.md#claim-t-191039|Argonautų kelionė Argo laivu]]: Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais.
-- susijęs iš [[objektai/asmenys/Argas.md#claim-t-191368|Argas]]: Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąja jūra, tuomet vadinta Pontos-Axenos.
-- susijęs iš [[objektai/grupes/Argonautai.md#claim-t-192977|Argonautai]]: Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, nes plaukė Argo laivu.
+
 ## Citatos
 
 - id: c-174162

@@ -60,7 +60,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21760
 
 <a id="claim-t-101654"></a>
-- t-010
+- t-002
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
   atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-95121
 
 <a id="claim-t-101655"></a>
-- t-006
+- t-003
   teiginys: "Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-95119
 
 <a id="claim-t-101657"></a>
-- t-003
+- t-005
   teiginys: "Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21762
 
 <a id="claim-t-101658"></a>
-- t-012
+- t-006
   teiginys: "Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21767
 
 <a id="claim-t-101659"></a>
-- t-002
+- t-007
   teiginys: "Josifas Stalinas ir V. Molotovas agresyviai spaudė Lietuvą prieš spalio 10 d. pasirašant Vilniaus perdavimo ir savitarpio pagalbos su SSRS sutartis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21760
 
 <a id="claim-t-101660"></a>
-- t-011
+- t-008
   teiginys: "Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21766
 
 <a id="claim-t-101661"></a>
-- t-005
+- t-009
   teiginys: "Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21765
 
 <a id="claim-t-101662"></a>
-- t-009
+- t-010
   teiginys: "J. Stalino valdymo metais komunistų partija kontroliavo lietuvių kultūrą, cenzūravo tekstus ir primetė marksistinę-lenininę filosofiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-95119
 
 <a id="claim-t-101663"></a>
-- t-007
+- t-011
   teiginys: "Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -216,7 +216,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21767
 
 <a id="claim-t-101664"></a>
-- t-008
+- t-012
   teiginys: "J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -232,12 +232,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-95121
-- susijęs iš Maskva: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
-- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19026|Juozas Urbšys]]: Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes.
-- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19028|Juozas Urbšys]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir teritorijos perdavimo Vokietijai sutartis.
-- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
-- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75300|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.
-- susijęs iš SSRS siūlyta sutartis dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai: Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+
 ## Citatos
 
 - id: c-21760
@@ -259,7 +254,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-007
 
 - id: c-21761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -301,7 +296,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-21764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -343,7 +338,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
 
 - id: c-21766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -363,9 +358,9 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-006
-    - t-011
+    - t-002
+    - t-003
+    - t-008
 
 - id: c-21767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -385,8 +380,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-007
+    - t-006
+    - t-011
 
 - id: c-95119
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -413,9 +408,9 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-002
     - t-004
-    - t-009
+    - t-010
 
 - id: c-95121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -442,5 +437,5 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-008
+    - t-002
+    - t-012

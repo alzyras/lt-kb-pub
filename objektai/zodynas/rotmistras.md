@@ -50,7 +50,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 ## Teiginiai
 
 <a id="claim-t-70311"></a>
-- t-005
+- t-001
   teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     - c-44219
 
 <a id="claim-t-70312"></a>
-- t-007
+- t-002
   teiginys: "Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     - c-44216
 
 <a id="claim-t-70314"></a>
-- t-006
+- t-003
   teiginys: "Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -128,8 +128,8 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-006
+    - t-002
+    - t-003
 
 - id: c-44217
   sudarytojas: "Karolis Zikaras"
@@ -148,7 +148,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-44219
   sudarytojas: "Karolis Zikaras"
@@ -168,4 +168,4 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

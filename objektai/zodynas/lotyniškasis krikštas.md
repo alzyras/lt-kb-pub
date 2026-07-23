@@ -68,7 +68,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 ## Teiginiai
 
 <a id="claim-t-47928"></a>
-- t-003
+- t-001
   teiginys: "Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -85,7 +85,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
     - c-167727
 
 <a id="claim-t-47929"></a>
-- t-005
+- t-002
   teiginys: "Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -104,7 +104,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
     - c-32666
 
 <a id="claim-t-47930"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -142,7 +142,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-32666
   autorius: "Zenonas Ivinskis"
@@ -167,8 +167,8 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-167727
   autorius: "Zenonas Ivinskis"
@@ -187,4 +187,4 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

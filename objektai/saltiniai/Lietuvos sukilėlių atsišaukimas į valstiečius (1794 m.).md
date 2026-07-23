@@ -36,7 +36,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 ## Teiginiai
 
 <a id="claim-t-45724"></a>
-- t-003
+- t-001
   teiginys: "1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     - c-48431
 
 <a id="claim-t-45725"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius buvo pirmas atsišaukimas lietuvių kalba, raginęs pradėti partizaninį karą prieš Rusijos kariuomenę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
     - c-23888
 
 <a id="claim-t-45726"></a>
-- t-002
+- t-003
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius žadėjo valstiečiams suteikti asmens laisvę."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -105,8 +105,8 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
 
 - id: c-48431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -129,4 +129,4 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -75,11 +75,10 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
     vino kaip vandalų, finų, galindų ir venedų nugalėto­
     ją.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174282

@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75231"></a>
-- t-005
+- t-001
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-73089
 
 <a id="claim-t-75232"></a>
-- t-006
+- t-002
   teiginys: "Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-73090
 
 <a id="claim-t-75233"></a>
-- t-002
+- t-003
   teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-23118
 
 <a id="claim-t-75235"></a>
-- t-001
+- t-005
   teiginys: "Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
     - c-23114
 
 <a id="claim-t-75236"></a>
-- t-003
+- t-006
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-23116
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -205,7 +205,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-23117
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -223,7 +223,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-23118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -265,7 +265,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-73090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -290,4 +290,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

@@ -54,8 +54,7 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-40239
-- susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
-- susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
+
 ## Citatos
 
 - id: c-40239

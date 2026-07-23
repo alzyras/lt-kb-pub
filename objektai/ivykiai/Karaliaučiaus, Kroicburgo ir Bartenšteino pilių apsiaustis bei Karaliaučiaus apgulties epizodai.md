@@ -11,15 +11,15 @@ datos:
   - '1815 m.'
 date_start: '250'
 date_end: '1815'
-amziai:
-  - 'III'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - mūšis
+amziai:
+  - 'III'
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59177"></a>
-- t-003
+- t-001
   teiginys: "Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-167313
 
 <a id="claim-t-59178"></a>
-- t-005
+- t-002
   teiginys: "Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-59813
 
 <a id="claim-t-59179"></a>
-- t-004
+- t-003
   teiginys: "Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Nenurodyta
     - c-59809
 
 <a id="claim-t-59180"></a>
-- t-006
+- t-004
   teiginys: "Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Nenurodyta
     - c-59814
 
 <a id="claim-t-59181"></a>
-- t-001
+- t-005
   teiginys: "Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Nenurodyta
     - c-59811
 
 <a id="claim-t-59182"></a>
-- t-007
+- t-006
   teiginys: "Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
     - c-59812
 
 <a id="claim-t-59183"></a>
-- t-002
+- t-007
   teiginys: "Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -196,7 +196,7 @@ Nenurodyta
     - c-167312
 
 <a id="claim-t-196946"></a>
-- t-010
+- t-009
   teiginys: "1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie pavakarę, jie atvyko į Karaliaučiaus pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,7 @@ Nenurodyta
     - c-59810
 
 <a id="claim-t-196947"></a>
-- t-011
+- t-010
   teiginys: "Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -231,10 +231,30 @@ Nenurodyta
     tu globoji. „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
     niekas nebeminėtų“.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
+    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
+    pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
+    vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
+    ir šitaip jam atseikėjo tuo pačiu saiku. Nusilpęs dėl šios žaizdos, jis pasitraukė su savo
+    kariuomene nepasiekęs tikslo.
+    105 (100). Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas
+    Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai
+    puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar
+    mirtinai sužeistaisiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-011
 
 ## Citatos
 
@@ -264,8 +284,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-59810
   autorius: "Petras Dusburgietis"
@@ -288,8 +308,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-010
+    - t-007
+    - t-009
 
 - id: c-59811
   autorius: "Petras Dusburgietis"
@@ -308,7 +328,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-59812
   autorius: "Petras Dusburgietis"
@@ -335,7 +355,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-59813
   autorius: "Petras Dusburgietis"
@@ -355,7 +375,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-59814
   autorius: "Petras Dusburgietis"
@@ -375,8 +395,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-011
+    - t-004
+    - t-010
 
 - id: c-167312
   autorius: "Petras Dusburgietis"
@@ -424,4 +444,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

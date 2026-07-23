@@ -56,11 +56,7 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
   temporalinis_llm_pakomentavimas: "Pradinis teiginys fragmentiškas, citata pagrindžia pareigas ir datą."
   pagrindžia:
     - c-21795
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75761|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75774|Augustinas Voldemaras]]: 1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.
-- susijęs iš [[objektai/asmenys/Maksas fon Badenas.md#claim-t-19123|Maksas fon Badenas]]: Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.
-- susijęs iš [[objektai/asmenys/S. Šilingas.md#claim-t-19219|S. Šilingas]]: S. Šilingas 1918 m. lapkričio 2 d. buvo Tarybos prezidiumo vicepirmininkas.
-- susijęs iš Laikinoji konstitucija (1918 m. lapkričio 2 d.): 1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.
+
 ## Citatos
 
 - id: c-21795

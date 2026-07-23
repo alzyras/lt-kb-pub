@@ -65,7 +65,7 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
   semantiniai_rysiai: "Zyndramas iš Moškovicų buvo sąjungininkas su Lenkai (0.72)"
   pagrindžia:
     - c-36061
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176212|Vėliavos]]: Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.
+
 ## Citatos
 
 - id: c-36061

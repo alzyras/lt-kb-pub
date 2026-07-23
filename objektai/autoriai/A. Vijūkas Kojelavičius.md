@@ -49,7 +49,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 ## Teiginiai
 
 <a id="claim-t-187924"></a>
-- t-003
+- t-001
   teiginys: "Kojelavičius Pagraudenę vadino apylinke Žemaitijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -60,7 +60,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170916
 
 <a id="claim-t-187925"></a>
-- t-005
+- t-002
   teiginys: "Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -75,7 +75,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170913
 
 <a id="claim-t-187926"></a>
-- t-007
+- t-003
   teiginys: "A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -88,7 +88,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170914
 
 <a id="claim-t-187927"></a>
-- t-002
+- t-004
   teiginys: "A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -100,7 +100,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170916
 
 <a id="claim-t-187928"></a>
-- t-004
+- t-005
   teiginys: "A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -115,7 +115,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170914
 
 <a id="claim-t-187929"></a>
-- t-001
+- t-006
   teiginys: "A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -125,7 +125,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     - c-170915
 
 <a id="claim-t-187930"></a>
-- t-006
+- t-007
   teiginys: "Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -136,9 +136,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-170913
-- susijęs iš [[objektai/zodynas/pikinierius pikinieriai.md#claim-t-42496|pikinierius pikinieriai]]: Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.
-- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.
+
 ## Citatos
 
 - id: c-170913
@@ -161,8 +159,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-002
+    - t-007
 
 - id: c-170914
   sudarytojas: "Karolis Zikaras"
@@ -184,8 +182,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-004
+    - t-003
+    - t-005
 
 - id: c-170915
   autorius: "Michał Baliński"
@@ -204,7 +202,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-170916
   autorius: "Michał Baliński"
@@ -230,5 +228,5 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
+    - t-001
+    - t-004

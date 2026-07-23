@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187986"></a>
-- t-004
+- t-001
   teiginys: "Narbutas su tokiu nelaimingu ženklu sieja iškilmingą Apidomės šaukimąsi, duonos auką ir namo perkėlimą į kitą vietą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-170998
 
 <a id="claim-t-187987"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašo, kad aklo arba ydingai gimusio naminio gyvulio atvejį lietuviai laikė nelaimingu ženklu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::customs"
@@ -100,11 +100,11 @@ Nenurodyta
     riam kaip auka su ypatingomis apeigomis būdavo kepama duo­
     na (Donas), po to namą perkeldavo į kitą vietą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-187987
+  statusas: verified
+- t-001
 
 ## Citatos
 
@@ -126,5 +126,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

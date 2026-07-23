@@ -42,7 +42,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 ## Teiginiai
 
 <a id="claim-t-65147"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - c-166511
 
 <a id="claim-t-183125"></a>
-- t-003
+- t-002
   teiginys: "Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - c-166510
 
 <a id="claim-t-183126"></a>
-- t-004
+- t-003
   teiginys: "Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166511
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -171,5 +171,5 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003

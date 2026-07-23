@@ -90,7 +90,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     - c-172362
 
 <a id="claim-t-189477"></a>
-- t-005
+- t-004
   teiginys: "Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, garbintus kaip fetišus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     - c-172364
 
 <a id="claim-t-197213"></a>
-- t-006
+- t-005
   teiginys: "Pasak šių lietuvių padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė buvo deivė, kaip vadinosi vyriausiasis dievas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
     - c-179069
 
 <a id="claim-t-197214"></a>
-- t-007
+- t-006
   teiginys: "Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę, pagrindą ištisai sudaro indų padavimai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -132,13 +132,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172363
-- susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188236|Latviai]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas.
-- susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189402|Rusinai]]: Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.
-- susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189403|Rusinai]]: Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.
-- susijęs iš [[objektai/grupes/Senovės vokiečiai.md#claim-t-189546|Senovės vokiečiai]]: Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pilwis ir Belewitt.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188346|Slavai]]: Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais.
-- susijęs iš [[objektai/posakiai/oni sporzjadają.md#claim-t-189587|oni sporzjadają]]: Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda.
+
 ## Citatos
 
 - id: c-172360
@@ -229,7 +223,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-172364
   autorius: "Teodoras Narbutas"
@@ -250,7 +244,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-179069
   autorius: "Teodoras Narbutas"
@@ -270,7 +264,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 - Lietuvos rusinai gyveno [[objektai/vietos/Lietuva]]

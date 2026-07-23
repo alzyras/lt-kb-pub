@@ -68,20 +68,7 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175588
-- susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
-- susijęs iš [[objektai/asmenys/Jupiteris.md#claim-t-191424|Jupiteris]]: Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane.
-- susijęs iš [[objektai/ivykiai/Fajetono kritimas į Eridaną ir Heliadų virtimas.md#claim-t-191059|Fajetono kritimas į Eridaną ir Heliadų virtimas]]: Narbuto perteikiamame mite Fajetono bičiulis Cignas iš sielvarto virto gulbinu Eridano ežere.
-- susijęs iš [[objektai/asmenys/Dionyzas iš Charakso.md#claim-t-191162|Dionyzas iš Charakso]]: Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
-- susijęs iš [[objektai/asmenys/Fajetonas.md#claim-t-191267|Fajetonas]]: Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius.
-- susijęs iš [[objektai/asmenys/Homeras.md#claim-t-191278|Homeras]]: Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.
-- susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191974|Radlofas]]: Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.
-- susijęs iš [[objektai/autoriai/Dionyzas iš Charakso.md#claim-t-191562|Dionyzas iš Charakso]]: Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
-- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190724|Homeras]]: Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.
-- susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191618|Radlofas]]: Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192945|Boristeniečiai]]: Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia iš šiaurės vakaruose esančios jūros.
-- susijęs iš Aldeskos upė: Pasak Narbuto, Dionyzas iš Charakso Aldeskos upės žiotis prie Šiaurės jūros siejo su gintaro radimo vieta.
-- susijęs iš Šiaurės jūra: Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
-- susijęs iš [[objektai/asmenys/Jupiteris.md#claim-t-191424|Jupiteris]]: Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane.
+
 ## Citatos
 
 - id: c-175587

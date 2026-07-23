@@ -39,7 +39,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Teiginiai
 
 <a id="claim-t-64236"></a>
-- t-003
+- t-001
   teiginys: "Agresyviai spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, 1939 m. spalio 10 d. pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-22051
 
 <a id="claim-t-64239"></a>
-- t-004
+- t-003
   teiginys: "Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-65044
 
 <a id="claim-t-64240"></a>
-- t-001
+- t-004
   teiginys: "1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -104,11 +104,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi šaltinio fragmentų, bet citata leidžia suformuluoti pilną faktą."
   pagrindžia:
     - c-65047
-- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66771|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.
-- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169961|Antanas Merkys]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.
-- susijęs iš Maskva: Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą.
-- susijęs iš Maskva: Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.
-- susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
+
 ## Citatos
 
 - id: c-22051
@@ -151,7 +147,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-65045
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,5 +213,5 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-004

@@ -13,11 +13,11 @@ datos:
   - '1569 m.'
 date_start: '1463'
 date_end: '1569'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

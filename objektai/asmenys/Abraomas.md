@@ -48,7 +48,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     - c-60858
 
 <a id="claim-t-188509"></a>
-- t-003
+- t-002
   teiginys: "Narbutas perteikia Izidoro pasakojimą, kad Mamrės lygumose matytas šventu laikytas ąžuolas, po kuriuo Abraomas statęs palapines."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     - c-171399
 
 <a id="claim-t-197387"></a>
-- t-004
+- t-003
   teiginys: "Abraomas keletą dienų susilaikys nuo noro santykiauti su moterimi; tam laikui praėjus, pridūrė, atsiųsiu pas tave bitę, kuri praneš tau tavo laimės valandą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -78,13 +78,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171398
-- susijęs iš [[objektai/asmenys/Melchizedekas.md#claim-t-60387|Melchizedekas (kunigas)]]: Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.
-- susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: Žygimanto Senojo rašte nurodyta, kad Vilniaus vyskupas Povilas Abraomą iš Kulvos kaltino atsiskyrimu nuo Romos katalikų Bažnyčios ir kitų klaidinimu.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192025|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį.
-- susijęs iš [[objektai/asmenys/Izaokas.md#claim-t-190159|Izaokas]]: Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko.
-- susijęs iš [[objektai/autoriai/Izidoras.md#claim-t-190429|Izidoras]]: Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
-- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
+
 ## Citatos
 
 - id: c-60858
@@ -135,7 +129,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-171399
   autorius: "Teodoras Narbutas"
@@ -158,4 +152,4 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -57,8 +57,7 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Gurnickio minimą įvykį Vilniuje."
   pagrindžia:
     - c-84070
-- susijęs iš [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys.md#claim-t-87101|Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]: Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.
-- susijęs iš [[objektai/zodynas/Puškarnia.md#claim-t-86613|Puškarnia]]: Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė.
+
 ## Citatos
 
 - id: c-84070

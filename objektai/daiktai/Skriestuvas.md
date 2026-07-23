@@ -68,17 +68,3 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Akacijos šakelė.md#claim-t-189716|Akacijos šakelė]]: Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.
-- susijęs iš [[objektai/daiktai/Masonų taurės raižinio objektai.md#claim-t-189730|Masonų taurės raižinio objektai]]: Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.
-- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
-- susijęs iš [[objektai/daiktai/Kampainis.md#claim-t-189723|Kampainis]]: Masonų organizacijose kampainis simbolizavo sąžinę.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187809|Masonų apeigų taurė]]: Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187810|Masonų apeigų taurė]]: Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-187811|Masonų apeigų taurė]]: Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“.
-- susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-188384|Masonų apeigų taurė]]: Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose.
-- susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.

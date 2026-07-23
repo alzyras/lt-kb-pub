@@ -51,7 +51,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
     - c-174447
 
 <a id="claim-t-191567"></a>
-- t-003
+- t-002
   teiginys: "Narbuto išnašoje nurodoma, kad dokumentai apie estus yra Kasiodoro laiškų rinkinyje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -130,4 +130,4 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

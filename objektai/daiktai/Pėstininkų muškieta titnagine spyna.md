@@ -65,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Pėstininkų muškieta titnagine spyna priklausė Prūsija (0.82)"
   pagrindžia:
     - c-41020
-- susijęs iš Prūsija: XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.
+
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
 
 Nenurodyta

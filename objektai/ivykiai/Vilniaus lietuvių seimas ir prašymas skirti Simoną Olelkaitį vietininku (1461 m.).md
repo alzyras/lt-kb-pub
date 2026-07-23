@@ -71,7 +71,7 @@ Nenurodyta
     - c-169014
 
 <a id="claim-t-196264"></a>
-- t-003
+- t-002
   teiginys: "Karalius Kazimieras, rengdamasis traukti į Prūsiją, sušaukė Vilniuje lietuvių seimą dėl Lietuvos ir Podolės didikų įtampos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -144,4 +144,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

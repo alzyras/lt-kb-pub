@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-176229"></a>
-- t-003
+- t-001
   teiginys: "Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-160252
 
 <a id="claim-t-176231"></a>
-- t-001
+- t-002
   teiginys: "Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-160253
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -133,4 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

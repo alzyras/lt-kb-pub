@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195403"></a>
-- t-004
+- t-001
   teiginys: "Autorius rašo, kad vėliau Pelenijoje dėdelio jau nebevežiodavo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-177820
 
 <a id="claim-t-195404"></a>
-- t-001
+- t-002
   teiginys: "Pelenijoje mažiukai per kaimą veždavo „dėdelį“."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-177820
 
 <a id="claim-t-195405"></a>
-- t-002
+- t-003
   teiginys: "Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -122,8 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-001
+    - t-002
 
 - id: c-177821
   autorius: "M. Katkus"
@@ -153,4 +153,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

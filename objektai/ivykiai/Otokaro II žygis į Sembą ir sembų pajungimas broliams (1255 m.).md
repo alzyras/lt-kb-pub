@@ -8,13 +8,13 @@ datos:
   - '1255 m.'
 date_start: '1254'
 date_end: '1255'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -89,7 +89,7 @@ Nenurodyta
     - c-66937
 
 <a id="claim-t-66807"></a>
-- t-004
+- t-003
   teiginys: "Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-66935
 
 <a id="claim-t-66808"></a>
-- t-005
+- t-004
   teiginys: "Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Nenurodyta
     - c-66932
 
 <a id="claim-t-66809"></a>
-- t-003
+- t-005
   teiginys: "Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-66932
@@ -178,7 +177,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-66933
   autorius: "Petras Dusburgietis"
@@ -202,7 +201,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-66935
   autorius: "Petras Dusburgietis"
@@ -249,7 +248,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-66936
   autorius: "Petras Dusburgietis"

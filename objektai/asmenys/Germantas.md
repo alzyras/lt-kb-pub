@@ -8,15 +8,15 @@ datos:
   - '1268 m.'
 date_start: '1268'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 ## Teiginiai
 
 <a id="claim-t-87425"></a>
-- t-002
+- t-001
   teiginys: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     - c-83406
 
 <a id="claim-t-87426"></a>
-- t-003
+- t-002
   teiginys: "Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     - c-83404
 
 <a id="claim-t-87427"></a>
-- t-001
+- t-003
   teiginys: "Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -188,20 +188,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178703
-- susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
-- susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
-- susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
-- susijęs iš [[objektai/asmenys/Leonas.md#claim-t-186009|Leonas]]: Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes.
-- susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186082|Trobius]]: Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184518|Lenkai]]: Pasak Kojelavičiaus, Germantas sudarė draugystę su lenkais, siekdamas bendromis jėgomis pulti rusus.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184595|Žemaičiai]]: Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.
-- susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
-- susijęs iš [[objektai/paprociai/Valdovų deginimo ir laidojimo apeigos Šventaragyje.md#claim-t-185856|Valdovų deginimo ir laidojimo apeigos Šventaragyje]]: Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.
-- susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Kernavėje rūmų maršalas įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184595|Žemaičiai]]: Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.'
@@ -223,7 +210,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-83404
@@ -254,7 +240,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-83405
   autorius: "Michał Baliński"
@@ -289,7 +275,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83406
   autorius: "Michał Baliński"
@@ -316,7 +302,7 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"

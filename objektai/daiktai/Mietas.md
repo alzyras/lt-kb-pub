@@ -64,9 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42528
-- susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
-- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
-- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08352|Vąšas]]: Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.
+
 ## Citatos
 
 - id: c-42528

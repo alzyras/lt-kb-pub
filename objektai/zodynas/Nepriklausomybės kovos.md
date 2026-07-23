@@ -57,16 +57,7 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą."
   pagrindžia:
     - c-45497
-- susijęs iš Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai: Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais.
-- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71499|Andžej Geglis]]: Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171498|Karolis Zikaras]]: Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
-- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
-- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
-- susijęs iš XX A. PRADŽIOS PĖSTININKŲ TAKTIKA: „XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.
-- susijęs iš Daugpilis: 1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.
-- susijęs iš Jieznas: Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.
+
 ## Citatos
 
 - id: c-45497

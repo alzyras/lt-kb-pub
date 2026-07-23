@@ -190,6 +190,7 @@ media_all_json: |-
   citata_rodoma: "Tai palikimas seniausių šios žemės gyvento­\njų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos\nmineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,\nšiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę\nrasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,\nlabai gražiai padirbtų iš titnago."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

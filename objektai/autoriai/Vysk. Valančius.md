@@ -3,7 +3,7 @@ tipas: autorius
 pavadinimas: 'Vysk. Valančius'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 variantai:
   - 'vyskupo Valančiaus'
 sukurta: ''
@@ -49,7 +49,7 @@ Valančiaus, VAIKŲ KNYGELĖ.
     - c-36702
 
 <a id="claim-t-195672"></a>
-- t-003
+- t-002
   teiginys: "Per vakarojimus būdavo skaitoma iš vyskupo Valančiaus knygelių."
   atnaujinta: "2026-07-12 14:54"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -57,8 +57,7 @@ Valančiaus, VAIKŲ KNYGELĖ.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178071
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00056|Motiejus Valančius]]: Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179551|Motiejus Valančius]]: Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.
+
 ## Citatos
 
 - id: c-36702
@@ -92,4 +91,4 @@ Valančiaus, VAIKŲ KNYGELĖ.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

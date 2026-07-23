@@ -73,9 +73,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašyta į pilną enciklopedinį sakinį be OCR triukšmo."
   pagrindžia:
     - c-167688
-- susijęs iš Ostrovo sutartis (1392 m.): Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.
-- susijęs iš Gardinas: Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną.
-- susijęs iš Trakai: Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.
+
 ## Citatos
 
 - id: c-37611

@@ -54,6 +54,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   citata_rodoma: "tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

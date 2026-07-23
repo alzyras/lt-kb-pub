@@ -11,14 +11,14 @@ datos:
   - '1370 m.'
 date_start: '1224'
 date_end: '1370'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'XIII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,7 +74,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-177148
 
 <a id="claim-t-192752"></a>
-- t-004
+- t-003
   teiginys: "Narbutas pabrėžė, kad 1224 m. popiežiaus Honorijaus III bulėje Vitlandija minima atskirai greta Sambijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-175522
 
 <a id="claim-t-192753"></a>
-- t-005
+- t-004
   teiginys: "Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-175523
 
 <a id="claim-t-194752"></a>
-- t-006
+- t-005
   teiginys: "Pasak Faterio (cituota vieta), atrodo, čia nėra ko prikišti, ir tai tiesa, nes apie tokių pačių iš esmės romovių buvimą turime žinių iš kitų vietų: seniausia, apie kokią žinome, buvo Sambijos pajūryje; o kad vėliau kiek vienoje provincijoje turėjo būti panaši."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-177148
 
 <a id="claim-t-194937"></a>
-- t-007
+- t-006
   teiginys: "Sambijoje buvo gynybinių miestų, puikių dievams garbinti skirtų šventųjų vietų, pastatytų turtin gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje besivaidijančių gyventojų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-177333
 
 <a id="claim-t-197922"></a>
-- t-008
+- t-007
   teiginys: "Sambija — ne itin didelis kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa siglemžė dalies sausumos, buvęs platesnis, nes, anot kai kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my lių plotas2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-179399
 
 <a id="claim-t-197923"></a>
-- t-009
+- t-008
   teiginys: "Lietuvių protėviams atėjus į šiuos kraštus, Sambijoje įsikūrė daugiausia senovės budinus sudarantys gyventojai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-179400
 
 <a id="claim-t-197924"></a>
-- t-010
+- t-009
   teiginys: "Šioje geografinėje žemių padėtyje pietinė Sambija tiesiog ribo josi su Natangija ir galbūt driekėsi net iki paskutinės šiaurinės Varmijos ribos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-179401
 
 <a id="claim-t-201105"></a>
-- t-011
+- t-010
   teiginys: "Atenčią naktį dievmeldžiai keleiviai, į laivelį su tūpę, irkluodami atgaliai, atirklavo į pietinį kraštą Sambijos, taip vadinamos vienos dalies Žemaičių, kur vienoj kaimoj penkias dienas užtruko."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -189,27 +189,30 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-184455
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-002
+  santrauka: 'Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Tačiau senovės amžiais
-    žemėlapiuose Sambija atrodė visiškai kitaip, ypač jos jūros
-    pakrantės, kur ardančios ir naikinančios audringos jūros
-    ir Aistmarių bangos padarė neįtikėtinų pokyčių. Mat tuo­
-    met, kai atėjo kryžiuočiai ir praėjo pirma dešimtis jų val­
-    džios metų, rytinė marių dalis buvo visiškai kitokia ne­
-    gu vėlesniais laikais. Laukstetės ir Piliavos kryptimi Bran­
-    denburgo ir Baigos link, ten, kur šiandien marių vande­
-    nys toli įsiterpė į sausumą, tuomet, anot pačių patiki­
-    miausių šaltinių, dar buvo tikra sausuma, kur žmonės
-    ganė bandas ir sėjo javus.
+    6) sako apie tai: Budlafla in
+    priscis Sueonum legibus dicebatur citatio in jus, in causis ordi­
+    nariis per baculum, quem Baculum notitiae vel Nuntiatorium
+    vocabant. Hunc index nota utrimque inustulata emittebat sin-
+    gidum singulis territorii quadrantibus, ut per manus vicinorum
+    extraditus et facti notitiam simul et comparandi maneatum cir­
+    cumferret: quomodo non juditia tantum, sed et promiscue om­
+    nes conventus publici indicti fuerunt, ubi de casu aliquo extra
+    ordinem deliberandum erat, aut judicandum. Erat autem hic
+    baculus nunciatorius effectus ad modum rei, de qua in Conven­
+    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
+    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
+    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
+    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
+    arba pranešėjo, pasiuntinio lazda.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-38637
@@ -268,7 +271,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-175523
   autorius: "Teodoras Narbutas"
@@ -294,7 +297,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177148
   autorius: "Teodoras Narbutas"
@@ -320,7 +323,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-006
+    - t-005
 
 - id: c-177333
   autorius: "Teodoras Narbutas"
@@ -343,7 +346,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-179399
   autorius: "Teodoras Narbutas"
@@ -366,7 +369,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-179400
   autorius: "Teodoras Narbutas"
@@ -389,7 +392,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-179401
   autorius: "Teodoras Narbutas"
@@ -413,7 +416,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-184455
   autorius: "Simonas Daukantas"
@@ -436,7 +439,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 ## Ryšiai
 - Puolė Sambiją: [[objektai/grupes/Lietuviai]]

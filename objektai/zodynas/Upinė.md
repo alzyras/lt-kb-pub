@@ -49,7 +49,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
     - c-172072
 
 <a id="claim-t-189186"></a>
-- t-003
+- t-002
   teiginys: "Narbutas pasakojo, kad Upine vadinama senė apeigomis pašventindavo upelį, kuris esą visiems metams įgydavo gydomosios galios."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
     - c-172074
 
 <a id="claim-t-197375"></a>
-- t-004
+- t-003
   teiginys: "Senė, vadinama Upine, tomis apei gomis pašventindavo upelį, ir jis visiems metams įgydavo gy domosios galios."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -79,8 +79,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172072
-- susijęs iš [[objektai/zodynas/Rusalkos dugnės gudelkos.md#claim-t-189249|Rusalkos dugnės gudelkos]]: Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė Lasickio jai priskirtą tešlos globą.
-- susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.'
@@ -126,7 +125,7 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-172074
   autorius: "Teodoras Narbutas"
@@ -145,4 +144,4 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

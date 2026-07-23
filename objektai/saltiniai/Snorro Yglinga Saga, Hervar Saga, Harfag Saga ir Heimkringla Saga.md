@@ -38,6 +38,7 @@ Snorro.
   citata_rodoma: "3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla\nSaga."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

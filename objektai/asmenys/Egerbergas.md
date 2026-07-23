@@ -55,7 +55,7 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Egerbergą ir atitinka citatą."
   pagrindžia:
     - c-83637
-- susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
+
 ## Citatos
 
 - id: c-83637

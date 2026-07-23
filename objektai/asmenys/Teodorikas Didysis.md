@@ -131,7 +131,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174038
 
 <a id="claim-t-191158"></a>
-- t-007
+- t-006
   teiginys: "Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174040
 
 <a id="claim-t-197831"></a>
-- t-008
+- t-007
   teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
     - c-174038
 
 <a id="claim-t-197832"></a>
-- t-009
+- t-008
   teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -330,7 +330,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-008
+    - t-007
 
 - id: c-174040
   autorius: "Teodoras Narbutas"
@@ -354,8 +354,8 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-009
+    - t-006
+    - t-008
 
 ## Ryšiai
 - Teodorikas Didysis užkariavo [[objektai/vietos/Italija]]

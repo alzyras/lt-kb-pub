@@ -54,10 +54,7 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44606
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI: Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.
+
 ## Citatos
 
 - id: c-44606

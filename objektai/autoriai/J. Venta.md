@@ -76,7 +76,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus darbą, temą ir publikavimo metus."
   pagrindžia:
     - c-63351
-- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
+
 ## Citatos
 
 - id: c-63349

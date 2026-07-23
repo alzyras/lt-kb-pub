@@ -93,14 +93,7 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179394
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš Ravenos geografo veikalas: Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad agatirai, agazirai ar angershirai buvę ta pati Amiano minima gentis.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192949|Agatirai]]: T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
-- susijęs iš Engūrės ežeras: Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į Engūrės ežerą.
-- susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.'
@@ -114,11 +107,10 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
     dieną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175600

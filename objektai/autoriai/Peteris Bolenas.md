@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187950"></a>
-- t-002
+- t-001
   teiginys: "Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-170935
 
 <a id="claim-t-191902"></a>
-- t-003
+- t-002
   teiginys: "Peterio Boleno traktatas buvo skirtas senovės prūsų kalbai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174784
   autorius: "Teodoras Narbutas"
@@ -121,4 +121,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

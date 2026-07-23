@@ -49,7 +49,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-175120
 
 <a id="claim-t-192313"></a>
-- t-005
+- t-002
   teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +67,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-175121
 
 <a id="claim-t-192314"></a>
-- t-006
+- t-003
   teiginys: "Teodoro Narbuto pasakojime Verpėjos ir Deivių Valdytojų garbintojai joms rengdavo plokščiais akmenimis apdėtas aikšteles."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -78,7 +78,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-175121
 
 <a id="claim-t-192315"></a>
-- t-007
+- t-004
   teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos be pasigailėjimo nužudydavo kiekvieną jų garbę įžeidusį žmogų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -96,7 +96,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-175121
 
 <a id="claim-t-197379"></a>
-- t-008
+- t-005
   teiginys: "Žemaitiškas padavimas - tai nimfų bei miti nių senovės Vokietijos herojų puotų susiliejimas bei informacija apie septynias nemirtingąsias verpėjas, tai yra septynias dangaus planetas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -121,12 +121,12 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     bet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­
     jimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192314
-    - t-192315
+  statusas: verified
+- t-003
+    - t-004
 
 ## Citatos
 
@@ -175,9 +175,9 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
-    - t-007
+    - t-002
+    - t-003
+    - t-004
 
 - id: c-179157
   autorius: "Teodoras Narbutas"
@@ -196,4 +196,4 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005

@@ -66,9 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-10313
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - šis sąrašas artimas bendresniam viešam įrašui apie įrankius, bet ši ištrauka aiškiai pabrėžia savadarbius variantus.

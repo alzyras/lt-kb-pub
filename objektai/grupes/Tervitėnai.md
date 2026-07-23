@@ -50,7 +50,7 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175761
-- susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-192967|Žemgaliai]]: Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.
+
 ## Citatos
 
 - id: c-175761

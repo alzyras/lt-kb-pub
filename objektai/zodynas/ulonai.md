@@ -44,8 +44,7 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82599
-- susijęs iš [[objektai/grupes/Orenburgo ulonų pulkas.md#claim-t-38991|Orenburgo ulonų pulkas]]: Sukilėlių 1-ojo ulonų pulko ataka perkirto ir išsklaidė Orenburgo ulonų pulką.
-- susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
+
 ## Citatos
 
 - id: c-82599

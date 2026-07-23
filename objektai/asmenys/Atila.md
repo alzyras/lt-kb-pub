@@ -57,7 +57,7 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
     - c-178926
 
 <a id="claim-t-197712"></a>
-- t-004
+- t-003
   teiginys: "Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,6 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176706
@@ -152,4 +151,4 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

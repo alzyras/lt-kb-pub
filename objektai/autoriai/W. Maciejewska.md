@@ -51,6 +51,7 @@ Maciejewska, W.
   citata_rodoma: "— Maciejewska, W. : _Jadwiga, Królowa\nPolska_ , Kraków 1934 (plati bibliogr.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

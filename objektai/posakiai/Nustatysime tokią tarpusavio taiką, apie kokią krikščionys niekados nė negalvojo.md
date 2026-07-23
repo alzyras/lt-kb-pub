@@ -46,7 +46,7 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 ## Teiginiai
 
 <a id="claim-t-54760"></a>
-- t-002
+- t-001
   teiginys: "Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo."
   atnaujinta: "2026-05-27 07:01"
   sprendimo_priezastis: "gap::sayings"
@@ -121,4 +121,4 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

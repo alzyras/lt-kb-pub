@@ -44,9 +44,7 @@ Podolės žemės tėvonys bei paveldėtojai“.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40586
-- susijęs iš [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus.md#claim-t-09544|Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]: Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42434|atamanas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78877|baskakas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
+
 ## Citatos
 
 - id: c-40586

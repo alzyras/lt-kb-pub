@@ -48,9 +48,7 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171904
-- susijęs iš Lydos kraštas (kraštas): Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius Leliušių ir Lelionių kaimus.
-- susijęs iš Rodūnios parapija: Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai.
-- susijęs iš Trakų apskritis: Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.
+
 ## Citatos
 
 - id: c-171904

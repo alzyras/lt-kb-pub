@@ -53,8 +53,7 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33484
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-30554|Adomas Bremenietis]]: Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.
-- susijęs iš Birka (Švedijos uostas): Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.
+
 ## Citatos
 
 - id: c-33484

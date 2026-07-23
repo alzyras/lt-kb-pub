@@ -9,14 +9,14 @@ datos:
   - '1324 m.'
 date_start: '1283'
 date_end: '1324'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - formulė
   - posakis
+amziai:
+  - 'XIII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 ## Teiginiai
 
 <a id="claim-t-59142"></a>
-- t-002
+- t-001
   teiginys: "Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     - c-59775
 
 <a id="claim-t-59143"></a>
-- t-001
+- t-002
   teiginys: "Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,11 +84,10 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
     nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59774
@@ -115,7 +114,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59775
   autorius: "Petras Dusburgietis"
@@ -133,4 +132,4 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -41,7 +41,7 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177315
-- susijęs iš [[objektai/asmenys/Dagas.md#claim-t-191263|Dagas]]: Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų vadai, ir su Umaru bei Onevu perėjo į priešo pusę.
+
 ## Citatos
 
 - id: c-177315

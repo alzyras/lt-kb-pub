@@ -8,15 +8,15 @@ datos:
   - '1936 m.'
 date_start: '1936'
 date_end: ''
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 ## Teiginiai
 
 <a id="claim-t-193625"></a>
-- t-005
+- t-001
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00117
@@ -132,4 +131,4 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

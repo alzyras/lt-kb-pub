@@ -51,7 +51,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174006
 
 <a id="claim-t-191126"></a>
-- t-003
+- t-002
   teiginys: "Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174008
 
 <a id="claim-t-191127"></a>
-- t-004
+- t-003
   teiginys: "Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174009
 
 <a id="claim-t-191129"></a>
-- t-006
+- t-004
   teiginys: "Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174011
 
 <a id="claim-t-191944"></a>
-- t-007
+- t-005
   teiginys: "Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174826
 
 <a id="claim-t-191945"></a>
-- t-008
+- t-006
   teiginys: "Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -153,31 +153,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174827
-- susijęs iš [[objektai/asmenys/Artabanas.md#claim-t-191254|Artabanas]]: Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.
-- susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
-- susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191008|Darijaus žygis prieš skitus]]: Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą.
-- susijęs iš Herodoto istorija: Pasak Narbuto perteikto Herodoto, persų karalius Darijus, dvariškių pataikavimo suklaidintas, neapdairiu įkarščiu padėjo skitams įgyvendinti jų ketinimus.
-- susijęs iš [[objektai/asmenys/Indatiras.md#claim-t-191209|Indatiras]]: Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip išpuikusį, žiaurų ir nelabai išmintingą monarchą.
-- susijęs iš [[objektai/asmenys/Indatiras.md#claim-t-191210|Indatiras]]: 514 m. pr. Kr. Darijus patraukė prieš Indatirą, o persų būriai, remiami graikų sąjungininkų, brovėsi Dunojaus link.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190709|Herodotas]]: Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
-- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192387|Gelonai]]: Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai.
-- susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192389|Gelonai]]: Narbutas spėja, kad pirmosios gelonų gyvenvietės turėjo būti Očekovo apylinkėse, nes ten esą buvęs Gelono miestas.
-- susijęs iš [[objektai/grupes/Graikai.md#claim-t-192406|Graikai]]: 514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192438|Persai]]: Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192439|Persai]]: 514 m. pr. Kr. Darijui patraukus prieš Indatirą, persų būriai įžengė į Europą ir, remiami graikų sąjungininkų, brovėsi Dunojaus link.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-192464|Skitai]]: 514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis.
-- susijęs iš [[objektai/grupes/Tisagetai.md#claim-t-192962|Tisagetai]]: Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į šiaurę nuo gelonų ir budinų krašto gyveno tisagetai.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191007|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191010|Darijaus žygis prieš skitus]]: Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191867|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.
-- susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
-- susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš [[objektai/asmenys/Artabanas.md#claim-t-191254|Artabanas]]: Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje.'
@@ -192,11 +168,10 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
     sitiko V amžiaus prieš Kristaus gimimą pradžioje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174006
@@ -222,7 +197,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
+    - t-005
 
 - id: c-174008
   autorius: "Teodoras Narbutas"
@@ -247,7 +222,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-174009
   autorius: "Teodoras Narbutas"
@@ -266,7 +241,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-174011
   autorius: "Teodoras Narbutas"
@@ -291,7 +266,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-174826
   autorius: "Teodoras Narbutas"
@@ -317,7 +292,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-174827
   autorius: "Teodoras Narbutas"
@@ -346,7 +321,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 ## Ryšiai
 - Darijus surengė žygį į [[objektai/ivykiai/Darijaus žygis prieš skitus]], [[objektai/vietos/Skitija]]

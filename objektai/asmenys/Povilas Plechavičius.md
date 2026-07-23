@@ -44,14 +44,7 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26684
-- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101477|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą.
-- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101478|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
-- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101527|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
-- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101528|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
-- susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-75547|generaliniai tarėjai]]: 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
-- susijęs iš [[objektai/zodynas/generaliniai tarėjai.md#claim-t-75548|generaliniai tarėjai]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę.
+
 ## Citatos
 
 - id: c-26684

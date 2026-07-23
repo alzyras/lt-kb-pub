@@ -37,7 +37,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 ## Teiginiai
 
 <a id="claim-t-179571"></a>
-- t-002
+- t-001
   teiginys: "„Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
     - c-163256
 
 <a id="claim-t-179572"></a>
-- t-001
+- t-002
   teiginys: "Zenono Ivinskio vertinimu, Varšuvoje išleista „Bibliografia Historii Polski“ Lietuvos istorijai skyrė kiek mažiau dėmesio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-163258
   autorius: "Zenonas Ivinskis"
@@ -108,4 +108,4 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

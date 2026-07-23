@@ -44,7 +44,7 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24824
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78357|Lietuvos komunistų partija]]: LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.
+
 ## Citatos
 
 - id: c-24824

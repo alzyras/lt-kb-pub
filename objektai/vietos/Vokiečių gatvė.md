@@ -31,7 +31,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 ## Teiginiai
 
 <a id="claim-t-86123"></a>
-- t-002
+- t-001
   teiginys: "Jonui Hozijui buvo leista atvesti ir nuolat turėti vandenį jo namuose Vokiečių gatvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
     - c-82103
 
 <a id="claim-t-86124"></a>
-- t-001
+- t-002
   teiginys: "Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-82103
   autorius: "Michał Baliński"
@@ -124,4 +124,4 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

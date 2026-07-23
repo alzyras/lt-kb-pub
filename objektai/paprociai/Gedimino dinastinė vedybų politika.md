@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05340"></a>
-- t-002
+- t-001
   teiginys: "Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-67123
 
 <a id="claim-t-05341"></a>
-- t-003
+- t-002
   teiginys: "Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-67124
 
 <a id="claim-t-12427"></a>
-- t-004
+- t-003
   teiginys: "Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-67121
   autorius: "Zenonas Ivinskis"
@@ -153,7 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67124
   autorius: "Zenonas Ivinskis"
@@ -174,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

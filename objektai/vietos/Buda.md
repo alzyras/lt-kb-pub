@@ -76,7 +76,7 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
   temporalinis_llm_pakomentavimas: "Pradinis teiginys sulipdytas su antrašte ir pašalinėmis detalėmis; paliktas Budą pagrindžiantis faktas."
   pagrindžia:
     - c-67544
-- susijęs iš [[objektai/asmenys/Šakjamunis.md#claim-t-190224|Šakjamunis]]: Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų leidėją, kuriame įsikūnijo indų Buda.
+
 ## Citatos
 
 - id: c-31982

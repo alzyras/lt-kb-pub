@@ -56,7 +56,7 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet sutvarkytas kaip sakinys apie Mykolą Akelaitį."
   pagrindžia:
     - c-01358
-- susijęs iš [[objektai/autoriai/Antanas Tatarė.md#claim-t-01016|Antanas Tatarė]]: Kunigas Antanas Tatarė parašė eilių ir išleido keletą lietuviškų knygų, laikytų naudingomis liaudžiai.
+
 ## Citatos
 
 - id: c-01358

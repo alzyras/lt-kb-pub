@@ -9,16 +9,16 @@ datos:
   - '2006 m.'
 date_start: '1973'
 date_end: '2006'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XX'
+  - 'XXI'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,7 +70,7 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184840
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-41654

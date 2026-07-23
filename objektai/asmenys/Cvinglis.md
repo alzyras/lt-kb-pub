@@ -55,20 +55,7 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
   temporalinis_llm_pakomentavimas: "Citata kalba apie Liuterio ir Cvinglio mokslą kartu, todėl reikia patikslinti subjektą."
   pagrindžia:
     - c-83625
-- susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
-- susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82555|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113880|Mikalojus Radvila Juodasis]]: Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.
-- susijęs iš [[objektai/asmenys/Vendrichovskis.md#claim-t-87881|Vendrichovskis]]: Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus.
-- susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176096|Vilniaus kapitula]]: Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176099|Vilniaus kapitula]]: Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių.
-- susijęs iš Bohuszo Summaryusz Aktów Kapituły Wileńskiej: Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Lukiškės: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Vilija: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Šv. Mykolo bažnyčia Vilniuje: Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.
-- susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
-- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
-- susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
+
 ## Citatos
 
 - id: c-83625

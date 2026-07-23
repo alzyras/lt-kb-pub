@@ -37,7 +37,7 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
 ## Teiginiai
 
 <a id="claim-t-80103"></a>
-- t-002
+- t-001
   teiginys: "Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
     - c-76974
 
 <a id="claim-t-80104"></a>
-- t-001
+- t-002
   teiginys: "Vytautas puolė Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -98,8 +98,8 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 - Puolė Riazanės kunigaikštystę: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

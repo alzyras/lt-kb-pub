@@ -54,14 +54,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, informatyvus ir remiasi citatoje pateikta ANBO kilme."
   pagrindžia:
     - c-23562
-- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-183524|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse.
-- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75692|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai, sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžius „Antanas nori būti ore“.
-- susijęs iš [[objektai/grupes/Lietuvos karo aviacija.md#claim-t-19876|Lietuvos karo aviacija]]: Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.
-- susijęs iš Kauno karo aviacijos dirbtuvės: Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13450|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-23270|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.
-- susijęs iš [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.).md#claim-t-20158|ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]: Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.
-- susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77934|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.
+
 ## Citatos
 
 - id: c-23562

@@ -11,11 +11,6 @@ datos:
   - '1252 m.'
 date_start: '1200'
 date_end: '1252'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,6 +18,11 @@ tags:
   - popiežius
   - valdovas
   - vyskupas
+amziai:
+  - 'XII'
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ## Teiginiai
 
 <a id="claim-t-78932"></a>
-- t-004
+- t-001
   teiginys: "Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76034
 
 <a id="claim-t-78933"></a>
-- t-003
+- t-002
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76033
 
 <a id="claim-t-78934"></a>
-- t-002
+- t-003
   teiginys: "Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76031
 
 <a id="claim-t-190837"></a>
-- t-005
+- t-004
   teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-173719
 
 <a id="claim-t-200960"></a>
-- t-006
+- t-005
   teiginys: "To dėl gi Albertas, dangstydamas savo tikyba, veizėjo kito pragumo, kuriuo galėtų netikėliams žemę už imti ir pačius nuvergti; atmindamas, jog karės brostviai Žemėj Šventoj daug gero darė krikščionims, užsikėto jis tokį pat karės zokaną Padaugavy įkur ti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184310
 
 <a id="claim-t-200961"></a>
-- t-007
+- t-006
   teiginys: "Taip randantis kas kartą pavojesniai dėl voky čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš tus ir vokyčius, teiravos, ar kariauti ilgiaus su ne tikėliais, ar laukti Alberto iš Teutonijos pagrįžtančio, kur buvo neseniai iškeliavęs; nes, jausdami save."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184311
 
 <a id="claim-t-200962"></a>
-- t-008
+- t-007
   teiginys: "Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184312
 
 <a id="claim-t-200963"></a>
-- t-009
+- t-008
   teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -150,46 +150,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184313
-- susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89610|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89612|Albertas iš Meiseno]]: Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89613|Albertas iš Meiseno]]: Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89614|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89615|Albertas iš Meiseno]]: Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
-- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
-- susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
-- susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
-- susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
-- susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės patriarchas).md#claim-t-60307|Henrikas (Jeruzalės patriarchas)]]: Jeruzalės patriarchas Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis).md#claim-t-60309|Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]: Henrikas, Pfalco prie Reino pfalcgrafas ir Braunšveigo kunigaikštis, buvo tarp Vokietijos didikų, pritarusių ligoninės patvirtinimo prašymui.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Hugonas.md#claim-t-60330|Hugonas]]: Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Jonas iš Hibelino.md#claim-t-60346|Jonas iš Hibelino]]: Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.
-- susijęs iš [[objektai/asmenys/Konradas (Landsbergo markgrafas).md#claim-t-60360|Konradas (Landsbergo markgrafas)]]: Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.
-- susijęs iš [[objektai/asmenys/Konradas (Mainco arkivyskupas).md#claim-t-60361|Konradas (Mainco arkivyskupas)]]: Mainco arkivyskupas Konradas buvo tarp Vokietijos didikų, pritarusių prašymui popiežiui leisti įsteigti ir patvirtinti ligoninę.
-- susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
-- susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
-- susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
-- susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
-- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
-- susijęs iš [[objektai/ivykiai/Dobrinės ordino įkūrimas.md#claim-t-01608|Dobrinės ordino įkūrimas]]: 1228 m. buvo įkurtas vyskupui priklausęs riterių ordinas, pagal gyvenamąją vietą vadintas Dobrinės ordinu.
-- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183985|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
-- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62682|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
-- susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59167|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.
-- susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59168|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.
-- susijęs iš Jeruzalė: Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
-- susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
-- susijęs iš Mozūrai: Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.
-- susijęs iš Padauguvis: Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
-- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.'
@@ -212,7 +173,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-76031
@@ -234,7 +194,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76033
   redaktorius: "A. Šapoka"
@@ -254,7 +214,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-76034
   sudarytojas: "Karolis Zikaras"
@@ -289,7 +249,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-173719
   autorius: "Teodoras Narbutas"
@@ -314,7 +274,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-184310
   autorius: "Simonas Daukantas"
@@ -346,7 +306,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-184311
   autorius: "Simonas Daukantas"
@@ -383,7 +343,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-184312
   autorius: "Simonas Daukantas"
@@ -407,7 +367,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-184313
   autorius: "Simonas Daukantas"
@@ -430,4 +390,4 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008

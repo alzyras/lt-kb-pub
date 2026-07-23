@@ -71,7 +71,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis ir tiesiogiai pagrįstas citata apie senalietuvius."
   pagrindžia:
     - c-22742
-- susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26555|senalietuviai jaunalietuviai]]: XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką.
+
 ## Citatos
 
 - id: c-22741

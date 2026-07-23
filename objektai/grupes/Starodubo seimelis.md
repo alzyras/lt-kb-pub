@@ -56,10 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Starodubo seimelio paminėjimą. Jis nepretenduoja į platesnę informaciją, kurios citata neduoda."
   pagrindžia:
     - c-184023
-- susijęs iš [[objektai/asmenys/Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.).md#claim-t-200483|Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)]]: Antanas Tadas Pšezdeckis buvo LDK referendorius.
-- susijęs iš [[objektai/asmenys/Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.).md#claim-t-200484|Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)]]: 1756 m. J. D. Lopacinskio parama Smolensko pateisėjininkaičiui buvo nenaudinga jo draugystei su Antanu Tadu Pšezdeckiu.
-- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200485|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis.
-- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200486|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas.
+
 ## Citatos
 
 - id: c-184023

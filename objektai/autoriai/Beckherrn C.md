@@ -56,7 +56,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     - c-61179
 
 <a id="claim-t-196995"></a>
-- t-004
+- t-002
   teiginys: "Beckherrn C sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau — Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,4 +104,4 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

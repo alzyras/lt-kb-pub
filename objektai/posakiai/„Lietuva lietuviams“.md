@@ -63,7 +63,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166892
-- susijęs iš Verslas: Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.
+
 ## Citatos
 
 - id: c-166892

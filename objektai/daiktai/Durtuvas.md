@@ -81,10 +81,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40976
-- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
-- susijęs iš [[objektai/asmenys/Baziliauskas.md#claim-t-80730|Baziliauskas]]: Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.
-- susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
-- susijęs iš [[objektai/asmenys/Palačinskas.md#claim-t-80742|Palačinskas]]: Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.
+
 ## Citatos
 
 - id: c-40974

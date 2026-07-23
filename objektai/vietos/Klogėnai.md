@@ -56,10 +56,7 @@ Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygin
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168649
-- susijęs iš Ariogala: Kojelavičiaus pasakojime priešas, nusiaubęs Žemaitiją, su žeme sulygino Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
-- susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
-- susijęs iš Vaikiai: Kojelavičiaus pasakojime iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
-- susijęs iš Žemaitija: Kojelavičius rašo, kad iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
+
 ## Citatos
 
 - id: c-168649

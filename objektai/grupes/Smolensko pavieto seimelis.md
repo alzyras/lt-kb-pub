@@ -8,14 +8,14 @@ datos:
   - '1752 m.'
 date_start: '1749'
 date_end: '1752'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - institucija
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200650"></a>
-- t-299034
+- t-001
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200651"></a>
-- t-299033
+- t-002
   teiginys: "1749 m. įvyko Smolensko pavieto seimelis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200652"></a>
-- t-002
+- t-003
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -99,7 +99,7 @@ media_all_json: |-
     - c-183983
 
 <a id="claim-t-200653"></a>
-- t-003
+- t-004
   teiginys: "1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -151,7 +151,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-183983
@@ -163,9 +162,9 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 12:33"
   pagrindzia:
-    - t-299034
-    - t-299033
+    - t-001
     - t-002
+    - t-003
 
 - id: c-184019
   autorius: "Domininkas Burba"
@@ -176,7 +175,7 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 09:40"
   pagrindzia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 - Smolensko pavieto seimelis priklausė [[objektai/vietos/Smolenskas]]

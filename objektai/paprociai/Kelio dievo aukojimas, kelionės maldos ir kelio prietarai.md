@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189775"></a>
 - t-001
   teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-172662
 
 <a id="claim-t-189777"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašė, kad ant kelio dievui skirtų akmenų nebuvo sėdamasi prieš tai nesukalbėjus maldelės ar mitinės formulės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-172660
 
 <a id="claim-t-189778"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašė, kad Lietuvos kaimiečiai išsaugojo kelionės prietarą neišvažiuojant perkirsti kelio keleiviui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-172658
 
 <a id="claim-t-189779"></a>
-- t-005
+- t-004
   teiginys: "Narbutas lygino lietuvių kelionės prietarus su senovės romėnų prietarais ir Kelio dievaitį siejo su Romos Lar vialis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Nenurodyta
     - c-172662
 
 <a id="claim-t-197256"></a>
-- t-006
+- t-005
   teiginys: "O dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne būtų priskirta nelaimingam jo perėjimui per kelią."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -173,8 +173,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
-    - t-006
+    - t-003
+    - t-005
 
 - id: c-172660
   autorius: "Teodoras Narbutas"
@@ -200,7 +200,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-172661
   autorius: "Teodoras Narbutas"
@@ -246,4 +246,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004

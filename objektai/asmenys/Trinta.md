@@ -43,7 +43,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61080
-- susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
+
 ## Citatos
 
 - id: c-61080

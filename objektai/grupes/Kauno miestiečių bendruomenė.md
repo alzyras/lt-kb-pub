@@ -9,11 +9,11 @@ datos:
   - '1570 m.'
 date_start: '1415'
 date_end: '1570'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

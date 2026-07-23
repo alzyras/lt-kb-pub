@@ -44,11 +44,7 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38152
-- susijęs iš [[objektai/asmenys/Aleksandras Vyguntas.md#claim-t-35011|Aleksandras Vyguntas]]: Vygunto mirtis 1392 m. birželio 28 d. suardė reformos planus.
-- susijęs iš [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas.md#claim-t-35820|Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]: Po Vygunto mirties Vytautas gavo Vilnių ir įvedė nemažai radikalių pokyčių lietuvių-rusų žemių valdyme.
-- susijęs iš Lvovo privilegija (1392 m. bal. 16 d.): Jogaila 1392 m. balandžio 16 d. Lvove išdavė privilegiją, kuri kliudė Vytauto siekiams Lietuvoje ir jo pretenzijoms į Lucką.
-- susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
-- susijęs iš Lvovas: 1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.
+
 ## Citatos
 
 - id: c-38152

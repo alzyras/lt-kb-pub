@@ -40,7 +40,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 ## Teiginiai
 
 <a id="claim-t-79073"></a>
-- t-002
+- t-001
   teiginys: "Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - c-76172
 
 <a id="claim-t-79074"></a>
-- t-003
+- t-002
   teiginys: "Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - c-76171
 
 <a id="claim-t-79075"></a>
-- t-001
+- t-003
   teiginys: "K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-76171
   sudarytojas: "Karolis Zikaras"
@@ -131,7 +131,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-76172
   sudarytojas: "Karolis Zikaras"
@@ -161,4 +161,4 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

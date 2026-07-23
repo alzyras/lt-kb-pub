@@ -31,7 +31,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 ## Teiginiai
 
 <a id="claim-t-22018"></a>
-- t-002
+- t-001
   teiginys: "Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +41,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     - c-24701
 
 <a id="claim-t-183457"></a>
-- t-004
+- t-002
   teiginys: "Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     - c-166852
 
 <a id="claim-t-193611"></a>
-- t-005
+- t-003
   teiginys: "Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -101,7 +101,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-176284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -123,4 +123,4 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

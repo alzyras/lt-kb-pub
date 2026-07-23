@@ -5,9 +5,10 @@ sukurta: '2026-07-12'
 atnaujinta: '2026-07-12'
 variantai:
   - 'Tautosakos Komisijos'
+  - 'Tautosakos komisijos'
 aliases: []
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 bukle: 'juodrastis'
 laikotarpis: '1931 m. gegužės 1 d. – 1931 m. gruodžio 1 d.'
 datos:
@@ -56,7 +57,7 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
 ## Teiginiai
 
 <a id="claim-t-195517"></a>
-- t-002
+- t-001
   teiginys: "Iki tų pačių metų gruodžio 1 d. Tautosakos komisija perrašinėjo ir tvarkė dainas."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -81,4 +82,4 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

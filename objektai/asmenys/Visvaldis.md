@@ -41,7 +41,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 ## Teiginiai
 
 <a id="claim-t-193042"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Visvaldį vadina rusų kunigaikščiu, kurio sostinė buvo Gercikos pilis prie Dauguvos, jo nuomone, dabartinis Daugpilis."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
     - c-175812
 
 <a id="claim-t-193043"></a>
-- t-001
+- t-002
   teiginys: "Visvaldis buvo nugalėtas Rygos vyskupo Alberto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175813
   sudarytojas: "Karolis Zikaras"
@@ -131,4 +131,4 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -35,7 +35,7 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 ## Teiginiai
 
 <a id="claim-t-02205"></a>
-- t-002
+- t-001
   teiginys: "„Lenko pasikalbėjime su lietuviu“ buvo ginčijami Ožechovskio tvirtinimai ir ginamos Lietuvos valstybės teisės gyventi savarankiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     - c-02443
 
 <a id="claim-t-02206"></a>
-- t-001
+- t-002
   teiginys: "1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-02444
   redaktorius: "A. Šapoka"
@@ -114,4 +114,4 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

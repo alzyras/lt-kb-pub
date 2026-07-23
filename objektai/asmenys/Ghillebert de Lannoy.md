@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-51016"></a>
-- t-002
+- t-001
   teiginys: "Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-36303
 
 <a id="claim-t-51017"></a>
-- t-001
+- t-002
   teiginys: "Ghillebert de Lannoy minėjo, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36303
-- susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
+
 ## Citatos
 
 - id: c-36303
@@ -82,8 +82,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 - Ghillebert de Lannoy keliavo į [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]

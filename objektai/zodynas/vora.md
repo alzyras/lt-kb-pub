@@ -39,7 +39,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 ## Teiginiai
 
 <a id="claim-t-193385"></a>
-- t-004
+- t-001
   teiginys: "Viena vora užėmė ir sudegino Bisenės pilį, o kita nuniokojo aplinkines žemes ir traukdamasi patyrė nuostolių ant Nemuno ledo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     - c-176110
 
 <a id="claim-t-193754"></a>
-- t-005
+- t-002
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,19 +62,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176414
-- susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40160|J. Mikoliūnas]]: J. Mikoliūno kairioji vora turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą.
-- susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40246|K. Dragunevičius]]: K. Dragunevičiaus vadovaujama vidurinioji vora turėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta.
-- susijęs iš Radikoniai: Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas karininkas J. Nastopka.
-- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
-- susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40859|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
-- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
-- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
-- susijęs iš Aukštadvaris: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį, kol pasiekė Jiezną.
-- susijęs iš Nemunas: Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
+
 ## Citatos
 
 - id: c-176110
@@ -102,7 +90,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-176414
   sudarytojas: "Karolis Zikaras"
@@ -128,4 +116,4 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 ## Teiginiai
 
 <a id="claim-t-90005"></a>
-- t-002
+- t-001
   teiginys: "Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - c-85910
 
 <a id="claim-t-90006"></a>
-- t-003
+- t-002
   teiginys: "Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - c-85911
 
 <a id="claim-t-90007"></a>
-- t-004
+- t-003
   teiginys: "Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - c-85911
 
 <a id="claim-t-90008"></a>
-- t-001
+- t-004
   teiginys: "Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   pagrindžia:
     - c-85909
     - c-167503
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
+
 ## Citatos
 
 - id: c-85909
@@ -123,7 +123,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-85910
   autorius: "Petras Dusburgietis"
@@ -150,7 +150,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-85911
   autorius: "Petras Dusburgietis"
@@ -176,8 +176,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
 
 - id: c-167503
   autorius: "Petras Dusburgietis"
@@ -201,4 +201,4 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004

@@ -8,15 +8,15 @@ datos:
   - '1770 m.'
 date_start: '1770'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -142,7 +142,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-173772
 
 <a id="claim-t-190892"></a>
-- t-007
+- t-006
   teiginys: "Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -162,9 +162,9 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-173774
 
 <a id="claim-t-190893"></a>
-- t-008
+- t-007
   teiginys: "Narbutas vertino, kad Johano Foigto tyrimas dėl aptariamos tvirtovės lokalizacijos prie Ząsupėnų buvo kiek klaidingas."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,7 +175,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-179328
 
 <a id="claim-t-197756"></a>
-- t-010
+- t-008
   teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-173771
 
 <a id="claim-t-197757"></a>
-- t-011
+- t-009
   teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-179327
 
 <a id="claim-t-197758"></a>
-- t-012
+- t-010
   teiginys: "Ponas Foigtas rado Berlyno rankraštyje vietovardį Raganita, ir tai žinomas pats tikriausias pavadinimas, nes jis kilęs iš mitinio vardo Ragana."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     - c-179328
 
 <a id="claim-t-197759"></a>
-- t-013
+- t-011
   teiginys: "Johanas Foigtas buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -221,9 +221,25 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173775
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188413|Johanas Foigtas]]: Johanas Foigtas buvo Karaliaučiaus universiteto profesorius ir daugiatomės „Prūsijos istorijos“ autorius.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-187954|Albertas Vijūkas-Kojalavičius]]: S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.
+
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    būti tariama Mergo; Henenbergerio Ronis yra Romais - visiš­
+    kai lietuviškas vardas; Bollojsus atsispindi pas mus pačius Lie­
+    tuvoje daugelyje vietovardžių - Balčiai (Bolcie), Baltininkai
+    (Bolcieniki), Balaičiai (Bolojcie). Pagaliau kritikas, norėdamas
+    visiškai sugriauti vyriausiųjų žynių sąrašą, sako, kad Jaygello,
+    Jargallo, Pomoloys esą aiškiai lietuviški vardai. O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -240,11 +256,39 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-010
+
+- c-006
+  santrauka: 'IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    342
+
+    ## Puslapis 353
+
+    *■ *  *
+    IV priedas
+    S e n o v ė s  P rū sijo s
+    g e o g r a fija
+    Ištrauka iš Foigto
+    (Gesch. Preuss. B. I. S. 476—510)
+    Nors aprašėme atskiras senovės Prūsijos provincijas,
+    tačiau, kadangi puikus šios tautos istorijos išmanymas
+    padeda geriau pažinti tautos istoriją, ne pro šalį bus pa­
+    teikti čia geografinius, statistinius ir istorinius visų pro­
+    vincijų aprašymus, kai jas XIII amžiaus pradžioje rado
+    kryžiuočiai, bent tam, kad supažindintume mūsų skaity­
+    tojus su tomis žiniomis, kurias surinko mokslininkas is­
+    torikas ponas Foigtas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-007
   santrauka: 'Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -256,11 +300,33 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    432
 
+    ## Puslapis 432
+
+    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
+    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
+    davo.
+    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
+    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
+    taip pat turėdami omenyje kronikininkams būdingus trūku­
+    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172915
@@ -352,7 +418,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-010
+    - t-008
 
 - id: c-173772
   autorius: "Teodoras Narbutas"
@@ -409,7 +475,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-173775
   autorius: "Teodoras Narbutas"
@@ -433,7 +499,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011
 
 - id: c-179327
   autorius: "Teodoras Narbutas"
@@ -454,7 +520,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-179328
   autorius: "Teodoras Narbutas"
@@ -472,5 +538,5 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-012
+    - t-007
+    - t-010

@@ -54,6 +54,7 @@ media_all_json: |-
   citata_rodoma: "Kiek vėliau įėjo į madą posakis: „Respublika laikosi netvarka\"\n(t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti\nnetvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas\nnepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo\nnesirūpinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

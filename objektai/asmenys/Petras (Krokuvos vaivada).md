@@ -38,7 +38,7 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 ## Teiginiai
 
 <a id="claim-t-196578"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -120,4 +120,4 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

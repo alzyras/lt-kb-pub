@@ -40,7 +40,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 ## Teiginiai
 
 <a id="claim-t-77321"></a>
-- t-005
+- t-001
   teiginys: "Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24492
 
 <a id="claim-t-77322"></a>
-- t-001
+- t-002
   teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24492
 
 <a id="claim-t-77324"></a>
-- t-002
+- t-003
   teiginys: "1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-24493
 
 <a id="claim-t-193784"></a>
-- t-006
+- t-004
   teiginys: "Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - c-176435
 
 <a id="claim-t-193785"></a>
-- t-007
+- t-005
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -119,28 +119,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43877
-- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
-- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41241|Antrasis Panevėžio puolimas]]: 1919 m. gegužę Panevėžio, Ukmergės, Kurklių, Anykščių ir Alantos operacijos pradėjo naują Lietuvos karo su Sovietų Rusija etapą.
-- susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41365|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.
-- susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
-- susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai pridėjo slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
-- susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
-- susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.
-- susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis 1920 m. liepos 12 d. taikos sutartį su Sovietų Rusija vertino kaip didelį Lietuvos diplomatijos laimėjimą.
-- susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
-- susijęs iš Sovietų Rusijos dekretas dėl Sovietų Lietuvos pripažinimo: Po 1918 m. gruodžio 16 d. manifesto Sovietų Rusija Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą.
-- susijęs iš Sovietų Rusijos dekretas dėl Sovietų Lietuvos pripažinimo: Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.
-- susijęs iš [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“.md#claim-t-20927|„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]: Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.
-- susijęs iš [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“.md#claim-t-20928|„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]: Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
-- susijęs iš Volia: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis iki Volios, toliau Nemunu iki Beržūnės.
-- susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44059|Kerzono linija]]: Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija.
-- susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44060|Kerzono linija]]: Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10899|Suverenitetas]]: 1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.
-- susijęs iš [[objektai/zodynas/de facto.md#claim-t-75544|de facto]]: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
+
 ## Citatos
 
 - id: c-24492
@@ -164,8 +143,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-001
+    - t-002
 
 - id: c-24493
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -186,7 +165,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-43877
   sudarytojas: "Karolis Zikaras"
@@ -204,7 +183,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-176435
   sudarytojas: "Karolis Zikaras"
@@ -228,4 +207,4 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004

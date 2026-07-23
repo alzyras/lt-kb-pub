@@ -64,13 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83108
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12344|Vėliavos]]: Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179026|Kryžiuočių ordinas]]: Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių.
-- susijęs iš [[objektai/grupes/Lietuviai Lietuvos kariuomenė.md#claim-t-86782|Lietuviai Lietuvos kariuomenė]]: Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.
-- susijęs iš [[objektai/daiktai/Deglas.md#claim-t-55033|Deglas]]: Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį.
-- susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179298|Lietuviai]]: Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.
-- susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
+
 ## Citatos
 
 - id: c-83108

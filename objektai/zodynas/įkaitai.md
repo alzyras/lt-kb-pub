@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182994"></a>
-- t-004
+- t-001
   teiginys: "Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166391
-- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67243|Įkaitų davimas kaip sutarties garantija (sutartis)]]: 1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.
+
 ## Citatos
 
 - id: c-166391
@@ -74,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

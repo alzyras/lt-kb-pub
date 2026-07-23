@@ -51,7 +51,7 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   semantiniai_rysiai: "Kiršenšteinai valdė Raudonė (0.94)"
   pagrindžia:
     - c-82778
-- susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
+
 ## Citatos
 
 - id: c-82778

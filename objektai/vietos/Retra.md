@@ -49,8 +49,7 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171855
-- susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
-- susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
+
 ## Citatos
 
 - id: c-171855

@@ -7,12 +7,12 @@ datos:
   - '1841 m.'
 date_start: '1841'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -123,12 +123,13 @@ Nenurodyta
     pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
     pastatyto kalavijo ženklą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192028
-    - t-192486
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
 
 ## Citatos
 

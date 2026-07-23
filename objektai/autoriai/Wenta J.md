@@ -47,6 +47,7 @@ Dusburgietis teigia, kad wenta J.
   citata_rodoma: "Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice\noliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

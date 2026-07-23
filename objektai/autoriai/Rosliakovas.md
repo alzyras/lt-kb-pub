@@ -58,7 +58,7 @@ Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173334
-- susijęs iš Rosliakovo apie 1809 m. sudarytas Kaukazo dialekto rankraštinis žodynėlis: Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu.
+
 ## Citatos
 
 - id: c-173334

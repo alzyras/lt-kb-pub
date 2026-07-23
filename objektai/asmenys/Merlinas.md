@@ -60,11 +60,7 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41410
-- susijęs iš [[objektai/asmenys/Antonievičius.md#claim-t-40037|Antonievičius]]: Antonievičius kartu su D. Maleckiu užėmė pozicijas centre.
-- susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
-- susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40081|D. Maleckis]]: D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai.
-- susijęs iš [[objektai/asmenys/M. Stanišauskas.md#claim-t-40321|M. Stanišauskas]]: M. Stanišausko batalionai stovėjo kairiajame sparne.
-- susijęs iš [[objektai/asmenys/P. Vivulskis.md#claim-t-40385|P. Vivulskis]]: P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis.
+
 ## Citatos
 
 - id: c-41409

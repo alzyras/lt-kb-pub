@@ -53,9 +53,7 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citata apie veiklą Friburge."
   pagrindžia:
     - c-33838
-- susijęs iš Kaunas: Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta.
-- susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
-- susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
+
 ## Citatos
 
 - id: c-33838

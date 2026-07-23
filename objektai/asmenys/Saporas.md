@@ -30,7 +30,7 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
 ## Teiginiai
 
 <a id="claim-t-197813"></a>
-- t-002
+- t-001
   teiginys: "Saporas priklausė minėtai tautai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -40,11 +40,7 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174343
-- susijęs iš [[objektai/asmenys/Julijonas.md#claim-t-191423|Julijonas]]: Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas persų karalių Saporą per Dneprą ir alanų kraštą.
-- susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
-- susijęs iš Dnepras: Narbutas chionitus laikė Padneprės emporiumų graikų kolonistais, gyvenusiais dešiniajame Dnepro krante ties Kijevu.
-- susijęs iš Kijevas: Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai.
-- susijęs iš Padneprė: Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie Volgos vidurupio, kai Julijonas siuntė pas jį žygūnus.'
@@ -63,11 +59,11 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -95,4 +91,4 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -63,44 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60309
-- susijęs iš [[objektai/asmenys/Bona.md#claim-t-87469|Bona]]: Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.
-- susijęs iš [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius.md#claim-t-11542|Pirmosios katedros didysis altoriaus kryžius]]: Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188203|Jėzuitų ordinas]]: Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.
-- susijęs iš [[objektai/ivykiai/Briksijos altoriaus stebuklas.md#claim-t-62218|Briksijos altoriaus stebuklas]]: Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.
-- susijęs iš [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje.md#claim-t-01872|Vytauto palaidojimas Vilniaus katedroje]]: Vytauto palaikai 8 dienas laikyti gimtojoje pilyje, paskui pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi.
-- susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
-- susijęs iš [[objektai/paprociai/Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė.md#claim-t-193029|Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
-- susijęs iš [[objektai/paprociai/Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė.md#claim-t-192509|Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.
-- susijęs iš Ptolomėjaus iš Lukos Analai: Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.
-- susijęs iš Tibras: 1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.
-- susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
-- susijęs iš Vilniaus katedra: Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.
-- susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
-- susijęs iš Vilniaus katedra: Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.
-- susijęs iš Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.
-- susijęs iš Šv. Petro ir Povilo bažnyčia: Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar tęsėsi dvejus metus, bet didysis altorius nebuvo užbaigtas.
-- susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35029|Andrius Vosylius Jastrzębiecas]]: Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
-- susijęs iš [[objektai/asmenys/Heidenrichas.md#claim-t-60302|Heidenrichas (kunigas)]]: Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.
-- susijęs iš [[objektai/asmenys/Lionardo da Vinci.md#claim-t-200860|Lionardo da Vinci]]: Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėdsaką vėlesnių Milano dailininkų atmintyje.
-- susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114011|Valerijonas Protasevičius (vyskupas)]]: 1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176647|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.
-- susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-64437|Šv. Stanislovas]]: Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
-- susijęs iš [[objektai/daiktai/Medinis nukryžiuotasis.md#claim-t-59694|Medinis nukryžiuotasis]]: Pasak Petro Dusburgiečio, medinis nukryžiuotasis koplyčioje ištiesė rankas ir palaimino besimeldžiantįjį kryžiaus ženklu.
-- susijęs iš [[objektai/daiktai/Šv. Petro laivės pavidalo sakykla.md#claim-t-200848|Šv. Petro laivės pavidalo sakykla]]: Praeitojo šimtmečio pradžioje iš Milano pakviesti du skulptoriai pastatė burinės šv. Petro laivės pavidalo sakyklą.
-- susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-182856|Jogailaičių dinastija]]: Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
-- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
-- susijęs iš [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.md#claim-t-20902|„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]: Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.
-- susijęs iš Vytauto dovanojimo aktas Trakų miestui (1384 m.): 1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.
-- susijęs iš Žygimanto Augusto paliaubų aktas: Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.
-- susijęs iš Krokuva: Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
-- susijęs iš Vilnius: 1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.
-- susijęs iš Šventaragio slėnis: Tai buvo Šventaragio slėny prie pat pilies kalno.
-- susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
-- susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
+
 ## Citatos
 
 - id: c-60309

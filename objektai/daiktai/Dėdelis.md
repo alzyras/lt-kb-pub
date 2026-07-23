@@ -7,7 +7,7 @@ variantai:
   - 'dėdelis'
   - 'dėdeliu'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - daiktas
@@ -90,8 +90,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195403|Dėdelio vežiojimas per kaimą]]: Autorius rašo, kad vėliau Pelenijoje dėdelio jau nebevežiodavo.
-- susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195405|Dėdelio vežiojimas per kaimą]]: Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams.
-- susijęs iš [[objektai/paprociai/Pelenijos „dantų plovimas“.md#claim-t-195402|Pelenijos „dantų plovimas“]]: Autorius rašo, kad vėliau Pelenijoje jau nebebuvo nei dantų plovimo, nei dėdelio vežiojimo, nei gavėnios negavėjimo.

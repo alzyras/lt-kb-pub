@@ -39,7 +39,7 @@ Jakštas, J.
 ## Teiginiai
 
 <a id="claim-t-71515"></a>
-- t-004
+- t-001
   teiginys: "J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Jakštas, J.
     - c-70086
 
 <a id="claim-t-71516"></a>
-- t-001
+- t-002
   teiginys: "J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Jakštas, J.
     - c-70085
 
 <a id="claim-t-71518"></a>
-- t-002
+- t-004
   teiginys: "J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Jakštas, J.
     - c-70084
 
 <a id="claim-t-71519"></a>
-- t-006
+- t-005
   teiginys: "J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -141,8 +141,8 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
+    - t-002
+    - t-005
 
 - id: c-70084
   autorius: "Zenonas Ivinskis"
@@ -159,7 +159,7 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-70085
   autorius: "Zenonas Ivinskis"
@@ -202,4 +202,4 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

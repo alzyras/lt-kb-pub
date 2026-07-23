@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194073"></a>
-- t-002
+- t-001
   teiginys: "Paskui tas stabas supuvo, ir toje vie loje išaugo liepos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176686
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

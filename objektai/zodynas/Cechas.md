@@ -68,7 +68,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     - c-55801
 
 <a id="claim-t-54805"></a>
-- t-003
+- t-002
   teiginys: "Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų."
   atnaujinta: "2026-05-27 07:20"
   sprendimo_priezastis: "gap::vocabulary"
@@ -85,7 +85,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     - c-55800
 
 <a id="claim-t-54806"></a>
-- t-002
+- t-003
   teiginys: "Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -100,8 +100,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   semantiniai_rysiai: "Vilniaus miesto auksakalių cechas priklausė Vilnius (0.74)"
   pagrindžia:
     - c-55802
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55092|Vilniaus miesto auksakalių cechas]]: Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.
+
 ## Citatos
 
 - id: c-55800
@@ -129,7 +128,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-55801
   autorius: "Michał Baliński"
@@ -183,4 +182,4 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

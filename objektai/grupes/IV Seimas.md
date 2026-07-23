@@ -73,11 +73,7 @@ Dėl to atgaivinta Seimo institucija.
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie IV Seimo rinkimus."
   pagrindžia:
     - c-166518
-- susijęs iš [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara).md#claim-t-20206|IV Seimo rinkimai (1936 m. vasara)]]: 1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75748|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20149|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. gegužės 12 d. paskelbta nauja Lietuvos konstitucija sustiprino autoritarinį prezidento režimą.
+
 ## Citatos
 
 - id: c-22416

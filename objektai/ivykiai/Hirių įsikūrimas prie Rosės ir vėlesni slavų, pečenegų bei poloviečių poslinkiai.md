@@ -73,7 +73,7 @@ Nenurodyta
     - c-173894
 
 <a id="claim-t-191014"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-173896
 
 <a id="claim-t-191869"></a>
-- t-004
+- t-003
   teiginys: "Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
     - c-174751
 
 <a id="claim-t-197540"></a>
-- t-005
+- t-004
   teiginys: "III amžiaus pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukšlyn net iki Rosės žiočių kaip tik tada, kai jau dauguma birių perėjo prie."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-179237
 
 <a id="claim-t-197541"></a>
-- t-006
+- t-005
   teiginys: "Tačiau jis negalėjo įkurti jokių kolonijų krašte, esančiame prie Rosės, nes ten gyveno pečenegai su orda, vadinama Charoboe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -214,7 +214,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-174751
   autorius: "Teodoras Narbutas"
@@ -242,7 +242,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-179237
   autorius: "Teodoras Narbutas"
@@ -268,7 +268,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-179238
   autorius: "Teodoras Narbutas"
@@ -292,4 +292,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

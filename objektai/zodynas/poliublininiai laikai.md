@@ -71,8 +71,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-34172
-- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103842|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.
-- susijęs iš [[objektai/autoriai/T. Wierzbowski.md#claim-t-31014|T. Wierzbowski]]: T. Wierzbowskis tyrinėjo Edukacinę Komisiją bendruose Respublikos istorijos rėmuose.
+
 ## Citatos
 
 - id: c-32678

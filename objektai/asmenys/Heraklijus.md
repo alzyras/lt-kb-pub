@@ -79,13 +79,7 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija."
   pagrindžia:
     - c-60952
-- susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
-- susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-60257|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
-- susijęs iš Šventoji žemė: Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.
-- susijęs iš [[objektai/asmenys/Omaras.md#claim-t-60397|Omaras]]: Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-184118|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
-- susijęs iš [[objektai/ivykiai/Akono miesto sugriovimas (1290 m. gegužės 19 d.).md#claim-t-62739|Akono miesto sugriovimas (1290 m. gegužės 19 d.)]]: 1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.
-- susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
+
 ## Citatos
 
 - id: c-60952

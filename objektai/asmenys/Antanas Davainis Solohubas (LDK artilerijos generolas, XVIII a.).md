@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200471"></a>
-- t-002
+- t-001
   teiginys: "1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-183846
 
 <a id="claim-t-200472"></a>
-- t-003
+- t-002
   teiginys: "1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-183846
 
 <a id="claim-t-200473"></a>
-- t-001
+- t-003
   teiginys: "Antanas Davainis Solohubas buvo LDK artilerijos generolas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -115,20 +115,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183846
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.
-- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200515|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas.
-- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200516|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi.
-- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200513|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jonu Pliateriu.
-- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200514|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius buvo Vilniaus pavaivadis.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
+
 ## Citatos
 
 - id: c-183846
@@ -140,7 +127,7 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-001
     - t-004

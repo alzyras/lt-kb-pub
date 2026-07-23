@@ -42,7 +42,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 ## Teiginiai
 
 <a id="claim-t-79042"></a>
-- t-007
+- t-001
   teiginys: "1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - c-42017
 
 <a id="claim-t-79043"></a>
-- t-008
+- t-002
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - c-76142
 
 <a id="claim-t-79044"></a>
-- t-001
+- t-003
   teiginys: "Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - c-76147
 
 <a id="claim-t-79046"></a>
-- t-006
+- t-004
   teiginys: "Karaliaus atsiųstas Jonas Karolis Katkevičius nebeišgelbėjo Maskvos įgulos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - c-76146
 
 <a id="claim-t-79047"></a>
-- t-002
+- t-005
   teiginys: "Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-76142
   sudarytojas: "Karolis Zikaras"
@@ -185,7 +185,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-76144
   sudarytojas: "Karolis Zikaras"
@@ -210,7 +210,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-76146
   redaktorius: "A. Šapoka"
@@ -227,7 +227,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-76147
   redaktorius: "A. Šapoka"
@@ -246,7 +246,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 - Jonas Karolis Katkevičius keliavo į [[objektai/vietos/Livonija]]

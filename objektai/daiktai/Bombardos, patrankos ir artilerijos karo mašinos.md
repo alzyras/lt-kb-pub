@@ -68,7 +68,7 @@ Nenurodyta
     - c-83005
 
 <a id="claim-t-87025"></a>
-- t-003
+- t-002
   teiginys: "Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-83005
 
 <a id="claim-t-87026"></a>
-- t-002
+- t-003
   teiginys: "Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-83004
   autorius: "Michał Baliński"
@@ -165,4 +165,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

@@ -55,7 +55,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     - c-65334
 
 <a id="claim-t-64674"></a>
-- t-003
+- t-002
   teiginys: "K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     - c-65333
 
 <a id="claim-t-64675"></a>
-- t-002
+- t-003
   teiginys: "Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -432,11 +432,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179125
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-64625|Johanas Foigtas]]: J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.
-- susijęs iš Pirmasis Dusburgiečio kronikos leidimas (1679 m.): Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.
-- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
-- susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
-- susijęs iš Simono Grunau kronika: Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą, išleistą Karaliaučiuje 1679 m.'
@@ -468,7 +464,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-65333
@@ -486,8 +481,8 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003
 
 - id: c-65334
   autorius: "Petras Dusburgietis"

@@ -57,7 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata leidžia pagrįsti teiginį apie Karamzino nurodytus Vytauto laiškus."
   pagrindžia:
     - c-84050
-- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188470|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų.
+
 ## Citatos
 
 - id: c-84050

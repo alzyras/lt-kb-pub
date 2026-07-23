@@ -7,14 +7,14 @@ datos:
   - '1292 m.'
 date_start: '1292'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - žygis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62758"></a>
-- t-002
+- t-001
   teiginys: "Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-63548
 
 <a id="claim-t-62759"></a>
-- t-003
+- t-002
   teiginys: "Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-63547
 
 <a id="claim-t-62760"></a>
-- t-001
+- t-003
   teiginys: "1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Nenurodyta
     - c-63545
 
 <a id="claim-t-194380"></a>
-- t-005
+- t-004
   teiginys: "1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -120,15 +120,16 @@ Nenurodyta
     - c-63545
 
 <a id="claim-t-196938"></a>
-- t-006
+- t-005
   teiginys: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-63545
     - c-63546
     - c-63548
 
@@ -176,7 +177,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
+    - t-004
     - t-005
 
 - id: c-63546
@@ -199,8 +201,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-006
+    - t-001
+    - t-005
 
 - id: c-63547
   autorius: "Petras Dusburgietis"
@@ -224,7 +226,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-63548
   autorius: "Petras Dusburgietis"
@@ -248,5 +250,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-006
+    - t-001
+    - t-005

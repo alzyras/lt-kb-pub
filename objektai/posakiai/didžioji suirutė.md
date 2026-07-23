@@ -53,11 +53,7 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   temporalinis_llm_pakomentavimas: "Pašalintas formatavimo triukšmas ir suformuluotas glaustesnis sakinys."
   pagrindžia:
     - c-02325
-- susijęs iš Maskva: Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).
-- susijęs iš Maskva: Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).
-- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02975|didžioji suirutė smuta]]: Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).
-- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02976|didžioji suirutė smuta]]: Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.
-- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-182941|didžioji suirutė smuta]]: Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).
+
 ## Citatos
 
 - id: c-02325

@@ -39,7 +39,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 ## Teiginiai
 
 <a id="claim-t-11662"></a>
-- t-002
+- t-001
   teiginys: "Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -55,7 +55,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     - c-14581
 
 <a id="claim-t-194946"></a>
-- t-003
+- t-002
   teiginys: "O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa kalbis."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,6 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-14581
@@ -108,7 +107,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177342
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -131,4 +130,4 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -47,7 +47,7 @@ media_all_json: |-
     - c-166939
 
 <a id="claim-t-183546"></a>
-- t-003
+- t-002
   teiginys: "Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ media_all_json: |-
     - c-166939
 
 <a id="claim-t-183547"></a>
-- t-004
+- t-003
   teiginys: "1991 m. sausį promaskviniai būriai pasinaudojo Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas, siekdami nuversti teisėtą Lietuvos valdžią."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -143,5 +143,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
-    - t-004

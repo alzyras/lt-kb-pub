@@ -49,8 +49,7 @@ Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172377
-- susijęs iš Kanada: Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.
-- susijęs iš Šiaurės Amerika Kanada: Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas.
+
 ## Citatos
 
 - id: c-172377

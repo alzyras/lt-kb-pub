@@ -56,8 +56,7 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184141
-- susijęs iš [[objektai/daiktai/Šv. Kazimiero bažnyčios statyba.md#claim-t-200852|Šv. Kazimiero bažnyčios statyba]]: Šv. Kazimiero bažnyčia pradėta statyti 1604 metais, užbaigta 1615 metais ir pakartojo Romos pavyzdžio planą bei bendrą kompoziciją.
-- susijęs iš [[objektai/ivykiai/Šv. Kazimiero bažnyčios statyba.md#claim-t-200845|Šv. Kazimiero bažnyčios statyba]]: Šv. Kazimiero bažnyčia pradėta statyti 1604 metais, užbaigta 1615 metais ir pakartojo Romos Il Gesù plano bei bendros kompozicijos pavyzdį.
+
 ## Citatos
 
 - id: c-184141

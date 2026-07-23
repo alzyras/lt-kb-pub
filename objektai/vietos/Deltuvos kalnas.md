@@ -30,7 +30,7 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
 ## Teiginiai
 
 <a id="claim-t-197461"></a>
-- t-002
+- t-001
   teiginys: "Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors Plikasis kalnas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -60,4 +60,4 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

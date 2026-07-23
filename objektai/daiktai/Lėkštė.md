@@ -6,7 +6,7 @@ variantai:
   - 'lėkštes'
   - 'lėkštę'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -85,6 +85,7 @@ Nenurodyta
   citata_rodoma: "Valgė mediniais šaukštais, įsipildami į baltas lėkštes."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

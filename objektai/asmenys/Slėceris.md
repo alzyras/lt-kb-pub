@@ -7,15 +7,15 @@ datos:
   - '1000 m.'
 date_start: '1000'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'X'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - asmuo
+amziai:
+  - 'X'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -161,30 +161,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174059
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191115|Augustas Liudvikas fon Slėceris]]: Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygino lietuviškam lihtars.
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191117|Augustas Liudvikas fon Slėceris]]: Narbutas rašo, kad Slėceris juoko vertu dalyku laikė krivičių siejimą su prūsų vyriausiuoju kunigu.
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191118|Augustas Liudvikas fon Slėceris]]: Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio.
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191119|Augustas Liudvikas fon Slėceris]]: Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191942|Augustas Liudvikas fon Slėceris]]: Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius.
-- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191570|Augustas Liudvikas fon Slėceris]]: Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“.
-- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191571|Augustas Liudvikas fon Slėceris]]: Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-190808|Teodoras Narbutas]]: Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną.
-- susijęs iš [[objektai/asmenys/Mela.md#claim-t-191297|Mela]]: Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190935|Nestoras]]: Teodoro Narbuto teigimu, Slėceris abejojo, ar iš Nestoro galima paaiškinti, kokiai tautai priklausė krivičiai.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190936|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: jie degino mirusiuosius ir pelenus rinko į urnas.
-- susijęs iš [[objektai/asmenys/Pompomijus Mela.md#claim-t-191151|Pompomijus Mela]]: Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/asmenys/Tatiščevas.md#claim-t-191476|Tatiščevas]]: Narbutas nepritarė Tatiščevo bandymui krivičių pavadinimą kildinti iš sarmatų žodžio „Krirsae“.
-- susijęs iš [[objektai/asmenys/Vasilijus Tatiščevas.md#claim-t-191359|Vasilijus Tatiščevas]]: Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190692|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190693|Augustas Liudvigas Šleceris]]: Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/autoriai/Mela.md#claim-t-191653|Mela]]: Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191532|Nestoras]]: Narbutas rašė, kad Nestoras išsaugojo nepilną aprašomos tautos gyvenimo paveikslą, įskaitant mirusiųjų deginimą ir urnas.
-- susijęs iš [[objektai/autoriai/Vasilijus Tatiščevas.md#claim-t-191602|Vasilijus Tatiščevas]]: Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192260|Krirsae]]: Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims.'
@@ -200,11 +177,12 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     se užkampiuose, kad įsitikintum, kiek daug būtina iš jų
     atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-007
+
 - c-003
   santrauka: 'Narbutas rašo, kad Slėceris laikė juokinga mintį, jog krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -218,11 +196,10 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
     įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­
     ties.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174058

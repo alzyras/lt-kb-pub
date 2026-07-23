@@ -69,7 +69,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 ## Teiginiai
 
 <a id="claim-t-74881"></a>
-- t-009
+- t-001
   teiginys: "1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::groups"
@@ -88,7 +88,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-26831
 
 <a id="claim-t-74882"></a>
-- t-010
+- t-002
   teiginys: "Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::groups"
@@ -107,7 +107,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-26831
 
 <a id="claim-t-74883"></a>
-- t-011
+- t-003
   teiginys: "Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "gap::groups"
@@ -123,7 +123,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-26832
 
 <a id="claim-t-74884"></a>
-- t-012
+- t-004
   teiginys: "1917 m. pabaigoje Kaune rezidavęs Oberostas įteikė Lietuvos Tarybos prezidiumui norimos rezoliucijos projektą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::groups"
@@ -142,7 +142,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-26833
 
 <a id="claim-t-74885"></a>
-- t-014
+- t-005
   teiginys: "Kaune rezidavęs Oberostas įteikė Tarybos prezidiumui rezoliucijos projektą, kurį prezidiumas pataisė ir gruodžio 11 d. grąžino karinei administracijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -162,7 +162,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-26833
 
 <a id="claim-t-74886"></a>
-- t-013
+- t-006
   teiginys: "Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::groups"
@@ -176,9 +176,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-72861
-- susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
-- susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
-- susijęs iš Kaunas: 1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.
+
 ## Citatos
 
 - id: c-26831
@@ -202,8 +200,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-010
+    - t-001
+    - t-002
 
 - id: c-26832
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -228,7 +226,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-003
 
 - id: c-26833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -252,8 +250,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-014
+    - t-004
+    - t-005
 
 - id: c-72861
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -276,4 +274,4 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-006

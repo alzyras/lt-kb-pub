@@ -38,7 +38,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 ## Teiginiai
 
 <a id="claim-t-41484"></a>
-- t-002
+- t-001
   teiginys: "Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
     - c-44976
 
 <a id="claim-t-41485"></a>
-- t-001
+- t-002
   teiginys: "Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas atrems savo ietį į Maskvos Kremliaus sieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +74,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir aiškiai perteikia Algirdo pareiškimą pagal citatą."
   pagrindžia:
     - c-43217
-- susijęs iš [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!.md#claim-t-09668|Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]: Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos.
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192079|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
+
 ## Citatos
 
 - id: c-43217
@@ -99,7 +98,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44976
   sudarytojas: "Karolis Zikaras"
@@ -125,4 +124,4 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

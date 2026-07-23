@@ -75,7 +75,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
     - c-174073
 
 <a id="claim-t-197431"></a>
-- t-004
+- t-003
   teiginys: "Narbutas teigia, kad naruševičius priklauso^ prie dievo Višnaus paslapčių, išreiškia teikiamą jam garbę '."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -174,4 +174,4 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

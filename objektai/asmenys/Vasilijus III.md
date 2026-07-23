@@ -45,7 +45,7 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
   semantiniai_rysiai: "Vasilijus III keliavo į Smolenskas (0.64)"
   pagrindžia:
     - c-44558
-- susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54180|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.
+
 ## Citatos
 
 - id: c-44558

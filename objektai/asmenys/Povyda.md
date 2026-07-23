@@ -32,7 +32,7 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 ## Teiginiai
 
 <a id="claim-t-197150"></a>
-- t-002
+- t-001
   teiginys: "Povyda ir negebėjo duoti deramo atkirčio priešo išpuoliams."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
     - c-61049
 
 <a id="claim-t-201025"></a>
-- t-003
+- t-002
   teiginys: "Išgirdę tą, kryžėjai, norėdami pačioj pra džioj nuslopinti tą liepsną, susigrūmė baisiai kru vinai su patrakėliais, kurie vienok pergalėjo meldžionis, o jų kamendotus Helmoldą ir Goldbachą gyvus sugavo, kuriuos vienok, nežinoma dėl ko, pagezonis Povyda."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184375
   autorius: "Simonas Daukantas"
@@ -127,4 +127,4 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

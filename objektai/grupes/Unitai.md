@@ -45,7 +45,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 ## Teiginiai
 
 <a id="claim-t-45238"></a>
-- t-003
+- t-001
   teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,19 +79,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   semantiniai_rysiai: "Unitai gyveno Lietuva (0.62)"
   pagrindžia:
     - c-46404
-- susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
-- susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
-- susijęs iš [[objektai/grupes/Unitų bažnyčia.md#claim-t-16167|Unitų bažnyčia]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
-- susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54332|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.
-- susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54333|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.
-- susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188014|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188017|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
-- susijęs iš [[objektai/asmenys/Julijona Vitebskietė.md#claim-t-190105|Julijona Vitebskietė]]: Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.
-- susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
-- susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66081|Rusų stačiatikių bažnyčia]]: 1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas.
-- susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
-- susijęs iš Svisločė: Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk.
+
 ## Citatos
 
 - id: c-46404
@@ -143,4 +131,4 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

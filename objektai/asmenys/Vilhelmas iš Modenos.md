@@ -62,7 +62,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     - c-60709
 
 <a id="claim-t-60077"></a>
-- t-003
+- t-002
   teiginys: "1243 m. liepos mėn. Vilhelmas iš Modenos padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     - c-60710
 
 <a id="claim-t-60078"></a>
-- t-002
+- t-003
   teiginys: "1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60708
-- susijęs iš [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.).md#claim-t-66951|Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]: Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse.
+
 ## Citatos
 
 - id: c-60708
@@ -154,7 +154,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
 
 - id: c-60710
   autorius: "Petras Dusburgietis"
@@ -170,4 +170,4 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

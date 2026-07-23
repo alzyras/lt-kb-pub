@@ -30,7 +30,7 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 ## Teiginiai
 
 <a id="claim-t-30332"></a>
-- t-002
+- t-001
   teiginys: "Klemensas Moskorzewskis buvo Jogailos vietininkas, atlaikęs Kalno pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     - c-32774
 
 <a id="claim-t-30333"></a>
-- t-001
+- t-002
   teiginys: "Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
   semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.91); Lenkai gynė Vilnius (0.62); Klemensas Moskorzewskis gynė Vilnius (0.60)"
   pagrindžia:
     - c-32773
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-184377|Skirgaila]]: 1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.
+
 ## Citatos
 
 - id: c-32773
@@ -83,7 +83,7 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-32774
   autorius: "Zenonas Ivinskis"
@@ -102,4 +102,4 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

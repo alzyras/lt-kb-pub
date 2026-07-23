@@ -54,20 +54,7 @@ media_all_json: |-
   pagrindžia:
     - c-40529
     - c-167104
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78786|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Arvydu Anušausku ir Karoliu Zikaru parengė kartoschemą apie žymiausius Lietuvos partizanų mūšius prieš sovietų pajėgas.
-- susijęs iš [[objektai/ivykiai/1991 m. sausio 13 d.md#claim-t-39090|1991 m. sausio 13 d]]: 1991 m. sausio 13 d. prie Aukščiausiosios Tarybos rūmų buvo susirinkusi daugiatūkstantinė Lietuvos žmonių minia.
-- susijęs iš LIETUVOS LENGVOJI IR VIDUTINĖ KAVALERIJA: Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė.
-- susijęs iš [[objektai/autoriai/Albertas Daugirdas.md#claim-t-40588|Albertas Daugirdas]]: Albertas Daugirdas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie AT rūmų gynybos ruožus bendraautoris.
-- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71496|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
-- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71503|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171504|Karolis Zikaras]]: Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78778|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš [[objektai/autoriai/Skučas A.md#claim-t-39872|Skučas A]]: A. Skučas parašė dokumentinį romaną „Pėstininko užrašai“, išleistą Vilniuje 2012 m.
-- susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171454|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
-- susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171460|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas.
+
 ## Citatos
 
 - id: c-40529

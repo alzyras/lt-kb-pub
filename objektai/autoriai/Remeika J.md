@@ -30,7 +30,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 ## Teiginiai
 
 <a id="claim-t-91933"></a>
-- t-002
+- t-001
   teiginys: "J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
     - c-87574
 
 <a id="claim-t-91934"></a>
-- t-001
+- t-002
   teiginys: "J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-87575
   autorius: "Petras Dusburgietis"
@@ -97,4 +97,4 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

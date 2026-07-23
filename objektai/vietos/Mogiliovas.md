@@ -63,17 +63,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171915
-- susijęs iš Dnepras: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189482|Skitai]]: Narbutas Dnepro pakrančių milžinkapių pylėjus tapatina su skitais, kurie virš mirusiųjų supildavo kalnelius.
-- susijęs iš Baltarusija: Narbutas nurodo, kad pilkapių pasitaiko visoje Baltarusijoje, bet daugiausia jų telkiasi Dnepro vidurupyje nuo Sklovo iki Pripetės žiočių.
-- susijęs iš Beržūna: Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.
-- susijęs iš Dnepras: Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.
-- susijęs iš Gerų kraštas: Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.
-- susijęs iš Padnepris: Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkapius.
-- susijęs iš Pavyslis: Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapius.
-- susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
-- susijęs iš Rogačiovas: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.
-- susijęs iš Rogačiovas: Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.'
@@ -95,7 +85,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170639

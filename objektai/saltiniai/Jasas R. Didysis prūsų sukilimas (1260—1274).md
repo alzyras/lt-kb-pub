@@ -9,13 +9,13 @@ datos:
   - '1959 m.'
 date_start: '1260'
 date_end: '1959'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,11 +63,10 @@ Dusburgietis teigia, kad didysis prūsų sukilimas (1260—1274).— V., 1959.
   citata_originali: |
     Jasas R. Didysis prūsų sukilimas (1260—1274).— V., 1959.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61721

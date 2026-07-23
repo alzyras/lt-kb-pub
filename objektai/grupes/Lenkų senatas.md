@@ -89,7 +89,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-168791
 
 <a id="claim-t-196099"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičiaus pasakojime Gnezno arkivyskupas, kaip senato pirmininkas, kalbėjo iškalbingai, bet varžėsi, bijodamas įžeisti Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-168789
 
 <a id="claim-t-196100"></a>
-- t-006
+- t-005
   teiginys: "Žygimanto pasiuntiniai turėjo senatui papasakoti įvykius Lietuvoje ir pareikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
     - c-178528
 
 <a id="claim-t-196101"></a>
-- t-007
+- t-006
   teiginys: "Susitarime numatyta laikytis Lietuvos unijos su Lenkija ir riboti Žygimanto siekį gauti karaliaus titulą ar karališkąsias insignijas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168792
-- susijęs iš [[objektai/asmenys/Konstantinas Karijotaitis.md#claim-t-186055|Konstantinas Karijotaitis]]: Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui.
+
 ## Citatos
 
 - id: c-168789
@@ -159,7 +159,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-168790
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -254,7 +254,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-178528
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -280,7 +280,7 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 - Lenkų senatas siuntė į [[objektai/vietos/Lietuva]]

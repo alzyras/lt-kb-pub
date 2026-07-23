@@ -53,8 +53,7 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175669
-- susijęs iš Vengrija: Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje.
-- susijęs iš Čekija: Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais.
+
 ## Citatos
 
 - id: c-175669

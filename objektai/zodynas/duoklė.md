@@ -48,11 +48,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168743
-- susijęs iš [[objektai/posakiai/Iki gyvos galvos.md#claim-t-86851|Iki gyvos galvos]]: Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.
-- susijęs iš [[objektai/zodynas/sidabrinė duoklė tributum serebsčina.md#claim-t-34312|sidabrinė duoklė tributum serebsčina]]: Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.
-- susijęs iš [[objektai/zodynas/sidabrinė duoklė.md#claim-t-12588|sidabrinė duoklė]]: Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.
-- susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
-- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.'
@@ -139,6 +135,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   citata_rodoma: "Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą.\nNaugardiečiai, matydami pskoviečius jam pasidavus \nir priėmus jo vietininką, nebenorėdami, kad jų žemė \nnuo didžiojo kunigaikščio Vytauto dar labiau nukentė­\ntų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam \ntarnauti, ir duoklę duoti, ir laikyti ji savo valdovu, \nkaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas \npaskyrė jiems vietininku savo svainį, kunigaikštį Si­\nmoną Alšėniškį, vadinamą Rūsčiuoju 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

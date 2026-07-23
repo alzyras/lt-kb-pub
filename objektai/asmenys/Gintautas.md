@@ -70,8 +70,7 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177100
-- susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189439|Kriviai ir Krivių Krivaičiai]]: Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.
-- susijęs iš [[objektai/asmenys/Alepas.md#claim-t-190647|Alepas]]: Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.
+
 ## Citatos
 
 - id: c-172950

@@ -26,40 +26,6 @@ media_all_json: |-
 
 Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tekstas, be jokios abejonės, atsirado jau
-    po nekartą minėtos P. Safaržyko publikaci­
-    jos.
-    T. Narbutas LTI PE po šio sakinio parašė to­
-    kią pastabą: „Geriau būtų nuo Wannas, seno­
-    vės prūsų kalba •— uodas“ (PE. P. 360).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175013
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360).
-  citata_rodoma: "T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192127"></a>
@@ -79,3 +45,36 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175013
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tekstas, be jokios abejonės, atsirado jau
+    po nekartą minėtos P. Safaržyko publikaci­
+    jos.
+    T. Narbutas LTI PE po šio sakinio parašė to­
+    kią pastabą: „Geriau būtų nuo Wannas, seno­
+    vės prūsų kalba •— uodas“ (PE. P. 360).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-175013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360).
+  citata_rodoma: "T. Narbutas LTI PE po šio sakinio parašė tokią pastabą: „Geriau būtų nuo Wannas, senovės prūsų kalba •— uodas“ (PE. P. 360)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

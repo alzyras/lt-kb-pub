@@ -36,7 +36,7 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
 ## Teiginiai
 
 <a id="claim-t-189550"></a>
-- t-002
+- t-001
   teiginys: "Narbutas teigė, kad krivio laikymas „Šiaurės popiežiumi“ perdeda jo galią, nes jo veikimas dažnai ribojosi vienu valsčiumi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -118,4 +118,4 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -44,7 +44,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 ## Teiginiai
 
 <a id="claim-t-58792"></a>
-- t-004
+- t-001
   teiginys: "Prūsų, Prūsijos vardo kilmė nėra aiški."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - c-59426
 
 <a id="claim-t-58793"></a>
-- t-003
+- t-002
   teiginys: "XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - c-59424
 
 <a id="claim-t-58794"></a>
-- t-005
+- t-003
   teiginys: "Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - c-59428
 
 <a id="claim-t-58795"></a>
-- t-001
+- t-004
   teiginys: "XII–XIII a. istoriniuose aktuose Prūsijos vardas dar nebuvo nusistovėjęs ir rašytas keliomis formomis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - c-59425
 
 <a id="claim-t-58796"></a>
-- t-002
+- t-005
   teiginys: "Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-59425
   autorius: "Petras Dusburgietis"
@@ -173,7 +173,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-59426
   autorius: "Petras Dusburgietis"
@@ -190,7 +190,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-59427
   autorius: "Petras Dusburgietis"
@@ -210,7 +210,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-59428
   autorius: "Petras Dusburgietis"
@@ -230,4 +230,4 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

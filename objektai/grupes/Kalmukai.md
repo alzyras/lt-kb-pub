@@ -48,7 +48,7 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175753
-- susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190734|Jonas Potockis]]: Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose.
+
 ## Citatos
 
 - id: c-175753

@@ -43,7 +43,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 ## Teiginiai
 
 <a id="claim-t-187873"></a>
-- t-013
+- t-001
   teiginys: "1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -58,7 +58,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170868
 
 <a id="claim-t-187874"></a>
-- t-006
+- t-002
   teiginys: "Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -76,7 +76,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170864
 
 <a id="claim-t-187875"></a>
-- t-012
+- t-003
   teiginys: "1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -88,7 +88,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170863
 
 <a id="claim-t-187876"></a>
-- t-011
+- t-004
   teiginys: "Katalikiškajai Lietuvos bajorijai didžiojo kunigaikščio elgesys buvo nepriimtinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -100,7 +100,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170870
 
 <a id="claim-t-187877"></a>
-- t-015
+- t-005
   teiginys: "Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -113,7 +113,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170866
 
 <a id="claim-t-187878"></a>
-- t-002
+- t-006
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -126,7 +126,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170871
 
 <a id="claim-t-187879"></a>
-- t-016
+- t-007
   teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -138,7 +138,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-46363
 
 <a id="claim-t-187880"></a>
-- t-001
+- t-008
   teiginys: "Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -151,7 +151,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170862
 
 <a id="claim-t-187881"></a>
-- t-020
+- t-009
   teiginys: "Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -169,7 +169,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170855
 
 <a id="claim-t-187882"></a>
-- t-021
+- t-010
   teiginys: "Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -187,7 +187,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170856
 
 <a id="claim-t-187884"></a>
-- t-017
+- t-011
   teiginys: "1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -202,7 +202,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170863
 
 <a id="claim-t-187886"></a>
-- t-005
+- t-012
   teiginys: "Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -214,7 +214,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170865
 
 <a id="claim-t-187887"></a>
-- t-014
+- t-013
   teiginys: "Švitrigaila be teismo užgrobdavo kai kurių bajorų turtus, todėl papiktino didžiąją Lietuvos krašto dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -226,7 +226,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170870
 
 <a id="claim-t-187888"></a>
-- t-007
+- t-014
   teiginys: "Kojalavičius rašė tuo metu, kai Lietuvos bajorijos sluoksniuose jau ryškėjo savos valstybingumo sąmonės silpnėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -238,7 +238,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170869
 
 <a id="claim-t-187889"></a>
-- t-009
+- t-015
   teiginys: "Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -249,7 +249,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170867
 
 <a id="claim-t-187891"></a>
-- t-003
+- t-016
   teiginys: "Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -261,7 +261,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170869
 
 <a id="claim-t-187892"></a>
-- t-004
+- t-017
   teiginys: "Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
@@ -273,7 +273,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170864
 
 <a id="claim-t-188281"></a>
-- t-022
+- t-018
   teiginys: "Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -293,7 +293,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-171175
 
 <a id="claim-t-188282"></a>
-- t-023
+- t-019
   teiginys: "Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -313,7 +313,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-171176
 
 <a id="claim-t-188283"></a>
-- t-024
+- t-020
   teiginys: "Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -326,7 +326,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-171178
 
 <a id="claim-t-188284"></a>
-- t-025
+- t-021
   teiginys: "Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -347,7 +347,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-171178
 
 <a id="claim-t-193110"></a>
-- t-026
+- t-022
   teiginys: "Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -359,7 +359,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-175870
 
 <a id="claim-t-193111"></a>
-- t-027
+- t-023
   teiginys: "Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -371,7 +371,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-175871
 
 <a id="claim-t-193112"></a>
-- t-028
+- t-024
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -381,31 +381,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175872
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
-- susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
-- susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.
-- susijęs iš Lietuva: Kojelavičiaus pasakojime po pilių sugriovimo žemdirbiai palikdavo kaimus, o priešas leisdavosi vis giliau į Lietuvą.
-- susijęs iš Lietuva: Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas.
-- susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-183518|Aleksandras I]]: Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.
-- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96106|Gediminaičių dinastija]]: Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
-- susijęs iš [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.).md#claim-t-66624|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]: Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.
-- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
-- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
-- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
-- susijęs iš Lenkija: Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.
-- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
-- susijęs iš Lenkija: Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.
-- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
-- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
-- susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
-- susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
-- susijęs iš [[objektai/zodynas/statutas.md#claim-t-100291|statutas]]: Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.
+
 ## Citatos
 
 - id: c-46363
@@ -425,7 +401,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-007
 
 - id: c-170855
   autorius: "Teodoras Narbutas"
@@ -446,7 +422,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-009
 
 - id: c-170856
   autorius: "Teodoras Narbutas"
@@ -468,7 +444,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-010
 
 - id: c-170862
   autorius: "Michał Baliński"
@@ -494,7 +470,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-008
 
 - id: c-170863
   autorius: "Michał Baliński"
@@ -519,8 +495,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-017
+    - t-003
+    - t-011
 
 - id: c-170864
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -543,8 +519,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-004
+    - t-002
+    - t-017
 
 - id: c-170865
   autorius: "Michał Baliński"
@@ -568,7 +544,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-012
 
 - id: c-170866
   autorius: "Michał Baliński"
@@ -590,7 +566,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-005
 
 - id: c-170867
   redaktorius: "A. Šapoka"
@@ -610,7 +586,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-015
 
 - id: c-170868
   redaktorius: "A. Šapoka"
@@ -633,7 +609,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-001
 
 - id: c-170869
   autorius: "Zenonas Ivinskis"
@@ -656,8 +632,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-003
+    - t-014
+    - t-016
 
 - id: c-170870
   autorius: "Michał Baliński"
@@ -686,8 +662,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-014
+    - t-004
+    - t-013
 
 - id: c-170871
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -712,7 +688,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-171175
   autorius: "Teodoras Narbutas"
@@ -734,7 +710,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-018
 
 - id: c-171176
   autorius: "Teodoras Narbutas"
@@ -755,7 +731,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-019
 
 - id: c-171177
   autorius: "Teodoras Narbutas"
@@ -797,8 +773,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
-    - t-025
+    - t-020
+    - t-021
 
 - id: c-175870
   redaktorius: "A. Šapoka"
@@ -817,7 +793,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-022
 
 - id: c-175871
   redaktorius: "A. Šapoka"
@@ -837,7 +813,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-023
 
 - id: c-175872
   redaktorius: "A. Šapoka"
@@ -856,7 +832,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-024
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Sapiegos]]

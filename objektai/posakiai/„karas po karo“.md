@@ -52,6 +52,3 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/posakiai/karas po karo.md#claim-t-09685|karas po karo]]: Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu.

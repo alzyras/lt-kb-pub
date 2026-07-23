@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45389"></a>
-- t-013
+- t-001
   teiginys: "Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45390"></a>
-- t-011
+- t-002
   teiginys: "Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45391"></a>
-- t-014
+- t-003
   teiginys: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45392"></a>
-- t-015
+- t-004
   teiginys: "1922 m. Lietuvos Valstybės Konstitucija Seimui, sudarytam iš tautos atstovų, suteikė ypač didelių galių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Nenurodyta
     - c-23021
 
 <a id="claim-t-45393"></a>
-- t-010
+- t-005
   teiginys: "Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Nenurodyta
     - c-48235
 
 <a id="claim-t-45394"></a>
-- t-012
+- t-006
   teiginys: "Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -186,8 +186,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-012
+    - t-004
+    - t-006
 
 - id: c-48235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -208,7 +208,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-011
-    - t-014
-    - t-010
+    - t-001
+    - t-002
+    - t-003
+    - t-005

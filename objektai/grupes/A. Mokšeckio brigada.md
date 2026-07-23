@@ -44,7 +44,7 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40743
-- susijęs iš [[objektai/grupes/4-asis pėstininkų pulkas.md#claim-t-40825|4-asis pėstininkų pulkas]]: 4-ojo pėstininkų pulko pozicijos gynė Musninkus, o lenkams šioje vietoje nepavyko priversti lietuvių atsitraukti.
+
 ## Citatos
 
 - id: c-40743

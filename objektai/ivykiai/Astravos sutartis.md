@@ -55,7 +55,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 ## Teiginiai
 
 <a id="claim-t-12397"></a>
-- t-004
+- t-001
   teiginys: "Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-14174
 
 <a id="claim-t-12398"></a>
-- t-005
+- t-002
   teiginys: "Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15978
 
 <a id="claim-t-12399"></a>
-- t-006
+- t-003
   teiginys: "Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15979
 
 <a id="claim-t-176169"></a>
-- t-007
+- t-004
   teiginys: "1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,15 +128,14 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-160214
 
 <a id="claim-t-176170"></a>
-- t-008
+- t-005
   teiginys: "Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-160212
-- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.).md#claim-t-95959|Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]: 1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.
-- susijęs iš Ostrovas: 1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.
+
 ## Citatos
 
 - id: c-14174
@@ -162,8 +161,8 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002
 
 - id: c-15978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -182,7 +181,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-15979
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -203,7 +202,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-160212
   redaktorius: "A. Šapoka"
@@ -223,7 +222,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-160214
   redaktorius: "A. Šapoka"
@@ -245,4 +244,4 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004

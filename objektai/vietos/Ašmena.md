@@ -47,7 +47,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 ## Teiginiai
 
 <a id="claim-t-176932"></a>
-- t-018
+- t-001
   teiginys: "Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160882
 
 <a id="claim-t-176933"></a>
-- t-006
+- t-002
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-12704
 
 <a id="claim-t-176936"></a>
-- t-009
+- t-003
   teiginys: "Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-31954
 
 <a id="claim-t-176937"></a>
-- t-015
+- t-004
   teiginys: "1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160875
 
 <a id="claim-t-176938"></a>
-- t-020
+- t-005
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160891
 
 <a id="claim-t-176939"></a>
-- t-017
+- t-006
   teiginys: "Švitrigaila savo dvare prie Ašmenos miesto turėjo tik nedidelę sargybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160883
 
 <a id="claim-t-176941"></a>
-- t-012
+- t-007
   teiginys: "Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160874
 
 <a id="claim-t-176942"></a>
-- t-021
+- t-008
   teiginys: "Švitrigaila buvojo savo dvare prie Ašmenos miesto ir turėjo prie savęs tik nedidelę sargybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160883
 
 <a id="claim-t-176943"></a>
-- t-016
+- t-009
   teiginys: "1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160877
 
 <a id="claim-t-176944"></a>
-- t-027
+- t-010
   teiginys: "Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-31954
 
 <a id="claim-t-176945"></a>
-- t-022
+- t-011
   teiginys: "Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -235,7 +235,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160882
 
 <a id="claim-t-176947"></a>
-- t-024
+- t-012
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -251,7 +251,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160880
 
 <a id="claim-t-176948"></a>
-- t-010
+- t-013
   teiginys: "1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,7 +271,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160892
 
 <a id="claim-t-176950"></a>
-- t-019
+- t-014
   teiginys: "Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -287,7 +287,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160876
 
 <a id="claim-t-176952"></a>
-- t-014
+- t-015
   teiginys: "Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -304,7 +304,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160888
 
 <a id="claim-t-176953"></a>
-- t-025
+- t-016
   teiginys: "Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -321,7 +321,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160881
 
 <a id="claim-t-176954"></a>
-- t-023
+- t-017
   teiginys: "Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -337,7 +337,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-160876
 
 <a id="claim-t-184925"></a>
-- t-029
+- t-018
   teiginys: "Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią ir vienuolyną, kuriuos dosniai apdovanojo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -357,7 +357,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - c-168286
 
 <a id="claim-t-193168"></a>
-- t-030
+- t-019
   teiginys: "Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -367,112 +367,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175917
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
-- susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200520|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: 1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Mangaila iš Ašmenos.md#claim-t-87770|Mangaila iš Ašmenos]]: Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.
-- susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200518|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186737|Švitrigailos užpuolimas Ašmenoje]]: Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186739|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186740|Švitrigailos užpuolimas Ašmenoje]]: 1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186741|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186742|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.
-- susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185548|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš Ašmena ir Lyda: Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais.
-- susijęs iš Ašmenos pavietas: M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete.
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
-- susijęs iš Kaunas: Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.
-- susijęs iš Medininkų pilis (pilis): Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.
-- susijęs iš Medininkų pilis (pilis): Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.
-- susijęs iš Minskas: Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.
-- susijęs iš Polianų dvaras: Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų.
-- susijęs iš Rodūnė: 1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš Vileika: Vileikos miestelio apylinkės Ašmenos paviete buvo paskirtos mobilizacijos vieta.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200518|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė.
-- susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113789|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
-- susijęs iš [[objektai/asmenys/Rumbautas.md#claim-t-87848|Rumbautas]]: Rumbautas buvo lietuvių didikas, patekęs į nelaisvę paskutiniame kare Voluinėje ir Jogailos išlaisvintas bei atsiųstas Švitrigailai į Vilnių.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200517|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: 1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
-- susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10108|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176677|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179734|Švitrigaila]]: 1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
-- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66080|Rusijos kariuomenė]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171394|Totoriai]]: Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171434|Totoriai]]: Seniau totoriai vertėsi audinių ir siūlų prekyba.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176085|Vilniaus kapitula]]: 1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
-- susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
-- susijęs iš [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.).md#claim-t-86969|Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]: 1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.
-- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-05337|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: 1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.
-- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71796|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: 1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą.
-- susijęs iš [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje.md#claim-t-87227|Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]: Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
-- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
-- susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
-- susijęs iš Vilniaus miesto planas Jogailos laikais: Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.
-- susijęs iš Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui: 1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.
-- susijęs iš Bausmių aikštė: Bausmių aikštėje buvo baudžiami nusikaltėliai.
-- susijęs iš Bresto vaivadija: Bresto vaivadijoje Višnioveckiai telkė LDK pietų bajoriją, pasitelkdami savo šalininkus, tarnus ir rekrūtus iš Voluinės dvarų.
-- susijęs iš Jašiūnai: Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.
-- susijęs iš Kaunas: Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo.
-- susijęs iš Lietuva: Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.
-- susijęs iš Nemėžis: Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.
-- susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos.
-- susijęs iš Polockas: 1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.
-- susijęs iš Polockas: 1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.
-- susijęs iš Polockas: Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.
-- susijęs iš Rūdninkų giria: Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.
-- susijęs iš Trakai: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Trakai: 1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.
-- susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
-- susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
-- susijęs iš Vilnius: 1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Vokė: Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
-- susijęs iš Vokė: Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
-- susijęs iš Voluinė: Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.
-- susijęs iš Voluinė: Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.
-- susijęs iš Voluinė: Jogaila išlaisvino paskutiniame kare Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113654|Magdeburgo teisės]]: Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.
-- susijęs iš [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai.md#claim-t-86480|lietuviški grašiai, pusgrašiai ir rubliai]]: Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200520|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: 1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200517|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: 1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
-- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
-- susijęs iš Rodūnė: 1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
-- susijęs iš Kaunas: Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.
-- susijęs iš [[objektai/asmenys/Mangaila iš Ašmenos.md#claim-t-87770|Mangaila iš Ašmenos]]: Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.
+
 ## Citatos
 
 - id: c-12704
@@ -494,7 +389,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-31954
   autorius: "Zenonas Ivinskis"
@@ -514,8 +409,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-027
+    - t-003
+    - t-010
 
 - id: c-160874
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -537,7 +432,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-007
 
 - id: c-160875
   autorius: "Michał Baliński"
@@ -561,7 +456,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-004
 
 - id: c-160876
   autorius: "Michał Baliński"
@@ -591,8 +486,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-023
+    - t-014
+    - t-017
 
 - id: c-160877
   autorius: "Michał Baliński"
@@ -610,7 +505,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009
 
 - id: c-160880
   autorius: "Michał Baliński"
@@ -632,7 +527,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-012
 
 - id: c-160881
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -655,7 +550,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-016
 
 - id: c-160882
   autorius: "Michał Baliński"
@@ -682,8 +577,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-022
+    - t-001
+    - t-011
 
 - id: c-160883
   autorius: "Michał Baliński"
@@ -714,8 +609,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-021
+    - t-006
+    - t-008
 
 - id: c-160888
   autorius: "Michał Baliński"
@@ -765,7 +660,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-160891
   autorius: "Michał Baliński"
@@ -787,7 +682,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-005
 
 - id: c-160892
   autorius: "Zenonas Ivinskis"
@@ -806,7 +701,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-013
 
 - id: c-168286
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -830,7 +725,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-018
 
 - id: c-175917
   redaktorius: "A. Šapoka"
@@ -853,7 +748,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-019
 
 ## Ryšiai
 - Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]

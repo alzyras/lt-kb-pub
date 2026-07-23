@@ -47,7 +47,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
 ## Teiginiai
 
 <a id="claim-t-64500"></a>
-- t-010
+- t-001
   teiginys: "Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13902
 
 <a id="claim-t-64501"></a>
-- t-014
+- t-002
   teiginys: "Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64502"></a>
-- t-015
+- t-003
   teiginys: "A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64503"></a>
-- t-009
+- t-004
   teiginys: "A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13903
 
 <a id="claim-t-64504"></a>
-- t-013
+- t-005
   teiginys: "Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64505"></a>
-- t-011
+- t-006
   teiginys: "Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13904
 
 <a id="claim-t-64506"></a>
-- t-012
+- t-007
   teiginys: "A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,21 +164,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių."
   pagrindžia:
     - c-03954
-- susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
-- susijęs iš [[objektai/grupes/Sakalo bendrovė.md#claim-t-35760|Sakalo bendrovė]]: Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį.
-- susijęs iš Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: „Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.
-- susijęs iš Lietuvos prekyba su Prūsais: „Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.
-- susijęs iš Vytautas Didysis 1350-1430 (1930 m.): Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.
-- susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
-- susijęs iš Žemaičiu vysk. M. Valančius: „Žemaičiu vysk. M. Valančius“ išleistas 1923 m., plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
-- susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
-- susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
-- susijęs iš Kauno vyskupija: Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
-- susijęs iš Katalikų Bažnyčia Lietuvoje: A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.
-- susijęs iš Lietuvos istorija (A. Alekna): Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.
-- susijęs iš Lietuvos istorija (A. Alekna): Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.
-- susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
-- susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
+
 ## Citatos
 
 - id: c-03954
@@ -197,7 +183,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-007
 
 - id: c-13902
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -220,7 +206,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 - id: c-13903
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -235,7 +221,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-13904
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -253,7 +239,7 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-30385
   autorius: "Zenonas Ivinskis"
@@ -276,6 +262,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-015
-    - t-013
+    - t-002
+    - t-003
+    - t-005

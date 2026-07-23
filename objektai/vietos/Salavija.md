@@ -81,22 +81,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179398
-- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192221|Szalin]]: Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme.
-- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192578|Szalin]]: Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme.
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190892|Johanas Foigtas]]: Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.
-- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191972|Ptolemėjas]]: Teodoro Narbuto aiškinimu, Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o kraštą svetimšaliai vadino Skalva arba Rusia.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191523|Ptolemėjas]]: Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia.
-- susijęs iš Ptolemėjaus Geographia: Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia.
-- susijęs iš Sasava (Salavijos tvirtovė): Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės.
-- susijęs iš Sūduva: Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.
-- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192221|Szalin]]: Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-192416|Kryžiuočių ordinas]]: Teodoro Narbuto teigimu, prieš prūsų tautos žlugimą Salavijoje apsigyveno daugiausia iš Lietuvos atsikėlę kryžiuočių žmonės.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192448|Prūsai]]: Teodoras Narbutas tikrąja Prūsija iki XIII a. vadina dvylikos provincijų ir dvylikos genčių savarankišką kraštą.
-- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
-- susijęs iš [[objektai/zodynas/Szalin.md#claim-t-192578|Szalin]]: Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192273|vitingas]]: Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192274|vitingas]]: Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192275|vitingas]]: Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.'
@@ -109,11 +94,10 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
     bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
     tas, t. y. Pusnė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175571

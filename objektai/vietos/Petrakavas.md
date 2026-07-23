@@ -46,10 +46,7 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170331
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186792|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186770|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.
-- susijęs iš Lvovas: Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu.'
@@ -72,7 +69,6 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170331

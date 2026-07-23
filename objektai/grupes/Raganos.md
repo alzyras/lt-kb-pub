@@ -47,9 +47,7 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172387
-- susijęs iš [[objektai/grupes/Burtininkės ir raganos.md#claim-t-189470|Burtininkės ir raganos]]: Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdavo randama Lietuvoje.
-- susijęs iš [[objektai/grupes/Upinės moterų brolija.md#claim-t-189506|Upinės moterų brolija]]: Narbutas pasakojo, kad iki uždraudimo Upinės moterų brolija per Rasas rinkdavosi prie upelio vadovaujama nepažįstamos senės.
-- susijęs iš [[objektai/paprociai/Raganų javų pjovėjoms statomos „lėlės“.md#claim-t-189937|Raganų javų pjovėjoms statomos „lėlės“]]: Narbutas rašė, kad raganos javų pjovėjoms rengdavusios pasalas, prie šaknų surišdamos rugių ar kviečių saują, vadinamą lėle.
+
 ## Citatos
 
 - id: c-172387

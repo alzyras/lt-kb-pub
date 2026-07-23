@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-176405
-- susijęs iš [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.).md#claim-t-09821|Bezdežo (Antopolio) mūšis (1771 m.)]]: Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.
+
 ## Citatos
 
 - id: c-40930

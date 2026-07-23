@@ -38,7 +38,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 ## Teiginiai
 
 <a id="claim-t-22156"></a>
-- t-002
+- t-001
   teiginys: "Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     - c-24843
 
 <a id="claim-t-193143"></a>
-- t-003
+- t-002
   teiginys: "Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos valdybos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175897
   redaktorius: "A. Šapoka"
@@ -131,4 +131,4 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 ## Teiginiai
 
 <a id="claim-t-58818"></a>
-- t-002
+- t-001
   teiginys: "246 D.— cum omni domo et familia sua."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - c-59453
 
 <a id="claim-t-58819"></a>
-- t-004
+- t-002
   teiginys: "Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - c-59452
 
 <a id="claim-t-58821"></a>
-- t-001
+- t-004
   teiginys: "Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-59451
   autorius: "Petras Dusburgietis"
@@ -143,7 +143,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-59452
   autorius: "Petras Dusburgietis"
@@ -181,4 +181,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

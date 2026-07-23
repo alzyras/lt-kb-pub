@@ -36,7 +36,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ## Teiginiai
 
 <a id="claim-t-22100"></a>
-- t-002
+- t-001
   teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,14 +50,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24786
-- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54262|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
-- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54263|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
-- susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22099|daugiakonfesiškumas daugiakultūriškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
-- susijęs iš [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas.md#claim-t-77947|LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]: Apie 1500 m. katalikiškoje LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
-- susijęs iš [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“.md#claim-t-26347|„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.
-- susijęs iš Varšuvos konfederacija (1573 m.): Lenkijoje daugiakonfesiškumas juridiškai įformintas 1573 m. Varšuvos konfederacijoje po Liublino unijos.
-- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
-- susijęs iš Vakarų Europa: Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.
+
 ## Citatos
 
 - id: c-24785
@@ -98,4 +91,4 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45782"></a>
-- t-002
+- t-001
   teiginys: "Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-24748
 
 <a id="claim-t-45784"></a>
-- t-001
+- t-002
   teiginys: "1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-24747
 
 <a id="claim-t-45785"></a>
-- t-004
+- t-003
   teiginys: "LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24748
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,7 +153,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-48466
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -176,4 +176,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

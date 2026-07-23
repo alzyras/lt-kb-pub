@@ -74,15 +74,7 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
   temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia apie Gediminą, todėl perrašyta į faktą apie Teofilį."
   pagrindžia:
     - c-91985
-- susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192019|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: 1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-- susijęs iš Naugardukas: Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-- susijęs iš Naugardukas: Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-- susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05446|metropolija]]: Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.
-- susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05450|metropolija]]: 1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.
-- susijęs iš [[objektai/zodynas/metropolija.md#claim-t-97283|metropolija]]: Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.
-- susijęs iš [[objektai/ivykiai/T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas.md#claim-t-192018|T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas]]: Šeštojo dešimtmečio viduryje T. Narbutui kilo mintis dalį per penkiolika metų sukauptos medžiagos išleisti atskira knygele.
+
 ## Citatos
 
 - id: c-91984

@@ -37,7 +37,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 ## Teiginiai
 
 <a id="claim-t-58448"></a>
-- t-002
+- t-001
   teiginys: "Albertas Didysis mirė Kelne."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     - c-59080
 
 <a id="claim-t-58449"></a>
-- t-003
+- t-002
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     - c-167547
 
 <a id="claim-t-58450"></a>
-- t-001
+- t-003
   teiginys: "Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     - c-59080
 
 <a id="claim-t-194532"></a>
-- t-006
+- t-004
   teiginys: "Apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -93,22 +93,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59080
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Vurungeno kaimo.md#claim-t-62407|Mūšis prie Vurungeno kaimo (mūšis, XIII a.)]]: Mūšyje prie Vurungeno kaimo Jonas, Brabanto kunigaikštis, nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56968|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56969|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
-- susijęs iš [[objektai/asmenys/Jonas (Brabanto kunigaikštis).md#claim-t-60340|Jonas (Brabanto kunigaikštis)]]: Netoli Kelno, prie Vurungeno kaimo, Jonas, Brabanto kunigaikštis, mūšyje nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
-- susijęs iš [[objektai/asmenys/Tomas Akvinietis.md#claim-t-184134|Tomas Akvinietis]]: Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.
-- susijęs iš [[objektai/asmenys/Zigfridas iš Runkelės.md#claim-t-60474|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]: Mūšyje netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
-- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62692|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.
-- susijęs iš [[objektai/posakiai/kiekvienam geros valios žmogui.md#claim-t-59115|kiekvienam geros valios žmogui]]: Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.
-- susijęs iš Livonija: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.
-- susijęs iš Ryga: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
-- susijęs iš Ryga: Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.
-- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
+
 ## Citatos
 
 - id: c-59080
@@ -129,9 +114,9 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-006
+    - t-003
+    - t-004
 
 - id: c-59081
   autorius: "Petras Dusburgietis"
@@ -153,7 +138,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-59082
   autorius: "Petras Dusburgietis"
@@ -197,7 +182,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]

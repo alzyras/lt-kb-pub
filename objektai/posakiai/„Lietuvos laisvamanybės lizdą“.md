@@ -90,7 +90,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-26741
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113363|Vilniaus universitetas]]: 1832 m. buvo nutarta uždaryti Vilniaus universitetą.
+
 ## Citatos
 
 - id: c-26741

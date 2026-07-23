@@ -55,6 +55,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   citata_rodoma: "cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

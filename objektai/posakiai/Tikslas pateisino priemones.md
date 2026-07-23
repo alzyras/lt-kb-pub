@@ -65,7 +65,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - c-177412
 
 <a id="claim-t-195051"></a>
-- t-003
+- t-002
   teiginys: "Tikslas pateisino prie mones."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - c-177412
 
 <a id="claim-t-195052"></a>
-- t-002
+- t-003
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +106,8 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-002
+    - t-003
 
 - id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -121,6 +121,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   citata_rodoma: "Tikslas pateisino prie­\nmones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame\nlauke, bet dažnai ir aplinkiniais keliais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

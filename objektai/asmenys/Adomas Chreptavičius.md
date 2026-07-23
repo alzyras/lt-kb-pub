@@ -44,7 +44,7 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83585
-- susijęs iš Ščorsai: Grafas Adomas Chreptavičius tyrinėtojui atvėrė Ščorsų bibliotekos turtus.
+
 ## Citatos
 
 - id: c-83585

@@ -8,15 +8,15 @@ datos:
   - '1341 m.'
 date_start: '1331'
 date_end: '1341'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigūnas
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,11 +67,10 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
     (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė
     jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61012

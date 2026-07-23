@@ -46,7 +46,7 @@ media_all_json: |-
   semantiniai_rysiai: "Podolės bajorai užėmė Podolė (0.82); Podolė priklausė Lenkija (0.78); Podolė priklausė Lietuva (0.74)"
   pagrindžia:
     - c-82796
-- susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
+
 ## Citatos
 
 - id: c-82796

@@ -30,7 +30,7 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 ## Teiginiai
 
 <a id="claim-t-46992"></a>
-- t-002
+- t-001
   teiginys: "Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -44,11 +44,7 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-49533
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191119|Augustas Liudvikas fon Slėceris]]: Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.
-- susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191180|Slėceris]]: Slėceris kėlė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų išsivystymą galėjo riboti raitos medžioklės nežinojimas.
-- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
-- susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190692|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.
+
 ## Citatos
 
 - id: c-49533
@@ -69,4 +65,4 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

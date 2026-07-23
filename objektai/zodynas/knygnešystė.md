@@ -44,7 +44,7 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24878
-- susijęs iš [[objektai/zodynas/knygnešystė knygnešiai.md#claim-t-22189|knygnešystė knygnešiai]]: Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.
+
 ## Citatos
 
 - id: c-24878

@@ -9,20 +9,17 @@ saltiniai:
 datos:
   - '1377 m.'
   - '1458 m.'
-  - '1387 m.'
-  - '1411 m.'
-  - '1413 m.'
 date_start: '1377'
 date_end: '1458'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - pilis
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +53,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-14711
 
 <a id="claim-t-12582"></a>
-- t-003
+- t-002
   teiginys: "Seniūnas turėjo teismo valdžią ir vietininko teises."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -68,7 +65,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-14712
 
 <a id="claim-t-187529"></a>
-- t-008
+- t-003
   teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
   atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-183732
 
 <a id="claim-t-193157"></a>
-- t-009
+- t-004
   teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-183731
 
 <a id="claim-t-200400"></a>
-- t-002
+- t-005
   teiginys: "1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai."
   atnaujinta: "2026-07-12 23:05"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - c-14712
 
 <a id="claim-t-201507"></a>
-- t-010
+- t-006
   teiginys: "Jį administravo įvairiai vadinami valdovo skirti pareigūnai - vietininkai, seniūnai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -128,107 +125,25 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184854
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
-- susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
-- susijęs iš [[objektai/asmenys/Kęsgaila.md#claim-t-35195|Kęsgaila]]: Kęsgaila buvo Žemaičių seniūnas.
-- susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
-- susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
-- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
-- susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
-- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
-- susijęs iš Vilkija: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas, ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86567|Pilininkas capitaneus seniūnas]]: 1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.
-- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58817|krivis krivė krivaitis]]: Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.
-- susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
-- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200515|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
-- susijęs iš Rodūnė: 1755 m. Jonas Tadas Božimovskis, minimas kaip Rodūnės seniūnas, vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš [[objektai/asmenys/Jonas Švitrigaila.md#claim-t-87734|Jonas Švitrigaila]]: Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.
-- susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/asmenys/Kristupas Pacas.md#claim-t-79092|Kristupas Pacas]]: Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
-- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
-- susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
-- susijęs iš [[objektai/asmenys/Mykolas Pacas.md#claim-t-79142|Mykolas Pacas]]: Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/N. Küchmeisteris.md#claim-t-30366|N. Küchmeisteris]]: Žemaičių seniūnas N. Küchmeisteris buvo tarp žymiųjų belaisvių.
-- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-183761|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82663|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna.
-- susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
-- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
-- susijęs iš [[objektai/asmenys/Zabiela.md#claim-t-190221|Zabiela]]: Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66538|Gedimino sąjunga su Lenkija]]: 1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.
-- susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100025|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.
-- susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185723|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
-- susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185752|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186742|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/paprociai/Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų.md#claim-t-02042|Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų]]: Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.
-- susijęs iš [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka.md#claim-t-87173|Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]: Jei žydas per gaisrą, vagystę ar prievartą prarasdavo užstatus, krikščioniui jį pašaukus į teismą jis turėjo išsiteisinti asmenine priesaika.
-- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
-- susijęs iš [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“.md#claim-t-77846|„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]: 1569 m. Liublino seime J. J. Chodkevičius Žygimantui Augustui sakė, kad lietuviai buvo priversti nusileisti su skausmu.
-- susijęs iš Biržai: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose.
-- susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
-- susijęs iš Paplauja: 1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas.
-- susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
-- susijęs iš Upinės kaupas: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš Upinės upelis Išganytojo upelis: Narbutas pasakojo, kad senė, vadinama Upine, apeigomis pašventindavo Upinės upelį ir suteikdavo jam metų gydomąją galią.
-- susijęs iš Upinės upelis Išganytojo upelis: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.
-- susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
-- susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
-- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189186|Upinė]]: Narbutas pasakojo, kad Upine vadinama senė apeigomis pašventindavo upelį, kuris esą visiems metams įgydavo gydomosios galios.
-- susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
-- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
-- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200494|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: Aleksandras Pšezdieckis buvo Livonijos kaštelionas.
-- susijęs iš [[objektai/asmenys/Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.).md#claim-t-200495|Aleksandras Pšezdieckis (Livonijos kaštelionas, XVIII a.)]]: 1730 m. kanauninkas derėjosi su Livonijos kaštelionu Aleksandru Pšezdieckiu dėl Dombrovnos prie Oršos ir Skuodo valdų.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200472|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
-- susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200474|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą.
-- susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200521|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.
-- susijęs iš [[objektai/asmenys/Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.).md#claim-t-200522|Brigita Petronėlė (Antano Davainio Solohubo sutuoktinė, XVIII a.)]]: Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.
-- susijęs iš [[objektai/asmenys/Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.).md#claim-t-200516|Jonas Pliateris (Gegabrastos seniūnas ir tijūnas, XVIII a.)]]: Jonas Pliateris tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jurgiu Abramovičiumi.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200520|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: 1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200513|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, Brigita Petronėle ir Jonu Pliateriu.
-- susijęs iš [[objektai/asmenys/Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.).md#claim-t-200514|Jurgis Abramovičius (Vilniaus pavaivadis, XVIII a.)]]: Jurgis Abramovičius buvo Vilniaus pavaivadis.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200517|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: 1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200518|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200502|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas.
-- susijęs iš [[objektai/asmenys/Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.).md#claim-t-200503|Tomas Ignacy Zienkowicz (Baltarusijos sufraganas, XVIII a.)]]: 1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius.
-- susijęs iš [[objektai/daiktai/Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių.md#claim-t-200673|Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių]]: 1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.
-- susijęs iš [[objektai/ivykiai/Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.).md#claim-t-200602|Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)]]: 1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200607|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais.
-- susijęs iš [[objektai/ivykiai/Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.).md#claim-t-200608|Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)]]: 1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus.
-- susijęs iš [[objektai/paprociai/Naktinis faraono lošimas per vizitus.md#claim-t-200562|Naktinis faraono lošimas per vizitus]]: 1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
-- susijęs iš [[objektai/posakiai/Greitai mūsų publika visai užges.md#claim-t-200627|Greitai mūsų publika visai užges]]: 1760 m. pasibaigus tribunolui Jonas Dominykas Lopacinskis formule „Greitai mūsų publika visai užges“ nusakė Vilniaus bajoriškos publikos išsiskirstymą.
-- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-199232|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
-- susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
-- susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
+
+## Reikšmingi paminėjimai
+- c-005
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
+    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-14711
@@ -266,8 +181,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-005
 
 - id: c-175909
   redaktorius: "A. Šapoka"
@@ -289,7 +204,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-183731
   redaktorius: "A. Šapoka"
@@ -311,7 +226,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-183732
   autorius: "Anoniminis metraštininkas"
@@ -332,7 +247,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-184854
   autorius: "Zigmantas Kiaupa"
@@ -349,4 +264,4 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006

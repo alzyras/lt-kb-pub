@@ -38,7 +38,7 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 ## Teiginiai
 
 <a id="claim-t-13508"></a>
-- t-002
+- t-001
   teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -76,4 +76,4 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

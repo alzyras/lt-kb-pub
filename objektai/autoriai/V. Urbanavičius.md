@@ -55,7 +55,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     - c-33184
 
 <a id="claim-t-31051"></a>
-- t-003
+- t-002
   teiginys: "V. Urbanavičius parašė darbą „Rumšiškėnai XIV-XVI amžiais“, išleistą Vilniuje 1970 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     - c-33185
 
 <a id="claim-t-31052"></a>
-- t-002
+- t-003
   teiginys: "V. Urbanavičius tyrė XIV a. degintinius kapus Lietuvoje, senųjų tikėjimų reliktus ir XIV-XVII a. laidoseną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,8 +87,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33186
-- susijęs iš [[objektai/autoriai/R. Jablonskytė-Rimantienė.md#claim-t-30938|R. Jablonskytė-Rimantienė]]: R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.
-- susijęs iš Kairėnai: Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
+
 ## Citatos
 
 - id: c-33184
@@ -133,7 +132,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-33186
   autorius: "Zenonas Ivinskis"
@@ -155,4 +154,4 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

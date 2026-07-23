@@ -63,18 +63,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167632
-- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54216|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.
-- susijęs iš [[objektai/zodynas/pradai.md#claim-t-183454|pradai]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu.
-- susijęs iš [[objektai/zodynas/pradai.md#claim-t-70287|pradai]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu.
-- susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-183488|„lenkų pradai“ „rusų pradai“]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.
-- susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78025|M. Muravjovas]]: Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.
-- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
-- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54218|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“.md#claim-t-169941|„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]: Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.
-- susijęs iš [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“.md#claim-t-169945|„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]: Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.
-- susijęs iš [[objektai/zodynas/rusinimas rusinimo politika.md#claim-t-22286|rusinimas rusinimo politika]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
-- susijęs iš [[objektai/zodynas/rusinimas.md#claim-t-22289|rusinimas]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
-- susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22360|„lenkų pradai“ „rusų pradai“]]: Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.
+
 ## Citatos
 
 - id: c-35536

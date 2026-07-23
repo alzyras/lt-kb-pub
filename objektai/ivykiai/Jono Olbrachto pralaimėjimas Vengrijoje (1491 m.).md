@@ -68,7 +68,7 @@ Nenurodyta
     - c-168938
 
 <a id="claim-t-196169"></a>
-- t-005
+- t-002
   teiginys: "Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas leidosi į Vengriją, tačiau vengrams nuo jo nusigręžus grįžo į Lenkiją nieko nelaimėjęs."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-178566
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -156,6 +156,7 @@ Nenurodyta
     grįstas.
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,7 +46,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 ## Teiginiai
 
 <a id="claim-t-169877"></a>
-- t-015
+- t-001
   teiginys: "Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26847
 
 <a id="claim-t-169878"></a>
-- t-011
+- t-002
   teiginys: "Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26846
 
 <a id="claim-t-169879"></a>
-- t-013
+- t-003
   teiginys: "Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-154566
 
 <a id="claim-t-169880"></a>
-- t-012
+- t-004
   teiginys: "Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26847
 
 <a id="claim-t-169881"></a>
-- t-014
+- t-005
   teiginys: "Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,10 +137,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   temporalinis_llm_pakomentavimas: "Pradinis tekstas yra OCR ir metaduomenų nuotrupa; citata pagrindžia autorystę."
   pagrindžia:
     - c-26846
-- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
-- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
-- susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m.
-- susijęs iš Antanas Smetona ir jo aplinka: A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais.
+
 ## Citatos
 
 - id: c-26846
@@ -184,8 +181,8 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-014
+    - t-002
+    - t-005
 
 - id: c-26847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -221,8 +218,8 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-012
+    - t-001
+    - t-004
 
 - id: c-154566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -241,4 +238,4 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-003

@@ -68,9 +68,7 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83547
-- susijęs iš [[objektai/asmenys/Necelas.md#claim-t-87805|Necelas]]: Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.
-- susijęs iš [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu.md#claim-t-87286|Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]: Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.
-- susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
+
 ## Citatos
 
 - id: c-83547

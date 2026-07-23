@@ -72,7 +72,6 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169510

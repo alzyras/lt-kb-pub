@@ -54,16 +54,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171919
-- susijęs iš Ragutėniškiai: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu.
-- susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
-- susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
-- susijęs iš Ragutėniškiai: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu.
-- susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191217|Motiejus Pretorijus]]: Pretorijus Sasavos tvirtovę siejo su Šyšos upe, kuri, Narbuto perteikimu, kadaise turėjo būti vadinama Cyse arba Sussa.
-- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190964|Pretorijus]]: Teodoro Narbuto perteikimu, Pretorijus Sasavos tvirtovę lokalizavo prie Šyšos upės, kuri kitados turėjusi vadintis Cyse arba Sussa.
-- susijęs iš [[objektai/asmenys/Šarkis.md#claim-t-191493|Šarkis]]: Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais vadintoje šalaviečių pilyje Lietuvos pasienyje.
-- susijęs iš Pilies kalnas Vilniuje (pilis): Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės.
-- susijęs iš Sasava (Salavijos tvirtovė): Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės.
-- susijęs iš [[objektai/asmenys/Vincentas Janovskis.md#claim-t-198240|Vincentas Janovskis (teisėjas, XIX a.)]]: Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus.
+
 ## Citatos
 
 - id: c-171919

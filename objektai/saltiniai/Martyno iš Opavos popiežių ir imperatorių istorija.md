@@ -12,13 +12,13 @@ datos:
   - '1317 m.'
 date_start: '1216'
 date_end: '1317'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61514
 
 <a id="claim-t-60880"></a>
-- t-009
+- t-002
   teiginys: "1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61518
 
 <a id="claim-t-60881"></a>
-- t-006
+- t-003
   teiginys: "1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61513
 
 <a id="claim-t-60882"></a>
-- t-003
+- t-004
   teiginys: "Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61511
 
 <a id="claim-t-60884"></a>
-- t-004
+- t-006
   teiginys: "Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61517
 
 <a id="claim-t-60885"></a>
-- t-002
+- t-007
   teiginys: "Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61519
 
 <a id="claim-t-60887"></a>
-- t-007
+- t-009
   teiginys: "Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -210,10 +210,10 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
       Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
     prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-007
   santrauka: 'Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -222,11 +222,10 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
       Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61511
@@ -264,7 +263,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-61513
   autorius: "Petras Dusburgietis"
@@ -287,7 +286,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-61514
   autorius: "Petras Dusburgietis"
@@ -328,7 +327,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-009
 
 - id: c-61516
   autorius: "Petras Dusburgietis"
@@ -346,7 +345,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
 
 - id: c-61517
   autorius: "Petras Dusburgietis"
@@ -362,7 +361,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-61518
   autorius: "Petras Dusburgietis"
@@ -381,7 +380,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-61519
   autorius: "Petras Dusburgietis"

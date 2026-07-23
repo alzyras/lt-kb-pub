@@ -30,7 +30,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 ## Teiginiai
 
 <a id="claim-t-54637"></a>
-- t-002
+- t-001
   teiginys: "Hermanas Corneris savo kronikoje Gedimino laiškų neminėjo ir viską priskyrė Rygos arkivyskupui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::authors"
@@ -46,7 +46,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
     - c-55544
 
 <a id="claim-t-54638"></a>
-- t-001
+- t-002
   teiginys: "Hermano Cornerio kronika cituojama pasakojant apie Vilniaus miestiečius ir Jogailą."
   atnaujinta: "2026-05-27 05:25"
   sprendimo_priezastis: "gap::authors"
@@ -60,16 +60,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55545
-- susijęs iš [[objektai/autoriai/Hermanas Corneris Komeris.md#claim-t-88061|Hermanas Corneris Komeris]]: Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai.
-- susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88026|Hermanas Corneris Korneris]]: Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.
-- susijęs iš [[objektai/autoriai/Hermanas Korneris.md#claim-t-88062|Hermanas Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš Hermano Cornerio kronika: Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.
-- susijęs iš Hermano Cornerio kronika: Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.
-- susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54997|Albertas Krantzas]]: Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.
-- susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-81884|Albertas Krantzas]]: Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti.md#claim-t-86850|Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]: Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.
-- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas.md#claim-t-86856|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]: Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.
+
 ## Citatos
 
 - id: c-55544
@@ -88,7 +79,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-55545
   autorius: "Michał Baliński"
@@ -114,4 +105,4 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

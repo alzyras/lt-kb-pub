@@ -39,7 +39,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 ## Teiginiai
 
 <a id="claim-t-101592"></a>
-- t-008
+- t-001
   teiginys: "Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
     - c-26782
 
 <a id="claim-t-101593"></a>
-- t-010
+- t-002
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
     - c-26890
 
 <a id="claim-t-101594"></a>
-- t-011
+- t-003
   teiginys: "Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,22 +85,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26890
-- susijęs iš [[objektai/paprociai/Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi.md#claim-t-185914|Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi]]: Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54335|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54336|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169881|Alfonsas Eidintas]]: Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169883|Alfredas Bumblauskas]]: 2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169884|Alfredas Bumblauskas]]: Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
-- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-169887|Antanas Kulakauskas]]: Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Inga Vinogradnaitė.md#claim-t-26473|Inga Vinogradnaitė]]: Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.
-- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
-- susijęs iš [[objektai/daiktai/Paženklinta plyta.md#claim-t-08312|Paženklinta plyta]]: Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65773|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.
-- susijęs iš Romuva: Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.
-- susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-183487|žyniai vaidilos raganos]]: „Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.
+
 ## Citatos
 
 - id: c-26782
@@ -119,7 +104,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-26890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -144,5 +129,5 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-011
+    - t-002
+    - t-003

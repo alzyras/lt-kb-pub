@@ -9,16 +9,16 @@ datos:
   - '1499 m.'
 date_start: '1499'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,9 +103,7 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176538
-- susijęs iš Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
-- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
-- susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
@@ -133,7 +131,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-83499
@@ -274,6 +271,3 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-
-## Ryšiai
-- Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]

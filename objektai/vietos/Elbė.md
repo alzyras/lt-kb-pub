@@ -44,7 +44,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-171884
 
 <a id="claim-t-192658"></a>
-- t-004
+- t-002
   teiginys: "Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-175428
 
 <a id="claim-t-194931"></a>
-- t-005
+- t-003
   teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-177327
 
 <a id="claim-t-197872"></a>
-- t-006
+- t-004
   teiginys: "Kai kurie vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin go, be to, pasitaiko klampaus skysčio užkluptų poravimosi momentu vabzdžių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-175426
 
 <a id="claim-t-197873"></a>
-- t-007
+- t-005
   teiginys: "Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,10 +110,10 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -129,11 +129,10 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-171884
@@ -179,7 +178,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-175428
   autorius: "Teodoras Narbutas"
@@ -202,7 +201,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-177327
   autorius: "Teodoras Narbutas"
@@ -228,7 +227,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-179375
   autorius: "Teodoras Narbutas"
@@ -248,4 +247,4 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

@@ -31,7 +31,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
 ## Teiginiai
 
 <a id="claim-t-190966"></a>
-- t-002
+- t-001
   teiginys: "Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
     - c-173848
 
 <a id="claim-t-196588"></a>
-- t-003
+- t-002
   teiginys: "Romuntui dar esant gyvam, jauniausias iš jo sūnumis vadintų asmenų Traidenis vadovavo kariuomenei kaip vyriausiasis vadas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -62,8 +62,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169521
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
@@ -117,7 +116,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173848
   autorius: "Teodoras Narbutas"
@@ -140,7 +139,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Giliginas]]

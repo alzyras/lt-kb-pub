@@ -30,7 +30,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 ## Teiginiai
 
 <a id="claim-t-49483"></a>
-- t-003
+- t-001
   teiginys: "Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
     - c-51455
 
 <a id="claim-t-49485"></a>
-- t-001
+- t-003
   teiginys: "Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.86)"
   pagrindžia:
     - c-42192
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
+
 ## Citatos
 
 - id: c-42192
@@ -125,7 +125,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
     - t-004
 
 - id: c-42194
@@ -144,7 +144,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-51455
   sudarytojas: "Karolis Zikaras"

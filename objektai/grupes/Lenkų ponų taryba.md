@@ -36,7 +36,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 ## Teiginiai
 
 <a id="claim-t-01377"></a>
-- t-002
+- t-001
   teiginys: "1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
     - c-01616
 
 <a id="claim-t-01378"></a>
-- t-001
+- t-002
   teiginys: "Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +69,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01615
-- susijęs iš [[objektai/grupes/Lenkų bajorija.md#claim-t-92501|Lenkų bajorija]]: Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179328|Lietuviai]]: Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50694|Lietuvių bajorija]]: Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
-- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
-- susijęs iš [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas.md#claim-t-93025|Bendras Lietuvos ir Lenkijos valdovo rinkimas]]: Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas.md#claim-t-93026|Bendras Lietuvos ir Lenkijos valdovo rinkimas]]: Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
+
 ## Citatos
 
 - id: c-01615
@@ -97,7 +90,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-01616
   redaktorius: "A. Šapoka"
@@ -116,4 +109,4 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

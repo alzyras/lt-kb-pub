@@ -77,11 +77,10 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
     tuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
     taip pat ir latvių kalba3.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175074

@@ -51,7 +51,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173083
 
 <a id="claim-t-190951"></a>
-- t-003
+- t-002
   teiginys: "Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173833
 
 <a id="claim-t-190952"></a>
-- t-004
+- t-003
   teiginys: "Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173834
 
 <a id="claim-t-190953"></a>
-- t-005
+- t-004
   teiginys: "Plinijus rašė, kad sarmatai, venedai, skirtai ir tūriai gyvena iki Vyslos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173835
 
 <a id="claim-t-190954"></a>
-- t-006
+- t-005
   teiginys: "Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173836
 
 <a id="claim-t-190955"></a>
-- t-007
+- t-006
   teiginys: "Narbutas aiškino, kad Plinijaus Germanijos aprašyme Guitalus pavadinimas tenka Oderiui, nes ši upė nebūtų buvusi praleista."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173837
 
 <a id="claim-t-190957"></a>
-- t-009
+- t-007
   teiginys: "Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173839
 
 <a id="claim-t-190958"></a>
-- t-010
+- t-008
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -191,7 +191,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173840
 
 <a id="claim-t-190959"></a>
-- t-011
+- t-009
   teiginys: "Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173841
 
 <a id="claim-t-191968"></a>
-- t-012
+- t-010
   teiginys: "Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-174850
 
 <a id="claim-t-197799"></a>
-- t-013
+- t-011
   teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -243,7 +243,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-174850
 
 <a id="claim-t-197800"></a>
-- t-014
+- t-012
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -255,6 +255,49 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-179345
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų palikuonis prie Dono žemupio ir Juodosios jūros.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    63
+
+    ## Puslapis 61
+
+    tam, kad būtų apgyvendintos Europos dykros. Tik iš
+    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
+    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo­
+    dosios jūros; pirmiausia buvo sarmatai, amazonių kara­
+    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
+    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
+    tisagetai, turkai1. Turbūt tos tautos tuomet sudarė sar-
+    matų lygą, nors jos skyrėsi gimine ir kilme tiek, kad,
+    įsigilinus į dabar esančias žinias apie tautų pradžią, prie
+    sarmatų lieka vien ginekokratuinenai, kažin kokia me-
+    dų-skitų gentis, turėjusi santykių su amazonėmis, kurių,
+    kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
+    laikyti panašia j skitų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -267,10 +310,10 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -292,10 +335,10 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -313,10 +356,10 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-011
   santrauka: 'Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -333,11 +376,11 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-012
 
 ## Citatos
 
@@ -385,7 +428,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173834
   autorius: "Teodoras Narbutas"
@@ -406,7 +449,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173835
   autorius: "Teodoras Narbutas"
@@ -426,7 +469,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173836
   autorius: "Teodoras Narbutas"
@@ -450,7 +493,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173837
   autorius: "Teodoras Narbutas"
@@ -475,7 +518,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-173839
   autorius: "Teodoras Narbutas"
@@ -498,7 +541,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-173840
   autorius: "Teodoras Narbutas"
@@ -531,7 +574,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-173841
   autorius: "Teodoras Narbutas"
@@ -563,7 +606,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-174850
   autorius: "Teodoras Narbutas"
@@ -590,8 +633,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-013
+    - t-010
+    - t-011
 
 - id: c-179345
   autorius: "Teodoras Narbutas"
@@ -621,4 +664,4 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012

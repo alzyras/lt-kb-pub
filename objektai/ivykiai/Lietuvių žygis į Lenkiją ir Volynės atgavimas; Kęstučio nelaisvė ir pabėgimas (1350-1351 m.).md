@@ -8,13 +8,13 @@ datos:
   - '1351 m.'
 date_start: '1350'
 date_end: '1351'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -109,11 +109,10 @@ Nenurodyta
     įmanoma būtų užimti, užtat visas Lvovo apylinkes nu­
     niokojo kalaviju bei ugnimi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-168971

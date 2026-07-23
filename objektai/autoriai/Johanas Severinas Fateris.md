@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187948"></a>
-- t-002
+- t-001
   teiginys: "Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -80,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -15,13 +15,13 @@ datos:
   - '2026 m.'
 date_start: '1190'
 date_end: '2026'
-amziai:
-  - 'XII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XII'
+  - 'XXI'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg'
@@ -55,7 +55,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 ## Teiginiai
 
 <a id="claim-t-55220"></a>
-- t-007
+- t-001
   teiginys: "Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157337
 
 <a id="claim-t-55221"></a>
-- t-008
+- t-002
   teiginys: "Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55249
 
 <a id="claim-t-55222"></a>
-- t-009
+- t-003
   teiginys: "Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi."
   atnaujinta: "2026-06-13 17:45"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55250
 
 <a id="claim-t-55223"></a>
-- t-010
+- t-004
   teiginys: "Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55251
 
 <a id="claim-t-55224"></a>
-- t-011
+- t-005
   teiginys: "Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55252
 
 <a id="claim-t-55225"></a>
-- t-012
+- t-006
   teiginys: "Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55253
 
 <a id="claim-t-55226"></a>
-- t-013
+- t-007
   teiginys: "Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157339
 
 <a id="claim-t-172991"></a>
-- t-029
+- t-008
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157330
 
 <a id="claim-t-172992"></a>
-- t-017
+- t-009
   teiginys: "M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,7 +203,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157337
 
 <a id="claim-t-172993"></a>
-- t-018
+- t-010
   teiginys: "M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,7 +220,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55250
 
 <a id="claim-t-172995"></a>
-- t-022
+- t-011
   teiginys: "M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,7 +236,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157345
 
 <a id="claim-t-172997"></a>
-- t-021
+- t-012
   teiginys: "Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -252,7 +252,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157343
 
 <a id="claim-t-173001"></a>
-- t-014
+- t-013
   teiginys: "1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -272,7 +272,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157329
 
 <a id="claim-t-173003"></a>
-- t-023
+- t-014
   teiginys: "Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -321,7 +321,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157344
 
 <a id="claim-t-173006"></a>
-- t-019
+- t-017
   teiginys: "M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -338,7 +338,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-157335
 
 <a id="claim-t-188491"></a>
-- t-024
+- t-018
   teiginys: "Narbutas aiškina, kad Strijkovskio minima Pilwitos arba Pilwite reiškia turto deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -357,7 +357,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171381
 
 <a id="claim-t-188492"></a>
-- t-025
+- t-019
   teiginys: "Narbutas, remdamasis Strijkovskiu, vaizduoja, kad žmonės Birutę dar gyvą ėmė garbinti kaip deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -376,7 +376,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171382
 
 <a id="claim-t-188493"></a>
-- t-026
+- t-020
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -395,7 +395,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171383
 
 <a id="claim-t-188494"></a>
-- t-027
+- t-021
   teiginys: "Narbutas kritiškai perteikia Strijkovskio teiginį, kad Pušaitis ir barstukai pasirodydavę prieštaringiems žmonėms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -414,7 +414,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171384
 
 <a id="claim-t-188495"></a>
-- t-028
+- t-022
   teiginys: "Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -433,7 +433,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171385
 
 <a id="claim-t-188496"></a>
-- t-001
+- t-023
   teiginys: "Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -453,7 +453,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-179146
 
 <a id="claim-t-188497"></a>
-- t-030
+- t-024
   teiginys: "Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -472,7 +472,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-171387
 
 <a id="claim-t-190827"></a>
-- t-031
+- t-025
   teiginys: "Teodoro Narbuto vertinimu, iš spausdintų Lietuvos istorijos šaltinių vertingiausia buvo M. Strijkovskio kronika, nors jai stigo kritikos ir datų atsargumo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -492,7 +492,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173709
 
 <a id="claim-t-190828"></a>
-- t-032
+- t-026
   teiginys: "Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -512,7 +512,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173710
 
 <a id="claim-t-190829"></a>
-- t-033
+- t-027
   teiginys: "Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -525,7 +525,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173709
 
 <a id="claim-t-190830"></a>
-- t-034
+- t-028
   teiginys: "Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -545,7 +545,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173712
 
 <a id="claim-t-190831"></a>
-- t-035
+- t-029
   teiginys: "Teodoro Narbuto aiškinimu, Strijkovskis taisė Rozencveigo datos prieštaravimą, kimbrų pasitraukimą nuo Baltijos pakrančių siedamas su 190 m. pr. Kr. karu Ilirijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -568,7 +568,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173713
 
 <a id="claim-t-194210"></a>
-- t-036
+- t-030
   teiginys: "Strijkovskis ir Koje- 1 a v i č i u s supainiojo Andrių, Al girdo sūnų, su Vaidotu, Kęstučio sū numi, todėl radosi jų minimas Andrius Vaidotas, Kęstučio sūnus, Polocko kunigaikštis - visai išgalvo tas."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -581,7 +581,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-55250
 
 <a id="claim-t-197352"></a>
-- t-037
+- t-031
   teiginys: "Lietuvos ir Prūsijos archeologų surinkti duomenys patiks lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Praurimės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi lučių."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -594,7 +594,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-179146
 
 <a id="claim-t-197682"></a>
-- t-038
+- t-032
   teiginys: "Strijkovskis neabejotinai taiso šios vietos prieštaravimus ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo epochą, vesdamas juos nuo Baltijos jūros pakrančių tie siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su tenykščio prokonsulo Cyras-Karbo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -606,32 +606,80 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - c-173712
 
 ## Reikšmingi paminėjimai
-- c-025
-  santrauka: 'Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-017
+  santrauka: 'Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Hartknochas, remdamasis vietos pa­
-    davimais ir tiesioginiais vietovės tyrinėjimais, visiškai
-    įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog
-    smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros
-    potvyniai išilgai visos Prūsijos padarė nemažai Baltijos
-    jūros krantų reljefo ir pavidalo pokyčių. O ypač stengė­
-    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
-    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
-    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
-    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
-    kronikos knygas), turėjo po ranka. Tačiau esama sunku­
-    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
-    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
-    daugiau negu šimtmetis prieš naują erą, jis mini 1190
-    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
-    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
+    Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
+    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
+    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
+    ūgio ne aukštesnio, kaip viena uolektis“.
+    Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
+    pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.
+    Lietuvos totoriai žino tas mitines būtybes, jų egzistavimu šiaip
+    ar taip tiki; vadina jas fereikomis (Fierejki) ir džinais (Dženie);
+    jų religinė raštija tikina, kad tos būtybės esančios blogesnės
+    už šėtonus, be galo kenksmingos, atsiunčiančios žmonėms 70
+    18 Šiame žodyne vietoj B klaidingai parašyta P.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-019
+  santrauka: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
+    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
+    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
+    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
+    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
+    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
+    kažkokį triukšmą ir lyg žalčių šnypštimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-020
+  santrauka: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-021
+  santrauka: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Sis vyriausiųjų žynių sąrašo pasmerkimas yra
+    paimtas iš Hartknocho14, bet jis pareiškė tai nepateikdamas
+    argumentų, vien kaip savo paties abejonę. Dabar peržvelkime
+    mūsų amžiaus kritiko argumentus.
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą - tai tiesa; per daug
+    užsidegęs katalikybės šalininkas - ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų - gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-55249
@@ -665,7 +713,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-55250
   autorius: "Michał Baliński"
@@ -697,9 +745,9 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-018
-    - t-036
+    - t-003
+    - t-010
+    - t-030
 
 - id: c-55251
   autorius: "Michał Baliński"
@@ -734,7 +782,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-55252
   autorius: "Michał Baliński"
@@ -771,7 +819,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-005
 
 - id: c-55253
   autorius: "Michał Baliński"
@@ -798,7 +846,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-006
 
 - id: c-157329
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -819,7 +867,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-157330
   autorius: "Michał Baliński"
@@ -845,7 +893,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-008
 
 - id: c-157335
   autorius: "Michał Baliński"
@@ -873,7 +921,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-017
 
 - id: c-157336
   sudarytojas: "Karolis Zikaras"
@@ -917,8 +965,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-017
+    - t-001
+    - t-009
 
 - id: c-157339
   autorius: "Michał Baliński"
@@ -964,8 +1012,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-023
+    - t-007
+    - t-014
 
 - id: c-157343
   autorius: "Michał Baliński"
@@ -988,7 +1036,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-012
 
 - id: c-157344
   autorius: "Michał Baliński"
@@ -1036,7 +1084,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-011
 
 - id: c-171381
   autorius: "Teodoras Narbutas"
@@ -1052,7 +1100,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-018
 
 - id: c-171382
   autorius: "Teodoras Narbutas"
@@ -1073,7 +1121,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-019
 
 - id: c-171383
   autorius: "Teodoras Narbutas"
@@ -1092,7 +1140,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-020
 
 - id: c-171384
   autorius: "Teodoras Narbutas"
@@ -1112,7 +1160,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-021
 
 - id: c-171385
   autorius: "Teodoras Narbutas"
@@ -1133,7 +1181,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-022
 
 - id: c-171386
   autorius: "Teodoras Narbutas"
@@ -1151,7 +1199,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-023
 
 - id: c-171387
   autorius: "Teodoras Narbutas"
@@ -1179,7 +1227,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-024
 
 - id: c-173709
   autorius: "Teodoras Narbutas"
@@ -1208,8 +1256,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
-    - t-033
+    - t-025
+    - t-027
 
 - id: c-173710
   autorius: "Teodoras Narbutas"
@@ -1232,7 +1280,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-026
 
 - id: c-173711
   autorius: "Teodoras Narbutas"
@@ -1280,8 +1328,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-038
+    - t-028
+    - t-032
 
 - id: c-173713
   autorius: "Teodoras Narbutas"
@@ -1310,7 +1358,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-029
 
 - id: c-179146
   autorius: "Teodoras Narbutas"
@@ -1333,5 +1381,5 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-037
+    - t-023
+    - t-031

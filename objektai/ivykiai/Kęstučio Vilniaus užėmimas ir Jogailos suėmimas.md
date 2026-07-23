@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186668"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-169920
 
 <a id="claim-t-186669"></a>
-- t-004
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-169921
 
 <a id="claim-t-186671"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais ir laikė tai išdavyste."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-169920
 
 <a id="claim-t-186672"></a>
-- t-003
+- t-004
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -168,9 +168,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
     - t-003
+    - t-004
 
 - id: c-169921
   autorius: "Anoniminis metraštininkas"
@@ -201,5 +201,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
     - t-005

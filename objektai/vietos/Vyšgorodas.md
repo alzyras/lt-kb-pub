@@ -54,9 +54,7 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-45444
-- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
-- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
-- susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
+
 ## Citatos
 
 - id: c-45444

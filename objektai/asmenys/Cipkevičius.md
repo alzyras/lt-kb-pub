@@ -45,8 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "Cipkevičius puolė Lenkai (0.72); Šidiškis puolė Lenkai (0.72)"
   pagrindžia:
     - c-41522
-- susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-183771|Šidiškis]]: 1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
-- susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-39829|Šidiškis]]: 1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
+
 ## Citatos
 
 - id: c-41522

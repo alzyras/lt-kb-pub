@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-12448"></a>
-- t-004
+- t-001
   teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-56391
   autorius: "Zenonas Ivinskis"
@@ -109,6 +109,7 @@ media_all_json: |-
   citata_rodoma: "(^10) **CEV, 18 (nr. 53).**"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,9 +44,7 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166858
-- susijęs iš [[objektai/posakiai/„viešpataujanti“ „ponų tauta“.md#claim-t-20961|„viešpataujanti“ „ponų tauta“]]: Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
-- susijęs iš [[objektai/zodynas/ponų tauta viešpataujanti tauta.md#claim-t-22254|ponų tauta viešpataujanti tauta]]: Naciai teigė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
-- susijęs iš [[objektai/zodynas/rasės atžvilgiu svetimi elementai.md#claim-t-22261|rasės atžvilgiu svetimi elementai]]: Naciai manė, kad „rasės atžvilgiu svetimus elementus“ būtina pašalinti.
+
 ## Citatos
 
 - id: c-166858

@@ -37,9 +37,7 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36671
-- susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-12236|A. Salys]]: Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.
-- susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64646|J. Talmantas]]: Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis.
-- susijęs iš Kalba: „Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis.
+
 ## Citatos
 
 - id: c-36671

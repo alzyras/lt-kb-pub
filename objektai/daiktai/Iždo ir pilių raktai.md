@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64929"></a>
-- t-006
+- t-001
   teiginys: "Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-05211
 
 <a id="claim-t-64930"></a>
-- t-004
+- t-002
   teiginys: "1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-14308
 
 <a id="claim-t-64931"></a>
-- t-005
+- t-003
   teiginys: "Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-14308
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -163,7 +163,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-14309
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -185,4 +185,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

@@ -73,17 +73,3 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Barovas.md#claim-t-191374|Barovas]]: Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį, Marko Polo žinias apie Kiniją siejo su jėzuitų aprašymais.
-- susijęs iš [[objektai/asmenys/Markas Polo.md#claim-t-191442|Markas Polo]]: Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23222|Andrius Rudamina]]: Rudamina 1626–1634 m. misionieriavo Kinijoje.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23223|Andrius Rudamina]]: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23224|Andrius Rudamina]]: Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-- susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
-- susijęs iš [[objektai/asmenys/Makartnis.md#claim-t-191440|Makartnis]]: Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesnis keliautojas Barovas.
-- susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191136|Pitėjas Masilietis]]: Narbutas pažymėjo, kad Pitėjas Masilietis gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.
-- susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191221|Pitėjas]]: Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.
-- susijęs iš [[objektai/autoriai/Bleikas.md#claim-t-191636|Bleikas]]: Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį kaip 28 000 angliškų pėdų.
-- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190794|Strabonas]]: Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.

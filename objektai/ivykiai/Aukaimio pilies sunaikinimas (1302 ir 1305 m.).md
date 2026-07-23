@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31406"></a>
-- t-002
+- t-001
   teiginys: "1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-33385
 
 <a id="claim-t-31407"></a>
-- t-001
+- t-002
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-33385
   autorius: "Zenonas Ivinskis"
@@ -131,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167707
   autorius: "Zenonas Ivinskis"
@@ -151,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

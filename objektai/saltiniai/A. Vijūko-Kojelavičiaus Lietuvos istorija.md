@@ -41,7 +41,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
 ## Teiginiai
 
 <a id="claim-t-55207"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -57,7 +57,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     - c-55630
 
 <a id="claim-t-55208"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -73,7 +73,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     - c-55631
 
 <a id="claim-t-81985"></a>
-- t-004
+- t-003
   teiginys: "A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sources"
@@ -125,7 +125,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-55631
   autorius: "Michał Baliński"
@@ -146,7 +146,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-78497
   autorius: "Michał Baliński"
@@ -184,4 +184,4 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

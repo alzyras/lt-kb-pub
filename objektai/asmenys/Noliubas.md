@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     - c-85899
 
 <a id="claim-t-89994"></a>
-- t-003
+- t-002
   teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -48,20 +48,14 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     - c-85899
 
 <a id="claim-t-89995"></a>
-- t-002
+- t-003
   teiginys: "Dažnų antpuolių nukamuotas Noliubas ilgainiui priėmė tikėjimą ir, Dusburgiečio vertinimu, tapo pagirtinu žmogumi."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85899
-- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89601|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.
-- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89603|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
-- susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179250|Lietuviai]]: Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66530|Durbės mūšis (1260 m.)]]: Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.
-- susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
-- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58808|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.'
@@ -77,11 +71,10 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-85898
@@ -124,8 +117,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-002
+    - t-003
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sklodas iš Kvedenavos]]

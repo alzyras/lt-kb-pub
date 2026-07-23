@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 ## Teiginiai
 
 <a id="claim-t-60197"></a>
-- t-002
+- t-001
   teiginys: "Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
     - c-60829
 
 <a id="claim-t-60198"></a>
-- t-001
+- t-002
   teiginys: "1273 metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
     - c-60829
 
 <a id="claim-t-194517"></a>
-- t-004
+- t-003
   teiginys: "Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
     - c-60829
 
 <a id="claim-t-197152"></a>
-- t-005
+- t-004
   teiginys: "Rudolfas iš Habsburgo smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,9 +97,9 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-60830
   autorius: "Petras Dusburgietis"
@@ -122,4 +122,4 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

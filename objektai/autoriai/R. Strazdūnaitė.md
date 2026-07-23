@@ -51,7 +51,7 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas bibliografine citata."
   pagrindžia:
     - c-33116
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179542|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.
+
 ## Citatos
 
 - id: c-33116

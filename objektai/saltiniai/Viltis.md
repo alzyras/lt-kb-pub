@@ -29,7 +29,7 @@ Smetonos, redaguojamoji „Viltis".
 ## Teiginiai
 
 <a id="claim-t-45773"></a>
-- t-002
+- t-001
   teiginys: "Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +67,4 @@ Smetonos, redaguojamoji „Viltis".
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

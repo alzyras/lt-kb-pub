@@ -36,7 +36,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 ## Teiginiai
 
 <a id="claim-t-75556"></a>
-- t-004
+- t-001
   teiginys: "Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - c-73298
 
 <a id="claim-t-75557"></a>
-- t-001
+- t-002
   teiginys: "Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - c-73299
 
 <a id="claim-t-75559"></a>
-- t-002
+- t-004
   teiginys: "Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,8 +94,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24880
-- susijęs iš [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.).md#claim-t-75180|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
-- susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26386|Sovietų Sąjungos masinės deportacijos į Sibirą]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
+
 ## Citatos
 
 - id: c-24879
@@ -119,7 +118,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -140,7 +139,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-73298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -165,7 +164,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-73299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

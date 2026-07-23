@@ -37,7 +37,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 ## Teiginiai
 
 <a id="claim-t-72033"></a>
-- t-002
+- t-001
   teiginys: "Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
     - c-70469
 
 <a id="claim-t-72034"></a>
-- t-001
+- t-002
   teiginys: "Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-70470
-- susijęs iš Aušrinė: Iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinė“, vėliau atsirado socialistiškos pakraipos aušrininkų organizacija.
+
 ## Citatos
 
 - id: c-70469
@@ -94,7 +94,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-70470
   redaktorius: "A. Šapoka"
@@ -113,4 +113,4 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

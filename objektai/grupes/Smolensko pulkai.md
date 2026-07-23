@@ -31,7 +31,7 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 ## Teiginiai
 
 <a id="claim-t-81606"></a>
-- t-003
+- t-001
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     - c-78199
 
 <a id="claim-t-81608"></a>
-- t-001
+- t-003
   teiginys: "Žalgirio mūšyje Smolensko pulkai liko centre tarp lietuvių ir lenkų, vadovaujami Lengvenio sūnaus Jurgio."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-78199
   autorius: "Michał Baliński"
@@ -129,5 +129,5 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

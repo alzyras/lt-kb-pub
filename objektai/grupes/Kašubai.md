@@ -49,7 +49,7 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175754
-- susijęs iš Pamarys: Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio.
+
 ## Citatos
 
 - id: c-175754

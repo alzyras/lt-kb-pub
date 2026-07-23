@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54739"></a>
-- t-002
+- t-001
   teiginys: "Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-55730
 
 <a id="claim-t-54740"></a>
-- t-001
+- t-002
   teiginys: "Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis."
   atnaujinta: "2026-05-27 06:43"
   sprendimo_priezastis: "gap::customs"
@@ -106,5 +106,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

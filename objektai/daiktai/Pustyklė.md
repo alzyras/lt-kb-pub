@@ -7,7 +7,7 @@ variantai:
   - 'pustyklės'
   - 'pustykles'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -81,6 +81,7 @@ Nenurodyta
   citata_rodoma: "Kiekvienas vyras prisidirbdavo ligi dešimties pustyklių, nes jos greitai susidėvi"
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

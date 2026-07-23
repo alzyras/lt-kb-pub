@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09538"></a>
-- t-006
+- t-001
   teiginys: "Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-12302
 
 <a id="claim-t-09539"></a>
-- t-007
+- t-002
   teiginys: "Po operacijų išduota ginkluotė turėjo būti grąžinama."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-12302
 
 <a id="claim-t-09540"></a>
-- t-008
+- t-003
   teiginys: "Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -120,6 +120,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-007
-    - t-008
+    - t-001
+    - t-002
+    - t-003

@@ -48,7 +48,7 @@ Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apašta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173347
-- susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190060|Šventasis Steponas (Permės vyskupas)]]: Narbutas tikslino, kad Šventasis Steponas neišrado biarmiško raidyno, o sutvarkė jį pagal rusų abėcėlę ir rašė šiaurės slavų tarme.
+
 ## Citatos
 
 - id: c-173347

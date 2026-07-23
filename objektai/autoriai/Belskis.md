@@ -59,7 +59,7 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
     - c-173264
 
 <a id="claim-t-197278"></a>
-- t-003
+- t-002
   teiginys: "Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -114,4 +114,4 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

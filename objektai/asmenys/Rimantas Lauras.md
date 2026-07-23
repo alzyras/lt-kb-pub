@@ -54,7 +54,7 @@ media_all_json: |-
     - c-176714
 
 <a id="claim-t-196867"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176713
@@ -106,7 +105,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-176714
   autorius: "Anoniminis metraštininkas"

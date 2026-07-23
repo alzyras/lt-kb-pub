@@ -57,7 +57,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
     - c-171883
 
 <a id="claim-t-192655"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašo, kad egiptiečiai gintarą žinojo Sacal vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,9 +75,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175425
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
-- susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą.'
@@ -141,4 +139,4 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

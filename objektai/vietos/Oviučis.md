@@ -30,7 +30,7 @@ Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomir
 ## Teiginiai
 
 <a id="claim-t-187627"></a>
-- t-002
+- t-001
   teiginys: "Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomiru paėmė didžiuoju kunigaikščiu vadinamas Vytautas."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

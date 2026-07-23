@@ -42,7 +42,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 ## Teiginiai
 
 <a id="claim-t-60019"></a>
-- t-003
+- t-001
   teiginys: "1297 m. Gotfridas Hohenlohė buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - c-60652
 
 <a id="claim-t-60020"></a>
-- t-001
+- t-002
   teiginys: "1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - c-60653
 
 <a id="claim-t-60021"></a>
-- t-002
+- t-003
   teiginys: "1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - c-60651
 
 <a id="claim-t-194484"></a>
-- t-005
+- t-004
   teiginys: "Apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - c-60652
 
 <a id="claim-t-197084"></a>
-- t-006
+- t-005
   teiginys: "Gotfridas Hohenlohė išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas negali tavęs išganyti, tad išpažink žydų tikėjimą“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179024
-- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+
 ## Citatos
 
 - id: c-60651
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-60652
   autorius: "Petras Dusburgietis"
@@ -168,8 +168,8 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-60653
   autorius: "Petras Dusburgietis"
@@ -196,7 +196,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-179024
   autorius: "Petras Dusburgietis"
@@ -219,7 +219,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 - Gotfridas Hohenlohė keliavo į [[objektai/vietos/Prūsija]]

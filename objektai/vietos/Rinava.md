@@ -31,7 +31,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Teiginiai
 
 <a id="claim-t-91355"></a>
-- t-002
+- t-001
   teiginys: "Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - c-87073
 
 <a id="claim-t-91356"></a>
-- t-001
+- t-002
   teiginys: "Rinavos valsčiuje gyvenę sembai, vėl atkritę nuo tikėjimo, subūrė kariuomenę ir užpuolė Fišhauzeno pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - c-87072
 
 <a id="claim-t-91357"></a>
-- t-004
+- t-003
   teiginys: "Dusburgiečio kronikoje pasakojama, kad Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Fišhauzeną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,35 +85,14 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - c-87072
 
 <a id="claim-t-91358"></a>
-- t-003
+- t-004
   teiginys: "Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87072
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-183894|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89397|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89396|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.
-- susijęs iš [[objektai/asmenys/Šamas.md#claim-t-191492|Šamas]]: Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rezidenciją Gailgarbio, arba Galgarbeno, pilyje ant Rinavos kalno.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89396|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.
-- susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89397|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną.
-- susijęs iš Gailgarbis: Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją.
-- susijęs iš [[objektai/autoriai/Faber K.md#claim-t-60698|Faber K]]: Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.
-- susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64603|Hennenberger C]]: C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-183894|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
-- susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
-- susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192510|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš Fišhauzenas: Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas.
-- susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
@@ -126,10 +105,10 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
     sugrįžo anksčiau čia viešpatavusi taika.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -139,11 +118,10 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     pilis, matyt, buvusi Galtgarbių aukštumoje (117 m virš Baltijos jūros lygio įrengtame
     piliakalnyje tarp Galtgarbių ir Kumėnų (Kumehnen).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-87071
@@ -180,9 +158,9 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
+    - t-002
     - t-003
+    - t-004
 
 - id: c-87073
   autorius: "Petras Dusburgietis"
@@ -198,7 +176,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Sembai]]

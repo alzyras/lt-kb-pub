@@ -55,7 +55,7 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-45146
-- susijęs iš Sosnos upė: Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų.
+
 ## Citatos
 
 - id: c-45146

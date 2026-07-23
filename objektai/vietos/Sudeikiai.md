@@ -44,10 +44,7 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38648
-- susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
-- susijęs iš Raseiniai: Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
-- susijęs iš Airiogala: Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose.
+
 ## Citatos
 
 - id: c-38648

@@ -94,21 +94,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
   pagrindžia:
     - c-66917
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
-- susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66789|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169881|Alfonsas Eidintas]]: Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169883|Alfredas Bumblauskas]]: 2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169884|Alfredas Bumblauskas]]: Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
-- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-169887|Antanas Kulakauskas]]: Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Inga Vinogradnaitė.md#claim-t-26473|Inga Vinogradnaitė]]: Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65773|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.
-- susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.
-- susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.
-- susijęs iš Lietuva: Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.
-- susijęs iš Pskovas: 1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.
+
 ## Citatos
 
 - id: c-66917

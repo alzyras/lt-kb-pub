@@ -60,13 +60,7 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179402
-- susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191217|Motiejus Pretorijus]]: Pretorijus Sasavos tvirtovę siejo su Šyšos upe, kuri, Narbuto perteikimu, kadaise turėjo būti vadinama Cyse arba Sussa.
-- susijęs iš [[objektai/asmenys/Pretorijus.md#claim-t-190964|Pretorijus]]: Teodoro Narbuto perteikimu, Pretorijus Sasavos tvirtovę lokalizavo prie Šyšos upės, kuri kitados turėjusi vadintis Cyse arba Sussa.
-- susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190762|Motiejus Pretorijus]]: Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa.
-- susijęs iš Galinda: Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.
-- susijęs iš Lubava: Narbutas rašo, kad mažosios Lubavos ir Sasavos žemės ribojosi prie senosios sienos tarp Kulmo krašto ir senovės Prūsijos.
-- susijęs iš Kulmas: Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą.
-- susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
+
 ## Citatos
 
 - id: c-175622

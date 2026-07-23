@@ -45,7 +45,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173194
 
 <a id="claim-t-190312"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Henenbergerį kartu su Škicu, Hartknochu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius dėl tariamo ligonių mirties greitinimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173195
 
 <a id="claim-t-190313"></a>
-- t-004
+- t-003
   teiginys: "Pasak Henenbergerio tyrimų, turtingųjų namuose gedulas trukdavo keturias savaites be pasilinksminimų, o samdytos raudotojos apraudodavo mirusįjį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173196
 
 <a id="claim-t-190314"></a>
-- t-005
+- t-004
   teiginys: "Narbutas rašė, kad Henenbergeris tyrimuose rėmėsi ne tik vyskupo Kristijono kronika, bet ir kitais ankstesniais už Dusburgietį šaltiniais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173197
 
 <a id="claim-t-190700"></a>
-- t-006
+- t-005
   teiginys: "Henenbergeris, Narbuto teigimu, nurodė daugiau jo laikais jau nebeegzistavusių Nemuno šakų, tarp jų Akmenę, Szyrwinde ir Alt-Russe."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173582
 
 <a id="claim-t-190701"></a>
-- t-007
+- t-006
   teiginys: "Henenbergeris, Narbuto teigimu, patvirtino, kad buvo sudinų gentis arba taip vadinta giminė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173583
 
 <a id="claim-t-197591"></a>
-- t-008
+- t-007
   teiginys: "XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -157,6 +157,29 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173582
 
 ## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Narbutas rašė, kad Henenbergeris tyrimuose rėmėsi ne tik vyskupo Kristijono kronika, bet ir kitais ankstesniais už Dusburgietį šaltiniais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
+    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
+    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
+    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
+    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
+    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
+    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
+    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
+    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
+    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
+    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
+    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
+    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
+    galbūt įtikintume savo naudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Henenbergeris, Narbuto teigimu, nurodė daugiau jo laikais jau nebeegzistavusių Nemuno šakų, tarp jų Akmenę, Szyrwinde ir Alt-Russe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -173,11 +196,11 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
     jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-008
 
 ## Citatos
 
@@ -242,7 +265,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173196
   autorius: "Teodoras Narbutas"
@@ -265,7 +288,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173197
   autorius: "Teodoras Narbutas"
@@ -292,7 +315,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173582
   autorius: "Teodoras Narbutas"
@@ -322,8 +345,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-008
+    - t-005
+    - t-007
 
 - id: c-173583
   autorius: "Teodoras Narbutas"
@@ -343,4 +366,4 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

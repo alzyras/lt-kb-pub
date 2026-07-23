@@ -50,7 +50,7 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
     - c-174474
 
 <a id="claim-t-191594"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Humboltui priskyrė aiškinimą, kad senovės Šiaurės tropinę augaliją sukūrė po sausumos ir skystosios materijos atsiskyrimo likusi šiluma."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,6 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174474
@@ -164,4 +163,4 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

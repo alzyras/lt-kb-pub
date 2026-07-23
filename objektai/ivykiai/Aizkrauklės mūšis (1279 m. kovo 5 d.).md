@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66445"></a>
-- t-003
+- t-001
   teiginys: "1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-11814
 
 <a id="claim-t-66446"></a>
-- t-004
+- t-002
   teiginys: "Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-43016
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11814
@@ -105,7 +105,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-43016
   sudarytojas: "Karolis Zikaras"
@@ -123,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

@@ -47,7 +47,7 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 ## Teiginiai
 
 <a id="claim-t-192264"></a>
-- t-002
+- t-001
   teiginys: "Teodoras Narbutas rašo, kad iš šios kastos arba luomo buvo renkami vadai ir įsakinėtojai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -65,7 +65,7 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
     - c-175094
 
 <a id="claim-t-192265"></a>
-- t-001
+- t-002
   teiginys: "Narbutas apibūdina senąsias gentis kaip priklausiusias kastai arba luomui su viršenybe kitiems."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -73,7 +73,7 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175094
-- susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192954|Kolchai]]: Narbutas rašo, kad nuo neatmenamų laikų kolchai buvo laikomi labai turtingais ir išmanančiais gamtos dalykus.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -89,11 +89,11 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
     klausė tam tikrai kastai arba luomui, turėjusiam virše­
     nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192265
+  statusas: verified
+- t-001
 
 ## Citatos
 
@@ -121,5 +121,5 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

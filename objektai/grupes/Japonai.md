@@ -68,12 +68,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172359
-- susijęs iš [[objektai/asmenys/Georgi.md#claim-t-190152|Georgi]]: Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams, o šie atitinką slavų Tryzną.
-- susijęs iš [[objektai/autoriai/Georgi.md#claim-t-190423|Georgi]]: Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Kamefiams, o šie, matyt, atitiko slavų Tryzną.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188176|Egiptiečiai]]: Narbutas rašė, kad egiptiečiai turėjo Kamefius, o Georgi juos siejo su japonų Kami ir slavų Tryzna.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189418|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai turėjo Kamefius, kuriuos Georgi siejo su japonų dievais Kami ir slavų Tryzna.
-- susijęs iš [[objektai/autoriai/Charonas iš Lampsako.md#claim-t-190261|Charonas iš Lampsako]]: Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui.
-- susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo.
+
 ## Citatos
 
 - id: c-172358

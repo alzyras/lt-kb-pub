@@ -62,11 +62,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42265
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39348|Arkadij Kruglov]]: Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39347|Arkadij Kruglov]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš [[objektai/grupes/NKGB.md#claim-t-65924|NKGB]]: Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.
-- susijęs iš [[objektai/grupes/NKGB.md#claim-t-65926|NKGB]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
+
 ## Citatos
 
 - id: c-42263

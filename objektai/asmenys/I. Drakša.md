@@ -54,7 +54,7 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį faktą apie asmenį."
   pagrindžia:
     - c-41240
-- susijęs iš [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas.md#claim-t-39281|Savadarbis lygiavamzdis šautuvas]]: Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.
+
 ## Citatos
 
 - id: c-41240

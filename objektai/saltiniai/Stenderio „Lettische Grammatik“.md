@@ -109,7 +109,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     - c-173366
 
 <a id="claim-t-190485"></a>
-- t-006
+- t-005
   teiginys: "Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -251,4 +251,4 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

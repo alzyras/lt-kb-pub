@@ -10,11 +10,6 @@ datos:
   - '1009 m.'
 date_start: '1000'
 date_end: '1009'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,6 +17,11 @@ tags:
   - karalius
   - kunigaikštis
   - mokslininkas
+amziai:
+  - 'X'
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -184,7 +184,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-75376

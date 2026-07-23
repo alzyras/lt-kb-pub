@@ -8,8 +8,6 @@ datos:
   - '1420 m.'
 date_start: '1419'
 date_end: '1420'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +15,8 @@ tags:
   - diplomatinis-įvykis
   - ivykis
   - politinis-sprendimas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -73,7 +73,7 @@ Nenurodyta
     - c-169036
 
 <a id="claim-t-185677"></a>
-- t-003
+- t-002
   teiginys: "Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-169038
 
 <a id="claim-t-196288"></a>
-- t-004
+- t-003
   teiginys: "Kojelavičiaus pasakojime Edigejus, Tauridės valdovas, per pasiuntinius susidraugavo su Vytautu ir pažadėjo ištikimybę, taiką bei pagalbą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169036
@@ -177,7 +176,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-169038
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -207,4 +206,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

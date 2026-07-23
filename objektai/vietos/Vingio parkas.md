@@ -35,7 +35,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 ## Teiginiai
 
 <a id="claim-t-183642"></a>
-- t-003
+- t-001
   teiginys: "1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,4 +95,4 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

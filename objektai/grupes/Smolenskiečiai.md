@@ -65,8 +65,7 @@ Tos vė­ liavos buvusios smolenskiečių.
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170684
-- susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186886|šuns kfauju]]: Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.
-- susijęs iš [[objektai/zodynas/prastieji žmonės.md#claim-t-187544|prastieji žmonės]]: Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada.
+
 ## Citatos
 
 - id: c-35591

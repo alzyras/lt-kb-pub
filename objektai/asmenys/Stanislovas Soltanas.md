@@ -44,11 +44,7 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-21989
-- susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170095|Stanislovas Augustas Poniatovskis (valdovas)]]: Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.
-- susijęs iš [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos.md#claim-t-20505|Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]: Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.
-- susijęs iš [[objektai/asmenys/Ignotas Potockis.md#claim-t-18924|Ignotas Potockis]]: LDK didysis maršalas Ignotas Potockis buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.
-- susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63827|Kazimieras Nestoras Sapiega]]: K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.
-- susijęs iš [[objektai/ivykiai/1792 m. LLV ir Rusijos karas.md#claim-t-71723|1792 m. LLV ir Rusijos karas]]: 1792 m. gegužės-liepos kare su Rusija LLV priešinimosi galimybės dar nebuvo išsemtos.
+
 ## Citatos
 
 - id: c-21989

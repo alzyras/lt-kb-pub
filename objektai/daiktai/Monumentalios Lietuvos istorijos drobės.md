@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75340"></a>
-- t-002
+- t-001
   teiginys: "1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-73143
 
 <a id="claim-t-75341"></a>
-- t-001
+- t-002
   teiginys: "1939 m. pasaulinei parodai Niujorke parengtame Lietuvos skyriuje svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose žymių dailininkų drobėse."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-73143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -145,4 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

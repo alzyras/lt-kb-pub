@@ -5,7 +5,7 @@ sukurta: '2026-07-12'
 variantai:
   - 'ąsikliai'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -60,6 +60,7 @@ Nenurodyta
   citata_rodoma: "Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

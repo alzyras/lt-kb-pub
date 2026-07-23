@@ -66,9 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-10278
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - terminas šiame fragmente pavartotas tik frazėje „ant rogo“, todėl kandidatas pateikiamas kaip ritualinis laidotuvių laužas pagal kontekstą.

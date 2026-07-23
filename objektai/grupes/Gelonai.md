@@ -41,7 +41,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Išskleistas subjektas gelonai ir išlaikyta Narbuto atribucija dėl šventos upės bei tapatinimo. Nepridėta vėlesnio persikėlimo prie Nemuno kaip atskiro fakto."
   susije_objektai: "llm_object: Europa; mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_place: Donas; mentioned_place: Oskolas; mentioned_place: Europa; llm_object: Donas; llm_object: [[objektai/grupes/Budinai|Budinai]]"
-  semantiniai_rysiai: "[[objektai/grupes/Gelonai|Gelonai]] gyveno Donas; [[objektai/grupes/Gelonai|Gelonai]] buvo sąjungininkas su [[objektai/grupes/Budinai|Budinai]]; Gelonai gyveno Donas (0.82); Gelonai buvo sąjungininkas su Budinai (0.78)"
+  semantiniai_rysiai: "[[objektai/grupes/Gelonai|Gelonai]] gyveno Donas; [[objektai/grupes/Gelonai|Gelonai]] buvo sąjungininkas su [[objektai/grupes/Budinai|Budinai]]"
   ryšio_patikimumas: "keliavo_i -> Europa: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
@@ -89,7 +89,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-179220
 
 <a id="claim-t-192387"></a>
-- t-005
+- t-004
   teiginys: "Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175181
 
 <a id="claim-t-192389"></a>
-- t-007
+- t-005
   teiginys: "Narbutas spėja, kad pirmosios gelonų gyvenvietės turėjo būti Očekovo apylinkėse, nes ten esą buvęs Gelono miestas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175183
 
 <a id="claim-t-192390"></a>
-- t-008
+- t-006
   teiginys: "Narbutas gelonus sieja su heleniška kilme ir rašo, kad jie kasmet siųsdavo į Delą dovanų bei aukų Apolonui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175184
 
 <a id="claim-t-192391"></a>
-- t-009
+- t-007
   teiginys: "Narbutas lietuvių tautos pradžią aiškina kaip dviejų senovės tautų, gelonų ir budinų, susiliejimo rezultatą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175185
 
 <a id="claim-t-197497"></a>
-- t-011
+- t-008
   teiginys: "Į šiaurę nuo skitų, net ligi Dono, gy veno gelonai ir budinai, kitapus Dono, iki jūros, j rytus nuo skitų, — sarmatai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -175,7 +175,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175179
 
 <a id="claim-t-197498"></a>
-- t-012
+- t-009
   teiginys: "Ta čiau helenai tuos gelonus vadina, nors ir neteisingai, budinais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-179220
 
 <a id="claim-t-197499"></a>
-- t-013
+- t-010
   teiginys: "Ver gilijus apie tokį kumelės pieno vartojimą rašė: „Karin gasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -197,74 +197,30 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175182
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191112|Adomas Stanislovas Naruševičius]]: Narbutas nurodo, kad Naruševičius daugelyje darbų patvirtino teiginį apie gelonų tautą Nemuno aukštupyje.
-- susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191126|Darijus]]: Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą.
-- susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190868|Herodotas]]: Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190874|Herodotas]]: Pasak Herodoto, gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-192591|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Joachimas Lelevelis gelonus ir budinus laikė išgalvotomis tautomis ir priekaištavo senovės geografų kompiliatoriams.
-- susijęs iš [[objektai/asmenys/Sidonijus Apolinaras.md#claim-t-191355|Sidonijus Apolinaras]]: Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.
-- susijęs iš [[objektai/asmenys/Skilakas.md#claim-t-191356|Skilakas]]: Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kurių pats šiame skyriuje toliau nenagrinėjo.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190683|Adomas Stanislovas Naruševičius]]: Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190704|Herodotas]]: Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190709|Herodotas]]: Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190710|Herodotas]]: Herodotas teigė, kad gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
-- susijęs iš [[objektai/autoriai/Naruševičius.md#claim-t-191588|Naruševičius]]: Naruševičius, anot Narbuto, daugelyje darbų patvirtino teiginį apie gelonų tautą prie Nemuno aukštupio.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
-- susijęs iš [[objektai/posakiai/Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju.md#claim-t-192116|Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju]]: Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.
-- susijęs iš Oskolas: Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.
-- susijęs iš Oskolo upės slėnis: Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir iš to sprendė, kad gelonai gyveno Starobelsko apskrityje.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
-- susijęs iš [[objektai/posakiai/Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju.md#claim-t-192116|Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju]]: Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191938|Amianas Marcelinas]]: Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
-- susijęs iš [[objektai/asmenys/Baturlinas.md#claim-t-191255|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/asmenys/Chodkevičius.md#claim-t-191380|Chodkevičius]]: Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui.
-- susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191127|Darijus]]: Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190876|Herodotas]]: Narbutas manė, kad gelonų ir budinų priskyrimą pasakoms galėjo lemti dvejopa jų padėtis Herodoto geografijoje.
-- susijęs iš [[objektai/asmenys/Ketleris.md#claim-t-191432|Ketleris]]: Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
-- susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191528|Amianas Marcelinas]]: Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais.
-- susijęs iš [[objektai/autoriai/Baturlinas.md#claim-t-191579|Baturlinas]]: Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus.
-- susijęs iš [[objektai/autoriai/Dionyzas iš Charakso.md#claim-t-191563|Dionyzas iš Charakso]]: Dionyzas iš Charakso Oktaviano Augusto laikais aprašinėdamas pasaulį minėjo Pantikapo ir Aldeskos upes prie gintaro pakrančių jūros.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190714|Herodotas]]: Anot Herodoto, skitiškas žodis „Arimą“ reiškė skaitvardį „vienas“.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192949|Agatirai]]: T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192950|Agatirai]]: Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189469|Budinai]]: Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192360|Budinai]]: T. Narbutas budinus laiko viena iš dviejų tautų, sudariusių lietuvių tautos pradžią, ir priskiria jiems indų-skitų kilmę.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192372|Budinai]]: T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192422|Lietuviai]]: Teodoro Narbuto antrojo tomo aptarime nurodoma, kad beveik visas 576 puslapių tomas skirtas lietuvių kilmei.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192940|Roksolanai]]: Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus Volgos žemupyje.
-- susijęs iš [[objektai/grupes/Tisagetai.md#claim-t-192962|Tisagetai]]: Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į šiaurę nuo gelonų ir budinų krašto gyveno tisagetai.
-- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191867|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192040|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbuto aiškinimu, svarbiausia gelonų ir budinų pasitraukimo priežastis buvo sarmatų ir kitų Pavolgio tautų plitimas į dešiniosios Dono pakrantės Skitiją.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192041|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192487|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas svarbiausia gelonų ir budinų pasitraukimo nuo Dono priežastimi laiko sarmatų bei kitų Pavolgio tautų plitimą į Skitiją apie 80 m. pr. Kr.
-- susijęs iš [[objektai/paprociai/Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė.md#claim-t-193029|Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
-- susijęs iš [[objektai/paprociai/Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė.md#claim-t-192509|Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
-- susijęs iš [[objektai/paprociai/Romuvos vardinimas ir šventinimas prie dviejų upių santakos.md#claim-t-192088|Romuvos vardinimas ir šventinimas prie dviejų upių santakos]]: Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.
-- susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
-- susijęs iš Dionyzo iš Charakso geografinis pasaulio aprašymas: Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėjo Pantikapo ir Aldeskos upes, susiliejančias ir įtekančias į gintaro pakrančių jūrą.
-- susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
-- susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš Donas ir Donecas: Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.
-- susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.
-- susijęs iš Meotidė: Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje.
-- susijęs iš Nemunas: Teodoras Narbutas Dionyzo iš Charakso minimą Aldeską tapatino su Nemunu.
-- susijęs iš Peluzija: Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais.
-- susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
-- susijęs iš Volkovysko apskritis: Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.
-- susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192237|revoliucija]]: Narbutas aiškina, kad Ši revoliucija siejama su tautų judėjimu į Vakarus.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192239|revoliucija]]: Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190874|Herodotas]]: Pasak Herodoto, gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
-- susijęs iš [[objektai/ivykiai/Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų.md#claim-t-192039|Sarmatų spaudimas ir gelonų-budinų pasitraukimas iš Dono valdų]]: Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis.
-- susijęs iš [[objektai/paprociai/Romuvos vardinimas ir šventinimas prie dviejų upių santakos.md#claim-t-192088|Romuvos vardinimas ir šventinimas prie dviejų upių santakos]]: Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.
-- susijęs iš [[objektai/posakiai/Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams.md#claim-t-192123|Visiškai tikra yra tai, jog Lietuva tuo pačiu kaip ir dabar vardu jau buvo žinoma romėnams]]: Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192237|revoliucija]]: Narbutas aiškina, kad Ši revoliucija siejama su tautų judėjimu į Vakarus.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192239|revoliucija]]: Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190710|Herodotas]]: Herodotas teigė, kad gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
+
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -304,7 +260,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175157
@@ -374,7 +329,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 - id: c-175181
   autorius: "Teodoras Narbutas"
@@ -401,7 +356,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-175182
   autorius: "Teodoras Narbutas"
@@ -423,7 +378,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-175183
   autorius: "Teodoras Narbutas"
@@ -448,7 +403,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-007
+    - t-005
 
 - id: c-175184
   autorius: "Teodoras Narbutas"
@@ -469,7 +424,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-175185
   autorius: "Teodoras Narbutas"
@@ -496,7 +451,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-179220
   autorius: "Teodoras Narbutas"
@@ -523,7 +478,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-012
+    - t-009
 
 ## Ryšiai
 - Gelonai gyveno [[objektai/vietos/Starobelsko apskritis]], [[objektai/vietos/Volkovysko apskritis]]

@@ -77,11 +77,11 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
     milžinišką žemės tvirtovę, sukrovė šias suplūkto, suslėgto
     smėlio ir molio mases į taisyklingai kvadratinę tvirtovę?
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

@@ -71,11 +71,7 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176266
-- susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78010|Vincas Kudirka]]: Vincas Kudirka iki mirties redagavo 1889 m. pradėtą leisti žurnalą „Varpas“, rašė poeziją ir sukūrė „Tautišką giesmę“.
-- susijęs iš [[objektai/ivykiai/„Varpo“ leidimo pradžia.md#claim-t-23492|„Varpo“ leidimo pradžia]]: 1889 m. pradėtas leisti žurnalas „Varpas“ plėtojo „Aušros“ idėjas.
-- susijęs iš Varpas: „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.
-- susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54316|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: „Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.
-- susijęs iš Tautiška giesmė: Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.
+
 ## Citatos
 
 - id: c-22203

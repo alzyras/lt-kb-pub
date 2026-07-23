@@ -60,10 +60,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23607
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75123|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75124|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų.
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-183235|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-- susijęs iš [[objektai/zodynas/liaudies priešai.md#claim-t-22213|liaudies priešai]]: Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.
+
 ## Citatos
 
 - id: c-23606

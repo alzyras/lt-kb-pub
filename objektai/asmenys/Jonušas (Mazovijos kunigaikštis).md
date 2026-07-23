@@ -70,7 +70,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - c-169348
 
 <a id="claim-t-196502"></a>
-- t-004
+- t-003
   teiginys: "Jonušas, Mazovijos kunigaikštis ir Vytauto žentas, nesuteikė prašytos pagalbos, užpuolė Poleksiją ir užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - c-169347
 
 <a id="claim-t-196503"></a>
-- t-005
+- t-004
   teiginys: "Vytautas, sustiprinęs Palenkę ir Polesę, pasitraukė į Mazoviją pas savo giminaičius kunigaikščius Jonušą ir Zemovitą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - c-169348
 
 <a id="claim-t-196504"></a>
-- t-006
+- t-005
   teiginys: "Jonušas (Mazovijos kunigaikštis) nekalbėjo nei daugiau, nei prakilniau."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-169348
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -174,7 +174,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004
 
 - id: c-169349
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -201,9 +201,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 ## Ryšiai
-- Jonušas (Mazovijos kunigaikštis) keliavo į [[objektai/vietos/Piotrkovas]]
 - Jonušas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Poleksija]]
 - Jonušas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Kamenecas]], [[objektai/vietos/Suražas]]

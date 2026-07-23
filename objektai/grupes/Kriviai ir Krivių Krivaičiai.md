@@ -38,7 +38,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
 ## Teiginiai
 
 <a id="claim-t-189437"></a>
-- t-002
+- t-001
   teiginys: "Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
     - c-172324
 
 <a id="claim-t-189439"></a>
-- t-003
+- t-002
   teiginys: "Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
     - c-172326
 
 <a id="claim-t-194569"></a>
-- t-004
+- t-003
   teiginys: "Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks čiau apėmė visas lietuvių tautos gyvenamas žemes, tai yra nuo Vyslos iki Dauguvos, nuo Baltijos jūros į Rusios gilumą, kur slavų krivičių tauta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
     - c-176969
 
 <a id="claim-t-197185"></a>
-- t-005
+- t-004
   teiginys: "Pretorijus, atpa sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie žynio lazdą, vadina ją krivūle."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -155,8 +155,8 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-172326
   autorius: "Teodoras Narbutas"
@@ -178,7 +178,7 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-176969
   autorius: "Teodoras Narbutas"
@@ -201,4 +201,4 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

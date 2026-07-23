@@ -50,7 +50,7 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     - c-45326
 
 <a id="claim-t-185141"></a>
-- t-004
+- t-002
   teiginys: "Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
     - c-168502
 
 <a id="claim-t-188834"></a>
-- t-006
+- t-003
   teiginys: "Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -88,9 +88,7 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171723
-- susijęs iš [[objektai/asmenys/Fiodoras Grigorovičius.md#claim-t-186201|Fiodoras Grigorovičius]]: Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.
-- susijęs iš [[objektai/asmenys/Stanislovas Strumila Petravičius.md#claim-t-186166|Stanislovas Strumila Petravičius]]: Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184649|vietininkas]]: Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.'
@@ -136,7 +134,6 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-45326
@@ -186,7 +183,7 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-171723
   autorius: "Teodoras Narbutas"
@@ -203,7 +200,7 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 - Puolė Seversko žemę: [[objektai/asmenys/Šich Achmetas]]

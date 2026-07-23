@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
   temporalinis_llm_pakomentavimas: "Pašalinta antraštės liekana ir nereikalingas šaltinio numeris; faktas aiškiai remiamas."
   pagrindžia:
     - c-61010
-- susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
+
 ## Citatos
 
 - id: c-61010

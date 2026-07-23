@@ -29,7 +29,7 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
 ## Teiginiai
 
 <a id="claim-t-88352"></a>
-- t-002
+- t-001
   teiginys: "Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +73,4 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

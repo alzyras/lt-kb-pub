@@ -33,7 +33,7 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
 ## Teiginiai
 
 <a id="claim-t-63736"></a>
-- t-002
+- t-001
   teiginys: "Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
     - c-42029
 
 <a id="claim-t-63737"></a>
-- t-001
+- t-002
   teiginys: "Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-42029
   sudarytojas: "Karolis Zikaras"
@@ -108,4 +108,4 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

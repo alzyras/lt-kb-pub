@@ -55,7 +55,7 @@ Butrimas ir kiti.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22106
-- susijęs iš Lietuva 1009–2009: Leidinį „Lietuva 1009–2009“ sudarė A. Butrimas ir kiti; jis išleistas Vilniuje 2009 m.
+
 ## Citatos
 
 - id: c-22106

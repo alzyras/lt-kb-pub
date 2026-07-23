@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
 ## Teiginiai
 
 <a id="claim-t-197108"></a>
-- t-002
+- t-001
   teiginys: "Jonas Saksas iš Gilberštetės su visais savo karalystės žmonėmis norįs priimti krikšto malonę ir, metęs stabmeldystę, nuolankiai išpažinti mūsų viešpaties Jėzaus Kristaus vardą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,4 +76,4 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

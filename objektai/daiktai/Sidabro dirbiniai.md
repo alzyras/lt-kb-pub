@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05235"></a>
-- t-002
+- t-001
   teiginys: "L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -74,14 +74,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33235
-- susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
-- susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
-- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
-- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
-- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
-- susijęs iš [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs.md#claim-t-59143|O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]: Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.
-- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-192053|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+
 ## Citatos
 
 - id: c-33235
@@ -107,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

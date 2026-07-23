@@ -10,14 +10,14 @@ datos:
   - '1294 m.'
 date_start: '1292'
 date_end: '1294'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - žygis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Sudegė abiejų pilių papiliai.
 ## Teiginiai
 
 <a id="claim-t-70938"></a>
-- t-003
+- t-001
   teiginys: "1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Sudegė abiejų pilių papiliai.
     - c-69725
 
 <a id="claim-t-70941"></a>
-- t-004
+- t-002
   teiginys: "Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,11 +99,11 @@ Sudegė abiejų pilių papiliai.
     Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
     pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-- t-70941
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -127,8 +127,8 @@ Sudegė abiejų pilių papiliai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-69726
   autorius: "Zenonas Ivinskis"
@@ -165,6 +165,7 @@ Sudegė abiejų pilių papiliai.
     stovie ») sritis^27.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

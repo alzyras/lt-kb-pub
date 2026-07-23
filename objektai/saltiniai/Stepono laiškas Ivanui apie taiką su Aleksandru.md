@@ -29,7 +29,7 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
 ## Teiginiai
 
 <a id="claim-t-196361"></a>
-- t-004
+- t-001
   teiginys: "Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei Ivanas juos įspėtų neskriausti kitų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -69,4 +69,4 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

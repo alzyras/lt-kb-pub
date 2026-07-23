@@ -117,6 +117,7 @@ Nenurodyta
   citata_rodoma: "Susirinkime ir ta, ir kita ša­\nlis be galo triukšmavo, užsipuldinėdama viena kitą.\nNaugardukiečiai bei kiti Lietuvai priklausę, bet iš ru­\nsų kilę didikai skelbėsi valstybės labui neremsią nė\nvienos pusės: jie būsią paklusnūs tam valdovui, kurį\nsutardamos abi tautos išrinksią. Vis dėlto jeigu tary­\nboje laisva valia nebus rastas geriausias būdas taikai\npasiekti sau nepakenkiant, jie tikrai pirmieji pasiūly­\nsią susirasti kokį svetimšalį valdovą, kuris, paėmęs\nvaldžią, bus bešališkas ir nelinkstąs nė į vieną pusę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

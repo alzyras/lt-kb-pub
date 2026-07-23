@@ -60,7 +60,7 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174360
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192440|Persai]]: 552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.
+
 ## Citatos
 
 - id: c-174360

@@ -44,7 +44,7 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36652
-- susijęs iš Raupsuotoji: E. Mnišek „Raupsuotoji“ lietuviškai išleista trimis dalimis, ją vertė P. Jurgelevičius.
+
 ## Citatos
 
 - id: c-36652

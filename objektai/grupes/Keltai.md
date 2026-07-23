@@ -48,15 +48,7 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175755
-- susijęs iš [[objektai/asmenys/Henrikas Leo.md#claim-t-191207|Henrikas Leo]]: Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptarti marienburgiškais vadinti žodžiai yra keltų kalbos žodžiai.
-- susijęs iš [[objektai/asmenys/Erazmas Stela.md#claim-t-191147|Erazmas Stela]]: Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-191959|Kristijonas (vyskupas, XIII a.)]]: Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų.
-- susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191166|Odinas]]: Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje.
-- susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191167|Odinas]]: Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais.
-- susijęs iš [[objektai/autoriai/Erazmas Stela.md#claim-t-190696|Erazmas Stela]]: Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu.
-- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
-- susijęs iš Dnepras: Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė.
-- susijęs iš Tauridė: Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir galingiems skitams kartu su Dnepro žiotimis.
+
 ## Citatos
 
 - id: c-175755

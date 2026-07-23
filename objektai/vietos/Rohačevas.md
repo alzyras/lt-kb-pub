@@ -53,12 +53,5 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
   statusas: verified
 - t-001
 
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
-- susijęs iš Mosalskas: Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.
-- susijęs iš Mosalskas: Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos.
-- susijęs iš Viazma: Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.
-
 ## Ryšiai
 - Užėmė Rohačevą: [[objektai/grupes/Maskvėnai]]

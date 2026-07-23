@@ -37,7 +37,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 ## Teiginiai
 
 <a id="claim-t-88195"></a>
-- t-002
+- t-001
   teiginys: "Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - c-84175
 
 <a id="claim-t-88196"></a>
-- t-003
+- t-002
   teiginys: "„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - c-84174
 
 <a id="claim-t-88197"></a>
-- t-001
+- t-003
   teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-84175
   autorius: "Michał Baliński"
@@ -138,7 +138,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84176
   autorius: "Michał Baliński"
@@ -160,4 +160,4 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

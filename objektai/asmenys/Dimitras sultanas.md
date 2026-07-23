@@ -62,11 +62,10 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
     Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
     rai pasirengę mūšiui ir negaišdami stos į kovą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169557

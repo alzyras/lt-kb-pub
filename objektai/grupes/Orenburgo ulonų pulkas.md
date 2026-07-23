@@ -44,7 +44,7 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40795
-- susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40082|D. Osten-Sakenas]]: Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją.
+
 ## Citatos
 
 - id: c-40795

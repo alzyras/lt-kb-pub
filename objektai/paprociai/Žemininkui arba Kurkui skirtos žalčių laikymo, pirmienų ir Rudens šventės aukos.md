@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194643"></a>
-- t-002
+- t-001
   teiginys: "Lietuviai teikė jam garbę, laikydami žalčius ir maitindami juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -100,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -31,7 +31,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 ## Teiginiai
 
 <a id="claim-t-32490"></a>
-- t-002
+- t-001
   teiginys: "Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     - c-32368
 
 <a id="claim-t-32491"></a>
-- t-001
+- t-002
   teiginys: "Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,9 +63,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   semantiniai_rysiai: "Putvė priklausė Karšuva (0.91)"
   pagrindžia:
     - c-34017
-- susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš Karšuva: Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.
+
 ## Citatos
 
 - id: c-32368
@@ -86,7 +84,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-34017
   autorius: "Zenonas Ivinskis"
@@ -106,7 +104,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Putvė priklausė [[objektai/vietos/Karšuva]]

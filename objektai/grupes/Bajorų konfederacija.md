@@ -73,11 +73,7 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   semantiniai_rysiai: "Bajorų konfederacija kariavo prieš Švedai (0.93)"
   pagrindžia:
     - c-167044
-- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79153|Povilas Sapiega]]: Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/Jonas Kazimieras Vaza.md#claim-t-39751|Jonas Kazimieras Vaza]]: Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas (1656 m.).md#claim-t-39089|Žemaičių sukilimas (1656 m.)]]: 1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.
-- susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
+
 ## Citatos
 
 - id: c-44723

@@ -54,7 +54,7 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir išvalytas nuo nereikalingų detalių."
   pagrindžia:
     - c-03472
-- susijęs iš Vilnius: XIX a. pradžioje įkurta Vilniaus švietimo apygarda apėmė visas prie Rusijos prijungtas buvusios LLV žemes ir 9 mln. gyventojų.
+
 ## Citatos
 
 - id: c-03472

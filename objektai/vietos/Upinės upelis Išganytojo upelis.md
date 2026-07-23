@@ -7,13 +7,13 @@ datos:
   - '1785 m.'
 date_start: '1785'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestelis
   - vieta
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -118,11 +118,11 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
     kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
     šv.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 

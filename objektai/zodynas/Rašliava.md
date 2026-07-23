@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-168690"></a>
-- t-005
+- t-001
   teiginys: "Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-153486
 
 <a id="claim-t-168692"></a>
-- t-004
+- t-002
   teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-153486
 
 <a id="claim-t-168695"></a>
-- t-006
+- t-003
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,8 +121,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-153487
   redaktorius: "A. Šapoka"
@@ -145,7 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-153490
   redaktorius: "A. Šapoka"
@@ -160,6 +160,7 @@ Nenurodyta
   citata_rodoma: "Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-\nūgėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

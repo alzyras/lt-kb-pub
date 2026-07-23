@@ -39,7 +39,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 ## Teiginiai
 
 <a id="claim-t-68908"></a>
-- t-002
+- t-001
   teiginys: "Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - c-68366
 
 <a id="claim-t-68909"></a>
-- t-003
+- t-002
   teiginys: "Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - c-68366
 
 <a id="claim-t-68910"></a>
-- t-001
+- t-003
   teiginys: "Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -78,25 +78,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   temporalinis_llm_pakomentavimas: "Sakinys sutelktas į Paulavą ir pašalinti šalutiniai įvykiai."
   pagrindžia:
     - c-68366
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
-- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
-- susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-74186|Ketverių metų seimas]]: Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.
-- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77885|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika minima tarp įvykių, kartais laikomų Apšvietos epochos pradžia.
-- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77886|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.
-- susijęs iš [[objektai/posakiai/„valstybėje yra trys respublikos Lenkijos, Lietuvos ir Paulavos“.md#claim-t-26532|„valstybėje yra trys respublikos Lenkijos, Lietuvos ir Paulavos“]]: Posakis apie tris respublikas rodė ypatingą visuomenės reikšmę Paulavai.
-- susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
-- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.
-- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46007|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.
-- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
-- susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66535|Edukacinės komisijos įkūrimas]]: Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.
-- susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77884|Jėzuitų ordino panaikinimas]]: Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.
-- susijęs iš Vidurio Europa: Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.
-- susijęs iš Vidurio Europa: Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.
-- susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
+
 ## Citatos
 
 - id: c-68365
@@ -136,9 +118,9 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-001
 
 - id: c-68367
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,6 +135,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   citata_rodoma: "viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

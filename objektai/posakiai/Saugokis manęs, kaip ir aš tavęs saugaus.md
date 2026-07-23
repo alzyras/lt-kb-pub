@@ -45,7 +45,7 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 ## Teiginiai
 
 <a id="claim-t-50929"></a>
-- t-002
+- t-001
   teiginys: "Skirgaila per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus.“"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -61,7 +61,7 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
     - c-37141
 
 <a id="claim-t-50930"></a>
-- t-001
+- t-002
   teiginys: "Skirgaila, matydamas sau pavojų, per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -92,5 +92,5 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

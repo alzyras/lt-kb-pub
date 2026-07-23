@@ -42,7 +42,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 ## Teiginiai
 
 <a id="claim-t-45786"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     - c-48467
 
 <a id="claim-t-45787"></a>
-- t-004
+- t-002
   teiginys: "Žodis „barokas“ siejamas su ispanišku barrueco ir portugališku barroco, reiškiančiais netaisyklingos formos perlą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     - c-48467
 
 <a id="claim-t-45788"></a>
-- t-001
+- t-003
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -88,13 +88,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48467
-- susijęs iš [[objektai/daiktai/Baroko kasdienybės daiktai.md#claim-t-77920|Baroko kasdienybės daiktai]]: Lietuvoje barokas išplito iki kasdienybės daiktų, įskaitant baldus, indus, drabužius ir knygas.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80775|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.
-- susijęs iš [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika.md#claim-t-67056|Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]: Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.
-- susijęs iš [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika.md#claim-t-67057|Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]: Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.
-- susijęs iš [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas.md#claim-t-13508|duona, tolerancija, demokratija, konstitucija, barokas]]: Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku.
-- susijęs iš Italija: Vorobjovas perspėjo nemanyti, kad Italijoje susiformavęs barokas buvo tiesiog perkeltas į Vilnių kaip užsieninis pavyzdys.
-- susijęs iš [[objektai/zodynas/Italija (sąvoka).md#claim-t-200829|Italija (sąvoka)]]: Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturėtų būti laikomas tiesiog į Vilnių atvežtu užsieniniu pavyzdžiu.
+
 ## Citatos
 
 - id: c-48467
@@ -126,6 +120,6 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
     - t-001
+    - t-002
+    - t-003

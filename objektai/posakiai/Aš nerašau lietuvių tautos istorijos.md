@@ -71,7 +71,6 @@ Narbutas tiesiogiai sako, kad nerašo lietuvių tautos istorijos.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174989

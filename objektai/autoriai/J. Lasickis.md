@@ -73,9 +73,9 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171305
 
 <a id="claim-t-188418"></a>
-- t-005
+- t-003
   teiginys: "Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,7 +93,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171308
 
 <a id="claim-t-188419"></a>
-- t-006
+- t-004
   teiginys: "Narbutas rašo, kad Lasickis paliko žinią apie sūduvių bendrą derliaus nuėmimo šventę su aukomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171309
 
 <a id="claim-t-188421"></a>
-- t-008
+- t-005
   teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171310
 
 <a id="claim-t-188423"></a>
-- t-010
+- t-006
   teiginys: "Narbutas naudojosi 1823 m. Vilniaus periodikoje išspausdintu lenkišku Jono Lasickio mitologijos vertimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171313
 
 <a id="claim-t-197305"></a>
-- t-011
+- t-007
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-179117
 
 <a id="claim-t-197306"></a>
-- t-012
+- t-008
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyviai pakeldavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -171,8 +171,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179118
-- susijęs iš [[objektai/autoriai/Lasickis J.md#claim-t-60742|Lasickis J]]: J. Lasickis Ragainą laikė miškų deive.
-- susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas rašo, kad Lasickis „Sikies“ vadino apeiginius aukų atnašavimo paplotėlius.'
@@ -306,7 +305,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-171309
   autorius: "Teodoras Narbutas"
@@ -331,7 +330,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-171310
   autorius: "Teodoras Narbutas"
@@ -350,7 +349,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-171311
   autorius: "Teodoras Narbutas"
@@ -389,7 +388,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-179117
   autorius: "Teodoras Narbutas"
@@ -412,7 +411,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-179118
   autorius: "Teodoras Narbutas"
@@ -435,4 +434,4 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008

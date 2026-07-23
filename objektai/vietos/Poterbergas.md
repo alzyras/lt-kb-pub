@@ -7,14 +7,14 @@ datos:
   - '1283 m.'
 date_start: '1283'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,7 +82,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
     - c-59101
 
 <a id="claim-t-194545"></a>
-- t-005
+- t-004
   teiginys: "Apie Poterbergo pilies pastatymą Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp dabartinio Kulmo miesto ir senosios pilies pastatė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,16 +92,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59101
-- susijęs iš [[objektai/ivykiai/Poterbergo pilies pastatymas.md#claim-t-183958|Poterbergo pilies pastatymas (pilis)]]: Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų.
-- susijęs iš [[objektai/ivykiai/Poterbergo pilies pastatymas.md#claim-t-62443|Poterbergo pilies pastatymas (pilis)]]: Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų.
-- susijęs iš [[objektai/ivykiai/Poterbergo pilies perkėlimas ir Mevės pilies pastatymas.md#claim-t-62901|Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)]]: 1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
-- susijęs iš Mevė: 1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.
-- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
-- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
-- susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
-- susijęs iš [[objektai/ivykiai/Poterbergo pilies perkėlimas ir Mevės pilies pastatymas.md#claim-t-62901|Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)]]: 1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1283 m. broliai perkėlė Poterbergo pilį ir kitus pastatus iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
@@ -115,13 +106,15 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
     Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji
     po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
 
+
+
+
                214 (209).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59101
@@ -145,7 +138,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   pagrindzia:
     - t-001
     - t-003
-    - t-005
+    - t-004
 
 - id: c-59102
   autorius: "Petras Dusburgietis"

@@ -7,13 +7,13 @@ datos:
   - '253 m.'
 date_start: '253'
 date_end: ''
-amziai:
-  - 'III'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'III'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,11 +103,11 @@ Nenurodyta
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

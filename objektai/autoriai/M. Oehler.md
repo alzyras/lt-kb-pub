@@ -51,7 +51,7 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33060
-- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
+
 ## Citatos
 
 - id: c-33060

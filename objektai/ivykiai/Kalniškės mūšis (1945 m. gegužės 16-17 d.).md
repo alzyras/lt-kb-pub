@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71746"></a>
-- t-006
+- t-001
   teiginys: "Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-43049
 
 <a id="claim-t-71747"></a>
-- t-005
+- t-002
   teiginys: "Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-43050
 
 <a id="claim-t-71748"></a>
-- t-007
+- t-003
   teiginys: "Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-43050
 
 <a id="claim-t-71749"></a>
-- t-008
+- t-004
   teiginys: "Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,10 +119,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės."
   pagrindžia:
     - c-43050
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
-- susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+
 ## Citatos
 
 - id: c-43049
@@ -142,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-43050
   sudarytojas: "Karolis Zikaras"
@@ -165,6 +162,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
-    - t-008
+    - t-002
+    - t-003
+    - t-004

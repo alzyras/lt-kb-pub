@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija."
   pagrindžia:
     - c-33318
-- susijęs iš [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika.md#claim-t-74781|Lietuvos Sovietų Socialistinė Respublika]]: Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.
+
 ## Citatos
 
 - id: c-33318

@@ -45,7 +45,7 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
   semantiniai_rysiai: "Vilius keliavo į Italija (0.70)"
   pagrindžia:
     - c-83912
-- susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
+
 ## Citatos
 
 - id: c-83912

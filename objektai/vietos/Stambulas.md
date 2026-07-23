@@ -48,6 +48,3 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš T. Czackio laiškas Malachovskiui (1787-07-31): 1787 m. liepos 31 d. T. Cackio laiške Malachovskiui rašyta, kad Jasuose lankėsi kunigas Sevaljė, L’Abbé Chevalier.

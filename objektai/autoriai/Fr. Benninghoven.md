@@ -44,9 +44,7 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32927
-- susijęs iš [[objektai/autoriai/Fr. Mager.md#claim-t-30616|Fr. Mager]]: Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.
-- susijęs iš [[objektai/autoriai/F. Gause.md#claim-t-30608|F. Gause]]: F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.
-- susijęs iš [[objektai/autoriai/W. Conze.md#claim-t-31059|W. Conze]]: W. Conze rašė apie I pasaulinį karą.
+
 ## Citatos
 
 - id: c-32927

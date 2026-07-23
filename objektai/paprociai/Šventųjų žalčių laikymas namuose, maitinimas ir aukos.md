@@ -78,7 +78,7 @@ Nenurodyta
     - c-172675
 
 <a id="claim-t-197273"></a>
-- t-004
+- t-003
   teiginys: "Lietuviai tam tikriems burtams naudodavo žvakes, paga mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal čių karalius su visa didžiule roplių svita."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -174,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

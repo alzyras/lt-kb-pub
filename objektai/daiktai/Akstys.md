@@ -76,9 +76,6 @@ Nenurodyta
   pagrindžia:
     - c-56416
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10236

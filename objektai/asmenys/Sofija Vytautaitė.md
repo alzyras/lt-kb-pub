@@ -46,7 +46,7 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   pagrindžia:
     - c-76238
     - c-76237
-- susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
+
 ## Citatos
 
 - id: c-76237

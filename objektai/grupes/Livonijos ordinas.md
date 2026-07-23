@@ -16,15 +16,15 @@ datos:
   - '1430 m.'
 date_start: '1225'
 date_end: '1430'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kariuomenė
   - ordinas
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-12379"></a>
-- t-011
+- t-001
   teiginys: "Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-181273
 
 <a id="claim-t-179351"></a>
-- t-066
+- t-002
   teiginys: "1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ media_all_json: |-
     - c-181302
 
 <a id="claim-t-179352"></a>
-- t-110
+- t-003
   teiginys: "1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ media_all_json: |-
     - c-181254
 
 <a id="claim-t-179356"></a>
-- t-086
+- t-004
   teiginys: "Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ media_all_json: |-
     - c-181263
 
 <a id="claim-t-179357"></a>
-- t-077
+- t-005
   teiginys: "Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ media_all_json: |-
     - c-181276
 
 <a id="claim-t-179363"></a>
-- t-082
+- t-006
   teiginys: "Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ media_all_json: |-
     - c-181262
 
 <a id="claim-t-179366"></a>
-- t-074
+- t-007
   teiginys: "Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ media_all_json: |-
     - c-181271
 
 <a id="claim-t-179367"></a>
-- t-069
+- t-008
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ media_all_json: |-
     - c-181275
 
 <a id="claim-t-179369"></a>
-- t-085
+- t-009
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -218,7 +218,7 @@ media_all_json: |-
     - c-181295
 
 <a id="claim-t-179370"></a>
-- t-023
+- t-010
   teiginys: "Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -237,7 +237,7 @@ media_all_json: |-
     - c-181268
 
 <a id="claim-t-179374"></a>
-- t-104
+- t-011
   teiginys: "1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -259,7 +259,7 @@ media_all_json: |-
     - c-181274
 
 <a id="claim-t-179377"></a>
-- t-087
+- t-012
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -279,7 +279,7 @@ media_all_json: |-
     - c-181252
 
 <a id="claim-t-179378"></a>
-- t-028
+- t-013
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -298,7 +298,7 @@ media_all_json: |-
     - c-181255
 
 <a id="claim-t-179379"></a>
-- t-105
+- t-014
   teiginys: "Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -317,7 +317,7 @@ media_all_json: |-
     - c-181278
 
 <a id="claim-t-179381"></a>
-- t-108
+- t-015
   teiginys: "1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -337,7 +337,7 @@ media_all_json: |-
     - c-181251
 
 <a id="claim-t-179382"></a>
-- t-068
+- t-016
   teiginys: "Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui."
   atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
@@ -350,7 +350,7 @@ media_all_json: |-
     - c-181262
 
 <a id="claim-t-179384"></a>
-- t-033
+- t-017
   teiginys: "1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -369,7 +369,7 @@ media_all_json: |-
     - c-181290
 
 <a id="claim-t-179387"></a>
-- t-078
+- t-018
   teiginys: "1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -391,7 +391,7 @@ media_all_json: |-
     - c-181279
 
 <a id="claim-t-179388"></a>
-- t-062
+- t-019
   teiginys: "Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -408,7 +408,7 @@ media_all_json: |-
     - c-181239
 
 <a id="claim-t-179389"></a>
-- t-064
+- t-020
   teiginys: "Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -425,7 +425,7 @@ media_all_json: |-
     - c-181259
 
 <a id="claim-t-179390"></a>
-- t-067
+- t-021
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -444,7 +444,7 @@ media_all_json: |-
     - c-181292
 
 <a id="claim-t-179391"></a>
-- t-073
+- t-022
   teiginys: "Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -465,7 +465,7 @@ media_all_json: |-
     - c-181265
 
 <a id="claim-t-179392"></a>
-- t-071
+- t-023
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -486,7 +486,7 @@ media_all_json: |-
     - c-181271
 
 <a id="claim-t-179393"></a>
-- t-084
+- t-024
   teiginys: "Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -504,7 +504,7 @@ media_all_json: |-
     - c-181243
 
 <a id="claim-t-179394"></a>
-- t-031
+- t-025
   teiginys: "1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -524,9 +524,9 @@ media_all_json: |-
     - c-181286
 
 <a id="claim-t-179398"></a>
-- t-102
+- t-026
   teiginys: "Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -542,9 +542,9 @@ media_all_json: |-
     - c-181277
 
 <a id="claim-t-179399"></a>
-- t-081
+- t-027
   teiginys: "Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -563,7 +563,7 @@ media_all_json: |-
     - c-181277
 
 <a id="claim-t-179402"></a>
-- t-088
+- t-028
   teiginys: "Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -581,7 +581,7 @@ media_all_json: |-
     - c-181291
 
 <a id="claim-t-179405"></a>
-- t-065
+- t-029
   teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -599,7 +599,7 @@ media_all_json: |-
     - c-181281
 
 <a id="claim-t-179406"></a>
-- t-032
+- t-030
   teiginys: "1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -618,7 +618,7 @@ media_all_json: |-
     - c-181250
 
 <a id="claim-t-179407"></a>
-- t-025
+- t-031
   teiginys: "Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -635,7 +635,7 @@ media_all_json: |-
     - c-181257
 
 <a id="claim-t-179408"></a>
-- t-080
+- t-032
   teiginys: "Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -652,7 +652,7 @@ media_all_json: |-
     - c-181259
 
 <a id="claim-t-179409"></a>
-- t-072
+- t-033
   teiginys: "Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -670,7 +670,7 @@ media_all_json: |-
     - c-181260
 
 <a id="claim-t-179410"></a>
-- t-119
+- t-034
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -690,7 +690,7 @@ media_all_json: |-
     - c-181240
 
 <a id="claim-t-179411"></a>
-- t-083
+- t-035
   teiginys: "Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -709,7 +709,7 @@ media_all_json: |-
     - c-181299
 
 <a id="claim-t-179414"></a>
-- t-027
+- t-036
   teiginys: "Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -726,7 +726,7 @@ media_all_json: |-
     - c-181274
 
 <a id="claim-t-179415"></a>
-- t-026
+- t-037
   teiginys: "Vytautas Konstancijoje atakavo Vokiečių ir Livonijos ordinus, pasinaudodamas Žemaičių krikštu."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -743,7 +743,7 @@ media_all_json: |-
     - c-181283
 
 <a id="claim-t-179417"></a>
-- t-109
+- t-038
   teiginys: "1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -764,9 +764,9 @@ media_all_json: |-
     - c-181285
 
 <a id="claim-t-179420"></a>
-- t-061
+- t-039
   teiginys: "Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -782,7 +782,7 @@ media_all_json: |-
     - c-181277
 
 <a id="claim-t-179421"></a>
-- t-089
+- t-040
   teiginys: "Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -800,7 +800,7 @@ media_all_json: |-
     - c-181256
 
 <a id="claim-t-179424"></a>
-- t-063
+- t-041
   teiginys: "Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -818,7 +818,7 @@ media_all_json: |-
     - c-181294
 
 <a id="claim-t-179426"></a>
-- t-034
+- t-042
   teiginys: "Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -835,7 +835,7 @@ media_all_json: |-
     - c-181276
 
 <a id="claim-t-179431"></a>
-- t-059
+- t-043
   teiginys: "1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -858,7 +858,7 @@ media_all_json: |-
     - c-181294
 
 <a id="claim-t-179434"></a>
-- t-070
+- t-044
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -878,7 +878,7 @@ media_all_json: |-
     - c-181281
 
 <a id="claim-t-179436"></a>
-- t-103
+- t-045
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -897,7 +897,7 @@ media_all_json: |-
     - c-181292
 
 <a id="claim-t-193114"></a>
-- t-120
+- t-046
   teiginys: "Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -911,7 +911,7 @@ media_all_json: |-
     - c-181297
 
 <a id="claim-t-193115"></a>
-- t-121
+- t-047
   teiginys: "Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -924,7 +924,7 @@ media_all_json: |-
     - c-181300
 
 <a id="claim-t-193318"></a>
-- t-122
+- t-048
   teiginys: "Kojelavičiaus pasakojime Livonijos vokiečiai po Livonijos pavergimo užpuolė kuršius, kurie tuo metu priklausė Lietuvai."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -937,7 +937,7 @@ media_all_json: |-
     - c-176046
 
 <a id="claim-t-193321"></a>
-- t-125
+- t-049
   teiginys: "Prūsijos pasienio įvykių metu Livonija, vildamasi pastovios taikos, ilsėjosi nuo karo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -950,7 +950,7 @@ media_all_json: |-
     - c-176051
 
 <a id="claim-t-193322"></a>
-- t-126
+- t-050
   teiginys: "1466 m. žiemos pabaigoje 700 Livonijos raitelių, siųstų kariauti Prūsijoje, susiruošė į žygį, tikėdamiesi išvengti lietuvių saugų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -963,7 +963,7 @@ media_all_json: |-
     - c-176051
 
 <a id="claim-t-193323"></a>
-- t-127
+- t-051
   teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
   atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
@@ -976,7 +976,7 @@ media_all_json: |-
     - c-178534
 
 <a id="claim-t-193324"></a>
-- t-128
+- t-052
   teiginys: "Valteriui Pletenbergui, Livonijos magistrui, iš tiesų labai sekėsi kariauti: keliose kauty nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti Ivano valdas."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -988,7 +988,7 @@ media_all_json: |-
     - c-176052
 
 <a id="claim-t-193838"></a>
-- t-131
+- t-053
   teiginys: "Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš mušė tą vokiečių kariuomenę5 ."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -1001,7 +1001,7 @@ media_all_json: |-
     - c-181296
 
 <a id="claim-t-196110"></a>
-- t-136
+- t-054
   teiginys: "Konradas Mazovietis ir Kulmo vyskupas Kristijonas pakvietė Livonijos riterius į Dobrynę ginti Mazovijos ir Lenkijos nuo prūsų."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1014,7 +1014,7 @@ media_all_json: |-
     - c-178534
 
 <a id="claim-t-196111"></a>
-- t-137
+- t-055
   teiginys: "Kojelavičiaus pasakojime Utenis perkėlė karą iš Kuršo į Livoniją ir privertė priešą ginti savo kraštą, užuot puldinėjus Žemaitiją."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1027,7 +1027,7 @@ media_all_json: |-
     - c-178535
 
 <a id="claim-t-196112"></a>
-- t-138
+- t-056
   teiginys: "Kojelavičiaus pasakojime Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, gal dėkodamas Gediminui arba gailėdamasis Livonijos."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1040,7 +1040,7 @@ media_all_json: |-
     - c-176049
 
 <a id="claim-t-198926"></a>
-- t-036
+- t-057
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1054,7 +1054,7 @@ media_all_json: |-
     - c-181287
 
 <a id="claim-t-198928"></a>
-- t-006
+- t-058
   teiginys: "Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1068,7 +1068,7 @@ media_all_json: |-
     - c-181253
 
 <a id="claim-t-198929"></a>
-- t-001
+- t-059
   teiginys: "Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1086,7 +1086,7 @@ media_all_json: |-
     - c-181280
 
 <a id="claim-t-198930"></a>
-- t-021
+- t-060
   teiginys: "Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -1097,7 +1097,7 @@ media_all_json: |-
     - c-181258
 
 <a id="claim-t-198932"></a>
-- t-048
+- t-061
   teiginys: "Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1109,7 +1109,7 @@ media_all_json: |-
     - c-181261
 
 <a id="claim-t-198934"></a>
-- t-049
+- t-062
   teiginys: "1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1121,7 +1121,7 @@ media_all_json: |-
     - c-181282
 
 <a id="claim-t-198936"></a>
-- t-002
+- t-063
   teiginys: "Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1140,7 +1140,7 @@ media_all_json: |-
     - c-181298
 
 <a id="claim-t-198937"></a>
-- t-057
+- t-064
   teiginys: "Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1152,7 +1152,7 @@ media_all_json: |-
     - c-181289
 
 <a id="claim-t-198943"></a>
-- t-007
+- t-065
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1165,7 +1165,7 @@ media_all_json: |-
     - c-181245
 
 <a id="claim-t-198958"></a>
-- t-018
+- t-066
   teiginys: "Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -1178,7 +1178,7 @@ media_all_json: |-
     - c-181287
 
 <a id="claim-t-198961"></a>
-- t-003
+- t-067
   teiginys: "Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -1198,7 +1198,7 @@ media_all_json: |-
     - c-181287
 
 <a id="claim-t-198963"></a>
-- t-012
+- t-068
   teiginys: "1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1212,7 +1212,7 @@ media_all_json: |-
     - c-181236
 
 <a id="claim-t-198967"></a>
-- t-004
+- t-069
   teiginys: "1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1224,7 +1224,7 @@ media_all_json: |-
     - c-181282
 
 <a id="claim-t-198969"></a>
-- t-056
+- t-070
   teiginys: "Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1237,7 +1237,7 @@ media_all_json: |-
     - c-181253
 
 <a id="claim-t-198974"></a>
-- t-009
+- t-071
   teiginys: "1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1251,7 +1251,7 @@ media_all_json: |-
     - c-181236
 
 <a id="claim-t-198980"></a>
-- t-005
+- t-072
   teiginys: "Andrius Algirdaitis 1385 m. spalio 10 d. pasidavė Livonijos ordinui kaip vasalas, siekdamas atplėšti Polocką nuo LDK."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -1272,7 +1272,7 @@ media_all_json: |-
     - c-181293
 
 <a id="claim-t-198983"></a>
-- t-060
+- t-073
   teiginys: "Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1284,7 +1284,7 @@ media_all_json: |-
     - c-181241
 
 <a id="claim-t-198988"></a>
-- t-008
+- t-074
   teiginys: "Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -1305,7 +1305,7 @@ media_all_json: |-
     - c-181264
 
 <a id="claim-t-198995"></a>
-- t-010
+- t-075
   teiginys: "Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -1317,7 +1317,7 @@ media_all_json: |-
     - c-181267
 
 <a id="claim-t-198997"></a>
-- t-019
+- t-076
   teiginys: "Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -1329,7 +1329,7 @@ media_all_json: |-
     - c-181267
 
 <a id="claim-t-198999"></a>
-- t-015
+- t-077
   teiginys: "Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -1338,53 +1338,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181264
-- susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
-- susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-40102|Ernestas fon Racburgas]]: Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.
-- susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178872|Kryžiuočių ordinas]]: Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.
-- susijęs iš [[objektai/grupes/Livonijos konfederacija.md#claim-t-41065|Livonijos konfederacija]]: 1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171404|Totoriai]]: Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.
-- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas.md#claim-t-35857|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, kuri buvo nukreipta prieš Vytautą.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186749|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186751|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.).md#claim-t-35858|Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]: 1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66811|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66814|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103833|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai.
-- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-183737|Eilartas fon Hobergas]]: Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
-- susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-183738|Ernestas fon Racburgas]]: Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
-- susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
-- susijęs iš [[objektai/asmenys/Kerskorfas.md#claim-t-40283|Kerskorfas]]: Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187719|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu.
-- susijęs iš [[objektai/grupes/Rygos vyskupija.md#claim-t-41134|Rygos vyskupija]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171396|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171412|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.
-- susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
-- susijęs iš Amžina taika su Naugardu D. (1421 m.): Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu.
-- susijęs iš Pskovo 10 metų sutartis: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
-- susijęs iš Kijevas: 1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
-- susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
-- susijęs iš Krėva: Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą.
-- susijęs iš Kulių (Jurgaičių) pilys: 1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.
-- susijęs iš Kurenecas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno.
-- susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš Kuršių marios: 1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.
-- susijęs iš Maskva: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
-- susijęs iš Naugardas: Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.
-- susijęs iš Naugardas: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
-- susijęs iš Nemunas: Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.
-- susijęs iš Nemunas: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
-- susijęs iš Šiaulių žemė: 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.
-- susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
-- susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
+
 ## Reikšmingi paminėjimai
 - c-042
   santrauka: '1466 m. žiemos pabaigoje 700 Livonijos raitelių, siųstų kariauti Prūsijoje, susiruošė į žygį, tikėdamiesi išvengti lietuvių saugų.'
@@ -1470,7 +1424,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00350
@@ -1491,7 +1444,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-022
 
 - id: c-22663
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1507,7 +1460,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-119
+    - t-034
 
 - id: c-36906
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1525,8 +1478,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-028
+    - t-010
+    - t-013
 
 - id: c-36908
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1546,7 +1499,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-037
 
 - id: c-36911
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1569,7 +1522,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-36912
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1590,7 +1543,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-025
 
 - id: c-163058
   sudarytojas: "Karolis Zikaras"
@@ -1619,7 +1572,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109
+    - t-038
 
 - id: c-163060
   autorius: "Michał Baliński"
@@ -1651,7 +1604,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-019
 
 - id: c-163061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1672,7 +1625,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-017
 
 - id: c-163065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1693,8 +1646,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-077
-    - t-034
+    - t-005
+    - t-042
 
 - id: c-163066
   autorius: "Michał Baliński"
@@ -1715,8 +1668,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-082
-    - t-068
+    - t-006
+    - t-016
 
 - id: c-163067
   autorius: "Michał Baliński"
@@ -1754,9 +1707,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102
-    - t-081
-    - t-061
+    - t-026
+    - t-027
+    - t-039
 
 - id: c-163068
   autorius: "Michał Baliński"
@@ -1780,7 +1733,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-085
+    - t-009
 
 - id: c-163070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1799,7 +1752,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-030
 
 - id: c-163071
   redaktorius: "A. Šapoka"
@@ -1820,7 +1773,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-033
 
 - id: c-163074
   autorius: "Petras Dusburgietis"
@@ -1846,7 +1799,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-087
+    - t-012
 
 - id: c-163076
   autorius: "Michał Baliński"
@@ -1867,9 +1820,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
-    - t-070
-    - t-103
+    - t-021
+    - t-044
+    - t-045
 
 - id: c-163078
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1894,9 +1847,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104
-    - t-105
-    - t-027
+    - t-011
+    - t-014
+    - t-036
 
 - id: c-163084
   autorius: "Michał Baliński"
@@ -1918,8 +1871,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
-    - t-080
+    - t-020
+    - t-032
 
 - id: c-163085
   autorius: "Michał Baliński"
@@ -1937,7 +1890,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-002
 
 - id: c-163086
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1959,7 +1912,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-031
 
 - id: c-163089
   autorius: "Michał Baliński"
@@ -1978,8 +1931,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
-    - t-059
+    - t-041
+    - t-043
 
 - id: c-163094
   autorius: "Michał Baliński"
@@ -1998,7 +1951,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-084
+    - t-024
 
 - id: c-163097
   autorius: "Michał Baliński"
@@ -2020,8 +1973,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-078
-    - t-059
+    - t-018
+    - t-043
 
 - id: c-163103
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2042,8 +1995,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104
-    - t-105
+    - t-011
+    - t-014
 
 - id: c-163107
   autorius: "Michał Baliński"
@@ -2075,7 +2028,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-008
 
 - id: c-163112
   autorius: "Michał Baliński"
@@ -2098,8 +2051,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
-    - t-070
+    - t-029
+    - t-044
 
 - id: c-163113
   autorius: "Michał Baliński"
@@ -2118,8 +2071,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
-    - t-103
+    - t-021
+    - t-045
 
 - id: c-163114
   sudarytojas: "Karolis Zikaras"
@@ -2148,7 +2101,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108
+    - t-015
 
 - id: c-163115
   autorius: "Michał Baliński"
@@ -2173,7 +2126,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-086
+    - t-004
 
 - id: c-163116
   autorius: "Michał Baliński"
@@ -2200,7 +2153,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
+    - t-035
 
 - id: c-163118
   autorius: "Michał Baliński"
@@ -2228,7 +2181,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110
+    - t-003
 
 - id: c-163121
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2254,8 +2207,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-028
+    - t-010
+    - t-013
 
 - id: c-163124
   autorius: "Michał Baliński"
@@ -2285,7 +2238,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-081
+    - t-027
 
 - id: c-163127
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2304,7 +2257,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-089
+    - t-040
 
 - id: c-163128
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2329,7 +2282,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-088
+    - t-028
 
 - id: c-163129
   redaktorius: "A. Šapoka"
@@ -2352,8 +2305,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-074
-    - t-071
+    - t-007
+    - t-023
 
 - id: c-175874
   redaktorius: "A. Šapoka"
@@ -2372,7 +2325,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120
+    - t-046
 
 - id: c-175875
   redaktorius: "A. Šapoka"
@@ -2389,7 +2342,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121
+    - t-047
 
 - id: c-176046
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2432,7 +2385,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122
+    - t-048
 
 - id: c-176049
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2464,7 +2417,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-138
+    - t-056
 
 - id: c-176050
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2524,9 +2477,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125
-    - t-126
-    - t-127
+    - t-049
+    - t-050
+    - t-051
 
 - id: c-176052
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2551,7 +2504,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-128
+    - t-052
 
 - id: c-176482
   autorius: "Anoniminis metraštininkas"
@@ -2573,7 +2526,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-131
+    - t-053
 
 - id: c-176486
   autorius: "Anoniminis metraštininkas"
@@ -2596,7 +2549,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-072
 
 - id: c-178534
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2631,8 +2584,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-127
-    - t-136
+    - t-051
+    - t-054
 
 - id: c-178535
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2660,7 +2613,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-137
+    - t-055
 
 - id: c-181236
   autorius: "Zenonas Ivinskis"
@@ -2680,8 +2633,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-009
+    - t-068
+    - t-071
 
 - id: c-181237
   autorius: "Michał Baliński"
@@ -2702,9 +2655,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
-    - t-070
-    - t-103
+    - t-021
+    - t-044
+    - t-045
 
 - id: c-181239
   autorius: "Michał Baliński"
@@ -2736,7 +2689,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-019
 
 - id: c-181240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2752,7 +2705,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-119
+    - t-034
 
 - id: c-181241
   autorius: "Zenonas Ivinskis"
@@ -2772,7 +2725,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-060
+    - t-073
 
 - id: c-181242
   autorius: "Zenonas Ivinskis"
@@ -2793,7 +2746,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-060
 
 - id: c-181243
   autorius: "Michał Baliński"
@@ -2812,7 +2765,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-084
+    - t-024
 
 - id: c-181244
   autorius: "Zenonas Ivinskis"
@@ -2835,8 +2788,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-019
+    - t-075
+    - t-076
 
 - id: c-181245
   autorius: "Zenonas Ivinskis"
@@ -2851,7 +2804,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-065
 
 - id: c-181250
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2870,7 +2823,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-030
 
 - id: c-181251
   sudarytojas: "Karolis Zikaras"
@@ -2899,7 +2852,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108
+    - t-015
 
 - id: c-181252
   autorius: "Petras Dusburgietis"
@@ -2925,7 +2878,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-087
+    - t-012
 
 - id: c-181253
   autorius: "Zenonas Ivinskis"
@@ -2947,8 +2900,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-056
+    - t-058
+    - t-070
 
 - id: c-181254
   autorius: "Michał Baliński"
@@ -2976,7 +2929,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110
+    - t-003
 
 - id: c-181255
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2994,8 +2947,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-028
+    - t-010
+    - t-013
 
 - id: c-181256
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3014,7 +2967,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-089
+    - t-040
 
 - id: c-181257
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3036,7 +2989,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-031
 
 - id: c-181258
   autorius: "Zenonas Ivinskis"
@@ -3057,7 +3010,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-060
 
 - id: c-181259
   autorius: "Michał Baliński"
@@ -3079,8 +3032,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
-    - t-080
+    - t-020
+    - t-032
 
 - id: c-181260
   redaktorius: "A. Šapoka"
@@ -3101,7 +3054,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-033
 
 - id: c-181261
   autorius: "Zenonas Ivinskis"
@@ -3120,7 +3073,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-061
 
 - id: c-181262
   autorius: "Michał Baliński"
@@ -3141,8 +3094,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-082
-    - t-068
+    - t-006
+    - t-016
 
 - id: c-181263
   autorius: "Michał Baliński"
@@ -3167,7 +3120,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-086
+    - t-004
 
 - id: c-181264
   autorius: "Zenonas Ivinskis"
@@ -3189,8 +3142,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-015
+    - t-074
+    - t-077
 
 - id: c-181265
   redaktorius: "A. Šapoka"
@@ -3210,7 +3163,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-022
 
 - id: c-181266
   autorius: "Michał Baliński"
@@ -3248,9 +3201,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102
-    - t-081
-    - t-061
+    - t-026
+    - t-027
+    - t-039
 
 - id: c-181267
   autorius: "Zenonas Ivinskis"
@@ -3273,8 +3226,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-019
+    - t-075
+    - t-076
 
 - id: c-181268
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3300,8 +3253,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-028
+    - t-010
+    - t-013
 
 - id: c-181271
   redaktorius: "A. Šapoka"
@@ -3324,8 +3277,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-074
-    - t-071
+    - t-007
+    - t-023
 
 - id: c-181273
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3348,7 +3301,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-181274
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3373,9 +3326,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104
-    - t-105
-    - t-027
+    - t-011
+    - t-014
+    - t-036
 
 - id: c-181275
   autorius: "Michał Baliński"
@@ -3407,7 +3360,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-008
 
 - id: c-181276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3428,8 +3381,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-077
-    - t-034
+    - t-005
+    - t-042
 
 - id: c-181277
   autorius: "Michał Baliński"
@@ -3467,9 +3420,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102
-    - t-081
-    - t-061
+    - t-026
+    - t-027
+    - t-039
 
 - id: c-181278
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3490,8 +3443,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104
-    - t-105
+    - t-011
+    - t-014
 
 - id: c-181279
   autorius: "Michał Baliński"
@@ -3513,8 +3466,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-078
-    - t-059
+    - t-018
+    - t-043
 
 - id: c-181280
   autorius: "Zenonas Ivinskis"
@@ -3536,7 +3489,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-059
 
 - id: c-181281
   autorius: "Michał Baliński"
@@ -3559,8 +3512,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
-    - t-070
+    - t-029
+    - t-044
 
 - id: c-181282
   autorius: "Zenonas Ivinskis"
@@ -3581,8 +3534,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
-    - t-004
+    - t-062
+    - t-069
 
 - id: c-181283
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3602,7 +3555,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-037
 
 - id: c-181285
   sudarytojas: "Karolis Zikaras"
@@ -3631,7 +3584,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109
+    - t-038
 
 - id: c-181286
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3652,7 +3605,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-025
 
 - id: c-181287
   autorius: "Zenonas Ivinskis"
@@ -3671,9 +3624,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
-    - t-018
-    - t-003
+    - t-057
+    - t-066
+    - t-067
 
 - id: c-181289
   autorius: "Zenonas Ivinskis"
@@ -3695,7 +3648,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-064
 
 - id: c-181290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3716,7 +3669,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-017
 
 - id: c-181291
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3741,7 +3694,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-088
+    - t-028
 
 - id: c-181292
   autorius: "Michał Baliński"
@@ -3760,8 +3713,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
-    - t-103
+    - t-021
+    - t-045
 
 - id: c-181293
   autorius: "Anoniminis metraštininkas"
@@ -3784,7 +3737,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-072
 
 - id: c-181294
   autorius: "Michał Baliński"
@@ -3803,8 +3756,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
-    - t-059
+    - t-041
+    - t-043
 
 - id: c-181295
   autorius: "Michał Baliński"
@@ -3828,7 +3781,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-085
+    - t-009
 
 - id: c-181296
   autorius: "Anoniminis metraštininkas"
@@ -3850,7 +3803,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-131
+    - t-053
 
 - id: c-181297
   redaktorius: "A. Šapoka"
@@ -3869,7 +3822,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-120
+    - t-046
 
 - id: c-181298
   autorius: "Zenonas Ivinskis"
@@ -3886,7 +3839,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-063
 
 - id: c-181299
   autorius: "Michał Baliński"
@@ -3913,7 +3866,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
+    - t-035
 
 - id: c-181300
   redaktorius: "A. Šapoka"
@@ -3930,7 +3883,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121
+    - t-047
 
 - id: c-181302
   autorius: "Michał Baliński"
@@ -3948,7 +3901,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-002
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Švitrigaila]]

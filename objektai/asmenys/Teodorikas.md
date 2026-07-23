@@ -73,7 +73,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-174113
 
 <a id="claim-t-191233"></a>
-- t-004
+- t-003
   teiginys: "Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-174115
 
 <a id="claim-t-196603"></a>
-- t-005
+- t-004
   teiginys: "Nugalėtasis rugijų valdovas maldavo goto Teodoriko pagalbos, o Teodorikas vėliau siūlė herului taiką ir bendrą viešpatavimą Italijoje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-178792
 
 <a id="claim-t-197829"></a>
-- t-006
+- t-005
   teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-174113
 
 <a id="claim-t-197830"></a>
-- t-007
+- t-006
   teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-174115
 
 <a id="claim-t-201037"></a>
-- t-008
+- t-007
   teiginys: "Albertas pakė lė vyskupu igumių Teodoriką, opatą Daugavos įta kos (Diunamiundė)."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - c-184387
 
 <a id="claim-t-201038"></a>
-- t-009
+- t-008
   teiginys: "Teodorikas vienok, kamendotas Kuoknesės, su kitais kareiviais, sekdamos lietuvius, nutykino į paleskavį, su kuriais susitikęs kely susigrūmė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -153,34 +153,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184388
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190945|Odoakras]]: Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.
-- susijęs iš [[objektai/asmenys/Baza.md#claim-t-191375|Baza]]: Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190944|Odoakras]]: Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190945|Odoakras]]: Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191154|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191155|Teodorikas Didysis]]: Narbutas Teodoriką apibūdino kaip ostrogotų valdovą, gudrų, godų ir sumanų žmogų, ištroškusį valdžios bei turtų.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191157|Teodorikas Didysis]]: Teodoriko žygyje į Italiją dalyvavo kariai su šeimomis ir manta, taip pat įvairūs kolonistai, keliavę į Italijos kraštą.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191158|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje.
-- susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/asmenys/Zenonas.md#claim-t-191001|Zenonas]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
-- susijęs iš [[objektai/ivykiai/Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą.md#claim-t-191073|Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą]]: Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
-- susijęs iš [[objektai/asmenys/Frederikas.md#claim-t-191203|Frederikas]]: Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190940|Odoakras]]: Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
-- susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191330|Tufą]]: Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191331|Tufą]]: Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190944|Odoakras]]: Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191331|Tufą]]: Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191330|Tufą]]: Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.'
@@ -265,7 +238,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-006
+    - t-005
 
 - id: c-174115
   autorius: "Teodoras Narbutas"
@@ -289,8 +262,8 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-003
+    - t-006
 
 - id: c-178792
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -320,7 +293,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-184387
   autorius: "Simonas Daukantas"
@@ -341,7 +314,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-184388
   autorius: "Simonas Daukantas"
@@ -363,4 +336,4 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008

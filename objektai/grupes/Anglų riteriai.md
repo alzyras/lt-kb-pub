@@ -45,7 +45,7 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   semantiniai_rysiai: "Anglų riteriai kariavo prieš Lietuviai (0.92); Anglų riteriai buvo sąjungininkas su Kryžiuočių ordinas (0.90)"
   pagrindžia:
     - c-82767
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
+
 ## Citatos
 
 - id: c-82767

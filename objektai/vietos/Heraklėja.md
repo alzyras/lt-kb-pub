@@ -48,7 +48,7 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175643
-- susijęs iš [[objektai/zodynas/emporiumai prekyvietės.md#claim-t-192925|emporiumai prekyvietės]]: Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš Kristaus gimimą klestėjo ir vėliau praturtėjo kaip Olbija, Heraklėja ir Chersonas.
+
 ## Citatos
 
 - id: c-175643

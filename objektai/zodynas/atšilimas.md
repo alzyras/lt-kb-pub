@@ -59,6 +59,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/zodynas/specfondai.md#claim-t-70328|specfondai]]: Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.

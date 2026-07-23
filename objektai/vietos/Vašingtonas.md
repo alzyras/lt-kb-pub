@@ -54,20 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas, išlaikant citatos pagrindžiamus faktus apie Vašingtono susitikimą."
   pagrindžia:
     - c-24547
-- susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
-- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
-- susijęs iš Narystės veiksmų planas pasirengti stojimui į NATO: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
-- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.
-- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.
-- susijęs iš [[objektai/asmenys/Džordžas Robertsonas.md#claim-t-26439|Džordžas Robertsonas]]: Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
-- susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64205|Valdas Adamkus]]: Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
-- susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75051|Šiaurės Atlanto sutarties organizacija (NATO)]]: Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju.
-- susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75056|Šiaurės Atlanto sutarties organizacija (NATO)]]: NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.
-- susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75057|Šiaurės Atlanto sutarties organizacija (NATO)]]: 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-- susijęs iš [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“.md#claim-t-183499|„Mūsų sąjunga pasiryžusi ginti savo nares...“]]: 2002 m. lapkričio 23 d. Vilniuje George'as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais.
-- susijęs iš Praha: 2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.
-- susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
-- susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
+
 ## Citatos
 
 - id: c-24547

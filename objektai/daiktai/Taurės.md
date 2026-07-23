@@ -5,12 +5,6 @@ saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Mūsų tautosaka, t.4 (1931)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
-variantai:
-  - 'Taurė'
-  - 'taurelė'
-  - 'taurelę'
-  - 'taurę'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -44,21 +38,25 @@ Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas.
 - `taurę`
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
 
 <a id="claim-t-195333"></a>
-- t-003
+- t-001
   teiginys: "Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,7 @@ Nenurodyta
     - c-177729
 
 <a id="claim-t-200943"></a>
-- t-005
+- t-002
   teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -77,25 +75,36 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184293
-- susijęs iš [[objektai/autoriai/Hubertas Vautrinas.md#claim-t-200743|Hubertas Vautrinas]]: Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės.
-- susijęs iš [[objektai/autoriai/Jędrzej Kitowicz.md#claim-t-200745|Jędrzej Kitowicz]]: Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais.
-- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200734|Gėrimas iš vienos taurės]]: Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu.
-- susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200735|Gėrimas iš vienos taurės]]: Rimvydas Laužikas mano, kad XVI–XVII a. Lietuvoje gėrimas iš vienos taurės galėjo plisti kopijuojant lenkų bajorus kaip sarmatizmo madą.
-- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200730|Gėrimo iš vienos taurės paprotys]]: Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos taurės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyzdžiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremonialo, dalis.
-- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200731|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės paprotys bajoriškojoje Lietuvos kultūroje išnyko XVIII–XIX a. sandūroje, veikiamas Apšvietos pasaulėžiūros.
-- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200732|Gėrimo iš vienos taurės paprotys]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
-- susijęs iš [[objektai/paprociai/Gėrimo iš vienos taurės paprotys.md#claim-t-200733|Gėrimo iš vienos taurės paprotys]]: Rimvydas Laužikas gėrimą iš vienos taurės laiko labai tolimu senųjų papročių atgarsiu, valstietiškoje kultūroje dar žinotu XX a. pabaigoje–XXI a. pradžioje.
-- susijęs iš Abiejų Tautų Respublika: XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė.
-- susijęs iš Lietuvos Didžioji Kunigaikštystė: Laužikas pabrėžia korporatyvumo skirtumus tarp Vakarų Europos šalių ir Lietuvos aiškindamas gėrimo iš vienos taurės reikšmes.
-- susijęs iš [[objektai/autoriai/Janas Józefas Kauschas.md#claim-t-200744|Janas Józefas Kauschas]]: Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
-- susijęs iš [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės bajorija.md#claim-t-200727|Lietuvos Didžiosios Kunigaikštystės bajorija]]: Kaip ir Vakarų Europoje, gėrimas iš vienos taurės buvo korporatyvinės bendrystės aktas, tarp LDK bajorijos ne tik turėjęs pakartoti vakarietiškas prasmes, bet ir dėl vietos specifikos įgyjęs savitų reikšmių.
-- susijęs iš Vakarų Europa: Laužiko aiškinimu, gėrimas iš vienos taurės Vakarų Europoje buvo korporatyvinės bendrystės aktas, o LDK bajorijoje įgijo savitų reikšmių.
-- susijęs iš [[objektai/zodynas/Korporatyvinė bendrystė.md#claim-t-200725|Korporatyvinė bendrystė]]: Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių.
-- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
-- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195372|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo.
-## Reikšmingi paminėjimai
-Nenurodyta
 
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Mūsų tautosaka, t.4 (1931)
+  citata_originali: |
+    Užsižadėdamas net juokų pridirbo.
+    Kai ryto eisme pri­
+    siekti, o šiandien sumanė padaryti degtinei
+    užgavėnes:
+    parsinešė
+    kelias bonkas degtinės, žinoma, kad užtektų, parsikvietė du kaimynu,
+    ir geria tą degtinę, vis ją keikdami.
+    Kai visą išgėrė, sumanė su­
+    daužyti taurelę.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- c-003
+  šaltinis: Mūsų tautosaka, t.4 (1931)
+  citata_originali: |
+    O taurė stora, kaip koks stiklo burbulas. Paskui ir su­
+    manė duoti į aslos akmenį.
+    Čia vargšei šonas nudužo.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 ## Citatos
 
 - id: c-177729
@@ -117,7 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177730
   autorius: "M. Katkus"
@@ -188,4 +197,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

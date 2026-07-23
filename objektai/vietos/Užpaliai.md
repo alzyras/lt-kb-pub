@@ -57,14 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos."
   pagrindžia:
     - c-39962
-- susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
-- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
-- susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
-- susijęs iš [[objektai/grupes/II brigada.md#claim-t-40890|II brigada]]: II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų.
-- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
-- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
-- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
+
 ## Citatos
 
 - id: c-39962

@@ -41,7 +41,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 ## Teiginiai
 
 <a id="claim-t-120056"></a>
-- t-002
+- t-001
   teiginys: "Jogaila atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-110161
 
 <a id="claim-t-120057"></a>
-- t-003
+- t-002
   teiginys: "Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-37848
 
 <a id="claim-t-120058"></a>
-- t-006
+- t-003
   teiginys: "Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-110164
 
 <a id="claim-t-120059"></a>
-- t-001
+- t-004
   teiginys: "1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-37848
 
 <a id="claim-t-201117"></a>
-- t-007
+- t-006
   teiginys: "Visų pirma, įėjęs į Volynijos kraš tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su gyventojais susinėrusi, didžiai kantriai gynės, vil damos veikios pagalbos nuo lauko ateinančios, kas ir nutiko: pats kunigaikštis Volynijos, patelkęs rim tus pulkus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-184467
 
 <a id="claim-t-201118"></a>
-- t-008
+- t-007
   teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -147,9 +147,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184468
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179673|Skirgaila]]: Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
+
 ## Citatos
 
 - id: c-37848
@@ -175,7 +173,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
     - t-005
 
 - id: c-110161
@@ -199,7 +197,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-110162
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -222,7 +220,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-110164
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -244,7 +242,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-184467
   autorius: "Simonas Daukantas"
@@ -271,7 +269,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-184468
   autorius: "Simonas Daukantas"
@@ -311,4 +309,4 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

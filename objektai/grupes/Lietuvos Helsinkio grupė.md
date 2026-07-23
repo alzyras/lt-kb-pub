@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74673"></a>
-- t-006
+- t-001
   teiginys: "Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ media_all_json: |-
     - c-72709
 
 <a id="claim-t-74674"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-72708
 
 <a id="claim-t-74675"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos Helsinkio grupė susikūrė 1976 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ media_all_json: |-
     - c-72711
 
 <a id="claim-t-74677"></a>
-- t-002
+- t-004
   teiginys: "Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -123,11 +123,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pašalintas antraštinis triukšmas ir paliktas citatos paremtas faktas."
   pagrindžia:
     - c-72713
-- susijęs iš [[objektai/asmenys/Balys Gajauskas.md#claim-t-18846|Balys Gajauskas]]: Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.
-- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19314|Viktoras Petkus]]: Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.
-- susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104186|disidentai disidentinis judėjimas kitaminčiai]]: Sovietinė valdžia žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus, tarp jų Balį Gajauską ir Viktorą Petkų, suimdavo ir nuteisdavo.
-- susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-183415|disidentai disidentinis judėjimas kitaminčiai]]: Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika.
-- susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23534|pogrindis pogrindiniai leidiniai nelegali spauda]]: Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.
+
 ## Citatos
 
 - id: c-72708
@@ -151,7 +147,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-72709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -172,7 +168,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-72711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -193,7 +189,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-72713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,5 +213,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
     - t-005

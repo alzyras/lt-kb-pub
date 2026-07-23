@@ -113,6 +113,7 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   citata_rodoma: "O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes\nžinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­\ntas vėlesnių tyrimų. Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

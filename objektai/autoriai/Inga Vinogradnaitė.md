@@ -52,14 +52,7 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26698
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169881|Alfonsas Eidintas]]: Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169883|Alfredas Bumblauskas]]: 2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169884|Alfredas Bumblauskas]]: Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
-- susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
-- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-169887|Antanas Kulakauskas]]: Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.
-- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
-- susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65773|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.
+
 ## Citatos
 
 - id: c-26698

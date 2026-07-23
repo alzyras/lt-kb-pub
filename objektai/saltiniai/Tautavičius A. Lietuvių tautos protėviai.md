@@ -7,12 +7,12 @@ datos:
   - '1968 m.'
 date_start: '1968'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,36 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad tautavičius A.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
-      Tholomei Lucensis Anna les.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61944
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
-  citata_rodoma: "Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -82,3 +52,32 @@ Dusburgietis teigia, kad tautavičius A.
   temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, pavadinimą, leidinį, metus ir numerį."
   pagrindžia:
     - c-61944
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
+      Tholomei Lucensis Anna les.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-61944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17.
+  citata_rodoma: "Tautavičius A. Lietuvių tautos protėviai.— MG, 1968, Nr. 8, p. 12—17."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -70,9 +70,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59249
-- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64746|M. Tepenas]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
-- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
-- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192929|Sudargai]]: Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais ir dviem Sudargais vadinamais miesteliais.
+
 ## Citatos
 
 - id: c-59248

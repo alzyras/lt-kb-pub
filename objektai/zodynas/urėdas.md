@@ -38,7 +38,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ## Teiginiai
 
 <a id="claim-t-12598"></a>
-- t-002
+- t-001
   teiginys: "Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-14719
 
 <a id="claim-t-12599"></a>
-- t-003
+- t-002
   teiginys: "Vytauto laikais įvedami lenkiški urėdai žymi administracijos pertvarką."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-14720
 
 <a id="claim-t-70375"></a>
-- t-004
+- t-003
   teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-166383
 
 <a id="claim-t-200956"></a>
-- t-006
+- t-004
   teiginys: "Lygia dalia kryžėjai numanė orumą to krašto, kurie kaip įmaną steigė lietuviams kelią per upį Osą užtverti, kaipogi didy sis mistras liepė urėdui kryžėjų parulbežy Pamezonijos ir Kulmijos ant skardžio stiprią pilį įkurti ir įgulę gausią tenai įdėti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-184306
 
 <a id="claim-t-200957"></a>
-- t-007
+- t-005
   teiginys: "Gediminas nuo savo pusės prižadėjo jų tikybą, arba vierą, kalbą, dobę ir apsiėjimus jų bočių probočių užlaikyti ir niekam pikto nedaryti; idant jis kuo didesniai ūkinykams Kijevo pasigerintų, padėjo tenai urėdu Mintautą, kunigaikštį Alšėnų, kursai neseniai."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-184307
 
 <a id="claim-t-200958"></a>
-- t-008
+- t-006
   teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -124,15 +124,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184308
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
-- susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113660|pavietas]]: Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.
-- susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113661|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
-- susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113663|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
-- susijęs iš [[objektai/zodynas/pilies teismas.md#claim-t-03118|pilies teismas (pilis)]]: Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.
-- susijęs iš [[objektai/zodynas/seniūnas storasta.md#claim-t-36834|seniūnas storasta]]: Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200664|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200665|seimelis]]: Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-200666|seimelis]]: Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
+
 ## Citatos
 
 - id: c-14719
@@ -150,7 +142,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-14720
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -168,7 +160,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-69409
   redaktorius: "A. Šapoka"
@@ -187,7 +179,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-166383
   redaktorius: "A. Šapoka"
@@ -207,7 +199,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-184306
   autorius: "Simonas Daukantas"
@@ -231,7 +223,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-184307
   autorius: "Simonas Daukantas"
@@ -258,7 +250,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-184308
   autorius: "Simonas Daukantas"
@@ -279,4 +271,4 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006

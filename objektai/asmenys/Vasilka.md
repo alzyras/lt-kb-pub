@@ -9,15 +9,15 @@ datos:
   - '1247 m.'
 date_start: '1247'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - c-169530
 
 <a id="claim-t-190996"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - c-173878
 
 <a id="claim-t-194005"></a>
-- t-004
+- t-003
   teiginys: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - c-176630
 
 <a id="claim-t-196624"></a>
-- t-005
+- t-004
   teiginys: "Vasilka ir Švarnas Kojelavičiaus pasakojime pakvietė Vaišvilką į Vladimirą, o Vaišvilkas jais pasikliovė ir nusileido jų prašymams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - c-169530
 
 <a id="claim-t-197839"></a>
-- t-008
+- t-005
   teiginys: "Vasilka buvo baiminamasi didžiausio pralaimėjimo, jei šios provincijos ir gentys, sudariusios tarpusavio sąjungą, kartu, bendromis jėgomis užpultų Kryžiuočių or1 Henning."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,16 +107,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173877
-- susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš [[objektai/asmenys/Lozorius.md#claim-t-191439|Lozorius]]: Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191004|Ziemovitas]]: Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-192507|Vėliavos]]: Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187752|Žemaičiai]]: Danieliaus ir Vasilkos pasiųstas Vykintas sidabru ir įvairiomis dovanomis palenkė jotvingius ir pusę žemaičių.
-- susijęs iš Drohičinas: Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino.
-- susijęs iš Haličas: Po pergalės prie Drohičino kunigaikštis Vasilka daug belaisvių jotvingių pasiuntė į Haličą savo broliui.
-- susijęs iš Prūsija: Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją.
-- susijęs iš Voluinės Vladimiras: 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti.'
@@ -144,7 +135,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169530
@@ -177,7 +167,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-173877
   autorius: "Teodoras Narbutas"
@@ -204,7 +194,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-173878
   autorius: "Teodoras Narbutas"
@@ -224,7 +214,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-176630
   autorius: "Anoniminis metraštininkas"
@@ -248,7 +238,7 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Vasilka siuntė į [[objektai/vietos/Haličas]]

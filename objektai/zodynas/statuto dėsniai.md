@@ -38,7 +38,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Teiginiai
 
 <a id="claim-t-70335"></a>
-- t-002
+- t-001
   teiginys: "Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     - c-46929
 
 <a id="claim-t-70336"></a>
-- t-001
+- t-002
   teiginys: "Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-46929
   redaktorius: "A. Šapoka"
@@ -131,7 +131,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166376
   redaktorius: "A. Šapoka"

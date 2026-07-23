@@ -36,7 +36,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Teiginiai
 
 <a id="claim-t-168684"></a>
-- t-002
+- t-001
   teiginys: "Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     - c-153485
 
 <a id="claim-t-168689"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,24 +65,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175908
-- susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
-- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
-- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
-- susijęs iš [[objektai/autoriai/Martynas Mažvydas Vaitkūnas.md#claim-t-64753|Martynas Mažvydas Vaitkūnas]]: Mažvydas rašė lietuviškas protestantiškas knygas.
-- susijęs iš [[objektai/autoriai/Stanislovas Rapagelionis.md#claim-t-05728|Stanislovas Rapagelionis]]: Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.
-- susijęs iš [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo.md#claim-t-01930|Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]: Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.
-- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
-- susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
-- susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
-- susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
-- susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
-- susijęs iš Skandinavija: Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.
-- susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
-- susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
-- susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
+
 ## Citatos
 
 - id: c-153481
@@ -104,7 +87,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-153485
   redaktorius: "A. Šapoka"
@@ -124,7 +107,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175908
   redaktorius: "A. Šapoka"

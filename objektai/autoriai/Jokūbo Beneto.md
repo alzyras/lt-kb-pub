@@ -56,8 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata pagrindžia poemos autorystę ir išleidimo metus."
   pagrindžia:
     - c-42418
-- susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
-- susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
+
 ## Citatos
 
 - id: c-42418

@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Plunksnų pirkliai
 sukurta: '2026-07-12'
 variantai:
-  - 'plunksnų pirkliai'
+  - plunksnų pirkliai
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -68,6 +68,7 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
   citata_rodoma: "Tam panaši ir jų kalba: esą plunksnų pirkliai, perką kur geras plunksnas ir pūkus."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

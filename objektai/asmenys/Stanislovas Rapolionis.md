@@ -56,8 +56,7 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki tiesiogiai asmenį apibūdinančio fakto."
   pagrindžia:
     - c-21988
-- susijęs iš Karaliaučius: 1544 m. įkurtame Karaliaučiaus universitete Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais profesoriais.
-- susijęs iš Karaliaučius: Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais 1544 m. įkurto Karaliaučiaus universiteto profesoriais.
+
 ## Citatos
 
 - id: c-21988

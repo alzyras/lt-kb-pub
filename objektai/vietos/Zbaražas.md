@@ -47,9 +47,7 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168682
-- susijęs iš Mažoji Rosė (Roska): Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo.
-- susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
-- susijęs iš Višniovecas: Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo palikuonys Zbaražskiai ir Višnioveckiai.
+
 ## Citatos
 
 - id: c-168682

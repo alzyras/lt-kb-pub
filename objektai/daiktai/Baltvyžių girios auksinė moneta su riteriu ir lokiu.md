@@ -64,7 +64,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Baltvyžių girios: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citatoje moneta priskiriama tam kraštui; pagal claim kontekstą tai Baltvyžių girios."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Baltvyžių girios auksinė moneta su riteriu ir lokiu priklausė Baltvyžių girios (0.66)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-174952

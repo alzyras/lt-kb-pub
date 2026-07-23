@@ -69,10 +69,7 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172392
-- susijęs iš [[objektai/autoriai/Swięcki.md#claim-t-190457|Swięcki]]: Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.
-- susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
-- susijęs iš [[objektai/zodynas/Trizna.md#claim-t-189183|Trizna]]: Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė.
-- susijęs iš Seversko žemė: Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės.
+
 ## Citatos
 
 - id: c-172391

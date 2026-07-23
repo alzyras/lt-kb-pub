@@ -46,8 +46,7 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
   semantiniai_rysiai: "Aleksandras Vygantas gyveno Vilnius (0.92); Aleksandras Vygantas buvo valdovas Kernavė (0.82); Aleksandras Vygantas buvo valdovas Krėva (0.82)"
   pagrindžia:
     - c-83402
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
-- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
+
 ## Citatos
 
 - id: c-83402

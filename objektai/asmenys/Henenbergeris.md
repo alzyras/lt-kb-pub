@@ -8,15 +8,15 @@ datos:
   - '1584 m.'
 date_start: '1584'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - istorikas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -152,7 +152,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-172891
 
 <a id="claim-t-190864"></a>
-- t-008
+- t-007
   teiginys: "Narbutas Henenbergerį mini tarp kronikininkų, citavusių pirmojo Kulmo, arba Prūsijos, vyskupo Kristijono kroniką apie senovės Prūsiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-173746
 
 <a id="claim-t-190865"></a>
-- t-009
+- t-008
   teiginys: "Narbutas nurodo, kad XV a. prūsų kronikininkas Henenbergeris pateikė daugiau jau neegzistuojančių Nemuno deltos šakų pavadinimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-173747
 
 <a id="claim-t-191951"></a>
-- t-010
+- t-009
   teiginys: "Narbutas remiasi Henenbergeriu kaip patvirtinimu, kad buvo sudinų gentis arba taip vadinta giminė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -212,7 +212,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-174833
 
 <a id="claim-t-194705"></a>
-- t-011
+- t-010
   teiginys: "Henenbergeris pats prisipažįsta, o kiti pagal matomus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja arba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kalba apie tuos pačius vyriausiuosius žynius net plačiau ir su gerokai išsamesniais paaiškinimais negu Simonas Grunau17."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-177101
 
 <a id="claim-t-197399"></a>
-- t-012
+- t-011
   teiginys: "Henenbergeris buvo labai piktas, todėl jį laikydavo visokio blogio kaltininku."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -236,7 +236,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-172886
 
 <a id="claim-t-197743"></a>
-- t-013
+- t-012
   teiginys: "XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -248,6 +248,23 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     - c-173747
 
 ## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Sis paprotys lietuviams
+    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
+    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
+    kad jiems būtų suteikti herbai - taip būdavo Lenkijoje. Bet, ne­
+    paisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje
+    šeimos herbai egzistavo*. Vienas kitas aiškiai lietuviškas her­
+    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
+    rios tais herbais naudojosi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Narbutas nurodo, kad XV a. prūsų kronikininkas Henenbergeris pateikė daugiau jau neegzistuojančių Nemuno deltos šakų pavadinimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -264,12 +281,35 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
     jos tik prie Dreiškių kaimo vėl susilieja į vieną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-013
 
+- c-011
+  santrauka: 'Henenbergeris pats prisipažįsta, o kiti pagal matomus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja arba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kalba apie tuos pačius vyriausiuosius žynius net plačiau ir su gerokai išsamesniais paaiškinimais negu Simonas Grunau17.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
+    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
+    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
+    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
+    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
+    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
+    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
+    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
+    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
+    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
+    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
+    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
+    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
+    galbūt įtikintume savo naudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172886
@@ -295,7 +335,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-172887
   autorius: "Teodoras Narbutas"
@@ -452,7 +492,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-173747
   autorius: "Teodoras Narbutas"
@@ -482,8 +522,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-013
+    - t-008
+    - t-012
 
 - id: c-174833
   autorius: "Teodoras Narbutas"
@@ -503,7 +543,7 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-177101
   autorius: "Teodoras Narbutas"
@@ -530,4 +570,4 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010

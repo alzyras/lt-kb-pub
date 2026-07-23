@@ -74,8 +74,7 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83510
-- susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
-- susijęs iš Kalnas prie Vilnelės: Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.
+
 ## Citatos
 
 - id: c-83510

@@ -55,10 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-166910
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80778|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80779|Abiejų Tautų Respublika]]: 1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169842|Liublino unija (1569 m.)]]: 1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.
-- susijęs iš Liublino unijos aktas (1569 m.): 1569 m. sudaryta Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
+
 ## Citatos
 
 - id: c-166910

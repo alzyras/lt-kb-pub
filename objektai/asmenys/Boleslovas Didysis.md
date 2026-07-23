@@ -44,7 +44,7 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83615
-- susijęs iš [[objektai/daiktai/Vaišių stalai.md#claim-t-55058|Vaišių stalai]]: Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.
+
 ## Citatos
 
 - id: c-83615

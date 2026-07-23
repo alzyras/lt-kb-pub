@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62844"></a>
-- t-002
+- t-001
   teiginys: "Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-63675
 
 <a id="claim-t-62845"></a>
-- t-003
+- t-002
   teiginys: "Kulmo ir Lubavos žemių dovanojimas buvo atliktas apie 1226 arba 1230 metus, dalyvaujant dvasininkų ir pasauliečių liudytojams."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-63676
 
 <a id="claim-t-62846"></a>
-- t-001
+- t-003
   teiginys: "Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-63676
   autorius: "Petras Dusburgietis"
@@ -165,5 +165,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-001

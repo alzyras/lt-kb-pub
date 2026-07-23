@@ -9,7 +9,7 @@ variantai:
   - 'Linartų'
 aliases: []
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 bukle: 'juodrastis'
 laikotarpis: ''
 datos: []
@@ -58,7 +58,7 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
 ## Teiginiai
 
 <a id="claim-t-195510"></a>
-- t-002
+- t-001
   teiginys: "Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -66,7 +66,7 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177932
-- susijęs iš [[objektai/asmenys/Plačiukas (Ažytėnų gertuvės epizodas).md#claim-t-195539|Plačiukas (Ažytėnų gertuvės epizodas)]]: Plačiukas į gertuvę atėjo su svečiu ir ten sėdo gerti.
+
 ## Citatos
 
 - id: c-177930
@@ -121,4 +121,4 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

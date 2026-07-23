@@ -36,7 +36,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 ## Teiginiai
 
 <a id="claim-t-64725"></a>
-- t-004
+- t-001
   teiginys: "M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - c-65359
 
 <a id="claim-t-64726"></a>
-- t-001
+- t-002
   teiginys: "M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
     - c-65361
 
 <a id="claim-t-64727"></a>
-- t-002
+- t-003
   teiginys: "M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -91,12 +91,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas palaiko konkretų faktą apie publikaciją."
   pagrindžia:
     - c-65360
-- susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
-- susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
-- susijęs iš 1248 m. Kristburgo sutartis: M. Poliakuvna pažymėjo, kad Dusburgietis 1248 m. Sventopelko ir Ordino Kristburgo sutartį panaudojo labai savavališkai.
-- susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
-- susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.'
@@ -104,10 +99,28 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   citata_originali: |
     Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vis dėlto vertėtų manyti, kad Petras iš Dusburgo, rašydamas
+    kroniką, gyveno rytinėje Kryžiuočių valstybės dalyje, veikiausiai Karaliaučiuje, nes tik
+    kronikos papildymuose pirmą kartą ryškiau iškyla „vakarinė“ autoriaus orientacija. Todėl
+    manoma, kad autorius persikėlė arčiau didžiojo magistro ryšium su kronikos dedikavimu
+    Verneriui64.
+    Buvo nuomonių, kad kronikos autorius kilęs iš pareinio Duisburgo. Pastaruoju metu jį
+    bandoma kildinti iš olandų Dusburgo (Doesburg), į rytus nuo Utrechto esančio miesto,
+    kur Vokiečių ordinas veikė nuo XIII а.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
 
 ## Citatos
 
@@ -139,7 +152,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-65360
   autorius: "Petras Dusburgietis"
@@ -155,7 +168,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-65361
   autorius: "Petras Dusburgietis"
@@ -174,4 +187,4 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

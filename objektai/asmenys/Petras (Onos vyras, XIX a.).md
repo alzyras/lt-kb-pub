@@ -52,7 +52,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 ## Teiginiai
 
 <a id="claim-t-195549"></a>
-- t-002
+- t-001
   teiginys: "Petras tą rudenį išliko nuo rekrutų ir prieš Užgavėnes vedė Oną."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -62,7 +62,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     - c-177969
 
 <a id="claim-t-195550"></a>
-- t-001
+- t-002
   teiginys: "Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -139,7 +139,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177969
   autorius: "M. Katkus"
@@ -155,4 +155,4 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

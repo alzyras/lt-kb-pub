@@ -90,20 +90,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174201
-- susijęs iš [[objektai/asmenys/Sterverkas.md#claim-t-191982|Sterverkas]]: Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191239|Vyresnysis Starkateras]]: Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191240|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/asmenys/Chunigardija.md#claim-t-191381|Chunigardija]]: Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės Rusioje auklėjo Fridleifą.
-- susijęs iš [[objektai/asmenys/Flokas.md#claim-t-191397|Flokas]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/asmenys/Fridleifas.md#claim-t-191268|Fridleifas]]: Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą.
-- susijęs iš [[objektai/asmenys/Frotonas III.md#claim-t-191141|Frotonas III]]: Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą.
-- susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-192500|Kalavijai]]: Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje.
-- susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-192501|Kalavijas]]: Narbutas pasakoja, kad Starkateras liepė apsiūti kalaviją plona oda, kad Vizino burtai jo nepaveiktų dvikovoje.
-- susijęs iš [[objektai/ivykiai/Fridleifo Danijos sosto susigrąžinimas.md#claim-t-191061|Fridleifo Danijos sosto susigrąžinimas]]: Narbuto pasakojimu, Frotono III sūnus Fridleifas buvo auklėjamas Rusioje ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.
-- susijęs iš Danija: Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.
-- susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
-- susijęs iš Rusia: Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.
+
 ## Citatos
 
 - id: c-174199

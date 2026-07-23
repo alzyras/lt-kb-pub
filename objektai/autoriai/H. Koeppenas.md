@@ -43,10 +43,7 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65285
-- susijęs iš [[objektai/autoriai/H. Koeppen.md#claim-t-60712|H. Koeppen]]: H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179515|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama ir sulaukė kelių laidų.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179528|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.
-- susijęs iš [[objektai/autoriai/M. Zeilleris.md#claim-t-30854|M. Zeilleris]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo vertinama ir sulaukė kelių laidų.
+
 ## Citatos
 
 - id: c-65285

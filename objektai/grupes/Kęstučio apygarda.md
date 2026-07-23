@@ -68,11 +68,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176400
-- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41116|Prisikėlimo apygarda]]: 1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas.
-- susijęs iš [[objektai/grupes/Savanorio rinktinė.md#claim-t-39004|Savanorio rinktinė]]: Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.
+
 ## Citatos
 
 - id: c-44778

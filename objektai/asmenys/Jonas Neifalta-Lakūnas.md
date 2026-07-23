@@ -55,7 +55,7 @@ media_all_json: |-
     - c-76150
 
 <a id="claim-t-79051"></a>
-- t-003
+- t-002
   teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ media_all_json: |-
     - c-76150
 
 <a id="claim-t-79052"></a>
-- t-002
+- t-003
   teiginys: "Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-76149
-- susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
+
 ## Citatos
 
 - id: c-76149
@@ -119,7 +119,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76150
   sudarytojas: "Karolis Zikaras"
@@ -145,4 +145,4 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

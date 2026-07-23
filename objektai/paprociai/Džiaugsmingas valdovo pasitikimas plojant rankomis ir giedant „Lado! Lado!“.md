@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09541"></a>
-- t-003
+- t-001
   teiginys: "Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-12303
 
 <a id="claim-t-09542"></a>
-- t-004
+- t-002
   teiginys: "Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -94,5 +94,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

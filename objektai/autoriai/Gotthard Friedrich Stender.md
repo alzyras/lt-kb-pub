@@ -38,7 +38,7 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
 ## Teiginiai
 
 <a id="claim-t-191625"></a>
-- t-002
+- t-001
   teiginys: "Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -104,4 +104,4 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

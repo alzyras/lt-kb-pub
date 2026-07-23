@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187954"></a>
-- t-004
+- t-001
   teiginys: "S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::authors"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-170940
 
 <a id="claim-t-187955"></a>
-- t-005
+- t-002
   teiginys: "T. Narbutas pataisoje jau neabejojo, kad Lietuvos bajorų herbyno autorius buvo pats Albertas Vijūkas-Kojalavičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::authors"
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-170939
 
 <a id="claim-t-190623"></a>
-- t-007
+- t-003
   teiginys: "Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ media_all_json: |-
     - c-170939
 
 <a id="claim-t-190624"></a>
-- t-008
+- t-004
   teiginys: "Narbutas kaltino Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties greitinimo papročio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ media_all_json: |-
     - c-173507
 
 <a id="claim-t-190686"></a>
-- t-009
+- t-005
   teiginys: "Albertas Vijūkas-Kojalavičius, Narbuto vertinimu, Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė spragas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ media_all_json: |-
     - c-173568
 
 <a id="claim-t-190687"></a>
-- t-010
+- t-006
   teiginys: "Kojalavičiaus prielaidomis, Narbuto teigimu, rėmęsis Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ media_all_json: |-
     - c-173569
 
 <a id="claim-t-190688"></a>
-- t-011
+- t-007
   teiginys: "Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -167,7 +167,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173570
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190987|Teodoras Narbutas]]: Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.'
@@ -203,7 +203,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170939
@@ -225,9 +224,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
-    - t-007
+    - t-001
+    - t-002
+    - t-003
 
 - id: c-170940
   autorius: "Teodoras Narbutas"
@@ -245,7 +244,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-173506
   autorius: "Teodoras Narbutas"
@@ -287,7 +286,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-173568
   autorius: "Teodoras Narbutas"
@@ -310,7 +309,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-173569
   autorius: "Teodoras Narbutas"
@@ -331,7 +330,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-173570
   autorius: "Teodoras Narbutas"
@@ -354,4 +353,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007

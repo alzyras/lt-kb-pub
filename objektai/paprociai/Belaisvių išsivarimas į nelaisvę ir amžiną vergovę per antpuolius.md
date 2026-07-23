@@ -102,6 +102,7 @@ Nenurodyta
   citata_rodoma: "Po to priėjo Torunę ir sudegino\nligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę\nprie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai\natkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog\nneįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -10,14 +10,14 @@ datos:
   - '2026 m.'
 date_start: '1773'
 date_end: '2026'
-amziai:
-  - 'XVIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - institucija
+amziai:
+  - 'XVIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 ## Teiginiai
 
 <a id="claim-t-182712"></a>
-- t-023
+- t-001
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - c-166128
 
 <a id="claim-t-182713"></a>
-- t-022
+- t-002
   teiginys: "1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,13 +88,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166328
-- susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66929|Targovicos konfederacija (1792—1793 m.)]]: Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.
-- susijęs iš [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.).md#claim-t-66931|Targovicos konfederacija (1792—1793 m.)]]: Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.
-- susijęs iš Targovicos konfederacijos aktas (1792 m.): Targovicos konfederacija taip vadinama dėl vietos, kurioje buvo paskelbtas jos aktas.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107734|Edukacinė Komisija]]: Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107739|Edukacinė Komisija]]: Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.
-- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107742|Edukacinė Komisija]]: Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.
-- susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-74186|Ketverių metų seimas]]: Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
@@ -117,7 +111,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-166128
@@ -140,8 +133,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-022
+    - t-001
+    - t-002
 
 - id: c-166129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

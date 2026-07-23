@@ -61,8 +61,7 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174364
-- susijęs iš [[objektai/daiktai/Auksiniai ir sidabriniai medaliai.md#claim-t-193009|Auksiniai ir sidabriniai medaliai]]: Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.
-- susijęs iš [[objektai/daiktai/Auksiniai ir sidabriniai medaliai.md#claim-t-193009|Auksiniai ir sidabriniai medaliai]]: Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju.'
@@ -83,11 +82,11 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

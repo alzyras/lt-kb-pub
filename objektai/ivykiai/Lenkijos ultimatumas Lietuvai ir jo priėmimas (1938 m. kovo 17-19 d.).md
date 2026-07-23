@@ -72,7 +72,7 @@ Nenurodyta
     - c-22990
 
 <a id="claim-t-75118"></a>
-- t-004
+- t-002
   teiginys: "Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-22992
 
 <a id="claim-t-75120"></a>
-- t-002
+- t-004
   teiginys: "Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-22992
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -188,7 +188,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
     - t-003
 
 - id: c-166621
@@ -207,4 +207,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004

@@ -30,7 +30,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 ## Teiginiai
 
 <a id="claim-t-75600"></a>
-- t-003
+- t-001
   teiginys: "Posakis „Kalta istorija“ vartojamas aiškinant, kad dėl Lietuvos istorijos komplikuotumo nekalti Lietuvos istorikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     - c-23551
 
 <a id="claim-t-75601"></a>
-- t-001
+- t-002
   teiginys: "Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     - c-23550
 
 <a id="claim-t-75602"></a>
-- t-002
+- t-003
   teiginys: "Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-23551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -123,5 +123,5 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-002

@@ -72,11 +72,11 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
     tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

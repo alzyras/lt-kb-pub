@@ -7,13 +7,13 @@ datos:
   - '1386 m.'
 date_start: '1386'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sutartis
   - ivykis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,11 +90,10 @@ Nenurodyta
     Ju riju s Svetoslavovičlus įsipareigojo neberem ti Polocko kunigaikš­
     čio Andriaus Algirdalčio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169950

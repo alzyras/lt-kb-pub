@@ -69,7 +69,7 @@ media_all_json: |-
     - c-175406
 
 <a id="claim-t-192639"></a>
-- t-005
+- t-003
   teiginys: "Narbutas aiškino, kad Pripetės vaga į kairiąją Dnepro šaką įsiliedavo priešais Desnos žiotis arba kiek žemiau."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-175409
 
 <a id="claim-t-197863"></a>
-- t-006
+- t-004
   teiginys: "Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de šiniąją, senų geografų vadinamą Borysthenis occidentale latus vagą, kuri įsiliejo priešais Desnos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -99,25 +99,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175409
-- susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186784|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: 1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės.
-- susijęs iš Dnepras: Narbutas rašė, kad senoji kairioji Dnepro šaka driekėsi nuo Beržūnos iki Desnos žiočių, o prie Kijevo buvo įlankų ir gilių ežerėlių.
-- susijęs iš Dniepras: Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.
-- susijęs iš Dniepras: Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.
-- susijęs iš Dniepras: Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.
-- susijęs iš Dniepras: Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.
-- susijęs iš Seimo upė: Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto upę jis siejo su dabartine Desna.
-- susijęs iš [[objektai/autoriai/M. Vasmeris.md#claim-t-30852|M. Vasmeris]]: M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
-- susijęs iš Beržūna: Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Dniepras: Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Kijevas: Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio.
-- susijęs iš Pripetė: Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą.
-- susijęs iš Dniepras: Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.
-- susijęs iš Dniepras: Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.
-- susijęs iš [[objektai/autoriai/M. Vasmeris.md#claim-t-30852|M. Vasmeris]]: M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
-- susijęs iš Dniepras: Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Dniepras: Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.
-- susijęs iš Dniepras: Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas darė prielaidą, kad gelonai-budinai, keliaudami Seimo tėkme, pasiekė Desną ir per ją pateko prie Dnepro.'
@@ -260,5 +242,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-003
+    - t-004

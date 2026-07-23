@@ -40,7 +40,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Teiginiai
 
 <a id="claim-t-78943"></a>
-- t-009
+- t-001
   teiginys: "Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76047
 
 <a id="claim-t-78945"></a>
-- t-011
+- t-002
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76045
 
 <a id="claim-t-78946"></a>
-- t-008
+- t-003
   teiginys: "Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76044
 
 <a id="claim-t-78947"></a>
-- t-012
+- t-004
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-41855
 
 <a id="claim-t-78949"></a>
-- t-001
+- t-005
   teiginys: "Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-04147
 
 <a id="claim-t-78950"></a>
-- t-010
+- t-006
   teiginys: "1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76043
 
 <a id="claim-t-78953"></a>
-- t-002
+- t-007
   teiginys: "1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-76049
 
 <a id="claim-t-201516"></a>
-- t-013
+- t-008
   teiginys: "1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos raštai buvo įrašyti į Lietuvos Metriką ir taip aktualizuoti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -172,12 +172,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184863
-- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
-- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
-- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
-- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
+
 ## Citatos
 
 - id: c-04147
@@ -200,7 +195,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-41855
   sudarytojas: "Karolis Zikaras"
@@ -225,7 +220,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-004
 
 - id: c-76043
   redaktorius: "A. Šapoka"
@@ -246,7 +241,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-76044
   redaktorius: "A. Šapoka"
@@ -271,7 +266,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-76045
   sudarytojas: "Karolis Zikaras"
@@ -293,7 +288,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-002
 
 - id: c-76047
   redaktorius: "A. Šapoka"
@@ -312,7 +307,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-76049
   sudarytojas: "Karolis Zikaras"
@@ -332,7 +327,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
 
 - id: c-184863
   autorius: "Zigmantas Kiaupa"
@@ -348,7 +343,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-008
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]

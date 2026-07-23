@@ -76,19 +76,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis tekstas turi antraščių ir citatos fragmentų, todėl reikia glausto teiginio apie autoriaus išsakytą vertinimą."
   pagrindžia:
     - c-73215
-- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13492|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui.
-- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75606|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.
-- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75607|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.
-- susijęs iš Descriptive Ethnology: „Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169877|Alfonsas Eidintas]]: Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius.
-- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169880|Alfonsas Eidintas]]: Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.
-- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13491|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.
-- susijęs iš Descriptive Ethnology: Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.
-- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
-- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
-- susijęs iš Europos geografinis centras: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
-- susijęs iš Europos geografinis centras: Geografinis Europos centras nurodomas Lietuvoje.
-- susijęs iš Lietuva: Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.
+
 ## Citatos
 
 - id: c-73214

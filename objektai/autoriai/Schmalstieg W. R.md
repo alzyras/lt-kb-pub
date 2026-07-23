@@ -7,16 +7,16 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kalbininkas
   - mokslininkas
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,11 +44,10 @@ Dusburgietis teigia, kad schmalstieg W.
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the
     Three Catechisms.—London, 1974.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61417
@@ -62,6 +61,7 @@ Dusburgietis teigia, kad schmalstieg W.
   citata_rodoma: "Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the\nThree Catechisms.—London, 1974."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

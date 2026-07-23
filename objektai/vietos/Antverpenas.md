@@ -48,8 +48,7 @@ Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją 
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184117
-- susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200863|Steponas Kristupas Pacas]]: Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene.
-- susijęs iš Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo Upsalensi, Suetiae et Gothiae Primate: Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene.
+
 ## Citatos
 
 - id: c-184117

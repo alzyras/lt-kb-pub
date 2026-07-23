@@ -68,6 +68,7 @@ Nenurodyta
   citata_rodoma: "kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

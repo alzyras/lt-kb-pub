@@ -63,9 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83065
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
-- susijęs iš Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui: Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.
+
 ## Citatos
 
 - id: c-83065

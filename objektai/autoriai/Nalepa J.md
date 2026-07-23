@@ -39,7 +39,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 ## Teiginiai
 
 <a id="claim-t-60515"></a>
-- t-003
+- t-001
   teiginys: "J. Nalepos darbai nurodyti tarp šaltinių, siejant aptariamą antpuolį su 1278–1279 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
     - c-61150
 
 <a id="claim-t-60516"></a>
-- t-004
+- t-002
   teiginys: "J. Nalepos vietovardžių tyrimai Mėrūniškių regione rodo, kad jotvingiai centrinėse žemėse išliko dar ilgai po 1283 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
     - c-61149
 
 <a id="claim-t-60518"></a>
-- t-001
+- t-003
   teiginys: "J. Nalepa pirmykštės gentinės Sūduvos siaurąja prasme ieškojo apie Sūduonią, Šešupės aukštupyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61148
-- susijęs iš Nalepa J. [Dėl A. Vanago pranešimoj: J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86.
+
 ## Citatos
 
 - id: c-61148
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-61149
   autorius: "Petras Dusburgietis"
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-61150
   autorius: "Petras Dusburgietis"
@@ -137,4 +137,4 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

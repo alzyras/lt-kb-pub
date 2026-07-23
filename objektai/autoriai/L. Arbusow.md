@@ -56,7 +56,7 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30664
-- susijęs iš Heinrici Chronicon Livoniae: HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m.
+
 ## Citatos
 
 - id: c-30664

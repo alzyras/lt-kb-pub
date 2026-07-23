@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62678"></a>
-- t-002
+- t-001
   teiginys: "Prūsai pasistatydino daug laivų, kad naikintų maistą į Karaliaučiaus pilį gabenusius brolių laivus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-63419
 
 <a id="claim-t-62679"></a>
-- t-001
+- t-002
   teiginys: "Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -113,11 +113,11 @@ Nenurodyta
     su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
     tiltą bei kuorus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-62680
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -142,8 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-63420
   autorius: "Petras Dusburgietis"
@@ -209,4 +209,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

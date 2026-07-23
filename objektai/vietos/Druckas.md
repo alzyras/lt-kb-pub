@@ -43,7 +43,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 ## Teiginiai
 
 <a id="claim-t-67840"></a>
-- t-002
+- t-001
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - c-43408
 
 <a id="claim-t-67841"></a>
-- t-001
+- t-002
   teiginys: "Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -136,18 +136,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170522
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
-- susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185666|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.
-- susijęs iš [[objektai/asmenys/Jurijus Sviatoslavovičius.md#claim-t-186120|Jurijus Sviatoslavovičius]]: Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
-- susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
-- susijęs iš [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams.md#claim-t-185872|Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]: Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.
-- susijęs iš [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti.md#claim-t-185905|Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]: Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.
-- susijęs iš Luckas: Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.
-- susijęs iš Minskas: Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi.
+
 ## Citatos
 
 - id: c-43408
@@ -170,7 +159,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-43409
   sudarytojas: "Karolis Zikaras"
@@ -218,7 +207,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-168308
   autorius: "Albertas Vijūkas-Kojelavičius"

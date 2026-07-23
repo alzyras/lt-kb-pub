@@ -31,7 +31,7 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
 ## Teiginiai
 
 <a id="claim-t-197050"></a>
-- t-002
+- t-001
   teiginys: "Retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje, paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +61,4 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

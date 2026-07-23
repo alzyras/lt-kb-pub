@@ -44,9 +44,7 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38023
-- susijęs iš [[objektai/asmenys/Inocentas VII.md#claim-t-35101|Inocentas VII]]: Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-184282|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.
+
 ## Citatos
 
 - id: c-38023

@@ -41,7 +41,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 ## Teiginiai
 
 <a id="claim-t-176551"></a>
-- t-005
+- t-001
   teiginys: "Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-160555
 
 <a id="claim-t-176552"></a>
-- t-001
+- t-002
   teiginys: "Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-36467
 
 <a id="claim-t-176554"></a>
-- t-002
+- t-003
   teiginys: "Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-36470
 
 <a id="claim-t-176557"></a>
-- t-003
+- t-005
   teiginys: "Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-36470
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -187,7 +187,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-160556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -208,7 +208,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-160558
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -232,4 +232,4 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005

@@ -11,14 +11,14 @@ datos:
   - '2008 m.'
 date_start: '1974'
 date_end: '2008'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -77,7 +77,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     - c-179209
 
 <a id="claim-t-200715"></a>
-- t-005
+- t-004
   teiginys: "Laužikas pabrėžia korporatyvumo skirtumus tarp Vakarų Europos šalių ir Lietuvos aiškindamas gėrimo iš vienos taurės reikšmes."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     - c-184060
 
 <a id="claim-t-201629"></a>
-- t-006
+- t-005
   teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,7 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-184976
   autorius: "Zigmantas Kiaupa"
@@ -229,4 +229,4 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

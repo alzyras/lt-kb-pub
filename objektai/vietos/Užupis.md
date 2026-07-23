@@ -42,7 +42,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 ## Teiginiai
 
 <a id="claim-t-85023"></a>
-- t-004
+- t-001
   teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81104
 
 <a id="claim-t-85024"></a>
-- t-005
+- t-002
   teiginys: "1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81102
 
 <a id="claim-t-85025"></a>
-- t-002
+- t-003
   teiginys: "Nuo sklypų Užupyje buvo skaičiuojami 168 auksinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81105
 
 <a id="claim-t-85026"></a>
-- t-006
+- t-004
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81104
 
 <a id="claim-t-85028"></a>
-- t-001
+- t-005
   teiginys: "1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81106
 
 <a id="claim-t-188846"></a>
-- t-007
+- t-006
   teiginys: "Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -143,21 +143,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171735
-- susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82171|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
-- susijęs iš [[objektai/asmenys/M. Dejevas.md#claim-t-40311|M. Dejevas]]: Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą.
-- susijęs iš [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.).md#claim-t-86951|Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė bibliotekai lėšas iš mūrinių namų ir Užupio sklypų pelno knygoms gausinti.
-- susijęs iš Aleksandro Jogailaičio dovanojimas Maksimui Vasiljevičiui dėl pievos Užupyje (1493 m. sausio 13 d.): 1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.
-- susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
-- susijęs iš Vaivados malūnas Užupyje: 1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.
-- susijęs iš Vaivados malūnas Užupyje: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.
-- susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
-- susijęs iš [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis.md#claim-t-87159|Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]: Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.
-- susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
-- susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
-- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
-- susijęs iš Tygodnik Wilenski: Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje.
+
 ## Citatos
 
 - id: c-81102
@@ -187,7 +173,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-81104
   autorius: "Michał Baliński"
@@ -209,8 +195,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-006
 
 - id: c-81105
   autorius: "Michał Baliński"
@@ -227,7 +213,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-81106
   sudarytojas: "Karolis Zikaras"
@@ -253,7 +239,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-171735
   autorius: "Teodoras Narbutas"
@@ -279,7 +265,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 - Užėmė Užupį: [[objektai/grupes/Rusai]]

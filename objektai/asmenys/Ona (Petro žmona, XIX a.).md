@@ -58,7 +58,7 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     - c-177970
 
 <a id="claim-t-195554"></a>
-- t-003
+- t-002
   teiginys: "Petro aplinkoje Oną laikė varginga moterimi, dėl kurios jam prikaišiojo žemės nedalijimą."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -68,7 +68,7 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     - c-177972
 
 <a id="claim-t-195555"></a>
-- t-002
+- t-003
   teiginys: "Petras prieš Užgavėnes vedė Oną."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -112,7 +112,7 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-177972
   autorius: "M. Katkus"
@@ -136,4 +136,4 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

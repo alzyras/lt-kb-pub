@@ -62,7 +62,7 @@ Nenurodyta
     - c-168922
 
 <a id="claim-t-185563"></a>
-- t-003
+- t-002
   teiginys: "Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168922
@@ -204,4 +203,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

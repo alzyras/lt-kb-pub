@@ -42,7 +42,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 ## Teiginiai
 
 <a id="claim-t-82222"></a>
-- t-006
+- t-001
   teiginys: "Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78718
 
 <a id="claim-t-82224"></a>
-- t-001
+- t-002
   teiginys: "Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78719
 
 <a id="claim-t-82227"></a>
-- t-005
+- t-003
   teiginys: "Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78720
 
 <a id="claim-t-82228"></a>
-- t-007
+- t-004
   teiginys: "Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78716
-- susijęs iš [[objektai/asmenys/Stanislovas Leščinskis.md#claim-t-79165|Stanislovas Leščinskis]]: Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.
+
 ## Citatos
 
 - id: c-78716
@@ -136,7 +136,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-78718
   redaktorius: "A. Šapoka"
@@ -155,7 +155,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-78719
   sudarytojas: "Karolis Zikaras"
@@ -175,7 +175,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-78720
   redaktorius: "A. Šapoka"
@@ -194,4 +194,4 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

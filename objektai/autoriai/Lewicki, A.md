@@ -39,7 +39,7 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
 ## Teiginiai
 
 <a id="claim-t-54132"></a>
-- t-002
+- t-001
   teiginys: "A. Lewicki 1894 m. paskelbė darbą „Kiedy Witold został wielkiem księciem Litwy“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
     - c-55077
 
 <a id="claim-t-54133"></a>
-- t-001
+- t-002
   teiginys: "A. Lewicki parašė straipsnį „Kiedy Witold został wielkiem księciem Litwy“, paskelbtą KH 1894 m."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -95,5 +95,5 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

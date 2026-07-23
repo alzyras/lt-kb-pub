@@ -102,7 +102,7 @@ Nenurodyta
     - c-178603
 
 <a id="claim-t-196269"></a>
-- t-005
+- t-004
   teiginys: "Pavakaryje Vytautas, apsivilkęs mergaitės drabužiais, praėjo pro sargybinius, nusileido nuo sienų, užsėdo ant žirgo ir paspruko į Mazoviją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -257,4 +257,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

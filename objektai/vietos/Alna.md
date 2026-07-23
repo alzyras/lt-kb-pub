@@ -36,7 +36,7 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
 ## Teiginiai
 
 <a id="claim-t-58515"></a>
-- t-002
+- t-001
   teiginys: "1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
     - c-59147
 
 <a id="claim-t-58516"></a>
-- t-001
+- t-002
   teiginys: "A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,10 +70,7 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59148
-- susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
-- susijęs iš Plikoji Barta: Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe.
-- susijęs iš Prūsų žemė: Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.
-- susijęs iš [[objektai/zodynas/bažnytinė valstybė.md#claim-t-32762|bažnytinė valstybė]]: Vicelegatas Baldvinas de Alna 1231-1234 m. nepajėgė Livonijoje įkurti bažnytinės valstybės dėl kalavijuočių pasipriešinimo.
+
 ## Citatos
 
 - id: c-59147
@@ -93,7 +90,7 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59148
   autorius: "Petras Dusburgietis"
@@ -112,4 +109,4 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

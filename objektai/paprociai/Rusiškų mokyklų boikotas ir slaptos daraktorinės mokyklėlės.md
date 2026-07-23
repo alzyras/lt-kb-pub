@@ -78,7 +78,7 @@ Nenurodyta
     - c-166724
 
 <a id="claim-t-75391"></a>
-- t-004
+- t-002
   teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-73192
 
 <a id="claim-t-75392"></a>
-- t-006
+- t-003
   teiginys: "XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
     - c-73194
 
 <a id="claim-t-75393"></a>
-- t-002
+- t-004
   teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-73192
 
 <a id="claim-t-75394"></a>
-- t-003
+- t-005
   teiginys: "XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Nenurodyta
     - c-73194
 
 <a id="claim-t-183334"></a>
-- t-007
+- t-006
   teiginys: "Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -188,8 +188,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-002
+    - t-004
 
 - id: c-73194
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -222,8 +222,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-003
+    - t-005
 
 - id: c-166724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,4 +245,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
+    - t-006

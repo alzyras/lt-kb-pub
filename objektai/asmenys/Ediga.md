@@ -70,9 +70,7 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
   semantiniai_rysiai: "Timuras kariavo prieš Vytautas (Lietuvos valdovas, XIV–XV a.) (0.66)"
   pagrindžia:
     - c-32720
-- susijęs iš [[objektai/asmenys/Timur-Kutlugas.md#claim-t-30396|Timur-Kutlugas]]: Timur-Kutlugas derybomis siekė laimėti laiko, kol sulauks savo karo vado Edigos dalinių.
-- susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30398|Timuras]]: Timuras derybomis siekė laimėti laiko, nes laukė savo karo vado Edigos dalinių.
-- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-182858|Vytauto ženklas]]: Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.
+
 ## Citatos
 
 - id: c-32719

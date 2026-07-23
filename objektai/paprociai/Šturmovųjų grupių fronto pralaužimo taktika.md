@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67244"></a>
-- t-004
+- t-001
   teiginys: "Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-43183
 
 <a id="claim-t-67245"></a>
-- t-005
+- t-002
   teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-43183
   sudarytojas: "Karolis Zikaras"
@@ -119,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

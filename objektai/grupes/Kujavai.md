@@ -49,7 +49,7 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175756
-- susijęs iš Kujavija: Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slaviškai vadinamo Kuje, miesto apylinkėse.'
@@ -69,11 +69,10 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
     tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
     prie Dnepro net savo pavadinimo pėdsakų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175756

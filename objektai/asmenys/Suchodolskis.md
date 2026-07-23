@@ -55,9 +55,7 @@ Suchodolskio kavalerijos daliniu.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44525
-- susijęs iš [[objektai/asmenys/Karolis Jastržembskis.md#claim-t-40271|Karolis Jastržembskis]]: Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.
-- susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
-- susijęs iš [[objektai/asmenys/Karolis Jastržembskis.md#claim-t-40271|Karolis Jastržembskis]]: Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.
+
 ## Citatos
 
 - id: c-44525

@@ -46,6 +46,7 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
   citata_rodoma: "nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

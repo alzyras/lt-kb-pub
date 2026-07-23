@@ -47,7 +47,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 ## Teiginiai
 
 <a id="claim-t-179557"></a>
-- t-007
+- t-001
   teiginys: "O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163240
 
 <a id="claim-t-179558"></a>
-- t-009
+- t-002
   teiginys: "O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje Vytautui buvo neparanki."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163239
 
 <a id="claim-t-179559"></a>
-- t-011
+- t-003
   teiginys: "O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163244
 
 <a id="claim-t-179560"></a>
-- t-002
+- t-004
   teiginys: "O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163245
 
 <a id="claim-t-179561"></a>
-- t-010
+- t-005
   teiginys: "O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163241
 
 <a id="claim-t-179562"></a>
-- t-001
+- t-006
   teiginys: "O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163242
 
 <a id="claim-t-179563"></a>
-- t-005
+- t-007
   teiginys: "O. Halecki 1930 m. paskelbė darbą „Witold“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-163243
 
 <a id="claim-t-179564"></a>
-- t-004
+- t-008
   teiginys: "O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-04004
 
 <a id="claim-t-179565"></a>
-- t-008
+- t-009
   teiginys: "O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-163238
   autorius: "Zenonas Ivinskis"
@@ -223,7 +223,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-163239
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -245,7 +245,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-163240
   autorius: "Zenonas Ivinskis"
@@ -265,7 +265,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-163241
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -291,7 +291,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005
 
 - id: c-163242
   autorius: "Zenonas Ivinskis"
@@ -309,7 +309,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-163243
   autorius: "Zenonas Ivinskis"
@@ -329,7 +329,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007
 
 - id: c-163244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -351,7 +351,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-003
 
 - id: c-163245
   autorius: "Zenonas Ivinskis"
@@ -373,5 +373,5 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-008
+    - t-004
+    - t-009

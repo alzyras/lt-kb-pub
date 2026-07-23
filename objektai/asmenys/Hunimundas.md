@@ -61,9 +61,7 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174300
-- susijęs iš [[objektai/asmenys/Alarikas (svebų karaliukas).md#claim-t-191336|Alarikas (svebų karaliukas)]]: Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192936|Skiriai]]: Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą.
-- susijęs iš De geticae gentis origine ac rebus gestis: Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.'
@@ -82,11 +80,11 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
     ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
     mi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

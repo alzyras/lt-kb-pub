@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54242"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

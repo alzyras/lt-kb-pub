@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07776"></a>
-- t-004
+- t-001
   teiginys: "Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -60,9 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09932
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -82,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

@@ -68,14 +68,7 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172063
-- susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189780|Kepurės padėjimas teismo priesaikoje]]: Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
-- susijęs iš [[objektai/posakiai/dėjo kepures.md#claim-t-189576|dėjo kepures]]: Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
-- susijęs iš [[objektai/zodynas/Dėti kepurę.md#claim-t-189124|Dėti kepurę]]: Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
-- susijęs iš [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius.md#claim-t-195375|Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]: Prieš priesaiką dar būdavo atsisveikinama su degtine.
-- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199221|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199222|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
+
 ## Citatos
 
 - id: c-172062

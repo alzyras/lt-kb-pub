@@ -77,8 +77,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171340
-- susijęs iš Augsburgas: Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.
-- susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186822|Kryžiuočių kariuomenės dalių vėliavos]]: Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.
+
 ## Citatos
 
 - id: c-84075

@@ -61,19 +61,20 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-167489
 
 <a id="claim-t-194501"></a>
-- t-006
+- t-002
   teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-60675
     - c-167489
 
 <a id="claim-t-197120"></a>
-- t-007
+- t-003
   teiginys: "Konradas Žakas garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,7 +86,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-60677
 
 <a id="claim-t-197121"></a>
-- t-008
+- t-004
   teiginys: "Konradas Žakas nuėjo prie jo ir pasiprašė vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs, jį sutrypė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,11 +96,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60675
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
-- susijęs iš [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas.md#claim-t-185928|Šv. Mykolo dienos bažnyčių lankymas]]: Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.
-- susijęs iš Straisbergas: Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89548|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89553|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė.
+
 ## Citatos
 
 - id: c-60675
@@ -121,7 +118,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
+    - t-004
 
 - id: c-60677
   autorius: "Petras Dusburgietis"
@@ -141,7 +139,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-167489
   autorius: "Petras Dusburgietis"
@@ -164,4 +162,4 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-002

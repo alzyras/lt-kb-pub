@@ -55,12 +55,7 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-72115
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
-- susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72000|pereinamasis laikotarpis]]: Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.
-- susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72001|pereinamasis laikotarpis]]: Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
-- susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72002|pereinamasis laikotarpis]]: Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184754|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
+
 ## Citatos
 
 - id: c-72115

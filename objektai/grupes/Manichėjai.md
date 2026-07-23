@@ -48,7 +48,7 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172344
-- susijęs iš [[objektai/paprociai/Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje.md#claim-t-189939|Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje]]: Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera.
+
 ## Citatos
 
 - id: c-172344

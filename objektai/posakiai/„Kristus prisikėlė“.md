@@ -44,8 +44,7 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44974
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10168|Vėliavos]]: Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176211|Vėliavos]]: Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.
+
 ## Citatos
 
 - id: c-44974

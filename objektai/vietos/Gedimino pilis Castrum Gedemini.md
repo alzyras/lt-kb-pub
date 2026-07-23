@@ -56,7 +56,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - c-81875
 
 <a id="claim-t-85891"></a>
-- t-004
+- t-002
   teiginys: "Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
     - c-81873
 
 <a id="claim-t-85893"></a>
-- t-002
+- t-004
   teiginys: "Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-81873
   autorius: "Michał Baliński"
@@ -183,7 +183,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-81875
   autorius: "Michał Baliński"

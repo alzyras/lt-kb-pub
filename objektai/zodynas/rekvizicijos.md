@@ -69,6 +69,7 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
   citata_rodoma: "Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

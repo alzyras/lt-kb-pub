@@ -42,7 +42,7 @@ Trakų pilis.
 ## Teiginiai
 
 <a id="claim-t-95314"></a>
-- t-008
+- t-001
   teiginys: "Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Trakų pilis.
     - c-90245
 
 <a id="claim-t-95316"></a>
-- t-003
+- t-002
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Trakų pilis.
     - c-90247
 
 <a id="claim-t-95317"></a>
-- t-005
+- t-003
   teiginys: "Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Trakų pilis.
     - c-90250
 
 <a id="claim-t-95318"></a>
-- t-006
+- t-004
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Trakų pilis.
     - c-90247
 
 <a id="claim-t-95319"></a>
-- t-009
+- t-005
   teiginys: "Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Trakų pilis.
     - c-90244
 
 <a id="claim-t-95320"></a>
-- t-001
+- t-006
   teiginys: "Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Trakų pilis.
     - c-37767
 
 <a id="claim-t-95321"></a>
-- t-002
+- t-007
   teiginys: "Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,7 +167,7 @@ Trakų pilis.
     - c-37767
 
 <a id="claim-t-188843"></a>
-- t-004
+- t-008
   teiginys: "Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -185,15 +185,7 @@ Trakų pilis.
   semantiniai_rysiai: "Kryžius priklausė Trakų pilis (pilis) (0.82)"
   pagrindžia:
     - c-171732
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
-- susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
-- susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
-- susijęs iš Trakai: Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė.
-- susijęs iš Trakai: Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.
-- susijęs iš Trakai: Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.
-- susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86455|Arkikomtūras]]: Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis.
-- susijęs iš Kernavė: XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.
-- susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
+
 ## Citatos
 
 - id: c-37767
@@ -216,8 +208,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-006
+    - t-007
 
 - id: c-90244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -239,7 +231,7 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-90245
   autorius: "Michał Baliński"
@@ -260,7 +252,7 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-90247
   autorius: "Michał Baliński"
@@ -295,8 +287,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-002
+    - t-004
 
 - id: c-90250
   autorius: "Michał Baliński"
@@ -322,7 +314,7 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-171732
   autorius: "Teodoras Narbutas"
@@ -343,7 +335,7 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Skirgaila]]

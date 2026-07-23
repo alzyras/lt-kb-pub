@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Oracija
 sukurta: '2026-07-12'
 variantai:
-  - 'oracijos'
+  - oracijos
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -65,6 +65,7 @@ Terminas vartojamas kaip laukiamas apeiginės situacijos pasakymas.
   citata_rodoma: "Tuo sykiu oracijos nebuvo"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,7 +38,7 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 ## Teiginiai
 
 <a id="claim-t-196997"></a>
-- t-002
+- t-001
   teiginys: "Guerquin B galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +70,4 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

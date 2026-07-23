@@ -7,13 +7,13 @@ datos:
   - '1465 m.'
 date_start: '1465'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Nenurodyta
     - c-178593
 
 <a id="claim-t-185533"></a>
-- t-003
+- t-002
   teiginys: "Liudvikas ragino skubėti prieš Mechmedą, nes, jo teigimu, turkų valdovas rengėsi karui prieš krikščionių pasaulį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-168894
 
 <a id="claim-t-196243"></a>
-- t-004
+- t-003
   teiginys: "Žiemos pabaigoje atvyko Lietuvon pas karalių Liud vikas, Antiochijos patriar chas, popiežiaus pasiuntinys."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168892
@@ -168,7 +167,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178593
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -195,4 +194,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003

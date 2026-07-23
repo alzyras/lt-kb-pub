@@ -7,14 +7,14 @@ datos:
   - '1566 m.'
 date_start: '1566'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - unija
   - seimas
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193352"></a>
-- t-004
+- t-001
   teiginys: "1566 m. Lietuvą slėgė rūpesčiai dėl pašlijusios Žygimanto Augusto sveikatos, įpėdinių nebuvimo ir dar nesudarytos unijos su Lenkija."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168880
@@ -202,4 +201,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

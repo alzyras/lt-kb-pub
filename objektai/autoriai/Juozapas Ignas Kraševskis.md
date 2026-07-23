@@ -9,16 +9,16 @@ datos:
   - '1842 m.'
 date_start: '1750'
 date_end: '1842'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,12 +36,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“. Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi.
+Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“. Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi. Juozapas Ignas Kraševskis buvo teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatskiriamais epitetais.
 
 ## Teiginiai
 
 <a id="claim-t-194199"></a>
-- t-002
+- t-001
   teiginys: "Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
     - c-176802
 
 <a id="claim-t-197616"></a>
-- t-003
+- t-002
   teiginys: "Juozapas Ignas Kraševskis buvo teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatskiriamais epitetais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,24 +63,6 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174557
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Oficialūs atgarsiai į T. Narbuto „Lie­
-    tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
-    1835 ir kitais 1836 metais. Tai buvo dvi didelės recenzi­
-    jos: pirmoji išspausdinta leidinyje „Wizerunki i Roztrzą-
-    sania Naukowe“, antroji — oficioze „Tygodnik Petersbur-
-    ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
-    zapo Ignoto Kraševskio plunksnai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -105,7 +87,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-176802
   autorius: "Michał Baliński"
@@ -125,4 +107,4 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

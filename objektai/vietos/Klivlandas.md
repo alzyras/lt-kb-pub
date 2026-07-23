@@ -55,19 +55,7 @@ Smetona žuvo Klivlande per gaisrą.
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir tiesiogiai paremtas citata apie Antano Smetonos žūtį Klivlande."
   pagrindžia:
     - c-18292
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
-- susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-19868|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
-- susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-19868|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.
-- susijęs iš Brazilija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Brazilijoje iki 1967 m.
-- susijęs iš Didžioji Britanija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.
-- susijęs iš JAV: JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
-- susijęs iš Kanada: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.
-- susijęs iš Kolumbija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.
-- susijęs iš Prancūzija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS.
-- susijęs iš Prancūzija: Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.
-- susijęs iš Urugvajus: Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
+
 ## Citatos
 
 - id: c-18292

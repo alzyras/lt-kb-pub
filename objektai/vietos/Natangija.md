@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link. Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.
+Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link. Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko. Ateinantį metą, gieždamas ant kryžėjų apmau dą, kamendotas Kartinos Dovydas, įpuolęs su 800 rimtos joties į Natangiją ir jos kraštą baisiai baisesniai nuteriojęs, daug gyventojų iškirto, daug į vergus išvarė, kurį grįžtantį namon kryžėjai apnikę didumą grobio.
 
 ## Teiginiai
 
@@ -80,53 +80,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184437
-- susijęs iš 1258 metų vicemagistro Gerardo Hircbergo sutartis: Narbutas 1258 m. Gerardo Hircbergo sutartį pateikia kaip Vitlandijos buvimo tarp Sambijos, Natangijos ir Varmijos įrodymą.
-- susijęs iš Varmija: Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta.
-- susijęs iš [[objektai/asmenys/Gerardas Hircbergas.md#claim-t-191403|Gerardas Hircbergas]]: 1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas.
-- susijęs iš [[objektai/asmenys/Suroveckis.md#claim-t-191323|Suroveckis]]: Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante.
-- susijęs iš [[objektai/autoriai/V. Suroveckis.md#claim-t-191559|V. Suroveckis]]: Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.
-- susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
-- susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192510|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
-- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
-- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192512|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
-- susijęs iš Dusburgo kronika apie Prieglių arba Lipsą: Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenburgo apylinkėmis, o kitoje kronikoje vadinama Lentzinburg.
-- susijęs iš Luko Davido kronika: Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.
-- susijęs iš Varmija: Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę.
-- susijęs iš [[objektai/zodynas/Hinterland.md#claim-t-192219|Hinterland]]: Narbutas Natangijos pavadinimą aiškina vartodamas terminą `Hinterland`.
-- susijęs iš [[objektai/zodynas/Hinterland.md#claim-t-192561|Hinterland]]: Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, vienuoliai riteriai tu­
-    rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
-    rinkti iš jų vieną dalį. Antra vertus, tie patys piliečiai
-    turėjo gauti Varmijoje 2500 margų žemės; iš vienos pu­
-    sės šis plotas turėjo būti atmatuotas nuo Lemptenburgo
-    Lipza link ir palei jos krantą, o iš antros pusės — Natan-
-    gijos link tiek toli, kol margų skaičius susidarys prie pat
-    Varmijos. Bet toks matavimas pagal dabartinę vietovės
-    padėtį yra neįmanomas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-002
-  santrauka: 'Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antra tokia Sklumeno valda buvo netoli Bar-
-    tenšteino. Salia Brandenburgo buvo Pakarvės valda, o
-    toliau nuo Prusos upės net iki Baigos tęsėsi garsi Hone-
-    dos, arba Hcmedau, sritis. Kitų Natangijos įtvirtintų vie­
-    tų pavadinimai neišliko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 

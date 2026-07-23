@@ -59,12 +59,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38243
-- susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo.
-- susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.
-- susijęs iš [[objektai/asmenys/Dr. Baptistas Cigala.md#claim-t-35051|Dr. Baptistas Cigala]]: Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.
-- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.
-- susijęs iš [[objektai/zodynas/Romos karalius.md#claim-t-36751|Romos karalius]]: Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus.
-- susijęs iš [[objektai/zodynas/Romos karalius.md#claim-t-36752|Romos karalius]]: Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus.
+
 ## Citatos
 
 - id: c-38243

@@ -36,7 +36,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 ## Teiginiai
 
 <a id="claim-t-38711"></a>
-- t-002
+- t-001
   teiginys: "Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     - c-40516
 
 <a id="claim-t-38712"></a>
-- t-001
+- t-002
   teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,10 +64,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   pagrindžia:
     - c-40515
     - c-167095
-- susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
-- susijęs iš Lojevka upė: Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.
+
 ## Citatos
 
 - id: c-40515
@@ -86,7 +83,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-40516
   sudarytojas: "Karolis Zikaras"
@@ -104,7 +101,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167095
   sudarytojas: "Karolis Zikaras"
@@ -124,4 +121,4 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

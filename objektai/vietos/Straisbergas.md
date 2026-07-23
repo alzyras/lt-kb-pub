@@ -74,19 +74,7 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   semantiniai_rysiai: "Lietuviai puolė Straisbergas (0.86)"
   pagrindžia:
     - c-168518
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179339|Lietuviai]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179339|Lietuviai]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
-- susijęs iš [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.).md#claim-t-183963|Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
-- susijęs iš [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.).md#claim-t-62484|Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
-- susijęs iš [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas.md#claim-t-185928|Šv. Mykolo dienos bažnyčių lankymas]]: Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184104|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60044|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
-- susijęs iš [[objektai/daiktai/Krikšto vandens indas.md#claim-t-59690|Krikšto vandens indas (krikštas, XIII a.)]]: 1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89548|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89553|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė.
-- susijęs iš [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas.md#claim-t-185928|Šv. Mykolo dienos bažnyčių lankymas]]: Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.
+
 ## Citatos
 
 - id: c-59363

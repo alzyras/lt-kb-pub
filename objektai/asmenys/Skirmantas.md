@@ -72,7 +72,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-169376
 
 <a id="claim-t-193983"></a>
-- t-006
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas atsisakė Balaklajaus reikalautos duoklės ir liepė sužaloti chano pasiuntinius."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-176608
 
 <a id="claim-t-193985"></a>
-- t-008
+- t-004
   teiginys: "Lietuvos metraštis nurodo, kad Skirmantas turėjo tris sūnus: Treniotą, Liubartą ir Pisimantą, o paskui mirė."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-176610
 
 <a id="claim-t-201027"></a>
-- t-009
+- t-005
   teiginys: "Ne trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -109,29 +109,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-184377
-- susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
-- susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
-- susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
-- susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
-- susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
-- susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187491|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose.
-- susijęs iš Jaselda: Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką.
-- susijęs iš Kaidanovas: Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.
-- susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.
-- susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
-- susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
-- susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
-- susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
-- susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
-- susijęs iš Luckas: Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.
-- susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
-- susijęs iš Mozyrius: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Starodubas: Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos metraštis pasakoja, kad Skirmantas prašė Živinbudo pagalbos prieš rusus ir su Kukovaičiu išžygiavo prieš Lucko ir Pinsko kunigaikštį Mstislavą.'
@@ -195,7 +173,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169375
@@ -284,7 +261,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-176610
   autorius: "Anoniminis metraštininkas"
@@ -306,7 +283,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-184377
   autorius: "Simonas Daukantas"
@@ -327,10 +304,10 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]
 - Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]
 - Skirmantas valdė [[objektai/vietos/Naugardukas]]
-- Skirmantas užėmė [[objektai/vietos/Karačevas]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Severskas]], [[objektai/vietos/Starodubas]]
+- Skirmantas užėmė [[objektai/vietos/Karačevas]], [[objektai/vietos/Mozyrius]]

@@ -8,16 +8,16 @@ datos:
   - '1279 m.'
 date_start: '1271'
 date_end: '1279'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigūnas
   - asmuo
   - karvedys
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 ## Teiginiai
 
 <a id="claim-t-89912"></a>
-- t-005
+- t-001
   teiginys: "Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85823
 
 <a id="claim-t-89913"></a>
-- t-001
+- t-002
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85825
 
 <a id="claim-t-89915"></a>
-- t-007
+- t-004
   teiginys: "Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85827
 
 <a id="claim-t-89916"></a>
-- t-006
+- t-005
   teiginys: "Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85826
 
 <a id="claim-t-89917"></a>
-- t-004
+- t-006
   teiginys: "Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85828
 
 <a id="claim-t-89918"></a>
-- t-008
+- t-007
   teiginys: "Dusburgietis Konradą iš Tirbergo Vyresnįjį ir jo brolį Konradą Jaunesnįjį apibūdino kaip ryžtingus ir karo žygiais išgarsėjusius vyrus."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85829
 
 <a id="claim-t-89920"></a>
-- t-002
+- t-008
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras ir nuo 1273 m. vadovavo šešerius metus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85828
 
 <a id="claim-t-89921"></a>
-- t-010
+- t-009
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo Konrado iš Tirbergo Jaunesniojo tikrasis brolis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85829
 
 <a id="claim-t-194500"></a>
-- t-013
+- t-010
   teiginys: "Apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85828
-- susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -210,11 +210,12 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas
     susiklosto taip, kaip jie nori.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-89921
+  statusas: verified
+- t-007
+
 - c-008
   santrauka: 'Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -225,11 +226,10 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-85823
@@ -251,7 +251,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-85824
   autorius: "Petras Dusburgietis"
@@ -313,7 +313,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-85827
   autorius: "Petras Dusburgietis"
@@ -333,7 +333,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-85828
   autorius: "Petras Dusburgietis"
@@ -351,9 +351,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-002
-    - t-013
+    - t-006
+    - t-008
+    - t-010
 
 - id: c-85829
   autorius: "Petras Dusburgietis"
@@ -374,8 +374,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
+    - t-007
+    - t-009
 
 - id: c-85830
   autorius: "Petras Dusburgietis"
@@ -396,7 +396,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-167486
   autorius: "Petras Dusburgietis"
@@ -420,4 +420,4 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

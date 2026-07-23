@@ -44,7 +44,7 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
 ## Teiginiai
 
 <a id="claim-t-10123"></a>
-- t-002
+- t-001
   teiginys: "Arvydas Pociūnas autorių sąraše apibūdinamas kaip karo istorikas ir atskiros knygos autorius."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-11404
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11404
@@ -81,4 +81,4 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

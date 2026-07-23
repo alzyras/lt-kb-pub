@@ -3,7 +3,6 @@ tipas: vieta
 pavadinimas: 'Gotesverderis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-02460"></a>
-- t-003
+- t-001
   teiginys: "Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,31 +44,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02698
-- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
-- susijęs iš [[objektai/asmenys/Henrikas (kryžiuočių magistras).md#claim-t-186003|Henrikas (kryžiuočių magistras)]]: Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.
-- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat kryžiuočiai, nusiaubę arčiau Prūsijos esan­
-    čius kaimus bei laukus ir pavertę juos dykromis, sten­
-    gėsi perkelti karą į pačią Lietuvą. Prie Nemuno, be­
-    maž priešais Kauną, jie pasirinko vietą ir po šešių
-    250
-
-    ## Puslapis 249
-
-    mėnesių darbo pastatė čia didelę tvirtovę. Šią naują
-    pilį, esančią per vieną mylią nuo Kauno, pavadino
-    Gotesverderiu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -93,7 +67,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

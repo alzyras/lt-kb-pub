@@ -59,9 +59,6 @@ Nenurodyta
   pagrindžia:
     - c-10240
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10240

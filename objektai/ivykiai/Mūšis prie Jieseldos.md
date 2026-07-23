@@ -10,14 +10,14 @@ datos:
   - '1971 m.'
 date_start: '1251'
 date_end: '1971'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

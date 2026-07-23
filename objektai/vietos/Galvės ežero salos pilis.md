@@ -7,13 +7,13 @@ datos:
   - '1414 m.'
 date_start: '1414'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +69,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11046"></a>
-- t-002
+- t-001
   teiginys: "1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-13593
 
 <a id="claim-t-11047"></a>
-- t-001
+- t-002
   teiginys: "Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13593
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05215|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -120,6 +120,7 @@ Nenurodyta
     (^4) **Žr. Karys, J. K. : Pinigėliai, LE, t. 23, 19 p.; (”) Senovės lietuvių**
     **_pinigai,_** **Putnam 1959.**
     (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
+
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
     lebert de Lannoy.
@@ -147,8 +148,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ghillebert de Lannoy]]

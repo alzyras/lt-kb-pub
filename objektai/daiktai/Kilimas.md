@@ -82,9 +82,6 @@ Nenurodyta
   pagrindžia:
     - c-10252
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - terminas šiame gabale turi ir aiškinamąją, žodyninę vertę, bet pati ištrauka labai tiesiogiai aprašo konkretų vilnonį apsiaustą.

@@ -44,10 +44,7 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41524
-- susijęs iš [[objektai/asmenys/Peža-Palionis.md#claim-t-39799|Peža-Palionis]]: Kunigas Peža-Palionis vadovavo trečiajam Lietuvos kariuomenės pulkui, sudarytam iš dalgėmis ginkluotų sodiečių.
-- susijęs iš [[objektai/daiktai/Konfederatka.md#claim-t-39258|Konfederatka]]: Dolegos vedamo pulko kareiviai buvo apsitaisę, ginkluoti šobliomis ir muškietomis, o ant galvų dėvėjo konfederatkas.
-- susijęs iš [[objektai/daiktai/Šobliai.md#claim-t-39309|Šobliai]]: Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes.
-- susijęs iš Liudvikos Gedgaudienės-Didžiulienės užrašai: Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.
+
 ## Citatos
 
 - id: c-41524

@@ -9,14 +9,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 ## Teiginiai
 
 <a id="claim-t-171658"></a>
-- t-002
+- t-001
   teiginys: "Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - c-43518
 
 <a id="claim-t-171659"></a>
-- t-010
+- t-002
   teiginys: "Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,21 +90,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166424
-- susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
-- susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
-- susijęs iš Kretingos apskritis: P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš [[objektai/autoriai/J. Puzinas.md#claim-t-64643|J. Puzinas]]: J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.
-- susijęs iš [[objektai/grupes/Kardo rinktinė.md#claim-t-38962|Kardo rinktinė]]: 1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.
-- susijęs iš [[objektai/grupes/Klevo kuopa.md#claim-t-40924|Klevo kuopa]]: 1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.
-- susijęs iš [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.).md#claim-t-20531|Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]: 1941 m. birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže įvyko SD inspiruoti žiaurūs pogromai.
-- susijęs iš Aisčiai istorinių šaltinių šviesoje: J. Puzino straipsnis „Aisčiai istorinių šaltinių šviesoje“ 1948 m. paskelbtas žurnalo „Aidai“ 12 numeryje.
-- susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
-- susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
-- susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
-- susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
-- susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
+
 ## Citatos
 
 - id: c-43518
@@ -137,7 +123,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-156139
   sudarytojas: "Karolis Zikaras"
@@ -156,7 +142,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-002
 
 - id: c-166424
   redaktorius: "A. Šapoka"

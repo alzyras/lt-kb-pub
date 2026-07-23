@@ -51,7 +51,7 @@ media_all_json: |-
   pagrindžia:
     - c-35585
     - c-167608
-- susijęs iš [[objektai/asmenys/Karolis.md#claim-t-186124|Karolis]]: Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą.
+
 ## Citatos
 
 - id: c-35585

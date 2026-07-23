@@ -40,7 +40,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ## Teiginiai
 
 <a id="claim-t-79076"></a>
-- t-006
+- t-001
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42066
 
 <a id="claim-t-79077"></a>
-- t-007
+- t-002
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-76176
 
 <a id="claim-t-79078"></a>
-- t-002
+- t-003
   teiginys: "Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42067
 
 <a id="claim-t-79080"></a>
-- t-001
+- t-005
   teiginys: "Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-76173
 
 <a id="claim-t-79081"></a>
-- t-003
+- t-006
   teiginys: "Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42066
 
 <a id="claim-t-79082"></a>
-- t-005
+- t-007
   teiginys: "Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,16 +162,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-42065
-- susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
-- susijęs iš Salaspilio mūšis: Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.
-- susijęs iš Paryžius: Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.
-- susijęs iš Salaspilio mūšis: Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.
-- susijęs iš Krokuva: Henrikas vainikavosi Krokuvoje, nepaisė savo pažadų ir atidėliojo vedybas su Ona.
-- susijęs iš Krokuva: Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje.
-- susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
-- susijęs iš Prancūzija: Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.
-- susijęs iš Prancūzija: Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
+
 ## Citatos
 
 - id: c-42065
@@ -200,8 +191,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-003
+    - t-007
 
 - id: c-42066
   sudarytojas: "Karolis Zikaras"
@@ -224,8 +215,8 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-006
-    - t-003
 
 - id: c-42067
   sudarytojas: "Karolis Zikaras"
@@ -263,7 +254,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-76176
   sudarytojas: "Karolis Zikaras"
@@ -284,7 +275,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 ## Ryšiai
 - Karolis IX buvo valdovas [[objektai/vietos/Švedija]]

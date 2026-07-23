@@ -64,7 +64,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13781"></a>
-- t-006
+- t-001
   teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::items"
@@ -79,7 +79,7 @@ Nenurodyta
   semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
   pagrindžia:
     - c-16909
-- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 - Lietuvos auksas priklausė [[objektai/vietos/Lietuva]]

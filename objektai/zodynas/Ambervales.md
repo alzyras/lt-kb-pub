@@ -48,9 +48,7 @@ Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172161
-- susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189377|Senovės romėnai]]: Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros.
-- susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
-- susijęs iš [[objektai/autoriai/Heziodas.md#claim-t-190426|Heziodas]]: Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba pašventinimo apeigas kalba Heziodas.
+
 ## Citatos
 
 - id: c-172161

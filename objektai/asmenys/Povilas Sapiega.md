@@ -57,7 +57,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-42196
 
 <a id="claim-t-79153"></a>
-- t-004
+- t-002
   teiginys: "Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-76233
 
 <a id="claim-t-79154"></a>
-- t-002
+- t-003
   teiginys: "Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -94,9 +94,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Povilo Sapiegos vadovavimą su 1661 m. išvadavimais."
   pagrindžia:
     - c-42197
-- susijęs iš Leipūnai: Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.
-- susijęs iš Leipūnai: Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.
-- susijęs iš Leipūnai: ." Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.
+
 ## Citatos
 
 - id: c-42196
@@ -138,7 +136,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-76233
   sudarytojas: "Karolis Zikaras"
@@ -159,4 +157,4 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

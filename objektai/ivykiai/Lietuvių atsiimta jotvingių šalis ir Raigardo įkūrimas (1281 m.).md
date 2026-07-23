@@ -7,14 +7,14 @@ datos:
   - '1281 m.'
 date_start: '1281'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - invazija
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -125,7 +125,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169101
@@ -186,6 +185,7 @@ Nenurodyta
   citata_rodoma: "Išlikę jotvingiai, iš seno ne­\nkęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė\nlietuvių kariuomenę, jie at-\n1281 m e ta i\nsižadėjo krikščionių tikėjimo\nbei lenkų ir prisidėjo prie\nlietuvių. Vėliau, po netikėto puolimo užėmus lenkų bei\nmozūrų naująsias gyvenvietes, visas kraštas bemat pa­\nteko į lietuvių rankas, o patogiose, arčiau priešo esan­\nčiose vietose buvo įkurdintos įgulos; Bebro pakrantėje\nTraidenis įkūrė naują Raigardo sodybvietę, norėdamas,\nkad ši pilis gintų gyventojus nuo netolimų mozūrų bei\nprūsų. Atsidėkodamas už šį\nL ietu via i p a sta to  Po-\nryžtingą žygį, Narimantas vi­\nle k s ijo įe  R aigardą\nsą kraštą atidavė Traideniui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10287"></a>
-- t-007
+- t-001
   teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-11907
 
 <a id="claim-t-10288"></a>
-- t-008
+- t-002
   teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-11908
 
 <a id="claim-t-10289"></a>
-- t-009
+- t-003
   teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-11909
 
 <a id="claim-t-10290"></a>
-- t-010
+- t-004
   teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
     - c-66987
 
 <a id="claim-t-66880"></a>
-- t-011
+- t-006
   teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -167,7 +167,7 @@ Nenurodyta
     - c-66984
 
 <a id="claim-t-66881"></a>
-- t-012
+- t-007
   teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Nenurodyta
     - c-66988
 
 <a id="claim-t-66882"></a>
-- t-006
+- t-008
   teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -204,8 +204,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu."
   pagrindžia:
     - c-66987
-- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11907
@@ -230,7 +229,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-11908
   sudarytojas: "Karolis Zikaras"
@@ -248,7 +247,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-11909
   sudarytojas: "Karolis Zikaras"
@@ -267,7 +266,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-11910
   sudarytojas: "Karolis Zikaras"
@@ -293,7 +292,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-66984
   redaktorius: "A. Šapoka"
@@ -311,7 +310,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-66986
   autorius: "Zenonas Ivinskis"
@@ -364,7 +363,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-006
+    - t-008
 
 - id: c-66988
   redaktorius: "A. Šapoka"
@@ -383,4 +382,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-007

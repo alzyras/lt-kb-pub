@@ -40,42 +40,6 @@ Aukso dirbinių meistro pavadinimas; šiame fragmente jis lyginamas su lenkišku
 
 Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objektas.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    pastraipos
-    12—13
-    eilutė/
-    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“
-    (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
-    97 /P.
-    197,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192326
-
-## Citatos
-
-- id: c-175127
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
-  citata_rodoma: "T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143)."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-192325"></a>
@@ -106,5 +70,39 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175127
-- susijęs iš [[objektai/asmenys/Herberis.md#claim-t-191414|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai.
-- susijęs iš [[objektai/autoriai/Herberis.md#claim-t-191645|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai buvo auksakaliai arba ginklakaliai.
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    pastraipos
+    12—13
+    eilutė/
+    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“
+    (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
+    97 /P.
+    197,
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-175127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
+  citata_rodoma: "T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

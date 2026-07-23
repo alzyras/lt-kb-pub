@@ -44,9 +44,7 @@ Pav., lieka dar labai ginčytinas klausimas, ar Vytauto motina Birutė buvo vaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35508
-- susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
-- susijęs iš [[objektai/paprociai/Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas.md#claim-t-189785|Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas]]: Narbutas rašo, kad kiekvienas žynys ar vaidilutė privalėjo likti viengungiai, laikytis skaistybės ir būti nepapeikiamų papročių.
+
 ## Citatos
 
 - id: c-35508

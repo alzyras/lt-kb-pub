@@ -52,7 +52,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187833"></a>
-- t-004
+- t-001
   teiginys: "Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta.
     - c-170785
 
 <a id="claim-t-187834"></a>
-- t-003
+- t-002
   teiginys: "Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -88,7 +88,7 @@ Nenurodyta.
     - c-170784
 
 <a id="claim-t-188390"></a>
-- t-005
+- t-003
   teiginys: "Narbutas rašo mitologijos tomo medžiagą rinkęs iš rašytinių paminklų nuo Šiaurės sagų iki Kojalavičiaus veikalų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Nenurodyta.
     - c-170785
 
 <a id="claim-t-194627"></a>
-- t-006
+- t-004
   teiginys: "Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne praleisdamas nieko, kas galėjo būti naudinga."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-170785
   autorius: "Teodoras Narbutas"
@@ -205,6 +205,6 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
+    - t-003
     - t-004
-    - t-005
-    - t-006

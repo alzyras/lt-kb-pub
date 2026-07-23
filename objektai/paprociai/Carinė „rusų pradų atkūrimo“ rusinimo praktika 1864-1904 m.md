@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54214"></a>
-- t-002
+- t-001
   teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-55127
 
 <a id="claim-t-54215"></a>
-- t-005
+- t-002
   teiginys: "Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-55128
 
 <a id="claim-t-54216"></a>
-- t-001
+- t-003
   teiginys: "Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-55127
 
 <a id="claim-t-54218"></a>
-- t-003
+- t-005
   teiginys: "Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -168,8 +168,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
+    - t-005
 
 - id: c-55127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -189,7 +189,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
     - t-004
 
 - id: c-55128
@@ -219,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 ## Teiginiai
 
 <a id="claim-t-90278"></a>
-- t-002
+- t-001
   teiginys: "Ašeradė) Akmena (Jūros intakas), u."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -65,4 +65,4 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -42,7 +42,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 ## Teiginiai
 
 <a id="claim-t-188599"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-171488
 
 <a id="claim-t-190939"></a>
-- t-003
+- t-002
   teiginys: "Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173821
 
 <a id="claim-t-190941"></a>
-- t-005
+- t-003
   teiginys: "Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173823
 
 <a id="claim-t-190943"></a>
-- t-007
+- t-004
   teiginys: "Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -115,20 +115,28 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173828
 
 <a id="claim-t-190944"></a>
-- t-008
+- t-005
   teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Teodorikas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Karinės konfrontacijos kontekste Odoakras telkia kariuomenę ir patraukia pasitikti Teodoriko."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173823
+    - c-173826
 
 <a id="claim-t-190945"></a>
-- t-009
+- t-006
   teiginys: "Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,7 +156,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173827
 
 <a id="claim-t-190946"></a>
-- t-010
+- t-007
   teiginys: "Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -172,7 +180,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173828
 
 <a id="claim-t-197433"></a>
-- t-011
+- t-008
   teiginys: "Odoakras savo gerbėjams užtemdydavo vieną akį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -184,7 +192,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-179184
 
 <a id="claim-t-197783"></a>
-- t-012
+- t-009
   teiginys: "Pagaliau kaip po Odoakro pralaimėjimo grįžtantys iš Italijos he rulai galėjo duoti pradžią lietuvių tautai, jei pa tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur ir šiandien gyvena jų ainiai?"
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -196,7 +204,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173822
 
 <a id="claim-t-197784"></a>
-- t-013
+- t-010
   teiginys: "Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -208,7 +216,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173825
 
 <a id="claim-t-197785"></a>
-- t-014
+- t-011
   teiginys: "Odoakras buvo mūšio lauke nukovęs gepidų karalių Trazilą ir įveikęs Bazos vadovaujamus bulgarus, — pasikvietęs pagalbon visigotus, kai šiek tiek užtruko jo žygis, surengė savo kariuomenių vadų pasitarimą dėl tolesnių veiksmų; tuo pat metu jis gavo žinią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsitvirtino vietovėje, tarsi laukdamas priešo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -218,75 +226,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173826
-- susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192937|Skiriai]]: 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/asmenys/Ambraziejus.md#claim-t-191365|Ambraziejus]]: Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines.
-- susijęs iš [[objektai/asmenys/Liberijus.md#claim-t-191438|Liberijus]]: Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/asmenys/Orestas.md#claim-t-190947|Orestas]]: Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo.
-- susijęs iš [[objektai/asmenys/Prokopijus.md#claim-t-191309|Prokopijus]]: Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191154|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191158|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191330|Tufą]]: Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.
-- susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/asmenys/Zenonas.md#claim-t-191001|Zenonas]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/asmenys/Šventasis Severinas.md#claim-t-191495|Šventasis Severinas]]: Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir išpranašavo, kad šis taps karaliumi.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190787|Prokopijus]]: Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos.
-- susijęs iš [[objektai/autoriai/Stenderis.md#claim-t-190792|Stenderis]]: Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Burgundai.md#claim-t-192978|Burgundai]]: Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192937|Skiriai]]: 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191046|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus.
-- susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191049|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191034|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
-- susijęs iš Pavija: Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192243|arijonas]]: Narbutas Odoakrą apibūdina kaip arijoną, kuris rėmė katalikus.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
-- susijęs iš [[objektai/asmenys/Baza.md#claim-t-191375|Baza]]: Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.
-- susijęs iš [[objektai/asmenys/Germanarikas.md#claim-t-191149|Germanarikas]]: Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą.
-- susijęs iš [[objektai/asmenys/Julijus Nepas.md#claim-t-191286|Julijus Nepas]]: Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu.
-- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-190899|Justinianas]]: Imperatorius Justinianas šaltinyje siejamas su VI amžiumi, kai gyveno istorikas Prokopijus.
-- susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
-- susijęs iš [[objektai/daiktai/Imperatoriaus ženklai, purpurai ir sosto papuošalai.md#claim-t-193008|Imperatoriaus ženklai, purpurai ir sosto papuošalai]]: Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188193|Herulai]]: Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192408|Herulai]]: Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
-- susijęs iš [[objektai/grupes/Romos senatas.md#claim-t-192975|Romos senatas]]: Romos senatas nusiuntė pasiuntinius į Konstantinopolį pranešti, kad Romoje nebereikia skelbti imperatorių.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
-- susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų versti sąjungininkų kariuomenės gailėtis žygio į Italiją.
-- susijęs iš Juvava: 477 m. herulai sudegino romėnų koloniją Juvavą prie Saurus upės, kurią Narbutas tapatina su Zalcburgu prie Zalcacho.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192243|arijonas]]: Narbutas Odoakrą apibūdina kaip arijoną, kuris rėmė katalikus.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192244|arijonas]]: Narbutas rašo, kad Odoakras, nors pats buvo arijonas, rėmė katalikus.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192553|arijonas]]: Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192166|diecezija]]: Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192241|patricijus]]: Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką.
-- susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192244|arijonas]]: Narbutas rašo, kad Odoakras, nors pats buvo arijonas, rėmė katalikus.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
-- susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191158|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
@@ -339,7 +279,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173821
   autorius: "Teodoras Narbutas"
@@ -361,7 +301,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173822
   autorius: "Teodoras Narbutas"
@@ -400,7 +340,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-173823
   autorius: "Teodoras Narbutas"
@@ -419,8 +359,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-005
-    - t-008
 
 - id: c-173825
   autorius: "Teodoras Narbutas"
@@ -451,7 +391,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-173826
   autorius: "Teodoras Narbutas"
@@ -480,7 +420,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-005
+    - t-011
 
 - id: c-173827
   autorius: "Teodoras Narbutas"
@@ -505,7 +446,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-173828
   autorius: "Teodoras Narbutas"
@@ -529,8 +470,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-007
-    - t-010
 
 - id: c-179184
   autorius: "Teodoras Narbutas"
@@ -553,12 +494,11 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Telanas]]
 - Broliai: [[objektai/asmenys/Onulfas]]
 - Paskyrė Odoakrą: [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
-- Odoakras buvo valdovas [[objektai/grupes/Herulai]]
 - Odoakras valdė [[objektai/vietos/Italija]]
 - Odoakras apgulė [[objektai/vietos/Pavija]]

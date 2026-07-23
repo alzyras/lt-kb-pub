@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36709"></a>
-- t-002
+- t-001
   teiginys: "Vorotinsko kunigaikščiai prisiekė Vytautui ištikimybę ir pažadėjo karo paramą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-38688
 
 <a id="claim-t-36710"></a>
-- t-001
+- t-002
   teiginys: "Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ media_all_json: |-
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.94)"
   pagrindžia:
     - c-38689
-- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35089|Hennė (Ordino agentas)]]: Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.
+
 ## Citatos
 
 - id: c-38688
@@ -83,7 +83,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-38689
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -103,4 +103,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

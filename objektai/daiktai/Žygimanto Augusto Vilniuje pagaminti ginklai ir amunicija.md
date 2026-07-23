@@ -76,7 +76,7 @@ Nenurodyta
     - c-82988
 
 <a id="claim-t-87009"></a>
-- t-003
+- t-002
   teiginys: "Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-82989
 
 <a id="claim-t-87010"></a>
-- t-002
+- t-003
   teiginys: "Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-82988
   autorius: "Michał Baliński"
@@ -206,4 +206,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

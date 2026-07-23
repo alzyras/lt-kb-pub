@@ -53,13 +53,7 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti."
   pagrindžia:
     - c-35598
-- susijęs iš Lenkija: Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.
-- susijęs iš [[objektai/zodynas/pacta conventa.md#claim-t-182963|pacta conventa]]: Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.
-- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
-- susijęs iš Lietuva: Kojelavičiaus pasakojime po pilių sugriovimo žemdirbiai palikdavo kaimus, o priešas leisdavosi vis giliau į Lietuvą.
-- susijęs iš Lietuva: Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas.
-- susijęs iš Lietuva: Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas.
-- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
+
 ## Citatos
 
 - id: c-35598

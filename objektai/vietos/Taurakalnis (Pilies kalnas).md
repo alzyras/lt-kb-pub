@@ -52,7 +52,7 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-34048
-- susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97291|Gedimino « Geležinio vilko » sapnas]]: Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Gedimino medžiokle ant Taurakalnio ir geležinio vilko sapnu.
+
 ## Citatos
 
 - id: c-34048

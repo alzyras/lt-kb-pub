@@ -47,7 +47,7 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174566
-- susijęs iš [[objektai/autoriai/Kur de Zebelen.md#claim-t-191679|Kur de Zebelen]]: Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo.
+
 ## Citatos
 
 - id: c-174566

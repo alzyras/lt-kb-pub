@@ -59,8 +59,7 @@ Vaitiekaus Jučo pareigoms nusakyti.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175128
-- susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200558|Teisminių reikalų tvarkymas per advokatus ir regentus]]: 1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų.
-- susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200557|Teisminių reikalų tvarkymas per advokatus ir regentus]]: Jei advokatas būtų pareikalavęs daugiau, Lopacinskis žadėjo jam nedelsdamas sumokėti ir papildomą sumą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.'
@@ -84,7 +83,6 @@ Vaitiekaus Jučo pareigoms nusakyti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175128

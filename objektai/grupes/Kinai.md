@@ -61,9 +61,7 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176968
-- susijęs iš [[objektai/grupes/Indai.md#claim-t-189410|Indai]]: Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.
-- susijęs iš [[objektai/paprociai/Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas.md#claim-t-189940|Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas]]: Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas.
-- susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
+
 ## Citatos
 
 - id: c-172381

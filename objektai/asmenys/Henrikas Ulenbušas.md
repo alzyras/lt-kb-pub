@@ -62,7 +62,7 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   semantiniai_rysiai: "Henrikas Ulenbušas kariavo prieš Sembai (0.82)"
   pagrindžia:
     - c-60771
-- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89361|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.
+
 ## Citatos
 
 - id: c-60771

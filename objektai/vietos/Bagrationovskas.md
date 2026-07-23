@@ -42,6 +42,7 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   citata_rodoma: "Bačkininkėliai\nBagrationovskas (buv. Pr. Ylava)\nBajerburgas\nBaldensheimas\nBaiga (Honeda, Vundenava, dab."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

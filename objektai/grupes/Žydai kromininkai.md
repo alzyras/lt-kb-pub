@@ -9,7 +9,7 @@ variantai:
   - 'kromininkas'
 aliases: []
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 bukle: 'juodrastis'
 laikotarpis: ''
 datos: []
@@ -57,7 +57,7 @@ Socialinė ir prekybinė grupė.
 ## Teiginiai
 
 <a id="claim-t-195514"></a>
-- t-004
+- t-001
   teiginys: "Vaikams kromininkas ir Leiba buvo lygios sąvokos."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -165,4 +165,4 @@ Socialinė ir prekybinė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

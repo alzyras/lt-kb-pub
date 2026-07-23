@@ -66,8 +66,7 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171487
-- susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192363|Alanai]]: Narbuto pasakojime alanai pasitraukė į Dono aukštupį ir pavergė arba išstūmė galonus, antropofagus, melanchlenus bei neurus.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas.'

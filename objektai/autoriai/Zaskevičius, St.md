@@ -46,15 +46,14 @@ Zaskevičius, St.
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Zaskevičius, St: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Žalgirio mūšis (1410 m.): mention_match, event, gap=21"
+  ryšio_targeto_parinkimas: "Tanenbergo mūšis 1410 m. liepos 15 d: mention_match, event, gap=21"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zaskevičius, St\" parinktas kaip owner_note_path. Targetas \"Tanenbergo mūšis 1410 m. liepos 15 d\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1930 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55083
-- susijęs iš [[objektai/autoriai/O. Urbonas.md#claim-t-30887|O. Urbonas]]: O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.
-- susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
+
 ## Citatos
 
 - id: c-55083

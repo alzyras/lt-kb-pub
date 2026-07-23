@@ -50,9 +50,7 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59372
-- susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
-- susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
-- susijęs iš Tvankstė (pilis): Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr.
+
 ## Citatos
 
 - id: c-59372

@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07816"></a>
-- t-004
+- t-001
   teiginys: "Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-09975
 
 <a id="claim-t-07817"></a>
-- t-003
+- t-002
   teiginys: "Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -77,9 +77,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09976
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -99,7 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-09976
   autorius: "Simonas Daukantas"
@@ -117,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

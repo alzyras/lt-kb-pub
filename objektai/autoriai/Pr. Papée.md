@@ -38,7 +38,7 @@ Papée). Papée, Pr. i Papée, Fr.
 ## Teiginiai
 
 <a id="claim-t-30928"></a>
-- t-002
+- t-001
   teiginys: "Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Papée). Papée, Pr. i Papée, Fr.
     - c-33107
 
 <a id="claim-t-30929"></a>
-- t-001
+- t-002
   teiginys: "Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Papée). Papée, Pr. i Papée, Fr.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33108
-- susijęs iš Polska i Litwa na przełomie wieków średnich: Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m.
+
 ## Citatos
 
 - id: c-33107
@@ -113,7 +113,7 @@ Papée). Papée, Pr. i Papée, Fr.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-33108
   autorius: "Zenonas Ivinskis"
@@ -148,4 +148,4 @@ Papée). Papée, Pr. i Papée, Fr.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

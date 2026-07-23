@@ -40,7 +40,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 ## Teiginiai
 
 <a id="claim-t-79165"></a>
-- t-006
+- t-001
   teiginys: "Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - c-76244
 
 <a id="claim-t-79166"></a>
-- t-004
+- t-002
   teiginys: "1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - c-76242
 
 <a id="claim-t-79168"></a>
-- t-005
+- t-003
   teiginys: "1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-76242
   redaktorius: "A. Šapoka"
@@ -126,7 +126,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-76244
   sudarytojas: "Karolis Zikaras"
@@ -146,4 +146,4 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

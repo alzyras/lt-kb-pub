@@ -35,7 +35,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 ## Teiginiai
 
 <a id="claim-t-184459"></a>
-- t-005
+- t-001
   teiginys: "1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -55,7 +55,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167809
 
 <a id="claim-t-184460"></a>
-- t-004
+- t-002
   teiginys: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -75,7 +75,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167813
 
 <a id="claim-t-184603"></a>
-- t-007
+- t-003
   teiginys: "J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167964
 
 <a id="claim-t-193373"></a>
-- t-009
+- t-004
   teiginys: "Albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -104,17 +104,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176098
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.
-- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-184465|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.
-- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186443|Juozas Jurginis]]: Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.
-- susijęs iš [[objektai/autoriai/Leonas Valkūnas.md#claim-t-184471|Leonas Valkūnas]]: Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.
-- susijęs iš [[objektai/grupes/Sapiegos.md#claim-t-184581|Sapiegos]]: A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė.
-- susijęs iš [[objektai/grupes/Sapiegų giminė.md#claim-t-185460|Sapiegų giminė]]: A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jonui Sapiegai.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
-- susijęs iš Vijūkų dvaras: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
-- susijęs iš [[objektai/zodynas/piktadarystė.md#claim-t-185390|piktadarystė]]: A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti.'
@@ -167,7 +157,6 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-167809
@@ -186,7 +175,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-167813
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -203,7 +192,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-167964
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -228,7 +217,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-176098
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -252,4 +241,4 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004

@@ -43,7 +43,7 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 ## Teiginiai
 
 <a id="claim-t-188041"></a>
-- t-002
+- t-001
   teiginys: "Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -61,7 +61,7 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
   temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus, gramatinis sakinys apie Joną Spudulį ir jo laiško turinį. Jame tinkamai nurodyta, kad vertinimas priklauso Spudulio žodžiams."
   pagrindžia:
     - c-170755
-- susijęs iš Musų senovė: „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
+
 ## Citatos
 
 - id: c-170755
@@ -85,4 +85,4 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -46,7 +46,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 ## Teiginiai
 
 <a id="claim-t-192256"></a>
-- t-002
+- t-001
   teiginys: "Narbutas, remdamasis gamtininkais, apibūdina Hevea Gujanensis kamieną, vaisių, sėklų branduolius ir sakus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -57,7 +57,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
     - c-175091
 
 <a id="claim-t-192257"></a>
-- t-003
+- t-002
   teiginys: "Narbuto perteikiamu gamtininkų aprašymu, Hevea Gujanensis sakai yra aromatingi ir naudojami žvakėms bei deglams daryti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -68,7 +68,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
     - c-175091
 
 <a id="claim-t-192258"></a>
-- t-001
+- t-003
   teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -92,12 +92,12 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
     jami žvakėms ir deglams daryti. Tad čia rasta šiokia to­
     kia giminystė, bet tik giminystė“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192257
-    - t-192258
+  statusas: verified
+- t-001
+    - t-002
 
 ## Citatos
 
@@ -122,6 +122,6 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-001

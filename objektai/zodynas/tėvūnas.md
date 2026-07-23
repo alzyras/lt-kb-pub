@@ -31,7 +31,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 ## Teiginiai
 
 <a id="claim-t-12593"></a>
-- t-002
+- t-001
   teiginys: "Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - c-14716
 
 <a id="claim-t-70370"></a>
-- t-003
+- t-002
   teiginys: "Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - c-69407
 
 <a id="claim-t-182983"></a>
-- t-004
+- t-003
   teiginys: "Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-69407
   redaktorius: "A. Šapoka"
@@ -125,7 +125,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166381
   redaktorius: "A. Šapoka"
@@ -145,4 +145,4 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

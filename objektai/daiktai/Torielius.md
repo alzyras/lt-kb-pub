@@ -66,9 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-10290
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Pastabos
 
 - terminas šiame fragmente nepaaiškintas; iš konteksto labiausiai panašu į padėklą arba lėkštę.

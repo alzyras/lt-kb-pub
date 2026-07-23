@@ -54,9 +54,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38065
-- susijęs iš [[objektai/asmenys/Jurgis Boliminas.md#claim-t-35171|Jurgis Boliminas]]: Jurgis Boliminas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
-- susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50804|Konstancijos susirinkimas (1414–1418 m.)]]: Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.
+
 ## Citatos
 
 - id: c-38065

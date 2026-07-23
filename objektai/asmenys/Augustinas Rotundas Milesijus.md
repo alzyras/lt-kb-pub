@@ -56,7 +56,7 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau, išlaikant tik citatoje nurodytus faktus."
   pagrindžia:
     - c-83885
-- susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
+
 ## Citatos
 
 - id: c-83885

@@ -43,7 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45739"></a>
-- t-014
+- t-001
   teiginys: "1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-48444
 
 <a id="claim-t-45740"></a>
-- t-010
+- t-002
   teiginys: "Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45741"></a>
-- t-012
+- t-003
   teiginys: "Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ media_all_json: |-
     - c-23908
 
 <a id="claim-t-45742"></a>
-- t-011
+- t-004
   teiginys: "Apie 1750 m. sukurta Kristijono Donelaičio poema „Metai“ laikoma pirmuoju reikšmingu lietuviakalbės literatūros kūriniu Mažojoje Lietuvoje."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45743"></a>
-- t-013
+- t-005
   teiginys: "Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ media_all_json: |-
     - c-23907
 
 <a id="claim-t-45744"></a>
-- t-009
+- t-006
   teiginys: "Kristijono Donelaičio poema „Metai“ datuojama apie 1750 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -174,10 +174,10 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-011
-    - t-013
-    - t-009
+    - t-002
+    - t-004
+    - t-005
+    - t-006
 
 - id: c-23908
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -197,7 +197,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-003
 
 - id: c-48444
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -215,4 +215,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-001

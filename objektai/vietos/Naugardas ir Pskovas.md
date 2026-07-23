@@ -45,7 +45,7 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82283
-- susijęs iš [[objektai/zodynas/viečė.md#claim-t-187534|viečė]]: Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.
+
 ## Citatos
 
 - id: c-82283

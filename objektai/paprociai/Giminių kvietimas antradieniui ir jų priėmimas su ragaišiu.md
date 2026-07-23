@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195378"></a>
-- t-004
+- t-001
   teiginys: "Atvažiavę giminės būdavo atskirai pavalgydinami seklyčioje ir paskui sodinami prie besėdos."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-177796
 
 <a id="claim-t-195380"></a>
-- t-001
+- t-002
   teiginys: "Giminės būdavo kviečiamos antradieniui."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177796
   autorius: "M. Katkus"
@@ -133,4 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

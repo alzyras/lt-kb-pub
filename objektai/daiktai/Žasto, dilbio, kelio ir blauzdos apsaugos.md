@@ -65,7 +65,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41123
-- susijęs iš [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-40805|Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
+
 ## Citatos
 
 - id: c-41123

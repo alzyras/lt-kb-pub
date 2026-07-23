@@ -63,8 +63,7 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167734
-- susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
-- susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-30223|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
+
 ## Citatos
 
 - id: c-28627

@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85840"></a>
-- t-002
+- t-001
   teiginys: "Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ media_all_json: |-
     - c-81824
 
 <a id="claim-t-85843"></a>
-- t-004
+- t-002
   teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +70,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Lukiškių dvaro vaidmenį."
   pagrindžia:
     - c-81825
-- susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką.
-- susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.
+
 ## Citatos
 
 - id: c-81824
@@ -96,7 +95,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-81825
   autorius: "Michał Baliński"
@@ -150,4 +149,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78727"></a>
-- t-003
+- t-001
   teiginys: "Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-43179
 
 <a id="claim-t-78728"></a>
-- t-004
+- t-002
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-167085
 
 <a id="claim-t-78729"></a>
-- t-005
+- t-003
   teiginys: "Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,9 +135,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
+    - t-002
     - t-003
-    - t-004
-    - t-005
 
 - id: c-167085
   sudarytojas: "Karolis Zikaras"
@@ -160,4 +160,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

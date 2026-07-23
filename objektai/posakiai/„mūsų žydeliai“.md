@@ -52,9 +52,3 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117406|Žydai]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
-- susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
-- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
-- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.

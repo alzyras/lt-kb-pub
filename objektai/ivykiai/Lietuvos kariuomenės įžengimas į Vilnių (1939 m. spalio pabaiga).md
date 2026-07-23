@@ -73,7 +73,7 @@ Nenurodyta
     - c-73051
 
 <a id="claim-t-75152"></a>
-- t-003
+- t-002
   teiginys: "Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,4 +121,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

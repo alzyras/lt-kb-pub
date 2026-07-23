@@ -38,7 +38,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-40411"></a>
-- t-003
+- t-001
   teiginys: "S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - c-42210
 
 <a id="claim-t-40412"></a>
-- t-001
+- t-002
   teiginys: "S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - c-42208
 
 <a id="claim-t-40413"></a>
-- t-002
+- t-003
   teiginys: "Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   temporalinis_llm_pakomentavimas: "Teiginį verta perrašyti taip, kad pagrindinis faktas būtų apie S. Nastopką, o ne apie K. Ladygą."
   pagrindžia:
     - c-44503
-- susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40819|1-oji pėstininkų divizija]]: Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu.
+
 ## Citatos
 
 - id: c-42208
@@ -103,7 +103,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-42210
   sudarytojas: "Karolis Zikaras"
@@ -121,7 +121,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-44503
   sudarytojas: "Karolis Zikaras"
@@ -144,4 +144,4 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

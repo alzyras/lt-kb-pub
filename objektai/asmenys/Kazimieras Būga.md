@@ -79,7 +79,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie Būgos pradėtą darbą."
   pagrindžia:
     - c-166942
-- susijęs iš [[objektai/zodynas/Aistuva.md#claim-t-11667|Aistuva]]: Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.
+
 ## Citatos
 
 - id: c-21813

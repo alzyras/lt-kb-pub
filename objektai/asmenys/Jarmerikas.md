@@ -70,20 +70,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174067
-- susijęs iš [[objektai/asmenys/Helgė.md#claim-t-191412|Helgė]]: Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.
-- susijęs iš [[objektai/asmenys/Skalka.md#claim-t-191465|Skalka]]: Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams.
-- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą.md#claim-t-191063|Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]]: Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.
-- susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
-- susijęs iš [[objektai/ivykiai/Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus.md#claim-t-191075|Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus]]: Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo.
-- susijęs iš [[objektai/asmenys/Flokas.md#claim-t-191397|Flokas]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
-- susijęs iš Danija: Narbutas pasakoja, kad slavai, pasinaudoję Jarmeriko nebuvimu, sunaikino jo paliktas sargybas ir plėšdami įsiveržė į Daniją.
-- susijęs iš Kuršas: Teodoro Narbuto pasakojime Jarmerikas užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus.
-- susijęs iš Semba: Narbutas pasakojo, kad Jarmerikas, pavergęs slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą, Kuršą ir rytinius kraštus.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192198|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192580|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192198|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
+
 ## Citatos
 
 - id: c-174066

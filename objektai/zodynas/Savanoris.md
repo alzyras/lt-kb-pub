@@ -50,15 +50,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44140
-- susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40040|Artūras Sakalauskas]]: Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.
-- susijęs iš [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas.md#claim-t-39281|Savadarbis lygiavamzdis šautuvas]]: Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.
-- susijęs iš [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.).md#claim-t-39114|Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
-- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
-- susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40041|Artūras Sakalauskas]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
-- susijęs iš [[objektai/asmenys/I. Drakša.md#claim-t-39436|I. Drakša]]: Savanoris I. Drakša 1991 m. pagamino savadarbį 16,5 mm kalibro lygiavamzdį šautuvą.
-- susijęs iš [[objektai/asmenys/Jonas Domicini iš Rogūzos.md#claim-t-35146|Jonas Domicini iš Rogūzos]]: Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai.
-- susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
+
 ## Citatos
 
 - id: c-44140

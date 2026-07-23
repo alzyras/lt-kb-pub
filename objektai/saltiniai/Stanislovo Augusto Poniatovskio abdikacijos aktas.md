@@ -52,6 +52,7 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
   citata_rodoma: "valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

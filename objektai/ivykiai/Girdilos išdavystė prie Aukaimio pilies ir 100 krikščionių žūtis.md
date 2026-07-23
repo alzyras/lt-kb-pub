@@ -73,7 +73,7 @@ Nenurodyta
     - c-62788
 
 <a id="claim-t-194386"></a>
-- t-003
+- t-002
   teiginys: "Apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -112,4 +112,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

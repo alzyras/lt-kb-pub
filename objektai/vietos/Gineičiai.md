@@ -36,7 +36,7 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 ## Teiginiai
 
 <a id="claim-t-79413"></a>
-- t-002
+- t-001
   teiginys: "Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,9 +53,7 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, vietą ir veiksmą."
   pagrindžia:
     - c-76409
-- susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78691|Šarvuotasis traukinys Gediminas]]: 1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.
-- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.
-- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
+
 ## Citatos
 
 - id: c-76409
@@ -76,4 +74,4 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

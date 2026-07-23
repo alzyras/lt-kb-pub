@@ -82,10 +82,7 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169451
-- susijęs iš [[objektai/ivykiai/Bajorų pilaitės užėmimas ir belaisvių sudeginimas.md#claim-t-185797|Bajorų pilaitės užėmimas ir belaisvių sudeginimas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
-- susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
-- susijęs iš Bajorų pilaitė: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
-- susijęs iš Pernarava: Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
+
 ## Citatos
 
 - id: c-169451

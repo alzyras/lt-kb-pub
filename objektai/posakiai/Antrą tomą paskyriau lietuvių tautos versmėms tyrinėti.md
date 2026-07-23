@@ -67,11 +67,10 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
     Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
     uždavinys buvo nusakytas labai konkrečiai.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174988

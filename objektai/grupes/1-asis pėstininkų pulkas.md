@@ -30,7 +30,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Teiginiai
 
 <a id="claim-t-78158"></a>
-- t-003
+- t-001
   teiginys: "1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - c-75466
 
 <a id="claim-t-78159"></a>
-- t-001
+- t-002
   teiginys: "Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - c-42601
 
 <a id="claim-t-78160"></a>
-- t-002
+- t-003
   teiginys: "1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -71,8 +71,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75467
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
-- susijęs iš [[objektai/grupes/asis pėstininkų pulkas.md#claim-t-80634|asis pėstininkų pulkas]]: Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.
+
 ## Citatos
 
 - id: c-42601
@@ -92,7 +91,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-75466
   sudarytojas: "Karolis Zikaras"
@@ -119,7 +118,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-75467
   sudarytojas: "Karolis Zikaras"
@@ -140,4 +139,4 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

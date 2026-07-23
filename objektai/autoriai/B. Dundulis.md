@@ -43,7 +43,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 ## Teiginiai
 
 <a id="claim-t-71508"></a>
-- t-002
+- t-001
   teiginys: "B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
     - c-03977
 
 <a id="claim-t-71509"></a>
-- t-001
+- t-002
   teiginys: "B. Dundulis parašė straipsnį Lietuvos TSR istorijos pirmasis tomas."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -109,8 +109,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-70073
-- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
-- susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'B. Dundulio veikalas apie Lietuvos kovą dėl valstybinio savarankiškumo XV a. cituojamas aiškinant Kazimiero sutikimo užimti Lenkijos sostą sąlygas.'
@@ -150,7 +149,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-03977
   autorius: "Zenonas Ivinskis"
@@ -169,7 +168,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-70073
   autorius: "Zenonas Ivinskis"
@@ -222,6 +221,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   citata_rodoma: "Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus\n1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­\nniai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

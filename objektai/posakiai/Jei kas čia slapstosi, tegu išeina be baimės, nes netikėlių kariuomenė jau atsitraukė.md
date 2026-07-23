@@ -45,7 +45,7 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
     - c-85529
 
 <a id="claim-t-89589"></a>
-- t-003
+- t-002
   teiginys: "Herkus Mantas vokiškai viliojo besislapstančius krikščionis išeiti, o patikėjusiuosius jo vyrai paimdavo į nelaisvę arba nužudydavo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -85,4 +85,4 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

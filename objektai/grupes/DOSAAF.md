@@ -37,8 +37,7 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44728
-- susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
-- susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
+
 ## Citatos
 
 - id: c-44728

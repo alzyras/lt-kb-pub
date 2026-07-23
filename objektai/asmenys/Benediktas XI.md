@@ -58,7 +58,7 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė turi antraštės ir bibliografinio triukšmo fragmentų."
   pagrindžia:
     - c-60878
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112518|Domininkonų ordinas]]: 1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.
+
 ## Citatos
 
 - id: c-60878

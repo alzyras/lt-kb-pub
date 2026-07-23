@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31267"></a>
-- t-002
+- t-001
   teiginys: "Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-33309
 
 <a id="claim-t-31268"></a>
-- t-003
+- t-002
   teiginys: "Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +61,7 @@ media_all_json: |-
   pagrindžia:
     - c-31173
     - c-167701
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184328|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65556|Kuršiai]]: Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65559|Kuršiai]]: Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65564|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-184336|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89350|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
-- susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
-- susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32789|kuopiniai kaimai]]: Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-- susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32790|kuopiniai kaimai]]: Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo.
+
 ## Citatos
 
 - id: c-31173
@@ -88,7 +80,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-33309
   autorius: "Zenonas Ivinskis"
@@ -107,7 +99,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167701
   autorius: "Zenonas Ivinskis"
@@ -124,4 +116,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

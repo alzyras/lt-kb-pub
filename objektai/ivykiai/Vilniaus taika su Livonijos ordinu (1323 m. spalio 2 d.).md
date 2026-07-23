@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-103827"></a>
-- t-008
+- t-001
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-96899
 
 <a id="claim-t-103828"></a>
-- t-007
+- t-002
   teiginys: "1323 m. spalio 2 d. Vilniuje Livonijos ordino ir vyskupų pasiuntiniai sudarė taiką, kurioje buvo nustatyti Rygai svarbūs prekybos reikalai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-04999
 
 <a id="claim-t-103829"></a>
-- t-011
+- t-003
   teiginys: "Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-04999
 
 <a id="claim-t-103831"></a>
-- t-009
+- t-005
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Nenurodyta
     - c-96897
 
 <a id="claim-t-103833"></a>
-- t-013
+- t-007
   teiginys: "1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Nenurodyta
     - c-04999
 
 <a id="claim-t-103834"></a>
-- t-012
+- t-008
   teiginys: "Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Nenurodyta
     - c-96895
 
 <a id="claim-t-103835"></a>
-- t-010
+- t-009
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -223,7 +223,7 @@ Nenurodyta
     - c-96898
 
 <a id="claim-t-103836"></a>
-- t-005
+- t-010
   teiginys: "1323 m. Vilniaus taikoje buvo nustatyti ir Rygai svarbūs prekybos reikalai."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -262,10 +262,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
     - t-004
-    - t-013
-    - t-005
+    - t-007
+    - t-010
 
 - id: c-96895
   autorius: "Zenonas Ivinskis"
@@ -292,7 +292,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-96897
   autorius: "Zenonas Ivinskis"
@@ -331,7 +331,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-96899
   autorius: "Michał Baliński"
@@ -360,8 +360,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-009
+    - t-001
+    - t-005
 
 - id: c-96901
   autorius: "Petras Dusburgietis"
@@ -379,4 +379,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-003

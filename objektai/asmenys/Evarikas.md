@@ -60,10 +60,7 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174275
-- susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
-- susijęs iš [[objektai/asmenys/Liberijus.md#claim-t-191438|Liberijus]]: Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą.'
@@ -84,11 +81,11 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
     tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
     1 Procop.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

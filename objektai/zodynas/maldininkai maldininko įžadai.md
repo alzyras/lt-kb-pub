@@ -55,7 +55,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 ## Teiginiai
 
 <a id="claim-t-70220"></a>
-- t-012
+- t-001
   teiginys: "Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69289
 
 <a id="claim-t-70221"></a>
-- t-011
+- t-002
   teiginys: "Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69284
 
 <a id="claim-t-70223"></a>
-- t-005
+- t-003
   teiginys: "1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,8 +105,17 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   pagrindžia:
     - c-69295
 
+<a id="claim-t-70224"></a>
+- t-004
+  teiginys: "`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką."
+  atnaujinta: "2026-07-23 20:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-69289
+
 <a id="claim-t-70225"></a>
-- t-010
+- t-005
   teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,7 +134,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69287
 
 <a id="claim-t-70226"></a>
-- t-001
+- t-006
   teiginys: "Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus."
   atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "auto"
@@ -134,7 +143,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69285
 
 <a id="claim-t-70227"></a>
-- t-004
+- t-007
   teiginys: "Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -153,7 +162,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69285
 
 <a id="claim-t-70228"></a>
-- t-003
+- t-008
   teiginys: "Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -169,7 +178,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69290
 
 <a id="claim-t-70229"></a>
-- t-007
+- t-009
   teiginys: "Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -185,7 +194,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69290
 
 <a id="claim-t-70230"></a>
-- t-008
+- t-010
   teiginys: "1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -197,7 +206,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69285
 
 <a id="claim-t-70231"></a>
-- t-006
+- t-011
   teiginys: "Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -217,7 +226,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69296
 
 <a id="claim-t-194456"></a>
-- t-014
+- t-012
   teiginys: "Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -253,7 +262,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-002
 
 - id: c-69285
   autorius: "Petras Dusburgietis"
@@ -277,9 +286,9 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
-    - t-008
+    - t-006
+    - t-007
+    - t-010
 
 - id: c-69287
   autorius: "Petras Dusburgietis"
@@ -301,7 +310,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005
 
 - id: c-69288
   autorius: "Petras Dusburgietis"
@@ -360,7 +369,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-001
+    - t-004
 
 - id: c-69290
   autorius: "Petras Dusburgietis"
@@ -381,8 +391,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-007
+    - t-008
+    - t-009
 
 - id: c-69291
   autorius: "Petras Dusburgietis"
@@ -421,8 +431,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-014
+    - t-003
+    - t-012
 
 - id: c-69296
   autorius: "Petras Dusburgietis"
@@ -441,4 +451,4 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-011

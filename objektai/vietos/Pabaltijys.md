@@ -39,7 +39,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Teiginiai
 
 <a id="claim-t-182874"></a>
-- t-022
+- t-001
   teiginys: "Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     - c-166279
 
 <a id="claim-t-193222"></a>
-- t-023
+- t-002
   teiginys: "Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175964
-- susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05441|kryžiaus karas]]: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
+
 ## Citatos
 
 - id: c-166279
@@ -90,7 +90,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-001
 
 - id: c-175964
   redaktorius: "A. Šapoka"
@@ -113,4 +113,4 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-002

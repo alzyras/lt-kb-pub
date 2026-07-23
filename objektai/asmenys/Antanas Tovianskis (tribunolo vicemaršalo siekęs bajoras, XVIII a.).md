@@ -44,18 +44,7 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183856
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200677|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200679|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200680|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega buvo LDK pakancleris.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200681|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: 1755 m. laiške Jonas Dominykas Lopacinskis teigė, kad LDK pakancleris Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais.
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200490|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: 1760 m. Pranciškus Leonas Tyzenhauzas tribunole buvo nuteistas kalėti 1 metus ir 6 savaites bokšto kalėjime.
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200491|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200677|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200679|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200680|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega buvo LDK pakancleris.
-- susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200681|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: 1755 m. laiške Jonas Dominykas Lopacinskis teigė, kad LDK pakancleris Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais.
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200490|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: 1760 m. Pranciškus Leonas Tyzenhauzas tribunole buvo nuteistas kalėti 1 metus ir 6 savaites bokšto kalėjime.
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200491|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas.
+
 ## Citatos
 
 - id: c-183856

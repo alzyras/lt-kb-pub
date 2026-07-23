@@ -60,7 +60,7 @@ media_all_json: |-
     - c-83980
 
 <a id="claim-t-87999"></a>
-- t-003
+- t-002
   teiginys: "Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ media_all_json: |-
     - c-83977
 
 <a id="claim-t-88000"></a>
-- t-004
+- t-003
   teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-83978
   autorius: "Michał Baliński"
@@ -182,7 +182,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-83980
   autorius: "Michał Baliński"

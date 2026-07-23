@@ -51,8 +51,7 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   temporalinis_llm_pakomentavimas: "Citata palaiko Feletėjo statusą ir patekimą į nelaisvę, bet pradinė formuluotė neaiški."
   pagrindžia:
     - c-169561
-- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
-- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
+
 ## Citatos
 
 - id: c-169561

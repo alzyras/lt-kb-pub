@@ -54,8 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys pataisytas į sklandesnę formą, išlaikant citatoje pagrįstą faktą."
   pagrindžia:
     - c-01355
-- susijęs iš [[objektai/autoriai/Kantas.md#claim-t-01079|Kantas]]: 1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises.
-- susijęs iš Milkės žodynas: 1800 m. prakalboje Milkės žodynui Kantas teigė, kad lietuvių kultūrinės teisės palaikytinos.
+
 ## Citatos
 
 - id: c-01355

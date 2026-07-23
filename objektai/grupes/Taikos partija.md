@@ -44,7 +44,7 @@ Iš to susidarė dvi partijos: karo ir taikos.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35592
-- susijęs iš [[objektai/grupes/Karo partija.md#claim-t-34355|Karo partija]]: Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais.
+
 ## Citatos
 
 - id: c-35592

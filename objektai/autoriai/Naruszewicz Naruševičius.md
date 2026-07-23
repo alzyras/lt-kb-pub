@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87996"></a>
-- t-003
+- t-001
   teiginys: "Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 ."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ media_all_json: |-
     - c-83974
 
 <a id="claim-t-194204"></a>
-- t-004
+- t-002
   teiginys: "Šitai pa kartojo Naruszewicz Histor."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ media_all_json: |-
     - c-176807
 
 <a id="claim-t-194205"></a>
-- t-005
+- t-003
   teiginys: "Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176807
   autorius: "Michał Baliński"
@@ -116,7 +116,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-176808
   autorius: "Michał Baliński"
@@ -134,4 +134,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

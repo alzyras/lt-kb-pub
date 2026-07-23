@@ -30,7 +30,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 ## Teiginiai
 
 <a id="claim-t-53890"></a>
-- t-003
+- t-001
   teiginys: "Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     - c-54903
 
 <a id="claim-t-53891"></a>
-- t-001
+- t-002
   teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     - c-41961
 
 <a id="claim-t-53892"></a>
-- t-002
+- t-003
   teiginys: "J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-54903
   sudarytojas: "Karolis Zikaras"
@@ -117,7 +117,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-54904
   sudarytojas: "Karolis Zikaras"
@@ -141,4 +141,4 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

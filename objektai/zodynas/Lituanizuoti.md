@@ -43,6 +43,7 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
   citata_rodoma: "jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

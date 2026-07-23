@@ -7,13 +7,13 @@ datos:
   - '1404 m.'
 date_start: '1404'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,7 +78,7 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
 <a id="claim-t-196349"></a>
 - t-003
   teiginys: "Kojelavičiaus pasakojime kryžiuočiai per Švitrigailos antrą pabėgimą į Prūsiją baisiai nusiaubė Lietuvą."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -145,7 +145,6 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169677

@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Gavėnia
 sukurta: '2026-07-12'
 variantai:
-  - 'gavėniai'
-  - 'gavėnios'
+  - gavėniai
+  - gavėnios
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -62,8 +62,7 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177877
-- susijęs iš [[objektai/zodynas/Dantų plauti.md#claim-t-195634|Dantų plauti]]: „Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais.
-- susijęs iš [[objektai/zodynas/Pelenija.md#claim-t-195466|Pelenija]]: Pelenija šiame šaltinyje siejama su pirmąja pavasario diena.
+
 ## Citatos
 
 - id: c-177877

@@ -59,7 +59,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-166876
 
 <a id="claim-t-183482"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-166876
 
 <a id="claim-t-184639"></a>
-- t-006
+- t-004
   teiginys: "Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168000
 
 <a id="claim-t-184640"></a>
-- t-007
+- t-005
   teiginys: "Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168001
 
 <a id="claim-t-187530"></a>
-- t-008
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -136,18 +136,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170480
-- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86891|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija.
-- susijęs iš Osa: Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.
-- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
-- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54974|Gabrielius Bekešas]]: Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.
-- susijęs iš [[objektai/autoriai/J. Jaroszewicz.md#claim-t-30677|J. Jaroszewicz]]: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.
-- susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
-- susijęs iš [[objektai/paprociai/Valdų dovanojimas už riteriškus nuopelnus ir bajoriškos karinės tarnybos prievolė.md#claim-t-87185|Valdų dovanojimas už riteriškus nuopelnus ir bajoriškos karinės tarnybos prievolė]]: Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą.
-- susijęs iš Obraz Litwy pod względem jej cywilizacji: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.
-- susijęs iš Valstiečių «tarnyba» - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje: Studija „Valstiečių tarnyba - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje“ paskelbta 1957 m. AkMD 3 tome, p. 93-103.
-- susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
-- susijęs iš Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a: „Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73.
-- susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.'
@@ -174,7 +163,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-25024
@@ -264,7 +252,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003
 
 - id: c-168000
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -291,7 +279,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-168001
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -325,7 +313,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-170480
   autorius: "Anoniminis metraštininkas"
@@ -353,4 +341,4 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006

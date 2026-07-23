@@ -56,12 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir visiškai pagrįstas citata."
   pagrindžia:
     - c-83621
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171397|Totoriai]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš [[objektai/asmenys/Henrikas Plauenas.md#claim-t-87689|Henrikas Plauenas]]: Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178820|Kryžiuočių ordinas]]: 1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu.
-- susijęs iš [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje.md#claim-t-87165|Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]: 1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto.
-- susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
+
 ## Citatos
 
 - id: c-83621

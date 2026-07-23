@@ -72,7 +72,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-174069
 
 <a id="claim-t-191189"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-174071
 
 <a id="claim-t-192605"></a>
-- t-005
+- t-004
   teiginys: "Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-175376
 
 <a id="claim-t-197843"></a>
-- t-006
+- t-005
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-175376
 
 <a id="claim-t-201049"></a>
-- t-007
+- t-006
   teiginys: "Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di džiojo anglų viešpaties, arba karaliaus, į Žemaičius prekybos teirautis, nuo kur grįždamas tokias žinias būk pargabenęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -134,23 +134,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184399
-
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antra ap­
-    skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
-    senovės stovėjusios pilaitės galėjo priklausyti įvairiems
-    savininkams. Čia irgi nestigo ponų, turėjusių savaran­
-    kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
-    jų karta išliko ligi šiol.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -226,7 +209,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-175376
   autorius: "Teodoras Narbutas"
@@ -250,8 +233,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-005
-    - t-006
 
 - id: c-184399
   autorius: "Simonas Daukantas"
@@ -277,7 +260,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 - Vulfstanas keliavo į [[objektai/vietos/Estija]]

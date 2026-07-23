@@ -52,8 +52,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-45479
-- susijęs iš [[objektai/grupes/Žarėnų kuopa.md#claim-t-41221|Žarėnų kuopa]]: 1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Dievo Krėslo miške aptiko Žarėnų kuopos partizanų stovyklą.
-- susijęs iš Dievo Krėslo miškas: 1949 m. gegužės 21 d. Dievo Krėslo miške MGB 32-asis šaulių pulkas aptiko Žarėnų kuopos partizanų stovyklą.
+
 ## Citatos
 
 - id: c-45479

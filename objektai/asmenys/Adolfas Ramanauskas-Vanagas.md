@@ -73,11 +73,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41794
-- susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
-- susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41026|Lietuvos gynybos pajėgos]]: 1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66775|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.
-- susijęs iš Merkinė: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.
+
 ## Citatos
 
 - id: c-41794

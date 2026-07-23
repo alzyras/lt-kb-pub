@@ -64,7 +64,7 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Teiginiai
 
 <a id="claim-t-23363"></a>
-- t-003
+- t-001
   teiginys: "Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -106,4 +106,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

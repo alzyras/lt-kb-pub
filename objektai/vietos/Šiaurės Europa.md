@@ -32,7 +32,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 ## Teiginiai
 
 <a id="claim-t-77713"></a>
-- t-002
+- t-001
   teiginys: "XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - c-24625
 
 <a id="claim-t-77714"></a>
-- t-001
+- t-002
   teiginys: "Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175559
-- susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
+
 ## Citatos
 
 - id: c-24625
@@ -127,8 +127,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-171764
   autorius: "Teodoras Narbutas"

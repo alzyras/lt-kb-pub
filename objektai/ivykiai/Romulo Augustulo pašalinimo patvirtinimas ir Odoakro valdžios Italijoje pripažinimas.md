@@ -157,11 +157,12 @@ Nenurodyta
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo
     linkę jį remti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
+
 - c-003
   santrauka: 'Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -181,11 +182,11 @@ Nenurodyta
     problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
     trečdalį žemės valdų1.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-006
 
 ## Citatos
 

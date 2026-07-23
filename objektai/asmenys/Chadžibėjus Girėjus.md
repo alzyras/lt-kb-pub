@@ -47,9 +47,7 @@ Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169551
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184665|Algirdas (Lietuvos valdovas)]]: Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.
-- susijęs iš [[objektai/asmenys/Dimitras sultanas.md#claim-t-186196|Dimitras sultanas]]: Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.
-- susijęs iš [[objektai/asmenys/Kutlubugas.md#claim-t-186230|Kutlubugas]]: Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.'
@@ -63,11 +61,10 @@ Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris 
     Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
     rai pasirengę mūšiui ir negaišdami stos į kovą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169551

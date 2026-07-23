@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200669"></a>
-- t-002
+- t-001
   teiginys: "1751 m. giminės rezidencijos statybos metu buvo aptariama, kur ir kokie turi būti herbų bareljefai."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-183936
 
 <a id="claim-t-200670"></a>
-- t-001
+- t-002
   teiginys: "1751 m. rezidencijos stogą nurodyta dengti variu, kad gausūs lietūs jam nepakenktų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -105,5 +105,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

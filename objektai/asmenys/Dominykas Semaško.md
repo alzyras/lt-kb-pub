@@ -79,6 +79,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   citata_rodoma: "karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

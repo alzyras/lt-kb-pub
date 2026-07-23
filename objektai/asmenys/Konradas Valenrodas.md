@@ -39,7 +39,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 <a id="claim-t-87395"></a>
-- t-003
+- t-001
   teiginys: "Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83377
 
 <a id="claim-t-87397"></a>
-- t-004
+- t-003
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83375
 
 <a id="claim-t-87398"></a>
-- t-001
+- t-004
   teiginys: "Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,18 +110,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83376
-- susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87441|Konradas Ciolneris Rotenšteinas]]: Konradas Ciolneris fon Rotenšteinas mirė iki 1390 m. rugpjūčio 15 d., kai Konradas Valenrodas tapo didžiojo magistro vietininku.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172920|M. Strijkovskis Stryjkowski]]: Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172899|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172908|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.
-- susijęs iš [[objektai/autoriai/Miechovita.md#claim-t-88096|Miechovita]]: Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
-- susijęs iš [[objektai/autoriai/Miechowita Miechovita.md#claim-t-88034|Miechowita Miechovita]]: Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.
-- susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87430|Henrikas Lankasteris]]: Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172067|Anglai]]: Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas.
-- susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
-- susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86491|Ordino maršalas didysis maršalas]]: Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru.
-- susijęs iš [[objektai/zodynas/didysis komtūras arkikomtūras.md#claim-t-86586|didysis komtūras arkikomtūras]]: Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113615|didysis magistras]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru.
+
 ## Citatos
 
 - id: c-83374
@@ -158,7 +147,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-83375
   autorius: "Michał Baliński"
@@ -185,7 +174,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-83376
   autorius: "Michał Baliński"
@@ -208,7 +197,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-83377
   autorius: "Michał Baliński"

@@ -48,7 +48,7 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172985
-- susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę.
+
 ## Citatos
 
 - id: c-172985

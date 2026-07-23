@@ -45,7 +45,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 ## Teiginiai
 
 <a id="claim-t-40588"></a>
-- t-005
+- t-001
   teiginys: "Albertas Daugirdas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie AT rūmų gynybos ruožus bendraautoris."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -63,7 +63,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
     - c-42383
 
 <a id="claim-t-40589"></a>
-- t-006
+- t-002
   teiginys: "Albertas Daugirdas gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -82,7 +82,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
     - c-42384
 
 <a id="claim-t-40590"></a>
-- t-004
+- t-003
   teiginys: "Albertas Daugirdas buvo AT gynybos dalyvis ir tyrė 1944–1953 m. rezistencinių kovų bei 1991 m. pasipriešinimo genezę."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -98,9 +98,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-42384
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas: 2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“.
+
 ## Citatos
 
 - id: c-42383
@@ -117,7 +115,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-42384
   sudarytojas: "Karolis Zikaras"
@@ -142,5 +140,5 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-004
+    - t-002
+    - t-003

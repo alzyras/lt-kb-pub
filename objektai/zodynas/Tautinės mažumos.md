@@ -37,7 +37,7 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 ## Teiginiai
 
 <a id="claim-t-169938"></a>
-- t-002
+- t-001
   teiginys: "Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,14 +51,7 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154617
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169935|tautinė mažuma etninė kultūrinė mažuma]]: Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169936|tautinė mažuma etninė kultūrinė mažuma]]: Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais.
-- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-183475|tautinė mažuma etninė kultūrinė mažuma]]: Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą.
-- susijęs iš [[objektai/asmenys/Antanas Baranauskas.md#claim-t-78030|Antanas Baranauskas]]: Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.
-- susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169732|Lietuvos socialdemokratų partija]]: Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.
-- susijęs iš [[objektai/posakiai/„teritoriniai patriotai“.md#claim-t-20953|„teritoriniai patriotai“]]: A. Smetona teigė, kad tautinės mažumos turi būti Lietuvos „teritoriniai patriotai“.
-- susijęs iš Kaunas: Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų.
+
 ## Citatos
 
 - id: c-154617
@@ -81,4 +74,4 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

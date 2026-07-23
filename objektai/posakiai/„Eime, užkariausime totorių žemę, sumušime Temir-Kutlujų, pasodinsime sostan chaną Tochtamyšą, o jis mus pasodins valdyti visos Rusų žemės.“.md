@@ -67,7 +67,6 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-177404

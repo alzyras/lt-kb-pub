@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194624"></a>
-- t-002
+- t-001
   teiginys: "Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Nenurodyta
     - c-177023
 
 <a id="claim-t-197251"></a>
-- t-003
+- t-002
   teiginys: "Mirusiųjų vėles pir miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa ruošti prausimo reikmenys ir drabužiai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-179087
 
 <a id="claim-t-197252"></a>
-- t-004
+- t-003
   teiginys: "Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė, jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido tuvių apeigas ir per žynius ieškotų priemonių laimingam am žinajam."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177023
   autorius: "Teodoras Narbutas"
@@ -133,7 +133,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-179087
   autorius: "Teodoras Narbutas"
@@ -153,4 +153,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

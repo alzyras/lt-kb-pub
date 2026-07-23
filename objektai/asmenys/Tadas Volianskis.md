@@ -102,7 +102,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-172869
 
 <a id="claim-t-189990"></a>
-- t-006
+- t-005
   teiginys: "Narbutas nurodo, kad pagal Tado Volianskio šifruotę runų užrašas piešinyje reiškė Vaivedučio vardą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-172873
 
 <a id="claim-t-189991"></a>
-- t-007
+- t-006
   teiginys: "Narbutas rašo, kad Tadas Volianskis 1630 m. testamento antspaudo užrašą skaitė kaip „Mattez“, arba Matas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-172874
 
 <a id="claim-t-190979"></a>
-- t-008
+- t-007
   teiginys: "Tadas Volianskis 1844 m. sausį Narbutui siuntė savo seniau į lenkų kalbą išverstą dainą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173861
 
 <a id="claim-t-190980"></a>
-- t-009
+- t-008
   teiginys: "Tadas Volianskis Narbutui pateikė numizmatinio radinio piešinį ir aprašė auksinį medalioną, jo siejamą su Samboru, vadintu Kurchu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173862
 
 <a id="claim-t-190981"></a>
-- t-010
+- t-009
   teiginys: "Tadas Volianskis figūroje įžvelgė galvą su ragais, kurie iš užpakalio jam buvo panašūs į erelį su nagais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173864
 
 <a id="claim-t-190982"></a>
-- t-011
+- t-010
   teiginys: "Tadas Volianskis Narbutui atsiuntė panašios monetos piešinį ir manė, kad Lietuvoje rasta moneta priklauso lietuviškiems paminklams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173864
 
 <a id="claim-t-190983"></a>
-- t-012
+- t-011
   teiginys: "Narbutas rašo, kad trečiame veikalo tome turėjo būti aptartas Tado Volianskio naujas Henenbergerio užrašo aiškinimas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -241,7 +241,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173865
 
 <a id="claim-t-190984"></a>
-- t-013
+- t-012
   teiginys: "Narbutas nurodo, kad runų užrašas reiškė Vaidevučio vardą pagal Tado Volianskio šifruotę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -261,7 +261,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-173866
 
 <a id="claim-t-197444"></a>
-- t-014
+- t-013
   teiginys: "Tadas Volianskis remiasi į nulaužtą medžio kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, laiko kažką panašaus į pasagą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -273,7 +273,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-179191
 
 <a id="claim-t-197821"></a>
-- t-015
+- t-014
   teiginys: "Šios dainos vertimą į lenkų kalbą istorikas gavo iš savo korespondento archeologo, kolekcio nieriaus Tado Volianskio (Wolanski)."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -285,7 +285,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
     - c-179354
 
 <a id="claim-t-197822"></a>
-- t-016
+- t-015
   teiginys: "Tadas Volianskis reiškia IOVI OPTIMO MAXIMO."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -384,7 +384,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172868
@@ -479,7 +478,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-172874
   autorius: "Teodoras Narbutas"
@@ -502,7 +501,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-173861
   autorius: "Teodoras Narbutas"
@@ -522,7 +521,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-173862
   autorius: "Teodoras Narbutas"
@@ -551,7 +550,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-173863
   autorius: "Teodoras Narbutas"
@@ -570,7 +569,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-173864
   autorius: "Teodoras Narbutas"
@@ -589,8 +588,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-009
     - t-010
-    - t-011
 
 - id: c-173865
   autorius: "Teodoras Narbutas"
@@ -611,7 +610,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-173866
   autorius: "Teodoras Narbutas"
@@ -630,7 +629,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-179191
   autorius: "Teodoras Narbutas"
@@ -652,7 +651,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-179354
   autorius: "Teodoras Narbutas"
@@ -680,4 +679,4 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014

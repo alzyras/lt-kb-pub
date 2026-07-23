@@ -86,7 +86,7 @@ Nenurodyta
     - c-172668
 
 <a id="claim-t-194636"></a>
-- t-005
+- t-003
   teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-177034
 
 <a id="claim-t-197267"></a>
-- t-006
+- t-004
   teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -182,7 +182,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-004
 
 - id: c-172668
   autorius: "Teodoras Narbutas"
@@ -225,4 +225,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

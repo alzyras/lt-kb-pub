@@ -140,6 +140,7 @@ Nenurodyta
   citata_rodoma: "288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams. Liubeko\npirklių ignoravimą galima paaiškinti tuo, kad kronikos rašymo laikotarpiu vyko kova tarp\nOrdino ir Rygos (PKD, p. 45—46)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,7 +55,7 @@ Krumbholtz : KrSO, 121 sqq.
   vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
   pagrindžia:
     - c-94022
-- susijęs iš J. Jakštas, Jogailos ir Vytauto kovos su vokiečių ordinu: J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio.
+
 ## Citatos
 
 - id: c-94022

@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54324"></a>
-- t-002
+- t-001
   teiginys: "Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-55194
 
 <a id="claim-t-54325"></a>
-- t-001
+- t-002
   teiginys: "1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-55195
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -174,7 +174,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003
 
 - id: c-166719

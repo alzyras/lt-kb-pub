@@ -52,7 +52,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174102
 
 <a id="claim-t-191222"></a>
-- t-003
+- t-002
   teiginys: "Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174104
 
 <a id="claim-t-191223"></a>
-- t-004
+- t-003
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174105
 
 <a id="claim-t-197793"></a>
-- t-005
+- t-004
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174102
 
 <a id="claim-t-197794"></a>
-- t-006
+- t-005
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174104
 
 <a id="claim-t-197795"></a>
-- t-007
+- t-006
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-179343
 
 <a id="claim-t-201023"></a>
-- t-008
+- t-007
   teiginys: "Nes jei Brutenis buvo jau viešpačiu ir tarnu dievų ir visų vyriausiu valdymieru ūkės dar pirm Vitevudo, kaip pati pasaka byloja, tai turėjo pirmesniai būti žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus pirm to jau godojo, ką ne vien Pitėjas, kurs tą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-174104
   autorius: "Teodoras Narbutas"
@@ -208,8 +208,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-002
+    - t-005
 
 - id: c-174105
   autorius: "Teodoras Narbutas"
@@ -242,7 +242,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-179343
   autorius: "Teodoras Narbutas"
@@ -272,7 +272,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-184373
   autorius: "Simonas Daukantas"
@@ -305,4 +305,4 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

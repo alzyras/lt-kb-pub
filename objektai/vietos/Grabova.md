@@ -39,7 +39,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Teiginiai
 
 <a id="claim-t-67983"></a>
-- t-002
+- t-001
   teiginys: "1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     - c-37389
 
 <a id="claim-t-67984"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -72,8 +72,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67692
-- susijęs iš Augustavas: Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože.
-- susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
+
 ## Citatos
 
 - id: c-37389
@@ -98,7 +97,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67692
   redaktorius: "A. Šapoka"
@@ -122,4 +121,4 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

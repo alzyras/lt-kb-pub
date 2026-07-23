@@ -148,22 +148,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184063
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
-- susijęs iš [[objektai/asmenys/Karolis Didysis.md#claim-t-78062|Karolis Didysis]]: Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
-- susijęs iš Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje: J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.
-- susijęs iš Ispanija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
-- susijęs iš Skandinavija: Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.
-- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
-- susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
-- susijęs iš [[objektai/asmenys/Peteris Paulius Rubensas.md#claim-t-19189|Peteris Paulius Rubensas]]: Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.
-- susijęs iš [[objektai/grupes/Katalikiškoji ir protestantiškoji Europa.md#claim-t-16165|Katalikiškoji ir protestantiškoji Europa]]: XVII–XVIII a. senoji Vakarų Europa skilo į pietinę katalikiškąją ir šiaurinę protestantiškąją dalis.
-- susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
-- susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
-- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-184357|lotyniškasis krikštas (krikštas)]]: Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.
-- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47928|lotyniškasis krikštas (krikštas)]]: Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.
+
 ## Citatos
 
 - id: c-155482

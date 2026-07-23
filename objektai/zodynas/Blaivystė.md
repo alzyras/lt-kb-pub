@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Blaivystė'
 sukurta: '2026-07-12'
 variantai:
-  - 'blaivystės'
-  - 'blaivystė'
+  - blaivystės
+  - blaivystė
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -62,6 +62,7 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
   citata_rodoma: "Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

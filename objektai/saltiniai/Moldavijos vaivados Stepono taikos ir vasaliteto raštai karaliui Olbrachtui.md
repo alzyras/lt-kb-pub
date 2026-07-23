@@ -30,7 +30,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 ## Teiginiai
 
 <a id="claim-t-196803"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad po Briansko pilies sudegimo maskvėnai užėmė Briansko miestą ir visą kraštą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
     - c-178920
 
 <a id="claim-t-196804"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Semionas Ivanovičius ir Vasilijus Semiačičius prie Kontovto upės prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178921
   autorius: "Anoniminis metraštininkas"
@@ -155,4 +155,4 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

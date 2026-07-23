@@ -101,7 +101,7 @@ Nenurodyta
     - c-73167
 
 <a id="claim-t-75371"></a>
-- t-005
+- t-004
   teiginys: "Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,4 +162,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004

@@ -67,9 +67,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177150
-- susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
-- susijęs iš [[objektai/asmenys/Rusovas.md#claim-t-190207|Rusovas]]: Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą kaip laisvės ir vyriškumo globėją.
-- susijęs iš [[objektai/autoriai/Rusovas.md#claim-t-190452|Rusovas]]: Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinimą kaip laisvės ir vyriškumo globėjos.
+
 ## Citatos
 
 - id: c-171828

@@ -37,7 +37,7 @@ Pilviškių vis. Pilviškių vls.
 ## Teiginiai
 
 <a id="claim-t-42027"></a>
-- t-002
+- t-001
   teiginys: "1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Pilviškių vis. Pilviškių vls.
     - c-45275
 
 <a id="claim-t-42028"></a>
-- t-001
+- t-002
   teiginys: "1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,10 +71,7 @@ Pilviškių vis. Pilviškių vls.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-43742
-- susijęs iš [[objektai/grupes/MGB.md#claim-t-65908|MGB]]: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.
-- susijęs iš Gulbiniškiai: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.
-- susijęs iš Vilkaviškio apskritis: 1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.
-- susijęs iš Vilkaviškio apskritis: 1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.
+
 ## Citatos
 
 - id: c-43742
@@ -93,7 +90,7 @@ Pilviškių vis. Pilviškių vls.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-45275
   sudarytojas: "Karolis Zikaras"
@@ -111,4 +108,4 @@ Pilviškių vis. Pilviškių vls.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

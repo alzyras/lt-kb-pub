@@ -45,9 +45,7 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   semantiniai_rysiai: "Sivindukas buvo sūnus Madykas (0.95)"
   pagrindžia:
     - c-44510
-- susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
-- susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-183663|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
-- susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-38878|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
+
 ## Citatos
 
 - id: c-44510

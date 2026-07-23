@@ -59,7 +59,7 @@ media_all_json: |-
     - c-76604
 
 <a id="claim-t-79641"></a>
-- t-005
+- t-002
   teiginys: "Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-43588
 
 <a id="claim-t-79642"></a>
-- t-002
+- t-003
   teiginys: "1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ media_all_json: |-
     - c-43585
 
 <a id="claim-t-79643"></a>
-- t-006
+- t-004
   teiginys: "Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ media_all_json: |-
     - c-43588
 
 <a id="claim-t-79645"></a>
-- t-007
+- t-005
   teiginys: "1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ media_all_json: |-
     - c-76605
 
 <a id="claim-t-79646"></a>
-- t-003
+- t-006
   teiginys: "Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43586
-- susijęs iš Gardinas: Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.
+
 ## Citatos
 
 - id: c-43585
@@ -164,7 +164,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-43586
   sudarytojas: "Karolis Zikaras"
@@ -185,7 +185,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-006
 
 - id: c-43588
   sudarytojas: "Karolis Zikaras"
@@ -204,8 +204,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-002
+    - t-004
 
 - id: c-76604
   sudarytojas: "Karolis Zikaras"
@@ -246,7 +246,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 - Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]

@@ -8,13 +8,13 @@ datos:
   - '1360 m.'
 date_start: '1359'
 date_end: '1360'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestelis
   - vieta
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

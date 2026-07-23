@@ -9,15 +9,15 @@ datos:
   - '1983 m.'
 date_start: '1961'
 date_end: '1983'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 ## Teiginiai
 
 <a id="claim-t-97146"></a>
-- t-003
+- t-001
   teiginys: "A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +73,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus parengėjo vaidmenį ir leidinio duomenis."
   pagrindžia:
     - c-91657
-- susijęs iš [[objektai/autoriai/S. Matulaitytė.md#claim-t-30970|S. Matulaitytė]]: S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179533|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.'
@@ -83,11 +82,10 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-30442
@@ -109,7 +107,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-91657
   autorius: "Petras Dusburgietis"

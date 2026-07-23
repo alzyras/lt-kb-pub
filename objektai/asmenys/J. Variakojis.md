@@ -39,7 +39,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Teiginiai
 
 <a id="claim-t-40166"></a>
-- t-004
+- t-001
   teiginys: "J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     - c-44366
 
 <a id="claim-t-40167"></a>
-- t-001
+- t-002
   teiginys: "1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     - c-44365
 
 <a id="claim-t-40169"></a>
-- t-002
+- t-004
   teiginys: "Iki 1919 m. kovo pabaigos J. Variakojo vadovaujamas Panevėžio srities apsaugos būrys išaugo ir sustiprėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +102,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako J. Variakojo vadovaujamo būrio raidą ir remiasi citata."
   pagrindžia:
     - c-41967
-- susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
-- susijęs iš Kėdainiai: 1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.
+
 ## Citatos
 
 - id: c-41967
@@ -126,7 +125,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-44365
   sudarytojas: "Karolis Zikaras"
@@ -163,7 +162,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-44367
   sudarytojas: "Karolis Zikaras"
@@ -190,7 +189,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - J. Variakojis keliavo į [[objektai/vietos/Kėdainiai]]

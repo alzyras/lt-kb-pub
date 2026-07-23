@@ -77,16 +77,3 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
-- susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
-- susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78366|Lietuvos komunistų partija]]: 1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.
-- susijęs iš [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą.md#claim-t-66736|Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]: Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.
-- susijęs iš [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą.md#claim-t-66737|Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]: 1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-- susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
-- susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
-- susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
-- susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
-- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.

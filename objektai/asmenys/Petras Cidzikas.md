@@ -58,8 +58,3 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
-- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
-- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.

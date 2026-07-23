@@ -55,7 +55,7 @@ Kryczyński, St.: Tatarzy litewscy.
   temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus monografijos pavadinimą, pobūdį, vietą ir metus."
   pagrindžia:
     - c-29507
-- susijęs iš [[objektai/autoriai/Kryczyński, St.md#claim-t-29246|Kryczyński, St]]: St. Kryczyński 1938 m. Varšuvoje paskelbė istorinę-etnografinę monografiją „Tatarzy litewscy“.
+
 ## Citatos
 
 - id: c-29507

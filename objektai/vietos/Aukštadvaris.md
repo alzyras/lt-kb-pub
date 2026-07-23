@@ -44,22 +44,7 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45028
-- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
-- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
-- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
-- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97205|P. Pakarklis]]: P. Pakarklis parašė straipsnį „Lietuvos Didžiųjų Kunigaikščių metraštis“, paskelbtą AkMD 3 tome 1957 m.
-- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40827|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
-- susijęs iš [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-80640|asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Ankstyvą popietę batalionas Aukštadvaryje išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
-- susijęs iš [[objektai/posakiai/traukiniais į Maskvą.md#claim-t-41476|traukiniais į Maskvą]]: Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“.
-- susijęs iš Lietuvos Didžiųjų Kunigaikščių metraštis: „Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.
-- susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ citatoje apibūdinta kaip vienašališkai poleminė ir datuota 1948 m.
-- susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.
-- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40827|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
+
 ## Citatos
 
 - id: c-45028

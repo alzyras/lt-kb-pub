@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54737"></a>
-- t-002
+- t-001
   teiginys: "Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką."
   atnaujinta: "2026-05-27 06:43"
   sprendimo_priezastis: "gap::customs"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-55729
 
 <a id="claim-t-54738"></a>
-- t-001
+- t-002
   teiginys: "Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -108,5 +108,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -52,8 +52,7 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
   semantiniai_rysiai: "Vokiečiai apgulė Veliuona (0.65)"
   pagrindžia:
     - c-33976
-- susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
-- susijęs iš Narva: Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.
+
 ## Citatos
 
 - id: c-33976

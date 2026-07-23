@@ -13,8 +13,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,6 +20,8 @@ tags:
   - kunigaikštis
   - karalius
   - kunigas
+amziai:
+  - 'XVI'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -45,7 +45,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 ## Teiginiai
 
 <a id="claim-t-182749"></a>
-- t-062
+- t-001
   teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-166162
 
 <a id="claim-t-183581"></a>
-- t-063
+- t-002
   teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-166974
 
 <a id="claim-t-183582"></a>
-- t-064
+- t-003
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-166975
 
 <a id="claim-t-183845"></a>
-- t-065
+- t-004
   teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167230
 
 <a id="claim-t-183846"></a>
-- t-066
+- t-005
   teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167231
 
 <a id="claim-t-183847"></a>
-- t-067
+- t-006
   teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167232
 
 <a id="claim-t-183848"></a>
-- t-068
+- t-007
   teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167233
 
 <a id="claim-t-183849"></a>
-- t-069
+- t-008
   teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167234
 
 <a id="claim-t-183850"></a>
-- t-070
+- t-009
   teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167235
 
 <a id="claim-t-183851"></a>
-- t-071
+- t-010
   teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -243,7 +243,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167236
 
 <a id="claim-t-183852"></a>
-- t-072
+- t-011
   teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -265,7 +265,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167237
 
 <a id="claim-t-183853"></a>
-- t-073
+- t-012
   teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -287,7 +287,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167238
 
 <a id="claim-t-183854"></a>
-- t-074
+- t-013
   teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -307,7 +307,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-167239
 
 <a id="claim-t-184910"></a>
-- t-075
+- t-014
   teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
   atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
@@ -330,7 +330,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-168272
 
 <a id="claim-t-184911"></a>
-- t-076
+- t-015
   teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -343,7 +343,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-168272
 
 <a id="claim-t-188657"></a>
-- t-018
+- t-016
   teiginys: "Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -362,7 +362,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-171546
 
 <a id="claim-t-188658"></a>
-- t-019
+- t-017
   teiginys: "Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -381,7 +381,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-171547
 
 <a id="claim-t-194728"></a>
-- t-079
+- t-018
   teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -394,7 +394,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-171547
 
 <a id="claim-t-196668"></a>
-- t-080
+- t-019
   teiginys: "Kadangi švedų valdovas atsisakė siūlomos sąjungos, būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud ros, Augustas laiškais stengėsi sutaikyti švedus bei maskvėnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -407,7 +407,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-178828
 
 <a id="claim-t-197460"></a>
-- t-083
+- t-020
   teiginys: "Žygimantas Augustas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -419,7 +419,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-177124
 
 <a id="claim-t-200770"></a>
-- t-084
+- t-021
   teiginys: "Mikalojus Vorobjovas rašė, kad italų menininkai Vilniuje dirbo pakviesti Žygimanto Augusto, kuris, sakoma, buvo Šv. Onos fundatorius."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -439,7 +439,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-184115
 
 <a id="claim-t-201565"></a>
-- t-085
+- t-022
   teiginys: "1547 m. Žygimantas Augustas pakartojo tėvo nurodymus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -451,7 +451,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-184912
 
 <a id="claim-t-201566"></a>
-- t-086
+- t-023
   teiginys: "1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdoma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis, kurį turėjo sumokėti į miestą su prekėmis atvykęs pirklys) kaip iš maskvėnų, nurodė kauniečiams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -463,7 +463,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - c-184913
 
 <a id="claim-t-202316"></a>
-- t-087
+- t-024
   teiginys: "Žygimanto Augusto laikais dalis mokesčių iždui buvo mokama bebrų, kiaunių ir lapių kailiais, o valstybinių žemių nuomininkai atsiskaitydavo lino audiniais."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -474,82 +474,37 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
     - c-185663
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
-- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
-- susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
-- susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
-- susijęs iš [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai.md#claim-t-87042|Žygimanto Augusto pilies bažnyčių pastatai]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169846|Liublino unija (1569 m.)]]: Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169848|Liublino unija (1569 m.)]]: Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.
-- susijęs iš [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.).md#claim-t-86934|Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]: Žygimantas Augustas įsakė lietuvišką monetą, vertą dviejų lietuviškų grašių, priimti už pustrečio lenkiško grašio.
-- susijęs iš 1538 m. Žygimanto Augusto laiškas Kiščinai dėl Drujos vandens: 1538 m. rugsėjo 1 d. Žygimantas Augustas laišku įspėjo Kiščiną nestabdyti vandens, vamzdžiais vedamo į miestą iš Drujos upės Paplaujoje.
-- susijęs iš 1545 m. Žygimanto Augusto įsakymas dėl Švč. Trejybės prieglaudos pajamų: 1545 m. gegužės 4 d. Žygimantas Augustas Švč. Trejybės prieglaudos pajamų valdymą patikėjo Vilniaus magistratui.
-- susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Žygimantas Augustas suteikė Martynui Paleckiui ir jo palikuonims išimtinę teisę supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
-- susijęs iš 1551 m. Žygimanto Augusto privilegija Mikalojui Radvilai dėl Lietuvos Didžiosios Kunigaikštystės privilegijų saugojimo: 1551 m. Vilniuje Žygimantas Augustas suteikė Mikalojui Radvilai ir būsimiems Nesvyžiaus kunigaikščiams teisę saugoti Lietuvos Kunigaikštystės privilegijas.
-- susijęs iš 1551 m. Žygimanto Augusto privilegija Mikalojui Radvilai dėl Lietuvos Didžiosios Kunigaikštystės privilegijų saugojimo: Žygimantas Augustas Mikalojui Radvilai ir jo įpėdiniams suteikė teisę saugoti Lietuvos Kunigaikštystės privilegijas, laisves ir imunitetus.
-- susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
-- susijęs iš 1571 m. Žygimanto Augusto privilegija dėl Šv. Jono bažnyčios prijungimo prie Jėzaus Draugijos kolegijos: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Generalinis potvarkis dėl lietuviškų monetų: Žygimantas Augustas įsakė lietuviškus grašius imti po pustrečio lenkiško grašio už du lietuviškus grašius.
-- susijęs iš Liublino unijos aktas (1569 m.): LDK atstovai priėmė Liublino unijos kompromisą, nors lenkai ir Žygimantas Augustas spaudė naikinti Lietuvos valstybingumą ir atplėšti teritorijų.
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
-- susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
-- susijęs iš Pulavų bibliotekos rankraščiai: Pulavų bibliotekos rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
-- susijęs iš Žygimanto Augusto testamentas (1571 m. gegužės 6 d.): Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.
-- susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
-- susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Knišinas: Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.
-- susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
-- susijęs iš [[objektai/asmenys/Albinas (Vilniaus sufraganas).md#claim-t-87611|Albinas (Vilniaus sufraganas)]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113975|Steponas Batoras]]: 1576 m. rugsėjo 23 d. laiške Steponas Batoras pareiškė, kad muito nenustatys be Senato tarybos sutikimo.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113979|Steponas Batoras]]: Steponas Batoras 1576 m. rugsėjo 23 d. pareiškė, kad muitų nenustatys be Senato tarybos sutikimo.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169703|Lietuvos Didžioji Kunigaikštystė]]: Žygimantas Augustas, pasigailėjęs Lietuvos Didžiosios Kunigaikštystės pavaldinių, paskelbė lietuviškos monetos vertės taisyklę.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187720|Lietuvos Didžioji Kunigaikštystė]]: Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą.
-- susijęs iš [[objektai/grupes/Lietuvos ponų taryba.md#claim-t-86731|Lietuvos ponų taryba]]: Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172766|Radvilų giminė]]: Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.
-- susijęs iš [[objektai/grupes/Vilniaus akademijos kolegija.md#claim-t-86787|Vilniaus akademijos kolegija]]: 1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86704|Vilniaus jėzuitų kolegija]]: Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.
-- susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86711|Vilniaus jėzuitų kolegija]]: 1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176083|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176087|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
-- susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172852|Vilniaus pirkliai]]: Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169843|Liublino unija (1569 m.)]]: Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-188373|Liublino unija (1569 m.)]]: Narbutas lietuvių politinę ir kultūrinę raidą apžvelgė nuo seniausių laikų iki 1569 m. Liublino unijos.
-- susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
-- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-183827|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę.
-- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
-- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę.md#claim-t-87309|Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]: 1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.
-- susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
-- susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
-- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
-- susijęs iš Kijevas: Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas.
-- susijęs iš Kijevas: Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.
-- susijęs iš Knišinas: Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
-- susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
-- susijęs iš Marienburgas: 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.
-- susijęs iš Marienburgas: 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.
-- susijęs iš Palenkė: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.
-- susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
-- susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
-- susijęs iš Šv. Barboros bažnyčia Žemutinėje pilyje: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86512|arkipresbiteris nuolatinis vikaras adjutoriai]]: 1571 m. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai.md#claim-t-86478|lietuviška moneta ir lenkiški pinigai]]: Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio.
-- susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86537|mansionieriai]]: Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.
-- susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86425|muitas thelonea]]: Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.
-- susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
-- susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
+
+## Reikšmingi paminėjimai
+- c-014
+  santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    septyneriems metams, o klau-
+    S e p ty n m e tė s
+    p oliau -
+    simą dėl belaisvių perduoti
+    b o s su M a sk v o s ku -
+    pačiam karaliui. Po to mask-
+    n ig a ik šč iu
+    venai atvyko į Vilnių, dė­
+    damiesi atkeliavę pasirašy­
+    ti paliaubų, o iš tikrųjų norėdami sužinoti, kas ma­
+    noma dėl paliaubų metu užimtų kaimų ir belaisvių, ar
+    negalima trumpų paliaubų pakeisti taikos sutartimi,
+    tačiau tokiomis sąlygomis, kad lietuviai paliktų Mask­
+    vos kunigaikščiui Gomelį, atsisakytų Smolensko, rei­
+    kalaudami už tai kokių kitų žemių, o belaisvius abi
+    šalys be niekur nieko paleistų į laisvę, nepaisydamos
+    nei jų kilmės, nei kiekio. Atmetus visus šiuos reika­
+    lavimus, maskvėnams pažadėta, kad neilgai trukus prie
+    Sebežo atvyks karaliaus taikytojai; ištyrę vietoje rei­
+    kalą, jie ir atsilygins tiems, kurie neteko žemių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-166162
@@ -570,7 +525,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-001
 
 - id: c-166974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -588,7 +543,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-002
 
 - id: c-166975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -607,7 +562,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-003
 
 - id: c-167230
   autorius: "Michał Baliński"
@@ -625,7 +580,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-004
 
 - id: c-167231
   autorius: "Michał Baliński"
@@ -647,7 +602,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-005
 
 - id: c-167232
   autorius: "Michał Baliński"
@@ -667,7 +622,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
+    - t-006
 
 - id: c-167233
   autorius: "Michał Baliński"
@@ -692,7 +647,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-068
+    - t-007
 
 - id: c-167234
   autorius: "Michał Baliński"
@@ -716,7 +671,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-008
 
 - id: c-167235
   autorius: "Michał Baliński"
@@ -743,7 +698,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-009
 
 - id: c-167236
   autorius: "Michał Baliński"
@@ -769,7 +724,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-010
 
 - id: c-167237
   autorius: "Michał Baliński"
@@ -793,7 +748,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-011
 
 - id: c-167238
   autorius: "Michał Baliński"
@@ -821,7 +776,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-012
 
 - id: c-167239
   autorius: "Michał Baliński"
@@ -841,7 +796,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-074
+    - t-013
 
 - id: c-168271
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -871,7 +826,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
+    - t-014
 
 - id: c-168272
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -894,8 +849,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
-    - t-076
+    - t-014
+    - t-015
 
 - id: c-171546
   autorius: "Teodoras Narbutas"
@@ -914,7 +869,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-016
 
 - id: c-171547
   autorius: "Teodoras Narbutas"
@@ -935,8 +890,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-079
+    - t-017
+    - t-018
 
 - id: c-177124
   autorius: "Teodoras Narbutas"
@@ -959,7 +914,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
+    - t-020
 
 - id: c-178828
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -990,7 +945,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-080
+    - t-019
 
 - id: c-178829
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1030,7 +985,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-084
+    - t-021
 
 - id: c-184912
   autorius: "Zigmantas Kiaupa"
@@ -1046,7 +1001,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-085
+    - t-022
 
 - id: c-184913
   autorius: "Zigmantas Kiaupa"
@@ -1063,7 +1018,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-086
+    - t-023
 
 - id: c-185663
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
@@ -1073,7 +1028,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
   pagrindzia:
-    - t-087
+    - t-024
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

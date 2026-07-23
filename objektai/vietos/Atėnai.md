@@ -9,13 +9,13 @@ datos:
   - '2003 m.'
 date_start: '2003'
 date_end: ''
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,13 +87,7 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179362
-- susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš [[objektai/asmenys/Solonas.md#claim-t-190242|Solonas]]: Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad Solonas ją bandė išnaikinti Atėnuose.
-- susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
-- susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74116|Europos Sąjunga]]: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš Stojimo į Europos Sąjungą sutartis: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė stojimo į Europos Sąjungą sutartį.
-- susijęs iš [[objektai/ivykiai/Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu.md#claim-t-191030|Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu]]: Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose.'
@@ -120,7 +114,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-26551

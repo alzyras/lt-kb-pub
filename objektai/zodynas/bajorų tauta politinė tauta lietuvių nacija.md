@@ -32,7 +32,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 ## Teiginiai
 
 <a id="claim-t-101569"></a>
-- t-002
+- t-001
   teiginys: "Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -88,4 +88,4 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

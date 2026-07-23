@@ -31,7 +31,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 ## Teiginiai
 
 <a id="claim-t-89486"></a>
-- t-004
+- t-001
   teiginys: "Vydūnas šaltinyje nurodomas kaip Vilius Storasta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     - c-85435
 
 <a id="claim-t-89488"></a>
-- t-003
+- t-002
   teiginys: "Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +48,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-85437
-- susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
-- susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
+
 ## Citatos
 
 - id: c-85435
@@ -64,7 +63,7 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-85436
   autorius: "Petras Dusburgietis"
@@ -98,4 +97,4 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -43,6 +43,7 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
   citata_rodoma: "ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

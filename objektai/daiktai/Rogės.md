@@ -65,7 +65,7 @@ Nenurodyta
     - c-10279
 
 <a id="claim-t-186847"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -81,10 +81,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170030
-- susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
-- susijęs iš [[objektai/paprociai/Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas.md#claim-t-189865|Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas]]: Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.
-- susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
-- susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190266|Frydrichas Stenderis]]: Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
@@ -107,11 +104,10 @@ Nenurodyta
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-10279
@@ -156,4 +152,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

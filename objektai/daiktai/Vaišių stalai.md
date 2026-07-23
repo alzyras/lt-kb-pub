@@ -82,17 +82,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78407
-- susijęs iš [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai.md#claim-t-87108|Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.
-- susijęs iš [[objektai/asmenys/Boleslovas Didysis.md#claim-t-87636|Boleslovas Didysis]]: Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.
-- susijęs iš [[objektai/asmenys/Kazimieras Vežbickis.md#claim-t-87752|Kazimieras Vežbickis]]: 1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.
-- susijęs iš [[objektai/asmenys/Mykolas Vežbickis.md#claim-t-87803|Mykolas Vežbickis]]: 1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.
-- susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
-- susijęs iš [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.).md#claim-t-86951|Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė bibliotekai lėšas iš mūrinių namų ir Užupio sklypų pelno knygoms gausinti.
-- susijęs iš [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis.md#claim-t-87160|Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]: 1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.
-- susijęs iš Krokuva: 1399 m. pavasarį Vytautas praleido Krokuvoje ir vykdė plačius pasiruošimus.
-- susijęs iš Krokuva: 1399 m. pavasarį Krokuvoje praleidęs Vytautas vykdė plačius pasiruošimus.
-- susijęs iš Liaudanskų mūrinis namas: 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.
-- susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
+
 ## Citatos
 
 - id: c-55724

@@ -329,7 +329,7 @@ Nenurodyta
     - c-22565
 
 <a id="claim-t-26801"></a>
-- t-018
+- t-015
   teiginys: "Atgimimo laikotarpiu Lietuvos Persitvarkymo Sąjūdis, o ne Lietuvos laisvės lyga, tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -346,7 +346,7 @@ Nenurodyta
     - c-95027
 
 <a id="claim-t-26802"></a>
-- t-019
+- t-016
   teiginys: "Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -365,7 +365,7 @@ Nenurodyta
     - c-95026
 
 <a id="claim-t-26804"></a>
-- t-021
+- t-017
   teiginys: "LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -381,7 +381,7 @@ Nenurodyta
     - c-95022
 
 <a id="claim-t-26805"></a>
-- t-022
+- t-018
   teiginys: "LPS grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors iniciatyvinę grupę rinko tik vilniečiai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -393,7 +393,7 @@ Nenurodyta
     - c-95022
 
 <a id="claim-t-26806"></a>
-- t-023
+- t-019
   teiginys: "Lietuvos Persitvarkymo Sąjūdžio suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos bei demokratijos klausimais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -410,7 +410,7 @@ Nenurodyta
     - c-95029
 
 <a id="claim-t-26807"></a>
-- t-024
+- t-020
   teiginys: "1988 m. lapkritį Lietuvos Persitvarkymo Sąjūdžio aplinkoje visoje Lietuvoje reikalauta nepritarti SSRS konstitucijos pataisoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -430,7 +430,7 @@ Nenurodyta
     - c-95030
 
 <a id="claim-t-26808"></a>
-- t-025
+- t-021
   teiginys: "1989 m. LPS kandidatams laimėjus rinkimus į SSRS Aukščiausiąją Tarybą, lietuvių tautinis išsivadavimas įgijo politinį pobūdį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -450,7 +450,7 @@ Nenurodyta
     - c-16634
 
 <a id="claim-t-26809"></a>
-- t-026
+- t-022
   teiginys: "1990 m. sausį–vasarį rinkimų kampanijoje susidūrė LPS, skleidęs nepriklausomos Lietuvos atkūrimo idėją, ir savarankiška LKP."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -469,7 +469,7 @@ Nenurodyta
     - c-16635
 
 <a id="claim-t-26810"></a>
-- t-027
+- t-023
   teiginys: "1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -489,18 +489,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas citatos palaikomas sakinys."
   pagrindžia:
     - c-166550
-- susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64026|Petras Griškevičius]]: Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.
-- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-183262|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: Žinia apie LPS iniciatyvinę grupę greitai pasklido po visą Lietuvą, nes grupę sudarė žinomi inteligentai.
-- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-183255|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
-- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-66692|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75164|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
-- susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Rimgaudas Songaila.md#claim-t-64040|Rimgaudas Songaila]]: Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus poste, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
-- susijęs iš [[objektai/grupes/Dailininkų sąjunga.md#claim-t-19667|Dailininkų sąjunga]]: Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.
-- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
-- susijęs iš Kaunas: Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune.
-- susijęs iš Kaunas: Narbutas nurodo, kad Kauno šventasis miškas buvęs prie Neries ir Nemuno santakos.
-- susijęs iš Klaipėda: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
+
 ## Citatos
 
 - id: c-16625
@@ -657,7 +646,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-025
+    - t-021
 
 - id: c-16635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -682,7 +671,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
-    - t-026
+    - t-022
 
 - id: c-22559
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -808,8 +797,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-022
+    - t-017
+    - t-018
 
 - id: c-95026
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -833,7 +822,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-016
 
 - id: c-95027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -852,7 +841,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-95029
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -876,7 +865,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-019
 
 - id: c-95030
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -898,7 +887,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-020
 
 - id: c-166550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -921,7 +910,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-023
 
 - id: c-166551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

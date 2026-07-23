@@ -66,8 +66,7 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
   semantiniai_rysiai: "Markvardas Salzbaclias buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.60)"
   pagrindžia:
     - c-167744
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176674|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas viešai dėjosi nekaltas ir, Markvardo Salzbacho įžeistas dėl kaltinimų išdavus ordiną, skundėsi magistrui.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05218|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino.
+
 ## Citatos
 
 - id: c-28873

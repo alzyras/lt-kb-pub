@@ -9,14 +9,14 @@ datos:
   - '2000 m.'
 date_start: '1800'
 date_end: '2000'
-amziai:
-  - 'XVIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XVIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -81,7 +81,7 @@ Nenurodyta
     - c-174926
 
 <a id="claim-t-192055"></a>
-- t-003
+- t-002
   teiginys: "Narbutas priduria, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -98,7 +98,7 @@ Nenurodyta
     - c-174925
 
 <a id="claim-t-192492"></a>
-- t-004
+- t-003
   teiginys: "Narbutas pridėjo pastabą, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -134,11 +134,12 @@ Nenurodyta
     (Ten
     pat).
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192492
+  statusas: verified
+- t-003
+    - t-005
 
 ## Citatos
 
@@ -159,8 +160,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
 
 - id: c-174926
   autorius: "Zenonas Ivinskis"

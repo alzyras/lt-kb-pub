@@ -11,14 +11,14 @@ datos:
   - '1313 m.'
 date_start: '1301'
 date_end: '1313'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - sąvoka
   - karinis-terminas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-59515
 
 <a id="claim-t-58883"></a>
-- t-003
+- t-002
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-59516
 
 <a id="claim-t-184014"></a>
-- t-004
+- t-003
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas su visa šeimyna nusekė paskui Ordino brolius ir priėmė krikštą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ media_all_json: |-
     - c-59516
 
 <a id="claim-t-184634"></a>
-- t-005
+- t-004
   teiginys: "Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ media_all_json: |-
     - c-167995
 
 <a id="claim-t-184635"></a>
-- t-006
+- t-005
   teiginys: "Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ media_all_json: |-
     - c-167996
 
 <a id="claim-t-184636"></a>
-- t-007
+- t-006
   teiginys: "Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ media_all_json: |-
     - c-167997
 
 <a id="claim-t-194462"></a>
-- t-008
+- t-007
   teiginys: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -175,7 +175,7 @@ media_all_json: |-
     - c-59516
 
 <a id="claim-t-196386"></a>
-- t-009
+- t-008
   teiginys: "Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisvę, o pasitraukusieji į pilį neteko išplėštų ir sudegintų namų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -186,15 +186,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
   pagrindžia:
     - c-167995
-- susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66825|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-184015|pilėnas pilėnai]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, kurie įsiveržę vėl sugriovė pilį iki pamatų.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58800|pilėnas pilėnai]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, o vėliau su visa šeimyna priėmė krikštą.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58802|pilėnas pilėnai]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
-- susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
-- susijęs iš [[objektai/asmenys/Pinas.md#claim-t-60413|Pinas]]: Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184872|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.
-- susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
-- susijęs iš [[objektai/zodynas/stabų garbinimas stabmeldystė.md#claim-t-58925|stabų garbinimas stabmeldystė]]: 1301 m. Aukaimio pilėnas Draika panoro išsižadėti stabų garbinimo ir per sūnų Piną paprašė Ragainės komtūro Folrado pagalbos.
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -282,7 +274,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-59515
@@ -329,9 +320,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
-    - t-008
+    - t-007
 
 - id: c-167995
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -369,9 +360,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
-    - t-009
+    - t-004
+    - t-006
+    - t-008
 
 - id: c-167996
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -405,7 +396,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-167997
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -430,4 +421,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

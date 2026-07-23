@@ -39,7 +39,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 ## Teiginiai
 
 <a id="claim-t-67720"></a>
-- t-002
+- t-001
   teiginys: "1355 m. jo garnizonai įsikūrė Rževe ir Bialoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     - c-31973
 
 <a id="claim-t-193172"></a>
-- t-003
+- t-002
   teiginys: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -67,13 +67,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175920
-- susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191249|Karamzinas]]: Narbutas vertino, kad Karamzinas tiksliai įminė miesto pavadinimų Serkel, Biala wieza, Biata wies ir Bieloserkal tapatumo klausimą.
-- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190772|Nikolajus Karamzinas]]: Narbutas rašė, kad Karamzinas Serkel, Biala wieza, Biata wies ir Bieloserkal laikė to paties „balto“ vietovardžio formomis.
-- susijęs iš Karamzinas, Istorija gosudarstva Rossiiskogo: Teodoras Narbutas Karamzinui priskyrė aiškinimą, kad Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia baltą namą, palapinę, turgų, užeigą ar smuklę.
-- susijęs iš Toropecas: K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191145|Nikolajus Karamzinas]]: Teodoro Narbuto vertinimu, Karamzinas ištyrė Serkelio miesto pavadinimus ir juos aiškino kaip reiškiančius baltą namą, palapinę, turgų ar smuklę.
-- susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66924|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Jis mat norėjo neleisti statyti čia pilies.
-- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
+
 ## Citatos
 
 - id: c-31973
@@ -90,7 +84,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175920
   redaktorius: "A. Šapoka"
@@ -110,4 +104,4 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

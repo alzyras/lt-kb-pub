@@ -10,15 +10,15 @@ datos:
   - '1426 m.'
 date_start: '1426'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 ## Teiginiai
 
 <a id="claim-t-113831"></a>
-- t-023
+- t-001
   teiginys: "Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105023
 
 <a id="claim-t-113832"></a>
-- t-017
+- t-002
   teiginys: "Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105018
 
 <a id="claim-t-113833"></a>
-- t-018
+- t-003
   teiginys: "1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105025
 
 <a id="claim-t-113834"></a>
-- t-011
+- t-004
   teiginys: "Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105018
 
 <a id="claim-t-113835"></a>
-- t-020
+- t-005
   teiginys: "Julijona buvo trečioji Vytauto žmona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-16099
 
 <a id="claim-t-113836"></a>
-- t-013
+- t-006
   teiginys: "1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105019
 
 <a id="claim-t-113837"></a>
-- t-012
+- t-007
   teiginys: "1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105016
 
 <a id="claim-t-113838"></a>
-- t-016
+- t-008
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105028
 
 <a id="claim-t-113839"></a>
-- t-015
+- t-009
   teiginys: "Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -195,7 +195,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105022
 
 <a id="claim-t-113840"></a>
-- t-019
+- t-010
   teiginys: "1426 m. Julijona jau metus sirgo, o jos liga buvo taip paūmėjusi, kad ji visiškai negalėjo valgyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -214,7 +214,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105019
 
 <a id="claim-t-113841"></a>
-- t-021
+- t-011
   teiginys: "Julijona ir Vytauto bajorai ragino Vytautą nenusileisti dėl karūnavimosi vilčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -230,7 +230,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105021
 
 <a id="claim-t-113842"></a>
-- t-010
+- t-012
   teiginys: "Kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -246,7 +246,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105015
 
 <a id="claim-t-113843"></a>
-- t-005
+- t-013
   teiginys: "Karūnacijos vilčių žlugimo metu Julijona ypač ragino Vytautą nenusileisti."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -262,7 +262,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-21351
 
 <a id="claim-t-113845"></a>
-- t-022
+- t-014
   teiginys: "Vytauto žmona kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -278,7 +278,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-15948
 
 <a id="claim-t-113846"></a>
-- t-009
+- t-015
   teiginys: "Julijona ypač įkalbinėjo Vytautą nenusileisti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -294,7 +294,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105021
 
 <a id="claim-t-113847"></a>
-- t-008
+- t-016
   teiginys: "Istorikai nurodo, kad trečiosios Vytauto žmonos vardas buvo Julijona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -310,7 +310,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-105024
 
 <a id="claim-t-113849"></a>
-- t-006
+- t-017
   teiginys: "Po Vytauto mirties jį apraudojo jo žmona kunigaikštienė Julijona."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -319,7 +319,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
     - c-15948
 
 <a id="claim-t-184744"></a>
-- t-024
+- t-018
   teiginys: "Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -362,7 +362,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-15948
@@ -384,8 +383,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-006
+    - t-014
+    - t-017
 
 - id: c-16099
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -404,7 +403,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-005
 
 - id: c-21351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -423,7 +422,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-013
 
 - id: c-105015
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -443,7 +442,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-012
 
 - id: c-105016
   autorius: "Michał Baliński"
@@ -472,7 +471,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-007
 
 - id: c-105018
   autorius: "Michał Baliński"
@@ -512,8 +511,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-011
+    - t-002
+    - t-004
 
 - id: c-105019
   autorius: "Michał Baliński"
@@ -547,8 +546,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-019
+    - t-006
+    - t-010
 
 - id: c-105021
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -566,8 +565,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-009
+    - t-011
+    - t-015
 
 - id: c-105022
   autorius: "Michał Baliński"
@@ -592,7 +591,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-009
 
 - id: c-105023
   autorius: "Michał Baliński"
@@ -642,7 +641,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-001
 
 - id: c-105024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -664,7 +663,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-016
 
 - id: c-105025
   autorius: "Michał Baliński"
@@ -700,7 +699,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-003
 
 - id: c-105028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -720,7 +719,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-008
 
 - id: c-168105
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -740,4 +739,4 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-018

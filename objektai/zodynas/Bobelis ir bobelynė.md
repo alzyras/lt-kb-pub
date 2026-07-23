@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Bobelis ir bobelynė'
 sukurta: '2026-07-12'
 variantai:
-  - 'bobelis'
-  - 'bobelynė'
+  - bobelis
+  - bobelynė
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -54,7 +54,7 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
 ## Teiginiai
 
 <a id="claim-t-195644"></a>
-- t-002
+- t-001
   teiginys: "Bobelynė šiame šaltinyje reiškia mažą žemės sklypą ar ūkį, kurį galima gauti ar parduoti."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -62,7 +62,7 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178045
-- susijęs iš [[objektai/asmenys/Petras (Onos vyras, XIX a.).md#claim-t-195552|Petras (Onos vyras, XIX a.)]]: Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas.
+
 ## Citatos
 
 - id: c-178045
@@ -80,4 +80,4 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

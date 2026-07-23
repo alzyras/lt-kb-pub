@@ -55,11 +55,7 @@ Radvilos pajėgos.
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja caro kariuomenės neveiklumą su J. Radvilos pajėgomis ir yra pagrįstas citata."
   pagrindžia:
     - c-44364
-- susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80674|Kėdainių unija (1655 m. spalio 20 d.)]]: Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.
-- susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
-- susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80675|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.
-- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49172|Lojevo mūšis (1649 m. liepos 31 d.)]]: 1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.
-- susijęs iš Šepelievičiai: 1654 m. rugpjūčio 24 d. J. Radvila patyrė pirmąjį savo pralaimėjimą prie Šepelievičių.
+
 ## Citatos
 
 - id: c-44364

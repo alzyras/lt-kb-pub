@@ -55,8 +55,7 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą."
   pagrindžia:
     - c-21649
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
-- susijęs iš Tryškiai: Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
+
 ## Citatos
 
 - id: c-21649

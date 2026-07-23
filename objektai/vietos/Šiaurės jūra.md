@@ -50,7 +50,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-166497
 
 <a id="claim-t-192790"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -114,4 +114,4 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

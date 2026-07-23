@@ -44,6 +44,7 @@ surašytas Ostromiro ir Turovo evangelijas.
   citata_rodoma: "miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

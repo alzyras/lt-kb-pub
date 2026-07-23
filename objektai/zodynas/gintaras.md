@@ -29,7 +29,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 ## Teiginiai
 
 <a id="claim-t-192920"></a>
-- t-002
+- t-001
   teiginys: "Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     - c-175690
 
 <a id="claim-t-192921"></a>
-- t-003
+- t-002
   teiginys: "Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     - c-175691
 
 <a id="claim-t-194902"></a>
-- t-004
+- t-003
   teiginys: "Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175691
   autorius: "Teodoras Narbutas"
@@ -141,7 +141,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177298
   autorius: "Teodoras Narbutas"
@@ -169,4 +169,4 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

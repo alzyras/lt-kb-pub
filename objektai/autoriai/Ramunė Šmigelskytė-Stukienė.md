@@ -7,15 +7,15 @@ datos:
   - '2014 m.'
 date_start: '2014'
 date_end: ''
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +69,6 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-183991

@@ -38,7 +38,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 ## Teiginiai
 
 <a id="claim-t-75010"></a>
-- t-003
+- t-001
   teiginys: "Tėvynės Sąjunga–Lietuvos konservatoriai 1993 m. susidarė iš Sąjūdžio daugumos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai remiasi citata."
   pagrindžia:
     - c-72949
-- susijęs iš [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma.md#claim-t-66444|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]: Po 1992 m. rinkimų Lietuvos politiniame gyvenime dominavo LDDP ir 1993 m. iš Sąjūdžio daugumos susidariusi Tėvynės Sąjunga-Lietuvos konservatoriai.
+
 ## Citatos
 
 - id: c-72948
@@ -105,4 +105,4 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

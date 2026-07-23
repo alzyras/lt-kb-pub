@@ -47,14 +47,7 @@ Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amela
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175686
-- susijęs iš [[objektai/asmenys/Fosas.md#claim-t-191399|Fosas]]: Narbuto kritikuojamas Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu ir neigė Pitėjo lankymąsi Baltijos jūroje.
-- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191282|Johanas Fosas]]: Pasak Narbuto, Johanas Fosas neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją tapatino su fryzų sala Amelandu.
-- susijęs iš [[objektai/autoriai/Fosas.md#claim-t-191671|Fosas]]: Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu.
-- susijęs iš Austravija: Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amelando sala, nors pats tokį aiškinimą vadino nepatikimu.
-- susijęs iš [[objektai/asmenys/Hardua.md#claim-t-191407|Hardua]]: Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vadinta sala turėtų būti vadinama Basilia.
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191095|Plinijus Vyresnysis]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190957|Plinijus]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190784|Plinijus]]: Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
+
 ## Citatos
 
 - id: c-175686

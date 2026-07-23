@@ -40,7 +40,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 ## Teiginiai
 
 <a id="claim-t-70250"></a>
-- t-002
+- t-001
   teiginys: "Svarstant Nemuno neutralizaciją, Lietuvos vyriausybė Paryžiaus Ambasadorių Konferencijai pabrėžė Lietuvos teises ir interesus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
     - c-46915
 
 <a id="claim-t-70251"></a>
-- t-001
+- t-002
   teiginys: "Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -101,5 +101,5 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

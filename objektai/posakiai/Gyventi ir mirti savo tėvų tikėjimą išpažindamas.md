@@ -49,10 +49,7 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82835
-- susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-81884|Albertas Krantzas]]: Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/autoriai/Hermanas Korneris.md#claim-t-88062|Hermanas Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš Hermano Cornerio kronika: Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.
+
 ## Citatos
 
 - id: c-82835

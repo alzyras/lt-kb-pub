@@ -44,7 +44,7 @@ Vokiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras l
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26689
-- susijęs iš [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos.md#claim-t-26387|Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]: Rugpjūčio 1 d. Prūsijos Landtage Vilius Gaigalaitis lietuvių vardu pareiškė tikįsis Didžiosios Lietuvos prijungimo prie Vokietijos.
+
 ## Citatos
 
 - id: c-26689

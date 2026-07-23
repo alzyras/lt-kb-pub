@@ -55,7 +55,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 ## Teiginiai
 
 <a id="claim-t-12998"></a>
-- t-004
+- t-001
   teiginys: "Leidinio rengėjai siekė glausto, lengvai skaitomo, tiesos ir atvirumo kriterijais grįsto Lietuvos istorijos veikalo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     - c-16234
 
 <a id="claim-t-13000"></a>
-- t-006
+- t-002
   teiginys: "Redaktoriaus žodyje leidinio chronologinė aprėptis siejama su 1009 m. ir Lietuvos virsmu visateise Europos Sąjungos nare 2004 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     - c-16235
 
 <a id="claim-t-13110"></a>
-- t-007
+- t-003
   teiginys: "Redaktoriaus žodyje skyrių autorystė paskirstoma Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     - c-16252
 
 <a id="claim-t-13111"></a>
-- t-008
+- t-004
   teiginys: "Redaktoriaus žodyje leidinys įvardytas kaip pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti Lietuvos istorijos distanciją."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-16235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -181,7 +181,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-16237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -208,7 +208,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-16251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -264,7 +264,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-16253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -303,6 +303,7 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     nuo senovės iki 2004 m. atsakingu ir taupiu žvilgsniu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

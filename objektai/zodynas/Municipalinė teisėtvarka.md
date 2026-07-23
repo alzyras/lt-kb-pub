@@ -51,7 +51,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 ## Teiginiai
 
 <a id="claim-t-54792"></a>
-- t-003
+- t-001
   teiginys: "Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu."
   atnaujinta: "2026-05-27 07:20"
   sprendimo_priezastis: "gap::vocabulary"
@@ -67,7 +67,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     - c-55790
 
 <a id="claim-t-54793"></a>
-- t-001
+- t-002
   teiginys: "Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -76,7 +76,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
     - c-55791
 
 <a id="claim-t-54794"></a>
-- t-002
+- t-003
   teiginys: "Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::vocabulary"
@@ -118,7 +118,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-55791
   autorius: "Michał Baliński"
@@ -143,7 +143,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-55792
   autorius: "Michał Baliński"
@@ -169,4 +169,4 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

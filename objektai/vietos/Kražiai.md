@@ -13,14 +13,14 @@ datos:
   - '2026 m.'
 date_start: '1618'
 date_end: '2026'
-amziai:
-  - 'XVII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XVII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,7 +82,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     - c-171615
 
 <a id="claim-t-188728"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     - c-171617
 
 <a id="claim-t-192678"></a>
-- t-005
+- t-004
   teiginys: "1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -126,53 +126,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175448
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-183228|Kražių įvykiai]]: 1893 m. Kražių įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.
-- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-20232|Kražių įvykiai]]: Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.
-- susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190063|Dionizas Paškevičius]]: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188202|Jėzuitų ordinas]]: 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių.
-- susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
-- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-183228|Kražių įvykiai]]: 1893 m. Kražių įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.
-- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-20232|Kražių įvykiai]]: Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš Teodoro Narbuto „Naujosios mitologijos“ rankraštis: Narbutas nurodo, kad Kovo figūrą Burokų dvare netoli Kražių ardamas žemę iškasė pusbernis Bonaventūras Milevskis.
-- susijęs iš Airiogala: Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose.
-- susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/autoriai/L. Vladimirovas.md#claim-t-30785|L. Vladimirovas]]: L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179537|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
-- susijęs iš Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais: „Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais“ paskelbta BBK 2 tome 1962 m.
-- susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
-- susijęs iš Gardinas: Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.
-- susijęs iš Kalvarija: Kalvarijos mokykla buvo uždaryta kartu su Padubysio ir Kolainių mokyklomis.
-- susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
-- susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
-- susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
-- susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
-- susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
-- susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
-- susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
-- susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86471|klebonija]]: Karalienė Bona ir Vladislovas IV taip gausiai apdovanojo Kražių kleboniją turtais, kad ji tapo reikšmingiausia Žemaitijoje.
-- susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
+
 ## Citatos
 
 - id: c-67884
@@ -248,7 +202,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-175448
   autorius: "Teodoras Narbutas"
@@ -274,7 +228,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Puolė Kražiai: [[objektai/grupes/Kazokai]]

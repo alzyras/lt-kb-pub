@@ -46,6 +46,7 @@ Vorobjovo teigimu, pagoniška šventykla stovėjo šventame alke ten, kur vėlia
     krikščionybę, prasidėjo gyva statyba.
   statusas: verified
   atnaujinta: "2026-07-14 21:29"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

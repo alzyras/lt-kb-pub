@@ -72,7 +72,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180601
 
 <a id="claim-t-12360"></a>
-- t-003
+- t-002
   teiginys: "Su Krėvės unija sutiko ne visi Gediminaičiai."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180585
 
 <a id="claim-t-12361"></a>
-- t-004
+- t-003
   teiginys: "Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180585
 
 <a id="claim-t-12362"></a>
-- t-005
+- t-004
   teiginys: "Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180593
 
 <a id="claim-t-12363"></a>
-- t-006
+- t-005
   teiginys: "Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180590
 
 <a id="claim-t-96101"></a>
-- t-015
+- t-006
   teiginys: "Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -161,9 +161,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180590
 
 <a id="claim-t-96102"></a>
-- t-020
+- t-007
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -179,7 +179,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180596
 
 <a id="claim-t-96106"></a>
-- t-019
+- t-008
   teiginys: "Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180584
 
 <a id="claim-t-96108"></a>
-- t-014
+- t-009
   teiginys: "Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -214,7 +214,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180587
 
 <a id="claim-t-96109"></a>
-- t-017
+- t-010
   teiginys: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.)."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -234,7 +234,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180583
 
 <a id="claim-t-96112"></a>
-- t-013
+- t-011
   teiginys: "Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -253,7 +253,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180606
 
 <a id="claim-t-96113"></a>
-- t-016
+- t-012
   teiginys: "XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -269,7 +269,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-90821
 
 <a id="claim-t-96117"></a>
-- t-002
+- t-013
   teiginys: "Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -287,7 +287,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180594
 
 <a id="claim-t-182889"></a>
-- t-007
+- t-014
   teiginys: "Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -306,7 +306,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180592
 
 <a id="claim-t-198544"></a>
-- t-008
+- t-015
   teiginys: "Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -328,7 +328,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180591
 
 <a id="claim-t-198548"></a>
-- t-023
+- t-016
   teiginys: "Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -350,7 +350,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180598
 
 <a id="claim-t-198549"></a>
-- t-009
+- t-017
   teiginys: "Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -368,7 +368,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180604
 
 <a id="claim-t-198551"></a>
-- t-010
+- t-018
   teiginys: "Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -386,7 +386,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-31065
 
 <a id="claim-t-198552"></a>
-- t-024
+- t-019
   teiginys: "Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -395,7 +395,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Fragmentas perrašytas į sakinį apie monetą ir Gediminaičių ženklą. Atribucija palikta, nes teiginys remiasi autoriaus objekto identifikavimu."
   susije_objektai: "llm_object: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Kaunas; mentioned_place: Viena"
-  semantiniai_rysiai: "[[objektai/daiktai/Stulpai|Stulpai]] priklausė [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; Stulpai priklausė Gediminaičių dinastija (0.95)"
+  semantiniai_rysiai: "[[objektai/daiktai/Stulpai|Stulpai]] priklausė [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]"
   ryšio_patikimumas: "priklause -> Gediminaičių dinastija: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
@@ -408,7 +408,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180600
 
 <a id="claim-t-198556"></a>
-- t-011
+- t-020
   teiginys: "Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -422,7 +422,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180597
 
 <a id="claim-t-198560"></a>
-- t-012
+- t-021
   teiginys: "Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -433,7 +433,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180599
 
 <a id="claim-t-198561"></a>
-- t-018
+- t-022
   teiginys: "Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -442,13 +442,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180595
-- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
-- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
-- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: 1971 m. leidimo komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
-- susijęs iš [[objektai/grupes/Gediminaičių šeima.md#claim-t-01323|Gediminaičių šeima]]: Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių.
-- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
-- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
-- susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
+
 ## Citatos
 
 - id: c-14965
@@ -469,7 +463,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-14966
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -491,7 +485,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-14967
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -510,7 +504,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-14968
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -529,9 +523,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-005
     - t-006
-    - t-015
 
 - id: c-15961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -576,7 +570,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-013
 
 - id: c-22400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -596,7 +590,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010
 
 - id: c-22401
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -631,7 +625,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-018
 
 - id: c-36778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -654,7 +648,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011
 
 - id: c-36779
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -676,8 +670,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-013
+    - t-009
+    - t-011
 
 - id: c-90821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -703,7 +697,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-012
 
 - id: c-90826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -745,7 +739,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-90830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -766,7 +760,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-008
 
 - id: c-180583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -786,7 +780,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010
 
 - id: c-180584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -807,7 +801,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-008
 
 - id: c-180585
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -827,8 +821,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
 
 - id: c-180586
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -850,7 +844,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-180587
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -873,8 +867,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-013
+    - t-009
+    - t-011
 
 - id: c-180588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -911,7 +905,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-180590
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -931,9 +925,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-005
     - t-006
-    - t-015
 
 - id: c-180591
   autorius: "Zenonas Ivinskis"
@@ -955,7 +949,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-015
 
 - id: c-180592
   redaktorius: "A. Šapoka"
@@ -981,7 +975,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-014
 
 - id: c-180593
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1000,7 +994,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-180594
   redaktorius: "A. Šapoka"
@@ -1023,7 +1017,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-013
 
 - id: c-180595
   autorius: "Zenonas Ivinskis"
@@ -1049,7 +1043,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-022
 
 - id: c-180596
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1067,7 +1061,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-180597
   autorius: "Zenonas Ivinskis"
@@ -1088,7 +1082,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-020
 
 - id: c-180598
   autorius: "Anoniminis metraštininkas"
@@ -1114,7 +1108,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-016
 
 - id: c-180599
   autorius: "Zenonas Ivinskis"
@@ -1136,7 +1130,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-021
 
 - id: c-180600
   autorius: "Teodoras Narbutas"
@@ -1156,7 +1150,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-019
 
 - id: c-180601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1236,7 +1230,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-017
 
 - id: c-180605
   autorius: "Zenonas Ivinskis"
@@ -1315,4 +1309,4 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011

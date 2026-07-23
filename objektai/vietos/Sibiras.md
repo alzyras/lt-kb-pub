@@ -38,7 +38,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-69238"></a>
-- t-004
+- t-001
   teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-68626
 
 <a id="claim-t-69239"></a>
-- t-001
+- t-002
   teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,26 +83,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   pagrindžia:
     - c-68624
     - c-167027
-- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
-- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
-- susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26385|Sovietų Sąjungos masinės deportacijos į Sibirą]]: Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.
-- susijęs iš Nerčia: Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
-- susijęs iš Rytų Sibiras: Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
-- susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš [[objektai/asmenys/Pranciškus Narbutas.md#claim-t-187904|Pranciškus Narbutas]]: 1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.
-- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš [[objektai/grupes/MGB-KGB agentai smogikai.md#claim-t-19936|MGB-KGB agentai smogikai]]: MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.
-- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-183241|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.
-- susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75278|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus.
-- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75279|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.
-- susijęs iš [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai.md#claim-t-20825|Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]: Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose.
-- susijęs iš [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok.md#claim-t-77842|atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]: Po 1940–1990 m. okupacijų lietuvių visuomenė posakį „atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok“ suvokė kaip moralinę istorijos pamoką.
-- susijęs iš Maskvos Butyrkų kalėjimas: J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.
-- susijęs iš SSRS: Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą.
-- susijęs iš [[objektai/zodynas/Desovietizacija ir liustracija.md#claim-t-21988|Desovietizacija ir liustracija]]: Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.
-- susijęs iš [[objektai/zodynas/Politinė amnestija.md#claim-t-38771|Politinė amnestija]]: Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams.
-- susijęs iš [[objektai/zodynas/agentai smogikai.md#claim-t-22045|agentai smogikai]]: MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.
+
 ## Citatos
 
 - id: c-68624
@@ -169,7 +150,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-68627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -190,7 +171,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

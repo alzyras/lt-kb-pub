@@ -40,7 +40,7 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
 ## Teiginiai
 
 <a id="claim-t-11207"></a>
-- t-002
+- t-001
   teiginys: "Volynijos kronika nurodė, kad 1248 m. viename mūšyje žuvo net 40 jotvingių kunigų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -81,4 +81,4 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

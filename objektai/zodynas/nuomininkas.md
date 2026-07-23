@@ -72,7 +72,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167630
-- susijęs iš [[objektai/asmenys/Mikelis (žydas prekeivis).md#claim-t-195266|Mikelis (žydas prekeivis)]]: Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų.
+
 ## Citatos
 
 - id: c-37940

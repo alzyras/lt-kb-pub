@@ -58,9 +58,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę."
   pagrindžia:
     - c-83906
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
-- susijęs iš [[objektai/asmenys/Leonas Mamoničius.md#claim-t-87915|Leonas Mamoničius]]: 1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.
+
 ## Citatos
 
 - id: c-83906

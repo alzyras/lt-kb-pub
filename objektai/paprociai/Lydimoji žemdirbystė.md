@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97134"></a>
-- t-005
+- t-001
   teiginys: "Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-31420
 
 <a id="claim-t-97135"></a>
-- t-006
+- t-002
   teiginys: "Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -94,7 +94,7 @@ Nenurodyta
     - c-31419
 
 <a id="claim-t-97136"></a>
-- t-008
+- t-003
   teiginys: "Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -126,7 +126,7 @@ Nenurodyta
     - c-31419
 
 <a id="claim-t-97138"></a>
-- t-007
+- t-005
   teiginys: "Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -143,8 +143,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-31420
-- susijęs iš [[objektai/ivykiai/Valakų reforma (1557 m.).md#claim-t-31479|Valakų reforma (1557 m.)]]: 1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.
-- susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
+
 ## Citatos
 
 - id: c-31419
@@ -169,7 +168,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
     - t-004
 
 - id: c-31420
@@ -194,8 +193,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-005
-    - t-007
 
 - id: c-91648
   autorius: "Zenonas Ivinskis"
@@ -219,4 +218,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003

@@ -48,7 +48,7 @@ Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijon
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173045
-- susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190333|Pretorijus]]: Narbutas teigė, kad Pretorijus, Johanas Leo ir Flenenbergeris rėmėsi vyskupo Kristijono kronika ir ankstyvesniais už Dusburgietį šaltiniais.
+
 ## Citatos
 
 - id: c-173045

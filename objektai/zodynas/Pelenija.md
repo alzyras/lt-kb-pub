@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Pelenija
 sukurta: '2026-07-12'
 variantai:
-  - 'Pelenijoj'
-  - 'Pelenijai'
+  - Pelenijoj
+  - Pelenijai
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []

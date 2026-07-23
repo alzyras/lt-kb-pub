@@ -39,7 +39,7 @@ Vartojamos formos: `vėlės`.
 ## Teiginiai
 
 <a id="claim-t-70067"></a>
-- t-003
+- t-001
   teiginys: "Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -53,18 +53,7 @@ Vartojamos formos: `vėlės`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09767
-- susijęs iš [[objektai/paprociai/Nagų nekarpymas prieš mirtį ir nuokirpų deginimas.md#claim-t-189893|Nagų nekarpymas prieš mirtį ir nuokirpų deginimas]]: Narbutas nagų nekarpymą prieš mirtį ir nuokirpų deginimą aiškino tikėjimu, kad po mirties vėlė turės rasti visus nagus.
-- susijęs iš [[objektai/zodynas/Vėlių perėjimas metempsichozė.md#claim-t-189260|Vėlių perėjimas metempsichozė]]: Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą po mirties, kol ji grįžta į kito žmogaus kūną.
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
-- susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
-- susijęs iš [[objektai/paprociai/Raudotojų samdymas, kvietimas ir klykimas laidotuvėse.md#claim-t-189867|Raudotojų samdymas, kvietimas ir klykimas laidotuvėse]]: Narbuto aprašyme laidotuvėse svarbiausios buvo raudotojos, nes manyta, kad jų raudos nuramina vėles.
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
-- susijęs iš Pragaras: Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.
-- susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš [[objektai/zodynas/Kehms kernas.md#claim-t-189301|Kehms kernas]]: Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.
-- susijęs iš [[objektai/zodynas/Pragaras pekla.md#claim-t-189319|Pragaras pekla]]: Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žodį „Pragaras“ siejo su kankinimu ugnimi.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-12418|Aisčių laidotuvių ir vėlinių apeigos]]: Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192097|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.
+
 ## Citatos
 
 - id: c-09767
@@ -79,4 +68,4 @@ Vartojamos formos: `vėlės`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

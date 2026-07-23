@@ -9,16 +9,16 @@ datos:
   - '1436 m.'
 date_start: '1434'
 date_end: '1436'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
   - šeima
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -111,7 +111,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179358
-- susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės.'
@@ -127,11 +127,10 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
     liaus Vladislovo Varniečio laikų, kaip sako vietos pada­
     vimai, prie jos kranto buvo įrengta muitinė (Myto).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-83865

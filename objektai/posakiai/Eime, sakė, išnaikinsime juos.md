@@ -45,7 +45,7 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
     - c-59723
 
 <a id="claim-t-194466"></a>
-- t-003
+- t-002
   teiginys: "„Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo niekas nebeminėtų“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -78,4 +78,4 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

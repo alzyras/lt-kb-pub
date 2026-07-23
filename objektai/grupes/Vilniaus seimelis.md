@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200656"></a>
-- t-299052
+- t-001
   teiginys: "1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasiderėti dėl brolio interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-184021
 
 <a id="claim-t-200657"></a>
-- t-003
+- t-002
   teiginys: "1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -80,7 +80,7 @@ media_all_json: |-
     - c-183984
 
 <a id="claim-t-200658"></a>
-- t-001
+- t-003
   teiginys: "1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -102,7 +102,7 @@ media_all_json: |-
     - c-183984
 
 <a id="claim-t-200659"></a>
-- t-002
+- t-004
   teiginys: "1752 m. Mykolas Kazimieras Radvila Žuvelė buvo labai patenkintas Vilniaus seimelio rezultatais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -121,12 +121,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia Radvilos laiške nurodytą pasitenkinimą Vilniaus seimelio rezultatais. Vertinimas nepriskirtas platesnei tikrovei."
   pagrindžia:
     - c-184021
-- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200701|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis minėjo Mykolo Kazimiero Radvilos Žuvelės atvykimą ir galimas derybas dėl brolio interesų per seimelį.
-- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200653|Smolensko pavieto seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
-- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
-- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200620|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų.
-- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200653|Smolensko pavieto seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
-- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+
 ## Citatos
 
 - id: c-183984
@@ -138,8 +133,8 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
   pagrindzia:
+    - t-002
     - t-003
-    - t-001
 
 - id: c-184021
   autorius: "Domininkas Burba"
@@ -150,5 +145,5 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
   pagrindzia:
-    - t-299052
-    - t-002
+    - t-001
+    - t-004

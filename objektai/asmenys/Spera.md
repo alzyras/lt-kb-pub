@@ -74,8 +74,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178784
-- susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
-- susijęs iš [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį.md#claim-t-185815|Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]: Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis.
+
 ## Citatos
 
 - id: c-169524

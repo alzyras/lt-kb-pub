@@ -44,12 +44,7 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159432
-- susijęs iš [[objektai/asmenys/Konradas (Fridricho II sūnus).md#claim-t-60359|Konradas (Fridricho II sūnus)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/asmenys/Konradas (Fridricho II sūnus).md#claim-t-60359|Konradas (Fridricho II sūnus)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.).md#claim-t-62412|Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apuliją ir Neapolį, o kitais metais mirė nunuodytas.
-- susijęs iš Neapolis: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų.
+
 ## Citatos
 
 - id: c-159432

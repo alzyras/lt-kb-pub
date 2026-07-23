@@ -31,7 +31,7 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 ## Teiginiai
 
 <a id="claim-t-197151"></a>
-- t-002
+- t-001
   teiginys: "Pranciškus nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,9 +41,7 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61050
-- susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
-- susijęs iš [[objektai/asmenys/Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.).md#claim-t-200491|Pranciškus Leonas Tyzenhauzas (Vilniaus pavieto vėliavininkas, XVIII a.)]]: Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas.
-- susijęs iš [[objektai/asmenys/Boleslovas Narbutas.md#claim-t-188040|Boleslovas Narbutas]]: 1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.
+
 ## Citatos
 
 - id: c-61050
@@ -64,4 +62,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

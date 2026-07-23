@@ -7,12 +7,12 @@ datos:
   - '2006 m.'
 date_start: '2006'
 date_end: ''
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

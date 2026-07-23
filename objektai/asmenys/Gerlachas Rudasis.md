@@ -52,7 +52,7 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60921
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70229|maldininkai / maldininko įžadai]]: Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.
+
 ## Citatos
 
 - id: c-60921

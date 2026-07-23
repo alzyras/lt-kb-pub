@@ -50,6 +50,7 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
   citata_rodoma: "Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

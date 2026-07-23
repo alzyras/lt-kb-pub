@@ -7,13 +7,13 @@ datos:
   - '2026 m.'
 date_start: '2026'
 date_end: ''
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tikėjimas
   - paprotys
+amziai:
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,16 +56,13 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67129"></a>
-- t-002
+- t-001
   teiginys: "Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-11077
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -106,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

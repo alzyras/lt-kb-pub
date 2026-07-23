@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 ## Teiginiai
 
 <a id="claim-t-60064"></a>
-- t-003
+- t-001
   teiginys: "Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - c-60696
 
 <a id="claim-t-60065"></a>
-- t-001
+- t-002
   teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - c-60697
 
 <a id="claim-t-60066"></a>
-- t-002
+- t-003
   teiginys: "Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60698
-- susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
@@ -89,11 +89,10 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     pasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,
       471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60696
@@ -116,7 +115,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-60697
   autorius: "Petras Dusburgietis"
@@ -136,7 +135,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60698
   autorius: "Petras Dusburgietis"
@@ -157,4 +156,4 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

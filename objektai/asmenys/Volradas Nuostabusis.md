@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   semantiniai_rysiai: "Volradas Nuostabusis puolė Prūsai (0.74)"
   pagrindžia:
     - c-61101
-- susijęs iš [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas.md#claim-t-62360|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]: Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.
+
 ## Citatos
 
 - id: c-61101

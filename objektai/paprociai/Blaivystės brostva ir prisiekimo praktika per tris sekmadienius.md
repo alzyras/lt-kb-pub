@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195376"></a>
-- t-002
+- t-001
   teiginys: "Pasakotoja teigia, kad blaivystė daug padėjo bendruomenei ir jos vyras nustojo gerti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -89,7 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177792
   autorius: "M. Katkus"
@@ -101,6 +101,7 @@ Nenurodyta
   citata_rodoma: "Kai ryto eisme pri­siekti, o šiandien sumanė padaryti degtinei užgavėnes: parsinešė kelias bonkas degtinės..."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

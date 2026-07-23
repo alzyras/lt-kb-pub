@@ -39,7 +39,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 ## Teiginiai
 
 <a id="claim-t-115026"></a>
-- t-003
+- t-001
   teiginys: "Terespolis nebuvo Balinskių giminės paveldima nuosavybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     - c-106018
 
 <a id="claim-t-115027"></a>
-- t-001
+- t-002
   teiginys: "Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     - c-106017
 
 <a id="claim-t-115028"></a>
-- t-002
+- t-003
   teiginys: "Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,9 +110,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-106017
-- susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
-- susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
-- susijęs iš Jašiūnai: 1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.
+
 ## Citatos
 
 - id: c-106016
@@ -132,7 +130,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-106017
   sudarytojas: "Karolis Zikaras"
@@ -156,7 +154,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-004
 
 - id: c-106018
@@ -175,4 +173,4 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

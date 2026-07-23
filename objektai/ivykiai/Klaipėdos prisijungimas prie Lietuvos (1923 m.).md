@@ -75,7 +75,7 @@ Nenurodyta
     - c-100634
 
 <a id="claim-t-23327"></a>
-- t-003
+- t-002
   teiginys: "Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-16891
 
 <a id="claim-t-23328"></a>
-- t-004
+- t-003
   teiginys: "1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Nenurodyta
     - c-100634
 
 <a id="claim-t-23329"></a>
-- t-005
+- t-004
   teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Nenurodyta
     - c-16889
 
 <a id="claim-t-23330"></a>
-- t-006
+- t-005
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
     - c-166615
 
 <a id="claim-t-26645"></a>
-- t-010
+- t-006
   teiginys: "Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
     - c-26869
 
 <a id="claim-t-26646"></a>
-- t-011
+- t-007
   teiginys: "1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -167,7 +167,7 @@ Nenurodyta
     - c-16892
 
 <a id="claim-t-26841"></a>
-- t-012
+- t-008
   teiginys: "1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės bei finansinės pagalbos."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Nenurodyta
     - c-100634
 
 <a id="claim-t-26842"></a>
-- t-013
+- t-009
   teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Nenurodyta
     - c-26867
 
 <a id="claim-t-26843"></a>
-- t-014
+- t-010
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, nes Klaipėdos uostas jai labai rūpėjo."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -245,7 +245,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-16891
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -265,7 +265,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-16892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -283,7 +283,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-26867
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -302,7 +302,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 - id: c-26869
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -322,7 +322,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-100632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -389,8 +389,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
-    - t-012
+    - t-003
+    - t-008
 
 - id: c-166615
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -408,5 +408,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-014
+    - t-005
+    - t-010

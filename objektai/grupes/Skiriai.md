@@ -103,33 +103,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175706
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
-- susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191969|Plinijus Vyresnysis]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-191968|Plinijus]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/asmenys/Uphagenas.md#claim-t-191480|Uphagenas]]: Narbutas Uphageną mini tarp senovės tyrinėtojų, kurie, jo vertinimu, pasiklydo prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191554|J. Voigtas Foigtas]]: Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-191903|Plinijus]]: Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/autoriai/Uphagenas.md#claim-t-191660|Uphagenas]]: Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192931|Sudargai]]: Narbutas sudargus, istorikų vadintus Satargarii ir Sadargii, apibūdina kaip ištikimiausius skirių bičiulius prie Dunojaus žemupio.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191016|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Jordanes, Narbuto perteikimu, minėjo skirius kaip iš pradžių taikiai su gotų gentimis gyvenusius ir labiau į žemdirbystę linkusius žmones.
-- susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191018|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Po skirių pralaimėjimo Eduka vedė savo žmonių likučius iš Mezijos į dešiniąją Dunojaus pakrantę ir pasidavė romėnų globai.
-- susijęs iš De geticae gentis origine ac rebus gestis: Narbutas, remdamasis Jordanu, skirius vaizdavo kaip gotų kaimynus, iš pradžių taikiai gyvenusius ir labiau linkusius į žemdirbystę negu kariavimą.
-- susijęs iš [[objektai/asmenys/Alarikas (svebų karaliukas).md#claim-t-191336|Alarikas (svebų karaliukas)]]: Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191948|Eduka]]: Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus.
-- susijęs iš [[objektai/asmenys/Hunimundas.md#claim-t-191418|Hunimundas]]: Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190942|Odoakras]]: Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/asmenys/Prokopijus.md#claim-t-191971|Prokopijus]]: Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti.
-- susijęs iš [[objektai/asmenys/Volfas.md#claim-t-191332|Volfas]]: Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190744|Jordanas]]: Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190788|Prokopijus]]: Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima.
-- susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192926|Hiriai]]: Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais.
-- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192930|Sudargai]]: Narbutas rašo, kad skiriai su sudargais po gotų žygių kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandakoso.
-- susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191017|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą.
+
 ## Citatos
 
 - id: c-175705

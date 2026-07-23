@@ -55,7 +55,7 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaišku, kam pasirengta ir nuo ko apsiginta."
   pagrindžia:
     - c-44344
-- susijęs iš [[objektai/zodynas/apsiaustis.md#claim-t-38742|apsiaustis]]: Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų.
+
 ## Citatos
 
 - id: c-44344

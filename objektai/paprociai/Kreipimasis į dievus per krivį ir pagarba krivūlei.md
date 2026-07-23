@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62686"></a>
-- t-002
+- t-001
   teiginys: "Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

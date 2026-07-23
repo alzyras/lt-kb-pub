@@ -71,8 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia."
   pagrindžia:
     - c-43133
-- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
-- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
+
 ## Citatos
 
 - id: c-43133

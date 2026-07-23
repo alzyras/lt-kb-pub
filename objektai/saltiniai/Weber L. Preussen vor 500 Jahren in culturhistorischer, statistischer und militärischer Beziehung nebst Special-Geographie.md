@@ -43,7 +43,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 ## Teiginiai
 
 <a id="claim-t-61018"></a>
-- t-002
+- t-001
   teiginys: "L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
     - c-61651
 
 <a id="claim-t-61019"></a>
-- t-001
+- t-002
   teiginys: "Weberio veikalas nurodomas tarp šaltinių, kuriais grindžiama, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-61651
   autorius: "Petras Dusburgietis"
@@ -119,4 +119,4 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

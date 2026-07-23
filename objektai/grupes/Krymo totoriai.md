@@ -77,7 +77,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71640"></a>
-- t-005
+- t-003
   teiginys: "Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42714
 
 <a id="claim-t-71641"></a>
-- t-006
+- t-004
   teiginys: "1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71642"></a>
-- t-003
+- t-005
   teiginys: "Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42713
 
 <a id="claim-t-71643"></a>
-- t-004
+- t-006
   teiginys: "Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-70190
 
 <a id="claim-t-184487"></a>
-- t-009
+- t-007
   teiginys: "Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -169,14 +169,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   semantiniai_rysiai: "Krymo totoriai puolė Lietuviai (0.55)"
   pagrindžia:
     - c-167848
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
-- susijęs iš Lietuvos užsienio politika XVI a: Knygos „Lietuvos užsienio politika XVI a.“ įklijoje pavaizduoti Krymo totoriai, varantys užgrobtus belaisvius ir gyvulius.
-- susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
-- susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79227|Vladislovas Vaza]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
+
 ## Citatos
 
 - id: c-36807
@@ -197,7 +190,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-006
+    - t-004
 
 - id: c-42713
   sudarytojas: "Karolis Zikaras"
@@ -216,7 +209,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-42714
   sudarytojas: "Karolis Zikaras"
@@ -232,7 +225,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-70190
   sudarytojas: "Karolis Zikaras"
@@ -252,7 +245,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-70192
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -296,8 +289,7 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 ## Ryšiai
-- Krymo totoriai keliavo į [[objektai/vietos/Vilniaus vaivadija]]
 - Krymo totoriai puolė [[objektai/vietos/Rusija]]

@@ -36,7 +36,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
 ## Teiginiai
 
 <a id="claim-t-93130"></a>
-- t-002
+- t-001
   teiginys: "1390 m. gegužės 26 d. į Karaliaučių atvykę žemaičių atstovai pasižadėjo laikytis savo „karaliaus Vytauto“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     - c-88528
 
 <a id="claim-t-93131"></a>
-- t-001
+- t-002
   teiginys: "Kryžiuočių akyse Vytauto prestižas turėjo pakilti, nes jiems Vytautas buvo ne tik pabėgėlis, bet ir Žemaičių karalius."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-88528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -113,4 +113,4 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

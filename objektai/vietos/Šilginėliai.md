@@ -46,9 +46,7 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-77315
-- susijęs iš [[objektai/daiktai/Geltonas lankelis ant kepurės.md#claim-t-78651|Geltonas lankelis ant kepurės]]: Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.
-- susijęs iš [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas.md#claim-t-78674|Lietuvos kariuomenės savanorio rankovės antsiuvas]]: Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41296|Kėdainių-Šėtos kautynės]]: Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.
+
 ## Citatos
 
 - id: c-77315

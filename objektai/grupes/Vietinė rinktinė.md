@@ -39,7 +39,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 ## Teiginiai
 
 <a id="claim-t-66256"></a>
-- t-005
+- t-001
   teiginys: "1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-66563
 
 <a id="claim-t-66257"></a>
-- t-003
+- t-002
   teiginys: "Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22801
 
 <a id="claim-t-66258"></a>
-- t-002
+- t-003
   teiginys: "Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22800
 
 <a id="claim-t-66259"></a>
-- t-001
+- t-004
   teiginys: "Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - c-22799
 
 <a id="claim-t-66260"></a>
-- t-004
+- t-005
   teiginys: "Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,7 +174,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-22800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -192,7 +192,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-22801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -213,7 +213,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-42976
   sudarytojas: "Karolis Zikaras"
@@ -236,7 +236,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-66563
   sudarytojas: "Karolis Zikaras"
@@ -254,7 +254,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-166580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

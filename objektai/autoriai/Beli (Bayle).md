@@ -29,7 +29,7 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
 ## Teiginiai
 
 <a id="claim-t-197277"></a>
-- t-002
+- t-001
   teiginys: "Beli (Bayle) buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -58,4 +58,4 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

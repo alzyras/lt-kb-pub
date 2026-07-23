@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 ## Teiginiai
 
 <a id="claim-t-58854"></a>
-- t-002
+- t-001
   teiginys: "Kristaus kariais vadinti Dobrynės broliai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
     - c-59487
 
 <a id="claim-t-58855"></a>
-- t-001
+- t-002
   teiginys: "Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59486
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59930|Konradas (Mazovijos kunigaikštis)]]: Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės.
+
 ## Citatos
 
 - id: c-59486
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59487
   autorius: "Petras Dusburgietis"
@@ -108,4 +108,4 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

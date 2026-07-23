@@ -58,9 +58,7 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175655
-- susijęs iš [[objektai/asmenys/Aurelianas Klaudijus.md#claim-t-191338|Aurelianas Klaudijus]]: Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę.
-- susijęs iš [[objektai/ivykiai/Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m.md#claim-t-191042|Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m]]: Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192403|Gotai]]: Narbutas rašo, kad apie 269 metus gotai su maždaug 320 000 ginkluotų žmonių armija puolė imperiją, siekdami ją užkariauti.
+
 ## Citatos
 
 - id: c-175655

@@ -43,10 +43,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-18294
-- susijęs iš [[objektai/asmenys/Timūras (Tamerlanas).md#claim-t-40469|Timūras (Tamerlanas)]]: Timūro mongolų kariuomenė XV a. pradžioje pristabdė Osmanų plėtrą.
-- susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78702|Kryžiaus žygių prieš totorius organizavimas]]: Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.
-- susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78704|Kryžiaus žygių prieš totorius organizavimas]]: Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos.
-- susijęs iš Vorskla: Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.
+
 ## Citatos
 
 - id: c-18294

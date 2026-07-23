@@ -73,6 +73,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   citata_rodoma: "kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

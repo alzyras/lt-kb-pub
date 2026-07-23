@@ -30,7 +30,7 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
 ## Teiginiai
 
 <a id="claim-t-189147"></a>
-- t-002
+- t-001
   teiginys: "Narbutas lietuvių mitologijoje saulę ir mėnulį laikė svarbiausiais dangaus kūnais, kurių vaikais aiškino kitus dangaus kūnus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -95,4 +95,4 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

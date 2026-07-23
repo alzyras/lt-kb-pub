@@ -22,15 +22,15 @@ datos:
   - '1861 m.'
 date_start: '1190'
 date_end: '1861'
-amziai:
-  - 'XII'
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
   - sostinė
+amziai:
+  - 'XII'
+  - 'XIX'
 media_total_count: '18'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Koenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AKoenigsberg._Entworfen_und_bearbeitet_von_Woerl%2C_gestochen_unter_seiner_Leitung._Lithographie_von_B._Herder_a_Freiburg_en_%28IA_dr_koenigsberg-entworfen-und-bearbeitet-von-woerl-gestochen-unter-seiner-lei-10094047%29.jpg'
@@ -68,7 +68,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 ## Teiginiai
 
 <a id="claim-t-135435"></a>
-- t-059
+- t-001
   teiginys: "1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-32083
 
 <a id="claim-t-135436"></a>
-- t-047
+- t-002
   teiginys: "1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123525
 
 <a id="claim-t-135437"></a>
-- t-029
+- t-003
   teiginys: "1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123544
 
 <a id="claim-t-135438"></a>
-- t-011
+- t-004
   teiginys: "Karaliaučiuje 1365 m. Būtautas per iškilmingą krikštą gavo Henriko vardą ir išvyko su Ordino kariuomene į Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-32084
 
 <a id="claim-t-135439"></a>
-- t-018
+- t-005
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį per Kauną buvo nutiesta geležinkelio atšaka į Karaliaučių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123514
 
 <a id="claim-t-135440"></a>
-- t-064
+- t-006
   teiginys: "1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,7 +182,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-32086
 
 <a id="claim-t-135441"></a>
-- t-014
+- t-007
   teiginys: "1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-14877
 
 <a id="claim-t-135442"></a>
-- t-044
+- t-008
   teiginys: "Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123531
 
 <a id="claim-t-135443"></a>
-- t-057
+- t-009
   teiginys: "Dusburgietis pasakoja, kad 1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų vyko stebuklingi pagijimai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123522
 
 <a id="claim-t-135444"></a>
-- t-038
+- t-010
   teiginys: "1547 m. Martyno Mažvydo „Katekizmas“ buvo išspausdintas Karaliaučiuje ir skirtas lietuviams bei Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -250,7 +250,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123515
 
 <a id="claim-t-135445"></a>
-- t-055
+- t-011
   teiginys: "Sembai sugriovė prie Karaliaučiaus pilies, ant Šv. Mikalojaus kalvos, brolių įkurtą miestą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -266,7 +266,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123543
 
 <a id="claim-t-135446"></a>
-- t-052
+- t-012
   teiginys: "Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -283,7 +283,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123548
 
 <a id="claim-t-135447"></a>
-- t-053
+- t-013
   teiginys: "Karalius patarė broliams ant kalvos, kur stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -299,7 +299,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123506
 
 <a id="claim-t-135449"></a>
-- t-008
+- t-014
   teiginys: "Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams."
   atnaujinta: "2026-05-31 13:14"
   sprendimo_priezastis: "auto"
@@ -317,7 +317,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-21461
 
 <a id="claim-t-135450"></a>
-- t-042
+- t-015
   teiginys: "1323 m. notaro parengtas Gedimino laiškų dokumentas buvo saugomas Karaliaučiaus slaptajame archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -336,7 +336,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123536
 
 <a id="claim-t-135453"></a>
-- t-063
+- t-016
   teiginys: "Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -371,7 +371,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-21461
 
 <a id="claim-t-135455"></a>
-- t-031
+- t-018
   teiginys: "Autentiškas 1323 m. notaro parengtas Gedimino laiškų dokumentas buvo Karaliaučiaus slaptajame archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -390,7 +390,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123536
 
 <a id="claim-t-135456"></a>
-- t-032
+- t-019
   teiginys: "Kai kurie autentiški Jogailos dokumentai, rašyti prieš jo krikštą, buvo išsaugoti Karaliaučiaus archyve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -406,7 +406,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123516
 
 <a id="claim-t-135457"></a>
-- t-039
+- t-020
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -422,7 +422,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123514
 
 <a id="claim-t-135458"></a>
-- t-061
+- t-021
   teiginys: "1544 m. įkurtame Karaliaučiaus universitete Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais profesoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -441,7 +441,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-21461
 
 <a id="claim-t-135459"></a>
-- t-001
+- t-022
   teiginys: "Po Torno taikos Ordinas, tapęs Lenkijos vasalu, perkėlė savo sostinę į Karaliaučių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -457,7 +457,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123511
 
 <a id="claim-t-135460"></a>
-- t-028
+- t-023
   teiginys: "Ignas Onacevičius nuvyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -474,7 +474,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123520
 
 <a id="claim-t-135461"></a>
-- t-015
+- t-024
   teiginys: "Kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -490,7 +490,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-37414
 
 <a id="claim-t-135462"></a>
-- t-056
+- t-025
   teiginys: "Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -507,7 +507,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123540
 
 <a id="claim-t-135463"></a>
-- t-004
+- t-026
   teiginys: "Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai."
   atnaujinta: "2026-05-31 13:14"
   sprendimo_priezastis: "auto"
@@ -526,7 +526,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123526
 
 <a id="claim-t-135464"></a>
-- t-054
+- t-027
   teiginys: "Sukilėliai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -542,7 +542,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123528
 
 <a id="claim-t-135466"></a>
-- t-007
+- t-028
   teiginys: "1370 m. Rudavos bažnytkaimis, prie kurio lietuviai vėl susirinko po Sambijos niokojimo, buvo netoli Karaliaučiaus."
   atnaujinta: "2026-05-31 13:14"
   sprendimo_priezastis: "auto"
@@ -560,7 +560,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123515
 
 <a id="claim-t-135467"></a>
-- t-048
+- t-029
   teiginys: "Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -569,7 +569,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-167545
 
 <a id="claim-t-135468"></a>
-- t-060
+- t-030
   teiginys: "Vytauto laikais atgijus prekybai Nemunu, užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -586,7 +586,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123519
 
 <a id="claim-t-135469"></a>
-- t-058
+- t-031
   teiginys: "Vytauto laikais kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -602,7 +602,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123517
 
 <a id="claim-t-135470"></a>
-- t-062
+- t-032
   teiginys: "Karaliaučiaus slaptajame Kryžiuočių archyve buvo saugomi trys Gedimino laiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -618,7 +618,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123524
 
 <a id="claim-t-135472"></a>
-- t-009
+- t-033
   teiginys: "Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -634,7 +634,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123513
 
 <a id="claim-t-135473"></a>
-- t-012
+- t-034
   teiginys: "Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -650,7 +650,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123526
 
 <a id="claim-t-135475"></a>
-- t-041
+- t-035
   teiginys: "Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -667,7 +667,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123509
 
 <a id="claim-t-135477"></a>
-- t-043
+- t-036
   teiginys: "Karaliaučiaus archyve buvo saugomi autentiški Jogailos dokumentai, rašyti prieš jo krikštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -683,7 +683,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123516
 
 <a id="claim-t-135479"></a>
-- t-002
+- t-037
   teiginys: "Priešams užplūdus Lietuvos miestus, daug vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -700,7 +700,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123532
 
 <a id="claim-t-135480"></a>
-- t-050
+- t-038
   teiginys: "Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -720,7 +720,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123504
 
 <a id="claim-t-135481"></a>
-- t-045
+- t-039
   teiginys: "Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -737,7 +737,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123512
 
 <a id="claim-t-135483"></a>
-- t-049
+- t-040
   teiginys: "Karaliaučiaus karališkos bibliotekos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios knygos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -756,7 +756,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123521
 
 <a id="claim-t-135484"></a>
-- t-046
+- t-041
   teiginys: "M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -775,7 +775,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123530
 
 <a id="claim-t-135485"></a>
-- t-051
+- t-042
   teiginys: "Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -794,7 +794,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123508
 
 <a id="claim-t-135487"></a>
-- t-003
+- t-043
   teiginys: "Karaliaučiaus, Baigos, Elbingo ir Kulmo pilys liko nesugriautos, nes buvo laikomos pačiomis tvirtosiomis pilimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -810,7 +810,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-13409
 
 <a id="claim-t-135488"></a>
-- t-005
+- t-044
   teiginys: "Karaliaučiaus rinka buvo svarbi Lietuvos vaško eksportui."
   atnaujinta: "2026-05-31 13:14"
   sprendimo_priezastis: "auto"
@@ -826,7 +826,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-32084
 
 <a id="claim-t-135489"></a>
-- t-035
+- t-045
   teiginys: "Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -843,7 +843,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123512
 
 <a id="claim-t-135491"></a>
-- t-033
+- t-046
   teiginys: "Trys Gedimino laiškai buvo saugomi slaptajame Kryžiuočių archyve Karaliaučiuje ir paskelbti Augusto Kotzebue veikale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -859,7 +859,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123524
 
 <a id="claim-t-135492"></a>
-- t-006
+- t-047
   teiginys: "Prūsų sukilimo metu nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo ordino pilys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -875,7 +875,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-13409
 
 <a id="claim-t-135493"></a>
-- t-040
+- t-048
   teiginys: "Ignas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -894,7 +894,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-123541
 
 <a id="claim-t-184160"></a>
-- t-065
+- t-049
   teiginys: "Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -913,7 +913,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-167545
 
 <a id="claim-t-184969"></a>
-- t-066
+- t-050
   teiginys: "Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -932,7 +932,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-168330
 
 <a id="claim-t-184971"></a>
-- t-068
+- t-051
   teiginys: "Po pražūtingos puotos jaunikis, jaunoji, tarybos narių žmonos ir dukros su dideliu grobiu buvo išgabenti į Karaliaučių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -951,7 +951,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-168332
 
 <a id="claim-t-188705"></a>
-- t-010
+- t-052
   teiginys: "Narbutas perduoda jam sakytą žinią, kad Karaliaučiuje buvusi Kęstučio vėliava su šuoliuojančiu juodu žirgu ir juodu gaidžiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -970,7 +970,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-171594
 
 <a id="claim-t-192668"></a>
-- t-069
+- t-053
   teiginys: "Narbutas rašo, kad Strijkovskis, būdamas Karaliaučiuje, tikriausiai turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -990,7 +990,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-175438
 
 <a id="claim-t-193188"></a>
-- t-070
+- t-054
   teiginys: "Smarkiai apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę perkėlė į Karaliaučių."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -1003,7 +1003,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-175932
 
 <a id="claim-t-196688"></a>
-- t-071
+- t-055
   teiginys: "Po pražūtingos puotos jaunikis, jaunoji, tarybos narių žmonos ir dukros su didžiuliu grobiu buvo išgabenti į Karaliaučių."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -1016,7 +1016,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-168332
 
 <a id="claim-t-197171"></a>
-- t-072
+- t-056
   teiginys: "Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1028,7 +1028,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-179045
 
 <a id="claim-t-201606"></a>
-- t-073
+- t-057
   teiginys: "Tuo pačiu metu smulkesni Gdansko ir Karaliaučiaus pirkliai, kuriuos galima vadinti bakalėjininkais ir galanterininkais, vis dar traukdavo per Kauną į Lietuvą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1040,7 +1040,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-184953
 
 <a id="claim-t-201607"></a>
-- t-074
+- t-058
   teiginys: "1582 m. Steponas Batoras rašė valdovinių Gardino dvarų tvarkytojui, kad Gardino miestiečiai skundžiasi, esą jie Kaune pasisamdą vytines grūdams gabenti į Karaliaučių, bet toms vytinėms atplaukus į Gardiną Gardino dvarų pareigūnai taip pat grūdų išvežimo į."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1052,7 +1052,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-184954
 
 <a id="claim-t-201608"></a>
-- t-075
+- t-059
   teiginys: "Dar svarbesni buvo upeiviai, žmonės, susiję su prekių gabenimu Nemunu, Nerimi, Prūsijos vandens keliais iki Karaliaučiaus ir Gdansko ar iš ten."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1064,7 +1064,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - c-184955
 
 <a id="claim-t-201609"></a>
-- t-076
+- t-060
   teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1074,15 +1074,135 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184956
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
-- susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
-- susijęs iš Samaiten und der Deutsche Orden bis zum Frieden am Melno See 1422: R. Krumbholtzo „Samaiten und der Deutsche Orden bis zum Frieden am Melno See 1422“ išleistas Karaliaučiuje 1890 m.
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
-- susijęs iš [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas.md#claim-t-59157|Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]: 1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.
-- susijęs iš Livonija: Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.
+
+## Reikšmingi paminėjimai
+- c-027
+  santrauka: 'Sukilėliai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.	 Todėl jie nuolankiai ir gailiai kėlė
+    akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-029
+  santrauka: 'M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
+    vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei
+    visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą
+    kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.
+    problemas.
+    Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
+    kronikos rankraščius, jų tyrinėjimus, autoriaus politinius ir ideologinius tikslus,
+    kronikos šaltinius, tendenciją, idėjinę teksto reikšmę ir mokslinę svarbą. Kiti
+    klausimai analizuojami paaiškinimuose, kur mėginama lokalizuoti kronikoje minimas
+    vietoves (žr. ir schemą). Remiantis naujausiais istorijos, archeologijos, lingvistikos
+    duomenimis bei savarankiškais tyrinėjimais, visų pirma norima atskleisti kronikos
+    baltistinę, lituanistinę medžiagą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-035
+  santrauka: 'Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333). Tai
+    jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
+    pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-040
+  santrauka: 'Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-041
+  santrauka: 'Po pražūtingos puotos jaunikis, jaunoji, tarybos narių žmonos ir dukros su dideliu grobiu buvo išgabenti į Karaliaučių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be galybės šeimynykščių ir
+    kitokių menkos padėties žmonių, žuvo septynios dešim­
+    tys kunigaikščių bei didikų; pats jaunikis bei jaunoji,
+    visos tarybos narių žmonos bei dukros su didžiuliu
+    grobiu buvo išgabentos į Karaliaučių. Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-062
+
+- c-043
+  santrauka: 'Narbutas svarstė, ar Livonijos broliai, lankydavęsi Karaliaučiuje, galėjo informuoti kroniką ten rašiusį Dusburgietį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip mums rodo vietos tyrimai, Stenderis lat­
+    vių gramatikoje šiuo klausimu šiek tiek suklydo.
+    0 Betgi Livonijos kryžiuočiai patys kariavo su krivičiais; Livoni­
+    jos broliai lankydavosi Karaliaučiuje, kuriame Dusburgietis rašė kro­
+    niką; argi nebūtų apšvietę to, kuris taip uoliai tyrė visa, kas susiję su
+    istorija?
+    420
+
+    ## Puslapis 420
+
+    Toliau būtų galima pasakyti: Dusburgiečio žinia apie krivį
+    todėl darosi labai įtartina, kad, pasak jo, vyriausiojo žynio val­
+    džia apėmė ne tik Prūsiją, bet ir Lietuvą bei Latviją, nors tų
+    kraštų istorijos šaltiniai to visiškai nežino7.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: not_found
 ## Citatos
 
 - id: c-13409
@@ -1101,8 +1221,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-043
+    - t-047
 
 - id: c-14877
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1123,7 +1243,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-007
 
 - id: c-21461
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1149,9 +1269,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-014
     - t-017
-    - t-061
+    - t-021
 
 - id: c-32083
   autorius: "Zenonas Ivinskis"
@@ -1171,7 +1291,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-001
 
 - id: c-32084
   autorius: "Zenonas Ivinskis"
@@ -1188,8 +1308,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-005
+    - t-004
+    - t-044
 
 - id: c-32086
   autorius: "Zenonas Ivinskis"
@@ -1207,7 +1327,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-006
 
 - id: c-37414
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1227,7 +1347,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-024
 
 - id: c-123504
   autorius: "Petras Dusburgietis"
@@ -1248,7 +1368,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-038
 
 - id: c-123506
   autorius: "Petras Dusburgietis"
@@ -1269,7 +1389,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-013
 
 - id: c-123507
   autorius: "Zenonas Ivinskis"
@@ -1290,7 +1410,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-001
 
 - id: c-123508
   autorius: "Petras Dusburgietis"
@@ -1310,7 +1430,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
+    - t-042
 
 - id: c-123509
   autorius: "Michał Baliński"
@@ -1331,7 +1451,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-035
 
 - id: c-123511
   redaktorius: "A. Šapoka"
@@ -1351,7 +1471,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-022
 
 - id: c-123512
   autorius: "Michał Baliński"
@@ -1374,8 +1494,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-039
     - t-045
-    - t-035
 
 - id: c-123513
   autorius: "Zenonas Ivinskis"
@@ -1396,7 +1516,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-033
 
 - id: c-123514
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1417,8 +1537,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-039
+    - t-005
+    - t-020
 
 - id: c-123515
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1437,8 +1557,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
-    - t-007
+    - t-010
+    - t-028
 
 - id: c-123516
   autorius: "Michał Baliński"
@@ -1462,8 +1582,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-043
+    - t-019
+    - t-036
 
 - id: c-123517
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1483,7 +1603,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
+    - t-031
 
 - id: c-123519
   redaktorius: "A. Šapoka"
@@ -1502,7 +1622,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-060
+    - t-030
 
 - id: c-123520
   autorius: "Michał Baliński"
@@ -1526,7 +1646,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-023
 
 - id: c-123521
   autorius: "Petras Dusburgietis"
@@ -1545,7 +1665,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-040
 
 - id: c-123522
   autorius: "Petras Dusburgietis"
@@ -1567,7 +1687,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-009
 
 - id: c-123524
   autorius: "Michał Baliński"
@@ -1591,8 +1711,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
-    - t-033
+    - t-032
+    - t-046
 
 - id: c-123525
   autorius: "Petras Dusburgietis"
@@ -1611,7 +1731,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-002
 
 - id: c-123526
   autorius: "Zenonas Ivinskis"
@@ -1633,8 +1753,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-012
+    - t-026
+    - t-034
 
 - id: c-123528
   autorius: "Petras Dusburgietis"
@@ -1653,7 +1773,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-054
+    - t-027
 
 - id: c-123529
   redaktorius: "A. Šapoka"
@@ -1672,7 +1792,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-016
 
 - id: c-123530
   autorius: "Petras Dusburgietis"
@@ -1689,7 +1809,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-041
 
 - id: c-123531
   autorius: "Michał Baliński"
@@ -1722,7 +1842,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-008
 
 - id: c-123532
   redaktorius: "A. Šapoka"
@@ -1741,7 +1861,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-037
 
 - id: c-123536
   autorius: "Michał Baliński"
@@ -1779,8 +1899,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
-    - t-031
+    - t-015
+    - t-018
 
 - id: c-123540
   autorius: "Petras Dusburgietis"
@@ -1798,7 +1918,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-025
 
 - id: c-123541
   autorius: "Michał Baliński"
@@ -1823,7 +1943,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-048
 
 - id: c-123542
   autorius: "Petras Dusburgietis"
@@ -1866,7 +1986,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-011
 
 - id: c-123544
   autorius: "Michał Baliński"
@@ -1889,7 +2009,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-003
 
 - id: c-123548
   autorius: "Petras Dusburgietis"
@@ -1906,7 +2026,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-012
 
 - id: c-167545
   autorius: "Petras Dusburgietis"
@@ -1923,8 +2043,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
-    - t-065
+    - t-029
+    - t-049
 
 - id: c-168330
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1951,7 +2071,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-050
 
 - id: c-168332
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1980,8 +2100,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-068
-    - t-071
+    - t-051
+    - t-055
 
 - id: c-171594
   autorius: "Teodoras Narbutas"
@@ -2006,7 +2126,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-052
 
 - id: c-175438
   autorius: "Teodoras Narbutas"
@@ -2035,7 +2155,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-053
 
 - id: c-175932
   redaktorius: "A. Šapoka"
@@ -2055,7 +2175,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-054
 
 - id: c-179045
   autorius: "Petras Dusburgietis"
@@ -2080,7 +2200,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-056
 
 - id: c-184953
   autorius: "Zigmantas Kiaupa"
@@ -2099,7 +2219,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-057
 
 - id: c-184954
   autorius: "Zigmantas Kiaupa"
@@ -2118,7 +2238,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-074
+    - t-058
 
 - id: c-184955
   autorius: "Zigmantas Kiaupa"
@@ -2138,7 +2258,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
+    - t-059
 
 - id: c-184956
   autorius: "Zigmantas Kiaupa"
@@ -2157,7 +2277,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-076
+    - t-060
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]

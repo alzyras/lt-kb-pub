@@ -44,7 +44,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166569
-- susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05341|Gedimino dinastinė vedybų politika]]: Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.
+
 ## Citatos
 
 - id: c-166569

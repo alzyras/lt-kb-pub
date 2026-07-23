@@ -55,11 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Reikia išplėsti asmens įvardijimą ir palikti aiškų faktą apie Usviatus."
   pagrindžia:
     - c-77321
-- susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-184632|paliaubos]]: Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.
-- susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
-- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
-- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
-- susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
+
 ## Citatos
 
 - id: c-77321

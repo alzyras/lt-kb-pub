@@ -81,14 +81,7 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175719
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191114|Adomas Stanislovas Naruševičius]]: Naruševičius savo „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-191874|Adomas Stanislovas Naruševičius]]: Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.
-- susijęs iš Lenkų tautos istorija: Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192239|revoliucija]]: Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192572|revoliucija]]: Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192239|revoliucija]]: Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės.
+
 ## Citatos
 
 - id: c-175719

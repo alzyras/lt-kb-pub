@@ -48,7 +48,7 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174291
-- susijęs iš Vitliandija: Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūsų provincija Vitliandija prie Priegliaus žiočių.
+
 ## Citatos
 
 - id: c-174291

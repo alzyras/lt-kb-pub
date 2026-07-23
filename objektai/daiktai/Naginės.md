@@ -5,7 +5,7 @@ sukurta: '2026-07-12'
 variantai:
   - 'naginėmis'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -60,6 +60,7 @@ Nenurodyta
   citata_rodoma: "Kepurė irgi buvusi miestiška, ap- siavęs naginėmis, o kartais ir batais, įėjęs į grįčią ne poterius kalba, bet giesmę gieda."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

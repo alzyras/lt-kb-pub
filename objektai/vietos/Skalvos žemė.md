@@ -40,7 +40,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 ## Teiginiai
 
 <a id="claim-t-80128"></a>
-- t-003
+- t-001
   teiginys: "Skalvių žemė buvo abiejose Nemuno pusėse."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76998
 
 <a id="claim-t-80129"></a>
-- t-004
+- t-002
   teiginys: "1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76999
 
 <a id="claim-t-80130"></a>
-- t-001
+- t-003
   teiginys: "1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76997
 
 <a id="claim-t-80131"></a>
-- t-002
+- t-004
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,15 +111,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-77000
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184130|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-60442|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-184133|Svisdeta]]: Svisdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-60443|Svisdeta]]: Svisdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183898|Skalviai]]: Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184129|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas.md#claim-t-62131|Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]: Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
+
 ## Citatos
 
 - id: c-76997
@@ -144,7 +136,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-76998
   autorius: "Petras Dusburgietis"
@@ -163,7 +155,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-76999
   sudarytojas: "Karolis Zikaras"
@@ -187,7 +179,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-77000
   autorius: "Petras Dusburgietis"
@@ -207,7 +199,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 - Puolė Skalvos žemę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

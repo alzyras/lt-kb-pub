@@ -44,7 +44,7 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22328
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13466|Lietuvių aktyvistų frontas]]: LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru.
+
 ## Citatos
 
 - id: c-22328

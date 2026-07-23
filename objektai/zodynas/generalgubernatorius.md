@@ -39,7 +39,7 @@ Jį valdė Vilniaus generalgubernatorius.
 ## Teiginiai
 
 <a id="claim-t-45820"></a>
-- t-003
+- t-001
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Jį valdė Vilniaus generalgubernatorius.
     - c-48497
 
 <a id="claim-t-182947"></a>
-- t-001
+- t-003
   teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -85,18 +85,7 @@ Jį valdė Vilniaus generalgubernatorius.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46900
-- susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
-- susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
-- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
-- susijęs iš [[objektai/asmenys/Ivanas Kornilovas.md#claim-t-18931|Ivanas Kornilovas]]: Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju.
-- susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63838|Konstantinas Kalinauskas]]: Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais.
-- susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78025|M. Muravjovas]]: Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.
-- susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71340|Michailas Muravjovas]]: Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.
-- susijęs iš [[objektai/asmenys/T. Dalevskis.md#claim-t-40451|T. Dalevskis]]: T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.
-- susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01595|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.
-- susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
-- susijęs iš [[objektai/zodynas/rusinimas rusinimo politika.md#claim-t-22286|rusinimas rusinimo politika]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
-- susijęs iš [[objektai/zodynas/rusinimas.md#claim-t-22289|rusinimas]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
+
 ## Citatos
 
 - id: c-46900
@@ -115,7 +104,7 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-48497
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -156,7 +145,7 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-166819
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -176,4 +165,4 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

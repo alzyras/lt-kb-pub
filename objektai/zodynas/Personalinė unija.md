@@ -65,7 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182715"></a>
-- t-013
+- t-001
   teiginys: "Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-166134
 
 <a id="claim-t-182717"></a>
-- t-032
+- t-002
   teiginys: "Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-166132
 
 <a id="claim-t-182718"></a>
-- t-012
+- t-003
   teiginys: "Savotiškos personalinės unijos reikalavo lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
     - c-166133
 
 <a id="claim-t-182968"></a>
-- t-005
+- t-004
   teiginys: "Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-166367
 
 <a id="claim-t-182969"></a>
-- t-006
+- t-005
   teiginys: "Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Nenurodyta
     - c-46887
 
 <a id="claim-t-193610"></a>
-- t-033
+- t-006
   teiginys: "Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-166132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -203,7 +203,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-002
 
 - id: c-166133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -229,7 +229,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-003
 
 - id: c-166134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -249,7 +249,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-001
 
 - id: c-166367
   redaktorius: "A. Šapoka"
@@ -270,7 +270,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-176283
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -288,4 +288,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-006

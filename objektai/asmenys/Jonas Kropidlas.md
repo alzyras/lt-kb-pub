@@ -74,6 +74,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185863|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.

@@ -37,7 +37,7 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
 ## Teiginiai
 
 <a id="claim-t-200485"></a>
-- t-002
+- t-001
   teiginys: "Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +58,7 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
     - c-183854
 
 <a id="claim-t-200486"></a>
-- t-001
+- t-002
   teiginys: "Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -85,5 +85,5 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

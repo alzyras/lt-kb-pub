@@ -58,14 +58,7 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42679
-- susijęs iš [[objektai/grupes/Lisovčikai.md#claim-t-41063|Lisovčikai]]: J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65306|Kazokai]]: Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.
-- susijęs iš [[objektai/grupes/Lisovčikai.md#claim-t-41063|Lisovčikai]]: J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.
-- susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
-- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-183655|Kazokai]]: Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
+
 ## Citatos
 
 - id: c-42679

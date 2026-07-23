@@ -30,7 +30,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 ## Teiginiai
 
 <a id="claim-t-89590"></a>
-- t-002
+- t-001
   teiginys: "Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - c-85533
 
 <a id="claim-t-89591"></a>
-- t-003
+- t-002
   teiginys: "Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - c-85533
 
 <a id="claim-t-194470"></a>
-- t-004
+- t-003
   teiginys: "Ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - c-176944
 
 <a id="claim-t-197048"></a>
-- t-005
+- t-004
   teiginys: "Kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - c-176944
 
 <a id="claim-t-197049"></a>
-- t-006
+- t-005
   teiginys: "Dusburgietis teigia, kad jie be galo stebėdavosi, sužinoję, kad žmogus gali raštu perduoti savo norą kitam, čia nesančiam. Kadangi jie nepažino dievo, tai, suprantama, klaidingai dievino visokiausius tvarinius, būtent: saulę, mėnulį ir žvaigždes, griaustinį, sparnuočius ir."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -119,8 +119,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-176944
   autorius: "Petras Dusburgietis"
@@ -141,8 +141,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-005
 
 - id: c-179018
   autorius: "Petras Dusburgietis"
@@ -162,4 +162,4 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

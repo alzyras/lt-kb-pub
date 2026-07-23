@@ -37,7 +37,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 ## Teiginiai
 
 <a id="claim-t-74876"></a>
-- t-003
+- t-001
   teiginys: "1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - c-22685
 
 <a id="claim-t-74877"></a>
-- t-005
+- t-002
   teiginys: "Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - c-72860
 
 <a id="claim-t-74878"></a>
-- t-001
+- t-003
   teiginys: "Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -89,21 +89,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22683
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-26625|Lietuvių aktyvistų frontas]]: Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.
-- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75624|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.
-- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
-- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
-- susijęs iš Vokietija: LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.
-- susijęs iš Vokietija: Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
-- susijęs iš [[objektai/grupes/Abveras.md#claim-t-19624|Abveras]]: Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
-- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
+
 ## Citatos
 
 - id: c-22683
@@ -125,7 +111,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-22685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -146,7 +132,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-72860
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -169,4 +155,4 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

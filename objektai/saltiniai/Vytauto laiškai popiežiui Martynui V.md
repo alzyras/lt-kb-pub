@@ -29,7 +29,7 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
 ## Teiginiai
 
 <a id="claim-t-36129"></a>
-- t-002
+- t-001
   teiginys: "Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
     - c-38440
 
 <a id="claim-t-36130"></a>
-- t-001
+- t-002
   teiginys: "Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,5 +85,5 @@ Dar prieš Kaributo iš­ siuntimą pranešė Martynui V, kad tai daro įsitikin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

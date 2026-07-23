@@ -44,7 +44,7 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
   semantiniai_rysiai: "Baltai gyveno Dniepras (0.87)"
   pagrindžia:
     - c-33144
-- susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
+
 ## Citatos
 
 - id: c-33144

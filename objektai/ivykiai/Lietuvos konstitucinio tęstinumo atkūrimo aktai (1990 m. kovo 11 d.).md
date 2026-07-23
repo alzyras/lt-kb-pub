@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-20315"></a>
-- t-002
+- t-001
   teiginys: "Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-166634
 
 <a id="claim-t-183246"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos Aukščiausioji Taryba atkūrė 1938 m. Konstitucijos galiojimą, netrukus jį sustabdė ir patvirtino Laikinąjį Pagrindinį Įstatymą."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -156,5 +156,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

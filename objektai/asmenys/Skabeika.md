@@ -48,8 +48,7 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169522
-- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.).md#claim-t-185685|Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]: Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.
-- susijęs iš [[objektai/posakiai/Verbų sekmadieni.md#claim-t-186893|Verbų sekmadieni]]: Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.'
@@ -72,7 +71,6 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169522

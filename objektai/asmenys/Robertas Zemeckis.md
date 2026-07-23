@@ -58,11 +58,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš Čikaga: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
 
 ## Ryšiai
 - Robertas Zemeckis gimė [[objektai/vietos/Čikaga]]

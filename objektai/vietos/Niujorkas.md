@@ -36,7 +36,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Teiginiai
 
 <a id="claim-t-68825"></a>
-- t-002
+- t-001
   teiginys: "Lėktuvėliu „Lituanica“ buvo atliktas tiesioginis skrydis iš Niujorko į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,39 +50,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-68310
-- susijęs iš [[objektai/asmenys/Magdalena Avietėnaitė.md#claim-t-19122|Magdalena Avietėnaitė]]: Magdalena Avietėnaitė vadovavo rengiant specialų Lietuvos skyrių 1939 m. pasaulinei parodai Niujorke.
-- susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-183570|Stasys Girėnas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46322|Stasys Lozoraitis]]: Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke.
-- susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/autoriai/J. Balys.md#claim-t-30659|J. Balys]]: J. Balys 1961 m. Niujorke paskelbė rinktinę bibliografiją „Lithuania and Lithuanians“.
-- susijęs iš [[objektai/autoriai/Senn A. E.md#claim-t-183346|Senn A. E]]: A. E. Sennas buvo vienas knygos „Lithuania in European Politics: The Years of the First Republic, 1918–1940“, išleistos Niujorke 1997 m., autorių.
-- susijęs iš [[objektai/autoriai/Senn A. E.md#claim-t-64847|Senn A. E]]: A. E. Sennas buvo vienas knygos „Lithuania in European Politics: The Years of the First Republic, 1918–1940“, išleistos Niujorke 1997 m., autorių.
-- susijęs iš [[objektai/daiktai/„Lituanica“ lėktuvas.md#claim-t-25181|„Lituanica“ lėktuvas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ skrido tiesiogiai iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.).md#claim-t-01571|Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]: 1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.
-- susijęs iš [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.).md#claim-t-23491|Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]: 1974 m. spalio 26–27 d. Niujorke vykusi lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo.
-- susijęs iš [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke.md#claim-t-20358|Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]: 1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą.
-- susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183273|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77933|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš Lithuania and Lithuanians. A selected bibliography: J. Balio „Lithuania and Lithuanians. A selected bibliography“ išleista Niujorke 1961 m.
-- susijęs iš S. Dariaus ir S. Girėno laiškas prieš skrydį: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš Čikaga: 1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.
-- susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
-- susijęs iš [[objektai/asmenys/Juozas Gabrys-Paršaitis.md#claim-t-19014|Juozas Gabrys-Paršaitis]]: Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.
-- susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
-- susijęs iš [[objektai/asmenys/Vudrau Vilsonas.md#claim-t-19327|Vudrau Vilsonas]]: Amerikos lietuviai paprašė prezidento Vudrau Vilsono 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos karo aukoms.
-- susijęs iš [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės.md#claim-t-75340|Monumentalios Lietuvos istorijos drobės]]: 1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.
-- susijęs iš [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės.md#claim-t-75341|Monumentalios Lietuvos istorijos drobės]]: 1939 m. pasaulinei parodai Niujorke parengtame Lietuvos skyriuje svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose žymių dailininkų drobėse.
-- susijęs iš [[objektai/grupes/Amerikos lietuvių taryba.md#claim-t-23465|Amerikos lietuvių taryba (institucija)]]: Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74142|JAV lietuviai]]: Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną.
-- susijęs iš [[objektai/grupes/Lietuvių informacijos biuras Lozanoje.md#claim-t-19810|Lietuvių informacijos biuras Lozanoje]]: JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis apie Lietuvą.
-- susijęs iš Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklausomos Lietuvos atstatymo (1974 m.): 1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.
-- susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
-- susijęs iš Lozana: JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis, kėlusias Lietuvos nepriklausomybės reikalą.
-- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
-- susijęs iš Rytų Prūsija: „Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje.
-- susijęs iš White Plains: 1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą.
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
+
 ## Citatos
 
 - id: c-68310
@@ -101,7 +69,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-68311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -126,6 +94,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   citata_rodoma: "į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

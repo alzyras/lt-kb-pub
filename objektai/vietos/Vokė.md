@@ -89,13 +89,7 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie totorių gyvenvietę prie Vokės, o pradinis teiginys buvo nutrūkęs."
   pagrindžia:
     - c-81550
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
-- susijęs iš [[objektai/asmenys/Mela.md#claim-t-191297|Mela]]: Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių.
-- susijęs iš [[objektai/asmenys/Pompomijus Mela.md#claim-t-191151|Pompomijus Mela]]: Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191181|Slėceris]]: Narbuto vertinimu, Slėcerio nereikėjo kaltinti melu dėl Baltijos, nes jis galėjo remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190693|Augustas Liudvigas Šleceris]]: Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191571|Augustas Liudvikas fon Slėceris]]: Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Mela.md#claim-t-191653|Mela]]: Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais.
+
 ## Citatos
 
 - id: c-81550

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66606"></a>
-- t-005
+- t-001
   teiginys: "Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-66805
 
 <a id="claim-t-66607"></a>
-- t-006
+- t-002
   teiginys: "Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-11857
 
 <a id="claim-t-66608"></a>
-- t-004
+- t-003
   teiginys: "Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-66804
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-11857
@@ -114,7 +114,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-66804
   sudarytojas: "Karolis Zikaras"
@@ -131,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-66805
   sudarytojas: "Karolis Zikaras"
@@ -152,7 +152,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

@@ -53,8 +53,7 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra bibliografinis fragmentas, o citata leidžia jį paversti sakiniu."
   pagrindžia:
     - c-30535
-- susijęs iš [[objektai/autoriai/H. Lowmiański.md#claim-t-05941|H. Lowmiański]]: H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.
-- susijęs iš Litovskij Statut 1588 goda: I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.
+
 ## Citatos
 
 - id: c-30535

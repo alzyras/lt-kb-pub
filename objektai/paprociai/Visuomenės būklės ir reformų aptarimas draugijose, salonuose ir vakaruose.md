@@ -70,7 +70,7 @@ Nenurodyta
     - c-78413
 
 <a id="claim-t-81871"></a>
-- t-003
+- t-002
   teiginys: "Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-78413
 
 <a id="claim-t-81872"></a>
-- t-002
+- t-003
   teiginys: "Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-78413
   autorius: "Michał Baliński"
@@ -145,4 +145,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

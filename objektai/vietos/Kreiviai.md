@@ -50,9 +50,7 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59331
-- susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.
-- susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.
-- susijęs iš [[objektai/autoriai/Tarasenka P.md#claim-t-64857|Tarasenka P]]: P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.
+
 ## Citatos
 
 - id: c-59331

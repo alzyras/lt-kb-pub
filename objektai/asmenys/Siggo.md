@@ -48,7 +48,7 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173092
-- susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
+
 ## Citatos
 
 - id: c-173092

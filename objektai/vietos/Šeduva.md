@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1654'
 date_end: '2026'
-amziai:
-  - 'XVII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XVII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Teiginiai
 
 <a id="claim-t-69878"></a>
-- t-003
+- t-001
   teiginys: "Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - c-44069
 
 <a id="claim-t-201682"></a>
-- t-004
+- t-003
   teiginys: "Kai 1654 m. Jonas Kazimieras suteikė savivaldą Šeduvai, jaunam miestui vėl kaip pavyzdys buvo nurodomas Kaunas ir jo vi1kieras."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-185029
   autorius: "Zigmantas Kiaupa"
@@ -148,4 +148,4 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

@@ -30,7 +30,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 ## Teiginiai
 
 <a id="claim-t-187241"></a>
-- t-002
+- t-001
   teiginys: "Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -48,7 +48,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
     - c-170304
 
 <a id="claim-t-187242"></a>
-- t-001
+- t-002
   teiginys: "Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -76,11 +76,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170304
-- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
-- susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
-- susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
-- susijęs iš Opočka: Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos.
-- susijęs iš Opočka: Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos.
+
 ## Citatos
 
 - id: c-170304
@@ -98,8 +94,8 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003
 
 - id: c-170534
@@ -129,6 +125,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   citata_rodoma: "Didysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * .\nSekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,10 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) gynė Žydai (0.66)"
   pagrindžia:
     - c-75120
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75709|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75740|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
-- susijęs iš [[objektai/posakiai/„vietos visiems užteks“.md#claim-t-20960|„vietos visiems užteks“]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
+
 ## Citatos
 
 - id: c-75120

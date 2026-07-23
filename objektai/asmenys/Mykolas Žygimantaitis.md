@@ -30,7 +30,7 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
 ## Teiginiai
 
 <a id="claim-t-194085"></a>
-- t-002
+- t-001
   teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,6 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176698
@@ -82,4 +81,4 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

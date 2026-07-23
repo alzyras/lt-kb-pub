@@ -40,41 +40,6 @@ sausumos kelias tarp dviejų prieplaukų; slaviškas istorinis terminas, aiškin
 
 Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos pernešimo kelią tarp dviejų prieplaukų.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
-    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
-    mažai.
-    2 Kotzebue.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192175
-
-## Citatos
-
-- id: c-175049
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
-    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
-    mažai.
-  citata_rodoma: "Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų\nslavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­\nmažai."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-
 ## Teiginiai
 
 <a id="claim-t-192174"></a>
@@ -112,3 +77,40 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175049
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
+    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
+    mažai.
+    2 Kotzebue.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
+
+## Citatos
+
+- id: c-175049
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
+    slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­
+    mažai.
+  citata_rodoma: "Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų\nslavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­\nmažai."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

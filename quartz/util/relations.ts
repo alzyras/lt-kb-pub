@@ -1,7 +1,6 @@
 import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
-import { parseEvidenceSections } from "./citationFilter"
 import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "./contentPaths"
 import { FilePath, FullSlug, simplifySlug, slugTag } from "./path"
 
@@ -212,30 +211,6 @@ export function relationMapEntries(map: RelationTargetMap): Array<[string, FullS
   return Object.entries(map) as Array<[string, FullSlug | null]>
 }
 
-function globalClaimIds(markdown: string): string[] {
-  const heading = markdown.search(/^##\s+Teiginiai\s*$/m)
-  if (heading < 0) return []
-  const bodyStart = markdown.indexOf("\n", heading) + 1
-  const body = markdown.slice(bodyStart)
-  const nextHeading = body.search(/^##\s+/m)
-  const section = nextHeading >= 0 ? body.slice(0, nextHeading) : body
-  const ids: string[] = []
-  let pending = ""
-  for (const line of section.split(/\r?\n/)) {
-    const anchor = line.match(/^\s*<a\s+id=["']claim-(t-\d+)["']\s*><\/a>\s*$/i)
-    if (anchor) {
-      pending = anchor[1]
-      continue
-    }
-    const claim = line.match(/^\s*-\s+(?:id:\s*)?(t-\d+)\s*$/i)
-    if (claim) {
-      ids.push(pending)
-      pending = ""
-    }
-  }
-  return ids
-}
-
 export function relationTargetWikilinks(markdown: string): string[] {
   const heading = markdown.search(/^##\s+Ryšiai\s*$/m)
   if (heading < 0) return []
@@ -279,16 +254,6 @@ export function buildCanonicalRelationIndex(
       if (targetSlug) add(targetSlug)
     }
 
-    const claims = (parseEvidenceSections(document.markdown).get("Teiginiai") ?? []).filter((entry) =>
-      entry.id.startsWith("t-"),
-    )
-    const globals = globalClaimIds(document.markdown)
-    claims.forEach((claim, index) => {
-      const rawTarget = claim.fields.get("ryšio_targeto_parinkimas")?.trim() ?? ""
-      const targetSlug = relationTargetSlug(rawTarget, relationTargetMap)
-      if (!rawTarget || !targetSlug) return
-      add(targetSlug, claim.fields.get("global_id")?.trim() || globals[index] || claim.id)
-    })
   }
   return [...byPair.values()]
 }

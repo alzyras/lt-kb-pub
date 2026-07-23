@@ -11,14 +11,14 @@ datos:
   - '1327 m.'
 date_start: '1239'
 date_end: '1327'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
+amziai:
+  - 'XIII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 ## Teiginiai
 
 <a id="claim-t-90290"></a>
-- t-002
+- t-001
   teiginys: "Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86167
 
 <a id="claim-t-90291"></a>
-- t-013
+- t-002
   teiginys: "Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86164
 
 <a id="claim-t-90292"></a>
-- t-009
+- t-003
   teiginys: "Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86161
 
 <a id="claim-t-90293"></a>
-- t-010
+- t-004
   teiginys: "Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86164
 
 <a id="claim-t-90294"></a>
-- t-011
+- t-005
   teiginys: "Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86157
 
 <a id="claim-t-90295"></a>
-- t-001
+- t-006
   teiginys: "Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86165
 
 <a id="claim-t-90296"></a>
-- t-003
+- t-007
   teiginys: "Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86169
 
 <a id="claim-t-90297"></a>
-- t-004
+- t-008
   teiginys: "Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86160
 
 <a id="claim-t-90298"></a>
-- t-014
+- t-009
   teiginys: "Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86163
 
 <a id="claim-t-90299"></a>
-- t-008
+- t-010
   teiginys: "Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86166
 
 <a id="claim-t-90300"></a>
-- t-012
+- t-011
   teiginys: "1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86162
 
 <a id="claim-t-90301"></a>
-- t-007
+- t-012
   teiginys: "Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -248,7 +248,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86156
 
 <a id="claim-t-90302"></a>
-- t-006
+- t-013
   teiginys: "1239 m. broliai, padedami Baigos pilies vado Kodrūno, užgrobė prūsų pilį ir apsigyveno Baigoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -267,7 +267,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86163
 
 <a id="claim-t-90303"></a>
-- t-005
+- t-014
   teiginys: "Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -302,7 +302,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-167529
 
 <a id="claim-t-194527"></a>
-- t-018
+- t-016
   teiginys: "Apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -314,7 +314,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-86161
 
 <a id="claim-t-194528"></a>
-- t-019
+- t-017
   teiginys: "Apie kelių prūsų žūtį Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa, kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -324,176 +324,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86164
-- susijęs iš [[objektai/asmenys/Tame (Baigos brolis).md#claim-t-60444|Tame (Baigos brolis)]]: 1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.
-- susijęs iš [[objektai/asmenys/Pijopas.md#claim-t-60409|Pijopas]]: Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78539|Varmiai]]: Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175267|Otokaras II]]: Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
-- susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
-- susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
-- susijęs iš Semba: Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
-- susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-183961|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
-- susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-59407|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
-- susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
-- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
-- susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
-- susijęs iš [[objektai/asmenys/Jonas (Baigos vicekomtūras).md#claim-t-60339|Jonas (Baigos vicekomtūras)]]: Brolis Jonas, Baigos vicekomtūras, nepritarė sutarčiai ir ragino brolius drąsiai stoti į kovą.
-- susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
-- susijęs iš [[objektai/asmenys/Pijopas.md#claim-t-60409|Pijopas]]: Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.
-- susijęs iš [[objektai/asmenys/Pomandas.md#claim-t-60193|Pomandas]]: Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu.
-- susijęs iš [[objektai/asmenys/Ruseinis.md#claim-t-60199|Ruseinis]]: Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.
-- susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
-- susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
-- susijęs iš [[objektai/asmenys/Tame (Baigos brolis).md#claim-t-60444|Tame (Baigos brolis)]]: 1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.
-- susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190728|Johanas Foigtas]]: Foigto ištraukoje teigiama, kad Aistmarės išsiplėtė į rytus, o tarp senos Baigos pilies ir Piliavos anksčiau buvo gyvenama sausuma.
-- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
-- susijęs iš [[objektai/daiktai/Įtvirtintas malūnas prie Baigos.md#claim-t-59710|Įtvirtintas malūnas prie Baigos]]: Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178896|Kryžiuočių ordinas]]: Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78539|Varmiai]]: Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78545|Varmiai]]: Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.
-- susijęs iš [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis.md#claim-t-62202|Baigos pilies apgula ir Pijopo žūtis (pilis)]]: Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.
-- susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
-- susijęs iš [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas.md#claim-t-62878|Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]: Laivai „Piligrimas“ ir „Fridlandas“ padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias.
-- susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
-- susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-183961|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
-- susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-59407|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
-- susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
-- susijęs iš [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos.md#claim-t-67028|Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]: Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89443|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89445|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.
-- susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59737|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.
-- susijęs iš Foigto Geschichte Preussens: Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos.
-- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.
-- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
-- susijęs iš Elbingas: Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.
-- susijęs iš Elbingas: Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias.
-- susijęs iš Kroicburgas: Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.
-- susijęs iš [[objektai/zodynas/grinda.md#claim-t-58849|grinda]]: Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
-- susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58821|šeimyna familia domus]]: Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.
-- susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
-- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
-- susijęs iš [[objektai/asmenys/Foigtas.md#claim-t-191345|Foigtas]]: Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus.
-- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
-- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
-- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
-- susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87508|Gotfridas Lindenas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus.
-- susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
-- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
-- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59916|Henrikas Cutsvertas]]: Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.
-- susijęs iš [[objektai/asmenys/Henrikas iš Vederės.md#claim-t-60316|Henrikas iš Vederės]]: Henrikas iš Vederės buvo sunkiai sužeistas pabėgusio ruso, bet pats jį mirtinai sužeidė.
-- susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
-- susijęs iš [[objektai/asmenys/Hertvigas.md#claim-t-60328|Hertvigas]]: Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.
-- susijęs iš [[objektai/asmenys/Joabas.md#claim-t-60335|Joabas]]: Joabas buvo Dovydo kariuomenės vadas, kuris sielojosi dėl saviškių mirties.
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190890|Johanas Foigtas]]: III priede Narbutas pateikė Johano Foigto ištrauką apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus.
-- susijęs iš [[objektai/asmenys/Klemensas iš Moskoževo.md#claim-t-35189|Klemensas iš Moskoževo]]: Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.
-- susijęs iš [[objektai/asmenys/Konradas (Baigos kunigas).md#claim-t-60358|Konradas (Baigos kunigas)]]: Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.
-- susijęs iš [[objektai/asmenys/Liudvikas Libencelė.md#claim-t-186145|Liudvikas Libencelė]]: Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.
-- susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60168|Luterbergas]]: Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175267|Otokaras II]]: Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/asmenys/Pomandas.md#claim-t-60194|Pomandas]]: Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą.
-- susijęs iš [[objektai/asmenys/Redigeris Elneris.md#claim-t-87844|Redigeris Elneris]]: Arkikomtūras Redigeris Elneris su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59825|Skomantas]]: Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
-- susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60218|Valteris, pravarde Goldinas]]: 1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.
-- susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60219|Valteris, pravarde Goldinas]]: Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176816|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis (valdovas, XIII–XIV a.)]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
-- susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
-- susijęs iš [[objektai/autoriai/Vredė.md#claim-t-191688|Vredė]]: Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas atstumas tarp Kolhauzo ir Kamstigao sudarė apie 1900 rykščių.
-- susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
-- susijęs iš [[objektai/grupes/Bazelio bažnytinis susirinkimas.md#claim-t-40864|Bazelio bažnytinis susirinkimas]]: Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96109|Gediminaičių dinastija]]: Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96113|Gediminaičių dinastija]]: XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija.
-- susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178833|Kryžiuočių ordinas]]: 1249 m. prūsai, sulaužę taikos sutartį, nužudė 54 Kryžiuočių ordino brolius ir kitus su jais buvusius žmones.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179001|Kryžiuočių ordinas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179122|Kryžiuočių ordinas]]: Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.
-- susijęs iš [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.).md#claim-t-62743|Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]: 1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
-- susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
-- susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-62782|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
-- susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-81826|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
-- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
-- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-183949|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62885|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62886|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.
-- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
-- susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
-- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
-- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59397|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/ivykiai/Skomanto mirtis.md#claim-t-62922|Skomanto mirtis]]: Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.
-- susijęs iš [[objektai/ivykiai/Šnikenbergo pilies pastatymas.md#claim-t-62541|Šnikenbergo pilies pastatymas (pilis)]]: Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus.
-- susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-183988|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis bematant leidosi apkrikštijamas su visa savo šeimyna.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-183330|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54324|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį.
-- susijęs iš [[objektai/posakiai/Pasiimk šį savo dievo paveikslą.md#claim-t-89599|Pasiimk šį savo dievo paveikslą]]: Skomantas mirties patale pasakojo, kad prieš atsivertimą pakėlė ir nuvalė pagrobtą Marijos bei jos sūnaus paveikslą.
-- susijęs iš [[objektai/posakiai/Pasiimk šį savo dievo paveikslą.md#claim-t-89600|Pasiimk šį savo dievo paveikslą]]: Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens.
-- susijęs iš [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot.md#claim-t-59159|Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]: Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.
-- susijęs iš [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo.md#claim-t-184037|nedera tuščiomis rankomis grįžti namo]]: Birželio 29 d. Henriko Cutsverto vadovaujami broliai nusprendė negrįžti tuščiomis ir nuniokojo Aukaimio pilies apylinkes.
-- susijęs iš 1529 m. Lietuvos Statutas: 1529 m. parengtas Lietuvos Statutas sistemingumu ir renesansiniu įforminimu pralenkė to meto Europos teisės kodifikacijos lygį.
-- susijęs iš „2 Kar 11, 25“: 2 Kar 11, 25 cituojama kaip Dovydo pamokymas Joabui neprarasti drąsos dėl karių žūties.
-- susijęs iš Aismares: Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.
-- susijęs iš Aismares: Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.
-- susijęs iš Bagrationovskas: Bagrationovskas anksčiau vadintas Prūsų Ylava.
-- susijęs iš Drūsinė: Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
-- susijęs iš Elbingas: Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.
-- susijęs iš Elbingas: Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.
-- susijęs iš Gardinas: XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo.
-- susijęs iš Gardinas: Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.
-- susijęs iš Gardinas: XVIII a. pabaigoje Gardine mėginta gaminti šautuvus, tačiau kariuomenės vadovybė savais gamintojais nepasitikėjo.
-- susijęs iš Ilienburgas: Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.
-- susijęs iš Kriukai: Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.
-- susijęs iš Lenkija: 1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.
-- susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
-- susijęs iš Natangija: Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.
-- susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.
-- susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.
-- susijęs iš Partigala: Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.
-- susijęs iš Partigala: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį.
-- susijęs iš Podolė: Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.
-- susijęs iš Prūsija: XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.
-- susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
-- susijęs iš Sambija: Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių.
-- susijęs iš Semba: Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.
-- susijęs iš Skrando kalnas: Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.
-- susijęs iš Upa: Upa buvo Okos aukštupio dešinysis intakas prie Odojevo.
-- susijęs iš Upa: Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje.
-- susijęs iš Šnikenbergas: Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų.
-- susijęs iš Šnikenbergas: Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų.
-- susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86453|Arkikomtūras]]: Arkikomtūras Redigeris Elneris kartu su Ordino maršalu Gotfridu Lindenu buvo pasiųstas užimti Vilniaus.
-- susijęs iš [[objektai/zodynas/Personalinė unija.md#claim-t-182715|Personalinė unija (unija)]]: Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.
-- susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58844|atsimetėliai naujakrikščiai atsimetėliai]]: Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo.
-- susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183834|komtūras]]: Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-184006|kuoras propugnaculum pilaitė]]: Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais.
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70224|maldininkai / maldininko įžadai]]: `Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58773|papilys]]: 1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
-- susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-184021|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
-- susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
-- susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
-- susijęs iš [[objektai/asmenys/Pijopas.md#claim-t-60409|Pijopas]]: Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.
-- susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78545|Varmiai]]: Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
-- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
-- susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
-- susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
-- susijęs iš [[objektai/daiktai/Įtvirtintas malūnas prie Baigos.md#claim-t-59710|Įtvirtintas malūnas prie Baigos]]: Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.'
@@ -512,10 +343,10 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
     nieku būdu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -531,10 +362,10 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
     pragaištį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: '1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -545,12 +376,15 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     nelaisvę. Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
     buvo ne vieną, bet keletą kartų.
 
+
+
+
                      138 (133).
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -561,11 +395,10 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     saviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį
       63 SRP, B. 1, S. 3, 816; 6, S. 35 (1327 m.); PUB, 2, 2, S. 380 (1326 m.).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-86156
@@ -592,7 +425,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-012
 
 - id: c-86157
   autorius: "Petras Dusburgietis"
@@ -612,7 +445,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-005
 
 - id: c-86158
   autorius: "Petras Dusburgietis"
@@ -636,7 +469,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-86160
   autorius: "Petras Dusburgietis"
@@ -652,7 +485,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-86161
   autorius: "Petras Dusburgietis"
@@ -674,8 +507,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-018
+    - t-003
+    - t-016
 
 - id: c-86162
   autorius: "Petras Dusburgietis"
@@ -696,7 +529,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-86163
   autorius: "Petras Dusburgietis"
@@ -723,8 +556,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-006
+    - t-009
+    - t-013
 
 - id: c-86164
   autorius: "Petras Dusburgietis"
@@ -745,9 +578,9 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-010
-    - t-019
+    - t-002
+    - t-004
+    - t-017
 
 - id: c-86165
   autorius: "Petras Dusburgietis"
@@ -764,7 +597,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-86166
   autorius: "Petras Dusburgietis"
@@ -798,7 +631,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-010
 
 - id: c-86167
   autorius: "Petras Dusburgietis"
@@ -819,7 +652,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-86168
   autorius: "Petras Dusburgietis"
@@ -838,7 +671,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-014
 
 - id: c-86169
   autorius: "Petras Dusburgietis"
@@ -861,7 +694,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-007
 
 - id: c-167529
   autorius: "Petras Dusburgietis"

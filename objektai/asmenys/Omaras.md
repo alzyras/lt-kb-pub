@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   semantiniai_rysiai: "Omaras užėmė Jeruzalė (0.60)"
   pagrindžia:
     - c-61029
-- susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
+
 ## Citatos
 
 - id: c-61029

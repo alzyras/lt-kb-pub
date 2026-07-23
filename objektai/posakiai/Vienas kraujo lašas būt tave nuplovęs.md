@@ -46,7 +46,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 ## Teiginiai
 
 <a id="claim-t-09678"></a>
-- t-004
+- t-001
   teiginys: "Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -66,7 +66,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     - c-12490
 
 <a id="claim-t-09679"></a>
-- t-003
+- t-002
   teiginys: "Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -106,7 +106,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-12490
   sudarytojas: "Karolis Zikaras"
@@ -129,4 +129,4 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

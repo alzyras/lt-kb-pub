@@ -72,7 +72,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-171794
 
 <a id="claim-t-188908"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-171797
 
 <a id="claim-t-194749"></a>
-- t-005
+- t-004
   teiginys: "Tad paskaitykime dabar pačios seno vinės šventyklos aprašymą."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-171794
 
 <a id="claim-t-197477"></a>
-- t-006
+- t-005
   teiginys: "Narbutas teigia, kad dievo Patelo stabas buvo toje pačioje šventykloje ir stovėjo į dešinę nuo Perkūno, bet koks buvo jo atvaizdas - nežinome."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-171794
 
 <a id="claim-t-197478"></a>
-- t-007
+- t-006
   teiginys: "Šventyklą supo aikštė, ku rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla buvo Adytum."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-171795
 
 <a id="claim-t-197479"></a>
-- t-008
+- t-007
   teiginys: "Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot to paties istoriko, priklausė šventyklos liekanoms."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179211
-- susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
+
 ## Citatos
 
 - id: c-171793
@@ -183,8 +183,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-004
     - t-005
-    - t-006
 
 - id: c-171795
   autorius: "Teodoras Narbutas"
@@ -203,7 +203,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-171797
   autorius: "Teodoras Narbutas"
@@ -223,7 +223,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177145
   autorius: "Teodoras Narbutas"
@@ -261,4 +261,4 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

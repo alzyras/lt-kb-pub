@@ -42,7 +42,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 ## Teiginiai
 
 <a id="claim-t-76163"></a>
-- t-002
+- t-001
   teiginys: "1917 m. Berno konferencijoje Balstogės apskritis buvo įtraukta į etnografinės Lietuvos teritorijos projektą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     - c-73803
 
 <a id="claim-t-182997"></a>
-- t-005
+- t-002
   teiginys: "Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų."
   atnaujinta: "2026-06-14 09:48"
   sprendimo_priezastis: "auto"
@@ -79,14 +79,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
   pagrindžia:
     - c-166393
-- susijęs iš Acta Baltico-Slavica: „Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.
-- susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
-- susijęs iš Kubicka W. Bibliografia języka staropruskiego (do 1965 r.): W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m.
-- susijęs iš Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego: J. Otrębskio „Udział Jaćwingów w ukształtowaniu języka polskiego“ 1964 m. publikuotas Balstogėje leidinyje „ABS“.
-- susijęs iš Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje): Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.
-- susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
-- susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
-- susijęs iš Užnemunė: Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.
+
 ## Citatos
 
 - id: c-73803
@@ -112,7 +105,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166393
   redaktorius: "A. Šapoka"
@@ -131,4 +124,4 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

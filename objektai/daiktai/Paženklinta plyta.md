@@ -83,9 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-10268
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10268

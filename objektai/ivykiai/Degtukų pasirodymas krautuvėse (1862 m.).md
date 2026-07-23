@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195607"></a>
-- t-002
+- t-001
   teiginys: "Iš pradžių degtukus vartojo tik miestiečiai ir jie juos naudojo atsargiai."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-178013
 
 <a id="claim-t-195608"></a>
-- t-001
+- t-002
   teiginys: "1862 m. degtukai pasirodė krautuvėse."
   atnaujinta: "2026-07-12 07:26"
   sprendimo_priezastis: "gap::events"
@@ -144,5 +144,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

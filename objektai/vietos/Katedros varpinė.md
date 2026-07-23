@@ -45,7 +45,7 @@ Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų.
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184149
-- susijęs iš Žemosios pilies bokštas: Vilniaus katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų.
+
 ## Citatos
 
 - id: c-184149

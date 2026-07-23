@@ -44,8 +44,7 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-29551
-- susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179526|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.
+
 ## Citatos
 
 - id: c-29551

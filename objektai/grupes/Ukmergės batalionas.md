@@ -46,7 +46,7 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
   semantiniai_rysiai: "Ukmergės batalionas puolė Rusai (0.74)"
   pagrindžia:
     - c-40812
-- susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
+
 ## Citatos
 
 - id: c-40812

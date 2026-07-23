@@ -74,7 +74,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - c-91575
 
 <a id="claim-t-97020"></a>
-- t-003
+- t-002
   teiginys: "Kunonas, Brandenburgo komtūras, užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - c-91574
 
 <a id="claim-t-97022"></a>
-- t-002
+- t-003
   teiginys: "Dusburgietis rašo, kad Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -147,8 +147,8 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003
 
 - id: c-91575
   autorius: "Zenonas Ivinskis"

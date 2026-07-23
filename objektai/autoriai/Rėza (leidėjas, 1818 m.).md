@@ -10,10 +10,6 @@ datos:
   - '1818 m.'
 date_start: '1805'
 date_end: '1818'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,10 @@ tags:
   - mokslininkas
   - kunigas
   - rašytojas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -127,7 +127,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - c-171362
 
 <a id="claim-t-197336"></a>
-- t-007
+- t-005
   teiginys: "Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -139,20 +139,29 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
     - c-177069
 
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-005
+  santrauka: 'Narbutas Rėzą vadino puikiu lietuvių kalbos žinovu ir giesmių leidėju, priekaištavusiu skeptikams dėl kronikininkų tiesos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Lasickis šiame pavadinime klaidingai įžiūri
-    dievą.
-    Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
-    10 Rėza. Dainos.
+    O tai, kad jose būta ne vien pasakų, kas dieną įti­
+    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
+    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
+    kurio šviesa tiek daug pasinaudojome ankstesniame to-
+    1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
+    tabos)***.
+    32
+
+    ## Puslapis 32
+
+    ine, — jis pats, kartoju, nedviprasmiškai priekaištauja
+    tiems kritikams, skeptikams; įrodinėja, kad kronikininkai
+    sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
+    miau susipažįsta su esamais senovės paminklais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-13629
@@ -264,4 +273,4 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005

@@ -77,6 +77,7 @@ Nenurodyta
   citata_rodoma: "Šitai galima pasiekti tada, kai abi \ntautos gyvensiančios vienodomis teisėmis, valdomos vie­\nno karaliaus, vienoje Lenkijos karalystėje, panaikinus \nLietuvos Didžiosios Kunigaikštystės bei visų Lietuvos \npareigybių vardus, kurie, pirma, rodo, jog valstybė \nesanti padalyta, o antra — visada duos dingstį nesan­\ntaikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­\nvos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­\ndelį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija\" \njiems akis muilinę, susimanė galop atimti žemes ir pa­\nsiekti, kad, išnykus lietuvių bei rusų vardams, neliktų \nnė pačios Lietuvos."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

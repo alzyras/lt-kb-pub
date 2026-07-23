@@ -42,7 +42,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 ## Teiginiai
 
 <a id="claim-t-60870"></a>
-- t-005
+- t-001
   teiginys: "Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - c-61505
 
 <a id="claim-t-60872"></a>
-- t-006
+- t-002
   teiginys: "Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - c-61502
 
 <a id="claim-t-60873"></a>
-- t-007
+- t-003
   teiginys: "Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
     - c-61504
 
 <a id="claim-t-60876"></a>
-- t-002
+- t-004
   teiginys: "Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-61503
   autorius: "Petras Dusburgietis"
@@ -156,8 +156,8 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-002
+    - t-003
+    - t-004
 
 - id: c-61505
   autorius: "Petras Dusburgietis"
@@ -172,4 +172,4 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

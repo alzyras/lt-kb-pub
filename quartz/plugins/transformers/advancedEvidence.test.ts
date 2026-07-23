@@ -525,7 +525,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /href="\/objektai\/asmenys\/Zygimantas"/)
   })
 
-  test("projects direct and claim relations into one deduplicated section with global claim links", () => {
+  test("projects only direct semantic relations and ignores plain mention metadata", () => {
     const plugin = AdvancedEvidence()
     const relationMarkdown = `# Baltarusiai
 
@@ -555,11 +555,11 @@ describe("AdvancedEvidence transformer", () => {
 
     assert.match(transformed, /^## Ryšiai/m)
     assert.match(transformed, /Baltarusiai gyveno \[\[objektai\/vietos\/Polesė\]\]/)
-    assert.match(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
-    assert.match(transformed, /\[t-187872\]\(#claim-t-187872\)/)
+    assert.doesNotMatch(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
+    assert.doesNotMatch(transformed, /teiginiai:.*t-187872/)
   })
 
-  test("generates Ryšiai when the source page has no manual section", () => {
+  test("does not generate Ryšiai from plain mention metadata", () => {
     const plugin = AdvancedEvidence()
     const relationMarkdown = `# Baltarusiai
 
@@ -581,8 +581,7 @@ describe("AdvancedEvidence transformer", () => {
       relationMarkdown,
     ) ?? relationMarkdown
 
-    assert.match(transformed, /## Ryšiai/)
-    assert.match(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
-    assert.match(transformed, /\[t-187873\]\(#claim-t-187873\)/)
+    assert.doesNotMatch(transformed, /## Ryšiai/)
+    assert.doesNotMatch(transformed, /\[\[objektai\/vietos\/Lietuva\|Lietuva\]\]/)
   })
 })

@@ -8,12 +8,12 @@ datos:
   - '1996 m.'
 date_start: '1929'
 date_end: '1996'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

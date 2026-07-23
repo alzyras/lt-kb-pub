@@ -164,7 +164,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     - c-78790
 
 <a id="claim-t-82312"></a>
-- t-008
+- t-007
   teiginys: "Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -173,7 +173,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     - c-78789
 
 <a id="claim-t-82313"></a>
-- t-007
+- t-008
   teiginys: "Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -188,18 +188,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   semantiniai_rysiai: "Gabrielius Bekešas buvo valdovas Vengrai (0.82); Gabrielius Bekešas puolė Polockas (0.61)"
   pagrindžia:
     - c-78791
-- susijęs iš [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki.md#claim-t-86945|Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]: Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.
-- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86889|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113969|Steponas Batoras]]: 1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86827|Stepono Batoro vengrų kariuomenė]]: Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.
-- susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86828|Stepono Batoro vengrų kariuomenė]]: Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.
-- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.
-- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.
-- susijęs iš Alanta: Gabrieliui Bekešui leista Alantos dvarą su priklausiniais turėti ir naudoti visiems būsimiems laikams.
-- susijęs iš Velikije Lūkiai: Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį.
-- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.
-- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113969|Steponas Batoras]]: 1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.
+
 ## Citatos
 
 - id: c-55515
@@ -388,7 +377,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-78790
   autorius: "Michał Baliński"
@@ -452,7 +441,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
+    - t-008
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Alanta]]

@@ -45,12 +45,7 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03274
-- susijęs iš [[objektai/asmenys/Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.).md#claim-t-200464|Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)]]: Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius.
-- susijęs iš [[objektai/asmenys/Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.).md#claim-t-200465|Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)]]: Po Vilniaus vyskupo koadjutoriaus Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą.
-- susijęs iš [[objektai/daiktai/Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių.md#claim-t-200673|Puotų konfitiūrai iš ananasų ir kitų egzotinių vaisių]]: 1754 m. Augusto III vardo dienos iškilmių aplinkoje minėti koadjutoriaus konfitiūrai iš ananasų ir kitų egzotinių vaisių.
-- susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
-- susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
-- susijęs iš [[objektai/zodynas/konfitiūrai.md#claim-t-200689|konfitiūrai]]: Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių.
+
 ## Citatos
 
 - id: c-03274

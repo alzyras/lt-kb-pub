@@ -56,11 +56,11 @@ media_all_json: |-
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

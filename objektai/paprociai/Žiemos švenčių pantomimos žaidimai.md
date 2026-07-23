@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189887"></a>
 - t-001
   teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

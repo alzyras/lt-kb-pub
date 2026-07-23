@@ -63,14 +63,7 @@ Rodūnė čia minima kaip seniūnija.
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183977
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
-- susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200520|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: 1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200517|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: 1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu.
-- susijęs iš [[objektai/asmenys/Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.).md#claim-t-200518|Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)]]: Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
+
 ## Citatos
 
 - id: c-183977

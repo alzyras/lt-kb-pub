@@ -67,7 +67,7 @@ Nenurodyta
     - c-63428
 
 <a id="claim-t-194442"></a>
-- t-003
+- t-002
   teiginys: "Apie nuostabų atsitikimą šiame kare Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia į žygį ne vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti kamšaties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,4 +99,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

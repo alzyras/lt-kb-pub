@@ -10,7 +10,7 @@ variantai:
   - 'pentinai'
   - 'pasaitai'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - drabužis
@@ -76,6 +76,7 @@ Nenurodyta
   citata_rodoma: "Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­\nnės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­\nnėmis skiedromis."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

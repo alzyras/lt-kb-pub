@@ -27,6 +27,25 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje, nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be kitų dorovingų darbų.
 
+## Teiginiai
+
+<a id="claim-t-60273"></a>
+- t-001
+  teiginys: "Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kristburgas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Engelkė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Engelkė gyveno Kristburgo pilyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Engelkė gyveno Kristburgas (0.98)"
+  pagrindžia:
+    - c-60905
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
@@ -40,13 +59,15 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
     o geležinius grandininius šarvus; iki savo mirties jis sudėvėjo ketverius tokius šarvus,
     visiškai suėstus metų ir rūdžių.
 
+
+
+
     147 (142).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60905
@@ -74,25 +95,6 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-60273"></a>
-- t-001
-  teiginys: "Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kristburgas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Engelkė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Engelkė gyveno Kristburgo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Engelkė gyveno Kristburgas (0.98)"
-  pagrindžia:
-    - c-60905
 
 ## Ryšiai
 - Engelkė gyveno [[objektai/vietos/Kristburgas]]

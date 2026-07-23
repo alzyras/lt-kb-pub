@@ -71,18 +71,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   temporalinis_llm_pakomentavimas: "Pradinis teiginys negramatiškas ir nepagrįstas; citata remia pareigų perėmimą ir pasyvumą."
   pagrindžia:
     - c-64909
-- susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101680|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.
-- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101685|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101686|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.
-- susijęs iš [[objektai/asmenys/Nikolajus Mitkinas.md#claim-t-25704|Nikolajus Mitkinas]]: Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.
-- susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64025|Petras Griškevičius]]: Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64026|Petras Griškevičius]]: Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75109|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75111|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/posakiai/„Lietuvą padaryti internacionalinę“.md#claim-t-25373|„Lietuvą padaryti internacionalinę“]]: Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
+
 ## Citatos
 
 - id: c-21946

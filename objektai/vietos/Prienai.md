@@ -41,7 +41,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 ## Teiginiai
 
 <a id="claim-t-69030"></a>
-- t-005
+- t-001
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - c-167188
 
 <a id="claim-t-69032"></a>
-- t-003
+- t-002
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - c-167187
 
 <a id="claim-t-69034"></a>
-- t-002
+- t-003
   teiginys: "7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - c-171695
 
 <a id="claim-t-188807"></a>
-- t-001
+- t-005
   teiginys: "Narbutas rašo matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -124,32 +124,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171696
-- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
-- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
-- susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
-- susijęs iš [[objektai/asmenys/J. Butkus.md#claim-t-40153|J. Butkus]]: J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.
-- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
-- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49491|V. Grigaliūnas-Glovackis]]: Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49492|V. Grigaliūnas-Glovackis]]: 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.
-- susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
-- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-183730|Arkadij Kruglov]]: Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39347|Arkadij Kruglov]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš [[objektai/asmenys/V. Kapsukas-Mickevičius.md#claim-t-40487|V. Kapsukas-Mickevičius]]: V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.
-- susijęs iš [[objektai/grupes/NKGB.md#claim-t-65926|NKGB]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš Alytus: 1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.
-- susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
-- susijęs iš Birštonas: Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą.
-- susijęs iš Jieznas: Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.
-- susijęs iš Kaunas: Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris.
-- susijęs iš Lentvaris: V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi.
-- susijęs iš Pagaršvio upelis: 1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.
-- susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
-- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
+
 ## Citatos
 
 - id: c-43760
@@ -173,7 +148,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-43761
   sudarytojas: "Karolis Zikaras"
@@ -232,7 +207,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-43763
   sudarytojas: "Karolis Zikaras"
@@ -247,7 +222,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-167187
   sudarytojas: "Karolis Zikaras"
@@ -303,7 +278,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167188
   sudarytojas: "Karolis Zikaras"
@@ -320,7 +295,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-171695
   autorius: "Teodoras Narbutas"
@@ -364,7 +339,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/P. Liatukas]]

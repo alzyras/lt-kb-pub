@@ -9,14 +9,14 @@ datos:
   - '1500 m.'
 date_start: '1296'
 date_end: '1500'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -75,6 +75,18 @@ Nenurodyta
   pagrindžia:
     - c-62868
 
+<a id="claim-t-196949"></a>
+- t-002
+  teiginys: "1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas."
+  atnaujinta: "2026-07-23 20:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-62868
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų.'
@@ -126,3 +138,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002

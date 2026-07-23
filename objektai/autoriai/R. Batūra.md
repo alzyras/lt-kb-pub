@@ -40,7 +40,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 ## Teiginiai
 
 <a id="claim-t-97209"></a>
-- t-002
+- t-001
   teiginys: "Romas BATŪRA международный конгресс."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-91695
 
 <a id="claim-t-97211"></a>
-- t-006
+- t-002
   teiginys: "191—192; Batūra R., Karinė..., р."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-91699
 
 <a id="claim-t-97212"></a>
-- t-005
+- t-003
   teiginys: "Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-91696
 
 <a id="claim-t-97213"></a>
-- t-007
+- t-004
   teiginys: "Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,9 +106,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - c-30822
 
 <a id="claim-t-97214"></a>
-- t-004
+- t-005
   teiginys: "Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -125,12 +125,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   pagrindžia:
     - c-91696
     - c-91697
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
-- susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171497|Karolis Zikaras]]: Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI: Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Romas BATŪRA международный конгресс.'
@@ -138,13 +133,16 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   citata_originali: |
     ROMAS BATŪRA
 
+
+
+
+
     международный конгресс...
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-30822
@@ -164,7 +162,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-91695
   autorius: "Petras Dusburgietis"
@@ -185,7 +183,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-91696
   autorius: "Petras Dusburgietis"
@@ -212,8 +210,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-005
-    - t-004
 
 - id: c-91697
   autorius: "Petras Dusburgietis"
@@ -236,7 +234,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-91699
   autorius: "Petras Dusburgietis"
@@ -256,4 +254,4 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

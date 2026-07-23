@@ -47,7 +47,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   pagrindžia:
     - c-177899
     - c-177900
-- susijęs iš Bilazaro miškas: Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla.
+
 ## Citatos
 
 - id: c-177899

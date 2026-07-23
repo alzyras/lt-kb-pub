@@ -60,8 +60,7 @@ Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadina
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174314
-- susijęs iš [[objektai/asmenys/Chodkevičius.md#claim-t-191380|Chodkevičius]]: Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui.
-- susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
+
 ## Citatos
 
 - id: c-174314

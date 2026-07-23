@@ -48,8 +48,7 @@ Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir die
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172464
-- susijęs iš [[objektai/zodynas/prigimtinė religija.md#claim-t-188505|prigimtinė religija]]: Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.
-- susijęs iš [[objektai/zodynas/religija prigimtinė religija.md#claim-t-189326|religija prigimtinė religija]]: Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.
+
 ## Citatos
 
 - id: c-172464

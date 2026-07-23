@@ -40,7 +40,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Teiginiai
 
 <a id="claim-t-101677"></a>
-- t-003
+- t-001
   teiginys: "Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-42137
 
 <a id="claim-t-101678"></a>
-- t-006
+- t-002
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-21881
 
 <a id="claim-t-101679"></a>
-- t-011
+- t-003
   teiginys: "1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-95133
 
 <a id="claim-t-101681"></a>
-- t-009
+- t-005
   teiginys: "Gorbačiovo reformoms, o jį patį nuvers „vanagai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-21884
 
 <a id="claim-t-101682"></a>
-- t-005
+- t-006
   teiginys: "SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-95132
 
 <a id="claim-t-101683"></a>
-- t-002
+- t-007
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-42136
 
 <a id="claim-t-101684"></a>
-- t-007
+- t-008
   teiginys: "1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-21882
 
 <a id="claim-t-101685"></a>
-- t-010
+- t-009
   teiginys: "Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-95133
 
 <a id="claim-t-101686"></a>
-- t-001
+- t-010
   teiginys: "Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-95133
 
 <a id="claim-t-101687"></a>
-- t-008
+- t-011
   teiginys: "Gorbačiovo įvaizdis, subliuško „gorbimanija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -239,10 +239,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-95136
-- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65205|Jedinstvo]]: 1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.
-- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78365|Lietuvos komunistų partija]]: TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
-- susijęs iš [[objektai/grupes/Nacionalinio gelbėjimo komitetas.md#claim-t-41101|Nacionalinio gelbėjimo komitetas (institucija)]]: Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
-- susijęs iš SSRS konstitucija: 1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
+
 ## Citatos
 
 - id: c-21881
@@ -267,7 +264,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-21882
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -290,8 +287,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-007
+    - t-003
+    - t-008
 
 - id: c-21884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -312,7 +309,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-42136
   sudarytojas: "Karolis Zikaras"
@@ -344,7 +341,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
 
 - id: c-42137
   sudarytojas: "Karolis Zikaras"
@@ -366,7 +363,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-95132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -388,7 +385,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-95133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -425,8 +422,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+    - t-009
     - t-010
-    - t-001
 
 - id: c-95136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -446,4 +443,4 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-011

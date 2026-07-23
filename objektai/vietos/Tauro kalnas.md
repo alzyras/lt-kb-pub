@@ -44,7 +44,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
 ## Teiginiai
 
 <a id="claim-t-84850"></a>
-- t-003
+- t-001
   teiginys: "Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     - c-80968
 
 <a id="claim-t-201107"></a>
-- t-005
+- t-003
   teiginys: "Pasakoja, jog Gediminas, kitu kartu medžioda mas Paneriuose, ant visų aukštojo kalno, Tauro kal nu vadinamo, o šiandien Pilies kalnu, patsai vylyčia taurį būk nuvėręs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-184457
   autorius: "Simonas Daukantas"
@@ -240,4 +240,4 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

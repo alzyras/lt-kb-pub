@@ -45,7 +45,7 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
   semantiniai_rysiai: "Kazokai keliavo į Dniepras (0.81)"
   pagrindžia:
     - c-40253
-- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49173|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.
+
 ## Citatos
 
 - id: c-40253

@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08294"></a>
-- t-005
+- t-001
   teiginys: "Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-10250
 
 <a id="claim-t-08295"></a>
-- t-006
+- t-002
   teiginys: "Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-10251
 
 <a id="claim-t-10150"></a>
-- t-007
+- t-003
   teiginys: "XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-12233
 
 <a id="claim-t-10151"></a>
-- t-008
+- t-004
   teiginys: "XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Nenurodyta
     - c-12234
 
 <a id="claim-t-10152"></a>
-- t-009
+- t-005
   teiginys: "Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Nenurodyta
     - c-12235
 
 <a id="claim-t-10153"></a>
-- t-010
+- t-006
   teiginys: "XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Nenurodyta
     - c-12236
 
 <a id="claim-t-78663"></a>
-- t-011
+- t-007
   teiginys: "Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,25 +165,8 @@ Nenurodyta
   pagrindžia:
     - c-12235
 
-<a id="claim-t-78665"></a>
-- t-001
-  teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
-  atnaujinta: "2026-07-20 14:16"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karinė ginkluotė priklausė Lietuviai (0.86)"
-  pagrindžia:
-    - c-05216
-
 <a id="claim-t-193744"></a>
-- t-012
+- t-008
   teiginys: "Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -193,9 +176,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12235
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -212,12 +192,10 @@ Nenurodyta
   citata_rodoma: "Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė\ngrobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.\nVartojo lietuviai dar ietis ir kardus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-10250
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -239,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-10251
   autorius: "Simonas Daukantas"
@@ -253,7 +231,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-12233
   sudarytojas: "Karolis Zikaras"
@@ -275,7 +253,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-12234
   sudarytojas: "Karolis Zikaras"
@@ -300,7 +278,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-12235
   sudarytojas: "Karolis Zikaras"
@@ -320,9 +298,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-011
-    - t-012
+    - t-005
+    - t-007
+    - t-008
 
 - id: c-12236
   sudarytojas: "Karolis Zikaras"
@@ -342,4 +320,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006

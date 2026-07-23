@@ -9,8 +9,6 @@ datos:
   - '1324 m.'
 date_start: '1312'
 date_end: '1324'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +16,8 @@ tags:
   - karas
   - ordinas
   - reforma
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62908"></a>
-- t-002
+- t-001
   teiginys: "Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Nenurodyta
     - c-63772
 
 <a id="claim-t-62909"></a>
-- t-001
+- t-002
   teiginys: "1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -156,8 +156,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003
 
 - id: c-63773
@@ -175,6 +175,7 @@ Nenurodyta
   citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

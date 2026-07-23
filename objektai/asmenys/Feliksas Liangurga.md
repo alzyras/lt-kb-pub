@@ -75,7 +75,7 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citatoje nurodytais 1548 m. duomenimis."
   pagrindžia:
     - c-83478
-- susijęs iš 1527 m. privilegija Feliksui Liangurgai ir 1547 m. aktas dėl jo statuso: 1547 m. akte Feliksas Liangurga vadintas bajoru.
+
 ## Citatos
 
 - id: c-83478

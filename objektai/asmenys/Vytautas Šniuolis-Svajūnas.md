@@ -57,7 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatos duomenis."
   pagrindžia:
     - c-41485
-- susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
+
 ## Citatos
 
 - id: c-41485

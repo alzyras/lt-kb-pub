@@ -92,7 +92,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys palaikomas, bet reikia sutvarkyti OCR triukšmą ir padaryti sakinį aiškesnį."
   pagrindžia:
     - c-82885
-- susijęs iš [[objektai/ivykiai/1830-1831 m. sukilimas.md#claim-t-55116|1830-1831 m. sukilimas (sukilimas, XIX a.)]]: Aleksandro II reformų pradžia atgaivino viltis atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.
+
 ## Citatos
 
 - id: c-82884

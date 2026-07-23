@@ -8,13 +8,13 @@ datos:
   - '1567 m.'
 date_start: '1567'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
 ## Teiginiai
 
 <a id="claim-t-185240"></a>
-- t-004
+- t-001
   teiginys: "Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     - c-168601
 
 <a id="claim-t-188802"></a>
-- t-005
+- t-002
   teiginys: "Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
     - c-171691
 
 <a id="claim-t-188803"></a>
-- t-006
+- t-003
   teiginys: "Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,27 +94,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171692
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-188655|Žygimantas]]: Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184535|Lenkai]]: Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
-- susijęs iš [[objektai/grupes/Lenkijos seimas Piotrkove.md#claim-t-189520|Lenkijos seimas Piotrkove (seimas, XVI a.)]]: Narbutas rašė, kad 1567 m. Lenkijos seimas Piotrkove ilgai ir sėkmingai posėdžiavo, kai Žygimantas rengė abiejų tautų žygį.
-- susijęs iš [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.).md#claim-t-185824|Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]: Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
-- susijęs iš 1538 m. Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius Vilniaus piliečio pirkimus.
-- susijęs iš Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
-- susijęs iš Žygimanto Senojo privilegija Petrui Laurinavičiui: Žygimanto Senojo privilegija Petrui Laurinavičiui, Vilniaus piliečiui, 1538 m. sausio 25 d. Piotrkove patvirtino įvairius pirkimus.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184623|luomas]]: Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184681|Boleslovas (Mazovijos kunigaikštis)]]: Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.
-- susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-188549|Jonas Chodkevičius]]: Narbutas rašo, kad Jonas Chodkevičius ir Romanas Sanguška 1567 metais palaikė karo veiksmų su Rusija tęsimą.
-- susijęs iš [[objektai/asmenys/Petras Laurinavičius.md#claim-t-191454|Petras Laurinavičius]]: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus.
-- susijęs iš [[objektai/asmenys/Romanas Sanguška.md#claim-t-188606|Romanas Sanguška]]: Romanas Sanguška kariavo su Rusija ir, Narbuto apibūdinimu, kovojo kruvinus mūšius.
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186024|Vladislovas (karalius, Kazimiero brolis)]]: Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
-- susijęs iš Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimantas Senasis suteikė Petrui Laurinavičiui privilegiją, patvirtinusią įvairius pirkimus.
-- susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
-- susijęs iš Gardinas: Lietuvių politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Gardino gubernijoje.
-- susijęs iš Gardinas: Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.
-- susijęs iš Lietuva: 1567 m. pabaigoje karalius, nenutraukęs karo veiksmų, išsiuntė Lietuvai universalus dėl Gardino seimo sušaukimo.
-- susijęs iš Radaškovičiai: 1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais.
-- susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.'
@@ -146,7 +126,6 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168601
@@ -170,7 +149,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-171691
   autorius: "Teodoras Narbutas"
@@ -193,7 +172,7 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-171692
   autorius: "Teodoras Narbutas"
@@ -219,7 +198,4 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+    - t-003

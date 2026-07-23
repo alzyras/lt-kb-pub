@@ -8,11 +8,11 @@ datos:
   - '2002 m.'
 date_start: '1995'
 date_end: '2002'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

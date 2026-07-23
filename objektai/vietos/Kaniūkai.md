@@ -44,7 +44,7 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45124
-- susijęs iš [[objektai/asmenys/M. Pečiulionis.md#claim-t-40319|M. Pečiulionis]]: K. Ladygos kolonos karius, supusius Kaniūkų kaimą, rėmė karininko M. Pečiulionio artilerija.
+
 ## Citatos
 
 - id: c-45124

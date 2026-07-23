@@ -36,7 +36,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 ## Teiginiai
 
 <a id="claim-t-74646"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     - c-22595
 
 <a id="claim-t-74647"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu, buvo liberali krikščionių demokratų konkurentė lietuvių tautiniame sąjūdyje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,8 +87,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-72687
-- susijęs iš [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas.md#claim-t-183239|Lietuvos demokratų partijos susikūrimas]]: Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu.
-- susijęs iš Varpas: 1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.
+
 ## Citatos
 
 - id: c-22594
@@ -112,7 +111,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22595
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -135,7 +134,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-72687
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -180,4 +179,4 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

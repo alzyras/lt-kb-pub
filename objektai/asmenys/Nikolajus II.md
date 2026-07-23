@@ -59,7 +59,3 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų.md#claim-t-20433|Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų]]: 1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.
-- susijęs iš Nikolajaus II manifestas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų (1905 m.): 1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.

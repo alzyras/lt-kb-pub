@@ -95,6 +95,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   citata_rodoma: "5 Šybinskis drauge su kitais mitologais mitologijos žodyne pripa­\nžįsta Lucinos vardą Junonai, bet klysta, nes Horacijus Eileitiją, Luci-\nną ir Genitalę vadina Diana. (Carmen Saeculare. -  V. 14 et segu.)\n6 Dainos, arba lietuvių liaudies dainos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -112,10 +112,10 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -137,11 +137,10 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174003

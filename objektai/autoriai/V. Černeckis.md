@@ -52,11 +52,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33189
-- susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
-- susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
-- susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
-- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
+
 ## Citatos
 
 - id: c-33189

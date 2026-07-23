@@ -71,7 +71,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193065"></a>
-- t-002
+- t-001
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-05670
 
 <a id="claim-t-193066"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio."
   atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-175832
 
 <a id="claim-t-193067"></a>
-- t-001
+- t-003
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +130,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-003
 
 - id: c-175832
   autorius: "Teodoras Narbutas"
@@ -154,4 +154,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

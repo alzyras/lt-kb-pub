@@ -39,7 +39,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 ## Teiginiai
 
 <a id="claim-t-47983"></a>
-- t-005
+- t-001
   teiginys: "Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -58,7 +58,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - c-31938
 
 <a id="claim-t-47984"></a>
-- t-006
+- t-002
   teiginys: "Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -77,7 +77,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - c-31938
 
 <a id="claim-t-47985"></a>
-- t-004
+- t-003
   teiginys: "VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -114,7 +114,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-31938
   autorius: "Zenonas Ivinskis"
@@ -136,8 +136,8 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002
 
 ## Ryšiai
 - Užėmė Apuolės pilį (pilis): [[objektai/grupes/Švedai]]

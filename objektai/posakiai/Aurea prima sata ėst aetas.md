@@ -47,10 +47,7 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172461
-- susijęs iš [[objektai/grupes/Chaldėjai.md#claim-t-189452|Chaldėjai]]: Narbutas chaldėjus mini tarp tautų, kurių padavimai, jo aiškinimu, priminė palaimingus nesugadintos prigimties laikus.
-- susijęs iš [[objektai/grupes/Indai.md#claim-t-189411|Indai]]: Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį.
-- susijęs iš [[objektai/grupes/Izraelitai.md#claim-t-189490|Izraelitai]]: Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį.
-- susijęs iš [[objektai/paprociai/Prigimtinės religijos apeigų ir dorovinių praktikų visuma Narbuto aiškinime.md#claim-t-189934|Prigimtinės religijos apeigų ir dorovinių praktikų visuma Narbuto aiškinime]]: Narbutas žmonių pagausėjimą ir bendruomenių skaidymąsi laikė svarbiausiomis prigimtinės religijos žlugimo priežastimis.
+
 ## Citatos
 
 - id: c-172461

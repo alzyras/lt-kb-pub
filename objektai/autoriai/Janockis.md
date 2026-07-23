@@ -31,7 +31,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 ## Teiginiai
 
 <a id="claim-t-88067"></a>
-- t-002
+- t-001
   teiginys: "Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
     - c-84046
 
 <a id="claim-t-88068"></a>
-- t-001
+- t-002
   teiginys: "Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,12 +54,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84047
-- susijęs iš Janociana: Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.
-- susijęs iš [[objektai/asmenys/Kristupas Varševickis.md#claim-t-87760|Kristupas Varševickis]]: Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.
-- susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87457|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.
-- susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-87999|Augustinas Mieleckis Rotundas]]: Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176093|Vilniaus kapitula]]: 1571 m. bado sukeltos epidemijos metu iš Vilniaus pasitraukė turtingiausi gyventojai, kapitula ir jėzuitai.
-- susijęs iš [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje.md#claim-t-86937|1571 m. badas ir epidemija Vilniuje]]: 1571 m. badas Vilniuje rudenį sukėlė epidemiją, per kurią mieste mirė daugiau kaip dvidešimt tūkstančių žmonių.
+
 ## Citatos
 
 - id: c-84046
@@ -84,7 +79,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84047
   autorius: "Michał Baliński"
@@ -110,4 +105,4 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

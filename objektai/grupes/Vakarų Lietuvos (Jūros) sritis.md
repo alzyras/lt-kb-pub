@@ -54,25 +54,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie srities partizanų atstovų susitikimą."
   pagrindžia:
     - c-44862
-- susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
-- susijęs iš [[objektai/asmenys/Antanas Liesys-Idenas.md#claim-t-40024|Antanas Liesys-Idenas]]: Antanas Liesys-Idenas buvo Vakarų Lietuvos srities Agitacijos ir propagandos skyriaus viršininkas.
-- susijęs iš [[objektai/asmenys/Vytautas Gužas-Kardas.md#claim-t-40525|Vytautas Gužas-Kardas]]: Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.
-- susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
-- susijęs iš Baisogala: Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.
-- susijęs iš Minaičių kaimas: 1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.
-- susijęs iš Strėva: Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu.
-- susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
-- susijęs iš Šiaurės Lietuva: Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.
-- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
-- susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
-- susijęs iš [[objektai/asmenys/Robertas Gedvilas-Remigijus.md#claim-t-40403|Robertas Gedvilas-Remigijus]]: Robertas Gedvilas-Remigijus buvo Kęstučio apygardos štabo viršininkas.
-- susijęs iš [[objektai/autoriai/V. Daugudis.md#claim-t-31023|V. Daugudis]]: V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.
-- susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
-- susijęs iš Pietų Lietuva: Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
-- susijęs iš Raseiniai: Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.
-- susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
-- susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
-- susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
+
 ## Citatos
 
 - id: c-44862

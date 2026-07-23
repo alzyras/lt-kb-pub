@@ -39,7 +39,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 ## Teiginiai
 
 <a id="claim-t-63519"></a>
-- t-002
+- t-001
   teiginys: "1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - c-21630
 
 <a id="claim-t-63520"></a>
-- t-003
+- t-002
   teiginys: "Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - c-41877
 
 <a id="claim-t-63521"></a>
-- t-001
+- t-003
   teiginys: "Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -94,22 +94,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Borisą Jelciną ir atitinka citatos informaciją."
   pagrindžia:
     - c-21629
-- susijęs iš Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartis: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-183243|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš Rusija: 1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170245|Vytautas Landsbergis]]: Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.
-- susijęs iš [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.).md#claim-t-20166|B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]: Po 1991 m. sausio 13 d. įvykių Borisas Jelcinas ragino Baltijos šalyse tarnaujančius karius nepasiduoti reakcijos jėgoms.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-183243|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartis: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
-- susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-183178|Rusijos Federacija]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas.md#claim-t-26398|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]: Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-75148|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-- susijęs iš Deklaracija dėl geros kaimynystės santykių principų: Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš Lietuvos ir Baltarusijos sutartis dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos: Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos.
-- susijęs iš Baltarusija: 1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų.
-- susijęs iš Rusija: Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
-- susijęs iš Rusija: 1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+
 ## Citatos
 
 - id: c-21629
@@ -133,7 +118,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-21630
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -155,7 +140,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-41877
   sudarytojas: "Karolis Zikaras"
@@ -177,7 +162,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas Landsbergis]]

@@ -54,11 +54,7 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
   temporalinis_llm_pakomentavimas: "Citata remia sovietinių istorikų interpretaciją, todėl teiginį reikia suformuluoti aiškiau."
   pagrindžia:
     - c-34177
-- susijęs iš [[objektai/grupes/Lietuvos Tarybų socialistinė respublika.md#claim-t-31291|Lietuvos Tarybų socialistinė respublika (institucija)]]: Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-183212|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Lietuvos Konstitucijoje Vilnius nurodytas Lietuvos sostine.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20147|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.
-- susijęs iš Dubysa: Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės.
-- susijęs iš Vilnius: Į Lietuvą siunčiama pagalbinė kariuomenė iki Vilniaus turėjo vykti su savo maistu, o toliau ją turėjo aprūpinti Jogaila.
+
 ## Citatos
 
 - id: c-34177

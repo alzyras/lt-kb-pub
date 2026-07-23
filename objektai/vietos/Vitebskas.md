@@ -17,9 +17,6 @@ datos:
   - '2026 m.'
 date_start: '1307'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +24,9 @@ tags:
   - upė
   - vieta
   - žemė
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 ## Teiginiai
 
 <a id="claim-t-181110"></a>
-- t-043
+- t-001
   teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183609
 
 <a id="claim-t-181111"></a>
-- t-020
+- t-002
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183601
 
 <a id="claim-t-181113"></a>
-- t-048
+- t-003
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183595
 
 <a id="claim-t-181115"></a>
-- t-029
+- t-004
   teiginys: "Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-164696
 
 <a id="claim-t-181118"></a>
-- t-063
+- t-005
   teiginys: "1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183601
 
 <a id="claim-t-181121"></a>
-- t-042
+- t-006
   teiginys: "Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183617
 
 <a id="claim-t-181123"></a>
-- t-031
+- t-007
   teiginys: "Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -181,7 +181,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183596
 
 <a id="claim-t-181124"></a>
-- t-022
+- t-008
   teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183605
 
 <a id="claim-t-181125"></a>
-- t-045
+- t-009
   teiginys: "Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183584
 
 <a id="claim-t-181126"></a>
-- t-058
+- t-010
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -239,7 +239,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183616
 
 <a id="claim-t-181127"></a>
-- t-047
+- t-011
   teiginys: "Vitebskas buvo viena iš vietų, kur įkurtos pijarų mokyklos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -257,7 +257,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183615
 
 <a id="claim-t-181128"></a>
-- t-064
+- t-012
   teiginys: "Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -278,7 +278,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183588
 
 <a id="claim-t-181129"></a>
-- t-044
+- t-013
   teiginys: "Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -297,7 +297,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183585
 
 <a id="claim-t-181131"></a>
-- t-049
+- t-014
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -316,7 +316,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183584
 
 <a id="claim-t-181136"></a>
-- t-032
+- t-015
   teiginys: "Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -336,7 +336,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183594
 
 <a id="claim-t-181138"></a>
-- t-001
+- t-016
   teiginys: "Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -354,7 +354,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183595
 
 <a id="claim-t-181139"></a>
-- t-056
+- t-017
   teiginys: "Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -371,7 +371,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183585
 
 <a id="claim-t-181140"></a>
-- t-002
+- t-018
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -390,9 +390,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183619
 
 <a id="claim-t-181141"></a>
-- t-030
+- t-019
   teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -409,7 +409,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183610
 
 <a id="claim-t-181143"></a>
-- t-052
+- t-020
   teiginys: "Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -426,7 +426,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183583
 
 <a id="claim-t-181144"></a>
-- t-033
+- t-021
   teiginys: "1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
   atnaujinta: "2026-07-19 18:44"
   sprendimo_priezastis: "auto"
@@ -448,7 +448,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183586
 
 <a id="claim-t-181145"></a>
-- t-046
+- t-022
   teiginys: "Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -466,7 +466,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183597
 
 <a id="claim-t-181146"></a>
-- t-003
+- t-023
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -485,7 +485,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183616
 
 <a id="claim-t-181148"></a>
-- t-054
+- t-024
   teiginys: "1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -506,7 +506,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183594
 
 <a id="claim-t-181149"></a>
-- t-053
+- t-025
   teiginys: "Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -523,7 +523,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183600
 
 <a id="claim-t-181150"></a>
-- t-004
+- t-026
   teiginys: "Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -540,7 +540,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-21492
 
 <a id="claim-t-181153"></a>
-- t-065
+- t-027
   teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -560,7 +560,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183608
 
 <a id="claim-t-181155"></a>
-- t-050
+- t-028
   teiginys: "Vitebske veikė pijarų mokykla - pilna kolegija arba žemesnioji mokykla."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -577,7 +577,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183615
 
 <a id="claim-t-181156"></a>
-- t-057
+- t-029
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -595,7 +595,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183603
 
 <a id="claim-t-184324"></a>
-- t-066
+- t-030
   teiginys: "Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -615,7 +615,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183592
 
 <a id="claim-t-185201"></a>
-- t-067
+- t-031
   teiginys: "Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -634,7 +634,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-168562
 
 <a id="claim-t-185202"></a>
-- t-068
+- t-032
   teiginys: "Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -653,9 +653,9 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-168563
 
 <a id="claim-t-187685"></a>
-- t-005
+- t-033
   teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -676,7 +676,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-170625
 
 <a id="claim-t-192778"></a>
-- t-070
+- t-034
   teiginys: "Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -697,7 +697,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183598
 
 <a id="claim-t-193250"></a>
-- t-071
+- t-035
   teiginys: "Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -710,7 +710,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183593
 
 <a id="claim-t-193251"></a>
-- t-072
+- t-036
   teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -723,7 +723,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183582
 
 <a id="claim-t-200321"></a>
-- t-035
+- t-037
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -734,7 +734,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183611
 
 <a id="claim-t-200328"></a>
-- t-006
+- t-038
   teiginys: "Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -746,7 +746,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183590
 
 <a id="claim-t-200345"></a>
-- t-007
+- t-039
   teiginys: "Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -768,7 +768,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183620
 
 <a id="claim-t-200347"></a>
-- t-008
+- t-040
   teiginys: "Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -791,7 +791,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-170625
 
 <a id="claim-t-200350"></a>
-- t-009
+- t-041
   teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -810,7 +810,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-32548
 
 <a id="claim-t-200353"></a>
-- t-010
+- t-042
   teiginys: "Po perversmo Jogailai buvo paliktos jo tėvo žemės: Vitebskas ir Krėvos kunigaikštystė."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -829,7 +829,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183618
 
 <a id="claim-t-200355"></a>
-- t-011
+- t-043
   teiginys: "1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -841,7 +841,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-32547
 
 <a id="claim-t-200361"></a>
-- t-012
+- t-044
   teiginys: "Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -856,7 +856,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183613
 
 <a id="claim-t-200364"></a>
-- t-013
+- t-045
   teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -871,7 +871,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
     - c-183602
 
 <a id="claim-t-201680"></a>
-- t-073
+- t-046
   teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -881,242 +881,66 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185027
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179699|Švitrigaila]]: Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.
-- susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
-- susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179692|Švitrigaila]]: Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179694|Švitrigaila]]: Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179705|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179714|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179367|Livonijos ordinas]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179399|Livonijos ordinas]]: Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179405|Livonijos ordinas]]: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
-- susijęs iš Livonija: Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš Livonija: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184666|Algirdas (Lietuvos valdovas)]]: Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
-- susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-12183|Julijona (Algirdo žmona)]]: Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m.
-- susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176510|Julijona (Algirdo žmona)]]: Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.
-- susijęs iš [[objektai/asmenys/Julijona.md#claim-t-184743|Julijona]]: Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.
-- susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191247|Karamzinas]]: Karamzinas, Narbuto perteikimu, tyrimuose rašė apie vibionų, arba vitbionų, gentį ir jos sostinę Witsby prie Dauguvos, dabartinį Vitebską.
-- susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
-- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
-- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191143|Nikolajus Karamzinas]]: Teodoras Narbutas nurodo, kad Karamzinas tyrimuose rašė apie vitbionų sostinę Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
-- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179692|Švitrigaila]]: Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179694|Švitrigaila]]: Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179699|Švitrigaila]]: Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179705|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179714|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179721|Švitrigaila]]: Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.
-- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-190770|Nikolajus Karamzinas]]: Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179367|Livonijos ordinas]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179399|Livonijos ordinas]]: Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179405|Livonijos ordinas]]: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
-- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/grupes/Vibionai.md#claim-t-192992|Vibionai]]: Narbutas rašo, kad vibionų, arba vitbionų, genties sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
-- susijęs iš [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija.md#claim-t-41198|Vitebsko gvardijos 103-ioji oro desanto divizija]]: Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
-- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186721|Andriaus Algirdaičio maištas prieš Jogailą]]: Apie 1386 m. vasario 20 d. Andriaus Algirdaičio pajėgos užėmė du valsčius Polocko ir Vitebsko kunigaikštysčių pasienyje.
-- susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/ivykiai/Vitebsko karo lauko seimas.md#claim-t-20553|Vitebsko karo lauko seimas (seimas)]]: Vitebsko karo lauko seimas pasiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185667|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.
-- susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
-- susijęs iš Karamzinas, Istorija gosudarstva Rossiiskogo: Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje.
-- susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
-- susijęs iš Druckas: Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Livonija: Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
-- susijęs iš Livonija: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
-- susijęs iš Polockas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
-- susijęs iš Polockas: Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Strėva: Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
-- susijęs iš Terespolis: Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
-- susijęs iš Vilnius: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
-- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
-- susijęs iš Daugava: Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54945|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82220|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
-- susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
-- susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
-- susijęs iš [[objektai/asmenys/Gerasimas.md#claim-t-87678|Gerasimas]]: Švitrigaila įsakė sudeginti metropolitą Gerasimą.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200496|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: 1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200497|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
-- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-184717|Jaunutis (valdovas, XIV a.)]]: Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184726|Jogaila (kunigaikštis, XIV–XV a.)]]: Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą.
-- susijęs iš [[objektai/asmenys/Jonas (Vilniaus vyskupas).md#claim-t-87713|Jonas (Vilniaus vyskupas)]]: Vilniaus vyskupas Jonas 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.
-- susijęs iš [[objektai/asmenys/Jonas Chojevskis.md#claim-t-87715|Jonas Chojevskis]]: Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
-- susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176514|Julijona (Algirdo žmona)]]: Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną.
-- susijęs iš [[objektai/asmenys/Jurgis (Lucko vyskupas).md#claim-t-87471|Jurgis (Lucko vyskupas)]]: 1542 m. Vilniuje duotame rašte Lucko vyskupas Jurgis dalyvavo tarp išvardytų dignitorių ir pareigūnų.
-- susijęs iš [[objektai/asmenys/Jurgis Astikaitis.md#claim-t-87475|Jurgis Astikaitis]]: 1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.
-- susijęs iš [[objektai/asmenys/Jurijus Sviatoslavovičius.md#claim-t-186120|Jurijus Sviatoslavovičius]]: Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176531|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
-- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
-- susijęs iš [[objektai/asmenys/Michaila Ivanovičius.md#claim-t-186238|Michaila Ivanovičius]]: Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87479|Stanislovas Goštautas]]: 1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121173|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87366|Ulrikas Hozijus]]: 1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.
-- susijęs iš [[objektai/asmenys/Vaclovas (Medininkų vyskupas).md#claim-t-87481|Vaclovas (Medininkų vyskupas)]]: Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176752|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173320|Žygimantas Senasis]]: 1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.
-- susijęs iš [[objektai/autoriai/Napierski.md#claim-t-88002|Napierski]]: Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.
-- susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64930|Iždo ir pilių raktai]]: 1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.
-- susijęs iš [[objektai/daiktai/Pilies raktai.md#claim-t-35549|Pilies raktai (pilis)]]: 1382 m. birželio 12 d. Rygos pirklys Hanulo įteikė Jogailai Vilniaus pilies raktus.
-- susijęs iš [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas.md#claim-t-40829|76-osios oro desanto divizijos 234-asis pulkas]]: Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175541|Kalavijuočių ordinas]]: 1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-187730|Kalavijuočių ordinas]]: Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179033|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
-- susijęs iš [[objektai/grupes/Perkūno garbintojai ir šventos ugnies saugotojai.md#claim-t-86768|Perkūno garbintojai ir šventos ugnies saugotojai]]: Apie 1345 metus Vilniaus prastuomenę galėjo pakiršinti Perkūno garbintojai ir šventos ugnies saugotojai.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171393|Totoriai]]: Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171429|Totoriai]]: Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.
-- susijęs iš [[objektai/grupes/osios oro desanto divizijos 234-asis pulkas.md#claim-t-80651|osios oro desanto divizijos 234-asis pulkas]]: Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187457|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187461|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą.
-- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186720|Andriaus Algirdaičio maištas prieš Jogailą]]: 1971 m. komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK, o 1385 m. spalio 10 d. jis pasidavė Livonijos ordinui kaip vasalas.
-- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186724|Andriaus Algirdaičio maištas prieš Jogailą]]: Per Andriaus Algirdaičio maištą Livonijos kryžiuočiai padėjo Andriui Algirdaičiui užimti Lukomlį.
-- susijęs iš [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.).md#claim-t-39123|Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]: 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-- susijęs iš [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.).md#claim-t-28819|Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogailai atvykus į Vilnių, Hanulis jam įteikė pilies raktus.
-- susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41287|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: 1506 m. vasarą totoriai įsiveržė į LDK valdas ir gegužės pabaigoje pradėjo žygį į valstybės gilumą.
-- susijęs iš [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.).md#claim-t-86954|Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]: Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.).md#claim-t-28835|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]: 1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186669|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti.
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186673|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad Jogaila nesilaikė pažado Kęstučiui ir vėl užėmė Vilnių, kai Kęstutis buvo karo žygyje.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
-- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185752|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus, Mengli Girėjaus sūnus, smarkiai ir plačiai nusiaubė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-186371|Mėlynųjų Vandenų mūšis (1362 m.)]]: Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.
-- susijęs iš [[objektai/ivykiai/Polocko praradimas.md#claim-t-16735|Polocko praradimas]]: 1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.
-- susijęs iš [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos.md#claim-t-20470|Rusios žemių prijungimai prie Lietuvos]]: Valdant Gediminui ir Algirdui Lietuvos valstybės teritorija išsiplėtė, o Lietuva tapo reikšminga Vidurio ir Rytų Europos jėga.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35897|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
-- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
-- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
-- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-78717|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
-- susijęs iš [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti.md#claim-t-185905|Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]: Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.
-- susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
-- susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
-- susijęs iš 1538 m. Žygimanto Augusto laiškas Kiščinai dėl Drujos vandens: 1538 m. rugsėjo 1 d. Žygimantas Augustas laišku įspėjo Kiščiną nestabdyti vandens, vamzdžiais vedamo į miestą iš Drujos upės Paplaujoje.
-- susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš Vilniaus magistrato knygos: Vilniaus magistrato knygose buvo išrašas apie 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegiją rinkti muitą ant tilto per Viliją.
-- susijęs iš Vytauto laiškas didžiajam magistrui dėl rūmų gydytojo: Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą.
-- susijęs iš Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.): Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.
-- susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-- susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
-- susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
-- susijęs iš Druckas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
-- susijęs iš Druja: Iš versmės Paplaujoje ištekantis upelis vadinosi Druja.
-- susijęs iš Druja: 1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą.
-- susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
-- susijęs iš Dvina: Švitrigaila įsakė Vitebske nuo aukšto skardžio įmesti Alšėnų kunigaikštį į Dviną.
-- susijęs iš Jelgava: Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų.
-- susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
-- susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
-- susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.
-- susijęs iš Kulikovo laukas: Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius.
-- susijęs iš Kurenecas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno.
-- susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
-- susijęs iš Lauksodis: Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.
-- susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
-- susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
-- susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Palenkė: Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.
-- susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
-- susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
-- susijęs iš Polockas: Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai.
-- susijęs iš Polockas: Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.
-- susijęs iš Polockas: Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m.
-- susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Pskovas: Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
-- susijęs iš Sluckas: Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.
-- susijęs iš Sluckas: 1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes.
-- susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
-- susijęs iš Strėva: Strėvos kautynės, kuriose dalyvavo būriai iš kelių rytinių žemių, baigėsi lietuvių pralaimėjimu.
-- susijęs iš Tikocinas: Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną.
-- susijęs iš Ukraina: Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.
-- susijęs iš Vakarų Ukraina: Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.
-- susijęs iš Varniai: Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.
-- susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnius: 1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus.
-- susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
-- susijęs iš Vilnius: 1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.
-- susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
-- susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
-- susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
-- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184636|pilėnas]]: Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.
-- susijęs iš [[objektai/zodynas/rusų tikėjimas.md#claim-t-187559|rusų tikėjimas]]: Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
-- susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185394|stabmeldžių apeigos]]: Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184639|tėvonija]]: Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200496|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: 1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200497|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
-- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
-- susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
-- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
-- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179033|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.
-- susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Ukraina: Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184666|Algirdas (Lietuvos valdovas)]]: Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
-- susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
+
+## Reikšmingi paminėjimai
+- c-028
+  santrauka: 'Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Greitai užpuolęs ir užėmęs Oršą, jis patraukė
+    į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­
+    vų palikuonys, kurie šių neramumų pradžioje mažai
+    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
+    antpuolio sutriuškinti, supra-
+    S u tra m d o rusų didi-
+    to, jog kur kas geriau mal­
+    kus
+    dauti Vytautą — kad ir ne­
+    patikimo — atlaidumo, nei iš
+    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
+    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
+    niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia-
+    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
+    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
+    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
+    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
+    rus sumanymus, savo karines jėgas prie Vytauto.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-078
+
+- c-050
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O Moldavijos vaivada, matydamas, kad
+    negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
+    ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
+    vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
+    tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
+    griežtai to prisilaikysiąs32.
+    Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
+    iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
+    kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
+    siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
+    viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
+    nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
+    gas kelias Lenkijos sienos linkui33.
+    Moldavijos vaivada Steponas, išgirdęs, kad kara­
+    lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke­
+    liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke­
+    liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34
+    ir, nė kiek nebepaisydamas priesaikos bei amžinosios
+    taikos sutarties, darydamas gėdą savo šaliai, skubiai
+    pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
+    vadai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21492
@@ -1143,7 +967,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-026
 
 - id: c-32547
   autorius: "Zenonas Ivinskis"
@@ -1160,7 +984,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-043
 
 - id: c-32548
   autorius: "Zenonas Ivinskis"
@@ -1179,7 +1003,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-041
 
 - id: c-44028
   sudarytojas: "Karolis Zikaras"
@@ -1207,7 +1031,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-021
 
 - id: c-164682
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1232,8 +1056,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-063
+    - t-002
+    - t-005
 
 - id: c-164683
   sudarytojas: "Karolis Zikaras"
@@ -1255,8 +1079,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-054
+    - t-015
+    - t-024
 
 - id: c-164684
   autorius: "Michał Baliński"
@@ -1279,8 +1103,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-056
+    - t-013
+    - t-017
 
 - id: c-164685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1303,7 +1127,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-012
 
 - id: c-164686
   redaktorius: "A. Šapoka"
@@ -1326,8 +1150,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
-    - t-050
+    - t-011
+    - t-028
 
 - id: c-164687
   autorius: "Michał Baliński"
@@ -1347,7 +1171,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-001
 
 - id: c-164690
   redaktorius: "A. Šapoka"
@@ -1367,8 +1191,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
-    - t-001
+    - t-003
+    - t-016
 
 - id: c-164691
   autorius: "Michał Baliński"
@@ -1396,8 +1220,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
-    - t-003
+    - t-010
+    - t-023
 
 - id: c-164692
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1440,8 +1264,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
-    - t-049
+    - t-009
+    - t-014
 
 - id: c-164696
   sudarytojas: "Karolis Zikaras"
@@ -1460,7 +1284,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-004
 
 - id: c-164697
   autorius: "Michał Baliński"
@@ -1490,7 +1314,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-029
 
 - id: c-164703
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1514,7 +1338,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-008
 
 - id: c-164705
   autorius: "Michał Baliński"
@@ -1533,7 +1357,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-006
 
 - id: c-164706
   sudarytojas: "Karolis Zikaras"
@@ -1557,7 +1381,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-019
 
 - id: c-164709
   sudarytojas: "Karolis Zikaras"
@@ -1584,7 +1408,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-020
 
 - id: c-164710
   sudarytojas: "Karolis Zikaras"
@@ -1619,7 +1443,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-025
 
 - id: c-164712
   autorius: "Michał Baliński"
@@ -1643,7 +1467,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-022
 
 - id: c-164713
   autorius: "Michał Baliński"
@@ -1666,7 +1490,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-018
 
 - id: c-164716
   sudarytojas: "Karolis Zikaras"
@@ -1693,7 +1517,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-007
 
 - id: c-164724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1710,7 +1534,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-027
 
 - id: c-167695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1730,7 +1554,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-030
 
 - id: c-168562
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1763,7 +1587,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
+    - t-031
 
 - id: c-168563
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1793,7 +1617,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-068
+    - t-032
 
 - id: c-170625
   autorius: "Anoniminis metraštininkas"
@@ -1824,8 +1648,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-033
+    - t-040
 
 - id: c-170626
   autorius: "Anoniminis metraštininkas"
@@ -1856,7 +1680,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-033
 
 - id: c-175548
   autorius: "Teodoras Narbutas"
@@ -1879,7 +1703,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-034
 
 - id: c-175983
   redaktorius: "A. Šapoka"
@@ -1901,7 +1725,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-035
 
 - id: c-175984
   redaktorius: "A. Šapoka"
@@ -1918,7 +1742,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-036
 
 - id: c-183582
   redaktorius: "A. Šapoka"
@@ -1935,7 +1759,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-036
 
 - id: c-183583
   sudarytojas: "Karolis Zikaras"
@@ -1962,7 +1786,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-020
 
 - id: c-183584
   redaktorius: "A. Šapoka"
@@ -1984,8 +1808,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
-    - t-049
+    - t-009
+    - t-014
 
 - id: c-183585
   autorius: "Michał Baliński"
@@ -2008,8 +1832,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-056
+    - t-013
+    - t-017
 
 - id: c-183586
   sudarytojas: "Karolis Zikaras"
@@ -2037,7 +1861,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-021
 
 - id: c-183587
   autorius: "Zenonas Ivinskis"
@@ -2056,7 +1880,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-042
 
 - id: c-183588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2079,7 +1903,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-012
 
 - id: c-183589
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2119,7 +1943,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-038
 
 - id: c-183592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2139,7 +1963,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-030
 
 - id: c-183593
   redaktorius: "A. Šapoka"
@@ -2161,7 +1985,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-035
 
 - id: c-183594
   sudarytojas: "Karolis Zikaras"
@@ -2183,8 +2007,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-054
+    - t-015
+    - t-024
 
 - id: c-183595
   redaktorius: "A. Šapoka"
@@ -2204,8 +2028,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
-    - t-001
+    - t-003
+    - t-016
 
 - id: c-183596
   sudarytojas: "Karolis Zikaras"
@@ -2232,7 +2056,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-007
 
 - id: c-183597
   autorius: "Michał Baliński"
@@ -2256,7 +2080,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-022
 
 - id: c-183598
   autorius: "Teodoras Narbutas"
@@ -2279,7 +2103,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-034
 
 - id: c-183599
   autorius: "Anoniminis metraštininkas"
@@ -2346,7 +2170,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-025
 
 - id: c-183601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2371,8 +2195,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-063
+    - t-002
+    - t-005
 
 - id: c-183602
   autorius: "Zenonas Ivinskis"
@@ -2392,7 +2216,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-045
 
 - id: c-183603
   autorius: "Michał Baliński"
@@ -2422,7 +2246,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-029
 
 - id: c-183605
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2446,7 +2270,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-008
 
 - id: c-183606
   sudarytojas: "Karolis Zikaras"
@@ -2470,7 +2294,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-019
 
 - id: c-183607
   redaktorius: "A. Šapoka"
@@ -2504,7 +2328,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-027
 
 - id: c-183609
   autorius: "Michał Baliński"
@@ -2524,7 +2348,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-001
 
 - id: c-183610
   sudarytojas: "Karolis Zikaras"
@@ -2548,7 +2372,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-019
 
 - id: c-183611
   autorius: "Zenonas Ivinskis"
@@ -2565,7 +2389,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-037
 
 - id: c-183613
   autorius: "Zenonas Ivinskis"
@@ -2583,7 +2407,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-044
 
 - id: c-183614
   autorius: "Anoniminis metraštininkas"
@@ -2614,7 +2438,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-033
 
 - id: c-183615
   redaktorius: "A. Šapoka"
@@ -2637,8 +2461,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
-    - t-050
+    - t-011
+    - t-028
 
 - id: c-183616
   autorius: "Michał Baliński"
@@ -2666,8 +2490,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
-    - t-003
+    - t-010
+    - t-023
 
 - id: c-183617
   autorius: "Michał Baliński"
@@ -2686,7 +2510,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-006
 
 - id: c-183618
   autorius: "Zenonas Ivinskis"
@@ -2705,7 +2529,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-042
 
 - id: c-183619
   autorius: "Michał Baliński"
@@ -2728,7 +2552,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-018
 
 - id: c-183620
   autorius: "Anoniminis metraštininkas"
@@ -2748,7 +2572,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-039
 
 - id: c-185027
   autorius: "Zigmantas Kiaupa"
@@ -2764,7 +2588,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-046
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Švitrigaila]]

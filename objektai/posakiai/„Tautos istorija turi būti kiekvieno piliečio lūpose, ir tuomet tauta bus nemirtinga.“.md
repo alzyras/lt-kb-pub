@@ -55,12 +55,7 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja citatos žodžius su Mikalojumi Akelaičiu ir 1859 metais."
   pagrindžia:
     - c-26586
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105713|Simonas Daukantas]]: Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.
-- susijęs iš [[objektai/autoriai/Mikalojus Akelaitis.md#claim-t-169889|Mikalojus Akelaitis]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-- susijęs iš [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose.md#claim-t-54358|Tautos istorijos atminties saugojimas piliečių lūpose]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-- susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13503|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: 1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.
-- susijęs iš [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.md#claim-t-13504|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]: Frazė siejama su tautos atminties ir tautos ateities ryšiu.
-- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63727|Jonas Mačiulis-Maironis]]: Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.
+
 ## Citatos
 
 - id: c-26586

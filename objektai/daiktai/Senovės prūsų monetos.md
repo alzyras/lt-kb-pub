@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189661"></a>
 - t-001
   teiginys: "Narbutas rašo, kad senovės prūsų monetas mini kronikininkai, o vėliau kai kurios jų būdavo randamos žemėje, ypač senovės kapuose."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,6 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172544
+    - c-172545
 
 <a id="claim-t-189662"></a>
 - t-002
@@ -137,4 +138,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002

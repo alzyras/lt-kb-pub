@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86029"></a>
-- t-002
+- t-001
   teiginys: "1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ media_all_json: |-
     - c-82008
 
 <a id="claim-t-86030"></a>
-- t-001
+- t-002
   teiginys: "1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,29 +73,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, susijusį su Pelplino abatu."
   pagrindžia:
     - c-82009
-- susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
-- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
-- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
-- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.
-- susijęs iš Oliva: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.
-- susijęs iš Oliva: 1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.
-- susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
-- susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178832|Kryžiuočių ordinas]]: Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108293|Pranciškonų ordinas]]: Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.
-- susijęs iš [[objektai/grupes/Rendaliai.md#claim-t-63207|Rendaliai]]: Rendaliais vadinti Girdavo palikuonys; Girdavas Bartos žemėje turėjo jo vardu pavadintą Girdavų pilį.
-- susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
-- susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
-- susijęs iš Braunsbergas: Gedimino skundą popiežiui ginčijo ir Mažesniųjų brolių Braunsbergo gvardijonas.
-- susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
-- susijęs iš Girdavai: Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.
-- susijęs iš Neuenbergas: Neuenbergo gvardijonas kartu su kitais dvasininkais laiškuose popiežiui stojo ginti kryžiuočių.
-- susijęs iš Ragainė: Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.
-- susijęs iš Ragainė: Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.
-- susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
-- susijęs iš Torunė: Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.
-- susijęs iš [[objektai/zodynas/kustodas ir gvardijonas.md#claim-t-86635|kustodas ir gvardijonas]]: Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.
+
 ## Citatos
 
 - id: c-82008
@@ -122,7 +100,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-82009
   autorius: "Michał Baliński"
@@ -146,4 +124,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

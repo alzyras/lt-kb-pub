@@ -66,17 +66,7 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175436
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189972|Kristoforas Hartknochas]]: Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188431|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
-- susijęs iš Insterburgo valsčius: Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas.
-- susijęs iš Nemunas: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.
-- susijęs iš Raigardas: Narbutas spėja, kad Strijkovskio prie Raigardo ir Insterburgo Prūsijoje pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
-- susijęs iš [[objektai/autoriai/Heningas Henning.md#claim-t-191596|Heningas Henning]]: Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
-- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92949|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: 1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną.
-- susijęs iš Prūsija: Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
+
 ## Citatos
 
 - id: c-38501

@@ -44,8 +44,7 @@ media_all_json: |-
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.96); Novosielsko priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Novosielsko (0.78)"
   pagrindžia:
     - c-38591
-- susijęs iš Novosielskas: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Novosielskas: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
+
 ## Citatos
 
 - id: c-38591

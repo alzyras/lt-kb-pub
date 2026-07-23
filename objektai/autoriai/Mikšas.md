@@ -56,8 +56,7 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-01353
-- susijęs iš [[objektai/autoriai/Dr. J. Šliūpas.md#claim-t-01029|Dr. J. Šliūpas]]: Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.
-- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-104178|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.
+
 ## Citatos
 
 - id: c-01353

@@ -44,7 +44,7 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38594
-- susijęs iš Uždauguvis: Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.
+
 ## Citatos
 
 - id: c-38594

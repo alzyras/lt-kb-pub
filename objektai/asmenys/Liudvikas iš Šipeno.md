@@ -7,15 +7,15 @@ datos:
   - '1299 m.'
 date_start: '1299'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigūnas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas; citata remia pareigas, trukmę ir palaidojimo vietą."
   pagrindžia:
     - c-61011
-- susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.'
@@ -66,13 +66,15 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
        Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
     metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
 
+
+
+
       273 (266).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61011

@@ -49,28 +49,7 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171865
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
-- susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
-- susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
-- susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
-- susijęs iš [[objektai/asmenys/Berosijus.md#claim-t-191339|Berosijus]]: Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.
-- susijęs iš [[objektai/asmenys/Hameris.md#claim-t-191204|Hameris]]: Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra.
-- susijęs iš [[objektai/asmenys/Hameris.md#claim-t-191205|Hameris]]: Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą.
-- susijęs iš [[objektai/asmenys/Skitas.md#claim-t-191468|Skitas]]: Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
-- susijęs iš Istachrio Abu Izaoko al Farisi žemėlapiai: Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
-- susijęs iš [[objektai/asmenys/Istachris Abu Izaokas al Farisi.md#claim-t-191421|Istachris Abu Izaokas al Farisi]]: Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius.
-- susijęs iš [[objektai/asmenys/Khaintajas.md#claim-t-191433|Khaintajas]]: Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino.
-- susijęs iš [[objektai/asmenys/Kruzė.md#claim-t-191436|Kruzė]]: Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko ai Farisi nubraižytų geografijos žemėlapių.
-- susijęs iš [[objektai/asmenys/Šafranas.md#claim-t-191491|Šafranas]]: Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pranašo Khaintajo tėvą, o Khaintają esą nukankino Ross krašto tauta.
-- susijęs iš [[objektai/autoriai/Istachris Abu Izaokas ai Farisi.md#claim-t-191646|Istachris Abu Izaokas ai Farisi]]: Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 907-912 m. ir nubraižė Gotos bibliotekoje rastus žemėlapius.
-- susijęs iš [[objektai/autoriai/Kruzė.md#claim-t-191678|Kruzė]]: Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius.
-- susijęs iš Koranas: Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie Ross upės, išsisklaidžiusi žiloje senovėje.
-- susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
-- susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio.'
@@ -121,6 +100,3 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Budinai]]

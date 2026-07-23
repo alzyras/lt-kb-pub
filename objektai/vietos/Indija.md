@@ -70,22 +70,7 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175435
-- susijęs iš [[objektai/asmenys/Archelajas.md#claim-t-191940|Archelajas]]: Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės.
-- susijęs iš [[objektai/asmenys/Buda.md#claim-t-191259|Buda]]: Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo sektos narių padaugėjo Indijoje ir Vidurinėje Azijoje.
-- susijęs iš [[objektai/autoriai/Karolis Riteris.md#claim-t-191543|Karolis Riteris]]: Narbuto perteikimu, Karolis Riteris indų vardą siejo su senovės kolchais, saulės garbintojais, atėjusiais iš Indijos prie Meotų.
-- susijęs iš [[objektai/autoriai/Majevskis.md#claim-t-190438|Majevskis]]: Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą 1827 m. Varšuvos rinkinyje „Zbior rozpraw“.
-- susijęs iš Majevskio studija apie Indijos budinų hierarchiją: Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierarchiją, išspausdintą „Zbior rozpraw“ 1827 m.
-- susijęs iš Plinijaus veikalas apie gamtą: Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve.
-- susijęs iš [[objektai/asmenys/Karlas Riteris.md#claim-t-191250|Karlas Riteris]]: Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono.
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191092|Plinijus Vyresnysis]]: Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190954|Plinijus]]: Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190782|Plinijus]]: Teodoro Narbuto pasakojime Plinijus užrašė Archelajo pasakojimą apie gintaro žaliavą, dar neatskirtą nuo medžių žievės.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192369|Budinai]]: Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono.
-- susijęs iš Danija: Narbutas Danijos pakrantes mini tarp vietų, kur randama pavienių gintaro gabalų.
-- susijęs iš Lenkija: Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
-- susijęs iš Silezija: Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų.
-- susijęs iš Čekija: Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
-- susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
+
 ## Citatos
 
 - id: c-171825

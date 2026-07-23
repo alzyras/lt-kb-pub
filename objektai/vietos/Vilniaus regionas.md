@@ -54,12 +54,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   temporalinis_llm_pakomentavimas: "Pašalintas OCR ir puslapio triukšmas, teiginys sutrumpintas."
   pagrindžia:
     - c-26559
-- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-183562|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
-- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-64039|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179190|Lenkai]]: Kantoninės Lietuvos atveju Vilniaus regionas galėjo tapti lenkų ir lietuvių nacionalizmų konflikto židiniu kalbos pagrindu.
-- susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-74806|Lietuvos šaulių sąjunga]]: Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kuris Lietuvoje vertintas kaip lenkų Trojos arklys.
-- susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70096|autonomija autonominis statusas]]: 1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.
-- susijęs iš [[objektai/zodynas/kantonas kantoninis principas.md#claim-t-104192|kantonas kantoninis principas]]: 1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.
+
 ## Citatos
 
 - id: c-26559

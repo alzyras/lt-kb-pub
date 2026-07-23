@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06868"></a>
-- t-002
+- t-001
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-00243
   redaktorius: "A. Šapoka"
@@ -91,6 +91,7 @@ media_all_json: |-
   citata_rodoma: "Visada atsirasdavo, kas pasakydavo _„veto\",_ ir seimas\nturėdavo iširti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

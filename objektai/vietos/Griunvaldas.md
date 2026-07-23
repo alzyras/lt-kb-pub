@@ -44,7 +44,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 ## Teiginiai
 
 <a id="claim-t-63395"></a>
-- t-006
+- t-001
   teiginys: "1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-64433
 
 <a id="claim-t-193184"></a>
-- t-007
+- t-002
   teiginys: "Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-175928
 
 <a id="claim-t-193658"></a>
-- t-008
+- t-003
   teiginys: "LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-176327
 
 <a id="claim-t-193764"></a>
-- t-009
+- t-004
   teiginys: "NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - c-176420
 
 <a id="claim-t-194948"></a>
-- t-010
+- t-005
   teiginys: "Ir kai karalius ėjo mels tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po jos ir kita."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -112,11 +112,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177344
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178812|Kryžiuočių ordinas]]: 1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179066|Kryžiuočių ordinas]]: 1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą.
-- susijęs iš Pirmasis Lietuvos Statutas: Viena Balińskio aptarta privilegija vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.
-- susijęs iš T. Czacki, Rozprawa o żydach: T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.
-- susijęs iš Vytauto privilegija Lietuvos žydams: Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.
+
 ## Citatos
 
 - id: c-64433
@@ -142,7 +138,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-175928
   redaktorius: "A. Šapoka"
@@ -159,7 +155,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-176327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -179,7 +175,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-176420
   sudarytojas: "Karolis Zikaras"
@@ -195,7 +191,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-177344
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -216,4 +212,4 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005

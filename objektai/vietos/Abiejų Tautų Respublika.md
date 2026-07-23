@@ -13,14 +13,14 @@ datos:
   - '2014 m.'
 date_start: '1408'
 date_end: '2014'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

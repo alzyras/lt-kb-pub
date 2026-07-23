@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78613"></a>
-- t-010
+- t-001
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-75841
 
 <a id="claim-t-78614"></a>
-- t-005
+- t-002
   teiginys: "1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-11847
 
 <a id="claim-t-78615"></a>
-- t-009
+- t-003
   teiginys: "Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -108,7 +108,7 @@ Nenurodyta
     - c-11847
 
 <a id="claim-t-78616"></a>
-- t-008
+- t-004
   teiginys: "Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-75843
 
 <a id="claim-t-78617"></a>
-- t-006
+- t-005
   teiginys: "Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -146,7 +146,7 @@ Nenurodyta
     - c-75841
 
 <a id="claim-t-78618"></a>
-- t-011
+- t-006
   teiginys: "Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -164,13 +164,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai."
   pagrindžia:
     - c-75843
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113968|Steponas Batoras]]: Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113987|Steponas Batoras]]: Steponas Batoras rūpinosi Žygimanto Augusto įsteigta Vilniaus patrankų liejykla ir naudojo jos pabūklus karuose su Maskva.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš Opokos apylinkės: 1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.
-- susijęs iš Staraja Rusa: Starajos Rusos miestas buvo sudegintas, o jo įgula sunaikinta.
-- susijęs iš Staraja Rusa: Per 1581 m. reidą K. Radvila sudegino Starają Rusą ir sunaikino jos įgulą.
-- susijęs iš Toropecas: Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.
+
 ## Citatos
 
 - id: c-11847
@@ -198,8 +192,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-009
+    - t-002
+    - t-003
 
 - id: c-75841
   sudarytojas: "Karolis Zikaras"
@@ -221,8 +215,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-006
+    - t-001
+    - t-005
 
 - id: c-75843
   sudarytojas: "Karolis Zikaras"
@@ -265,5 +259,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-011
+    - t-004
+    - t-006

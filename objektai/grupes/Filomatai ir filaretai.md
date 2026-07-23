@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-188042"></a>
-- t-002
+- t-001
   teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -59,12 +59,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170854
-- susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-188541|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi.
-- susijęs iš [[objektai/asmenys/Ignas Onacevičius.md#claim-t-188536|Ignas Onacevičius]]: Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai, Narbuto biografinio pasakojimo kontekste, buvo didelis susidomėjimas istorija.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-188405|Ignacas Onacevičius]]: Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.
-- susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81904|Ignacas Onacevičius]]: Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą.
-- susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-188404|Ignas Danilavičius]]: Ignotas Danilavičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis.
-- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
+
 ## Citatos
 
 - id: c-170854
@@ -88,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

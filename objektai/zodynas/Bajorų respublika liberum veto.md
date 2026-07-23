@@ -30,7 +30,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 ## Teiginiai
 
 <a id="claim-t-21975"></a>
-- t-002
+- t-001
   teiginys: "Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
     - c-166794
 
 <a id="claim-t-21976"></a>
-- t-001
+- t-002
   teiginys: "Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,6 +121,6 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003

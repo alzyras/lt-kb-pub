@@ -37,7 +37,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 ## Teiginiai
 
 <a id="claim-t-41207"></a>
-- t-002
+- t-001
   teiginys: "Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - c-44876
 
 <a id="claim-t-193737"></a>
-- t-003
+- t-002
   teiginys: "Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - c-176403
 
 <a id="claim-t-193738"></a>
-- t-004
+- t-003
   teiginys: "Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-44876
   sudarytojas: "Karolis Zikaras"
@@ -133,7 +133,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176403
   sudarytojas: "Karolis Zikaras"
@@ -153,4 +153,4 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

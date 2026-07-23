@@ -76,6 +76,7 @@ Nenurodyta
   citata_rodoma: "demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

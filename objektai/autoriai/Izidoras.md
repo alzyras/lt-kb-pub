@@ -30,7 +30,7 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
 ## Teiginiai
 
 <a id="claim-t-197300"></a>
-- t-002
+- t-001
   teiginys: "Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173312
-- susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-188509|Abraomas]]: Narbutas perteikia Izidoro pasakojimą, kad Mamrės lygumose matytas šventu laikytas ąžuolas, po kuriuo Abraomas statęs palapines.
+
 ## Citatos
 
 - id: c-173312
@@ -67,4 +67,4 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

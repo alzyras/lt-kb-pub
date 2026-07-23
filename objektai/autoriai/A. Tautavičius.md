@@ -56,9 +56,7 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
   temporalinis_llm_pakomentavimas: "Perrašyta į sklandesnį sakinį, išlaikant citatos faktus."
   pagrindžia:
     - c-32891
-- susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179501|Archeologai ir priešistorės tyrėjai]]: P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.
-- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
-- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
+
 ## Citatos
 
 - id: c-32891

@@ -39,7 +39,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 ## Teiginiai
 
 <a id="claim-t-07661"></a>
-- t-003
+- t-001
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -53,8 +53,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09594
-- susijęs iš [[objektai/daiktai/Ūkio įrankiai.md#claim-t-08360|Ūkio įrankiai]]: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
-- susijęs iš [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas.md#claim-t-07803|Savarankiškas ūkio ir namų dirbinių gaminimas]]: Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti.
+
 ## Citatos
 
 - id: c-09593
@@ -91,4 +90,4 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

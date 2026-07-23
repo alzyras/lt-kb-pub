@@ -57,7 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata."
   pagrindžia:
     - c-82276
-- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
+
 ## Citatos
 
 - id: c-82276

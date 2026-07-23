@@ -58,7 +58,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21705
 
 <a id="claim-t-101640"></a>
-- t-009
+- t-002
   teiginys: "J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21710
 
 <a id="claim-t-101641"></a>
-- t-006
+- t-003
   teiginys: "J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21710
 
 <a id="claim-t-101642"></a>
-- t-008
+- t-004
   teiginys: "Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21709
 
 <a id="claim-t-101644"></a>
-- t-004
+- t-006
   teiginys: "J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21708
 
 <a id="claim-t-101645"></a>
-- t-002
+- t-007
   teiginys: "Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21706
 
 <a id="claim-t-101646"></a>
-- t-007
+- t-008
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -175,9 +175,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-21709
-- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65780|Lietuvos SSR Aukščiausioji Taryba]]: Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.
-- susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66803|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: 1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.
-- susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66804|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.
+
 ## Citatos
 
 - id: c-21705
@@ -221,7 +219,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
 
 - id: c-21707
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -263,7 +261,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-21709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -283,9 +281,9 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
     - t-005
-    - t-007
+    - t-008
 
 - id: c-21710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -305,5 +303,5 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-006
+    - t-002
+    - t-003

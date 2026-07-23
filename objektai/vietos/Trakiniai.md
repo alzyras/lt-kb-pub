@@ -54,8 +54,7 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-40367
-- susijęs iš Kurklių valsčius: 1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.
-- susijęs iš Kurklių valsčius: 1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.
+
 ## Citatos
 
 - id: c-40367

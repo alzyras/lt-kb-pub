@@ -39,7 +39,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Teiginiai
 
 <a id="claim-t-70027"></a>
-- t-004
+- t-001
   teiginys: "Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -53,29 +53,6 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09707
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 15692-16003; match: exact
-    - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. Susieta su kandidatais: Tyrulė, Uksinė jūra, įšleitė; kategorijos: vieta, zodynas.
-      citata_originali: |
-        Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
-        per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
-        kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
-        buvo medės, arba girios.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -115,4 +92,4 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

@@ -37,7 +37,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 ## Teiginiai
 
 <a id="claim-t-70155"></a>
-- t-002
+- t-001
   teiginys: "Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,10 +56,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   pagrindžia:
     - c-69240
     - c-166821
-- susijęs iš [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje.md#claim-t-183132|Hipių judėjimas sovietinėje Lietuvoje]]: Sovietinės Lietuvos hipių judėjimas protestavo prieš sovietinę sistemą, o ne prieš vartotojišką visuomenę kaip Vakarų hipiai.
-- susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78430|Raudonoji armija]]: Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo.
-- susijęs iš [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.md#claim-t-75616|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]: Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje.
-- susijęs iš [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.md#claim-t-75617|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]: Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.
+
 ## Citatos
 
 - id: c-69240
@@ -82,7 +79,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -104,4 +101,4 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

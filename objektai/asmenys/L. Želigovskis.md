@@ -40,7 +40,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 ## Teiginiai
 
 <a id="claim-t-19100"></a>
-- t-002
+- t-001
   teiginys: "L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     - c-21850
 
 <a id="claim-t-19101"></a>
-- t-001
+- t-002
   teiginys: "1922 m. Liucijano Želigovskio užimtoje Vidurinėje Lietuvoje su Vilniumi balsuota dėl teritorijos prijungimo prie Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,11 +98,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai pagrįstas citata."
   pagrindžia:
     - c-166951
-- susijęs iš Rykantai: Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.
-- susijęs iš [[objektai/grupes/oji pėstininkų divizija.md#claim-t-80636|oji pėstininkų divizija]]: Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
-- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
-- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
-- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+
 ## Citatos
 
 - id: c-21849
@@ -123,7 +119,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-21850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -149,7 +145,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-166951
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

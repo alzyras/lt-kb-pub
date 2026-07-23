@@ -67,6 +67,7 @@ Po kraičio sutalpinimo broliai taip juokaudami ima nešti skrynią.
   citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

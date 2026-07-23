@@ -62,7 +62,6 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176718

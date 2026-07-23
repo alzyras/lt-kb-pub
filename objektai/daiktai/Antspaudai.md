@@ -81,7 +81,7 @@ Nenurodyta
     - c-82958
 
 <a id="claim-t-86982"></a>
-- t-004
+- t-003
   teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,63 +96,7 @@ Nenurodyta
   semantiniai_rysiai: "Antspaudai priklausė Vilniaus magistratas (0.72)"
   pagrindžia:
     - c-82960
-- susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
-- susijęs iš [[objektai/asmenys/Mickus Pocaitis.md#claim-t-190234|Mickus Pocaitis]]: Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojamą maždaug XV amžiaus viduriu.
-- susijęs iš [[objektai/asmenys/Pašičius.md#claim-t-190236|Pašičius]]: Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus.
-- susijęs iš [[objektai/asmenys/Skiparas.md#claim-t-190240|Skiparas]]: Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Stecevičius.md#claim-t-190245|Stecevičius]]: Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Valatkevičius.md#claim-t-190248|Valatkevičius]]: Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašytų aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Zubas.md#claim-t-190249|Zubas]]: Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/asmenys/Čeplė.md#claim-t-190250|Čeplė]]: Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuonių antspaudų su žalčiais.
-- susijęs iš [[objektai/autoriai/J. B. Rakoveckis.md#claim-t-190430|J. B. Rakoveckis]]: J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus.
-- susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
-- susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190303|Tadas Čackis]]: Narbutas Čackio veikalą „Apie teises“ nurodė kaip šaltinį istorijos duomenims apie kitų tautų antspaudus ir herbus.
-- susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87045|Antspaudai ir pergamentiniai privilegijų originalai]]: Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.
-- susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87046|Antspaudai ir pergamentiniai privilegijų originalai]]: Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.
-- susijęs iš [[objektai/daiktai/Antspaudas.md#claim-t-64897|Antspaudas]]: 1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.
-- susijęs iš [[objektai/daiktai/Antspaudas.md#claim-t-64898|Antspaudas]]: XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.
-- susijęs iš [[objektai/daiktai/Valstybės antspaudai.md#claim-t-183302|Valstybės antspaudai]]: LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.
-- susijęs iš [[objektai/daiktai/Valstybės antspaudai.md#claim-t-19604|Valstybės antspaudai]]: LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190607|Lietuviai]]: Narbutas teigė, kad lietuviai neturėjo savos heraldikos, bet žymesni asmenys raštus tvirtindavo pasirinktais antspaudais.
-- susijęs iš [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md#claim-t-185882|Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]: Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
-- susijęs iš [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais.md#claim-t-67216|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]: 1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais.
-- susijęs iš 1630 m. testamentas su šešiais antspaudais: Narbutas nurodė, kad prie 1630 m. testamento buvo pridėtas nežinia kieno prispaustas antspaudas ir dar penki antspaudai su lenkiškais herbais.
-- susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): Šiame laiške po parašais yra penki antspaudai.
-- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
-- susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87531|Kasparas Bekešas]]: Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą.
-- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60063|Samboras (Sventopelko sūnus)]]: Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.
-- susijęs iš [[objektai/autoriai/A. Tyla.md#claim-t-30546|A. Tyla]]: A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.
-- susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87939|August von Kotzebue]]: Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.
-- susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
-- susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
-- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
-- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184530|Lenkai]]: Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184535|Lenkai]]: Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184552|Lietuviai]]: Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius.
-- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188284|Lietuvos bajorija]]: Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.
-- susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188329|Romėnai]]: Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika.
-- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189623|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169847|Liublino unija (1569 m.)]]: Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos.
-- susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
-- susijęs iš [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“.md#claim-t-77846|„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]: 1569 m. Liublino seime J. J. Chodkevičius Žygimantui Augustui sakė, kad lietuviai buvo priversti nusileisti su skausmu.
-- susijęs iš Jogailos sudaryta sutartis, paprastai vadinama unija: Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami.
-- susijęs iš Lietuvių bei lenkų santarvės aktas, užbaigtas Vilniuje: Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
-- susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
-- susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
-- susijęs iš Lietuva: J. J. Chodkevičius apgynė LDK antspaudus ir paliko galimybę išsaugoti Lietuvos valstybingumą.
-- susijęs iš Podolė: Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.
-- susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
-- susijęs iš Trakai: Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus.
-- susijęs iš Trakai: Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.
-- susijęs iš Šesarka: Pabaisko parapijos riba ėjo iki Šesarkos upės, kur ties Skočiūnų dvaru Šešulka įteka į Šventąją.
-- susijęs iš Šešulka: Šešulka ties Skočiūnų dvaru įteka į Šventąją.
-- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
-- susijęs iš Širvinta: Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.
-- susijęs iš Širvinta: Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
-- susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
+
 ## Citatos
 
 - id: c-82958
@@ -256,4 +200,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

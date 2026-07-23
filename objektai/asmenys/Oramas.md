@@ -46,11 +46,5 @@ Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, k
   patikimumo_saltinis: ai
   statusas: verified
 
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-190919|Lešekas Juodasis]]: 1282 metais Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190992|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenio užpuolimus sieja su lenkų įniršiu, po kurio 1282 metais prie Narevo Lešeko Juodojo vadovaujami lenkai užklupo jotvingius.
-- susijęs iš Narevas: Teodoro Narbuto pasakojime 1282 m. Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka.
-
 ## Ryšiai
 - Oramas buvo valdovas [[objektai/vietos/Krymas]]

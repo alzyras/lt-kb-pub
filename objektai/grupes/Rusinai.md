@@ -214,34 +214,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176984
-- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188250|Lenkai]]: Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.
-- susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
-- susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189474|Lietuvos rusinai]]: Narbutas teigė, kad pasakojimas apie Verpėją buvo žinomas ir vietiniams lietuviams, ir Lietuvos rusinams.
-- susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189476|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojo apie keliamečių vaikų pavidalo baidykles, vadintas Zlydni.
-- susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189477|Lietuvos rusinai]]: Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, garbintus kaip fetišus.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188343|Slavai]]: Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų.
-- susijęs iš [[objektai/grupes/Vilkolakiai.md#claim-t-189538|Vilkolakiai]]: Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.
-- susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
-- susijęs iš Vilniaus Plikasis kalnas: Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą.
-- susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
-- susijęs iš [[objektai/zodynas/Vilkolakis Wilkats Wolkotak Witkatas.md#claim-t-189344|Vilkolakis Wilkats Wolkotak Witkatas]]: Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių Witkatas vadintą kerėtoją, mokantį pasiversti vilku.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192278|pilkapis]]: Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
-- susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
-- susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190280|Frydrichas Stenderis]]: Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių.
-- susijęs iš [[objektai/autoriai/Stenderis.md#claim-t-190453|Stenderis]]: Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.
-- susijęs iš [[objektai/daiktai/Taurelė vilkolakio pasakojime.md#claim-t-189750|Taurelė vilkolakio pasakojime]]: Narbuto pateiktame vilkolakio pasakojime vilku virstantis kerėtojas geria su draugu iš tos pačios taurelės ir kalbasi.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188236|Latviai]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188241|Latviai]]: Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188242|Latviai]]: Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius.
-- susijęs iš [[objektai/grupes/Senovės vokiečiai.md#claim-t-189546|Senovės vokiečiai]]: Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pilwis ir Belewitt.
-- susijęs iš [[objektai/grupes/Skandinavai ir germanai.md#claim-t-189535|Skandinavai ir germanai]]: Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, latviai ir lietuviai vartojo panašius pavadinimus.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188346|Slavai]]: Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais.
-- susijęs iš [[objektai/posakiai/oni sporzjadają.md#claim-t-189587|oni sporzjadają]]: Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda.
-- susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių.
-- susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
+
 ## Citatos
 
 - id: c-172287

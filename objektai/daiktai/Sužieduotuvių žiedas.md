@@ -70,11 +70,10 @@ Nenurodyta
     sužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva
     jam nebuvo leista vesti imperatoriaus sesers.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-177336

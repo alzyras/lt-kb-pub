@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78691"></a>
-- t-004
+- t-001
   teiginys: "1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-42596
 
 <a id="claim-t-78692"></a>
-- t-003
+- t-002
   teiginys: "Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-75902
 
 <a id="claim-t-78693"></a>
-- t-005
+- t-003
   teiginys: "Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
     - c-75903
 
 <a id="claim-t-78694"></a>
-- t-002
+- t-004
   teiginys: "Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-42594
 
 <a id="claim-t-78695"></a>
-- t-001
+- t-005
   teiginys: "1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-42594
   sudarytojas: "Karolis Zikaras"
@@ -186,7 +186,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-42596
   sudarytojas: "Karolis Zikaras"
@@ -203,7 +203,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-75902
   sudarytojas: "Karolis Zikaras"
@@ -222,7 +222,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-75903
   sudarytojas: "Karolis Zikaras"
@@ -241,4 +241,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

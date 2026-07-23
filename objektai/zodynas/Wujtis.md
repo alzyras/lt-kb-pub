@@ -48,9 +48,7 @@ Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172234
-- susijęs iš [[objektai/zodynas/Vaidevutis Wejdawutis.md#claim-t-189255|Vaidevutis Wejdawutis]]: Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą.
-- susijęs iš [[objektai/zodynas/Prulis.md#claim-t-189320|Prulis]]: Narbutas perteikė kronikininkų aiškinimą, kad Bruteno arba Pruteno vardas kilęs iš senojo prūsų žodžio „Prulis“, reiškusio išminčių.
-- susijęs iš [[objektai/zodynas/Wejdas.md#claim-t-189346|Wejdas]]: Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį Vaidevučio vardo dalimi.
+
 ## Citatos
 
 - id: c-172234

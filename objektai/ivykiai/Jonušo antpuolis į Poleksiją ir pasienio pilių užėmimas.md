@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185708"></a>
-- t-002
+- t-001
   teiginys: "Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-169069
 
 <a id="claim-t-196170"></a>
-- t-004
+- t-002
   teiginys: "Laukdamas Jonušo pagalbos, Kęstutis delsė stoti į lemiamą mūšį su Jogaila, nes nenorėjo kautis su maža kariuomene be pagalbininkų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -100,8 +100,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004
 
 - id: c-176084
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -136,6 +136,7 @@ Nenurodyta
   citata_rodoma: "Jogaila \natkakliai \nU žkariauja T rakus \npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą. Kęstutis, savo ruožtu \napie viską sužinojęs, paliko rusų pulkus, turėjusius\ntoliau pulti Seversko Nau- \nK ęstu tis traukia p rieš \ngardą ir ginti apylinkes nuo\nJogailą, su p a T raku s \nKaributo antpuolių, o pats\nskubiai sugrįžo į Žemaitiją; \nčia greitosiomis surinkęs kariuomenę, persikėlė per \nNerį ir susijungė su Vytautu, jau sutelkusiu gardinie­\nčių pulkus. Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei \nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

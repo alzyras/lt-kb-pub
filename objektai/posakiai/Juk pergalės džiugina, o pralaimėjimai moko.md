@@ -29,7 +29,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 ## Teiginiai
 
 <a id="claim-t-41450"></a>
-- t-002
+- t-001
   teiginys: "Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
     - c-44954
 
 <a id="claim-t-41451"></a>
-- t-001
+- t-002
   teiginys: "Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +100,8 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-167109
   sudarytojas: "Karolis Zikaras"

@@ -53,7 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir per ilgas, citata pagrindžia glaustesnę formą."
   pagrindžia:
     - c-24508
-- susijęs iš [[objektai/ivykiai/Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.).md#claim-t-20518|Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)]]: Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.
+
 ## Citatos
 
 - id: c-24508

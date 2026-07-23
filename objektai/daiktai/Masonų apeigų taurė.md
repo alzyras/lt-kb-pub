@@ -98,14 +98,3 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
-- susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188045|Lietuvos masonų organizacijos]]: Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją.
-- susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188483|Teodoras Narbutas]]: Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.
-- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.

@@ -45,7 +45,7 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33263
-- susijęs iš [[objektai/grupes/Romanovų dinastija.md#claim-t-66062|Romanovų dinastija]]: Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.
+
 ## Citatos
 
 - id: c-33263

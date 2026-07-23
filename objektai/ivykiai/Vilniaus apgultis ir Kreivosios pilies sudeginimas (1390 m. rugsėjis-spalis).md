@@ -59,7 +59,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 ## Teiginiai
 
 <a id="claim-t-54710"></a>
-- t-004
+- t-001
   teiginys: "Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     - c-55681
 
 <a id="claim-t-54711"></a>
-- t-001
+- t-002
   teiginys: "1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos."
   atnaujinta: "2026-05-27 06:09"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     - c-55679
 
 <a id="claim-t-54712"></a>
-- t-005
+- t-003
   teiginys: "Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-55681
   autorius: "Michał Baliński"
@@ -161,7 +161,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-55682
   autorius: "Michał Baliński"
@@ -187,4 +187,4 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

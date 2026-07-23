@@ -39,7 +39,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 ## Teiginiai
 
 <a id="claim-t-31046"></a>
-- t-002
+- t-001
   teiginys: "V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     - c-33180
 
 <a id="claim-t-31047"></a>
-- t-001
+- t-002
   teiginys: "V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +69,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33181
-- susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
-- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.
-- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
-- susijęs iš Пашуто В. Т. Борьба прусского народа за независимость (до конца XIII в.): V. T. Pašuto straipsnis „Борьба прусского народа за независимость (до конца XIII в.)“ paskelbtas žurnale „История СССР“ 1958 m. Nr. 6.
-- susijęs iš Пашуто В. Т. Гродно в Хронике Петра Дусбурга: V. T. Pašuto straipsnis „Гродно в Хронике Петра Дусбурга“ paskelbtas rinkinyje „Культура древней Руси“ 1966 m.
-- susijęs iš Пашуто В. Т. Некоторые общие вопросы летописного источниковедения: V. T. Pašuto straipsnis „Некоторые общие вопросы летописного источниковедения“ paskelbtas rinkinio „Источниковедение отечественной истории“ 1-ajame leidime 1973 m.
-- susijęs iš Пашуто В. Т. Образование Литовского государства: V. T. Pašuto veikalas „Образование Литовского государства“ išleistas 1959 m.
-- susijęs iš Пашуто В. Т. Помезания «Помезанская правда» как исторический источник изучения общественного и политического строя Помезании XIII—XIV вв: V. T. Pašuto veikalas apie „Помезанская правда“ kaip XIII-XIV a. Pomezanijos santvarkos šaltinį išleistas 1955 m.
-- susijęs iš Пашуто В. Т. Реваншисты: V. T. Pašuto veikalas „Реваншисты — псевдоисторики России“ išleistas 1971 m.
-- susijęs iš Пашуто В. Т. Христбургский (Кишпорский) договор 1249 г. как исторический источник: V. T. Pašuto straipsnis „Христбургский (Кишпорский) договор 1249 г. как исторический источник“ paskelbtas „Проблемы источниковедения“ 7-ajame tome.
+
 ## Citatos
 
 - id: c-33180
@@ -99,7 +90,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-33181
   autorius: "Zenonas Ivinskis"
@@ -124,4 +115,4 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

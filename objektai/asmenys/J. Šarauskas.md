@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40172"></a>
-- t-002
+- t-001
   teiginys: "J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-44370
 
 <a id="claim-t-40173"></a>
-- t-001
+- t-002
   teiginys: "Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +61,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44369
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
-- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
-- susijęs iš [[objektai/asmenys/V. Vainauskas.md#claim-t-40491|V. Vainauskas]]: V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.
-- susijęs iš Eiguliai: Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
-- susijęs iš Juodikis miškas: Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
-- susijęs iš Paobeliai: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.
+
 ## Citatos
 
 - id: c-44369
@@ -90,7 +85,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44370
   sudarytojas: "Karolis Zikaras"
@@ -119,7 +114,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - J. Šarauskas siuntė į [[objektai/vietos/Paobeliai]]

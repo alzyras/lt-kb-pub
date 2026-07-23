@@ -54,7 +54,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
     - c-166804
 
 <a id="claim-t-193603"></a>
-- t-005
+- t-002
   teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -153,4 +153,4 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

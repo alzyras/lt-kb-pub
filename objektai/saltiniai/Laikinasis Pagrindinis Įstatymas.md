@@ -38,7 +38,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 ## Teiginiai
 
 <a id="claim-t-75457"></a>
-- t-002
+- t-001
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     - c-73232
 
 <a id="claim-t-75458"></a>
-- t-001
+- t-002
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius ankstesnės konstitucijos veikimą visa apimtimi."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-73232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -123,4 +123,4 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

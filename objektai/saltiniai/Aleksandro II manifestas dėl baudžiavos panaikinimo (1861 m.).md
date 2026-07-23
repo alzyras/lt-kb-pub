@@ -49,6 +49,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   citata_rodoma: "matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

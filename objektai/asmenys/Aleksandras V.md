@@ -45,9 +45,7 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   semantiniai_rysiai: "Aleksandras V buvo priešas Kryžiuočių ordinas (0.64)"
   pagrindžia:
     - c-37974
-- susijęs iš [[objektai/asmenys/Gregorijus XII.md#claim-t-35086|Gregorijus XII]]: Gregorijus XII rėmė Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Inocentas VII.md#claim-t-35101|Inocentas VII]]: Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-184282|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.
+
 ## Citatos
 
 - id: c-37974

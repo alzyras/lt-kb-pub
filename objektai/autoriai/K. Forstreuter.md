@@ -43,11 +43,7 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30622
-- susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30731|K. Chodynicki]]: K. Chodynicki gynė Gedimino laiškų autentiškumą.
-- susijęs iš [[objektai/autoriai/Kurt Forstreuter.md#claim-t-100101|Kurt Forstreuter]]: Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.
-- susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47872|A. Prochaska]]: A. Prochaska gynė Gedimino laiškų autentiškumą.
-- susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71515|Jakštas, J]]: J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
-- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-05581|Zenonas Ivinskis]]: Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
+
 ## Citatos
 
 - id: c-30622

@@ -49,6 +49,7 @@ Dusburgietis teigia, kad sembritzki J.
   citata_rodoma: "Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—\nMemel, 1926.\n  Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.\nPorębska przy współpracy M Grzegorza; Pod."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

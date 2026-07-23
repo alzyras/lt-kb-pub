@@ -63,7 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45472"></a>
-- t-008
+- t-001
   teiginys: "Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-16402
 
 <a id="claim-t-45473"></a>
-- t-009
+- t-002
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -93,15 +93,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-16402
-- susijęs iš [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija.md#claim-t-87126|Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]: Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.
-- susijęs iš Kaunas: Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas.
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183530|Ernestas Galvanauskas]]: 1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.
-- susijęs iš Alkuskų kasykla: Iš Alkuskų kasyklos buvo vežami plienas ir geležis.
-- susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
-- susijęs iš Ukraina: Apsirūpinus artilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai buvo siuntinėjami po Ukrainos pilis.
-- susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių.
-- susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui.
-- susijęs iš Vilniaus ginklų liejykla: Didžioji ginklų liejykla buvo įkurta prie Vilniaus pilies ir turėjo didelę įtaką amatininkų gerovei bei tobulėjimui.
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -128,5 +120,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-009
+    - t-001
+    - t-002

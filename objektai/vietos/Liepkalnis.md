@@ -36,7 +36,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 ## Teiginiai
 
 <a id="claim-t-41863"></a>
-- t-002
+- t-001
   teiginys: "Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
     - c-43580
 
 <a id="claim-t-41864"></a>
-- t-001
+- t-002
   teiginys: "Dauguma divizijos turėtų šešių pabūklų buvo išdėstyta Liepkalnio įtvirtinimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45180
   sudarytojas: "Karolis Zikaras"
@@ -107,4 +107,4 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

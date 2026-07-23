@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185679"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-169040
 
 <a id="claim-t-185680"></a>
-- t-003
+- t-002
   teiginys: "Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-169040
 
 <a id="claim-t-196294"></a>
-- t-004
+- t-003
   teiginys: "Kojelavičiaus perteiktame Ivano atsakyme Aleksandras kaltintas nuniokojęs Maskvos pakraščius ir į Seversko žemę suleidęs Užvolgio skitus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-169039
 
 <a id="claim-t-196295"></a>
-- t-005
+- t-004
   teiginys: "Vis dėl to jo, Ivano, širdis neatsisakanti taikos, jeigu Alek sandras neatmesiąs teisingų taikos sąlygų ir neatidė liodamas išleisiąs į Maskvą atsakingesnius pasiunti nius, kurie ir susitartų dėl taikos."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Nenurodyta
     - c-169040
 
 <a id="claim-t-196296"></a>
-- t-006
+- t-005
   teiginys: "Kai šis iškeliavo iš Maskvos, Ivanas pasiuntė savo sūnų Dimitrijų su stip riomis jėgomis dar kartą pamėginti užkariauti Smo lenską."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -180,7 +180,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-169040
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -213,9 +213,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
-    - t-005
+    - t-004
 
 - id: c-169041
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -241,4 +241,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

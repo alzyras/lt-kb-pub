@@ -30,15 +30,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50875"></a>
-- t-002
+- t-001
   teiginys: "K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36665
-- susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
-- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
+
 ## Citatos
 
 - id: c-36665
@@ -61,4 +60,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

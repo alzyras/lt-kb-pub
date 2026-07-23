@@ -60,7 +60,7 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
 ## Teiginiai
 
 <a id="claim-t-187970"></a>
-- t-004
+- t-001
   teiginys: "Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -106,4 +106,4 @@ Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

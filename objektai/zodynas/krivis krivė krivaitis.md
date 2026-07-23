@@ -46,7 +46,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - c-59446
 
 <a id="claim-t-58815"></a>
-- t-003
+- t-002
   teiginys: "Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - c-59447
 
 <a id="claim-t-58816"></a>
-- t-002
+- t-003
   teiginys: "A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-59448
   autorius: "Petras Dusburgietis"
@@ -166,4 +166,4 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

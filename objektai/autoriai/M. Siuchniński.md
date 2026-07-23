@@ -37,7 +37,7 @@ Siuchniński.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22161
-- susijęs iš [[objektai/autoriai/J. S. Kopczewski.md#claim-t-19405|J. S. Kopczewski]]: J. S. Kopczewski kartu su M. Siuchnińskiu parengė leidinį „Grunwald: 550 lat chwały“.
+
 ## Citatos
 
 - id: c-22161

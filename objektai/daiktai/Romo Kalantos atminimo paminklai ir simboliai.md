@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45538"></a>
-- t-005
+- t-001
   teiginys: "Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "gap::items"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-16938
 
 <a id="claim-t-45539"></a>
-- t-006
+- t-002
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -105,7 +105,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-48312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -123,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

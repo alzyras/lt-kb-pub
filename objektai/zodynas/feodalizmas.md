@@ -31,7 +31,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 ## Teiginiai
 
 <a id="claim-t-82051"></a>
-- t-009
+- t-001
   teiginys: "Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78550
 
 <a id="claim-t-82052"></a>
-- t-006
+- t-002
   teiginys: "Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78554
 
 <a id="claim-t-82054"></a>
-- t-005
+- t-003
   teiginys: "Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78551
 
 <a id="claim-t-82055"></a>
-- t-007
+- t-004
   teiginys: "Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78552
 
 <a id="claim-t-82056"></a>
-- t-008
+- t-005
   teiginys: "Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78551
 
 <a id="claim-t-82057"></a>
-- t-001
+- t-006
   teiginys: "Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78549
 
 <a id="claim-t-82058"></a>
-- t-010
+- t-007
   teiginys: "Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-166346
 
 <a id="claim-t-82059"></a>
-- t-004
+- t-008
   teiginys: "Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +144,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78552
-- susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131656|diarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
-- susijęs iš Lietuva: Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.
+
 ## Citatos
 
 - id: c-78549
@@ -167,7 +166,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-78550
   redaktorius: "A. Šapoka"
@@ -186,7 +185,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-78551
   autorius: "Michał Baliński"
@@ -213,8 +212,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-005
-    - t-008
 
 - id: c-78552
   autorius: "Michał Baliński"
@@ -235,8 +234,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-004
+    - t-008
 
 - id: c-78553
   redaktorius: "A. Šapoka"
@@ -256,7 +255,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-78554
   autorius: "Michał Baliński"
@@ -277,7 +276,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-166346
   redaktorius: "A. Šapoka"
@@ -295,4 +294,4 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007

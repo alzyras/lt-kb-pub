@@ -32,7 +32,7 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
 <a id="claim-t-189270"></a>
 - t-001
   teiginys: "Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį globojusią ir nuo gaisrų saugojusią deivę."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

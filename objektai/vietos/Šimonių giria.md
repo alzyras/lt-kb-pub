@@ -38,7 +38,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 ## Teiginiai
 
 <a id="claim-t-42376"></a>
-- t-002
+- t-001
   teiginys: "1949 m. lapkričio 1-2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - c-44090
 
 <a id="claim-t-42377"></a>
-- t-003
+- t-002
   teiginys: "Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - c-45469
 
 <a id="claim-t-42378"></a>
-- t-001
+- t-003
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45469
   sudarytojas: "Karolis Zikaras"
@@ -142,7 +142,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-45470
   sudarytojas: "Karolis Zikaras"
@@ -162,7 +162,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-167204
   sudarytojas: "Karolis Zikaras"

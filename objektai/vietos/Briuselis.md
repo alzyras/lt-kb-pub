@@ -39,7 +39,7 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 ## Teiginiai
 
 <a id="claim-t-170309"></a>
-- t-010
+- t-001
   teiginys: "Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,15 +56,7 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas apie Briuselį."
   pagrindžia:
     - c-154979
-- susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74105|Europos Parlamentas]]: Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų.
-- susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74106|Europos Parlamentas]]: Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų.
-- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74109|Europos Sąjunga]]: Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.
-- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74116|Europos Sąjunga]]: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš Stojimo į Europos Sąjungą sutartis: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė stojimo į Europos Sąjungą sutartį.
-- susijęs iš Atėnai: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
-- susijęs iš Ignalinos atominė elektrinė: Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.
+
 ## Citatos
 
 - id: c-154979
@@ -89,4 +81,4 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001

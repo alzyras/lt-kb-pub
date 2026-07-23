@@ -31,7 +31,7 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
 ## Teiginiai
 
 <a id="claim-t-187299"></a>
-- t-003
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -49,7 +49,7 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
     - c-170341
 
 <a id="claim-t-193425"></a>
-- t-005
+- t-002
   teiginys: "Užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir dalį Seversko, Algirdas išplėtė lietuvių valdų ribas ligi Putivlio."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -60,15 +60,7 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176147
-- susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
-- susijęs iš Perejeslavlis: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
-- susijęs iš Volynė: Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
-- susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
-- susijęs iš Juodoji jūra: Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.
-- susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
-- susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
-- susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
-- susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -114,7 +106,6 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170341
@@ -137,7 +128,7 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-176147
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -161,4 +152,4 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

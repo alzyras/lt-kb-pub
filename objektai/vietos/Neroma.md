@@ -68,8 +68,7 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175596
-- susijęs iš [[objektai/zodynas/Neromus.md#claim-t-192227|Neromus]]: Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“.
-- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta.
+
 ## Citatos
 
 - id: c-175595

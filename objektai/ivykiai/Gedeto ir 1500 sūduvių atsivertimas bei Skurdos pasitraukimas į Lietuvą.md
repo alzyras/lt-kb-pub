@@ -8,15 +8,15 @@ datos:
   - '1500 m.'
 date_start: '1283'
 date_end: '1500'
-amziai:
-  - 'XIII'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - krikštas
   - šeima
+amziai:
+  - 'XIII'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196942"></a>
-- t-004
+- t-001
   teiginys: "Prasideda karas su lietuviais 1283 viešpaties metais, kai nuo karų su prūsų gentimis pradžios prabėgo jau 53 metai ir visos šios žemės giminės [nationes] jau buvo nukariautos ir išvaikytos, žodžiu, kai čia nebeliko nė vieno, kuris nebūtų nuolankiai paklusęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,11 +82,13 @@ Nenurodyta
     ordino broliai šitaip pradėjo karą su ta galinga, kietasprande ir kariauti pratusia tauta,
     kuri gyveno Prūsijos žemės kaimynystėje, anapus Nemuno, Lietuvos žemėje.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-001
+    - t-002
+    - t-004
 
 ## Citatos
 
@@ -112,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

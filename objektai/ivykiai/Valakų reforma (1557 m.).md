@@ -68,7 +68,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33431
-- susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
+
 ## Citatos
 
 - id: c-33431

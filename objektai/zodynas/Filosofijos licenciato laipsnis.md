@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Filosofijos licenciato laipsnis
 sukurta: '2026-07-12'
 variantai:
-  - 'fil. licenciato'
+  - fil. licenciato
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -61,7 +61,7 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mok
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178016
-- susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
+
 ## Citatos
 
 - id: c-178016

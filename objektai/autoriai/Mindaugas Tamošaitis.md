@@ -41,7 +41,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 ## Teiginiai
 
 <a id="claim-t-26608"></a>
-- t-002
+- t-001
   teiginys: "Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - c-154574
 
 <a id="claim-t-26720"></a>
-- t-004
+- t-002
   teiginys: "Bibliografijoje Tamošaitis M. kartu su Blažyte-Baužiene D. ir Truska L. siejamas su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
   atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - c-154576
 
 <a id="claim-t-169891"></a>
-- t-006
+- t-003
   teiginys: "2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,10 +87,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   temporalinis_llm_pakomentavimas: "Reikia aiškesnio faktinio predikato apie Mindaugo Tamošaičio įrašą leidinyje."
   pagrindžia:
     - c-154576
-- susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
-- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
-- susijęs iš [[objektai/autoriai/Inga Vinogradnaitė.md#claim-t-26473|Inga Vinogradnaitė]]: Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.
-- susijęs iš [[objektai/grupes/Vilniaus universiteto leidykla.md#claim-t-24526|Vilniaus universiteto leidykla]]: Knygą „Lietuvos istorija“ išleido Vilniaus universitetas ir Vilniaus universiteto leidykla.
+
 ## Citatos
 
 - id: c-154574
@@ -134,8 +131,8 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004
 
 - id: c-154575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -194,5 +191,5 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-002
+    - t-003

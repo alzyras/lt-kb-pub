@@ -53,9 +53,7 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir išlaikyti citatoje paremti faktai apie Altrandštatą."
   pagrindžia:
     - c-02571
-- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78950|Augustas II]]: 1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.
-- susijęs iš Altrandštato taika (1706 m.): 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
-- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78950|Augustas II]]: 1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.
+
 ## Citatos
 
 - id: c-02571

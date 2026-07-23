@@ -58,10 +58,7 @@ Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio 
   vertinimo_atnaujinta: "2026-07-19T10:07:01Z"
   pagrindžia:
     - c-185745
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
-- susijęs iš Apvaizdos koplyčia: Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampio plano pastatas su lengvu kupolu.
-- susijęs iš [[objektai/zodynas/atskala.md#claim-t-185348|atskala]]: Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.
+
 ## Citatos
 
 - id: c-185745

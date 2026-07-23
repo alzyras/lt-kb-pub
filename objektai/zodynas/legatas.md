@@ -7,13 +7,13 @@ datos:
   - '1558 m.'
 date_start: '1558'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
   - sąvoka
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 ## Teiginiai
 
 <a id="claim-t-185345"></a>
-- t-002
+- t-001
   teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     - c-168706
 
 <a id="claim-t-185346"></a>
-- t-003
+- t-002
   teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     - c-178652
 
 <a id="claim-t-193459"></a>
-- t-006
+- t-003
   teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     - c-178652
 
 <a id="claim-t-196376"></a>
-- t-007
+- t-004
   teiginys: "Kojelavičiaus pasakojime senatoriai aiškino, kad Maskvos didikai, pasiuntę didžiojo kunigaikščio legatą pas karalių, galėtų sustabdyti kraujo praliejimą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -195,7 +195,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-178652
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -227,6 +227,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-006
-    - t-007
+    - t-004

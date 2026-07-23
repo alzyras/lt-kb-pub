@@ -8,14 +8,14 @@ datos:
   - '1531 m.'
 date_start: '1399'
 date_end: '1531'
-amziai:
-  - 'XIV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
   - daiktas
+amziai:
+  - 'XIV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11542"></a>
-- t-002
+- t-001
   teiginys: "Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -89,7 +89,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-14270
@@ -109,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -35,7 +35,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 ## Teiginiai
 
 <a id="claim-t-83136"></a>
-- t-005
+- t-001
   teiginys: "Dabartinių Lukiškių ir Antakalnio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55437
 
 <a id="claim-t-83137"></a>
-- t-007
+- t-002
   teiginys: "Antakalnio pavadinimas aiškinamas kaip kilęs iš lietuviškų žodžių „ant to kalno“ arba „ant pakalnės“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55436
 
 <a id="claim-t-83138"></a>
-- t-008
+- t-003
   teiginys: "Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55436
 
 <a id="claim-t-83140"></a>
-- t-009
+- t-005
   teiginys: "Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55438
 
 <a id="claim-t-83142"></a>
-- t-010
+- t-007
   teiginys: "Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-79526
 
 <a id="claim-t-83143"></a>
-- t-002
+- t-008
   teiginys: "Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55434
 
 <a id="claim-t-83144"></a>
-- t-003
+- t-009
   teiginys: "Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-55435
 
 <a id="claim-t-188663"></a>
-- t-001
+- t-010
   teiginys: "Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-171552
 
 <a id="claim-t-200771"></a>
-- t-012
+- t-011
   teiginys: "Mikalojus Vorobjovas XIX ir XX a. vilas bei kareivines vertino kaip Antakalnio topografiją darkančius statinius."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-184116
 
 <a id="claim-t-201585"></a>
-- t-013
+- t-012
   teiginys: "Pietuose naujai besikuriantis miestas rėmėsi į Nemuną, o šiaurėje - į pilį ir palei Nerį išsimėčiusias valdovo ir jo vietininkų Kauno seniūnų jurisdikcijoje buvusias žemes, o šiaurės rytų kampe artėjo prie Antakalnio šlaitų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -223,7 +223,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-184932
 
 <a id="claim-t-201586"></a>
-- t-014
+- t-013
   teiginys: "Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėžia kelias į Vilnių (Via versus Vilnam), o ant Antakalnio (Ąžuolų kalno?) matyti kartuvės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -233,55 +233,47 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184933
-- susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172922|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172923|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172924|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172925|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172934|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172939|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172943|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172944|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172882|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172888|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172894|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172898|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172901|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172906|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172910|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172911|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-55160|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.
-- susijęs iš [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje.md#claim-t-81869|Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]: Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.
-- susijęs iš Šv. Petro bažnyčia Antakalnyje: Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.
-- susijęs iš Šv. Petro bažnyčia Antakalnyje: Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.
-- susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-188581|Lizdeika]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
-- susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
-- susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
-- susijęs iš [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas.md#claim-t-86802|Lietuvių kunigaikščių ir bajorų visuotinis seimas]]: Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.
-- susijęs iš [[objektai/paprociai/Iškilmingi festynai su spektakliais, dialogais ir fejerverkais.md#claim-t-200674|Iškilmingi festynai su spektakliais, dialogais ir fejerverkais]]: 1754 m. Vilniuje buvo rengiami pasilinksminimai su spektakliais, dialogais ir ordino fejerverku.
-- susijęs iš [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų.md#claim-t-87232|Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]: Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
-- susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
-- susijęs iš Tygodnik Wilenski: Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje.
-- susijęs iš Lenkija: XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.
-- susijęs iš Lenkija: XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.
-- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
-- susijęs iš Lukiškės: Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.
-- susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Rūdninkai: Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.
-- susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
-- susijęs iš Vilija: Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.
-- susijęs iš Vilnius: Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.
-- susijęs iš Virogorų ežeras: Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.
-- susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
-- susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86441|žiogriai statinių tvoros palisadai]]: Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.
-- susijęs iš [[objektai/paprociai/Iškilmingi festynai su spektakliais, dialogais ir fejerverkais.md#claim-t-200674|Iškilmingi festynai su spektakliais, dialogais ir fejerverkais]]: 1754 m. Vilniuje buvo rengiami pasilinksminimai su spektakliais, dialogais ir ordino fejerverku.
+
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kitaip vadi­
+    nosi Kri uninie -Pradžių Warpu arba Brandžiu - Warpu. Sunku
+    paraidžiui išversti šiuos mitologijos terminus, bet apytikriai
+    reikštų: ašakoti javai, Krūminės varpos. Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-55434
@@ -300,7 +292,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-008
 
 - id: c-55435
   autorius: "Michał Baliński"
@@ -320,7 +312,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-009
 
 - id: c-55436
   autorius: "Michał Baliński"
@@ -350,7 +342,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
     - t-004
 
 - id: c-55437
@@ -374,8 +366,8 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-001
+    - t-003
 
 - id: c-55438
   autorius: "Michał Baliński"
@@ -418,7 +410,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-79527
   autorius: "Michał Baliński"
@@ -439,7 +431,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-171552
   autorius: "Teodoras Narbutas"
@@ -458,7 +450,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-010
 
 - id: c-184116
   autorius: "Mikalojus Vorobjovas"
@@ -477,7 +469,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-184932
   autorius: "Zigmantas Kiaupa"
@@ -497,7 +489,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-184933
   autorius: "Zigmantas Kiaupa"
@@ -513,4 +505,4 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013

@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75342"></a>
-- t-002
+- t-001
   teiginys: "Pasakojime apie prūsų dievų trejybę Pakulas, Perkūnas ir Patrimpas siejami su kultu, kulto tarnų hierarchija ir vaidilutėmis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-22291
 
 <a id="claim-t-75343"></a>
-- t-004
+- t-002
   teiginys: "Prūsų dievų trejybėje Pakulas laikytas požemio, Perkūnas žaibų ir griausmų, o Patrimpas javų dievu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-22291
 
 <a id="claim-t-75344"></a>
-- t-001
+- t-003
   teiginys: "Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-22291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,5 +137,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004

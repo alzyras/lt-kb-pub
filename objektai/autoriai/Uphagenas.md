@@ -78,11 +78,11 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

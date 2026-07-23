@@ -8,13 +8,13 @@ datos:
   - '1810 m.'
 date_start: '1810'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -132,17 +132,28 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175511
-- susijęs iš Dnepras: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais.
-- susijęs iš Gerų kraštas: Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas.
-- susijęs iš Mogiliovas: Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190870|Herodotas]]: Herodotas rašė, kad nuo Dnepro žiočių iki gerų krašto reikia plaukti 40 dienų, o Lelevelis tai siejo su maždaug 4000 stadijų.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190707|Herodotas]]: Herodotas teigė, kad nuo Dnepro žiočių iki Gerų krašto reikia plaukti 40 dienų.
-- susijęs iš Beržūna: Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.
-- susijęs iš Desna: Narbutas manė, kad Herodoto minėta Gero upė turėtų būti dabartinė Desna, o Hipakyrį atitiko Seimo upė.
-- susijęs iš Desna: Narbutas Gero ir Hipakyrio upes tapatino su Desna ir Seimu, kurios, jo aiškinimu, susiliejusios įtekėdavo į Dnepro vagą netoli Kijevo.
-- susijęs iš Kijevas: Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio.
-- susijęs iš Seimo upė: Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto upę jis siejo su dabartine Desna.
+
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Statinio viduje paprastai stovi maži mo­
+    liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­
+    na pavienių dažnai apvalių, išmoningai nušlifuotų papuošalų
+    arba jūros bangų nutrintų akmenukų, kuriems dievobaimingi
+    žmonės priskiria kažkokią šventumo ypatybe5.
+    3 De veteribus Tumulis vulgo Kurhani nuncupatis. Apie tai man
+    pasakojo velionis Mykolas Šulcas, Vilniaus universiteto profeso­
+    rius*.
+    4 Žr. Klimaševskio 1831 metų NoworocznikLitewski (p. 206)**.
+    5 Slaptajame kryžiuočių archyve Karaliaučiuje, krašto retenybių
+    rinkinyje, yra nemažai tokių akmenų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,11 +169,11 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
     nynus, šio krašto vidurys yra Rogačiovas, kurio apylin­
     kėse esama gausiausių pilkapių rinkinių.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 

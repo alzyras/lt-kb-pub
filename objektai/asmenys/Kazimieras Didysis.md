@@ -7,22 +7,21 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1325 m.'
   - '1370 m.'
 date_start: '1325'
 date_end: '1370'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - istorikas
   - karalius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +44,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Teiginiai
 
 <a id="claim-t-184409"></a>
-- t-011
+- t-001
   teiginys: "Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167774
 
 <a id="claim-t-184410"></a>
-- t-004
+- t-002
   teiginys: "1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +99,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167779
 
 <a id="claim-t-184412"></a>
-- t-006
+- t-004
   teiginys: "Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +116,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167781
 
 <a id="claim-t-184413"></a>
-- t-002
+- t-005
   teiginys: "1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +136,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-36414
 
 <a id="claim-t-184414"></a>
-- t-007
+- t-006
   teiginys: "Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -147,7 +146,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167780
 
 <a id="claim-t-184415"></a>
-- t-010
+- t-007
   teiginys: "Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -183,7 +182,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167779
 
 <a id="claim-t-184417"></a>
-- t-013
+- t-009
   teiginys: "Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,7 +201,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167776
 
 <a id="claim-t-184418"></a>
-- t-005
+- t-010
   teiginys: "Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,7 +218,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167781
 
 <a id="claim-t-184419"></a>
-- t-012
+- t-011
   teiginys: "Lenkų istorikas Kochanovskis Lenkijos atsigręžimą į rytus vadino nemirštama Kazimiero Didžiojo politikos idėja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,7 +235,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167778
 
 <a id="claim-t-184420"></a>
-- t-001
+- t-012
   teiginys: "Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -253,7 +252,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167774
 
 <a id="claim-t-184421"></a>
-- t-009
+- t-013
   teiginys: "Kazimiero Didžiojo politika siejo Lenkijos atsigręžimą į rytus su platesniais horizontais rytuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -270,7 +269,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167778
 
 <a id="claim-t-194230"></a>
-- t-015
+- t-014
   teiginys: "Koks Lenkijai bu vo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Se nasis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -280,44 +279,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176828
-- susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
-- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
-    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
-    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
-    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
-    nieku būdu negalima liesti ir keisti ištarmių, daugel
-    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
-    saikomis, antspaudais bei parašais. Podolė atitekusi Len­
-    kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie­
-    tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad
-    ją kadaise užėmė karalius Kazimieras Didysis, iš dalies
-    remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir
-    pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
-    be. Jogaila, vainikuotas karaliumi, Podolę užleidęs Vy­
-    tautui, Švitrigailai ir Žygimantui todėl, kad apskritai
-    mėgęs apdalyti valdomis valstybei nusipelniusius vyrus,
-    489
-
-    ## Puslapis 488
-
-    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
-    ligi jų gyvos galvos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -343,7 +304,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-167774
   autorius: "Michał Baliński"
@@ -370,8 +331,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
     - t-001
+    - t-012
 
 - id: c-167775
   autorius: "Zenonas Ivinskis"
@@ -391,7 +352,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-167776
   sudarytojas: "Karolis Zikaras"
@@ -412,7 +373,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 - id: c-167777
   autorius: "Petras Dusburgietis"
@@ -430,7 +391,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-167778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -452,8 +413,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-009
+    - t-011
+    - t-013
 
 - id: c-167779
   autorius: "Michał Baliński"
@@ -497,7 +458,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-167781
   autorius: "Michał Baliński"
@@ -523,8 +484,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
+    - t-004
+    - t-010
 
 - id: c-176828
   autorius: "Michał Baliński"
@@ -554,7 +515,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]

@@ -45,8 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "Henrikas Vrede gynė Karolis IX (0.75)"
   pagrindžia:
     - c-44343
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79079|Karolis IX]]: Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79077|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.
+
 ## Citatos
 
 - id: c-44343

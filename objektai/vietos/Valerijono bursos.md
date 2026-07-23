@@ -52,18 +52,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis tekstas yra sąrašo fragmentas, todėl perrašytas į pilną faktinį sakinį."
   pagrindžia:
     - c-82226
-- susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55070|Valerijono Bursos studentų bendrija]]: Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės.
-- susijęs iš Valerijono Bursos namo pirkimo raštas: Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
-- susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui.
-- susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana.
-- susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu.
-- susijęs iš Valerijono Bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
-- susijęs iš Valerijono bursa: Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173314|Žygimantas Senasis]]: 1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.
-- susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.
-- susijęs iš [[objektai/zodynas/bursa.md#claim-t-86416|bursa]]: Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.
-- susijęs iš Valerijono Bursos namo pirkimo raštas: Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
+
 ## Citatos
 
 - id: c-82226

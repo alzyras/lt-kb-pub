@@ -61,7 +61,7 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
 ## Teiginiai
 
 <a id="claim-t-200689"></a>
-- t-002
+- t-001
   teiginys: "Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -89,4 +89,4 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
   pagrindzia:
-    - t-002
+    - t-001

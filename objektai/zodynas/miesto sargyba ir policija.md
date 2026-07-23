@@ -53,7 +53,7 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
   temporalinis_llm_pakomentavimas: "Perrašyta, kad veiksnys ir tarinys derėtų ir sakinys būtų sklandesnis."
   pagrindžia:
     - c-82575
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
+
 ## Citatos
 
 - id: c-82575

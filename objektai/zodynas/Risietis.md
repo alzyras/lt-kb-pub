@@ -48,7 +48,7 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172214
-- susijęs iš [[objektai/daiktai/Medžiotojo diržai prie balno risietis.md#claim-t-189689|Medžiotojo diržai prie balno risietis]]: Narbutas rašė, kad lietuviai medžiotojo diržus vadino Risietis ir todėl neturėjo skolintis šio daikto pavadinimo iš svetimos kalbos.
+
 ## Citatos
 
 - id: c-172214

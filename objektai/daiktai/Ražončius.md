@@ -6,7 +6,7 @@ variantai:
   - 'ražončių'
   - 'ražončius'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - simbolis
@@ -83,6 +83,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.

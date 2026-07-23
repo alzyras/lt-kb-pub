@@ -57,9 +57,7 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
   temporalinis_llm_pakomentavimas: "Citata pagrindžia platesnį, bet vis dar glaustą faktą apie tyrimų temą."
   pagrindžia:
     - c-33053
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47897|Rusų ir ukrainiečių istorikai]]: Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47899|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.
+
 ## Citatos
 
 - id: c-33053

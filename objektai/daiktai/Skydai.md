@@ -8,13 +8,13 @@ datos:
   - '1966 m.'
 date_start: '1966'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192052"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad riterių išėjimo į mūšį apraše skydai spindėjo kaip žvaigždės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-174923
 
 <a id="claim-t-192053"></a>
-- t-001
+- t-002
   teiginys: "E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -104,16 +104,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175295
-- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30597|E. Radzvilovaitė]]: E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“.
-- susijęs iš [[objektai/autoriai/J. Stankus.md#claim-t-30701|J. Stankus]]: J. Stankus 1970 m. paskelbė darbą „Geležinių įrankių gamybos technologija Lietuvoje IX-XIII amžiais“.
-- susijęs iš [[objektai/autoriai/V. T. Pašuto.md#claim-t-31046|V. T. Pašuto]]: V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192066|Ietys]]: Narbutas vaizduoja riterių rikiuotę, kurioje visiškai apsiginklavusių karių ietys žibėjo tankiai kaip tendrūnas.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192499|Ietys]]: Vadas įsakė riteriams išeiti iš stovyklos visiškai apsiginklavus, o jų ietys rikiuotėje žibėjo tankiai kaip tendrūnas.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192071|Lankai]]: Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui.
-- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-192503|Lankai]]: Narbuto aprašyme vadas išvedė visiškai apsiginklavusius riterius, o kariuomenės šonuose žygiavo šauliai su lankais, paruoštais smūgiui.
-- susijęs iš [[objektai/daiktai/Šalmai.md#claim-t-193015|Šalmai]]: Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo šalmus, lygintus su tekančios saulės spinduliais.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-192367|Bartai]]: Narbuto pasakojime prūsai ir bartai kitą dieną buvo atsiųsti kaip pagalba priešams.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192445|Prūsai]]: Pasak Teodoro Narbuto pasakojimo, kitą dieną priešams į pagalbą buvo atsiųsti prūsai ir bartai.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -130,7 +121,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174923
@@ -146,7 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174924
   autorius: "Zenonas Ivinskis"
@@ -169,7 +159,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-175295
   autorius: "Teodoras Narbutas"

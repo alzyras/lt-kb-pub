@@ -40,7 +40,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 ## Teiginiai
 
 <a id="claim-t-45926"></a>
-- t-003
+- t-001
   teiginys: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-21547
 
 <a id="claim-t-45927"></a>
-- t-001
+- t-002
   teiginys: "Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-21545
 
 <a id="claim-t-45928"></a>
-- t-002
+- t-003
   teiginys: "Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-21546
 
 <a id="claim-t-45929"></a>
-- t-006
+- t-004
   teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-21549
 
 <a id="claim-t-45930"></a>
-- t-004
+- t-005
   teiginys: "Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-21548
 
 <a id="claim-t-183517"></a>
-- t-007
+- t-006
   teiginys: "Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -138,21 +138,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-166911
-- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75020|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
-- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75021|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
-- susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75794|Czesław Miłosz]]: Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.
-- susijęs iš [[objektai/asmenys/Julius Slovackis.md#claim-t-19011|Julius Slovackis]]: Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
-- susijęs iš [[objektai/asmenys/Česlovas Milošas.md#claim-t-19349|Česlovas Milošas]]: Nobelio premijos laureatas Česlovas Milošas save laikė paskutiniu LDK piliečiu.
-- susijęs iš [[objektai/autoriai/Mickevičius.md#claim-t-05717|Mickevičius]]: Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
-- susijęs iš [[objektai/grupes/Jaunalietuviai.md#claim-t-19718|Jaunalietuviai]]: Jaunalietuviai XIX–XX a. sandūroje pradėjo oponuoti senalietuviams ir po poros dešimtmečių sukūrė Lietuvos Respubliką.
-- susijęs iš [[objektai/grupes/Lietuvos Respublika.md#claim-t-74769|Lietuvos Respublika]]: XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.
-- susijęs iš [[objektai/grupes/Senalietuviai.md#claim-t-20006|Senalietuviai]]: Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.
-- susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduotas LDK herbas Vytis.
-- susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
-- susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75555|istorinė Lietuva]]: XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
-- susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26555|senalietuviai jaunalietuviai]]: XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką.
+
 ## Citatos
 
 - id: c-21545
@@ -173,7 +159,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-21546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -210,7 +196,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-21547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -231,7 +217,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-21548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -250,7 +236,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-21549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -274,7 +260,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-48583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -303,7 +289,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-166911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -320,4 +306,4 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

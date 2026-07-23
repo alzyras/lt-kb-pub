@@ -44,7 +44,7 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44870
-- susijęs iš Šeduva: Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.
+
 ## Citatos
 
 - id: c-44870

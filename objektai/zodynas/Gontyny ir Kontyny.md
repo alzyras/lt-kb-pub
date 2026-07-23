@@ -40,50 +40,10 @@ Slavų vartoti šventyklų pavadinimai; Narbutas aiškina jų kilmę ir atkreipi
 
 Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    pastraipos
-    tęsinys/
-    Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) ar­
-    ba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną gin­
-    čijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo nau­
-    dojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pas­
-    tatas negali būti pavadintas vardu daikto, naudoto statyboje) da­
-    ro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie
-    šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai bū­
-    davo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint
-    ant arklių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- t-192320
-
-## Citatos
-
-- id: c-175124
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių.
-  citata_rodoma: "Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192319"></a>
-- t-002
+- t-001
   teiginys: "Narbutas pažymi, kad dėl Gontyny ir Kontyny pavadinimų kilmės jo laikais tebebuvo ginčijamasi."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -101,7 +61,7 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
     - c-175124
 
 <a id="claim-t-192320"></a>
-- t-001
+- t-002
   teiginys: "Narbutas nurodo, kad slavai šventyklas vadino gontmomis, Gontyny, arba kontinomis, Kontyny."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -117,3 +77,43 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175124
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    pastraipos
+    tęsinys/
+    Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) ar­
+    ba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną gin­
+    čijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo nau­
+    dojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pas­
+    tatas negali būti pavadintas vardu daikto, naudoto statyboje) da­
+    ro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie
+    šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai bū­
+    davo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint
+    ant arklių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+## Citatos
+
+- id: c-175124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių.
+  citata_rodoma: "Žinoma, jog slavai šventyklas vadino gontmomis (Gontyny) arba kontinomis (Kontyny). Dėl šio žodžio kilmės ir šiandieną ginčijamasi. Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t. y. sėdint ant arklių."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002

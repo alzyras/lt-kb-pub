@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62854"></a>
-- t-002
+- t-001
   teiginys: "Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -63,9 +63,9 @@ Nenurodyta
     - c-63690
 
 <a id="claim-t-62855"></a>
-- t-003
+- t-002
   teiginys: "Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas."
-  atnaujinta: "2026-07-19 19:13"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-63692
 
 <a id="claim-t-62856"></a>
-- t-001
+- t-003
   teiginys: "1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,9 +124,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-001
 
 - id: c-63691
   autorius: "Petras Dusburgietis"
@@ -167,4 +167,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

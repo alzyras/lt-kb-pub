@@ -9,19 +9,13 @@ datos:
   - '1182 m.'
 date_start: '1182'
 date_end: ''
-variantai:
-  - 'Daugava'
-  - 'Daugava Dvina'
-aliases:
-  - 'Daugava'
-  - 'Daugava Dvina'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - vieta
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +63,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-10484
 
 <a id="claim-t-195079"></a>
-- t-003
+- t-002
   teiginys: "Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -81,7 +75,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-177465
 
 <a id="claim-t-195080"></a>
-- t-004
+- t-003
   teiginys: "Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -93,7 +87,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-177462
 
 <a id="claim-t-195081"></a>
-- t-005
+- t-004
   teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -108,7 +102,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-177464
 
 <a id="claim-t-195082"></a>
-- t-002
+- t-005
   teiginys: "Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,7 +179,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177463
   autorius: "Michał Baliński"
@@ -214,7 +208,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-177464
   autorius: "Michał Baliński"
@@ -235,7 +229,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-177465
   autorius: "Michał Baliński"
@@ -262,7 +256,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-184404
   autorius: "Simonas Daukantas"

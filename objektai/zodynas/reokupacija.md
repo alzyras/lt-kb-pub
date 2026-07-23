@@ -51,6 +51,7 @@ media_all_json: |-
   citata_rodoma: "iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

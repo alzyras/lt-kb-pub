@@ -54,15 +54,7 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   semantiniai_rysiai: "Sėliai gyveno Dauguva (0.90)"
   pagrindžia:
     - c-46399
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179244|Lietuviai]]: Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179253|Lietuviai]]: Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89348|Žiemgaliai]]: Pietines žiemgalių ir sėlių sritis asimiliavo lietuviai.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89353|Žiemgaliai]]: Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.
-- susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
-- susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
-- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+
 ## Citatos
 
 - id: c-46399

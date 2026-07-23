@@ -11,15 +11,15 @@ datos:
   - '1221 m.'
 date_start: '1221'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -132,8 +132,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-184391
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
-- susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.'
@@ -195,7 +194,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-173009

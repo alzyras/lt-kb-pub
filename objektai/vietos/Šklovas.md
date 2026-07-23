@@ -55,20 +55,7 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-45472
-- susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
-- susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
-- susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41393|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.
-- susijęs iš Mogiliavas: Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
-- susijęs iš Mogiliavas: Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
-- susijęs iš [[objektai/asmenys/Aleksejus Michailovičius.md#claim-t-78940|Aleksejus Michailovičius]]: 1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
-- susijęs iš [[objektai/asmenys/Aleksejus Michailovičius.md#claim-t-78941|Aleksejus Michailovičius]]: Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.
-- susijęs iš [[objektai/asmenys/Jurijus Boratinskis.md#claim-t-40242|Jurijus Boratinskis]]: Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
-- susijęs iš [[objektai/posakiai/„Ivanu“.md#claim-t-78928|„Ivanu“]]: Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.
-- susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
-- susijęs iš Šepelievičiai: 1654 m. rugpjūčio 24 d. J. Radvila patyrė pirmąjį savo pralaimėjimą prie Šepelievičių.
+
 ## Citatos
 
 - id: c-45472

@@ -92,7 +92,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
     - c-175717
 
 <a id="claim-t-197491"></a>
-- t-005
+- t-004
   teiginys: "Savo ruožtu graikų boristeniečių prekybiniai santy kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno Kankinėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,11 +102,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175717
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
-- susijęs iš Skitija: Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190716|Herodotas]]: Teodoro Narbuto manymu, Herodotas keliaudamas po Skitiją turėjo lankytis Kankinėje.
-- susijęs iš Kijevas: Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.'
@@ -201,4 +197,4 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
+    - t-004

@@ -59,7 +59,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
     - c-22159
 
 <a id="claim-t-179550"></a>
-- t-004
+- t-002
   teiginys: "M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,12 +73,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163225
-- susijęs iš [[objektai/autoriai/Jučas, M.md#claim-t-30718|Jučas, M]]: M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
-- susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
-- susijęs iš Krikščionybės įvedimas Lietuvoje: Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.
-- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
-- susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
+
 ## Citatos
 
 - id: c-22159
@@ -116,4 +111,4 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

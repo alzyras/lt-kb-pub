@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-49171"></a>
-- t-008
+- t-001
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-51239
 
 <a id="claim-t-49172"></a>
-- t-005
+- t-002
   teiginys: "1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-11877
 
 <a id="claim-t-49173"></a>
-- t-006
+- t-003
   teiginys: "Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-11879
 
 <a id="claim-t-49174"></a>
-- t-007
+- t-004
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -120,9 +120,7 @@ Nenurodyta
   semantiniai_rysiai: "Kazokai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.84)"
   pagrindžia:
     - c-51239
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
+
 ## Citatos
 
 - id: c-11877
@@ -155,7 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-11879
   sudarytojas: "Karolis Zikaras"
@@ -187,7 +185,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-51239
   sudarytojas: "Karolis Zikaras"
@@ -215,8 +213,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-007
+    - t-001
+    - t-004
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]]

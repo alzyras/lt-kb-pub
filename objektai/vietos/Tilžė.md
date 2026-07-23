@@ -16,14 +16,14 @@ datos:
   - '1923 m.'
 date_start: '1801'
 date_end: '1923'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -135,33 +135,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178886
-- susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
-- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64503|A. Alekna]]: A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.
-- susijęs iš [[objektai/autoriai/Mikšas.md#claim-t-01116|Mikšas]]: Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.
-- susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187803|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: 1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187804|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.
-- susijęs iš [[objektai/ivykiai/Tilžės ir Austerlico kautynės.md#claim-t-189632|Tilžės ir Austerlico kautynės]]: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.
-- susijęs iš Tilžės aktas: Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu.
-- susijęs iš Skalvos žemė: 1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės.
-- susijęs iš Šiauliai: Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.
-- susijęs iš [[objektai/ivykiai/Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas.md#claim-t-189631|Rusijos-Švedijos karas, kuriame dalyvavo T. Narbutas]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare, buvo kontūzytas mūšyje prie Abo miesto ir netrukus apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187805|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto.
-- susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.).md#claim-t-187806|T. Narbuto dalyvavimas Rusijos-Švedijos kare (1808-1809 m.)]]: T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
-- susijęs iš Austerlicas: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
-- susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Kroniszkas-Pilnis: Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Peterburgas: 1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.
-- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
-- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
-- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-104177|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.
-- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-104178|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
@@ -181,7 +155,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-166480

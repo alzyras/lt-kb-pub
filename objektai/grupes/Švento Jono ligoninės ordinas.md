@@ -56,13 +56,7 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   temporalinis_llm_pakomentavimas: "Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį."
   pagrindžia:
     - c-59680
-- susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88537|Cistersų ordinas]]: Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.
-- susijęs iš [[objektai/grupes/Kartūzų ordinas.md#claim-t-63007|Kartūzų ordinas]]: Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89287|Tamplierių ordinas]]: Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89288|Tamplierių ordinas]]: Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-183968|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-62932|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
-- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72082|Joanitų ordinas]]: Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.
+
 ## Citatos
 
 - id: c-59680

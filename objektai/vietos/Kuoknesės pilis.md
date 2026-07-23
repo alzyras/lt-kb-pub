@@ -55,10 +55,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kuoknesės pilies apsuptį ir įgulos laikyseną."
   pagrindžia:
     - c-45161
-- susijęs iš [[objektai/asmenys/Karina Nilsdotter.md#claim-t-40260|Karina Nilsdotter]]: Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.
-- susijęs iš [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas.md#claim-t-79073|Karolis Carlsonas Gyllenhielmas]]: Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79078|Karolis IX]]: Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
+
 ## Citatos
 
 - id: c-45161

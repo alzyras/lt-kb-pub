@@ -30,7 +30,7 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 ## Teiginiai
 
 <a id="claim-t-40384"></a>
-- t-002
+- t-001
   teiginys: "Sužeidus Z. Sierakauską ir mjr. P. Vivulskį, sukilėlių veiksmai pakriko po dviejų valandų atkaklaus pasipriešinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     - c-44484
 
 <a id="claim-t-40385"></a>
-- t-001
+- t-002
   teiginys: "P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44485
   sudarytojas: "Karolis Zikaras"
@@ -112,4 +112,4 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

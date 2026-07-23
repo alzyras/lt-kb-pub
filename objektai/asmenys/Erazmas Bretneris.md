@@ -56,11 +56,7 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Bretnerio testamentą."
   pagrindžia:
     - c-83639
-- susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
-- susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183846|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
-- susijęs iš Akademinės Šv. Jono kolegijos vaistinė: 1546 m. dabartinės Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
-- susijęs iš Šv. Jono gatvė: Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.
+
 ## Citatos
 
 - id: c-83639

@@ -47,7 +47,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 ## Teiginiai
 
 <a id="claim-t-192234"></a>
-- t-003
+- t-001
   teiginys: "Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,7 +66,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175349
 
 <a id="claim-t-192236"></a>
-- t-008
+- t-002
   teiginys: "Teodoras Narbutas naują revoliuciją sieja su hunais, kurie, jo pasakojime, pakeitė tuometinę Europos situaciją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -84,7 +84,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175079
 
 <a id="claim-t-192238"></a>
-- t-004
+- t-003
   teiginys: "Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -103,7 +103,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175349
 
 <a id="claim-t-192239"></a>
-- t-001
+- t-004
   teiginys: "Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -122,7 +122,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175082
 
 <a id="claim-t-192572"></a>
-- t-009
+- t-005
   teiginys: "Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175349
 
 <a id="claim-t-192573"></a>
-- t-010
+- t-006
   teiginys: "Teodoro Narbuto pasakojime nauja hunų į Europą atnešta revoliucija pakeitė situaciją ir leido išvengti pražūties ar gotų vergijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175350
 
 <a id="claim-t-197699"></a>
-- t-011
+- t-007
   teiginys: "Laikui bėgant, kai pastarieji paju dėjo į Vakarus, ta pati revoliucija turėjo priversti ir agatirus išsikelti iš Uždneprės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -173,32 +173,31 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179298
-- susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192283|Žemės revoliucija]]: Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192949|Agatirai]]: T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.
-- susijęs iš [[objektai/grupes/Lietuviškieji bajorai.md#claim-t-200905|Lietuviškieji bajorai]]: Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajorai, ypač Kauno gubernijoje, šaltai žiūrėjo į lenkiškąjį sumanymą.
-- susijęs iš Ravenos geografo veikalas: Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad agatirai, agazirai ar angershirai buvę ta pati Amiano minima gentis.
-- susijęs iš Seniava: Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „Sienas“ ir reiškia senovinį miestą.
-- susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192284|Žemės revoliucija]]: Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą.
+
 ## Reikšmingi paminėjimai
-- c-002
+- c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
-    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
-    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
-    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
-    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
-    mo. O savo gyvenimą tolimame Septynių miestų krašte,
-    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
-    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
-    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
-    gyventi prie Marokos.
+    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
+    ir sudargai kiek pagerino savo reikalus, padidinę karinę
+    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
+    žmonėms. Tuo tarpu Dnepro ir Dunojaus tarpupyje ply­
+    tinčiuose kraštuose prasidėjo itin reikšminga revoliucija,
+    kurią sukėlė hunų antplūdis ir kuri lėmė Europoje daug
+    284
+
+    ## Puslapis 295
+
+    pokyčių. Bet, nenorėdami pažeisti mūsų pasakojimų chro­
+    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
+    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192238
+  statusas: verified
+- t-001
+
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -210,13 +209,18 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     nai ir antropofagai. Vėliau juos pavergė alanai išvien su
     gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
     dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
-    tirus išsikelti iš Uždneprės.
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192239
+  statusas: verified
+- t-006
 
 ## Citatos
 
@@ -239,7 +243,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-175080
   autorius: "Teodoras Narbutas"
@@ -257,9 +261,9 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-004
-    - t-009
+    - t-005
 
 - id: c-175082
   autorius: "Teodoras Narbutas"
@@ -277,7 +281,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-175349
   autorius: "Teodoras Narbutas"
@@ -301,9 +305,9 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-004
-    - t-009
+    - t-005
 
 - id: c-175350
   autorius: "Teodoras Narbutas"
@@ -330,7 +334,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-179298
   autorius: "Teodoras Narbutas"
@@ -352,4 +356,4 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007

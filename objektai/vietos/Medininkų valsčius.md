@@ -9,8 +9,6 @@ datos:
   - '1316 m.'
 date_start: '1314'
 date_end: '1316'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +16,8 @@ tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 ## Teiginiai
 
 <a id="claim-t-58353"></a>
-- t-003
+- t-001
   teiginys: "Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-58985
 
 <a id="claim-t-58354"></a>
-- t-005
+- t-002
   teiginys: "1316 m. Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-58986
 
 <a id="claim-t-58355"></a>
-- t-001
+- t-003
   teiginys: "1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-58987
 
 <a id="claim-t-58357"></a>
-- t-002
+- t-005
   teiginys: "1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-58988
 
 <a id="claim-t-185046"></a>
-- t-007
+- t-006
   teiginys: "1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-168407
 
 <a id="claim-t-194541"></a>
-- t-008
+- t-007
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-58988
 
 <a id="claim-t-196719"></a>
-- t-009
+- t-008
   teiginys: "1316 m., po Christmemelio įgulos sunaikinimo, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
     - c-168407
 
 <a id="claim-t-196720"></a>
-- t-010
+- t-009
   teiginys: "Apie rugpjūčio 1 d. kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir siuntė būrius naikinti prinokusių javų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-58985
@@ -249,7 +248,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-58986
   autorius: "Petras Dusburgietis"
@@ -271,7 +270,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-58987
   autorius: "Petras Dusburgietis"
@@ -293,7 +292,7 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
     - t-004
 
 - id: c-58988
@@ -317,8 +316,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-008
+    - t-005
+    - t-007
 
 - id: c-58989
   autorius: "Petras Dusburgietis"
@@ -362,8 +361,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-009
+    - t-006
+    - t-008
 
 - id: c-178865
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -389,4 +388,4 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009

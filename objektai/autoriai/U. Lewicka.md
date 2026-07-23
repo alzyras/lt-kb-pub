@@ -53,8 +53,7 @@ Lewicka ir J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33162
-- susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
-- susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
+
 ## Citatos
 
 - id: c-33162

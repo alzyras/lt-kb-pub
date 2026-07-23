@@ -49,8 +49,3 @@ Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190877|Herodotas]]: Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190715|Herodotas]]: Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr.

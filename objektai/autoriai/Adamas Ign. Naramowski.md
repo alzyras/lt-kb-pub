@@ -38,7 +38,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 ## Teiginiai
 
 <a id="claim-t-54630"></a>
-- t-002
+- t-001
   teiginys: "Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::authors"
@@ -54,7 +54,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     - c-55539
 
 <a id="claim-t-54631"></a>
-- t-001
+- t-002
   teiginys: "Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“."
   atnaujinta: "2026-05-27 05:25"
   sprendimo_priezastis: "gap::authors"
@@ -70,7 +70,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55538
-- susijęs iš [[objektai/autoriai/Petras Kojelavičius.md#claim-t-88013|Petras Kojelavičius]]: Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.
+
 ## Citatos
 
 - id: c-55538
@@ -90,7 +90,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-55539
   autorius: "Michał Baliński"
@@ -114,4 +114,4 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179491"></a>
-- t-002
+- t-001
   teiginys: "Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-163190
 
 <a id="claim-t-179493"></a>
-- t-001
+- t-002
   teiginys: "Po Aizkrauklės kautynių riterių vėliava atiteko pagonims."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-163190
   autorius: "Zenonas Ivinskis"
@@ -123,4 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

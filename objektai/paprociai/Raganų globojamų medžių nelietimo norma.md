@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194815"></a>
-- t-002
+- t-001
   teiginys: "Kiekviena ragana turėjo savo medį, kurį globojo stengda masi padalyti viską, kad jis būtų sveikas ir augtų."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -100,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

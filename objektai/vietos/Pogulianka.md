@@ -44,10 +44,7 @@ Stepono bažnyčios ir Poguliankos rajonų.
   semantiniai_rysiai: "Leontijus Bennigsenas puolė Lietuviai (0.90)"
   pagrindžia:
     - c-40333
-- susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
-- susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
-- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
-- susijęs iš [[objektai/asmenys/Leontijus Bennigsenas.md#claim-t-40305|Leontijus Bennigsenas]]: Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
+
 ## Citatos
 
 - id: c-40333

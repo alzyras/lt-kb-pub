@@ -41,7 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185704"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Nenurodyta
     - c-169065
 
 <a id="claim-t-196161"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičiaus pasakojime italai Lietuvą užėmė ne ginklu, o sumanumu ir būdo meilumu, lietuviams pradėjus juos gerbti."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-169065
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -118,4 +118,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

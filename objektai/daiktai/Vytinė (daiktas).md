@@ -13,10 +13,10 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių.
+Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių. Jonas Kojalavičius prekiavo druska ir geležimi bei turėjo vytinių, kuriomis plukdė savo ir kitų asmenų prekes, iš to pasipelnydamas.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -77,9 +77,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185691
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

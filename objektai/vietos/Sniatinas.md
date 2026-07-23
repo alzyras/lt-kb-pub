@@ -51,8 +51,3 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.

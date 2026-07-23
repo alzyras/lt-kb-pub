@@ -45,12 +45,7 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   semantiniai_rysiai: "Panevėžio rinktinė užėmė Troškūnai (0.95); Panevėžio rinktinė užėmė Subačius (0.95)"
   pagrindžia:
     - c-45369
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
-- susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38892|Panevėžio rinktinė]]: Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.
-- susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38892|Panevėžio rinktinė]]: Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
-- susijęs iš [[objektai/grupes/MVD.md#claim-t-41083|MVD]]: Troškūnų ir Kauno MVD bei MGB įstaigose kai kurie pareigūnai buvo užverbuoti partizanų informatoriais.
-- susijęs iš Subačius: Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių.
+
 ## Citatos
 
 - id: c-45369

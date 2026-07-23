@@ -49,6 +49,7 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
   citata_rodoma: "likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

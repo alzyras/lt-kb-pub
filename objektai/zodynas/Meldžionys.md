@@ -40,7 +40,7 @@ Vartojamos formos: `meldžionis`.
 ## Teiginiai
 
 <a id="claim-t-07679"></a>
-- t-003
+- t-001
   teiginys: "Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -56,7 +56,7 @@ Vartojamos formos: `meldžionis`.
     - c-09610
 
 <a id="claim-t-200953"></a>
-- t-005
+- t-002
   teiginys: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Vartojamos formos: `meldžionis`.
     - c-184303
 
 <a id="claim-t-200954"></a>
-- t-006
+- t-003
   teiginys: "Kujavijos, lygiai su meldžionimis atėjusiaisiais skubinai persikėlė per Yslą į Pamariją, kurią, gieždamas apmaudą, nuteriojo nuo vieno krašto iki antro, grobį griedamas; ką vien rado, tai yra: javus, gyvolius, ėmė šalin, tro besius nudegino, varydamas būriais."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Vartojamos formos: `meldžionis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-184303
   autorius: "Simonas Daukantas"
@@ -123,7 +123,7 @@ Vartojamos formos: `meldžionis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-184304
   autorius: "Simonas Daukantas"
@@ -151,4 +151,4 @@ Vartojamos formos: `meldžionis`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

@@ -7,15 +7,15 @@ datos:
   - '1795 m.'
 date_start: '1795'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - autorius
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -67,7 +67,6 @@ Davies N.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-20728

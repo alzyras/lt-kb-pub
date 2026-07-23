@@ -30,7 +30,7 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
 ## Teiginiai
 
 <a id="claim-t-72654"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
     - c-71048
 
 <a id="claim-t-72655"></a>
-- t-001
+- t-002
   teiginys: "Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,5 +83,5 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

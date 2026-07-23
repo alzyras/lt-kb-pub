@@ -65,7 +65,7 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
     - c-175054
 
 <a id="claim-t-192582"></a>
-- t-003
+- t-002
   teiginys: "Žiemos kinkinys Narbuto aprašyme leido žiemą keliauti didesnių upių ir kitų vandens kelių kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -154,4 +154,4 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

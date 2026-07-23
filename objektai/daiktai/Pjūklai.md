@@ -65,9 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Vengrai puolė Kulmas (0.90)"
   pagrindžia:
     - c-60333
-- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
-- susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Per antrąją Smolensko apgultį maskvėnai pabūklais sugriovė didelę gynybinės sienos dalį, bet gynėjai per naktį užtaisė sienų plyšius rąstais.
-- susijęs iš Mstislavlis: Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.
+
 ## Citatos
 
 - id: c-60333

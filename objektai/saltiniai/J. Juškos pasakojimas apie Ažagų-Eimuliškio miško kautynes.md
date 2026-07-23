@@ -45,7 +45,7 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 ## Teiginiai
 
 <a id="claim-t-67411"></a>
-- t-004
+- t-001
   teiginys: "J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
     - c-43255
 
 <a id="claim-t-67412"></a>
-- t-003
+- t-002
   teiginys: "J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-43255
   sudarytojas: "Karolis Zikaras"
@@ -140,4 +140,4 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

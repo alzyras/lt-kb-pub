@@ -9,12 +9,12 @@ datos:
   - '1528 m.'
 date_start: '1503'
 date_end: '1528'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

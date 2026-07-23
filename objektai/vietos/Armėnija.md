@@ -44,14 +44,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59391
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
-- susijęs iš Istachrio Abu Izaoko al Farisi žemėlapiai: Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ.
-- susijęs iš Araksas: Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno.
-- susijęs iš [[objektai/asmenys/Istachris Abu Izaokas al Farisi.md#claim-t-191421|Istachris Abu Izaokas al Farisi]]: Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius.
-- susijęs iš [[objektai/asmenys/Kruzė.md#claim-t-191436|Kruzė]]: Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko ai Farisi nubraižytų geografijos žemėlapių.
-- susijęs iš [[objektai/autoriai/Istachris Abu Izaokas ai Farisi.md#claim-t-191646|Istachris Abu Izaokas ai Farisi]]: Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 907-912 m. ir nubraižė Gotos bibliotekoje rastus žemėlapius.
-- susijęs iš [[objektai/autoriai/Kruzė.md#claim-t-191678|Kruzė]]: Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius.
-- susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
+
 ## Citatos
 
 - id: c-59391

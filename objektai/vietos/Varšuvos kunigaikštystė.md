@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77419"></a>
-- t-004
+- t-001
   teiginys: "Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai."
   atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-74824
 
 <a id="claim-t-77420"></a>
-- t-001
+- t-002
   teiginys: "1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ media_all_json: |-
     - c-74824
 
 <a id="claim-t-77422"></a>
-- t-002
+- t-004
   teiginys: "Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24543
-- susijęs iš Napoleono kodeksas: 1807 m. Varšuvos kunigaikštystė buvo Napoleono globojama valstybė, kurioje įvestas civilinis Napoleono kodeksas.
+
 ## Citatos
 
 - id: c-24542
@@ -121,8 +121,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-001
+    - t-002
 
 - id: c-24543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -143,7 +143,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-74824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -164,5 +164,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-003

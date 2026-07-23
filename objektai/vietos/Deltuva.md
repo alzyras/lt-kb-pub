@@ -37,7 +37,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 ## Teiginiai
 
 <a id="claim-t-121296"></a>
-- t-002
+- t-001
   teiginys: "Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
     - c-111138
 
 <a id="claim-t-188684"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -72,25 +72,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171573
-- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188593|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190642|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.
-- susijęs iš [[objektai/daiktai/Kukovaičio stabas prie Deltuvos.md#claim-t-189765|Kukovaičio stabas prie Deltuvos]]: Narbutas, remdamasis Strijkovskiu, rašo, kad Kukovaičio stabas prie Deltuvos stovėjo ant kalno, buvo medinis ir milžino išvaizdos.
-- susijęs iš [[objektai/daiktai/Kukovaičio stabas.md#claim-t-189712|Kukovaičio stabas]]: Narbutas, remdamasis Strijkovskiu, Kukovaičio stabą apibūdina kaip ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos atvaizdą.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
-- susijęs iš Deltuvos kalnas: Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas.
-- susijęs iš Kukovaičio kalnas: Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo palaidotas lietuvių kunigaikštis Kukovaitis.
-- susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
-- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
-- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
-- susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
-- susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
-- susijęs iš [[objektai/daiktai/Laužas.md#claim-t-186856|Laužas]]: Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.
-- susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71755|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.
-- susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
-- susijęs iš Nalšėnai: Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
-- susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
+
 ## Citatos
 
 - id: c-111138
@@ -111,7 +93,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171573
   autorius: "Teodoras Narbutas"
@@ -136,7 +118,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]

@@ -37,7 +37,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 ## Teiginiai
 
 <a id="claim-t-101611"></a>
-- t-003
+- t-001
   teiginys: "1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-25015
 
 <a id="claim-t-101612"></a>
-- t-005
+- t-002
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-25016
 
 <a id="claim-t-101613"></a>
-- t-002
+- t-003
   teiginys: "Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-25014
 
 <a id="claim-t-101614"></a>
-- t-001
+- t-004
   teiginys: "Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-166872
 
 <a id="claim-t-183477"></a>
-- t-006
+- t-005
   teiginys: "Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-166872
 
 <a id="claim-t-183478"></a>
-- t-007
+- t-006
   teiginys: "1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-25015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -212,7 +212,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-25016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -234,7 +234,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-166872
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -258,8 +258,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
+    - t-004
+    - t-005
 
 - id: c-166873
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -282,4 +282,4 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

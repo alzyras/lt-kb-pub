@@ -82,12 +82,7 @@ media_all_json: |-
   semantiniai_rysiai: "Lenkai užėmė Pagiriai (0.88); Lietuviai puolė Lenkai (0.70)"
   pagrindžia:
     - c-45252
-- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
-- susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
-- susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
-- susijęs iš [[objektai/grupes/ojo pėstininkų pulko I batalionas.md#claim-t-80648|ojo pėstininkų pulko I batalionas]]: 2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.
-- susijęs iš [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu.md#claim-t-71806|Kariuomenės sutikimas papuoštu vieškeliu]]: Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais.
-- susijęs iš [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu.md#claim-t-71808|Kariuomenės sutikimas papuoštu vieškeliu]]: Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.
+
 ## Citatos
 
 - id: c-45251

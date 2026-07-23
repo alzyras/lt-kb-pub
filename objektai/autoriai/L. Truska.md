@@ -56,10 +56,7 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33016
-- susijęs iš [[objektai/autoriai/Blažytė-Baužienė D.md#claim-t-19385|Blažytė-Baužienė D]]: D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska parašė veikalą „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
-- susijęs iš [[objektai/autoriai/Tamošaitis M.md#claim-t-19482|Tamošaitis M]]: M. Tamošaitis kartu su D. Blažyte-Baužiene ir L. Truska parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
-- susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19483|Truska L]]: L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.
-- susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19484|Truska L]]: L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
+
 ## Citatos
 
 - id: c-33016

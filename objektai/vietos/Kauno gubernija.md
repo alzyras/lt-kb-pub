@@ -41,7 +41,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 ## Teiginiai
 
 <a id="claim-t-170421"></a>
-- t-022
+- t-001
   teiginys: "Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155075
 
 <a id="claim-t-170422"></a>
-- t-024
+- t-002
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155074
 
 <a id="claim-t-170423"></a>
-- t-021
+- t-003
   teiginys: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     - c-155076
 
 <a id="claim-t-170425"></a>
-- t-023
+- t-004
   teiginys: "1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-004
 
 - id: c-155074
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -212,7 +212,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-002
 
 - id: c-155075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -232,7 +232,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-001
 
 - id: c-155076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -257,4 +257,4 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-003

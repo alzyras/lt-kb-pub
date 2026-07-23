@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
   temporalinis_llm_pakomentavimas: "Citata pagrindžia etimologinį teiginį; pradinis tekstas turi antraštės ir OCR triukšmo."
   pagrindžia:
     - c-61006
-- susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
+
 ## Citatos
 
 - id: c-61006

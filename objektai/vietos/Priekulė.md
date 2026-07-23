@@ -54,8 +54,7 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir pašalina sąrašo numeravimo triukšmą."
   pagrindžia:
     - c-45283
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
+
 ## Citatos
 
 - id: c-45283

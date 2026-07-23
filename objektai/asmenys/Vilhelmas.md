@@ -36,7 +36,7 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Teiginiai
 
 <a id="claim-t-51186"></a>
-- t-002
+- t-001
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-36533
 
 <a id="claim-t-51187"></a>
-- t-001
+- t-002
   teiginys: "Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -107,17 +107,7 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184396
-- susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Sabinos kardinolas).md#claim-t-60221|Vilhelmas (Sabinos kardinolas)]]: Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.
-- susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
-- susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60077|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: 1243 m. liepos mėn. Vilhelmas iš Modenos padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes.
-- susijęs iš [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.).md#claim-t-66951|Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]: Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse.
-- susijęs iš [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.).md#claim-t-66952|Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]: 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59971|Henrikas iš Hohenlohės]]: Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.
-- susijęs iš [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą.md#claim-t-87290|Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]: Vytautas visame krašte uždėjo didžiulius mokesčius bajorams, miestiečiams ir prastuomenei pagal kiekvieno turto pajėgumą.
-- susijęs iš Prūsų žemė: Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.
-- susijęs iš [[objektai/zodynas/bažnytinė valstybė.md#claim-t-32762|bažnytinė valstybė]]: Vicelegatas Baldvinas de Alna 1231-1234 m. nepajėgė Livonijoje įkurti bažnytinės valstybės dėl kalavijuočių pasipriešinimo.
+
 ## Citatos
 
 - id: c-36533
@@ -143,8 +133,8 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-184394
   autorius: "Simonas Daukantas"

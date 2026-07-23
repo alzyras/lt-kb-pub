@@ -68,11 +68,7 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174049
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-192461|Skitai]]: Narbutas rašė, kad Šiaurės tautų sagos skandinavų protėvių atvykimą siejo su Skitijos puse ir Odino vadovavimu.
-- susijęs iš [[objektai/grupes/Keltai.md#claim-t-192985|Keltai]]: Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192456|Skandinavai]]: Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192459|Skandinavai]]: Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai.
+
 ## Citatos
 
 - id: c-174048

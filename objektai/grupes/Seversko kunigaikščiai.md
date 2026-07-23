@@ -30,7 +30,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
 ## Teiginiai
 
 <a id="claim-t-185437"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
     - c-168798
 
 <a id="claim-t-193339"></a>
-- t-003
+- t-002
   teiginys: "Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178543
-- susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai.'
@@ -93,7 +93,6 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168798
@@ -121,7 +120,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176067
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -183,7 +182,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Seversko kunigaikščiai gyveno [[objektai/vietos/Seversko Naugardas]]

@@ -57,6 +57,7 @@ Trumpa žemdirbių formulė apie perdirbtą žemę.
   citata_rodoma: "Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

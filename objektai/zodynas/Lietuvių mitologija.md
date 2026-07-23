@@ -51,7 +51,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
     - c-172045
 
 <a id="claim-t-197372"></a>
-- t-003
+- t-002
   teiginys: "Lietuvių mitologija, sukurta iš graikų, nebeturi tos laukinės ir barbariškos fantazijos, su kuria pa prastai susiduriama kitose šiaurės tautose, tad ją turėjo išru tulioti žmonės, užkopę ant aukštesnio civilizacijos laipto."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -61,12 +61,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179153
-- susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
-- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-187830|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.
-- susijęs iš Lituanistinis sąjūdis XIX a. pradžioje: XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.
-- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190352|Homeras]]: Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.
-- susijęs iš [[objektai/autoriai/Kamerotos vyskupas Petras.md#claim-t-190304|Kamerotos vyskupas Petras]]: Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.
-- susijęs iš [[objektai/zodynas/Pramžimas.md#claim-t-189133|Pramžimas]]: Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio dievu, valdžiusiu žmonių, pasaulio ir dievų likimus.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.'
@@ -146,4 +141,4 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

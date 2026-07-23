@@ -65,11 +65,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata palaiko trumpesnį teiginį apie Röselį, o ne visą pilių sąrašą."
   pagrindžia:
     - c-02973
-- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
+
 ## Citatos
 
 - id: c-02973

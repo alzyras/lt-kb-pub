@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87460"></a>
-- t-002
+- t-001
   teiginys: "Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-83440
 
 <a id="claim-t-87461"></a>
-- t-001
+- t-002
   teiginys: "Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,13 +62,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83439
-- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.
-- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
-- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.
-- susijęs iš [[objektai/zodynas/cechas contubernium.md#claim-t-86462|cechas contubernium]]: Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.
-- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
-- susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
-- susijęs iš [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė.md#claim-t-86519|civilinė teisė ir pasaulietinė civilinė teisė]]: Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.
+
 ## Citatos
 
 - id: c-83439
@@ -96,7 +90,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83440
   autorius: "Michał Baliński"
@@ -123,4 +117,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

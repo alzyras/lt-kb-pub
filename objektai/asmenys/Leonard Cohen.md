@@ -58,8 +58,3 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Anthony Kiedis.md#claim-t-78044|Anthony Kiedis]]: Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.
-- susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18855|Bob Dylan]]: Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.

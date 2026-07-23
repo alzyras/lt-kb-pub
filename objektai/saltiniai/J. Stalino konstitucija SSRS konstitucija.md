@@ -37,7 +37,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 ## Teiginiai
 
 <a id="claim-t-21070"></a>
-- t-002
+- t-001
   teiginys: "Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     - c-23785
 
 <a id="claim-t-21071"></a>
-- t-001
+- t-002
   teiginys: "Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-23785
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -112,4 +112,4 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

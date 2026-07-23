@@ -44,44 +44,6 @@ Mitologinis ir aiškinamasis terminas; ribinis kandidatas tarp dievavardžio ir 
 
 Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su aiškinamąja formule, todėl laikytinas žodyno kandidatu.
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    61 *
-    Naujieji slavų senienų tyrinėtojai, kurių priekyje sto­
-    vi Maksimilijonas Osolinskis, budinus priskiria prie sla­
-    vų tautų. Jų įrodymai, paremti vien hipotezėmis, prielai­
-    domis, nepagrįstomis jokiu istoriniu faktu, neverti nei
-    diskusijos, nei pernelyg didelio pasitikėjimo, todėl turėtų
-    būti palikti kiekvieno nuožiūrai, ypač to, kuris moka ir
-    slavų kalbas, ir lietuvių kalbą, nes teiginio esmė glūdi
-    lingvistiniame tos tautos vardo panašume, žodžiuose, ras­
-    tuose vienoje ar kitoje kalboje.
-    Budtė — išminties, proto deivė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-175035
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Budtė — išminties, proto deivė.
-  citata_rodoma: "Budtė — išminties, proto deivė."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-192155"></a>
@@ -100,3 +62,44 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175035
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    61 *
+    Naujieji slavų senienų tyrinėtojai, kurių priekyje sto­
+    vi Maksimilijonas Osolinskis, budinus priskiria prie sla­
+    vų tautų. Jų įrodymai, paremti vien hipotezėmis, prielai­
+    domis, nepagrįstomis jokiu istoriniu faktu, neverti nei
+    diskusijos, nei pernelyg didelio pasitikėjimo, todėl turėtų
+    būti palikti kiekvieno nuožiūrai, ypač to, kuris moka ir
+    slavų kalbas, ir lietuvių kalbą, nes teiginio esmė glūdi
+    lingvistiniame tos tautos vardo panašume, žodžiuose, ras­
+    tuose vienoje ar kitoje kalboje.
+    Budtė — išminties, proto deivė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-003
+    - t-004
+
+## Citatos
+
+- id: c-175035
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Budtė — išminties, proto deivė.
+  citata_rodoma: "Budtė — išminties, proto deivė."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

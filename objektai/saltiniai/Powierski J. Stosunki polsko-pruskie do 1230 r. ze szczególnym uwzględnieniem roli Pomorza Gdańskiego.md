@@ -8,13 +8,13 @@ datos:
   - '1968 m.'
 date_start: '1230'
 date_end: '1968'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,11 +63,10 @@ Dusburgietis teigia, kad powierski J.
     Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli
     Pomorza Gdańskiego.—Toruń, 1968.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61878

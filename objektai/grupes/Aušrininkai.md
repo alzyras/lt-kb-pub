@@ -31,7 +31,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 ## Teiginiai
 
 <a id="claim-t-05242"></a>
-- t-002
+- t-001
   teiginys: "Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77430
 
 <a id="claim-t-80793"></a>
-- t-006
+- t-002
   teiginys: "Aušrininkai plačiai naudojosi M. Balinskio ir J. I. Kraševskio kūrybiniu palikimu apie Vilniaus ir urbanistinės Lietuvos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77432
 
 <a id="claim-t-80794"></a>
-- t-005
+- t-003
   teiginys: "Aušrininkai plačiai naudojo Vilniaus ir urbanistinės Lietuvos istorijos ištakose stovėjusių asmenybių kūrybinį palikimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77432
 
 <a id="claim-t-80795"></a>
-- t-003
+- t-004
   teiginys: "Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77430
 
 <a id="claim-t-80796"></a>
-- t-004
+- t-005
   teiginys: "Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -109,13 +109,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-77430
-- susijęs iš [[objektai/grupes/Aušrininkų organizacija.md#claim-t-72033|Aušrininkų organizacija]]: Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“.
-- susijęs iš [[objektai/grupes/Aušrininkų organizacija.md#claim-t-72034|Aušrininkų organizacija]]: Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“.
-- susijęs iš Aušrinė: Iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinė“, vėliau atsirado socialistiškos pakraipos aušrininkų organizacija.
-- susijęs iš [[objektai/asmenys/Jonas Spudulis.md#claim-t-188041|Jonas Spudulis]]: Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę.
-- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
-- susijęs iš Lietuva: 1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.
-- susijęs iš Lietuva: Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie tuvos palikimą.
+
 ## Citatos
 
 - id: c-77430
@@ -140,9 +134,9 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
+    - t-001
     - t-004
+    - t-005
 
 - id: c-77432
   autorius: "Michał Baliński"
@@ -166,5 +160,5 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
+    - t-002
+    - t-003

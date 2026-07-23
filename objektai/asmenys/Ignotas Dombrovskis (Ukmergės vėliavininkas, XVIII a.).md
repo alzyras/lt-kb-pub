@@ -29,7 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200496"></a>
-- t-002
+- t-001
   teiginys: "1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-183861
 
 <a id="claim-t-200497"></a>
-- t-001
+- t-002
   teiginys: "Ignotas Dombrovskis buvo Ukmergės vėliavininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -74,5 +74,5 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

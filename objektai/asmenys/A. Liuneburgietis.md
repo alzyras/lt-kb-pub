@@ -44,7 +44,7 @@ Liuneburgietis.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41500
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10278|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.
+
 ## Citatos
 
 - id: c-41500

@@ -51,9 +51,7 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175654
-- susijęs iš [[objektai/asmenys/Skilakas.md#claim-t-191356|Skilakas]]: Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kurių pats šiame skyriuje toliau nenagrinėjo.
-- susijęs iš [[objektai/autoriai/Skilakas.md#claim-t-191591|Skilakas]]: Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pats apie juos toliau nekalbės.
-- susijęs iš Kaspija: Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos.
+
 ## Citatos
 
 - id: c-175654

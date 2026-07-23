@@ -8,15 +8,15 @@ datos:
   - '1190 m.'
 date_start: '1190'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorikas
   - asmuo
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -246,7 +246,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172980

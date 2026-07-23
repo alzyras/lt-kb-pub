@@ -55,6 +55,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   citata_rodoma: "kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

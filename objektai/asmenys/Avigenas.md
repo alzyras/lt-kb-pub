@@ -47,8 +47,7 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169457
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184514|Kuršiai]]: Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184592|Žemaičiai]]: Staigi grėsmė išjudino kuršius, žemaičius ir lietuvius, kurie pirmajame susidūrime sutriuškino krikščionių karius.
+
 ## Citatos
 
 - id: c-169457

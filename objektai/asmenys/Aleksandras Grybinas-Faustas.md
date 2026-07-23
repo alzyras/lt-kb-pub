@@ -45,8 +45,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44265
-- susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
-- susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49113|Tauro apygarda]]: Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu.
+
 ## Citatos
 
 - id: c-44265

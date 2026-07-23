@@ -9,14 +9,14 @@ datos:
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
-amziai:
-  - 'XX'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - regionas
+amziai:
+  - 'XX'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -90,7 +90,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     - c-166443
 
 <a id="claim-t-197895"></a>
-- t-005
+- t-004
   teiginys: "Šios dvi tautos, gal ir skirtingos kilmės, turėjo artimų tarpusavio santykių ir 1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu viršija Cimborasą, Amerikos Kordiljerų grandinės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,32 +100,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175469
-- susijęs iš Viduržemio jūra: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.
-- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
-- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tad savaime peršasi nuo­
-    monė, jog tie, kurie patraukė į šiaurę, kažkur suskilus
-    gentims, davė pradžią hiperborėjams ir skitams: pirmieji
-    nuėjo tiesiai į šiaurę, o antrieji pasuko į vakarus.
-    15
-    Gentis, patikusi gimtąjį lizdą, patraukė pietvakarių
-    link, apėjo Kaspijos jūros pietų galą, eidama į vakarus
-    40 laipsnių lygiagretės kryptimi, ir išėjo prie Juodosios
-    ir Viduržemio jūrų krantų; taip ji pateko iš Mažosios
-    Azijos į Europą ir apsigyveno jos pietryčių pakraštyje,
-    davusi pradžią pelazgų gentims.
-    16
-    Apie pelazgus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -215,4 +189,4 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

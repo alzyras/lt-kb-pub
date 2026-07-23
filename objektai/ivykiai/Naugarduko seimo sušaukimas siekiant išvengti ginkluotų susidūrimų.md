@@ -87,6 +87,7 @@ Nenurodyta
   citata_rodoma: "Karalius ne be reikalo pradėjo būgštauti,\nkad, jam būnant toli nuo Lietuvos, nesirastų ten kokių\nkarštakošių, kurie, pasigriebę ginklus, susimanytų puldi­\nnėti lenkus, visai užkirsdami kelią baigti ginčą taikiomis\n49 i\n\n## Puslapis 490\n\npriemonėmis,.. Štai todėl, norėdamas išvengti gink­\nluotų susidūrimų, jis sušaukė Naugarduke seimą ir pats\nnuvyko į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,17 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą."
   pagrindžia:
     - c-83581
-- susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
-- susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
-- susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179149|Lenkai]]: Vytautas 1401 m. akte priminė pažadą laikytis Jogailos, Lenkijos karūnos ir jos didikų bei ginti juos nuo priešų.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108289|Pranciškonų ordinas]]: Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108327|Pranciškonų ordinas]]: Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.
-- susijęs iš Podolė: Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu.
-- susijęs iš Podolė: Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.
-- susijęs iš [[objektai/zodynas/in partibus infidelium.md#claim-t-86589|in partibus infidelium]]: Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.
-- susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
+
 ## Citatos
 
 - id: c-83581

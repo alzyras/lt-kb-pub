@@ -52,6 +52,7 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   citata_rodoma: "sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Net buvo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

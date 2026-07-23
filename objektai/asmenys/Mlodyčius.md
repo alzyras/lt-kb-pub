@@ -51,9 +51,7 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83898
-- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
-- susijęs iš [[objektai/asmenys/Plockis.md#claim-t-87834|Plockis]]: Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.
-- susijęs iš Leipcigas: Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.
+
 ## Citatos
 
 - id: c-83898

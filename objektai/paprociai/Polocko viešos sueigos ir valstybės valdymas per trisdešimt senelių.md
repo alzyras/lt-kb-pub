@@ -7,13 +7,13 @@ datos:
   - '1219 m.'
 date_start: '1219'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinė-praktika
   - paprotys
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

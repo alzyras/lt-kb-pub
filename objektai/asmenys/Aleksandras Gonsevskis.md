@@ -56,7 +56,7 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatinis ir paremtas citata."
   pagrindžia:
     - c-44264
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09881|Smolensko apgultis (1632–1634 m.)]]: Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
+
 ## Citatos
 
 - id: c-44264

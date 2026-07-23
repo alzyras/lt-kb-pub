@@ -54,8 +54,7 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177907
-- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
-- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
+
 ## Citatos
 
 - id: c-177907
@@ -84,6 +83,7 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
   citata_rodoma: "Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

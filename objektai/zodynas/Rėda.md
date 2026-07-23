@@ -44,7 +44,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 ## Teiginiai
 
 <a id="claim-t-70045"></a>
-- t-007
+- t-001
   teiginys: "Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
     - c-09736
 
 <a id="claim-t-70048"></a>
-- t-008
+- t-002
   teiginys: "Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-09736
   autorius: "Simonas Daukantas"
@@ -97,4 +97,4 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001

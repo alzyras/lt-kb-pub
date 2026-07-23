@@ -54,8 +54,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir paremtas citata."
   pagrindžia:
     - c-59549
-- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
-- susijęs iš [[objektai/daiktai/Maišelis.md#claim-t-195335|Maišelis]]: Maišelis veikia kaip laikina talpa ir paklotas pietums šventoriuje.
+
 ## Citatos
 
 - id: c-59549

@@ -36,7 +36,7 @@ Vėbra^128.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33119
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179531|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.
+
 ## Citatos
 
 - id: c-33119

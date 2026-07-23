@@ -173,7 +173,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-173664
 
 <a id="claim-t-190784"></a>
-- t-009
+- t-008
   teiginys: "Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -193,7 +193,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-173666
 
 <a id="claim-t-190785"></a>
-- t-010
+- t-009
   teiginys: "Teodoro Narbuto pasakojime Plinijus mini Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -213,7 +213,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-173667
 
 <a id="claim-t-191903"></a>
-- t-011
+- t-010
   teiginys: "Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -233,7 +233,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-174785
 
 <a id="claim-t-197636"></a>
-- t-012
+- t-011
   teiginys: "Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -245,6 +245,23 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-174785
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
+    mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
+    cl hnicismo affinitate. Anno 1418, codex in folio manu scriptus, pagi­
+    narum 185. Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
+    d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki
+    1425 metų. Velionis Augustas Kocebiu įsigijo jį Neapolyje; man jį
+    buvo davęs 1809 metais Revelyje, kad išsirašyčiau Lietuvos istoriją,
+    ypač mitologiją liečiančius dalykus**.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -257,10 +274,10 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Teodoro Narbuto pasakojime Plinijus mini Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -278,10 +295,10 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-010
   santrauka: 'Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -298,11 +315,11 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     j Lydos apskrityje, Rodūnios parapijoje, buvo skiriu gyvenvietė,
     įsikūrusi Bartėnų seniūnijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-011
 
 ## Citatos
 
@@ -479,7 +496,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-173667
   autorius: "Teodoras Narbutas"
@@ -511,7 +528,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-174785
   autorius: "Teodoras Narbutas"
@@ -538,5 +555,5 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-010
     - t-011
-    - t-012

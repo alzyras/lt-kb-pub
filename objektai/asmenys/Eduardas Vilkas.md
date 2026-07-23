@@ -63,16 +63,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166923
-- susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-183523|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-183546|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-19050|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-183548|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-19053|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104208|suverenitetas suverenumas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
-- susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-183471|suverenitetas suverenumas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
-- susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-183473|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
-- susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70348|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+
 ## Citatos
 
 - id: c-21655

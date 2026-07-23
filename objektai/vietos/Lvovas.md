@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 ## Teiginiai
 
 <a id="claim-t-121908"></a>
-- t-011
+- t-001
   teiginys: "1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182380
 
 <a id="claim-t-121909"></a>
-- t-008
+- t-002
   teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182385
 
 <a id="claim-t-121910"></a>
-- t-010
+- t-003
   teiginys: "Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182383
 
 <a id="claim-t-185036"></a>
-- t-014
+- t-004
   teiginys: "Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-168397
 
 <a id="claim-t-193211"></a>
-- t-016
+- t-005
   teiginys: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182386
 
 <a id="claim-t-199596"></a>
-- t-005
+- t-006
   teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -149,7 +149,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182381
 
 <a id="claim-t-199603"></a>
-- t-001
+- t-007
   teiginys: "Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182384
 
 <a id="claim-t-199604"></a>
-- t-009
+- t-008
   teiginys: "Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -196,7 +196,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182377
 
 <a id="claim-t-199605"></a>
-- t-002
+- t-009
   teiginys: "Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -219,59 +219,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182379
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
-- susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
-- susijęs iš [[objektai/asmenys/Solikovskis.md#claim-t-87856|Solikovskis]]: Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.
-- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
-- susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
-- susijęs iš [[objektai/autoriai/Kochanowski, J.md#claim-t-54129|Kochanowski, J]]: J. Kochanowskis parašė veikalą „Witold, w. książę litewski“, išleistą Lvove 1900 m.
-- susijęs iš [[objektai/autoriai/Kochanowski, J.md#claim-t-54130|Kochanowski, J]]: J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“.
-- susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
-- susijęs iš [[objektai/autoriai/Koneczny, P.md#claim-t-30762|Koneczny, P]]: P. Koneczny 1893 m. Lvove išleido pirmąjį veikalo „Jagiełło i Witold“ tomą.
-- susijęs iš [[objektai/grupes/Konstancos suvažiavimas.md#claim-t-185441|Konstancos suvažiavimas]]: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.
-- susijęs iš [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.).md#claim-t-185718|Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.
-- susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186665|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.
-- susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185503|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: 1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
-- susijęs iš F. Koneczny, Jagiełło i Witołd: F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.
-- susijęs iš Istorija Ukrajiny-Rusy: M. Hruševskio „Istorija Ukrajiny-Rusy“ 4 tomas antruoju leidimu išėjo 1907 m., o 5–6 tomai – Kijeve ir Lvove 1905–1907 m.
-- susijęs iš Jagiełło i Witold: P. Koneczny veikalo „Jagiełło i Witold“ I tomas buvo išleistas Lvove 1893 m.
-- susijęs iš Kolankowski L. Litwini a Prusacy: L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.
-- susijęs iš Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui patikėta įsteigti Žemaičių vyskupystę.
-- susijęs iš Lvovo privilegija (1392 m. bal. 16 d.): Jogaila 1392 m. balandžio 16 d. Lvove išdavė privilegiją, kuri kliudė Vytauto siekiams Lietuvoje ir jo pretenzijoms į Lucką.
-- susijęs iš Monumentą Poloniae historica: „Monumenta Poloniae historica“ 2, 4 ir 5 tomai išleisti Lvove 1872, 1884 ir 1888 m., o 1961 m. nurodytas Varšuvos leidimas.
-- susijęs iš Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.
-- susijęs iš Witold, w. książę litewski: J. Kochanowskio veikalas „Witold, w. książę litewski“ išleistas 1900 m. Lvove.
-- susijęs iš Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.
-- susijęs iš Kamenecas: Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.
-- susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
-- susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
-- susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
-- susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190073|Karolis Kozakovskis]]: Karolis Kozakovskis 1840 m. sausio 27 d. iš Kurėnų pateikė informaciją ir atsiuntė daug iškasenų.
-- susijęs iš [[objektai/asmenys/Kosakovskis.md#claim-t-190173|Kosakovskis]]: Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas netoli Lukoinių dvaro.
-- susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-187715|Lenkai]]: Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
-- susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
-- susijęs iš Gniezno: 1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.
-- susijęs iš Kauno apskritis: Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto.
-- susijęs iš Lukoinių dvaras: Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris rutuliukas greta sidabro grandine apjuosto skeleto.
-- susijęs iš Podolė: Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.
-- susijęs iš Poznanė: Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.
-- susijęs iš Raudonoji Rusia: Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
-- susijęs iš [[objektai/zodynas/Kašteliono valdžia.md#claim-t-86633|Kašteliono valdžia]]: Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
-- susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
-- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -285,7 +233,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-37520
@@ -307,7 +254,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-111632
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -328,7 +275,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-111634
   autorius: "Michał Baliński"
@@ -351,7 +298,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-168397
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -386,7 +333,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
 
 - id: c-175955
   redaktorius: "A. Šapoka"
@@ -407,7 +354,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-005
 
 - id: c-182377
   autorius: "Anoniminis metraštininkas"
@@ -425,7 +372,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-182379
   autorius: "Anoniminis metraštininkas"
@@ -444,7 +391,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-009
 
 - id: c-182380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -465,7 +412,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-001
 
 - id: c-182381
   autorius: "Zenonas Ivinskis"
@@ -486,7 +433,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-182383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -507,7 +454,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-182384
   autorius: "Anoniminis metraštininkas"
@@ -528,7 +475,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
 
 - id: c-182385
   autorius: "Michał Baliński"
@@ -551,7 +498,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-182386
   redaktorius: "A. Šapoka"
@@ -572,4 +519,4 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-005

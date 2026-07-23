@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75050"></a>
-- t-006
+- t-001
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ media_all_json: |-
     - c-72977
 
 <a id="claim-t-75051"></a>
-- t-005
+- t-002
   teiginys: "Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ media_all_json: |-
     - c-72979
 
 <a id="claim-t-75053"></a>
-- t-001
+- t-003
   teiginys: "2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ media_all_json: |-
     - c-22834
 
 <a id="claim-t-75056"></a>
-- t-007
+- t-004
   teiginys: "NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ media_all_json: |-
     - c-72979
 
 <a id="claim-t-75057"></a>
-- t-003
+- t-005
   teiginys: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ media_all_json: |-
     - c-22836
 
 <a id="claim-t-193567"></a>
-- t-008
+- t-006
   teiginys: "Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nereikės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils pavojus jos saugumui."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -145,9 +145,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-176246
-- susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
-- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
-- susijęs iš Praha: 2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.
+
 ## Citatos
 
 - id: c-22834
@@ -172,7 +170,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-22836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -193,7 +191,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-72977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -214,7 +212,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-72979
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -234,8 +232,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
+    - t-002
+    - t-004
 
 - id: c-176246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -255,7 +253,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

@@ -39,7 +39,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 ## Teiginiai
 
 <a id="claim-t-87428"></a>
-- t-002
+- t-001
   teiginys: "Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - c-83409
 
 <a id="claim-t-87429"></a>
-- t-003
+- t-002
   teiginys: "Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - c-83408
 
 <a id="claim-t-87430"></a>
-- t-001
+- t-003
   teiginys: "Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir palikta aiški citatos remiama žinia apie asmenį."
   pagrindžia:
     - c-83407
-- susijęs iš [[objektai/asmenys/Ričardas II.md#claim-t-87571|Ričardas II]]: Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.
+
 ## Citatos
 
 - id: c-83407
@@ -138,7 +138,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-83408
   autorius: "Michał Baliński"
@@ -167,7 +167,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-83409
   autorius: "Michał Baliński"
@@ -199,7 +199,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Henrikas Lankasteris keliavo į [[objektai/vietos/Prūsija]]

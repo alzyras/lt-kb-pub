@@ -53,8 +53,7 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32926
-- susijęs iš [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas.md#claim-t-28918|Imperatoriaus dvaro ceremonialo perėmimas]]: Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.
-- susijęs iš [[objektai/posakiai/sobiratel’ russkich žemeli.md#claim-t-100003|sobiratel’ russkich žemeli]]: Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.
+
 ## Citatos
 
 - id: c-32926

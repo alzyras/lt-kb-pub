@@ -75,7 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija."
   pagrindžia:
     - c-26641
-- susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
+
 ## Citatos
 
 - id: c-26641

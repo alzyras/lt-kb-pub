@@ -58,9 +58,6 @@ Nenurodyta
   pagrindžia:
     - c-185350
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-185350

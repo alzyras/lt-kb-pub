@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06734"></a>
-- t-005
+- t-001
   teiginys: "Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-00209
 
 <a id="claim-t-06735"></a>
-- t-004
+- t-002
   teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -101,5 +101,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002

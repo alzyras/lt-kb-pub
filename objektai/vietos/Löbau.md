@@ -30,7 +30,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 ## Teiginiai
 
 <a id="claim-t-34135"></a>
-- t-002
+- t-001
   teiginys: "Kryžiuočių kariuomenė kelią nuo Löbau iki Grünvaldo turėjo įveikti audringą naktį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
     - c-35361
 
 <a id="claim-t-34136"></a>
-- t-001
+- t-002
   teiginys: "Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko eiti šiaurėn į Löbau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003
 
 - id: c-35361
@@ -118,4 +118,4 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

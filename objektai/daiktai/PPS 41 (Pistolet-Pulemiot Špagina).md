@@ -64,7 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41076
-- susijęs iš [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis.md#claim-t-38696|pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]: Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.
+
 ## Citatos
 
 - id: c-41076

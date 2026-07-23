@@ -91,37 +91,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata."
   pagrindžia:
     - c-167944
-- susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
-- susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
-- susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
-- susijęs iš [[objektai/asmenys/Ferdinandas (Kastilijos karalius).md#claim-t-60114|Ferdinandas (Kastilijos karalius)]]: Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
-- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
-- susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
-- susijęs iš [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių.md#claim-t-62779|Ferdinando pergalė prieš Granados karalių]]: Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
-- susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
-- susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
-- susijęs iš Maljorka: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
-- susijęs iš Maljorka: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
-- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
-- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90017|Sventopelkas]]: Dusburgietis pasakoja, kad prūsai išsirinko Sventopelką savo vyresniuoju bei vadu.
-- susijęs iš [[objektai/autoriai/Canaparius.md#claim-t-30580|Canaparius]]: Canaparius, šv. Adalberto biografas, 999 m. pirmasis paminėjo tikrąjį prūsų vardą, kalbėdamas apie „Pruzzorum fines“.
-- susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
-- susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
-- susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66923|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.
-- susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
-- susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
-- susijęs iš Vysla: Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai.md#claim-t-86563|Municipalinė teisėtvarka municipaliniai nuostatai]]: Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54794|Municipalinė teisėtvarka]]: Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
-- susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
-- susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
+
 ## Citatos
 
 - id: c-64213

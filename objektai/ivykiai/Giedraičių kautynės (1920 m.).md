@@ -67,7 +67,7 @@ Nenurodyta
   semantiniai_rysiai: "brigada keliavo į Labanoras (0.74)"
   pagrindžia:
     - c-11845
-- susijęs iš [[objektai/ivykiai/Giedraičių kautynės.md#claim-t-41271|Giedraičių kautynės]]: Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.
+
 ## Citatos
 
 - id: c-11845

@@ -55,7 +55,7 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-60888
-- susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60096|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto.
+
 ## Citatos
 
 - id: c-60888

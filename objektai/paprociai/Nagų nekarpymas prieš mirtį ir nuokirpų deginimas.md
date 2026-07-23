@@ -63,6 +63,7 @@ Nenurodyta
   citata_rodoma: "Kaip tik dėl to, artėjant gyvenimo\npabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-\npindavo. Jaunesni žmonės, juos kirpdami, niekad nenumes-\ndavo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,\nsviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­\ndingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­\ntybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų\nišmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }\nsieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­\nžiausios nuokirpos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

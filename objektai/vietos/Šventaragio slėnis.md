@@ -43,7 +43,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 ## Teiginiai
 
 <a id="claim-t-120081"></a>
-- t-015
+- t-001
   teiginys: "Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110180
 
 <a id="claim-t-120082"></a>
-- t-012
+- t-002
   teiginys: "Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110189
 
 <a id="claim-t-120083"></a>
-- t-016
+- t-003
   teiginys: "Tai buvo Šventaragio slėny prie pat pilies kalno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-37875
 
 <a id="claim-t-120084"></a>
-- t-008
+- t-004
   teiginys: "Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110182
 
 <a id="claim-t-120085"></a>
-- t-011
+- t-005
   teiginys: "Balińskis Šventaragio vardą siejo su žodžiais „Šventas Ragas“ ir slėnio kyšuliu tarp Vilijos bei Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110191
 
 <a id="claim-t-120086"></a>
-- t-003
+- t-006
   teiginys: "Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110181
 
 <a id="claim-t-120087"></a>
-- t-013
+- t-007
   teiginys: "Balińskis Šventaragio slėnio lydimus siejo su senovinės Vilniaus gyvenvietės plėtra nuo Vilnios krantų Vilijos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110188
 
 <a id="claim-t-120088"></a>
-- t-004
+- t-008
   teiginys: "Šventaragio slėnyje buvęs aukuras naudotas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110178
 
 <a id="claim-t-120089"></a>
-- t-007
+- t-009
   teiginys: "Šventaragio slėnyje Germantas esą vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilijos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110188
 
 <a id="claim-t-120090"></a>
-- t-014
+- t-010
   teiginys: "Šventaragio slėnis buvo laikomas reikšmingiausia Žemutinės pilies dalimi, kur degė lietuvių garbinta Gabija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110183
 
 <a id="claim-t-120091"></a>
-- t-010
+- t-011
   teiginys: "Šventaragio slėnis buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,7 +220,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110178
 
 <a id="claim-t-120092"></a>
-- t-009
+- t-012
   teiginys: "Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,7 +236,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110181
 
 <a id="claim-t-120093"></a>
-- t-001
+- t-013
   teiginys: "Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -252,7 +252,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110186
 
 <a id="claim-t-120094"></a>
-- t-005
+- t-014
   teiginys: "Šventaragio slėnio pavadinimas sietas su žodžiais „Šventas Ragas“ ir slėnio kyšuliu tarp Vilijos ir Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -268,7 +268,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110191
 
 <a id="claim-t-120095"></a>
-- t-006
+- t-015
   teiginys: "Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -285,7 +285,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110189
 
 <a id="claim-t-194278"></a>
-- t-018
+- t-016
   teiginys: "Many čiau, kad Šventaragiu buvo vadina ma nuo lietuviškų žodžių Šventas Ragas - altorius, ir kartu turėjo var dą Swiaty-roh - nuo rusiško pavadi nimo šventas ragas, mat tas slėnis baigėsi tarsi žemės pleištu tarp Vili jos ir Vilnios upių kyšulyje [rog ru sų."
   atnaujinta: "2026-07-06 13:01"
   sprendimo_priezastis: "auto"
@@ -297,7 +297,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - c-110191
 
 <a id="claim-t-196763"></a>
-- t-019
+- t-017
   teiginys: "Kojelavičiaus pasakojime valdovas prie Šventaragio slėnio kalno viršūnėje ietimi nudobė taurą ir ten susapnavo geležinį vilką."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -308,14 +308,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178898
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
+
 ## Citatos
 
 - id: c-37875
@@ -336,7 +329,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-003
 
 - id: c-110178
   autorius: "Michał Baliński"
@@ -364,8 +357,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-010
+    - t-008
+    - t-011
 
 - id: c-110180
   autorius: "Zenonas Ivinskis"
@@ -391,7 +384,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-001
 
 - id: c-110181
   autorius: "Michał Baliński"
@@ -417,8 +410,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-009
+    - t-006
+    - t-012
 
 - id: c-110182
   autorius: "Michał Baliński"
@@ -439,7 +432,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-110183
   autorius: "Michał Baliński"
@@ -461,7 +454,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-110186
   autorius: "Zenonas Ivinskis"
@@ -482,7 +475,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-013
 
 - id: c-110188
   autorius: "Michał Baliński"
@@ -511,8 +504,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
     - t-007
+    - t-009
 
 - id: c-110189
   autorius: "Michał Baliński"
@@ -552,8 +545,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-006
+    - t-002
+    - t-015
 
 - id: c-110191
   autorius: "Michał Baliński"
@@ -584,9 +577,9 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
     - t-005
-    - t-018
+    - t-014
+    - t-016
 
 - id: c-178898
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -624,4 +617,4 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-017

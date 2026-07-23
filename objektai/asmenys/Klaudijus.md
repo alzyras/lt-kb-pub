@@ -48,10 +48,7 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174386
-- susijęs iš [[objektai/asmenys/Aurelianas Klaudijus.md#claim-t-191338|Aurelianas Klaudijus]]: Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę.
-- susijęs iš [[objektai/ivykiai/Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m.md#claim-t-191042|Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m]]: Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų.
-- susijęs iš Naisa: Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192403|Gotai]]: Narbutas rašo, kad apie 269 metus gotai su maždaug 320 000 ginkluotų žmonių armija puolė imperiją, siekdami ją užkariauti.
+
 ## Citatos
 
 - id: c-174386

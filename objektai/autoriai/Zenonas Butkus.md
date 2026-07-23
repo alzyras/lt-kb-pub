@@ -62,6 +62,7 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
   citata_rodoma: "nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

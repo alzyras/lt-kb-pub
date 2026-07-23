@@ -30,7 +30,7 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 ## Teiginiai
 
 <a id="claim-t-183509"></a>
-- t-002
+- t-001
   teiginys: "Oficialios kalbos apie „tarybinių tautų suartėjimą ir susiliejimą“ rodė ideologiškai unifikuotos ir rusiškai kalbančios sovietinės nacijos formavimo kryptį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -71,4 +71,4 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

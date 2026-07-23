@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09884"></a>
-- t-008
+- t-001
   teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-11930
 
 <a id="claim-t-09885"></a>
-- t-006
+- t-002
   teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-11928
 
 <a id="claim-t-09886"></a>
-- t-007
+- t-003
   teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-11929
 
 <a id="claim-t-09887"></a>
-- t-005
+- t-004
   teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -118,19 +118,7 @@ Nenurodyta
   semantiniai_rysiai: "Petras Šuiskis dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Petras Šuiskis kariavo prieš Lietuviai (0.73)"
   pagrindžia:
     - c-11927
-- susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
-- susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41260|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę.
-- susijęs iš Ulos upė: P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų.
-- susijęs iš [[objektai/asmenys/Mathias Ziindt.md#claim-t-40330|Mathias Ziindt]]: Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78697|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78699|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.
-- susijęs iš Gardino vaizdas (1568 m.): 1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.
-- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.
-- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
-- susijęs iš Rusijos kariuomenė užgrobtoje Livonijoje: „Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.
-- susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
-- susijęs iš Čašnikai: P. Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų, kai sužinojo, kad lietuviai rengiasi užkirsti jam kelią.
+
 ## Citatos
 
 - id: c-11927
@@ -156,7 +144,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-11928
   sudarytojas: "Karolis Zikaras"
@@ -185,7 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-11929
   sudarytojas: "Karolis Zikaras"
@@ -204,7 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-11930
   sudarytojas: "Karolis Zikaras"
@@ -232,7 +220,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-11931
   sudarytojas: "Karolis Zikaras"
@@ -248,6 +236,7 @@ Nenurodyta
   citata_rodoma: "P. Šuiskio kūnas buvo atvež-\ntas į Vilnių ir su didele pagarba palaidotas\nstačiatikių katedroje. Lietuviams atiteko\ndaug Maskvos kariuomenės ginklų, šarvų,\ndrabužių ir atsargų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

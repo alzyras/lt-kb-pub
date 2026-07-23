@@ -44,9 +44,7 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82117
-- susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
-- susijęs iš [[objektai/asmenys/Leonas Rogalskis.md#claim-t-87543|Leonas Rogalskis]]: Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.
-- susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87554|Mikalojus Malinovskis]]: Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.
+
 ## Citatos
 
 - id: c-82117

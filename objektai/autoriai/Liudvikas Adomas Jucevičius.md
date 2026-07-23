@@ -40,7 +40,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
 ## Teiginiai
 
 <a id="claim-t-187952"></a>
-- t-002
+- t-001
   teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "gap::authors"
@@ -60,7 +60,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-170947
 
 <a id="claim-t-188441"></a>
-- t-003
+- t-002
   teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-183830
 
 <a id="claim-t-188442"></a>
-- t-004
+- t-003
   teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-183829
 
 <a id="claim-t-190755"></a>
-- t-005
+- t-004
   teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-183828
 
 <a id="claim-t-190756"></a>
-- t-006
+- t-005
   teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,6 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170947
@@ -159,7 +158,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173637
   autorius: "Teodoras Narbutas"
@@ -177,7 +176,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173638
   autorius: "Teodoras Narbutas"
@@ -213,8 +212,8 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-005
-    - t-006
 
 - id: c-183829
   autorius: "Teodoras Narbutas"
@@ -234,7 +233,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-183830
   autorius: "Teodoras Narbutas"
@@ -254,4 +253,4 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

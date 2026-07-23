@@ -60,7 +60,7 @@ Nenurodyta
     - c-67164
 
 <a id="claim-t-67148"></a>
-- t-003
+- t-002
   teiginys: "Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-67162
 
 <a id="claim-t-67150"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-67161
 
 <a id="claim-t-67151"></a>
-- t-002
+- t-004
   teiginys: "Į Lietuvos bajorijos seimus atvykdavo ponų taryba, aukštesnieji valstybės urėdai ir norintys dalyvauti bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-67162
   redaktorius: "A. Šapoka"
@@ -131,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-67163
   redaktorius: "A. Šapoka"
@@ -153,7 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-67164
   redaktorius: "A. Šapoka"

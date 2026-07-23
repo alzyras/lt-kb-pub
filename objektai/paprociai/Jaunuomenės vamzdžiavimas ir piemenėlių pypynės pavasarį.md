@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07769"></a>
-- t-002
+- t-001
   teiginys: "Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -60,9 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09925
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -80,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

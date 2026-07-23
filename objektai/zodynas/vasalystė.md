@@ -36,7 +36,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-12606"></a>
-- t-002
+- t-001
   teiginys: "Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,4 +73,4 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -45,7 +45,3 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką pietų kryptimi į 
 - t-002
     - t-003
     - t-004
-
-## Teiginiai
-
-- susijęs iš Umolis: Umolis buvo gyvenvietė prie Slucko.

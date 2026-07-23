@@ -67,19 +67,7 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174149
-- susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
-- susijęs iš [[objektai/asmenys/Jupiteris.md#claim-t-191424|Jupiteris]]: Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane.
-- susijęs iš [[objektai/ivykiai/Fajetono kritimas į Eridaną ir Heliadų virtimas.md#claim-t-191059|Fajetono kritimas į Eridaną ir Heliadų virtimas]]: Narbuto perteikiamame mite Fajetono bičiulis Cignas iš sielvarto virto gulbinu Eridano ežere.
-- susijęs iš Radlofo veikalas apie Hesperą ir Fajetoną: Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nurodomas kaip 1823 m. Berlyno leidinys.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192286|Fajetono katastrofa]]: Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192557|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.
-- susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191974|Radlofas]]: Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.
-- susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191618|Radlofas]]: Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192446|Prūsai]]: Teodoras Narbutas rašo, kad prūsų Sembos pakrantėje ypač dažnai randama gintaro kilmę aiškinančių medžių liekanų.
-- susijęs iš Semba: Narbutas rašė, kad gintaro sakų kilmės pėdsakai ypač dažnai randami prūsų Sembos pakrantėje.
-- susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
+
 ## Citatos
 
 - id: c-174148

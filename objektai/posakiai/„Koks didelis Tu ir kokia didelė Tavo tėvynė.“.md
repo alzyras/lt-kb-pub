@@ -44,11 +44,7 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26581
-- susijęs iš Knyga apie vyrus, garsius savo gyvenimu: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.
-- susijęs iš [[objektai/asmenys/Enėjas Silvijus Pikolominis.md#claim-t-26440|Enėjas Silvijus Pikolominis]]: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamuosius žodžius.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
-- susijęs iš [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika.md#claim-t-77954|Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]: Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais vadinama imperija.
-- susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
+
 ## Citatos
 
 - id: c-26581

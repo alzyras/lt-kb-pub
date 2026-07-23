@@ -44,9 +44,7 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84078
-- susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87532|Kasparas Bekešas]]: Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienio papročiu buvo palaidoti po apvaliu bokštu.
-- susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
-- susijęs iš Kalnas prie Vilnelės: Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.
+
 ## Citatos
 
 - id: c-84078

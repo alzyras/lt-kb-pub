@@ -39,7 +39,7 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
 ## Teiginiai
 
 <a id="claim-t-187262"></a>
-- t-002
+- t-001
   teiginys: "Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -61,7 +61,7 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
     - c-170318
 
 <a id="claim-t-187263"></a>
-- t-001
+- t-002
   teiginys: "Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -81,14 +81,7 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-170318
-- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
-- susijęs iš [[objektai/asmenys/Ipolitas Klimaševskis.md#claim-t-186505|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]: Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
-- susijęs iš [[objektai/asmenys/Ipolitas Klimaševskis.md#claim-t-186504|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]: Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis turėjo emigruoti į užsienį ir tespėjo paskelbti pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
-- susijęs iš [[objektai/asmenys/Ipolitas Klimaševskis.md#claim-t-186506|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]: Ipolitas Klimaševskis trumpoje pratarmėje apie rankraščio radimą Aleksandro Bychovco bibliotekoje pirmasis įvertino Bychovco kroniką.
-- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187470|Žygimanto Kęstutaičio nužudymas]]: Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
-- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187471|Žygimanto Kęstutaičio nužudymas]]: Žygimanto Kęstutaičio nužudymas datuojamas 1440 m.
-- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
+
 ## Citatos
 
 - id: c-170318
@@ -113,5 +106,5 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

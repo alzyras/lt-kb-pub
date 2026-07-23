@@ -45,12 +45,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45333
-- susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
-- susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78693|Šarvuotasis traukinys Gediminas]]: Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-- susijęs iš Varėna: Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.
-- susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
-- susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
+
 ## Citatos
 
 - id: c-45333

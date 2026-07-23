@@ -56,7 +56,7 @@ test("returns null for an actually duplicated canonical label", () => {
   assert.equal(relationTargetSlug("Bendra vieta: place", map), null)
 })
 
-test("merges wikilink, markdown-link and claim evidence into one canonical pair", () => {
+test("merges direct links into one canonical pair and ignores claim metadata", () => {
   const source: RelationDocument = {
     filePath: "objektai/asmenys/Šaltinis.md" as RelationDocument["filePath"],
     slug: "objektai/asmenys/Šaltinis" as RelationDocument["slug"],
@@ -64,6 +64,9 @@ test("merges wikilink, markdown-link and claim evidence into one canonical pair"
 <a id="claim-t-900001"></a>
 - t-001
   teiginys: Šaltinis siejamas su Lietuva.
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_sprendimo_taisykle: llm_validated_relation
   ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
 
 ## Ryšiai
@@ -87,7 +90,31 @@ test("merges wikilink, markdown-link and claim evidence into one canonical pair"
       sourceSlug: "objektai/asmenys/Šaltinis",
       targetSlug: "objektai/vietos/Lietuva",
       directCount: 2,
-      claimIds: ["t-900001"],
+      claimIds: [],
     },
   ])
+})
+
+test("does not promote plain mention metadata into the canonical relation index", () => {
+  const source: RelationDocument = {
+    filePath: "objektai/grupes/Baltarusiai.md" as RelationDocument["filePath"],
+    slug: "objektai/grupes/Baltarusiai" as RelationDocument["slug"],
+    markdown: `## Teiginiai
+<a id="claim-t-187872"></a>
+- t-003
+  teiginys: Baltarusiai minimi Lietuvos istorijoje.
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+`,
+  }
+  const target = document(
+    "objektai/vietos/Lietuva.md",
+    "objektai/vietos/Lietuva",
+    "tipas: vieta\npavadinimas: Lietuva",
+  )
+  const map = buildRelationTargetMap([source, target])
+
+  assert.deepEqual(buildCanonicalRelationIndex([source, target], map), [])
 })

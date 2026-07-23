@@ -44,9 +44,7 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82800
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117307|Vokiečiai]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.
-- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36795|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
-- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36797|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
+
 ## Citatos
 
 - id: c-82800

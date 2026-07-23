@@ -65,10 +65,3 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Bronislovas Kuzmickas.md#claim-t-18859|Bronislovas Kuzmickas]]: 1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
-- susijęs iš [[objektai/asmenys/Kazimieras Motieka.md#claim-t-19056|Kazimieras Motieka]]: 1990 m. kovo 11 d. Kazimieras Motieka buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
-- susijęs iš [[objektai/asmenys/Česlovas Stankevičius.md#claim-t-19350|Česlovas Stankevičius]]: 1990 m. kovo 11 d. Česlovas Stankevičius buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75166|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75170|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.

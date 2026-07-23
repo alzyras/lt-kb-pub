@@ -36,7 +36,7 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
 ## Teiginiai
 
 <a id="claim-t-189118"></a>
-- t-003
+- t-001
   teiginys: "Narbutas, remdamasis Rusovu, rašė, kad latvių jaunimas deivę Dahkla garbino kaip laisvės ir vyriškumo globėją."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -124,4 +124,4 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -40,7 +40,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 ## Teiginiai
 
 <a id="claim-t-70338"></a>
-- t-002
+- t-001
   teiginys: "Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
     - c-166862
 
 <a id="claim-t-183466"></a>
-- t-003
+- t-002
   teiginys: "Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166862
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -128,4 +128,4 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

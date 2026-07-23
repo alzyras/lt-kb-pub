@@ -30,7 +30,7 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 ## Teiginiai
 
 <a id="claim-t-197370"></a>
-- t-002
+- t-001
   teiginys: "Pirmasis primena jau žinomą pragaro dievą, antrasis užra šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože minis urvas16."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -87,4 +87,4 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

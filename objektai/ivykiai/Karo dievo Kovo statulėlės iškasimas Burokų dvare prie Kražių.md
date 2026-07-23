@@ -8,13 +8,13 @@ datos:
   - '1840 m.'
 date_start: '1836'
 date_end: '1840'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kultūrinis-įvykis
   - ivykis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192020"></a>
-- t-003
+- t-001
   teiginys: "Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-174901
 
 <a id="claim-t-192022"></a>
-- t-001
+- t-003
   teiginys: "1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -128,11 +128,10 @@ Nenurodyta
     rankų. Vaizduoja mojuojantį ginklu karį su kalaviju dešinėje, o
     su skydu kairėje rankoje (paveikslėlyje tai pavaizduota punktyru).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174901
@@ -160,7 +159,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-001
+    - t-003
 
 - id: c-174902
   autorius: "Teodoras Narbutas"
@@ -179,4 +178,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

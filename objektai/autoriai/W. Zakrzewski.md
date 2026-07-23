@@ -49,14 +49,14 @@ Zakrzewski, W.
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "W. Zakrzewski: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Žalgirio mūšis (1410 m.): mention_match, event, gap=21"
+  ryšio_targeto_parinkimas: "Tanenbergo mūšis 1410 m. liepos 15 d: mention_match, event, gap=21"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Zakrzewski\" parinktas kaip owner_note_path. Targetas \"Tanenbergo mūšis 1410 m. liepos 15 d\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1890 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33203
-- susijęs iš [[objektai/autoriai/Zakrzewski, W.md#claim-t-31090|Zakrzewski, W]]: W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.
+
 ## Citatos
 
 - id: c-33203

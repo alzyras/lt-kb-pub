@@ -67,7 +67,7 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176282
-- susijęs iš [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai.md#claim-t-54231|Elekcinių valdovų pacta conventa priesaikos bajorijai]]: Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.
+
 ## Citatos
 
 - id: c-166362

@@ -53,6 +53,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
     bažnyčia.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

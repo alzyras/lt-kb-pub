@@ -60,7 +60,7 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179221
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191110|Adomas Stanislovas Naruševičius]]: Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-skitų gentimi kaip Geniui.
+
 ## Citatos
 
 - id: c-175739

@@ -57,7 +57,7 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai remiasi citatos duomenimis."
   pagrindžia:
     - c-38561
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
+
 ## Citatos
 
 - id: c-38561

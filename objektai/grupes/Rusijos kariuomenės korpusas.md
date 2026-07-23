@@ -30,7 +30,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
 ## Teiginiai
 
 <a id="claim-t-41132"></a>
-- t-002
+- t-001
   teiginys: "Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
     - c-42913
 
 <a id="claim-t-41133"></a>
-- t-001
+- t-002
   teiginys: "Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   semantiniai_rysiai: "Rusijos kariuomenės korpusas puolė Vilnius (0.95)"
   pagrindžia:
     - c-44842
-- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
+
 ## Citatos
 
 - id: c-42913
@@ -82,7 +82,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44842
   sudarytojas: "Karolis Zikaras"
@@ -106,7 +106,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Rusijos kariuomenės korpusas keliavo į [[objektai/vietos/Vilnius]]

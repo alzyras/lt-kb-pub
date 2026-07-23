@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66501"></a>
-- t-002
+- t-001
   teiginys: "1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Nenurodyta
     - c-66714
 
 <a id="claim-t-66502"></a>
-- t-001
+- t-002
   teiginys: "Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-66715
   redaktorius: "A. Šapoka"
@@ -134,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

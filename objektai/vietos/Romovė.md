@@ -86,7 +86,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-171784
 
 <a id="claim-t-188897"></a>
-- t-005
+- t-004
   teiginys: "Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-171786
 
 <a id="claim-t-192742"></a>
-- t-006
+- t-005
   teiginys: "Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-175512
 
 <a id="claim-t-192743"></a>
-- t-007
+- t-006
   teiginys: "Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-175513
 
 <a id="claim-t-194746"></a>
-- t-008
+- t-007
   teiginys: "Narbutas teigia, kad taip pat kronikos liudija, jog šio dievo stabas, spirale susi raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-177142
 
 <a id="claim-t-194747"></a>
-- t-009
+- t-008
   teiginys: "Jau mes mūsų istorijos tyrimais įrodėme, kad paskutiniais stabmeldystės amžiais Romovių būta ne vienoje vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-177143
 
 <a id="claim-t-197918"></a>
-- t-011
+- t-009
   teiginys: "Būtent provincijos vakaruose plytėjo didelė šventa giria, kurios viduryje buvo dievų šventovė Romovė; šis miškas ošė beveik nuo pat šiaurinės pakrantės galo net iki prie Aistmarių esančių pakrantės žemių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-179396
 
 <a id="claim-t-201101"></a>
-- t-012
+- t-010
   teiginys: "Pats vardas upės Nemuno Niemon regimai yra len kiškas žodis, taip pat Romovė neženklina žinyčios, kaip pasakoj skelbia, bet trobesį, kuriame viešpats ir visų vyriausias valdymieras visos tautos gyvenęs, kaipogi šiandien dar žemaičiai namus viešpaties ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -195,93 +195,119 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184451
-- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
-- susijęs iš [[objektai/asmenys/Boleslovas Kreivaburnis.md#claim-t-190137|Boleslovas Kreivaburnis]]: Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti Romovės ąžuolą.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-190908|Kristijonas (vyskupas, XIII a.)]]: Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.
-- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188609|Simonas Grunau]]: Narbutas rašė, kad Simonas Grunau kroniką grindė seniausiomis kronikomis apie legendinį žiemą ir vasarą žaliavusį Romovės ąžuolą.
-- susijęs iš [[objektai/asmenys/Treteris.md#claim-t-190079|Treteris]]: Narbutas vertino, kad Treteris Jono I, Varmijos vyskupo, gyvenimo aprašyme tiksliausiai nurodė, kur ieškoti Romovės šventyklos.
-- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
-- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190395|Kristijonas]]: Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188464|Petras Dusburgietis]]: Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.
-- susijęs iš [[objektai/autoriai/Treteris.md#claim-t-190357|Treteris]]: Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ąžuolo pasakojimą.
-- susijęs iš [[objektai/autoriai/Treteris.md#claim-t-190359|Treteris]]: Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos.
-- susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai.md#claim-t-189718|Amžinosios ugnies aukuras, ąžuolinės malkos ir pelenai]]: Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis.
-- susijęs iš [[objektai/daiktai/Atrimpo arba Žalčių karaliaus stabas.md#claim-t-189655|Atrimpo arba Žalčių karaliaus stabas]]: Narbutas dievo Atrimpo stabą aprašo kaip spirale susivyniojusį žaltį, stovėjusį Romovės šventykloje į dešinę nuo Perkūno.
-- susijęs iš [[objektai/daiktai/Numirėlio kaukolė Patelo garbei.md#claim-t-189735|Numirėlio kaukolė Patelo garbei]]: Narbutas Patelo garbei laikomą numirėlio kaukolę sieja su Patelu, skraidančių oro dvasių dievu, kurio stabas buvęs Romovėje Perkūno dešinėje.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188301|Prūsai]]: Narbutas prūsų Romovės ąžuolą apibūdina kaip didžiausių šventybių prieglaudą.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
-- susijęs iš [[objektai/paprociai/Patelo garbei namuose laikoma numirėlio kaukolė.md#claim-t-189850|Patelo garbei namuose laikoma numirėlio kaukolė]]: Narbutas Patelo garbei laikomą numirėlio kaukolę siejo su dievu Patelu, kurio stabą lokalizavo Romovės šventykloje, Perkūno dešinėje.
-- susijęs iš A. Kotzebue, Preussens ältere Geschichte: A. Kotzebue veikalas Narbuto pastaboje cituojamas prie žinios, kad netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo galima uždegti degų daiktą.
-- susijęs iš Prūsų vyskupo Kristijono kronika: Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia apie sieros šaltinį netoli prūsų Romovės.
-- susijęs iš Rikajotas: Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nuomonę, kad ji galėjusi būti ta pati vieta kaip Romovė.
-- susijęs iš Romanovas: Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla.
-- susijęs iš Romovė prie Dviupio ežero: Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti didelė šventykla.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir buvo labai gerbiamas.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.
-- susijęs iš Upsala: Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.
-- susijęs iš [[objektai/zodynas/Patelas Potalas.md#claim-t-189236|Patelas Potalas]]: Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiausiosios kategorijos angelą, kurio stabas stovėjęs Romovėje.
-- susijęs iš [[objektai/zodynas/Romovė Romume Romumas.md#claim-t-189328|Romovė Romume Romumas]]: Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškino jį kaip susilaikymo, pamaldumo bei taikos vietą.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189138|Romovė Romuva Romow]]: Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškino jį kaip susilaikymo, pamaldumo bei taikos vietą.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189139|Romovė Romuva Romow]]: Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę.
-- susijęs iš [[objektai/zodynas/Romovė Romuva Romow.md#claim-t-189140|Romovė Romuva Romow]]: Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai.
-- susijęs iš [[objektai/paprociai/Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas.md#claim-t-192102|Sambijos vitingų paklusnumas Romovės vyriausiajam žyniui ir vyriausiojo karvedžio rinkimas]]: Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė.
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
-- susijęs iš [[objektai/asmenys/Henrikas Latvis.md#claim-t-190100|Henrikas Latvis]]: Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu.
-- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188554|Janas Lasickis]]: Narbutas nurodo, kad Lasickis Patelo dievą žinojo Algio vardu.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
-- susijęs iš [[objektai/asmenys/Laurinavičius.md#claim-t-190178|Laurinavičius]]: Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą pateikė Kauno mokyklos profesorius ir prefektas Laurinavičius.
-- susijęs iš [[objektai/asmenys/Stanislovas Laurinavičius.md#claim-t-190077|Stanislovas Laurinavičius]]: Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
-- susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190394|Kristijonas]]: Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172909|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188451|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Viršaitį laikė namų, turto ir namų gyvulių globėju.
-- susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
-- susijęs iš [[objektai/daiktai/Perkūno stabai.md#claim-t-189695|Perkūno stabai]]: Narbutas Perkūno stabų pirminę formą aiškina kaip didžiulį ąžuolą arba neapdorotą ąžuolo gabalą, panašų į Maksimo Tirėjiečio aprašytus Jupiterio stabus.
-- susijęs iš [[objektai/daiktai/Perkūno stabai.md#claim-t-189696|Perkūno stabai]]: Narbutas rašo, kad Romovės šventyklos aprašyme Perkūno stabas minimas kaip vyriausiojo dievo atvaizdas, buvęs puošnesnis už kitus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188217|Kryžiuočių ordinas]]: Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179232|Lietuviai]]: Laisvoje Lietuvoje augusi jaunoji karta šalies suverenumą laikė didžiausiu prioritetu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190576|Lietuviai]]: Narbutas Romovės pavadinimą kildino iš senovės lietuvių žodžio, reiškusio susilaikymo, pamaldumo ir taikos vietą.
-- susijęs iš Bysleida: Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
-- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
-- susijęs iš Livonija: Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį.
-- susijęs iš Prūsa: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
-- susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš Sambija: Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.
-- susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
-- susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189106|Krivis Krewe Crive]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
-- susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
-- susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189120|Užuotas ąžuolas]]: Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir buvo labai gerbiamas.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku.
-- susijęs iš Romovės šventykla: Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.
-- susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
+
 ## Reikšmingi paminėjimai
-- c-007
-  santrauka: 'Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-001
+  santrauka: 'Narbutas rašo, kad Patelo stabas didžiojoje Romovės šventykloje stovėjęs Perkūno dešinėje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Di­
-    džiuliuose krašto plotuose augo miškai, kurie geriau negu
-    dabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.
-    Būtent provincijos vakaruose plytėjo didelė šventa giria,
-    kurios viduryje buvo dievų šventovė Romovė; šis miškas
-    ošė beveik nuo pat šiaurinės pakrantės galo net iki prie
-    Aistmarių esančių pakrantės žemių. Kiti miškų plotai
-    driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
-    bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
-    elnias.
+    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
+    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
+    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
+    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
+    tos prie liepų medžių21.
+    Kabirai (Kabiiy)
+    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
+    džių trejybė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Narbutas senovės Romovėje aprašo aukurą su Amžinąja ugnimi, prižiūrimą vyriausiojo žynio prie šventojo ąžuolo ir dievų stabų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    4 Šiame straipsnyje kalbėsime apie dalykus, kurie nauji, Lietu­
+    vos istorijoje pasirodo pirmąkart. Juos reikia detaliau išdėstyti. Idant
+    išvengtume pasikartojimų, kreipiame skaitytoją į šio veikalo antrąjį
+    tomą, kuriame ketiname nušviesti tautos pradžią, taigi ten bus tin­
+    kamesnė vieta tiems įrodymams. Patys seniausi indai turėjo paprotį,
+    2 2 6
 
+    Beveik kiekviena jų šventoji upė vadinosi Ross.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Narbutas Romovės mitologinį pavadinimą sieja su ąžuolo šventumu ir žodžiu „Romumas“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    ko: „Įvairios šiaurės tautos manė, jog žmogus, turintis su savi­
+    mi ąžuolo amalą, ne tik negalėjo būti sužeistas, bet buvo tik­
+    ras, kad sužeis kiekvieną, į kurį paleis strėlę“. Jeigu atrodytų
+    nepriimtina, kad šiaurėje augo visada žaliuojančių ąžuolų rū­
+    šis, tai būtų galima manyti, kad tie šventieji ąžuolai, augę Ro-
+    movėje ir prie Upsalos, turėjo tankiai priaugusias amalo ša­
+    kas. Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
+    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
+    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
+    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
+    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
+    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
+    mis augdami ant medžių, užauga sieto dydžio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Narbutas rašo, kad kol prūsų Romovė nebuvo sunaikinta, iškilmingas aukas vyriausiems dievams kitur atnašauti nederėjo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Gintaras lenkiškai vadinamas bursztyrv,
+    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
+    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
+    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
+    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
+    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
+    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
+    žodis Hentar pasiskolintas iš lietuvių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: '42 pav. Senovės prūsų herbas VII lentelė Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    42 pav. Senovės prūsų herbas
+    470
+
+    ## Puslapis 465
+
+    VII lentelė
+    Vaizduoja šventą Romovės miestą, buvusį Prūsijoje, Prūsos ir
+    Bysleidos upių santakoje. Aptvare, kurį supa namai, pastatyti šven­
+    tovės tarnams ir pačiam vyriausiajam žyniui, auga žiemą vasarą ža­
+    liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
+    aukų deginimo aukuras su nuolat degančia ugnimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-171782
@@ -386,7 +412,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-175512
   autorius: "Teodoras Narbutas"
@@ -404,7 +430,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-175513
   autorius: "Teodoras Narbutas"
@@ -431,7 +457,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-177142
   autorius: "Teodoras Narbutas"
@@ -451,7 +477,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-008
+    - t-007
 
 - id: c-177143
   autorius: "Teodoras Narbutas"
@@ -472,7 +498,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-179396
   autorius: "Teodoras Narbutas"
@@ -495,7 +521,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-184451
   autorius: "Simonas Daukantas"
@@ -523,7 +549,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 ## Ryšiai
 - Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

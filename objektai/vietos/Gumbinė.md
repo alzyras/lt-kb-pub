@@ -39,7 +39,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-170419"></a>
-- t-009
+- t-001
   teiginys: "XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,12 +53,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-155070
-- susijęs iš [[objektai/paprociai/Varpų naudojimas pavojui, sargybai ir kariams kelti.md#claim-t-189813|Varpų naudojimas pavojui, sargybai ir kariams kelti]]: Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.
-- susijęs iš Prūsija: XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190731|Johanas Foigtas]]: Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.
-- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
-- susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
-- susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
+
 ## Citatos
 
 - id: c-155070
@@ -81,4 +76,4 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001

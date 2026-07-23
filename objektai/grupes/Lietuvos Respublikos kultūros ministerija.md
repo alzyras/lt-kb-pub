@@ -55,15 +55,7 @@ Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Re
   temporalinis_llm_pakomentavimas: "Pradinis tekstas yra bibliografinio puslapio nuotrupa su OCR triukšmu."
   pagrindžia:
     - c-82784
-- susijęs iš [[objektai/autoriai/Irena Katilienė.md#claim-t-55007|Irena Katilienė]]: Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
-- susijęs iš [[objektai/autoriai/Jūratė Dalia Baronienė.md#claim-t-55008|Jūratė Dalia Baronienė]]: Jūratė Dalia Baronienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
-- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55017|Mykolas Balinskis]]: Mykolo Balinskio „Vilniaus miesto istorijos“ lietuviškas leidimas verstas iš 1836-1837 m. Vilniuje spausdinto leidinio.
-- susijęs iš [[objektai/autoriai/Ona Slavėnaitė.md#claim-t-55018|Ona Slavėnaitė]]: Ona Slavėnaitė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
-- susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-81964|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė.
-- susijęs iš [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija.md#claim-t-86806|Lietuvos tūkstantmečio minėjimo direkcija]]: Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.
-- susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): 2007 m. lietuvišką leidimą išleido MINTIS; bibliografinėje eilutėje nurodytas ISBN 978-5-417-00907-5.
-- susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-55022|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė.
-- susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): 2007 m. leidinys verstas iš Michało Balińskio veikalo „Historya Miasta Wilna“, 1836-1837 m. spausdinto Vilniuje Antono Marcinovskio spaustuvėje.
+
 ## Citatos
 
 - id: c-82784

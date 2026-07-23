@@ -31,7 +31,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 ## Teiginiai
 
 <a id="claim-t-75594"></a>
-- t-002
+- t-001
   teiginys: "Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -47,14 +47,14 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     - c-25041
 
 <a id="claim-t-75597"></a>
-- t-004
+- t-002
   teiginys: "Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73327
-- susijęs iš [[objektai/autoriai/Vaskela G.md#claim-t-17744|Vaskela G]]: G. Vaskela parašė knygą „Žemės reforma Lietuvoje 1919–1940 m.“, išleistą Vilniuje 1998 m.
+
 ## Citatos
 
 - id: c-25041
@@ -74,7 +74,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-73327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -96,4 +96,4 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

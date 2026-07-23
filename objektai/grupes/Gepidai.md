@@ -73,12 +73,7 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175186
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
-- susijęs iš [[objektai/ivykiai/Teodoriko Italijos žygis su ostrogotais ir kolonistais.md#claim-t-191053|Teodoriko Italijos žygis su ostrogotais ir kolonistais]]: Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191046|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
+
 ## Citatos
 
 - id: c-168820

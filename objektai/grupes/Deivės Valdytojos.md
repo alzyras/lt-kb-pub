@@ -40,8 +40,7 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175721
-- susijęs iš [[objektai/zodynas/Verpėja ir Deivės Valdytojos.md#claim-t-192313|Verpėja ir Deivės Valdytojos]]: Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų.
-- susijęs iš [[objektai/zodynas/Verpėja ir Deivės Valdytojos.md#claim-t-192315|Verpėja ir Deivės Valdytojos]]: Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos be pasigailėjimo nužudydavo kiekvieną jų garbę įžeidusį žmogų.
+
 ## Citatos
 
 - id: c-175721

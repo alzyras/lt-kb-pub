@@ -77,9 +77,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Silvestro Valiūno ryšį su citatoje aprašyta aplinka."
   pagrindžia:
     - c-166959
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45131|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45132|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45133|Mokslo bičiulių draugija]]: Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
+
 ## Citatos
 
 - id: c-166959

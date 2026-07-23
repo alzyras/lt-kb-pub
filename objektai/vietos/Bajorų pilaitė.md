@@ -71,11 +71,10 @@ media_all_json: |-
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
     puolė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-168639

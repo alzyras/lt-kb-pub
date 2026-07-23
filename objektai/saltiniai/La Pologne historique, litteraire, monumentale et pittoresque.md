@@ -8,11 +8,11 @@ datos:
   - '1871 m.'
 date_start: '1800'
 date_end: '1871'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVIII'
   - 'XIX'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

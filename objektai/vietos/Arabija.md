@@ -44,9 +44,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35390
-- susijęs iš [[objektai/grupes/Arabai.md#claim-t-35575|Arabai]]: Prie romano buvo pridėtas trumpas geografinis ir istorinis paaiškinimas apie arabus, turkus, kurdus ir kitas tauteles.
-- susijęs iš Afrika: Aprašyto keliautojo maršrutas driekėsi per Arabiją, Afriką ir Mezopotamiją.
-- susijęs iš [[objektai/zodynas/kelionių romanas.md#claim-t-36792|kelionių romanas]]: Prie kelionių romano buvo pridėtas geografinis ir istorinis paaiškinimas, žodynėlis ir kelionės žemėlapis.
+
 ## Citatos
 
 - id: c-35390

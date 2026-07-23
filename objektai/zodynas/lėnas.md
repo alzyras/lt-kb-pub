@@ -30,7 +30,7 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 ## Teiginiai
 
 <a id="claim-t-70216"></a>
-- t-005
+- t-001
   teiginys: "Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,4 +67,4 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

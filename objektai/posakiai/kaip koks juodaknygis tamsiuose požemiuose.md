@@ -55,9 +55,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184031
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
-- susijęs iš [[objektai/zodynas/juodaknygis.md#claim-t-200675|juodaknygis]]: 1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
+
 ## Citatos
 
 - id: c-184031

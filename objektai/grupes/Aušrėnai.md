@@ -30,18 +30,14 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 ## Teiginiai
 
 <a id="claim-t-07831"></a>
-- t-002
+- t-001
   teiginys: "Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10062
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
-- susijęs iš [[objektai/grupes/Svebai.md#claim-t-28669|Svebai]]: Tacitas teigė, kad Aestii papročiais ir išore buvo panašūs į svebus.
-- susijęs iš [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai ».md#claim-t-28704|Jie « papročiais ir savo išore yra kaip svebai »]]: Tacitas rašė, kad Aestii papročiais ir išore buvo panašūs į svebus, bet jų kalba esanti artimesnė britų kalbai.
-- susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
+
 ## Citatos
 
 - id: c-10061
@@ -72,7 +68,7 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Aušrėnai gyveno [[objektai/vietos/Baltija]]

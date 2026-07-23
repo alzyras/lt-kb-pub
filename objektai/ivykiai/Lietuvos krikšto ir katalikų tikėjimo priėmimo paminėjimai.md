@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-189602"></a>
-- t-002
+- t-001
   teiginys: "Narbutas religinėje interpretacijoje vaizduoja Vladislovą Jogailą ir jo brolius kaip Dievo Lietuvai duotus valdovus tikėjimui įžiebti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-172485
 
 <a id="claim-t-189603"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-172485
 
 <a id="claim-t-189604"></a>
-- t-004
+- t-003
   teiginys: "Narbutas Mindaugo–1386 m. laikotarpį užbaigia Lietuvos krikščionybės įvedimu, Jogailos vedybomis su Jadvyga ir tautos vertimu krikštytis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
     - c-172487
 
 <a id="claim-t-197231"></a>
-- t-005
+- t-004
   teiginys: "Todėl blogai daro kunigai, ku rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichėjų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra mentą draudžiama."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
     - c-172485
 
 <a id="claim-t-197232"></a>
-- t-006
+- t-005
   teiginys: "Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di delis lietuvių svetingumas, darbštumas, namų gyvenimo do rybės."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -183,9 +183,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
-    - t-005
+    - t-004
 
 - id: c-172486
   autorius: "Teodoras Narbutas"
@@ -230,7 +230,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-179076
   autorius: "Teodoras Narbutas"
@@ -260,4 +260,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

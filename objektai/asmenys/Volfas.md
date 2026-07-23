@@ -60,9 +60,7 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179359
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191201|Eduka]]: Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą.
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191948|Eduka]]: Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus.
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191201|Eduka]]: Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą.
+
 ## Citatos
 
 - id: c-174214

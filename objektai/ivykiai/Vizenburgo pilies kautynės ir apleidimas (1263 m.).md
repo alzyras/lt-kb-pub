@@ -7,14 +7,14 @@ datos:
   - '1263 m.'
 date_start: '1263'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62951"></a>
-- t-003
+- t-001
   teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -106,10 +106,28 @@ Nenurodyta
     susidūrime tris nukovė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-62952
+  statusas: verified
+- t-001
+
+- c-003
+  santrauka: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    broliai padarė daug nuostabių darbų. Mat Bartenšteino pilyje buvo vienas vyras, vardu
+    Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų
+    buvusi sunaikinta. Dėl to jie nutarė klasta jį išvilioti ir nužudyti; išmėginę daug visokių
+    priemonių, galop ėmėsi štai šio būdo. Paspendę pasalas, pasiuntė vieną įgudusį kariauti
+    vyrą, kuris nelyginant Galijotas, kvietęs į kovą Izraelio sūnų pulkus, pradėtų kiršinti
+    apsuptųjų kariuomenę. Sis didžiu balsu šaukė: „Jeigu pilyje yra nors vienas vyras, kuris
+    drįstų susigrumti su manimi dvikovoje, tegu išeina štai čia iš pilies“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
 
 ## Citatos
 
@@ -131,7 +149,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-63835
@@ -156,7 +174,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-63836
@@ -192,6 +210,7 @@ Nenurodyta
   citata_rodoma: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391\njuos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto\nbuvo susitarę. Šitai matydami, broliai sulipo į šalimais buvusį kalnelį ir ten ilgai narsiai\ngynėsi, o šios grumtynės pareikalavo iš vienos ir kitos šalies daugybės aukų. Viešpačiui\nleidus, prūsai galop paėmė viršų ir nukovė dvidešimt brolių bei visą jų kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

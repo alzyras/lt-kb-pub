@@ -57,18 +57,7 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie langobardų žygį."
   pagrindžia:
     - c-168785
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187455|Palemonas]]: Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-184607|Dusburgas]]: Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188459|Petras Dusburgietis]]: Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime.md#claim-t-185759|Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]: Pasak Kojelavičiaus, Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
-- susijęs iš [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.).md#claim-t-185831|Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]: 475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.
-- susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185889|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
-- susijęs iš Romanova: Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
+
 ## Citatos
 
 - id: c-168785
@@ -102,6 +91,3 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-
-## Ryšiai
-- Langobardai sudarė sutartį su [[objektai/grupes/Romėnai]]

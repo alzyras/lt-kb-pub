@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 ## Teiginiai
 
 <a id="claim-t-60082"></a>
-- t-002
+- t-001
   teiginys: "Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - c-60715
 
 <a id="claim-t-60083"></a>
-- t-001
+- t-002
   teiginys: "Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     - c-60714
 
 <a id="claim-t-194475"></a>
-- t-004
+- t-003
   teiginys: "Apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą Tuo metu septintu Teutonų namų ordino didžiuoju magistru buvo brolis Anonas, žmogus itin dievotas, daug gera padaręs ordinui ir šventajai žemei."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,11 +86,10 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
     sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
     kariuomenė ir visą šią žmonių minią išžudė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60714
@@ -112,7 +111,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-60715
   autorius: "Petras Dusburgietis"
@@ -134,5 +133,5 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003

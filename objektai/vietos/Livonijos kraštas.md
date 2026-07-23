@@ -30,7 +30,7 @@ Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Li
 ## Teiginiai
 
 <a id="claim-t-187257"></a>
-- t-002
+- t-001
   teiginys: "Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -78,4 +78,4 @@ Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

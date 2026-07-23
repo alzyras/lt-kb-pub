@@ -73,7 +73,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-183955"></a>
-- t-003
+- t-002
   teiginys: "Karšuvos pilis ant švento Jurgio kalno buvo pastatyta Livonijos ir Prūsijos brolių lėšomis bei darbu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-194415"></a>
-- t-004
+- t-003
   teiginys: "Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Nenurodyta
     - c-63750
 
 <a id="claim-t-194416"></a>
-- t-005
+- t-004
   teiginys: "Turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -139,6 +139,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
     - t-004
-    - t-005

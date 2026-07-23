@@ -57,7 +57,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 ## Teiginiai
 
 <a id="claim-t-12402"></a>
-- t-006
+- t-001
   teiginys: "Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-14177
 
 <a id="claim-t-66523"></a>
-- t-004
+- t-002
   teiginys: "Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66735
 
 <a id="claim-t-66524"></a>
-- t-002
+- t-003
   teiginys: "1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66736
 
 <a id="claim-t-66525"></a>
-- t-001
+- t-004
   teiginys: "1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66737
 
 <a id="claim-t-66526"></a>
-- t-003
+- t-005
   teiginys: "Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -143,9 +143,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66738
-- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
-- susijęs iš Gardinas: Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino.
-- susijęs iš Gardinas: Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d.
+
 ## Citatos
 
 - id: c-14177
@@ -166,7 +164,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-66735
   autorius: "Zenonas Ivinskis"
@@ -187,7 +185,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-66736
   autorius: "Zenonas Ivinskis"
@@ -207,7 +205,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-66737
   redaktorius: "A. Šapoka"
@@ -225,7 +223,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-66738
   autorius: "Zenonas Ivinskis"
@@ -243,4 +241,4 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005

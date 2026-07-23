@@ -46,7 +46,7 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   semantiniai_rysiai: "Dubrovno pavietas priklausė Vaidila (0.89)"
   pagrindžia:
     - c-82160
-- susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
+
 ## Citatos
 
 - id: c-82160

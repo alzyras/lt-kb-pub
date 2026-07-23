@@ -49,7 +49,7 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175676
-- susijęs iš [[objektai/asmenys/Biorntelis.md#claim-t-191377|Biorntelis]]: Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių.
+
 ## Citatos
 
 - id: c-175676

@@ -61,8 +61,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44775
-- susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
-- susijęs iš [[objektai/zodynas/arkebuzieriai.md#claim-t-42430|arkebuzieriai]]: Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.
+
 ## Citatos
 
 - id: c-42751

@@ -1,7 +1,6 @@
 import fs from "node:fs"
 import path from "node:path"
 import { createUniqueSlugMap, FilePath, FullSlug, simplifySlug } from "../quartz/util/path"
-import { parseEvidenceSections } from "../quartz/util/citationFilter"
 import {
   buildRelationTargetMap,
   readRelationDocuments,
@@ -19,7 +18,6 @@ type RelationIssue = {
 
 type ExpectedRelation = {
   targetSlug: FullSlug
-  claimIds: string[]
 }
 
 const projectRoot = path.resolve(process.env.PROJECT_ROOT ?? ".")
@@ -33,40 +31,14 @@ function listMarkdownFiles(dir: string): string[] {
   })
 }
 
-function claimGlobalIds(markdown: string): string[] {
-  const heading = markdown.search(/^##\s+Teiginiai\s*$/m)
-  if (heading < 0) return []
-  const bodyStart = markdown.indexOf("\n", heading) + 1
-  const body = markdown.slice(bodyStart)
-  const nextHeading = body.search(/^##\s+/m)
-  const section = nextHeading >= 0 ? body.slice(0, nextHeading) : body
-  const ids: string[] = []
-  let pending = ""
-  for (const line of section.split(/\r?\n/)) {
-    const anchor = line.match(/^\s*<a\s+id=["']claim-(t-\d+)["']\s*><\/a>\s*$/i)
-    if (anchor) {
-      pending = anchor[1]
-      continue
-    }
-    const claim = line.match(/^\s*-\s+(?:id:\s*)?(t-\d+)\s*$/i)
-    if (claim) {
-      ids.push(pending)
-      pending = ""
-    }
-  }
-  return ids
-}
-
 function expectedRelations(
   markdown: string,
   relationTargetMap: Record<string, FullSlug | null>,
 ): Map<string, ExpectedRelation> {
   const result = new Map<string, ExpectedRelation>()
-  const add = (targetSlug: FullSlug, claimId?: string) => {
+  const add = (targetSlug: FullSlug) => {
     const key = simplifySlug(targetSlug)
-    const relation = result.get(key) ?? { targetSlug, claimIds: [] }
-    if (claimId && !relation.claimIds.includes(claimId)) relation.claimIds.push(claimId)
-    result.set(key, relation)
+    result.set(key, result.get(key) ?? { targetSlug })
   }
 
   for (const rawTarget of relationTargetWikilinks(markdown)) {
@@ -74,16 +46,6 @@ function expectedRelations(
     if (targetSlug) add(targetSlug)
   }
 
-  const claims = (parseEvidenceSections(markdown).get("Teiginiai") ?? []).filter((entry) =>
-    entry.id.startsWith("t-"),
-  )
-  const globalIds = claimGlobalIds(markdown)
-  claims.forEach((claim, index) => {
-    const rawTarget = claim.fields.get("ryšio_targeto_parinkimas")?.trim() ?? ""
-    const targetSlug = relationTargetSlug(rawTarget, relationTargetMap)
-    if (!rawTarget || !targetSlug) return
-    add(targetSlug, claim.fields.get("global_id")?.trim() || globalIds[index] || claim.id)
-  })
   return result
 }
 
@@ -186,26 +148,6 @@ for (const document of documents) {
         message: `Graph topology does not contain ${document.slug} -> ${relation.targetSlug}`,
       })
     }
-    for (const claimId of relation.claimIds) {
-      if (!html.includes(`id="claim-${claimId}"`)) {
-        issues.push({
-          code: "missing_rendered_claim_anchor",
-          filePath: document.filePath,
-          target: relation.targetSlug,
-          claimId,
-          message: `Global claim anchor ${claimId} is missing from the rendered page`,
-        })
-      }
-      if (!section.includes(`#claim-${claimId}`)) {
-        issues.push({
-          code: "missing_rendered_claim_relation_link",
-          filePath: document.filePath,
-          target: relation.targetSlug,
-          claimId,
-          message: `Ryšiai section does not link to claim ${claimId}`,
-        })
-      }
-    }
   }
 
   for (const target of renderedTargets) {
@@ -217,6 +159,14 @@ for (const document of documents) {
         message: `Rendered Ryšiai section contains an unexpected target ${target}`,
       })
     }
+  }
+
+  if (/\bt-\d{3,}\b/i.test(section)) {
+    issues.push({
+      code: "technical_global_claim_id_in_rendered_relations",
+      filePath: document.filePath,
+      message: "Rendered Ryšiai section exposes a global claim id outside Advanced mode",
+    })
   }
 }
 

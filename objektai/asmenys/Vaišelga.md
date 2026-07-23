@@ -62,7 +62,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-166966
 
 <a id="claim-t-82778"></a>
-- t-003
+- t-002
   teiginys: "Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-79211
 
 <a id="claim-t-183573"></a>
-- t-004
+- t-003
   teiginys: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-166966
 
 <a id="claim-t-196616"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičius aiškino, kad dėl nevienodai rašyto Mindaugo sūnaus Vaišelgos vardo pasakojime atsirado du veikiantieji asmenys."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,12 +111,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178801
-- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75376|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.
-- susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
-- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75375|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.
-- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
-- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
+
 ## Citatos
 
 - id: c-79211
@@ -162,7 +157,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166966
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -184,7 +179,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-178801
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -201,7 +196,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

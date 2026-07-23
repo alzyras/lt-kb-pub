@@ -39,7 +39,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 ## Teiginiai
 
 <a id="claim-t-69178"></a>
-- t-002
+- t-001
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]

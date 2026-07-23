@@ -30,7 +30,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 ## Teiginiai
 
 <a id="claim-t-189128"></a>
-- t-002
+- t-001
   teiginys: "Narbutas žodį „Triopa“ arba „Trejopa“ aiškina kaip tris ženklus, simbolius ar žmogaus egzistavimo tarpsnius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
     - c-172016
 
 <a id="claim-t-197361"></a>
-- t-004
+- t-002
   teiginys: "Dabar sunku tinkamai atskleisti to mito prasmę: pirma, apeigos buvo slaptos, antra, painiava net senovės mitologų vei kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre ti - kerėtojais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
     - c-172014
 
 <a id="claim-t-197362"></a>
-- t-005
+- t-003
   teiginys: "Nežinia, kas buvo užrašyta, bet vis dėlto vienas žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai ar figūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-172016
   autorius: "Teodoras Narbutas"
@@ -124,7 +124,7 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177079
   autorius: "Teodoras Narbutas"
@@ -153,4 +153,4 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

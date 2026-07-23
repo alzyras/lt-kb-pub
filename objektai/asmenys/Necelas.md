@@ -44,10 +44,7 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83784
-- susijęs iš [[objektai/asmenys/Renkielis.md#claim-t-87569|Renkielis]]: Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.
-- susijęs iš [[objektai/asmenys/Renkielis.md#claim-t-87568|Renkielis]]: Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.
-- susijęs iš [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu.md#claim-t-87286|Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]: Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.
-- susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
+
 ## Citatos
 
 - id: c-83784

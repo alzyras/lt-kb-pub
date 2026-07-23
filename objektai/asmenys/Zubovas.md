@@ -44,9 +44,7 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83874
-- susijęs iš [[objektai/grupes/Zubovai.md#claim-t-86837|Zubovai]]: Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, norėdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė darbų nebaigęs.
-- susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
-- susijęs iš Liepkalnis: Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje.
+
 ## Citatos
 
 - id: c-83874

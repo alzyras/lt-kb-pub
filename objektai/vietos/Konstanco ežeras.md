@@ -49,8 +49,7 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175650
-- susijęs iš [[objektai/asmenys/Pomponijus Mela.md#claim-t-191508|Pomponijus Mela]]: Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru.
-- susijęs iš [[objektai/autoriai/Pomponijus Mela.md#claim-t-191551|Pomponijus Mela]]: Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru.
+
 ## Citatos
 
 - id: c-175650

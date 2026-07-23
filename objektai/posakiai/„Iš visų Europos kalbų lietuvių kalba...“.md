@@ -46,7 +46,7 @@ media_all_json: |-
     - c-23569
 
 <a id="claim-t-101618"></a>
-- t-003
+- t-002
   teiginys: "Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-23569
 
 <a id="claim-t-101619"></a>
-- t-004
+- t-003
   teiginys: "Benjaminas W. Dwightas lietuvių kalbą išskyrė dėl gausių maloninių ir mažybinių žodžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,5 +112,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
-    - t-004

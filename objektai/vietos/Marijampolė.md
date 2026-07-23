@@ -43,7 +43,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Teiginiai
 
 <a id="claim-t-68592"></a>
-- t-004
+- t-001
   teiginys: "Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68137
 
 <a id="claim-t-68593"></a>
-- t-003
+- t-002
   teiginys: "J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     - c-68136
 
 <a id="claim-t-68594"></a>
-- t-001
+- t-003
   teiginys: "Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,29 +95,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citata paremtas faktas apie Marijampolę."
   pagrindžia:
     - c-32216
-- susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75997|Petras Kriaučiūnas]]: Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.
-- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
-- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/Saulė.md#claim-t-168658|Saulė]]: „Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.
-- susijęs iš Kučinskas A. Kęstutis lietuvių tautos gynėjas: A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.
-- susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
-- susijęs iš Marijampolės apskritis: 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
-- susijęs iš [[objektai/asmenys/Daujotas.md#claim-t-190141|Daujotas]]: Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų.
-- susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
-- susijęs iš [[objektai/daiktai/Mauser 98 šautuvas.md#claim-t-40742|Mauser 98 šautuvas]]: Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38838|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/Žiburys.md#claim-t-182933|Žiburys]]: Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.
-- susijęs iš [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų.md#claim-t-41480|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]: Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.
-- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
-- susijęs iš Ko bėgo Kęstučio sūnus iš Lietuvos: „Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.
-- susijęs iš Kęstučio Brasta: „Kęstučio Brasta“ nurodoma Lietuvių enciklopedijos 11 tome, 405 puslapyje.
-- susijęs iš P. Šležas Kauno pilies išgriovimas: P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.
-- susijęs iš Salys, A. Kęstučio vardas: A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.
-- susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
-- susijęs iš Lokaičiai: 1809 m. Lokaičių kaime kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
-- susijęs iš Suvalkai: Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
-- susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75997|Petras Kriaučiūnas]]: Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.
+
 ## Citatos
 
 - id: c-32216
@@ -142,7 +120,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-68136
   autorius: "Zenonas Ivinskis"
@@ -161,7 +139,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-68137
   redaktorius: "A. Šapoka"
@@ -181,4 +159,4 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

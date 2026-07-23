@@ -38,7 +38,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
 ## Teiginiai
 
 <a id="claim-t-192795"></a>
-- t-002
+- t-001
   teiginys: "Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175565
 
 <a id="claim-t-192796"></a>
-- t-003
+- t-002
   teiginys: "Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175566
 
 <a id="claim-t-192797"></a>
-- t-004
+- t-003
   teiginys: "Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175567
 
 <a id="claim-t-197936"></a>
-- t-005
+- t-004
   teiginys: "Varmija Ketvirta provincija — Varmija, taip vadinama nuo senų laikų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175565
 
 <a id="claim-t-197937"></a>
-- t-006
+- t-005
   teiginys: "Iš čia Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin iau miestų net ligi Alnos upės, kur baigėsi senoji Var mijos siena, o kitapus upės prasidėjo Barta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
     - c-175566
 
 <a id="claim-t-197938"></a>
-- t-007
+- t-006
   teiginys: "Dar mažiau žinomos pietinės Varmijos sienos su Galinda."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -132,27 +132,7 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175567
-- susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
-- susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192207|Warikt]]: Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti.
-- susijęs iš [[objektai/grupes/Glotinų šeima.md#claim-t-192982|Glotinų šeima]]: Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje minima Liubeko gyventojams statytina laisvoji civitas ir jiems priskirtos Sambijos, Vitlandijos bei Varmijos žemės.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: 1246 m. sutartyje Liubeko kolonistams numatyta pusė Ordino trečdalio Sambijoje ir 2500 mansų Varmijoje.
-- susijęs iš 1258 metų vicemagistro Gerardo Hircbergo sutartis: Narbutas 1258 m. Gerardo Hircbergo sutartį pateikia kaip Vitlandijos buvimo tarp Sambijos, Natangijos ir Varmijos įrodymą.
-- susijęs iš Varmijos vyskupo Anzelmo raštas apie Lemptenburgą: Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“.
-- susijęs iš Galinda: Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.
-- susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191175|Augustas Friderikas Kocebu]]: Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.
-- susijęs iš [[objektai/asmenys/Gerardas Hircbergas.md#claim-t-191403|Gerardas Hircbergas]]: 1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas.
-- susijęs iš [[objektai/asmenys/Kocebus.md#claim-t-191351|Kocebus]]: Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.
-- susijęs iš [[objektai/asmenys/Pogezanija.md#claim-t-191308|Pogezanija]]: Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus.
-- susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-192520|Augustas fon Kocebus]]: Kocebaus darbe Narbutas nurodė 1246 m. sutartį kaip seniausią jam žinomą liudijimą apie dingusios Sambijos dalies egzistavimą.
-- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
-- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192512|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
-- susijęs iš Natangija: Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link.
-- susijęs iš Vitlandija: Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.
-- susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
-- susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192207|Warikt]]: Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti.
-- susijęs iš [[objektai/grupes/Glotinų šeima.md#claim-t-192982|Glotinų šeima]]: Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių.
+
 ## Citatos
 
 - id: c-175565
@@ -177,8 +157,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-175566
   autorius: "Teodoras Narbutas"
@@ -202,8 +182,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-002
+    - t-005
 
 - id: c-175567
   autorius: "Teodoras Narbutas"
@@ -226,8 +206,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-003
+    - t-006
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]

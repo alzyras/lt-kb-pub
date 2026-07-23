@@ -137,6 +137,7 @@ Nenurodyta
   citata_rodoma: "Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais\nviešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

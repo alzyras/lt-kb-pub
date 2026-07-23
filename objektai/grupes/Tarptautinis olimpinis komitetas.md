@@ -55,9 +55,7 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
   temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako institucijos veiksmą ir datą."
   pagrindžia:
     - c-22771
-- susijęs iš [[objektai/daiktai/Olimpiniai medaliai.md#claim-t-19574|Olimpiniai medaliai]]: 1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.
-- susijęs iš [[objektai/grupes/Lietuvos tautinis olimpinis komitetas.md#claim-t-19905|Lietuvos tautinis olimpinis komitetas (institucija)]]: Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.
-- susijęs iš [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis).md#claim-t-20362|Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]: 1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.
+
 ## Citatos
 
 - id: c-22771

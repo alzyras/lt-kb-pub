@@ -49,7 +49,7 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173333
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93428|Kristijonas (vyskupas, XIII a.)]]: Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.
+
 ## Citatos
 
 - id: c-173333

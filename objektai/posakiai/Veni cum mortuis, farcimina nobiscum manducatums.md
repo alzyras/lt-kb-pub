@@ -54,9 +54,3 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves.
-- susijęs iš [[objektai/zodynas/Ežiagulis Eiagulis.md#claim-t-189357|Ežiagulis Eiagulis]]: Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėja, kad vardas galėjo reikšti kape gulintį asmenį.
-- susijęs iš [[objektai/zodynas/Ežiagulis Ežagtdis.md#claim-t-189292|Ežiagulis Ežagtdis]]: Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėja, kad vardas galėjo reikšti kape gulintį asmenį.

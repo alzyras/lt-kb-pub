@@ -9,16 +9,16 @@ datos:
   - '484 m.'
 date_start: '400'
 date_end: '484'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'IV'
-  - 'V'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - autorius
+amziai:
+  - 'IV'
+  - 'V'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -101,7 +101,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173200
 
 <a id="claim-t-190704"></a>
-- t-005
+- t-004
   teiginys: "Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173604
 
 <a id="claim-t-190708"></a>
-- t-009
+- t-005
   teiginys: "Herodotas sarmatams priskyrė pusiau pasakiškas ištakas iš amazonių ir skitų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173590
 
 <a id="claim-t-190709"></a>
-- t-010
+- t-006
   teiginys: "Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173591
 
 <a id="claim-t-190710"></a>
-- t-011
+- t-007
   teiginys: "Herodotas teigė, kad gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -176,7 +176,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173592
 
 <a id="claim-t-190712"></a>
-- t-013
+- t-008
   teiginys: "Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -196,7 +196,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173594
 
 <a id="claim-t-190713"></a>
-- t-014
+- t-009
   teiginys: "Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -217,7 +217,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173595
 
 <a id="claim-t-190714"></a>
-- t-015
+- t-010
   teiginys: "Anot Herodoto, skitiškas žodis „Arimą“ reiškė skaitvardį „vienas“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -237,7 +237,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173596
 
 <a id="claim-t-190715"></a>
-- t-016
+- t-011
   teiginys: "Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -260,7 +260,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173597
 
 <a id="claim-t-190716"></a>
-- t-017
+- t-012
   teiginys: "Teodoro Narbuto manymu, Herodotas keliaudamas po Skitiją turėjo lankytis Kankinėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -280,7 +280,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173598
 
 <a id="claim-t-190717"></a>
-- t-018
+- t-013
   teiginys: "Herodotas IV knygoje rašė apie skitų kapus prie Molocho vandenų arba, kitų manymu, aukščiau kairiojo Dnepro kranto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -300,7 +300,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173599
 
 <a id="claim-t-190719"></a>
-- t-020
+- t-014
   teiginys: "Teodoras Narbutas Herodoto darbuose rado seniausių žinių apie Meotų jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -320,7 +320,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173601
 
 <a id="claim-t-190720"></a>
-- t-021
+- t-015
   teiginys: "Teodoro Narbuto vertinimu, Herodoto aprašymuose yra nemažai neaiškių vietų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -333,7 +333,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173602
 
 <a id="claim-t-190721"></a>
-- t-022
+- t-016
   teiginys: "Teodoro Narbuto vertinimu, Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -346,7 +346,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173603
 
 <a id="claim-t-190722"></a>
-- t-023
+- t-017
   teiginys: "Pasak Herodoto, budinai buvo didelė ir gausi tauta, turėjusi mėlynas akis ir geltonai pilkšvus plaukus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -366,7 +366,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173604
 
 <a id="claim-t-192525"></a>
-- t-026
+- t-018
   teiginys: "Teodoras Narbutas nurodė iki tol rėmęsis Herodoto pasakojimu apie kelionę nuo Maetis ežero į žemyno gilumą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -386,7 +386,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-175313
 
 <a id="claim-t-194878"></a>
-- t-027
+- t-019
   teiginys: "Narbuto pamėgtuosius budinus: ,,<...> Herodoto budinai buvo venedų tauta, ir mums didelė pa guoda, jog jau tokiais ankstyvais amžiais toks patikimas rašytojas duoda mums akivaizdų atminimą senovinės tautos, kurią, protingai apsvarsčius visas galimybes, kiek."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -398,7 +398,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-177274
 
 <a id="claim-t-194879"></a>
-- t-028
+- t-020
   teiginys: "Herodotas buvo teigiama, jog čia kalbama apie čigonus, tačiau šiandien to daryli jau nebegalima, nes jų istorija gerai žinoma'’1'."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -410,7 +410,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-177275
 
 <a id="claim-t-197298"></a>
-- t-029
+- t-021
   teiginys: "Herodotas aprėkdavusi kiekvieną įeinantį, kad nesumindytų pieno karalienės."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -422,7 +422,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-179111
 
 <a id="claim-t-197593"></a>
-- t-030
+- t-022
   teiginys: "Šios upės, susiliejančios netoli Dnepro žiočių, iš tikrųjų išteka iš skirtingų kraštų; tai sako ir Herodotas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -434,7 +434,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173588
 
 <a id="claim-t-197594"></a>
-- t-031
+- t-023
   teiginys: "Herodotas raišo-, kaid karalių kapai yra pas gerus, kurie gyvena tolimuosiuose Geruose ir kapinėse."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -446,7 +446,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173589
 
 <a id="claim-t-197595"></a>
-- t-032
+- t-024
   teiginys: "Herodotas ¡savo kelionės po Skitiją metu teiravosi apie gintaringas vietas; boristeniečiai, ariba Padneprės graikų kolonistai, jam pasakoję, jog šis produktas pasie kiąs juos iš šiaurės vakaruose esančios jūros."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -458,7 +458,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173594
 
 <a id="claim-t-197596"></a>
-- t-033
+- t-025
   teiginys: "Herodotas nukrito iš dangaus ir nuskendo Vakaruose, Eridane."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -470,7 +470,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-179256
 
 <a id="claim-t-197597"></a>
-- t-034
+- t-026
   teiginys: "Niekas iš gerai pažintų dalykų neatitinka labiau tikrovės už mūsų 1 Herodotas buvo kilęs iš Halikarnaso, dorėnų krašto."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -482,7 +482,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173597
 
 <a id="claim-t-197598"></a>
-- t-035
+- t-027
   teiginys: "Herodotas, keliaudamas po Skitiją, be abejo, turėjo lankytis šioje vietoje, nes, kaip matome iš jo ap rašymų, jis bandė nustatyti kelią į šiaurę ir ketino tęsti savo kelionę į tą pusę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -494,7 +494,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173598
 
 <a id="claim-t-197599"></a>
-- t-036
+- t-028
   teiginys: "Herodotas būtų lankęsis tik Dnepro žemupyje esančiose tenykštėse graikų kolonijose, nebūtų taip įtikinamai aprašęs Gerų krašto ir kitų smulkmenų, susijusių su šiaurės vakarų Skitija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -506,7 +506,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-179257
 
 <a id="claim-t-197600"></a>
-- t-037
+- t-029
   teiginys: "Herodotas rašo (IV knyga), kad prie Molocho van denų arba, kaip mano kiti, kažkur aukščiau kairiojo Dnep ro kranto matęs skitų kapų, o kiti, jo nuomone, turi būti kažkur šiauriau Gerų krašte, kur taip pat teka to paties pavadinimo upė; ten skitai nuo Dnepro."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -518,7 +518,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173599
 
 <a id="claim-t-197601"></a>
-- t-038
+- t-030
   teiginys: "Herodoto aprašymuose yra ne mažai neaiškių vietų, ir taip bus ilgai, kol tinkamai pa nagrinėsime jas dabartinių ir praėjusių laikų dvasia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -530,7 +530,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173602
 
 <a id="claim-t-197602"></a>
-- t-039
+- t-031
   teiginys: "Nei Homero, nei Herodoto žemėlapiai, kurie niekad nebuvo tikslūs astronominiai-geografiniai, bet apskritai mitologiniai, kosmografiniai, genealoginiai ir istoriniai, nesutampa su mūsų žemėlapiais, kuriems būdingos tiks lios matematinės projekcijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -542,7 +542,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173603
 
 <a id="claim-t-197603"></a>
-- t-040
+- t-032
   teiginys: "Greta vidinio ežero kampo1 2, kur prasideda sauromatų gyvenamosios vietos, penkiolika dienų kelio į šiaurę3 plytėjo jų valdos, visiškai plikos žemės, kur toliau, kaip rašė Herodotas, prasidėjo tikras budinu kraštas; jame žaliavo tankus įvai rių medžių miškai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -554,7 +554,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173604
 
 <a id="claim-t-197604"></a>
-- t-041
+- t-033
   teiginys: "Lig šiol vadovavomės Herodoto pasakojimu, kuriame jie keliavo nuo Maetis ežero į žemyno gilumą; dabar grįž kime ten, kur jo vandenys jungiasi su Pontu, ir panagri nėkime tą truputį istorijos palikimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -566,6 +566,91 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-175313
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
+    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
+    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
+    slavų Tryzną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Herodotas ir Strabonas tikino, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti dievams skirtas šventyklas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis. Neabejotina, kad Retra iš karto buvo
+    lierulų miestas, kurio liekanos aptiktos prie Prilvico kaimo ne-
+    l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
+    nanti prabangumu tas beveik dar laukines Europos šalis. Ar
+    ne paprasčiau būtų to rūmo pastatymą priskirti užkariauto­
+    jams iš Italijos negu slavams, kurie savo šalyje niekur nieko
+    panašaus neturėjo ir, atplūdę iš Vyslos dešiniojo kranto miš­
+    kingų tyrų, užgrobė vandalų, svebų ir kitų vokiečių tautų ap­
+    leistas žemes, o paskui pradėjo spausti herulus ir užiminėti jų
+    apgyventas sodybas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Jaunesni žmonės, juos kirpdami, niekad nenumes-
+    davo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,
+    sviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­
+    dingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­
+    tybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų
+    išmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }
+    sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
+    žiausios nuokirpos. Iš čia tamsioje vaizduotėje įsišaknijo įsi­
+    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
+    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
+    les iš kambarių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Teodoras Narbutas skitų tautos bruožų vaizdą siejo su Herodoto kūriniais ir jo kelione tarp skitų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    53
+
+    ## Puslapis 51
+
+    artimas energingam temperamentas. Toks skitų tautos
+    bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
+    niškai keliavo su ta tautai, kūrinių1.
+    31
+    Skitų valdos, arba veikiau didžiulis kraštas, po kurį
+    jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis,
+    Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio­
+    mis kalnuotomis dykumomis, paskui beveik ta pačia kryp­
+    timi nubrėžta linija iki 52 laipsnių platumos lygiagretės,
+    kuri net iki susikirtimo su Donu uždarydavo tą erdvę iš
+    šiaurės; už tų linijų be paliovos bastėsi pusiau laukinės
+    gentys, vadinamos neurais; tai buvo miškų gyventojai,
+    kurie niekados nepereidavo į atviras skitų šalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-011
   santrauka: 'Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -581,11 +666,34 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     gi kalba apie gintarą, randamą ten, kur Aldeskos upė
     įteka į Šiaurės jūrą3.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-028
+
+- c-017
+  santrauka: 'Teodoro Narbuto vertinimu, skitų istoriją būtų galima plėsti lyginant vietos tyrimus su Herodoto aprašymais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    374
+
+    ## Puslapis 385
+
+    gerai buvo tie senovės duobkasiai, kurie labai ilgai gy­
+    veno prie Dnepro vidurupio.
+    Įdomi ir labai reikalinga skitų istorija yra mažai ži­
+    noma, tačiau jos apimtį galima būtų gerokai praplėsti
+    remiantis vietos tyrimais, kasinėjant ir darant geogra­
+    finius palyginimus su Herodoto dar taip mažai žinomais
+    aprašymais. Mokslininkai šaiposi iš jo kvadratinės Ski­
+    tuos, bet niekas nesiteikė pakeliauti po visą jos žemę ir
+    kaip reikiant iš tikrųjų patikrinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-018
   santrauka: 'Teodoras Narbutas Herodoto darbuose rado seniausių žinių apie Meotų jūrą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -600,10 +708,10 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     helenų ir meotidų, nes tokį bendrinį pavadinimą turėjo
     Pameotidės gyventojai2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-020
   santrauka: 'Teodoro Narbuto vertinimu, Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -625,11 +733,12 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
     lios matematinės projekcijos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-035
+
 - c-022
   santrauka: 'Teodoras Narbutas nurodė iki tol rėmęsis Herodoto pasakojimu apie kelionę nuo Maetis ežero į žemyno gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -644,11 +753,11 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     kime ten, kur jo vandenys jungiasi su Pontu, ir panagri­
     nėkime tą truputį istorijos palikimo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-037
 
 ## Citatos
 
@@ -758,7 +867,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-022
 
 - id: c-173589
   autorius: "Teodoras Narbutas"
@@ -780,7 +889,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-023
 
 - id: c-173590
   autorius: "Teodoras Narbutas"
@@ -802,7 +911,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-173591
   autorius: "Teodoras Narbutas"
@@ -826,7 +935,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-173592
   autorius: "Teodoras Narbutas"
@@ -848,7 +957,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-007
 
 - id: c-173594
   autorius: "Teodoras Narbutas"
@@ -874,8 +983,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-032
+    - t-008
+    - t-024
 
 - id: c-173595
   autorius: "Teodoras Narbutas"
@@ -900,7 +1009,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-009
 
 - id: c-173596
   autorius: "Teodoras Narbutas"
@@ -921,7 +1030,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-010
 
 - id: c-173597
   autorius: "Teodoras Narbutas"
@@ -944,8 +1053,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-034
+    - t-011
+    - t-026
 
 - id: c-173598
   autorius: "Teodoras Narbutas"
@@ -970,8 +1079,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-035
+    - t-012
+    - t-027
 
 - id: c-173599
   autorius: "Teodoras Narbutas"
@@ -994,8 +1103,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-037
+    - t-013
+    - t-029
 
 - id: c-173601
   autorius: "Teodoras Narbutas"
@@ -1022,7 +1131,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-014
 
 - id: c-173602
   autorius: "Teodoras Narbutas"
@@ -1050,8 +1159,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-038
+    - t-015
+    - t-030
 
 - id: c-173603
   autorius: "Teodoras Narbutas"
@@ -1084,8 +1193,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-039
+    - t-016
+    - t-031
 
 - id: c-173604
   autorius: "Teodoras Narbutas"
@@ -1113,9 +1222,9 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-023
-    - t-040
+    - t-004
+    - t-017
+    - t-032
 
 - id: c-175313
   autorius: "Teodoras Narbutas"
@@ -1139,8 +1248,8 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-    - t-041
+    - t-018
+    - t-033
 
 - id: c-177274
   autorius: "Teodoras Narbutas"
@@ -1164,7 +1273,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-019
 
 - id: c-177275
   autorius: "Teodoras Narbutas"
@@ -1183,7 +1292,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-020
 
 - id: c-179111
   autorius: "Teodoras Narbutas"
@@ -1202,7 +1311,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-021
 
 - id: c-179256
   autorius: "Teodoras Narbutas"
@@ -1225,7 +1334,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-025
 
 - id: c-179257
   autorius: "Teodoras Narbutas"
@@ -1246,4 +1355,4 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-028

@@ -8,10 +8,6 @@ datos:
   - '1268 m.'
 date_start: '1254'
 date_end: '1268'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,10 @@ tags:
   - karalius
   - karvedys
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 ## Teiginiai
 
 <a id="claim-t-60188"></a>
-- t-002
+- t-001
   teiginys: "1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - c-60820
 
 <a id="claim-t-197140"></a>
-- t-003
+- t-002
   teiginys: "Apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,8 +117,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 ## Ryšiai
 - Otonas (Brandenburgo markgrafas) surengė žygį į [[objektai/vietos/Prūsija]]

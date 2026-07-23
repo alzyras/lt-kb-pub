@@ -56,7 +56,7 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ## Teiginiai
 
 <a id="claim-t-09709"></a>
-- t-002
+- t-001
   teiginys: "Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -89,4 +89,4 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -66,9 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-10300
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10300

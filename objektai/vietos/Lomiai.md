@@ -41,7 +41,7 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
 ## Teiginiai
 
 <a id="claim-t-195495"></a>
-- t-002
+- t-001
   teiginys: "Kitame pasakojimo epizode į Lomius patariama eiti ne vienam."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -51,7 +51,7 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     - c-177918
 
 <a id="claim-t-195496"></a>
-- t-001
+- t-002
   teiginys: "Folkloriniame pasakojime liepiama eiti į Lomius pas Lubiną."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -79,7 +79,7 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177919
   autorius: "M. Katkus"
@@ -98,4 +98,4 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

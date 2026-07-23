@@ -43,8 +43,7 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65417
-- susijęs iš [[objektai/autoriai/C. Mayhoff.md#claim-t-60681|C. Mayhoff]]: C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas.
-- susijęs iš Plinius C. Secundus Naturalis historiae libri XXXVII Ed. C. Mayhoff. Vol. V. Libri XXXI— XXXVII,—Lipsiae, 1897: C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.
+
 ## Citatos
 
 - id: c-65417

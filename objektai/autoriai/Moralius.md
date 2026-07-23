@@ -47,8 +47,7 @@ Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reišk
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175321
-- susijęs iš [[objektai/paprociai/Budinų upės pašventinimas indų papročiu.md#claim-t-193030|Budinų upės pašventinimas indų papročiu]]: Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
-- susijęs iš Oskolas: Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
+
 ## Citatos
 
 - id: c-175321

@@ -45,8 +45,7 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
   semantiniai_rysiai: "Notangai paskyrė Sabinas (0.86)"
   pagrindžia:
     - c-61063
-- susijęs iš [[objektai/autoriai/Donner G. A.md#claim-t-60690|Donner G. A]]: Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.
-- susijęs iš Vizna: Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.
+
 ## Citatos
 
 - id: c-61063

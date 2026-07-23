@@ -44,12 +44,7 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83811
-- susijęs iš [[objektai/asmenys/Albertas Skvemevita.md#claim-t-87609|Albertas Skvemevita]]: Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
-- susijęs iš [[objektai/asmenys/Mikalojus Ungarns.md#claim-t-87789|Mikalojus Ungarns]]: Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.
-- susijęs iš [[objektai/asmenys/Motiejus Porempskis.md#claim-t-87797|Motiejus Porempskis]]: Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55093|Vilniaus miesto auksakalių cechas]]: Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę.
-- susijęs iš Vilniaus vyskupija: Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.
+
 ## Citatos
 
 - id: c-83811

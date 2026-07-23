@@ -40,7 +40,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 ## Teiginiai
 
 <a id="claim-t-66324"></a>
-- t-003
+- t-001
   teiginys: "1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     - c-66607
 
 <a id="claim-t-66326"></a>
-- t-004
+- t-002
   teiginys: "Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +69,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   temporalinis_llm_pakomentavimas: "Sakinys gramatiškas ir pagrįstas citatos informacija apie VLIK, ALT ir PLB siekius."
   pagrindžia:
     - c-66607
-- susijęs iš [[objektai/grupes/Lietuvių frontas.md#claim-t-74624|Lietuvių frontas]]: Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą.
-- susijęs iš [[objektai/grupes/Lietuvių frontas.md#claim-t-74625|Lietuvių frontas]]: Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.
-- susijęs iš [[objektai/grupes/Lietuvių vienybės sąjūdis.md#claim-t-74633|Lietuvių vienybės sąjūdis]]: Krikščionių demokratų sparno politikai ir ateitininkų jaunimas telkėsi į Lietuvių vienybės sąjūdį ir Lietuvių frontą.
-- susijęs iš [[objektai/grupes/Lietuvių vienybės sąjūdis.md#claim-t-74634|Lietuvių vienybės sąjūdis]]: Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių vienybės sąjūdį.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga.md#claim-t-74748|Lietuvos laisvės kovotojų sąjunga]]: Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga.md#claim-t-74749|Lietuvos laisvės kovotojų sąjunga]]: Liberaliai nusistatę tautininkai susibūrė į Lietuvos laisvės kovotojų sąjungą, kuri leido pogrindinius leidinius.
+
 ## Citatos
 
 - id: c-66607
@@ -96,8 +91,8 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-66609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -120,6 +115,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   citata_rodoma: "klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

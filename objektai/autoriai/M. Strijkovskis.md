@@ -47,7 +47,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 ## Teiginiai
 
 <a id="claim-t-172880"></a>
-- t-032
+- t-001
   teiginys: "Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157242
 
 <a id="claim-t-172882"></a>
-- t-008
+- t-002
   teiginys: "Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-172883"></a>
-- t-018
+- t-003
   teiginys: "Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-42445
 
 <a id="claim-t-172884"></a>
-- t-014
+- t-004
   teiginys: "Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157243
 
 <a id="claim-t-172886"></a>
-- t-004
+- t-005
   teiginys: "Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -124,7 +124,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-42446
 
 <a id="claim-t-172887"></a>
-- t-012
+- t-006
   teiginys: "Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157240
 
 <a id="claim-t-172888"></a>
-- t-033
+- t-007
   teiginys: "Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-172891"></a>
-- t-013
+- t-008
   teiginys: "Motiejus Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, perimdamas Dlugošo pasakojimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157267
 
 <a id="claim-t-172892"></a>
-- t-005
+- t-009
   teiginys: "Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157268
 
 <a id="claim-t-172893"></a>
-- t-019
+- t-010
   teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157245
 
 <a id="claim-t-172899"></a>
-- t-022
+- t-011
   teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157248
 
 <a id="claim-t-172900"></a>
-- t-009
+- t-012
   teiginys: "Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. buvo sunykusi ir sugriuvusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -240,7 +240,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157242
 
 <a id="claim-t-172902"></a>
-- t-003
+- t-013
   teiginys: "Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -249,7 +249,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-42444
 
 <a id="claim-t-172903"></a>
-- t-023
+- t-014
   teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -265,7 +265,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157240
 
 <a id="claim-t-172904"></a>
-- t-017
+- t-015
   teiginys: "Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -277,7 +277,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157243
 
 <a id="claim-t-172905"></a>
-- t-006
+- t-016
   teiginys: "Motiejus Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -293,7 +293,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157245
 
 <a id="claim-t-172907"></a>
-- t-028
+- t-017
   teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -309,7 +309,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157241
 
 <a id="claim-t-172908"></a>
-- t-011
+- t-018
   teiginys: "Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -327,7 +327,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157248
 
 <a id="claim-t-172909"></a>
-- t-016
+- t-019
   teiginys: "Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -339,7 +339,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157243
 
 <a id="claim-t-172912"></a>
-- t-007
+- t-020
   teiginys: "Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -355,7 +355,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-157250
 
 <a id="claim-t-188443"></a>
-- t-001
+- t-021
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašo, kad Vilniaus Antakalnyje buvusi stogu dengta šventykla visiems dievams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -375,7 +375,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171333
 
 <a id="claim-t-188444"></a>
-- t-034
+- t-022
   teiginys: "Narbutas rašo, kad Strijkovskis Lietuvos stabmeldystės istorijoje nuolat mini vyriausiojo žynio pareigas, o paskutiniu laiko Lizdeiką."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -395,7 +395,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173522
 
 <a id="claim-t-188445"></a>
-- t-035
+- t-023
   teiginys: "Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki ninkų pranešimais ir savo paties duomenimis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -414,7 +414,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171335
 
 <a id="claim-t-188446"></a>
-- t-036
+- t-024
   teiginys: "Narbutas rašo, kad Strijkovskis pats matė nykstančią šventę ir pateikė senovinių apeigų vaizdą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -433,7 +433,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171336
 
 <a id="claim-t-188447"></a>
-- t-037
+- t-025
   teiginys: "Narbutas rašo, kad Strijkovskis rugsėjo šventę Žemininko garbei vadino žymiausia metine švente."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -453,7 +453,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171337
 
 <a id="claim-t-188448"></a>
-- t-038
+- t-026
   teiginys: "Narbutas rašo, kad Strijkovskis sakėsi buvęs liaudyje išlikusių aukojimų liudytojas, bet neminėjo gyvulių dalių deginimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -473,7 +473,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171338
 
 <a id="claim-t-188449"></a>
-- t-039
+- t-027
   teiginys: "Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -492,7 +492,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171339
 
 <a id="claim-t-188451"></a>
-- t-040
+- t-028
   teiginys: "Narbutas rašo, kad Strijkovskis Viršaitį laikė namų, turto ir namų gyvulių globėju."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -512,7 +512,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171341
 
 <a id="claim-t-188452"></a>
-- t-041
+- t-029
   teiginys: "Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -532,7 +532,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171342
 
 <a id="claim-t-188453"></a>
-- t-042
+- t-030
   teiginys: "Narbutas rašo, kad Strijkovskio vartotas vardas Pilwitos reiškia turto deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -552,7 +552,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171343
 
 <a id="claim-t-188454"></a>
-- t-043
+- t-031
   teiginys: "Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -573,7 +573,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171344
 
 <a id="claim-t-188455"></a>
-- t-044
+- t-032
   teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -586,7 +586,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171345
 
 <a id="claim-t-190633"></a>
-- t-045
+- t-033
   teiginys: "Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -606,7 +606,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173516
 
 <a id="claim-t-190634"></a>
-- t-046
+- t-034
   teiginys: "Narbutas rašo, kad Strijkovskis ir kiti autoriai Markopolius trumpai mini kaip požemio dievaičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -626,7 +626,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173517
 
 <a id="claim-t-190635"></a>
-- t-047
+- t-035
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -646,7 +646,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173518
 
 <a id="claim-t-190637"></a>
-- t-049
+- t-036
   teiginys: "Narbutas rašo, kad Strijkovskis Vilniuje prie Perkūno šventyklos mini atskiroje koplyčioje laikytus šliužus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -660,7 +660,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171341
 
 <a id="claim-t-190638"></a>
-- t-050
+- t-037
   teiginys: "Narbutas vertina Strijkovskį kaip nekritiškai naudojusį jam žinomų kronikų ištraukas ir vietos padavimus apie Palemoną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -680,7 +680,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173521
 
 <a id="claim-t-190639"></a>
-- t-051
+- t-038
   teiginys: "Narbutas rašo, kad Strijkovskis senojoje Lietuvos istorijoje tarp lietuvių didikų mini Montvilos sūnų Nemuną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -700,7 +700,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173522
 
 <a id="claim-t-190640"></a>
-- t-052
+- t-039
   teiginys: "Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -713,7 +713,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171335
 
 <a id="claim-t-190641"></a>
-- t-053
+- t-040
   teiginys: "Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -733,7 +733,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173524
 
 <a id="claim-t-190642"></a>
-- t-054
+- t-041
   teiginys: "Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -746,7 +746,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-179131
 
 <a id="claim-t-190643"></a>
-- t-055
+- t-042
   teiginys: "Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -760,7 +760,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171341
 
 <a id="claim-t-190644"></a>
-- t-056
+- t-043
   teiginys: "Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -780,7 +780,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173527
 
 <a id="claim-t-190645"></a>
-- t-057
+- t-044
   teiginys: "Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -800,7 +800,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173528
 
 <a id="claim-t-190763"></a>
-- t-058
+- t-045
   teiginys: "Teodoro Narbuto vertinimu, iš spausdintų šaltinių verčiausias buvo Motiejus Strijkovskis, po jo – prūsų ir Livonijos kronikininkai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -820,7 +820,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173645
 
 <a id="claim-t-190764"></a>
-- t-059
+- t-046
   teiginys: "Teodoro Narbuto vertinimu, Motiejus Strijkovskis nesuskubo įgyvendinti visų savo istorinio veikalo ketinimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -840,7 +840,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-173646
 
 <a id="claim-t-193586"></a>
-- t-063
+- t-047
   teiginys: "Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -852,7 +852,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-176261
 
 <a id="claim-t-197321"></a>
-- t-065
+- t-048
   teiginys: "M. Strijkovskis mokėjo prūsų ir žemaičių kalbą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -864,7 +864,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-171334
 
 <a id="claim-t-197324"></a>
-- t-066
+- t-049
   teiginys: "Lietuvos ir Prūsijos archeologų surinkti duomenys patiks lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Praurimės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi lučių."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -876,7 +876,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - c-179131
 
 <a id="claim-t-197325"></a>
-- t-067
+- t-050
   teiginys: "Motiejus Strijkovskis tuoj pat nežinia kur dingo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -886,32 +886,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173520
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-187451|Motiejus Strijkovskis]]: Motiejus Strijkovskis savo 1582 m. kronikoje beveik pažodžiui perteikė ištisus „rusiško metraščio“ varianto fragmentus.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.
-- susijęs iš M. Strijkovskio kronika: Teodoro Narbuto vertinimu, iš spausdintų Lietuvos istorijos šaltinių vertingiausia buvo M. Strijkovskio kronika, nors jai stigo kritikos ir datų atsargumo.
-- susijęs iš Pirmoji spausdinta Lietuvos istorija (1582 m.): M. Strijkovskis 1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apėmusį įvykius iki 1326 m.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188630|Teodoras Narbutas]]: Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188631|Teodoras Narbutas]]: Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę.
-- susijęs iš [[objektai/autoriai/Francas Bopas.md#claim-t-187951|Francas Bopas]]: Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Johanas Severinas Fateris.md#claim-t-187948|Johanas Severinas Fateris]]: Johanas Severinas Fateris buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Peteris Bolenas.md#claim-t-187950|Peteris Bolenas]]: Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/autoriai/Samuelis Lindė.md#claim-t-187949|Samuelis Lindė]]: Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas.
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
-- susijęs iš [[objektai/grupes/Sambiai.md#claim-t-188047|Sambiai]]: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.
-- susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
-- susijęs iš Sarmatų Europos aprašymas: A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tautų genealogijas ir žymių žmonių biografijas.
-- susijęs iš Didžioji Berestovica: Didžioji Berestovica minima kaip vieta, kur kunigaikščių Zaslavskių dvare buvo Bychovco kronikos variantas.
-- susijęs iš Didžioji Berestovica: Didžiosios Berestovicos dvare, priklausiusiame kunigaikščiams Zaslavskiams, buvo panašus Bychovco kronikos variantas.
-- susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
-- susijęs iš [[objektai/autoriai/N. Ulaščikas.md#claim-t-198527|N. Ulaščikas]]: N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.'
@@ -995,7 +970,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
 ## Citatos
 
 - id: c-42443
@@ -1035,7 +1009,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-013
 
 - id: c-42445
   sudarytojas: "Karolis Zikaras"
@@ -1061,7 +1035,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-003
 
 - id: c-42446
   sudarytojas: "Karolis Zikaras"
@@ -1082,7 +1056,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-157240
   autorius: "Michał Baliński"
@@ -1112,8 +1086,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-023
+    - t-006
+    - t-014
 
 - id: c-157241
   autorius: "Michał Baliński"
@@ -1151,7 +1125,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-017
 
 - id: c-157242
   autorius: "Michał Baliński"
@@ -1180,8 +1154,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
-    - t-009
+    - t-001
+    - t-012
 
 - id: c-157243
   autorius: "Petras Dusburgietis"
@@ -1200,9 +1174,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-017
-    - t-016
+    - t-004
+    - t-015
+    - t-019
 
 - id: c-157244
   autorius: "Petras Dusburgietis"
@@ -1240,8 +1214,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
-    - t-006
+    - t-010
+    - t-016
 
 - id: c-157248
   autorius: "Michał Baliński"
@@ -1284,8 +1258,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
     - t-011
+    - t-018
 
 - id: c-157250
   autorius: "Michał Baliński"
@@ -1314,9 +1288,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-033
+    - t-002
     - t-007
+    - t-020
 
 - id: c-157259
   autorius: "Petras Dusburgietis"
@@ -1369,7 +1343,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-008
 
 - id: c-157268
   sudarytojas: "Karolis Zikaras"
@@ -1397,7 +1371,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
 
 - id: c-171333
   autorius: "Teodoras Narbutas"
@@ -1416,7 +1390,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-021
 
 - id: c-171334
   autorius: "Teodoras Narbutas"
@@ -1438,7 +1412,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-048
 
 - id: c-171335
   autorius: "Teodoras Narbutas"
@@ -1458,8 +1432,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
-    - t-052
+    - t-023
+    - t-039
 
 - id: c-171336
   autorius: "Teodoras Narbutas"
@@ -1478,7 +1452,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-024
 
 - id: c-171337
   autorius: "Teodoras Narbutas"
@@ -1506,7 +1480,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-025
 
 - id: c-171338
   autorius: "Teodoras Narbutas"
@@ -1528,9 +1502,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
-    - t-049
-    - t-055
+    - t-026
+    - t-036
+    - t-042
 
 - id: c-171339
   autorius: "Teodoras Narbutas"
@@ -1555,7 +1529,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-027
 
 - id: c-171341
   autorius: "Teodoras Narbutas"
@@ -1577,9 +1551,9 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
-    - t-049
-    - t-055
+    - t-028
+    - t-036
+    - t-042
 
 - id: c-171342
   autorius: "Teodoras Narbutas"
@@ -1602,7 +1576,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-029
 
 - id: c-171343
   autorius: "Teodoras Narbutas"
@@ -1618,7 +1592,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-030
 
 - id: c-171344
   autorius: "Teodoras Narbutas"
@@ -1639,7 +1613,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-031
 
 - id: c-171345
   autorius: "Teodoras Narbutas"
@@ -1658,7 +1632,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-032
 
 - id: c-173516
   autorius: "Teodoras Narbutas"
@@ -1677,7 +1651,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
+    - t-033
 
 - id: c-173517
   autorius: "Teodoras Narbutas"
@@ -1696,7 +1670,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-034
 
 - id: c-173518
   autorius: "Teodoras Narbutas"
@@ -1714,7 +1688,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-035
 
 - id: c-173520
   autorius: "Teodoras Narbutas"
@@ -1734,7 +1708,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-067
+    - t-050
 
 - id: c-173521
   autorius: "Teodoras Narbutas"
@@ -1756,8 +1730,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-050
+    - t-022
+    - t-037
 
 - id: c-173522
   autorius: "Teodoras Narbutas"
@@ -1778,8 +1752,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-051
+    - t-022
+    - t-038
 
 - id: c-173523
   autorius: "Teodoras Narbutas"
@@ -1816,7 +1790,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-040
 
 - id: c-173525
   autorius: "Teodoras Narbutas"
@@ -1875,7 +1849,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-043
 
 - id: c-173528
   autorius: "Teodoras Narbutas"
@@ -1903,7 +1877,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-044
 
 - id: c-173645
   autorius: "Teodoras Narbutas"
@@ -1927,7 +1901,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
+    - t-045
 
 - id: c-173646
   autorius: "Teodoras Narbutas"
@@ -1947,7 +1921,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-046
 
 - id: c-173647
   autorius: "Teodoras Narbutas"
@@ -2017,7 +1991,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-047
 
 - id: c-179131
   autorius: "Teodoras Narbutas"
@@ -2040,5 +2014,5 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-054
-    - t-066
+    - t-041
+    - t-049

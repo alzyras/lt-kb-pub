@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66548"></a>
-- t-002
+- t-001
   teiginys: "Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Nenurodyta
     - c-66756
 
 <a id="claim-t-66549"></a>
-- t-001
+- t-002
   teiginys: "Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-66756
   redaktorius: "A. Šapoka"
@@ -105,4 +105,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

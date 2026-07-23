@@ -76,7 +76,7 @@ media_all_json: |-
     - c-154597
 
 <a id="claim-t-183439"></a>
-- t-005
+- t-003
   teiginys: "Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ media_all_json: |-
     - c-166834
 
 <a id="claim-t-193607"></a>
-- t-006
+- t-004
   teiginys: "Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -109,12 +109,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-176280
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45782|autokratinė monarchinė imperija]]: Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45783|autokratinė monarchinė imperija]]: Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45785|autokratinė monarchinė imperija]]: LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią.
-- susijęs iš [[objektai/zodynas/gubernija apskritis (ujezd).md#claim-t-22157|gubernija apskritis (ujezd)]]: Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis.
-- susijęs iš [[objektai/zodynas/gubernija.md#claim-t-22159|gubernija]]: Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų.
+
 ## Citatos
 
 - id: c-154597
@@ -183,7 +178,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-176280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -203,4 +198,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004

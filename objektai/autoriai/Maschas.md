@@ -60,7 +60,7 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177064
-- susijęs iš [[objektai/autoriai/Wogenas.md#claim-t-190462|Wogenas]]: Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
+
 ## Citatos
 
 - id: c-173255

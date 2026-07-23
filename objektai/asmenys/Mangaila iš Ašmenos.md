@@ -55,7 +55,7 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   temporalinis_llm_pakomentavimas: "Citata nurodo Mangailą iš Ašmenos, datą, vietą ir liudytojo vaidmenį."
   pagrindžia:
     - c-83749
-- susijęs iš Ašmena: 1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.
+
 ## Citatos
 
 - id: c-83749

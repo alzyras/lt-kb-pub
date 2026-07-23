@@ -30,7 +30,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 ## Teiginiai
 
 <a id="claim-t-58880"></a>
-- t-002
+- t-001
   teiginys: "Sodžių, tiek ir vieno kiemo nobilio gyvenvietę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
     - c-59512
 
 <a id="claim-t-58881"></a>
-- t-001
+- t-002
   teiginys: "Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59513
   autorius: "Petras Dusburgietis"
@@ -105,7 +105,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167406
   autorius: "Petras Dusburgietis"
@@ -124,4 +124,4 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

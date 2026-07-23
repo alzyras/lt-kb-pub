@@ -41,7 +41,7 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
 ## Teiginiai
 
 <a id="claim-t-186000"></a>
-- t-002
+- t-001
   teiginys: "Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kijeviečius mokėti duoklę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
     - c-169361
 
 <a id="claim-t-191200"></a>
-- t-003
+- t-002
   teiginys: "Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m. paminėjo ir lietuvius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174082
   autorius: "Teodoras Narbutas"
@@ -130,4 +130,4 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

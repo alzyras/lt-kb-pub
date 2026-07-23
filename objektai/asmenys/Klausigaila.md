@@ -57,8 +57,7 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Klausigailos vaidmenį 1409 m."
   pagrindžia:
     - c-28935
-- susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
-- susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
+
 ## Citatos
 
 - id: c-28935

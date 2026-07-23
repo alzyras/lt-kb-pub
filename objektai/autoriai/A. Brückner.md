@@ -7,10 +7,6 @@ datos:
   - '1931 m.'
 date_start: '1931'
 date_end: ''
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +14,10 @@ tags:
   - istorikas
   - karalius
   - karys
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 ## Teiginiai
 
 <a id="claim-t-64507"></a>
-- t-003
+- t-001
   teiginys: "A. Brückner parašė Dzieje kultury polskiej pirmą tomą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - c-03961
 
 <a id="claim-t-64509"></a>
-- t-004
+- t-003
   teiginys: "Al. Brückner pagonių lietuvių kultūrą laikė gana žema."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-03959
@@ -136,7 +135,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-03961
   autorius: "Zenonas Ivinskis"
@@ -156,4 +155,4 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003

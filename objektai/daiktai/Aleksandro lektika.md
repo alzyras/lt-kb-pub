@@ -64,13 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55371
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
-- susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
-- susijęs iš [[objektai/asmenys/Jonas Zabžezinskis.md#claim-t-87419|Jonas Zabžezinskis]]: Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių.
-- susijęs iš [[objektai/asmenys/Kiška.md#claim-t-87755|Kiška]]: Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.
-- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87411|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis.
-- susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86728|Krymo orda]]: Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.
+
 ## Citatos
 
 - id: c-55371

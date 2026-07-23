@@ -79,7 +79,7 @@ Nenurodyta
     - c-173890
 
 <a id="claim-t-191010"></a>
-- t-004
+- t-003
   teiginys: "Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
     - c-173892
 
 <a id="claim-t-191011"></a>
-- t-005
+- t-004
   teiginys: "Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -121,7 +121,7 @@ Nenurodyta
     - c-173893
 
 <a id="claim-t-197532"></a>
-- t-007
+- t-005
   teiginys: "Kadangi priešo būriai buvo narsūs ir puikiai gink luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi galvoję ir išvengdami lemtingų kovų bei puldinėdami iš šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa jo nesuskaičiuojamų atsargų našta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -184,7 +184,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-173890
   autorius: "Teodoras Narbutas"
@@ -232,7 +232,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-173893
   autorius: "Teodoras Narbutas"
@@ -266,7 +266,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Darijus]]

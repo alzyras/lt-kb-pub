@@ -8,11 +8,6 @@ datos:
   - '1251 m.'
 date_start: '1190'
 date_end: '1251'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +15,11 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XII'
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     - c-60645
 
 <a id="claim-t-60015"></a>
-- t-003
+- t-002
   teiginys: "Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,10 +93,9 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60645
@@ -150,7 +149,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167448
   autorius: "Petras Dusburgietis"
@@ -184,6 +183,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

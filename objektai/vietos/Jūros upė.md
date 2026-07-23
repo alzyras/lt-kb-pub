@@ -9,14 +9,14 @@ datos:
   - '1645 m.'
 date_start: '1645'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kaimas
   - upė
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,6 +86,23 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   pagrindžia:
     - c-184952
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Reikėjo iškasti griovį slėnelyje prie gyvena­
+    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
+    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
+    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
+    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
+    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
+    vokiau, kad jis ten buvo tyčia įmestas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-28263

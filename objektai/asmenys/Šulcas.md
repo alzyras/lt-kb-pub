@@ -29,7 +29,7 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
 ## Teiginiai
 
 <a id="claim-t-197459"></a>
-- t-002
+- t-001
   teiginys: "Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -39,8 +39,7 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173134
-- susijęs iš [[objektai/asmenys/Mykolas Šulcas.md#claim-t-200766|Mykolas Šulcas]]: Mykolas Šulcas po Gucevičiaus mirties užbaigė Katedrą ir prie fasado pridėjo statulas, kurių nebuvo Gucevičiaus projekte.
-- susijęs iš [[objektai/asmenys/Laurynas Gucevičius.md#claim-t-188577|Laurynas Gucevičius]]: Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.
+
 ## Citatos
 
 - id: c-173134
@@ -61,4 +60,4 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

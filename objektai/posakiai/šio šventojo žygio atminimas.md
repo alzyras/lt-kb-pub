@@ -50,8 +50,7 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59805
-- susijęs iš [[objektai/posakiai/apreikšti dievo darbus yra šlovinga.md#claim-t-59074|apreikšti dievo darbus yra šlovinga]]: Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
+
 ## Citatos
 
 - id: c-59805

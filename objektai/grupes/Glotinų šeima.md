@@ -79,11 +79,11 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
     Gutštato apylinkes, esančias Alnos ir Pasargės tarpupy­
     je, kur yra išlikęs Glotau kaimo pavadinimas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

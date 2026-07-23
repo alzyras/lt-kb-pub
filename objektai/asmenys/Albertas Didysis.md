@@ -44,7 +44,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 ## Teiginiai
 
 <a id="claim-t-56968"></a>
-- t-003
+- t-001
   teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-57669
 
 <a id="claim-t-194472"></a>
-- t-005
+- t-003
   teiginys: "Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-57669
 
 <a id="claim-t-194908"></a>
-- t-006
+- t-004
   teiginys: "Tai nugirdęs kronikininkas Vitechindas3, savo ruož tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku mu, rašo apie makedonus, po Aleksandro Didžiojo mirties atvykusius į prūsų kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-177304
 
 <a id="claim-t-194909"></a>
-- t-007
+- t-005
   teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -118,9 +118,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   pagrindžia:
     - c-177305
     - c-179299
-- susijęs iš Kelnas: Albertas Didysis mirė Kelne.
-- susijęs iš Kelnas: Albertas Didysis mirė Kelne.
-- susijęs iš Kelnas: Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.
+
 ## Citatos
 
 - id: c-57669
@@ -141,9 +139,9 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
-    - t-005
+    - t-003
 
 - id: c-177304
   autorius: "Teodoras Narbutas"
@@ -166,7 +164,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-177305
   autorius: "Teodoras Narbutas"
@@ -192,7 +190,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-179299
   autorius: "Teodoras Narbutas"
@@ -218,7 +216,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]

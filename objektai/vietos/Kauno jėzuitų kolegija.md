@@ -8,11 +8,11 @@ datos:
   - '1752 m.'
 date_start: '1563'
 date_end: '1752'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVIII'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

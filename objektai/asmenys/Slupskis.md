@@ -43,7 +43,7 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83832
-- susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
+
 ## Citatos
 
 - id: c-83832

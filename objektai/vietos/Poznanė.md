@@ -48,7 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-114852"></a>
-- t-006
+- t-001
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ media_all_json: |-
     - c-105862
 
 <a id="claim-t-114853"></a>
-- t-005
+- t-002
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ media_all_json: |-
     - c-105860
 
 <a id="claim-t-114855"></a>
-- t-009
+- t-003
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ media_all_json: |-
     - c-105863
 
 <a id="claim-t-114856"></a>
-- t-008
+- t-004
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ media_all_json: |-
     - c-105865
 
 <a id="claim-t-114857"></a>
-- t-015
+- t-005
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ media_all_json: |-
     - c-105865
 
 <a id="claim-t-114858"></a>
-- t-007
+- t-006
   teiginys: "Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ media_all_json: |-
     - c-105859
 
 <a id="claim-t-114860"></a>
-- t-011
+- t-007
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ media_all_json: |-
     - c-105863
 
 <a id="claim-t-114861"></a>
-- t-001
+- t-008
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ media_all_json: |-
     - c-24404
 
 <a id="claim-t-114862"></a>
-- t-016
+- t-009
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,7 +220,7 @@ media_all_json: |-
     - c-105860
 
 <a id="claim-t-114864"></a>
-- t-014
+- t-011
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -239,7 +239,7 @@ media_all_json: |-
     - c-105859
 
 <a id="claim-t-194988"></a>
-- t-018
+- t-012
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -249,97 +249,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177372
-- susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
-- susijęs iš [[objektai/asmenys/Jonas II.md#claim-t-87718|Jonas II]]: Jonas II, karaliaus Zigmanto I sūnus, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją ir mirė 1538 m.
-- susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87539|Laurynas Goslickis]]: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.
-- susijęs iš [[objektai/asmenys/Petras (Poznanės vyskupas).md#claim-t-87823|Petras (Poznanės vyskupas)]]: 1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.
-- susijęs iš [[objektai/asmenys/St. Ciolką.md#claim-t-34827|St. Ciolką]]: St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.
-- susijęs iš [[objektai/asmenys/Stanislovas Ciołek.md#claim-t-35286|Stanislovas Ciołek]]: Stanislovas Ciołek turėjo būti dėkingas Vytautui už Poznanės vyskupo mitrą.
-- susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
-- susijęs iš [[objektai/autoriai/Martinas Galias.md#claim-t-88032|Martinas Galias]]: Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.
-- susijęs iš [[objektai/autoriai/W. Szymański.md#claim-t-31073|W. Szymański]]: W. Szymański 1958 m. Poznanėje išleido veikalą „Kontakty handlowe Wielkopolski w IX-XI w.“.
-- susijęs iš [[objektai/autoriai/Wojtkowiak Z.md#claim-t-60820|Wojtkowiak Z]]: Z. Wojtkowiak 1980 m. Poznanėje paskelbė darbą apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje.
-- susijęs iš [[objektai/grupes/Poznanės raitininkų eskadronai.md#claim-t-38997|Poznanės raitininkų eskadronai]]: Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.
-- susijęs iš Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie: J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.
-- susijęs iš Historia Pomorza: „Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.
-- susijęs iš J. Ochmański, Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie: J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.
-- susijęs iš Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej w świetle ztotej bulli Fryderyka II z r. 1226: G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“.
-- susijęs iš Leyding G. Słownik nazw miejscowych okręgu mazurskiego: G. Leydingo „Słownik nazw miejscowych okręgu mazurskiego“ antroji dalis apie fiziografinius pavadinimus išleista Poznanėje 1959 m.
-- susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
-- susijęs iš Otrębski J. Über die Herkunft des Preussennamens: J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.
-- susijęs iš Pamiętniki Albrychta Stanisława Radziwiłła: „Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.
-- susijęs iš Pollakówna M. Sprawa ocenzurowania kroniki Piotra z Dusburga: M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.
-- susijęs iš Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w: Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m.
-- susijęs iš Zbiór praw litewskich: „Zbiór praw litewskich“ išleistas Poznanėje 1841 m.; cituojami leidinio p. 1–2.
-- susijęs iš Krušvica: Boleslovo laikais Krušvica ir Poznanė priklausė turtais ir gyventojų gausa garsėjusiems Didžiosios Lenkijos miestams.
-- susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82178|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.
-- susijęs iš [[objektai/asmenys/Boleslovas Droviusis.md#claim-t-87637|Boleslovas Droviusis]]: Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.
-- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82253|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos.
-- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82254|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.
-- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82255|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą.
-- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82257|Dobrogostas]]: 1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.
-- susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
-- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
-- susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
-- susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87531|Kasparas Bekešas]]: Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą.
-- susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
-- susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
-- susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
-- susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
-- susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87583|Sudimantas]]: Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.
-- susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82773|Urbonas VI]]: Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.
-- susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82774|Urbonas VI]]: Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.
-- susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
-- susijęs iš [[objektai/asmenys/Vitas.md#claim-t-87602|Vitas]]: 1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
-- susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
-- susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
-- susijęs iš [[objektai/autoriai/Ossoliński.md#claim-t-88048|Ossoliński]]: Mokslininkas Ossolińskis aprašė Lauryno Goslickio gyvenimą.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190282|Tadas Volianskis]]: Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, ypač pirmąjį tomą.
-- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
-- susijęs iš [[objektai/daiktai/Skandinaviškos monetos ir auksiniai brakteatai.md#claim-t-189747|Skandinaviškos monetos ir auksiniai brakteatai]]: T. Volianskis atkreipė T. Narbuto dėmesį į skandinaviškas monetas ir auksinius brakteatus, kuriuos laikė susijusiais su Lietuva.
-- susijęs iš [[objektai/daiktai/T. Narbuto parankinis LTI egzempliorius.md#claim-t-189640|T. Narbuto parankinis LTI egzempliorius]]: Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų.
-- susijęs iš [[objektai/daiktai/Vaišių stalai.md#claim-t-81865|Vaišių stalai]]: Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.
-- susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
-- susijęs iš [[objektai/grupes/2-asis pėstininkų pulkas.md#claim-t-38927|2-asis pėstininkų pulkas]]: 2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
-- susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172081|Dominikonų ordinas]]: Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112513|Domininkonų ordinas]]: Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių.
-- susijęs iš [[objektai/grupes/Kališo raitelių dalinys.md#claim-t-38961|Kališo raitelių dalinys]]: Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.
-- susijęs iš [[objektai/grupes/Trakų sukilėlių daliniai.md#claim-t-39006|Trakų sukilėlių daliniai]]: Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.
-- susijęs iš [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra.md#claim-t-75040|Vilniaus universiteto Lietuvių literatūros katedra]]: Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
-- susijęs iš [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra.md#claim-t-75041|Vilniaus universiteto Lietuvių literatūros katedra]]: Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
-- susijęs iš [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.).md#claim-t-01806|Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]: 1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
-- susijęs iš 1536 m. Žygimanto Senojo privilegijos patvirtinimas dėl Vilniaus už Vilijos: 1536 m. rugpjūčio 29 d. Žygimanto Senojo privilegijos patvirtinimas leido parduoti plytinę ir žemes už Vilijos, ant kalno priešais tiltą.
-- susijęs iš De optimo Senatore: Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą.
-- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
-- susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
-- susijęs iš Urbono VI bulė dėl Vilniaus katedros ir vyskupijos: 1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.
-- susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
-- susijęs iš Gnieznas: Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.
-- susijęs iš Gnieznas: Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.
-- susijęs iš Krokuva: 1257 m. Krokuva iš Boleslovo Droviojo gavo pirmąją municipalinę tvarką ir teutonų teises.
-- susijęs iš Krokuva: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
-- susijęs iš Lietuva: XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.
-- susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
-- susijęs iš Lietuva: Narbutas lietuvių bajorų linkimą į Rytų krikščionybę vadino lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
-- susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.
-- susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
-- susijęs iš Vilniaus katedra: 1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra.
-- susijęs iš Vilniaus katedra: Stanislovo garbei, iškilmingai pripažinta katedra.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
-- susijęs iš [[objektai/zodynas/buržuazinis nacionalizmas.md#claim-t-183406|buržuazinis nacionalizmas]]: Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“.
-- susijęs iš [[objektai/zodynas/buržuazinis nacionalizmas.md#claim-t-70103|buržuazinis nacionalizmas]]: Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86420|fundacija]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113627|gurguolė]]: Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.
-- susijęs iš [[objektai/zodynas/prelatai ir kanauninkai.md#claim-t-86544|prelatai ir kanauninkai]]: Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.
-- susijęs iš [[objektai/zodynas/specfondai.md#claim-t-70328|specfondai]]: Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.
+
 ## Citatos
 
 - id: c-24404
@@ -359,7 +269,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-008
 
 - id: c-105859
   autorius: "Michał Baliński"
@@ -387,8 +297,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-014
+    - t-006
+    - t-011
 
 - id: c-105860
   autorius: "Michał Baliński"
@@ -410,7 +320,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
     - t-010
 
 - id: c-105861
@@ -451,7 +361,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-105863
   autorius: "Michał Baliński"
@@ -481,8 +391,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-011
+    - t-003
+    - t-007
 
 - id: c-105865
   autorius: "Michał Baliński"
@@ -504,8 +414,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-015
+    - t-004
+    - t-005
 
 - id: c-105868
   autorius: "Michał Baliński"
@@ -534,7 +444,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009
 
 - id: c-177372
   autorius: "Zenonas Ivinskis"
@@ -552,4 +462,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-012

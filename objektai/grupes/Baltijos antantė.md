@@ -53,11 +53,7 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Baltijos antantės ribotumą."
   pagrindžia:
     - c-22362
-- susijęs iš [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.).md#claim-t-20167|Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]: 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė buvo Baltijos valstybių politinė ir diplomatinė sąjunga.
-- susijęs iš Ženeva: 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.
-- susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
-- susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
-- susijęs iš Vilniaus kraštas: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
+
 ## Citatos
 
 - id: c-22362

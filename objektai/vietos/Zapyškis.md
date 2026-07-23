@@ -66,14 +66,7 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171763
-- susijęs iš Kaunas: Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu.
-- susijęs iš Upinės upelis Išganytojo upelis: Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante prie Zapyškio, tarp Kauno ir Vilkijos.
-- susijęs iš Vilkija: Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu.
-- susijęs iš [[objektai/paprociai/Upinės upelio gydomieji plovimai ir audeklų kabinimas.md#claim-t-189942|Upinės upelio gydomieji plovimai ir audeklų kabinimas]]: Narbutas rašo, kad prie Zapyškio tekėjęs Upinės, vėliau Išganytojo, upelis, prie kurio per šventes žmonės melsdavosi ir plaudavo negaluojančias kūno dalis.
-- susijęs iš Kaunas: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
-- susijęs iš Kaunas: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.
-- susijęs iš Nemunas: Narbutas Zapyškį lokalizavo kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, anksčiau vadinto Upinės upeliu.
-- susijęs iš [[objektai/zodynas/Upinė.md#claim-t-189185|Upinė]]: Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.
+
 ## Citatos
 
 - id: c-24613

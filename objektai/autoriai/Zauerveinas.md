@@ -32,7 +32,7 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
 <a id="claim-t-54145"></a>
 - t-001
   teiginys: "Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą."
-  atnaujinta: "2026-07-20 14:16"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,8 +45,7 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-55085
-- susijęs iš [[objektai/autoriai/M. Jankus.md#claim-t-01103|M. Jankus]]: M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.
-- susijęs iš [[objektai/autoriai/Šernas.md#claim-t-01173|Šernas]]: Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.
+
 ## Citatos
 
 - id: c-55085

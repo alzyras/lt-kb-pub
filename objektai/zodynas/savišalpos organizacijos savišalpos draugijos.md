@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-70324"></a>
-- t-002
+- t-001
   teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ media_all_json: |-
     - c-69367
 
 <a id="claim-t-70325"></a>
-- t-001
+- t-002
   teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-69368
   redaktorius: "A. Šapoka"
@@ -88,4 +88,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

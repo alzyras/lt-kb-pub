@@ -52,7 +52,7 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
     - c-84150
 
 <a id="claim-t-88170"></a>
-- t-003
+- t-002
   teiginys: "Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-84150
   autorius: "Michał Baliński"

@@ -49,7 +49,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 ## Teiginiai
 
 <a id="claim-t-36019"></a>
-- t-002
+- t-001
   teiginys: "Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -65,7 +65,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     - c-38392
 
 <a id="claim-t-36020"></a>
-- t-001
+- t-002
   teiginys: "Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -102,7 +102,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-38392
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -126,4 +126,4 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

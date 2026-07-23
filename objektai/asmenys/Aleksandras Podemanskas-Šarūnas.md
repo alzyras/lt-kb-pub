@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78938"></a>
-- t-002
+- t-001
   teiginys: "Aleksandras Podemanskas-Šarūnas talkino Jono Neifalto-Lakūno vadovaujamam partizanų koviniam vienetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-76038
-- susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79051|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas.
+
 ## Citatos
 
 - id: c-76038
@@ -71,4 +71,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

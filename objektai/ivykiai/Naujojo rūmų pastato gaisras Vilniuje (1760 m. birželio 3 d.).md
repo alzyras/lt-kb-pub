@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200607"></a>
-- t-002
+- t-001
   teiginys: "Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-183999
 
 <a id="claim-t-200608"></a>
-- t-001
+- t-002
   teiginys: "1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -116,5 +116,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

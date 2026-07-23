@@ -51,8 +51,7 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63334
-- susijęs iš [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.).md#claim-t-28824|Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]: 1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.
-- susijęs iš Karšuva: Nesisekė tada lietuviams ir Karšuvos srityje.
+
 ## Citatos
 
 - id: c-63334

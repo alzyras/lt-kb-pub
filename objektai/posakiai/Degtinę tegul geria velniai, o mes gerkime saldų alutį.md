@@ -57,6 +57,7 @@ Proginė antidegtininė formulė.
   citata_rodoma: "— Degtinę tegul geria velniai, o mes gerkime saldų alutį. Moterėlės, leiskite į mus. — Patarė vienas vyras, ir jo patarimu stiklinė apėjo aplinkui."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

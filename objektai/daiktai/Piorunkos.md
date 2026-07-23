@@ -115,6 +115,7 @@ Nenurodyta
   citata_rodoma: "Mat tais laikais bajorai, susidėję su žy­\ndais, spekuliavo pinigais, ypač lietuviškais. Tasai Petras buvo\nnepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­\nnigus, ypač perkūnus: auksą parduodavo į Olandiją, o baltąjį\nsidabrą perkaldindavo į lenkiškus pinigus, tad buvo pramintas\nPerkūnu iš Kurozvenkų. Jo išmonės lenkiškieji grašiai, turin­\ntys vos pusę vertės, buvo praminti piorunkomis25."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

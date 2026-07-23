@@ -65,12 +65,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59184
-- susijęs iš [[objektai/asmenys/Henrikas iš Izenbergo.md#claim-t-60313|Henrikas iš Izenbergo]]: 1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.
-- susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
-- susijęs iš [[objektai/asmenys/Henrikas iš Izenbergo.md#claim-t-60313|Henrikas iš Izenbergo]]: 1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.
-- susijęs iš [[objektai/grupes/Rendaliai.md#claim-t-63207|Rendaliai]]: Rendaliais vadinti Girdavo palikuonys; Girdavas Bartos žemėje turėjo jo vardu pavadintą Girdavų pilį.
-- susijęs iš Bartos žemė: 1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį.
-- susijęs iš Lunenburgas: Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.
+
 ## Citatos
 
 - id: c-59184

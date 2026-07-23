@@ -47,6 +47,7 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
   citata_rodoma: "cijos grėsmių, tad ir tauta, ir Lietuvos vyriausybės moderniame pasaulyje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

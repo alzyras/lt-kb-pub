@@ -53,6 +53,15 @@ function claimGlobalIds(markdown: string): string[] {
   return ids
 }
 
+function relationsSection(markdown: string): string {
+  const heading = markdown.search(/^##\s+Ryšiai\s*$/m)
+  if (heading < 0) return ""
+  const bodyStart = markdown.indexOf("\n", heading) + 1
+  const body = markdown.slice(bodyStart)
+  const nextHeading = body.search(/^##\s+/m)
+  return nextHeading >= 0 ? body.slice(0, nextHeading) : body
+}
+
 const absoluteFiles = listMarkdownFiles(objectRoot)
 const relativeFiles = absoluteFiles.map((file) => path.relative(projectRoot, file) as FilePath)
 const slugMap = Object.fromEntries(createUniqueSlugMap(relativeFiles)) as Record<string, FullSlug>
@@ -89,30 +98,13 @@ for (const document of documents) {
       }
     }
 
-    const rawTarget = claim.fields.get("ryšio_targeto_parinkimas") ?? ""
-    if (!rawTarget.trim()) return
-    const target = relationTargetFromValue(rawTarget)
-    const resolved = relationTargetSlug(rawTarget, targetMap)
-    if (resolved === undefined) {
-      issues.push({
-        code: "unresolved_relation_target",
-        filePath: document.filePath,
-        claimId: globalId || claim.id,
-        target,
-        message: `Relation target ${target} does not resolve to an object`,
-      })
-    } else if (resolved === null) {
-      issues.push({
-        code: "ambiguous_relation_target",
-        filePath: document.filePath,
-        claimId: globalId || claim.id,
-        target,
-        message: `Relation target ${target} resolves to multiple objects`,
-      })
-    }
   })
 
   for (const rawTarget of relationTargetWikilinks(document.markdown)) {
+    const directPath = relationTargetFromValue(rawTarget).replace(/\.md$/i, "")
+    if (directPath.startsWith("objektai/") && fs.existsSync(path.resolve(projectRoot, `${directPath}.md`))) {
+      continue
+    }
     const resolved = relationTargetSlug(rawTarget, targetMap)
     if (!resolved) {
       issues.push({
@@ -122,6 +114,16 @@ for (const document of documents) {
         message: `Direct relation target ${rawTarget} does not resolve to an object`,
       })
     }
+  }
+
+  // Global claim IDs are stable technical identities. Public `Ryšiai` is a
+  // human-facing semantic projection and must not expose them inline.
+  if (/\bt-\d{3,}\b/i.test(relationsSection(document.markdown))) {
+    issues.push({
+      code: "technical_global_claim_id_in_public_relations",
+      filePath: document.filePath,
+      message: "Ryšiai must not expose a global claim id outside Advanced mode",
+    })
   }
 }
 

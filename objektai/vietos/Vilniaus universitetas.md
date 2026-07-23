@@ -41,7 +41,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
 ## Teiginiai
 
 <a id="claim-t-77454"></a>
-- t-004
+- t-001
   teiginys: "Senojo jėzuitų Vilniaus universiteto svarbiausia reikšmė buvo jo padėtis kaip šiauriausio katalikiško ir ryčiausio Europos universiteto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - c-74847
 
 <a id="claim-t-77456"></a>
-- t-001
+- t-002
   teiginys: "Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - c-24583
 
 <a id="claim-t-77457"></a>
-- t-002
+- t-003
   teiginys: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - c-24584
 
 <a id="claim-t-77458"></a>
-- t-003
+- t-004
   teiginys: "Senojo Vilniaus jėzuitų universiteto svarbiausia reikšmė buvo tai, kad jis buvo šiauriausias katalikiškas ir ryčiausias Europos universitetas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -157,7 +157,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-24585
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -178,7 +178,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-74847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -198,4 +198,4 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

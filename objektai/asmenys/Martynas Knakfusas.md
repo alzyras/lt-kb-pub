@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Knakfuso vaidmenį, datą ir darbą, o citata tai tiesiogiai patvirtina."
   pagrindžia:
     - c-26679
-- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.
+
 ## Citatos
 
 - id: c-26679

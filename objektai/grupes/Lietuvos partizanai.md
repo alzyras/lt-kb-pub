@@ -40,7 +40,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-74759"></a>
-- t-004
+- t-001
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22634
 
 <a id="claim-t-74760"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22631
 
 <a id="claim-t-74763"></a>
-- t-008
+- t-003
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-72777
 
 <a id="claim-t-74764"></a>
-- t-005
+- t-004
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-166549
 
 <a id="claim-t-74765"></a>
-- t-006
+- t-005
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-22636
 
 <a id="claim-t-74766"></a>
-- t-007
+- t-006
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - c-166549
 
 <a id="claim-t-193555"></a>
-- t-010
+- t-007
   teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -155,11 +155,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176235
-- susijęs iš [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.).md#claim-t-183253|Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]: 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
-- susijęs iš [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.).md#claim-t-75178|Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]: 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
-- susijęs iš [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina).md#claim-t-39272|PPS 41 (Pistolet-Pulemiot Špagina)]]: PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.
-- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101600|pyliavos]]: Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
-- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101601|pyliavos]]: Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
+
 ## Citatos
 
 - id: c-22631
@@ -181,7 +177,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -201,7 +197,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-22635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -224,7 +220,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-22636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -250,7 +246,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-22637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -297,7 +293,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-166549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -318,8 +314,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-007
+    - t-004
+    - t-006
 
 - id: c-176235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -339,7 +335,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 ## Ryšiai
 - Lietuvos partizanai valdė [[objektai/vietos/Lietuva]]

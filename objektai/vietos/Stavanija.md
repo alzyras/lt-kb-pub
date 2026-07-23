@@ -59,12 +59,7 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175575
-- susijęs iš [[objektai/asmenys/Reinchardas.md#claim-t-191458|Reinchardas]]: Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia į pietus nuo Galindos ir Sūduvos bei priklausiusia Lenkijai.
-- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191553|J. Voigtas Foigtas]]: Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191519|Ptolemėjas]]: Narbutas teigė, kad alanai tapo Ptolemėjo Stavanijos ir Galindijos kaimynais, kai stavanai ir galindai jau gyveno savo žemėse.
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190888|Johanas Foigtas]]: Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.
-- susijęs iš [[objektai/ivykiai/Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių.md#claim-t-191032|Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių]]: Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
+
 ## Citatos
 
 - id: c-175575

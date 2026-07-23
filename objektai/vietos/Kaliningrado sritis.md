@@ -37,7 +37,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 ## Teiginiai
 
 <a id="claim-t-76355"></a>
-- t-003
+- t-001
   teiginys: "Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73950
 
 <a id="claim-t-76356"></a>
-- t-004
+- t-002
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73949
 
 <a id="claim-t-76357"></a>
-- t-002
+- t-003
   teiginys: "Dabartinė Kaliningrado sritis šaltinyje siejama su Rytprūsiais, iš kurių Vokietija po Antrojo pasaulinio karo buvo prievarta išstumta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
     - c-73952
 
 <a id="claim-t-76358"></a>
-- t-001
+- t-004
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir Vilniaus regione kurti autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +154,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-004
-    - t-001
 
 - id: c-73950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -177,7 +177,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-73952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -196,7 +196,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-166989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

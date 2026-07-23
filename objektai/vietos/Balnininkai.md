@@ -45,10 +45,7 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   semantiniai_rysiai: "Lenkai keliavo į Balnininkai (0.88)"
   pagrindžia:
     - c-40148
-- susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40818|1-oji pėstininkų divizija]]: Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
-- susijęs iš [[objektai/grupes/L. Želigovskio pajėgos.md#claim-t-40973|L. Želigovskio pajėgos]]: L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.
-- susijęs iš [[objektai/grupes/oji pėstininkų divizija.md#claim-t-80636|oji pėstininkų divizija]]: Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
-- susijęs iš Dubingiai: Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.
+
 ## Citatos
 
 - id: c-40148

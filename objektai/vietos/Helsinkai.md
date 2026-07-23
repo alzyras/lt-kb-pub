@@ -67,7 +67,7 @@ Helsinkai šiame šaltinyje yra miestas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178052
-- susijęs iš [[objektai/asmenys/Holsti (užsienio reikalų ministras, 1921 m.).md#claim-t-195674|Holsti (užsienio reikalų ministras, 1921 m.)]]: 1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje.
+
 ## Citatos
 
 - id: c-178052

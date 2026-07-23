@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63328
-- susijęs iš [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.).md#claim-t-62942|Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]: Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.
+
 ## Citatos
 
 - id: c-63328

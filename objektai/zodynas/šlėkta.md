@@ -53,10 +53,7 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38771
-- susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
-- susijęs iš [[objektai/asmenys/Maldžykas.md#claim-t-35213|Maldžykas]]: Vytauto pasiuntinys Maldžykas neoficialiai dalyvavo suvažiavime, kuriame Vytautas laukė ginčo su Jogaila sprendimo.
-- susijęs iš [[objektai/asmenys/Vladislovas (Jogailos sūnus).md#claim-t-35320|Vladislovas (Jogailos sūnus)]]: 1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi.
-- susijęs iš [[objektai/posakiai/de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum.md#claim-t-95940|de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum]]: 1425 m. lenkų šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu specialiu Vytauto, jo prelatų, baronų ir riterių patarimu bei valia.
+
 ## Citatos
 
 - id: c-38771

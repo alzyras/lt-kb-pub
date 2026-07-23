@@ -52,7 +52,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 ## Teiginiai
 
 <a id="claim-t-113643"></a>
-- t-009
+- t-001
   teiginys: "Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104844
 
 <a id="claim-t-113644"></a>
-- t-012
+- t-002
   teiginys: "Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104847
 
 <a id="claim-t-113645"></a>
-- t-014
+- t-003
   teiginys: "1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104846
 
 <a id="claim-t-113646"></a>
-- t-016
+- t-004
   teiginys: "Pirmosios Magdeburgo teisės Lietuvoje būtų pagerinusios miesto būklę, jei vidaus karas nebūtų sukėlęs naujos sumaišties šalyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104838
 
 <a id="claim-t-113647"></a>
-- t-023
+- t-005
   teiginys: "1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104848
 
 <a id="claim-t-113648"></a>
-- t-019
+- t-006
   teiginys: "1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +158,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104841
 
 <a id="claim-t-113649"></a>
-- t-020
+- t-007
   teiginys: "Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-14675
 
 <a id="claim-t-113650"></a>
-- t-018
+- t-008
   teiginys: "Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104845
 
 <a id="claim-t-113651"></a>
-- t-021
+- t-009
   teiginys: "Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -227,7 +227,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104840
 
 <a id="claim-t-113653"></a>
-- t-022
+- t-011
   teiginys: "Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -243,7 +243,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104839
 
 <a id="claim-t-113655"></a>
-- t-006
+- t-012
   teiginys: "Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -261,7 +261,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-14674
 
 <a id="claim-t-182958"></a>
-- t-001
+- t-013
   teiginys: "Vytauto laikais kai kuriems iškilusiems Lietuvos miestams buvo suteiktos savivaldybės, vadinamos Magdeburgo teisėmis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -278,28 +278,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166357
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172816|Vilniaus magistratas]]: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172824|Vilniaus miestiečių luomas]]: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.
-- susijęs iš [[objektai/grupes/Šlėktų luomas.md#claim-t-86777|Šlėktų luomas]]: Pirmasis Lietuvos Statutas tarnavo išimtinai šlėktų luomui, nes miestui buvo garantuojamos Magdeburgo teisės.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis.md#claim-t-87289|Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis]]: Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87131|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: 1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose.md#claim-t-87287|Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]: Vilniaus klestėjimas ir Magdeburgo teisės paskatino Vytautą leisti miestiečių luomui dalyvauti tautos pasitarimuose.
-- susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
-- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
-- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
-- susijęs iš [[objektai/zodynas/šlėktų luomas Magdeburgo teisės.md#claim-t-86631|šlėktų luomas Magdeburgo teisės]]: Pirmasis Lietuvos Statutas buvo skirtas šlėktų luomui, o miestui buvo garantuojamos Magdeburgo teisės.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172832|Vilniaus miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172847|Vilniaus miestiečių luomas]]: Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą.
-- susijęs iš [[objektai/paprociai/Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams.md#claim-t-87298|Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams]]: 1528 m. lapkričio 17 d. Lietuvos seime posėdžiavo tik senatoriai, prelatai ir kunigaikščiai, kai buvo paskelbtas pirmasis Lietuvos Statutas.
-- susijęs iš Pirmasis Lietuvos Statutas: Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime.
-- susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
-- susijęs iš Kaunas: Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
-- susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86438|miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.
+
 ## Citatos
 
 - id: c-14674
@@ -319,7 +298,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-012
 
 - id: c-14675
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -339,7 +318,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-37888
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -360,7 +339,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-104838
   autorius: "Michał Baliński"
@@ -386,7 +365,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-004
 
 - id: c-104839
   autorius: "Michał Baliński"
@@ -435,7 +414,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-011
 
 - id: c-104840
   autorius: "Michał Baliński"
@@ -490,7 +469,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-006
 
 - id: c-104842
   autorius: "Michał Baliński"
@@ -537,7 +516,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-009
 
 - id: c-104844
   autorius: "Michał Baliński"
@@ -579,7 +558,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-104845
   autorius: "Michał Baliński"
@@ -604,7 +583,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-008
 
 - id: c-104846
   autorius: "Michał Baliński"
@@ -639,7 +618,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-003
 
 - id: c-104847
   autorius: "Michał Baliński"
@@ -667,7 +646,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-002
 
 - id: c-104848
   autorius: "Michał Baliński"
@@ -695,7 +674,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-005
 
 - id: c-104849
   autorius: "Michał Baliński"
@@ -730,7 +709,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-002
 
 - id: c-166357
   redaktorius: "A. Šapoka"
@@ -748,4 +727,4 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-013

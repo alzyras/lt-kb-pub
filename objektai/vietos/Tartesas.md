@@ -49,15 +49,7 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175673
-- susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
-- susijęs iš [[objektai/asmenys/Aleksandras Makedonietis.md#claim-t-191363|Aleksandras Makedonietis]]: Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams.
-- susijęs iš [[objektai/grupes/Estremidai.md#claim-t-192980|Estremidai]]: Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo Šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų.
-- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-192380|Finikiečiai]]: Narbutas aprašo finikiečių koloniją Gadirą už Heraklio stulpų kaip vietą, kur Viduržemio jūros laivai prekiavo su Okeano pakrančių gyventojais.
-- susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
-- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-192380|Finikiečiai]]: Narbutas aprašo finikiečių koloniją Gadirą už Heraklio stulpų kaip vietą, kur Viduržemio jūros laivai prekiavo su Okeano pakrančių gyventojais.
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
+
 ## Citatos
 
 - id: c-175673

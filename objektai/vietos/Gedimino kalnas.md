@@ -44,8 +44,7 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38492
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+
 ## Citatos
 
 - id: c-38492

@@ -54,7 +54,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36887
 
 <a id="claim-t-50695"></a>
-- t-004
+- t-002
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36890
 
 <a id="claim-t-50696"></a>
-- t-005
+- t-003
   teiginys: "Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36890
 
 <a id="claim-t-50697"></a>
-- t-003
+- t-004
   teiginys: "Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-52458
 
 <a id="claim-t-50698"></a>
-- t-002
+- t-005
   teiginys: "Lietuvių bajorija valstybės reikaluose gavo balsą, anksčiau priklausiusį valdovui."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36888
-- susijęs iš [[objektai/zodynas/sankcija.md#claim-t-36831|sankcija]]: Sankcija čia reiškė lietuvių bajorijos pritarimą unijai, gavus balsą valstybės reikaluose.
+
 ## Citatos
 
 - id: c-36887
@@ -161,7 +161,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-36890
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -186,8 +186,8 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-52458
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -209,4 +209,4 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

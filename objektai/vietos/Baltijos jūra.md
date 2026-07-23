@@ -13,9 +13,6 @@ datos:
   - '2004 m.'
 date_start: '1235'
 date_end: '2004'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,6 +20,9 @@ tags:
   - vieta
   - jūra
   - gyvenvietė
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 ## Teiginiai
 
 <a id="claim-t-195055"></a>
-- t-023
+- t-001
   teiginys: "XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177455
 
 <a id="claim-t-195056"></a>
-- t-006
+- t-002
   teiginys: "Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177441
 
 <a id="claim-t-195057"></a>
-- t-004
+- t-003
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177460
 
 <a id="claim-t-195058"></a>
-- t-017
+- t-004
   teiginys: "Narbutas pritarė stebėjimais grindžiamai išvadai, kad Baltijos jūra senka."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177448
 
 <a id="claim-t-195059"></a>
-- t-012
+- t-005
   teiginys: "Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177452
 
 <a id="claim-t-195060"></a>
-- t-005
+- t-006
   teiginys: "XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177440
 
 <a id="claim-t-195061"></a>
-- t-020
+- t-007
   teiginys: "Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-24063
 
 <a id="claim-t-195062"></a>
-- t-019
+- t-008
   teiginys: "Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177450
 
 <a id="claim-t-195063"></a>
-- t-021
+- t-009
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177445
 
 <a id="claim-t-195064"></a>
-- t-008
+- t-010
   teiginys: "Narbutas lietuvių rugiapjūtės dainų posakį „Garu Kotu“ siejo su padavimu apie Plinijaus minimą saulės, arba Apolono, garbinimą prie Baltijos jūros."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177446
 
 <a id="claim-t-195065"></a>
-- t-002
+- t-011
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -190,7 +190,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177458
 
 <a id="claim-t-195066"></a>
-- t-013
+- t-012
   teiginys: "Narbutas aiškino, kad skitai gintarą turėjo gauti keliu palei į Baltijos jūrą įtekančią upę, labiausiai tapatintiną su Nemunu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177454
 
 <a id="claim-t-195067"></a>
-- t-022
+- t-013
   teiginys: "Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -216,9 +216,9 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177456
 
 <a id="claim-t-195068"></a>
-- t-010
+- t-014
   teiginys: "Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -230,7 +230,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177461
 
 <a id="claim-t-195069"></a>
-- t-001
+- t-015
   teiginys: "XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -242,7 +242,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177457
 
 <a id="claim-t-195070"></a>
-- t-003
+- t-016
   teiginys: "Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -255,7 +255,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177439
 
 <a id="claim-t-195071"></a>
-- t-016
+- t-017
   teiginys: "Narbutas Tikrosios Prūsijos sieną vedė Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių, toliau link Rusios, Širvintos ir Mazovijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -269,7 +269,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177453
 
 <a id="claim-t-195072"></a>
-- t-024
+- t-018
   teiginys: "Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -281,7 +281,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177449
 
 <a id="claim-t-195075"></a>
-- t-015
+- t-019
   teiginys: "Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -296,7 +296,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177447
 
 <a id="claim-t-195076"></a>
-- t-014
+- t-020
   teiginys: "Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -310,7 +310,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177443
 
 <a id="claim-t-195077"></a>
-- t-007
+- t-021
   teiginys: "Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -324,7 +324,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177442
 
 <a id="claim-t-195078"></a>
-- t-011
+- t-022
   teiginys: "Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -345,7 +345,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-177444
 
 <a id="claim-t-197856"></a>
-- t-025
+- t-023
   teiginys: "Kiek vyresnis už Plinijų istorikas Melą Pomponijus apie Baltijos jūrą kalba ne itin aiškiai, bet rodo puikias žinias šaltinių, kuriuos panaudojo savo 1 Strabo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -357,7 +357,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-179365
 
 <a id="claim-t-197857"></a>
-- t-026
+- t-024
   teiginys: "Baltijos jūra atsirado tuomet, kai buvo užpilta didžiu lė dalis Vakarų okeano ar jo didelės įlankos, apribotos Skandinavijos pusiasalio, Suomijos, Ingrijos, Estijos pa krančių, po to sausumos ploto lanko forma nuo Vakarų Dauguvos žiočių iki Oderio žiočių, šią."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -369,7 +369,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-179366
 
 <a id="claim-t-197858"></a>
-- t-027
+- t-025
   teiginys: "Tad kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal būt nesilankė prie Baltijos, neturėjo tikro supratimo apie Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su vokė."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -380,36 +380,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindžia:
     - c-177452
     - c-179365
-- susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
-- susijęs iš [[objektai/asmenys/Dalinas.md#claim-t-191497|Dalinas]]: Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.
-- susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
-- susijęs iš [[objektai/asmenys/Mela.md#claim-t-191297|Mela]]: Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių.
-- susijęs iš [[objektai/asmenys/Olafas Dalinas.md#claim-t-191507|Olafas Dalinas]]: Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.
-- susijęs iš [[objektai/asmenys/Pompomijus Mela.md#claim-t-191151|Pompomijus Mela]]: Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191181|Slėceris]]: Narbuto vertinimu, Slėcerio nereikėjo kaltinti melu dėl Baltijos, nes jis galėjo remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-190693|Augustas Liudvigas Šleceris]]: Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus.
-- susijęs iš [[objektai/autoriai/Augustas Liudvikas fon Slėceris.md#claim-t-191571|Augustas Liudvikas fon Slėceris]]: Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Dalinas.md#claim-t-191668|Dalinas]]: Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuodami Baltijos jūros nusekimą nuo Kristaus gimimo.
-- susijęs iš [[objektai/autoriai/Kelsijus.md#claim-t-191676|Kelsijus]]: Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.
-- susijęs iš [[objektai/autoriai/Mela.md#claim-t-191653|Mela]]: Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais.
-- susijęs iš [[objektai/autoriai/Pisanskis.md#claim-t-191589|Pisanskis]]: Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą.
-- susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Kelsijaus ir Dalino skaičiavimą dėl jūros nusekimo.
-- susijęs iš Prūsija: Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės.
-- susijęs iš [[objektai/asmenys/Aristotelis.md#claim-t-191253|Aristotelis]]: Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė to įrodymų.
-- susijęs iš [[objektai/asmenys/Eratostenas.md#claim-t-191949|Eratostenas]]: Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.
-- susijęs iš [[objektai/asmenys/Homeras.md#claim-t-191278|Homeras]]: Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.
-- susijęs iš [[objektai/asmenys/Ovidijus Nazonas.md#claim-t-191170|Ovidijus Nazonas]]: Narbutas Ovidijų Nazoną priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.
-- susijęs iš [[objektai/asmenys/Ovidijus.md#claim-t-191305|Ovidijus]]: Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.
-- susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191229|Radlofas]]: Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
-- susijęs iš [[objektai/asmenys/Strabonas.md#claim-t-191123|Strabonas]]: Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.
-- susijęs iš [[objektai/autoriai/Aristotelis.md#claim-t-191634|Aristotelis]]: Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų.
-- susijęs iš [[objektai/autoriai/Eratostenas.md#claim-t-191623|Eratostenas]]: Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą.
-- susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190724|Homeras]]: Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.
-- susijęs iš [[objektai/autoriai/Ovidijus.md#claim-t-191901|Ovidijus]]: Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą.
-- susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191619|Radlofas]]: Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
-- susijęs iš [[objektai/autoriai/Strabonas.md#claim-t-190795|Strabonas]]: Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
-- susijęs iš Nemunas: Teodoro Narbuto aprašyme po kurio laiko kryžiuočiai pastūmė Prūsijos sieną iki Nemuno žemupio.
+
 ## Reikšmingi paminėjimai
 - c-009
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -519,7 +490,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-24063
@@ -537,7 +507,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-007
 
 - id: c-177439
   autorius: "Michał Baliński"
@@ -566,7 +536,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-016
 
 - id: c-177440
   autorius: "Michał Baliński"
@@ -590,7 +560,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-177441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -611,7 +581,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-177442
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -636,7 +606,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-021
 
 - id: c-177443
   autorius: "Teodoras Narbutas"
@@ -656,7 +626,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-020
 
 - id: c-177444
   autorius: "Teodoras Narbutas"
@@ -680,7 +650,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-022
 
 - id: c-177445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -699,7 +669,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-009
 
 - id: c-177446
   autorius: "Teodoras Narbutas"
@@ -723,7 +693,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-010
 
 - id: c-177447
   autorius: "Teodoras Narbutas"
@@ -749,7 +719,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-019
 
 - id: c-177448
   autorius: "Teodoras Narbutas"
@@ -771,7 +741,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-004
 
 - id: c-177449
   autorius: "Michał Baliński"
@@ -810,7 +780,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-018
 
 - id: c-177450
   redaktorius: "A. Šapoka"
@@ -833,7 +803,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-008
 
 - id: c-177452
   autorius: "Teodoras Narbutas"
@@ -859,8 +829,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-027
+    - t-005
+    - t-025
 
 - id: c-177453
   autorius: "Teodoras Narbutas"
@@ -883,7 +853,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017
 
 - id: c-177454
   autorius: "Teodoras Narbutas"
@@ -908,7 +878,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-177455
   autorius: "Michał Baliński"
@@ -929,7 +899,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-001
 
 - id: c-177456
   autorius: "Teodoras Narbutas"
@@ -953,7 +923,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-013
 
 - id: c-177457
   autorius: "Michał Baliński"
@@ -975,7 +945,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-015
 
 - id: c-177458
   autorius: "Michał Baliński"
@@ -1016,7 +986,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-011
 
 - id: c-177460
   autorius: "Michał Baliński"
@@ -1052,7 +1022,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177461
   autorius: "Teodoras Narbutas"
@@ -1079,7 +1049,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-014
 
 - id: c-179365
   autorius: "Teodoras Narbutas"
@@ -1100,8 +1070,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-023
     - t-025
-    - t-027
 
 - id: c-179366
   autorius: "Teodoras Narbutas"
@@ -1127,7 +1097,4 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-
-## Ryšiai
-- Užėmė Baltijos jūrą: [[objektai/grupes/Slavai]]
+    - t-024

@@ -7,13 +7,13 @@ datos:
   - '1700 m.'
 date_start: '1700'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - grupe
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66402"></a>
-- t-006
+- t-001
   teiginys: "Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ media_all_json: |-
     - c-10140
 
 <a id="claim-t-66404"></a>
-- t-004
+- t-002
   teiginys: "Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -68,33 +68,6 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-10138
-- susijęs iš Žemaičių jūra: Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.
-- susijęs iš [[objektai/grupes/Kalnėnai.md#claim-t-65268|Kalnėnai]]: Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: grupe
-    - kandidatas: Žemgaliai
-    - potencialus_teiginys: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 215924-216217; match: exact
-    - santrauka: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        rubežiaus^804 , kurią slapta didžiai vėlai, jau krikščionimis būdami, dar lankę žemaičiai, parusėnai ir
-        žemgaliai, arba kuržemininkai, minėdami savo laimingas dienas ir tardami save angis broliais
-        buvusius; bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -125,7 +98,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-10140
   autorius: "Simonas Daukantas"
@@ -141,7 +114,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-10141
   autorius: "Simonas Daukantas"
@@ -152,6 +125,7 @@ media_all_json: |-
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

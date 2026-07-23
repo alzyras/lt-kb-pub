@@ -45,8 +45,7 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   semantiniai_rysiai: "2-asis pėstininkų pulkas priklausė Lietuva (0.77)"
   pagrindžia:
     - c-40731
-- susijęs iš [[objektai/daiktai/Mosin-Nagant šautuvas.md#claim-t-39209|Mosin-Nagant šautuvas]]: Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
-- susijęs iš [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2.md#claim-t-40758|Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]: Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.
+
 ## Citatos
 
 - id: c-40731

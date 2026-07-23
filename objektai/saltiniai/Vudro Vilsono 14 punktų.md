@@ -58,6 +58,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   citata_rodoma: "į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

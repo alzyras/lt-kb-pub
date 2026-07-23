@@ -40,12 +40,7 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174276
-- susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191146|Nikolajus Karamzinas]]: Teodoro Narbuto perteikimu, Karamzinas žodį Ross ar Russ Ezechielio pranašystėje suprato perkeltine galvos ar svarbiausio dalyko prasme.
-- susijęs iš [[objektai/autoriai/Karamzinas.md#claim-t-190750|Karamzinas]]: Narbutas Karamziną priskiria mokslininkams, Ezechielio žodį Ross arba Russ aiškinusiems perkeltine galvos ar svarbiausio dalyko prasme.
-- susijęs iš [[objektai/autoriai/Nikolajus Karamzinas.md#claim-t-191898|Nikolajus Karamzinas]]: Narbutas rašė, kad Karamzinas žodį Ross ar Russ Ezechielio tekste suprato perkeltine galvos arba svarbiausio dalyko prasme.
-- susijęs iš Šventasis Raštas, Ezechielio knyga: Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką.
-- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192190|Russ ir Ross]]: Narbutas rašo, kad mokslininkai Šventajame Rašte pas pranašą Ezechielį aptinka žodį Ross ar Russ.
-- susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192190|Russ ir Ross]]: Narbutas rašo, kad mokslininkai Šventajame Rašte pas pranašą Ezechielį aptinka žodį Ross ar Russ.
+
 ## Citatos
 
 - id: c-174276

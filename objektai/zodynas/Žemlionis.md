@@ -39,7 +39,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 ## Teiginiai
 
 <a id="claim-t-70424"></a>
-- t-006
+- t-001
   teiginys: "Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - c-09782
 
 <a id="claim-t-70425"></a>
-- t-004
+- t-002
   teiginys: "Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -71,33 +71,14 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - c-09781
 
 <a id="claim-t-70426"></a>
-- t-005
+- t-003
   teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-22 01:42"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09781
-- susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 285124-286031; match: ocr_normalized_gapped
-    - santrauka: Šiame tekste išvardijamos įvairios pilies ir rūmų pareigybės.; Šios pareigybės siejamos su raktų, vėliavos, ūkės žymės ir rūmų tvarkos priežiūra.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
+    - c-09782
 
 ## Citatos
 
@@ -113,8 +94,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-09782
   autorius: "Simonas Daukantas"
@@ -136,7 +117,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
+    - t-003
 
 - id: c-09783
   autorius: "Simonas Daukantas"
@@ -154,6 +136,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   citata_rodoma: "ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,\nkurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba\npulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,\nkurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

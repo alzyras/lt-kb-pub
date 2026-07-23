@@ -40,7 +40,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 ## Teiginiai
 
 <a id="claim-t-07710"></a>
-- t-003
+- t-001
   teiginys: "Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -76,4 +76,4 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

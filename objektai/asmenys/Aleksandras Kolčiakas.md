@@ -53,6 +53,7 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
   citata_rodoma: "generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

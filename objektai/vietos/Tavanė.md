@@ -53,7 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl atkurtas pilnas citata paremtas sakinys."
   pagrindžia:
     - c-40457
-- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31500|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.
+
 ## Citatos
 
 - id: c-40457

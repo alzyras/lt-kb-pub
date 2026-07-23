@@ -54,7 +54,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
 ## Teiginiai
 
 <a id="claim-t-195265"></a>
-- t-002
+- t-001
   teiginys: "Mikelio verslas buvo po aplinkinius kaimus nešioti silkes ir buiką."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -64,7 +64,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     - c-177631
 
 <a id="claim-t-195266"></a>
-- t-001
+- t-002
   teiginys: "Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -103,7 +103,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177632
   autorius: "M. Katkus"
@@ -119,4 +119,4 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -45,12 +45,7 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59769
-- susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60047|Krivis]]: Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
-- susijęs iš [[objektai/grupes/Baltų žyniai.md#claim-t-58994|Baltų žyniai]]: Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-10785|Lietuviai]]: Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188255|Lietuviai]]: Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas.
-- susijęs iš [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei.md#claim-t-62686|Kreipimasis į dievus per krivį ir pagarba krivūlei]]: Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
-- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58815|krivis krivė krivaitis]]: Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
+
 ## Citatos
 
 - id: c-59769

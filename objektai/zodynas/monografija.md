@@ -43,10 +43,7 @@ Monografijoje yra 320 puslapiu.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167629
-- susijęs iš [[objektai/autoriai/Juozapas fon Hameris.md#claim-t-191574|Juozapas fon Hameris]]: Narbuto tekstas buvo parengtas remiantis T. Volianskio tyrinėjimais ir J. Hamerio monografija.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190801|Tadas Volianskis]]: Tekstas apie Tadą Volianskį buvo parengtas remiantis jo tyrinėjimais ir J. Hamerio monografija.
-- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169885|Alfredas Bumblauskas]]: A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.
-- susijęs iš [[objektai/ivykiai/Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija.md#claim-t-192045|Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija]]: 1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks.
+
 ## Citatos
 
 - id: c-167629

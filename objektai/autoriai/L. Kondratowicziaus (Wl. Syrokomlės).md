@@ -44,7 +44,7 @@ Kondratowicziaus (Wl.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-55076
-- susijęs iš [[objektai/autoriai/Ign. Kraszewskio.md#claim-t-29338|Ign. Kraszewskio]]: Ign. Kraszewskio apysaka „Kunigas“ XIX a. tautinio atgimimo laikotarpiu lietuviams darė stiprų įspūdį.
+
 ## Citatos
 
 - id: c-55076

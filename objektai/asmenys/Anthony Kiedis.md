@@ -56,9 +56,7 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-75353
-- susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18855|Bob Dylan]]: Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV.
-- susijęs iš [[objektai/asmenys/Leonard Cohen.md#claim-t-19105|Leonard Cohen]]: Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
+
 ## Citatos
 
 - id: c-75353

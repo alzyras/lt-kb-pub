@@ -45,14 +45,7 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-40335
-- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
-- susijęs iš [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.).md#claim-t-20166|B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]: Po 1991 m. sausio 13 d. įvykių Borisas Jelcinas ragino Baltijos šalyse tarnaujančius karius nepasiduoti reakcijos jėgoms.
-- susijęs iš Kaliningrado sritis: Potsdamo konferencijoje Kaliningrado sritis buvo 50 metų atiduota administruoti SSRS.
-- susijęs iš Kaliningrado sritis: Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
-- susijęs iš Punskas: Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
-- susijęs iš Rusija: Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
-- susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
-- susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
+
 ## Citatos
 
 - id: c-40335

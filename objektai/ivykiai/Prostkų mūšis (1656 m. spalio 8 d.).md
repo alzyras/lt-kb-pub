@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78632"></a>
-- t-009
+- t-001
   teiginys: "Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-11893
 
 <a id="claim-t-78633"></a>
-- t-008
+- t-002
   teiginys: "Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-11896
 
 <a id="claim-t-78634"></a>
-- t-010
+- t-003
   teiginys: "1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Nenurodyta
     - c-75853
 
 <a id="claim-t-78635"></a>
-- t-005
+- t-004
   teiginys: "1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Nenurodyta
     - c-11893
 
 <a id="claim-t-78636"></a>
-- t-006
+- t-005
   teiginys: "Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Nenurodyta
     - c-75853
 
 <a id="claim-t-78637"></a>
-- t-007
+- t-006
   teiginys: "Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -161,9 +161,7 @@ Nenurodyta
   semantiniai_rysiai: "Totoriai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.78); Radvilos dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.78)"
   pagrindžia:
     - c-43108
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.).md#claim-t-183679|Švedijos karo paskelbimas ATR (1655 m.)]]: 1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
-- susijęs iš [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.).md#claim-t-39158|Švedijos karo paskelbimas ATR (1655 m.)]]: 1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
+
 ## Citatos
 
 - id: c-11893
@@ -193,8 +191,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-11896
   sudarytojas: "Karolis Zikaras"
@@ -211,7 +209,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-43108
   sudarytojas: "Karolis Zikaras"
@@ -237,7 +235,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-75853
   sudarytojas: "Karolis Zikaras"
@@ -267,8 +265,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-006
+    - t-003
+    - t-005
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

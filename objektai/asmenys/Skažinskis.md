@@ -59,7 +59,7 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174348
-- susijęs iš [[objektai/daiktai/Deivės Laimos stabas prie Goplo ežero.md#claim-t-192057|Deivės Laimos stabas prie Goplo ežero]]: Narbutas svarsto, kad 1096 m. prūsai prie Goplo ežero galėjo pamesti savo deivės stabą, vėliau atsidūrusį generolo Skažinskio nuosavybėje.
+
 ## Citatos
 
 - id: c-174348

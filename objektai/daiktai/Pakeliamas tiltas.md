@@ -64,8 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60329
-- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172970|Vygandas Marburgietis]]: Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.
-- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172971|Vygandas Marburgietis]]: Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.
+
 ## Citatos
 
 - id: c-60329

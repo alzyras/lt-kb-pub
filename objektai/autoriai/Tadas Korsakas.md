@@ -80,7 +80,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     - c-70108
 
 <a id="claim-t-26732"></a>
-- t-006
+- t-003
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado, kurį Ketverių metų seimui pristatė Kazimieras Nestoras Sapiega, autorius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -101,11 +101,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-166739
-- susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200592|Tadas Korsakas (kanauninkas, XVIII a.)]]: Tadas Korsakas buvo kanauninkas.
-- susijęs iš [[objektai/asmenys/Tadas Korsakas (kanauninkas, XVIII a.).md#claim-t-200593|Tadas Korsakas (kanauninkas, XVIII a.)]]: Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
+
 ## Citatos
 
 - id: c-70108
@@ -150,4 +146,4 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-003

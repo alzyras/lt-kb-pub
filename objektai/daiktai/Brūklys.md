@@ -79,9 +79,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56415
-- susijęs iš [[objektai/daiktai/Akstys.md#claim-t-08278|Akstys]]: Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

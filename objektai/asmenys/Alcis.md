@@ -106,7 +106,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177094
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
+
 ## Citatos
 
 - id: c-172929

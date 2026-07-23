@@ -69,7 +69,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 ## Teiginiai
 
 <a id="claim-t-65923"></a>
-- t-007
+- t-001
   teiginys: "NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-26830
 
 <a id="claim-t-65924"></a>
-- t-009
+- t-002
   teiginys: "Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-42877
 
 <a id="claim-t-65925"></a>
-- t-006
+- t-003
   teiginys: "Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-26829
 
 <a id="claim-t-65926"></a>
-- t-008
+- t-004
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,16 +140,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42876
-- susijęs iš [[objektai/asmenys/Marcinkevičius.md#claim-t-39596|Marcinkevičius]]: Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras.
-- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
-- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-183730|Arkadij Kruglov]]: Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39347|Arkadij Kruglov]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
-- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39348|Arkadij Kruglov]]: Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.
-- susijęs iš [[objektai/grupes/NKVD.md#claim-t-71681|NKVD]]: Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.
-- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-183275|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.
-- susijęs iš [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai.md#claim-t-183466|stribai naikintojų batalionai liaudies gynėjai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
+
 ## Citatos
 
 - id: c-26829
@@ -171,7 +162,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-26830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -192,7 +183,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-42876
   sudarytojas: "Karolis Zikaras"
@@ -208,7 +199,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004
 
 - id: c-42877
   sudarytojas: "Karolis Zikaras"
@@ -227,4 +218,4 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002

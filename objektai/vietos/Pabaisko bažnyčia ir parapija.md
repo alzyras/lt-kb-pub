@@ -55,7 +55,7 @@ media_all_json: |-
     - c-158113
 
 <a id="claim-t-173861"></a>
-- t-003
+- t-002
   teiginys: "Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ media_all_json: |-
     - c-158111
 
 <a id="claim-t-173862"></a>
-- t-002
+- t-003
   teiginys: "Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-158112
   autorius: "Michał Baliński"
@@ -208,7 +208,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-158113
   autorius: "Michał Baliński"

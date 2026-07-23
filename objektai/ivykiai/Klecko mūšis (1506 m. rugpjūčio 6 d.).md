@@ -13,14 +13,14 @@ aliases:
   - 'objektai/ivykiai/Klecko mūšis'
 variantai:
   - 'Klecko mūšis (mūšis, XVI a.)'
-amziai:
-  - 'XV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
   - ivykis
+amziai:
+  - 'XV'
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -70,7 +70,7 @@ Nenurodyta
     - c-11860
 
 <a id="claim-t-10230"></a>
-- t-005
+- t-002
   teiginys: "Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-43057
 
 <a id="claim-t-195013"></a>
-- t-007
+- t-003
   teiginys: "Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-43056
 
 <a id="claim-t-195017"></a>
-- t-016
+- t-004
   teiginys: "Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -255,7 +255,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-43057
   sudarytojas: "Karolis Zikaras"
@@ -286,7 +286,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-177392
   autorius: "Anoniminis metraštininkas"
@@ -338,7 +338,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-004
 
 - id: c-177394
   autorius: "Anoniminis metraštininkas"
@@ -365,6 +365,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Totoriai]]

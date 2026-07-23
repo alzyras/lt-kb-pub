@@ -67,22 +67,7 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177140
-- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189986|Tadas Volianskis]]: Narbutas mini, kad Tadas Volianskis priekaištavo dėl Prilvico statulėlės su užrašu „Szwaixtix“ tapatinimo su Lietuvos Apolonu.
-- susijęs iš [[objektai/autoriai/Maschas.md#claim-t-190372|Maschas]]: Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
-- susijęs iš [[objektai/autoriai/Wogenas.md#claim-t-190462|Wogenas]]: Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
-- susijęs iš Jono Potockio raštai apie Retrą ir Prilvicą: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio raštuose.
-- susijęs iš Tunmano raštai apie Retrą ir Prilvicą: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono Potockio raštuose bei Suroveckio studijoje.
-- susijęs iš Retra: Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.
-- susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190070|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
-- susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190326|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
-- susijęs iš [[objektai/autoriai/Suroveckis.md#claim-t-190456|Suroveckis]]: Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje.
-- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190804|Tadas Volianskis]]: Teodoras Narbutas nurodo, kad Tadas Volianskis priekaištavo dėl Szwaixtiks statulėlės nepanašumo į Lietuvos Apoloną.
-- susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190460|Tunmanas]]: Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.
-- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188381|Dievų stabai]]: Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188194|Herulai]]: Narbutas spėjo, kad obotritai kai kuriuos Prilvico stabus galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklomis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190582|Lietuviai]]: Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-188350|Slavai]]: Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų.
-- susijęs iš Suroveckio studija „Rocznik Towarzystwa Przyjaciol Nauk“ leidinyje: Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studijoje, paskelbtoje 1812 m. Varšuvoje.
+
 ## Citatos
 
 - id: c-171854

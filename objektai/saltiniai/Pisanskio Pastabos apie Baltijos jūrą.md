@@ -49,7 +49,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
     - c-174613
 
 <a id="claim-t-191733"></a>
-- t-003
+- t-002
   teiginys: "Pisanskis rašė, kad vietovės, anksčiau buvusios gana toli nuo jūros krantų, vėliau pamažu prie jų priartėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
     - c-174615
 
 <a id="claim-t-197685"></a>
-- t-004
+- t-003
   teiginys: "Vėliau Pisanskis rašo, jog vietovės, kurios, anot įtikėtinų žinių, buvo gana toli nuo jūros krantų, paskui pamažu prie jų priartėjo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,6 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174613
@@ -181,5 +180,5 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004

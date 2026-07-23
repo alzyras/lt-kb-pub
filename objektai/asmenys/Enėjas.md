@@ -68,8 +68,7 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172977
-- susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
-- susijęs iš [[objektai/autoriai/Vergilijus.md#claim-t-190342|Vergilijus]]: Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
+
 ## Citatos
 
 - id: c-172976

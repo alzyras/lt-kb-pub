@@ -53,7 +53,7 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
   semantiniai_rysiai: "Galminas keliavo į Nevėžis (0.82); Klausigaila keliavo į Nevėžis (0.82); Vasibutas keliavo į Nevėžis (0.82)"
   pagrindžia:
     - c-32723
-- susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
+
 ## Citatos
 
 - id: c-32723

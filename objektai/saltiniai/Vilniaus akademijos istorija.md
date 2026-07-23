@@ -38,7 +38,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 ## Teiginiai
 
 <a id="claim-t-88280"></a>
-- t-002
+- t-001
   teiginys: "Michało Balińskio „Vilniaus akademijos istorija“ buvo išleista 1862 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     - c-84259
 
 <a id="claim-t-88281"></a>
-- t-001
+- t-002
   teiginys: "„Vilniaus akademijos istorija“ buvo laikoma bene garsiausiu Michalo Balinskio istoriniu darbu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84260
   autorius: "Michał Baliński"
@@ -113,4 +113,4 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

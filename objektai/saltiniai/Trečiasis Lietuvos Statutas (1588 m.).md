@@ -52,6 +52,7 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   citata_rodoma: "Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

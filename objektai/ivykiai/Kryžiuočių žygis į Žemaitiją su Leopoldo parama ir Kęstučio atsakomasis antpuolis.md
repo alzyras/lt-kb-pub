@@ -61,7 +61,7 @@ Nenurodyta
     - c-169089
 
 <a id="claim-t-196191"></a>
-- t-003
+- t-002
   teiginys: "Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didelę kariuomenę, kurios remiami kryžiuočiai užpuolė ir nusiaubė Žemaitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,4 +111,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

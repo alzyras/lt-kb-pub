@@ -56,10 +56,7 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį."
   pagrindžia:
     - c-75373
-- susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74882|Oberostas]]: Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74881|Oberostas]]: 1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.
-- susijęs iš Kaunas: 1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.
+
 ## Citatos
 
 - id: c-75373

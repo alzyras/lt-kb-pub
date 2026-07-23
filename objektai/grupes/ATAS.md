@@ -72,10 +72,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   temporalinis_llm_pakomentavimas: "Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą."
   pagrindžia:
     - c-44715
-- susijęs iš [[objektai/daiktai/TT pistoletas.md#claim-t-40773|TT pistoletas]]: Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus.
-- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170253|Vytautas Landsbergis]]: 1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.
-- susijęs iš [[objektai/daiktai/AKSU automatinis šautuvas.md#claim-t-40686|AKSU automatinis šautuvas]]: 1991 m. rugpjūčio pučo metu AT gynyboje vienas Mokomojo junginio karys buvo ginkluotas AKSU automatiniu šautuvu.
-- susijęs iš Žvėryno tiltas: Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika.
+
 ## Citatos
 
 - id: c-44715

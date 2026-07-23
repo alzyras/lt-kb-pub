@@ -42,7 +42,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 ## Teiginiai
 
 <a id="claim-t-75642"></a>
-- t-005
+- t-001
   teiginys: "Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-73367
 
 <a id="claim-t-75647"></a>
-- t-004
+- t-002
   teiginys: "Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-73365
 
 <a id="claim-t-75650"></a>
-- t-009
+- t-003
   teiginys: "XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-003
 
 - id: c-73365
   redaktorius: "A. Šapoka"
@@ -123,7 +123,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-73367
   redaktorius: "A. Šapoka"
@@ -144,4 +144,4 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

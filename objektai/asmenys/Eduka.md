@@ -81,9 +81,7 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174830
-- susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191018|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Po skirių pralaimėjimo Eduka vedė savo žmonių likučius iš Mezijos į dešiniąją Dunojaus pakrantę ir pasidavė romėnų globai.
-- susijęs iš [[objektai/asmenys/Volfas.md#claim-t-191332|Volfas]]: Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių.
-- susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192931|Sudargai]]: Narbutas sudargus, istorikų vadintus Satargarii ir Sadargii, apibūdina kaip ištikimiausius skirių bičiulius prie Dunojaus žemupio.
+
 ## Citatos
 
 - id: c-174083

@@ -63,9 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60315
-- susijęs iš [[objektai/asmenys/Karakašas.md#claim-t-40257|Karakašas]]: Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.
-- susijęs iš [[objektai/paprociai/Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas.md#claim-t-185907|Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas]]: Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.
-- susijęs iš Pomeranija: Pomeranijoje, Vyslos žemupyje ir Sembos pusiasalyje pasitaikė pavienių importuotų dirbinių.
+
 ## Citatos
 
 - id: c-60315

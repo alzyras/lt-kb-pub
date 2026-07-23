@@ -54,7 +54,7 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-30468
-- susijęs iš [[objektai/autoriai/Jurgėla, C. R.md#claim-t-29516|Jurgėla, C. R]]: C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
+
 ## Citatos
 
 - id: c-30468

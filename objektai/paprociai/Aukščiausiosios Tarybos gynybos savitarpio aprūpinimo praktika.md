@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09608"></a>
-- t-005
+- t-001
   teiginys: "Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-12356
 
 <a id="claim-t-09609"></a>
-- t-006
+- t-002
   teiginys: "Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-12358
 
 <a id="claim-t-09610"></a>
-- t-004
+- t-003
   teiginys: "Rengiantis Aukščiausiosios Tarybos gynybai jos rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -119,7 +119,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-12357
   sudarytojas: "Karolis Zikaras"
@@ -137,7 +137,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-12358
   sudarytojas: "Karolis Zikaras"
@@ -161,4 +161,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

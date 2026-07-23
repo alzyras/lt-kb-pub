@@ -39,7 +39,7 @@ Vartojamos formos: `ašvienio`.
 ## Teiginiai
 
 <a id="claim-t-69978"></a>
-- t-004
+- t-001
   teiginys: "Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -61,4 +61,4 @@ Vartojamos formos: `ašvienio`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

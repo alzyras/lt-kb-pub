@@ -39,7 +39,7 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 ## Teiginiai
 
 <a id="claim-t-31023"></a>
-- t-002
+- t-001
   teiginys: "V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     - c-33167
 
 <a id="claim-t-31024"></a>
-- t-001
+- t-002
   teiginys: "V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-33167
   autorius: "Zenonas Ivinskis"
@@ -114,4 +114,4 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

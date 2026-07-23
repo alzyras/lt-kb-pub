@@ -30,7 +30,7 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 ## Teiginiai
 
 <a id="claim-t-197227"></a>
-- t-002
+- t-001
   teiginys: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie tuvių genties tautos žinojo trizną."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

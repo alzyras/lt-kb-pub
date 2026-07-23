@@ -91,11 +91,10 @@ Nenurodyta
     pilėnus paėmę  į nelaisvę, o kitus išžudę. Kita kariuomenės dalis įsibrovė  į šios pilies
     apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-66711

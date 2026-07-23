@@ -40,7 +40,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 ## Teiginiai
 
 <a id="claim-t-187451"></a>
-- t-003
+- t-001
   teiginys: "Motiejus Strijkovskis savo 1582 m. kronikoje beveik pažodžiui perteikė ištisus „rusiško metraščio“ varianto fragmentus."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "gap::people"
@@ -60,7 +60,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-170430
 
 <a id="claim-t-187452"></a>
-- t-001
+- t-002
   teiginys: "Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -79,7 +79,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-170429
 
 <a id="claim-t-188587"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašo, kad duomenų apie liepų miškelyje garbintą deivę paliko Strijkovskis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171476
 
 <a id="claim-t-188588"></a>
-- t-005
+- t-004
   teiginys: "Narbutas rašo, kad Strijkovskis Markopolius trumpai minėjo kaip požemio dievaičius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171477
 
 <a id="claim-t-188590"></a>
-- t-006
+- t-005
   teiginys: "Narbutas rašo, kad Strijkovskis Vilniaus Perkūno šventykloje mini atskiroje koplyčioje laikytus šliužus."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171481
 
 <a id="claim-t-188591"></a>
-- t-007
+- t-006
   teiginys: "Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171482
 
 <a id="claim-t-188592"></a>
-- t-008
+- t-007
   teiginys: "Narbutas rašo, kad Strijkovskis minėjo Vilniaus Perkūno šventykloje buvusį didelį juodą akmenį, iš kurio buvo įskeliama ugnis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171481
 
 <a id="claim-t-188593"></a>
-- t-009
+- t-008
   teiginys: "Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171482
 
 <a id="claim-t-188594"></a>
-- t-010
+- t-009
   teiginys: "Narbutas iš Strijkovskio šešių šventyklos kampų sprendė, kad stebuklingą ąžuolą supo šešiakampis mūrinis aptvaras."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171483
 
 <a id="claim-t-188595"></a>
-- t-011
+- t-010
   teiginys: "Narbutas rašo, kad Strijkovskis lietuvių išpažintį grindė senųjų kronikininkų pranešimais ir savo duomenimis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171484
 
 <a id="claim-t-188596"></a>
-- t-012
+- t-011
   teiginys: "Narbutas rašo, kad Strijkovskis lietuvių ugnies apeigas aiškino kaip senovės romėnų Palilėjų švenčių pamėgdžiojimą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -246,7 +246,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171485
 
 <a id="claim-t-188597"></a>
-- t-013
+- t-012
   teiginys: "Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -266,7 +266,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171486
 
 <a id="claim-t-190653"></a>
-- t-014
+- t-013
   teiginys: "Narbutas rašo, kad Strijkovskis apie aukštas Lietuvos pareigas pateikė daugiau smulkmenų nei Prūsijos ir Livonijos kronikininkai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -286,7 +286,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173536
 
 <a id="claim-t-190923"></a>
-- t-015
+- t-014
   teiginys: "Narbutas Strijkovskį laikė verčiausiu iš spausdintų Lietuvos istorijos šaltinių, aukščiau už prūsų ir Livonijos kronikininkus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -306,7 +306,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173805
 
 <a id="claim-t-190924"></a>
-- t-016
+- t-015
   teiginys: "Narbutas teigė, kad Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir taisė jo spragas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -326,7 +326,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173806
 
 <a id="claim-t-190925"></a>
-- t-017
+- t-016
   teiginys: "Narbutas nurodo, kad Strijkovskis savo naudotais istoriniais šaltiniais patvirtino teiginį apie kimbrų ryšį su vėlesne prūsų žeme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -346,7 +346,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173807
 
 <a id="claim-t-190926"></a>
-- t-018
+- t-017
   teiginys: "Narbutas aiškina, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos į Ilyriją datavo 190 metais prieš Kristaus gimimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -366,7 +366,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173808
 
 <a id="claim-t-190927"></a>
-- t-019
+- t-018
   teiginys: "Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -387,7 +387,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-173809
 
 <a id="claim-t-194716"></a>
-- t-020
+- t-019
   teiginys: "Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie pasirodydavę prieštaringiems žmonėms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -399,7 +399,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-177112
 
 <a id="claim-t-197428"></a>
-- t-021
+- t-020
   teiginys: "Narbutas teigia, kad motiejus Strijkovskis buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos motina ."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -411,7 +411,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
     - c-171475
 
 <a id="claim-t-197429"></a>
-- t-022
+- t-021
   teiginys: "Motiejus Strijkovskis tuoj pat nežinia kur dingo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -421,37 +421,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171479
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172880|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172881|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172882|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė visų Lietuvos garbintų dievų šventovė.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172884|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172886|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172887|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172888|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172889|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172890|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172891|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, perimdamas Dlugošo pasakojimą.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172892|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172894|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172895|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172896|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172897|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172898|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172900|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. buvo sunykusi ir sugriuvusi.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172901|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172905|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172906|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172908|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172909|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172910|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172911|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais degintos vaško žvakės.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172912|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190764|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto vertinimu, Motiejus Strijkovskis nesuskubo įgyvendinti visų savo istorinio veikalo ketinimų.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190765|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190766|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis skyrėsi nuo slavų ir lietuvių kalbų.
-- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10255|Mėlynųjų Vandenų mūšis (1362 m.)]]: Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius.
+
 ## Citatos
 
 - id: c-170429
@@ -473,7 +443,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-170430
   autorius: "Anoniminis metraštininkas"
@@ -497,7 +467,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-171475
   autorius: "Teodoras Narbutas"
@@ -519,7 +489,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-020
 
 - id: c-171476
   autorius: "Teodoras Narbutas"
@@ -541,7 +511,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-171477
   autorius: "Teodoras Narbutas"
@@ -560,7 +530,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-171479
   autorius: "Teodoras Narbutas"
@@ -580,7 +550,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-021
 
 - id: c-171480
   autorius: "Teodoras Narbutas"
@@ -617,8 +587,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-008
+    - t-005
+    - t-007
 
 - id: c-171482
   autorius: "Teodoras Narbutas"
@@ -636,8 +606,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-009
+    - t-006
+    - t-008
 
 - id: c-171483
   autorius: "Teodoras Narbutas"
@@ -656,7 +626,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-171484
   autorius: "Teodoras Narbutas"
@@ -676,8 +646,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-010
     - t-011
-    - t-012
 
 - id: c-171485
   autorius: "Teodoras Narbutas"
@@ -699,7 +669,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-171486
   autorius: "Teodoras Narbutas"
@@ -725,7 +695,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-173536
   autorius: "Teodoras Narbutas"
@@ -753,7 +723,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-173805
   autorius: "Teodoras Narbutas"
@@ -780,7 +750,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 - id: c-173806
   autorius: "Teodoras Narbutas"
@@ -803,7 +773,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-173807
   autorius: "Teodoras Narbutas"
@@ -825,7 +795,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
 - id: c-173808
   autorius: "Teodoras Narbutas"
@@ -854,7 +824,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-017
 
 - id: c-173809
   autorius: "Teodoras Narbutas"
@@ -880,7 +850,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-177112
   autorius: "Teodoras Narbutas"
@@ -900,4 +870,4 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-019

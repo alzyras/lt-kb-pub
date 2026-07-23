@@ -147,11 +147,11 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
     Meotų, ir sudarė tautą, turėjusią tobulesnę bendruomeninę
     santvarką ir prekybos verslą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 

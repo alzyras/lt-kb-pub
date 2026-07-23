@@ -45,7 +45,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   semantiniai_rysiai: "Stavimėlas buvo sąjungininkas su Pelužis (0.72)"
   pagrindžia:
     - c-61071
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90003|Pelužis]]: Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.
+
 ## Citatos
 
 - id: c-61071

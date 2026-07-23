@@ -31,7 +31,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
 ## Teiginiai
 
 <a id="claim-t-192112"></a>
-- t-003
+- t-001
   teiginys: "Teodoras Narbutas užrašą „optimo maximo“ lygino su romėniška formule IOVI OPTIMO MAXIMO ir Jaruvito skydo užrašu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -67,7 +67,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     - c-174994
 
 <a id="claim-t-192114"></a>
-- t-001
+- t-003
   teiginys: "Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maximo“, siedamas jį su Kohmos vardu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -97,7 +97,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-174994
   autorius: "Teodoras Narbutas"
@@ -140,4 +140,4 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

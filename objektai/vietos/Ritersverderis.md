@@ -30,7 +30,7 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
 ## Teiginiai
 
 <a id="claim-t-196737"></a>
-- t-002
+- t-001
   teiginys: "Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -41,9 +41,7 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178879
-- susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
-- susijęs iš [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą.md#claim-t-185887|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]: Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.
-- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
+
 ## Citatos
 
 - id: c-178879
@@ -72,4 +70,4 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

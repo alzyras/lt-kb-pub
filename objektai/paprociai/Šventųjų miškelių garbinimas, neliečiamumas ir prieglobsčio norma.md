@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-189903"></a>
 - t-002
   teiginys: "Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį."
-  atnaujinta: "2026-07-19 19:54"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

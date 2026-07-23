@@ -74,7 +74,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42082
-- susijęs iš [[objektai/asmenys/Kiprijonas (Vilniaus sufraganas).md#claim-t-87754|Kiprijonas (Vilniaus sufraganas)]]: Vilniaus sufraganas Kiprijonas kartu su vyskupu Povilu ir kleru užkirto kelią karaliui, vykusiam į disidentų bažnyčią.
+
 ## Citatos
 
 - id: c-42082

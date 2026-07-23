@@ -34,11 +34,10 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
     Toppen M Einleitung.—SRP, 1, S. 3—20.
       Toeppen M. Historisch-comparative Geographie von Preussen.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61951
@@ -50,6 +49,7 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
   citata_rodoma: "Toppen M Einleitung.—SRP, 1, S. 3—20."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

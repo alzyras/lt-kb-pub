@@ -71,9 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Šiaurės karo padarinius."
   pagrindžia:
     - c-23298
-- susijęs iš [[objektai/ivykiai/Šiaurės karas (1700–1721 m.).md#claim-t-39143|Šiaurės karas (1700–1721 m.)]]: Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
-- susijęs iš Kuršas: 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
-- susijęs iš Kuršas: 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
+
 ## Citatos
 
 - id: c-23298

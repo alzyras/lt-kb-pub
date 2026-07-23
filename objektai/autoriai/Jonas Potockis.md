@@ -213,6 +213,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   citata_rodoma: "Sį kartą istorikas turėjo omenyje\nstraipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic\nprzyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—\n240; 284—304."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

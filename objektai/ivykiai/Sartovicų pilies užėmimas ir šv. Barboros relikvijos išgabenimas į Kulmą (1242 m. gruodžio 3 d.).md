@@ -7,14 +7,14 @@ datos:
   - '1242 m.'
 date_start: '1242'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - religinis-įvykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -72,7 +72,7 @@ Nenurodyta
     - c-85357
 
 <a id="claim-t-89399"></a>
-- t-003
+- t-002
   teiginys: "Perpasakodamas Sartovicų pilies užėmimą, Dusburgietis praleido šaltinio duomenis apie Ordino brolių plėšikavimą pilyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-85361
 
 <a id="claim-t-89400"></a>
-- t-005
+- t-003
   teiginys: "Sartovicų pilį užėmę broliai pasiėmė šv. Barboros relikviją ir džiūgaudami išėjo iš rūsio."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
     - c-85359
 
 <a id="claim-t-89402"></a>
-- t-002
+- t-005
   teiginys: "Sartovicų pilyje surišta sena moteris broliams aiškino, kad šv. Barboros palankumas padėjo jiems pasiekti pergalę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,11 +130,10 @@ Nenurodyta
     pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP,
     5, p. 161; PKD, p. 42—43).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-85357
@@ -165,7 +164,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003
 
 - id: c-85358
   autorius: "Petras Dusburgietis"
@@ -184,7 +183,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-85359
   autorius: "Petras Dusburgietis"
@@ -222,4 +221,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

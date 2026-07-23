@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59538
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176734|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.
+
 ## Citatos
 
 - id: c-59538

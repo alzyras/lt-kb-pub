@@ -7,7 +7,7 @@ variantai:
   - 'vyžas'
   - 'vyžiukę'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195667"></a>
-- t-002
+- t-001
   teiginys: "Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-178068
 
 <a id="claim-t-195668"></a>
-- t-003
+- t-002
   teiginys: "Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-178069
 
 <a id="claim-t-195669"></a>
-- t-001
+- t-003
   teiginys: "Vyžas pindavo iš suraitytų karnų."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-178068
   autorius: "M. Katkus"
@@ -123,7 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178069
   autorius: "M. Katkus"
@@ -139,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

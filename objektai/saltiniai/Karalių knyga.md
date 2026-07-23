@@ -45,7 +45,7 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
     - c-61727
 
 <a id="claim-t-194451"></a>
-- t-003
+- t-002
   teiginys: "Naujojo Malūno pilį.552 Šioje kovoje vienas prūsas iš Sembos stovėjo ir klojo priešus taip, kaip Karalių knygoje skaitome apie Ahohietį (2 Kar 23, 9 ir toliau): „Kolei jo rankos nepailso“ ir kalavijas neatšipo jo rankose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,4 +74,4 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

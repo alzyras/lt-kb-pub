@@ -49,7 +49,7 @@ Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto up
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175623
-- susijęs iš Desna: Narbutas manė, kad Herodoto minėta Gero upė turėtų būti dabartinė Desna, o Hipakyrį atitiko Seimo upė.
+
 ## Citatos
 
 - id: c-175623

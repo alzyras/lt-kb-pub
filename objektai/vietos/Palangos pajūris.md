@@ -53,7 +53,7 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki fakto apie Palangos pajūrį."
   pagrindžia:
     - c-02890
-- susijęs iš [[objektai/autoriai/prof. Simpsonas.md#claim-t-01171|prof. Simpsonas]]: Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.
+
 ## Citatos
 
 - id: c-02890

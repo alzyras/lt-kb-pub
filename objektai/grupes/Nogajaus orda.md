@@ -36,7 +36,7 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 ## Teiginiai
 
 <a id="claim-t-86765"></a>
-- t-002
+- t-001
   teiginys: "Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

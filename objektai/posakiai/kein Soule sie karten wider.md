@@ -54,7 +54,7 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   temporalinis_llm_pakomentavimas: "Pradinis tekstas neturi pilno predikato, o citata leidžia aiškiai nusakyti įvykį."
   pagrindžia:
     - c-28609
-- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66882|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: 1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.
+
 ## Citatos
 
 - id: c-28609

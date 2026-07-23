@@ -39,7 +39,7 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 ## Teiginiai
 
 <a id="claim-t-79101"></a>
-- t-002
+- t-001
   teiginys: "Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-76191
-- susijęs iš Užpelkiai: Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais.
+
 ## Citatos
 
 - id: c-76191
@@ -78,4 +78,4 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

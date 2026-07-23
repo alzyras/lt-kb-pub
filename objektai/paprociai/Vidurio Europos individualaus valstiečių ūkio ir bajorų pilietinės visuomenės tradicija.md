@@ -67,7 +67,7 @@ Nenurodyta
     - c-166727
 
 <a id="claim-t-183337"></a>
-- t-003
+- t-002
   teiginys: "Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams – Vidurio Europai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,4 +114,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

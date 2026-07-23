@@ -48,12 +48,7 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175725
-- susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
-- susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
-- susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191098|Ptolemėjas]]: Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, kurią tyrinėtojai siejo su Silezija arba Vyslos apylinkėmis.
-- susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191514|Ptolemėjas]]: Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Silezija, Vyslos apylinkėmis arba pajūriu kairiajame Vyslos krante.
-- susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
-- susijęs iš [[objektai/grupes/Stodorėnai.md#claim-t-192998|Stodorėnai]]: Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
+
 ## Citatos
 
 - id: c-175725

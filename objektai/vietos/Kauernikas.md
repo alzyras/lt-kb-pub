@@ -45,9 +45,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
   semantiniai_rysiai: "Kryžiuočių ordinas gynė Drevenca (0.90)"
   pagrindžia:
     - c-37415
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178939|Kryžiuočių ordinas]]: Sąjungininkai ties Kauerniku pastebėjo, kad kryžiuočiai jau saugo perėjimą per Drevencos upę.
-- susijęs iš Drevenca: Sąjungininkai priėjo Drevencos upę ties Kauerniku.
-- susijęs iš Drevenca: Sąjungininkai priėjo Drevencos upę ties Kauerniku ir rado kryžiuočių saugomą perėjimą.
+
 ## Citatos
 
 - id: c-37415

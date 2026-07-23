@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Šeškablauzdžiai
 sukurta: '2026-07-12'
 variantai:
-  - 'šeškablauzdžiai'
-  - 'šeškablauzdi'
+  - šeškablauzdžiai
+  - šeškablauzdi
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -73,6 +73,7 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
   citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

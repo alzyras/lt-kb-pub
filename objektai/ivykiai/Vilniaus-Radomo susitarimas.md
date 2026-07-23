@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66976"></a>
-- t-003
+- t-001
   teiginys: "1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-67052
   autorius: "Zenonas Ivinskis"
@@ -129,6 +129,7 @@ Nenurodyta
   citata_rodoma: "Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose\nfrontuose. Jis nebegalėjo daugiau atsipalaiduoti nuo Lenkijos.\nNelaimingosios Vytautui kautynės Karūnos interesams tačiau buvo\nlaimingos. Lenkija vėl daugiau įgijo įtakos Lietuvoje^43. O su\nbebandančiu atsipalaiduoti Vytautu atskirais aktais (Vilniaus ir\nRadomo suvažiavimuose 1401) buvo aiškiau nustatyti santykiai^44"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

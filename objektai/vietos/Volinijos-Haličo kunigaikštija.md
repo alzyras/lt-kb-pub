@@ -37,7 +37,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
 ## Teiginiai
 
 <a id="claim-t-32693"></a>
-- t-002
+- t-001
   teiginys: "Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
     - c-34101
 
 <a id="claim-t-32694"></a>
-- t-001
+- t-002
   teiginys: "Volinijos-Haličo kunigaikštis Levas, keršydamas už valdžios Lietuvoje atidavimą Švarnui, pasikvietė Vaišvilką į svečius ir jį nužudė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34100
-- susijęs iš [[objektai/ivykiai/Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.).md#claim-t-31508|Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.)]]: Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti.
+
 ## Citatos
 
 - id: c-34100
@@ -92,7 +92,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-34101
   autorius: "Zenonas Ivinskis"
@@ -113,4 +113,4 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

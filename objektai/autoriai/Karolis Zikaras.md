@@ -45,7 +45,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 ## Teiginiai
 
 <a id="claim-t-171496"></a>
-- t-018
+- t-001
   teiginys: "Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156018
 
 <a id="claim-t-171497"></a>
-- t-009
+- t-002
   teiginys: "Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-42426
 
 <a id="claim-t-171498"></a>
-- t-012
+- t-003
   teiginys: "Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156021
 
 <a id="claim-t-171499"></a>
-- t-014
+- t-004
   teiginys: "Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156019
 
 <a id="claim-t-171500"></a>
-- t-007
+- t-005
   teiginys: "Karolis Zikaras buvo šio leidinio skyrių įvadų autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-42424
 
 <a id="claim-t-171501"></a>
-- t-011
+- t-006
   teiginys: "Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156023
 
 <a id="claim-t-171502"></a>
-- t-005
+- t-007
   teiginys: "Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-11411
 
 <a id="claim-t-171504"></a>
-- t-015
+- t-008
   teiginys: "Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,7 +182,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156024
 
 <a id="claim-t-171505"></a>
-- t-010
+- t-009
   teiginys: "Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,7 +198,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-42427
 
 <a id="claim-t-171506"></a>
-- t-013
+- t-010
   teiginys: "Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -207,7 +207,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156020
 
 <a id="claim-t-171507"></a>
-- t-017
+- t-011
   teiginys: "Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -226,7 +226,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - c-156025
 
 <a id="claim-t-171508"></a>
-- t-016
+- t-012
   teiginys: "Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -240,27 +240,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-156022
-- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71496|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
-- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71503|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
-- susijęs iš [[objektai/autoriai/Paulius Bugys.md#claim-t-40666|Paulius Bugys]]: Paulius Bugys kartu su Vidmantu Airini ir Karoliu Zikaru siejamas su leidinio iliustracija „Alebardos“.
-- susijęs iš HUSARŲ ORGANIZACIJA XVII A: „Husarų organizacija XVII a.“ autoriumi nurodytas Andžej Geglis, o Karolis Zikaras paminėtas prie šios medžiagos.
-- susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
-- susijęs iš LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A: Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
-- susijęs iš ŽYMIAUSI LIETUVOS PARTIZANŲ MŪŠIAI PRIEŠ SOVIETŲ PAJĖGAS: Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.
-- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78743|Arvydas Anušauskas]]: Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.
-- susijęs iš [[objektai/autoriai/Vidmantas Airini.md#claim-t-40674|Vidmantas Airini]]: Vidmantas Airini buvo vienas teksto „Alebardos“ autorių.
-- susijęs iš [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas).md#claim-t-40701|Būgnas-timpanas (būgnas-katilas)]]: Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų.
-- susijęs iš [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis.md#claim-t-40760|Sausio 13-osios dienos brolijos ženklelis]]: Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas.
-- susijęs iš [[objektai/grupes/Sausio 13-osios dienos brolija.md#claim-t-41145|Sausio 13-osios dienos brolija]]: Sausio 13-osios dienos brolija vienijo Sausio įvykių dalyvius.
-- susijęs iš [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.).md#claim-t-78642|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]: Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.
-- susijęs iš Didysis artilerijos menas: Karolis Zikaras yra skyriaus „Didysis artilerijos menas“, prasidedančio 115 puslapyje, autorius.
-- susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
-- susijęs iš LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI: Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“.
-- susijęs iš LIETUVOS KARYBA XIII A: Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.
+
 ## Citatos
 
 - id: c-11411
@@ -278,7 +258,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007
 
 - id: c-42424
   sudarytojas: "Karolis Zikaras"
@@ -389,7 +369,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-42426
   sudarytojas: "Karolis Zikaras"
@@ -409,7 +389,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-42427
   sudarytojas: "Karolis Zikaras"
@@ -423,7 +403,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-156018
   sudarytojas: "Karolis Zikaras"
@@ -462,7 +442,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-001
 
 - id: c-156019
   sudarytojas: "Karolis Zikaras"
@@ -481,7 +461,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-004
 
 - id: c-156020
   sudarytojas: "Karolis Zikaras"
@@ -497,7 +477,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-156021
   sudarytojas: "Karolis Zikaras"
@@ -516,7 +496,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-003
 
 - id: c-156022
   sudarytojas: "Karolis Zikaras"
@@ -538,7 +518,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-012
 
 - id: c-156023
   sudarytojas: "Karolis Zikaras"
@@ -555,7 +535,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-156024
   sudarytojas: "Karolis Zikaras"
@@ -572,7 +552,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-008
 
 - id: c-156025
   sudarytojas: "Karolis Zikaras"
@@ -595,4 +575,4 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011

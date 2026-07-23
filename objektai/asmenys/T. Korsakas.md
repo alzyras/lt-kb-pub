@@ -44,14 +44,7 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44529
-- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
-- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
-- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20133|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T. Korsakas.
-- susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183210|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183208|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Rusijos kariuomenė, vadovaujama Aleksandro Suvorovo, 1794 m. sukilimo metu ėmėsi veiksmų prieš sukilėlius.
+
 ## Citatos
 
 - id: c-44529

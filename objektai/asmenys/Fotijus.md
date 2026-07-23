@@ -40,7 +40,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 ## Teiginiai
 
 <a id="claim-t-82300"></a>
-- t-005
+- t-001
   teiginys: "Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78783
 
 <a id="claim-t-82301"></a>
-- t-004
+- t-002
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78779
 
 <a id="claim-t-82302"></a>
-- t-001
+- t-003
   teiginys: "Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78780
 
 <a id="claim-t-82303"></a>
-- t-003
+- t-004
   teiginys: "Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78783
 
 <a id="claim-t-82304"></a>
-- t-002
+- t-005
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius ir liepė Lietuvai rinkti atskirą metropolitą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,12 +122,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78779
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176750|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.
-- susijęs iš Maskva: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą.
-- susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63828|Kiprijonas]]: Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.
-- susijęs iš [[objektai/asmenys/Teodosijus.md#claim-t-30394|Teodosijus]]: Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu.
-- susijęs iš [[objektai/autoriai/Kamerotos vyskupas Petras.md#claim-t-190304|Kamerotos vyskupas Petras]]: Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.
-- susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86540|metropolitas metropolija]]: Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams laikyta vienu didžiausių nepatogumų.
+
 ## Citatos
 
 - id: c-78779
@@ -159,8 +154,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-002
+    - t-005
 
 - id: c-78780
   autorius: "Zenonas Ivinskis"
@@ -181,7 +176,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-78783
   autorius: "Michał Baliński"
@@ -211,8 +206,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-003
+    - t-001
+    - t-004
 
 ## Ryšiai
 - Fotijus keliavo į [[objektai/vietos/Maskva]]

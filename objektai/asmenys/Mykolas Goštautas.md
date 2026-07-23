@@ -31,7 +31,7 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
 ## Teiginiai
 
 <a id="claim-t-196573"></a>
-- t-003
+- t-001
   teiginys: "Mykolas Goštautas užpuolė priešą ir jį sumušė."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -75,4 +75,4 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -7,16 +7,14 @@ saltiniai:
 datos:
   - '1899 m.'
 date_start: '1899'
-date_end: '1899'
-variantai:
-  - 'Norvegijos'
-amziai:
-  - 'XIX'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,7 +67,7 @@ Norvegija šiame šaltinyje yra valstybė.
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-184442
-- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
+
 ## Citatos
 
 - id: c-178056

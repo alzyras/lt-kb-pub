@@ -38,7 +38,7 @@ Amsterdamas, 1650 m.
 ## Teiginiai
 
 <a id="claim-t-46495"></a>
-- t-002
+- t-001
   teiginys: "Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Amsterdamas, 1650 m.
     - c-49067
 
 <a id="claim-t-46497"></a>
-- t-001
+- t-002
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -74,13 +74,7 @@ Amsterdamas, 1650 m.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-24042
-- susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23234|Kazimieras Semenavičius]]: Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75314|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45479|Daugiapakopės raketos]]: K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.
-- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
-- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
-- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
-- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+
 ## Citatos
 
 - id: c-24042
@@ -98,7 +92,7 @@ Amsterdamas, 1650 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-49067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -132,4 +126,4 @@ Amsterdamas, 1650 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

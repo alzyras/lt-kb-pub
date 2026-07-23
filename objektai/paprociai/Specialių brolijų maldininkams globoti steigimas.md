@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06864"></a>
-- t-004
+- t-001
   teiginys: "Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Nenurodyta
     - c-00236
 
 <a id="claim-t-06865"></a>
-- t-003
+- t-002
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-00236
   redaktorius: "A. Šapoka"
@@ -127,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

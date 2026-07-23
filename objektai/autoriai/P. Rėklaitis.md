@@ -54,11 +54,7 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33095
-- susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.
-- susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
-- susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
-- susijęs iš Bibliographie des Memellandes: „Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.
-- susijęs iš Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen: P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius.
+
 ## Citatos
 
 - id: c-33095

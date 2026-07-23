@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-195007"></a>
-- t-003
+- t-001
   teiginys: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-177390
 
 <a id="claim-t-196657"></a>
-- t-006
+- t-003
   teiginys: "Šich Achmetas, Užvolgio skitų valdovas, iš Vilniaus atvyko į Bresto seimą kaip tremtinys ir beveik belaisvis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -73,11 +73,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178822
-- susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
-- susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
-- susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
-- susijęs iš Seversko žemė: Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.
-- susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.'
@@ -194,7 +190,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-177391
@@ -246,8 +242,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 ## Ryšiai
-- Šich Achmetas puolė [[objektai/vietos/Severskas]], [[objektai/vietos/Seversko žemė]]
+- Šich Achmetas puolė [[objektai/vietos/Seversko žemė]]
 - Šich Achmetas užėmė [[objektai/vietos/Naugardas]]

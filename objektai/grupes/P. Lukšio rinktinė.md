@@ -75,8 +75,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir citata patvirtina pareigas, datą bei žūties aplinkybes."
   pagrindžia:
     - c-44828
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
+
 ## Citatos
 
 - id: c-44828

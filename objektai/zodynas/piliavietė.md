@@ -43,7 +43,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 ## Teiginiai
 
 <a id="claim-t-192196"></a>
-- t-002
+- t-001
   teiginys: "Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,7 +61,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     - c-175060
 
 <a id="claim-t-192197"></a>
-- t-001
+- t-002
   teiginys: "Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -94,10 +94,10 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
     arba protakų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -112,11 +112,10 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie­
     tų; pašventintų daugelio praėjusių metų atminimų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175060
@@ -137,7 +136,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175061
   autorius: "Teodoras Narbutas"
@@ -154,4 +153,4 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

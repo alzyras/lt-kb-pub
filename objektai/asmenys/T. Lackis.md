@@ -30,7 +30,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 ## Teiginiai
 
 <a id="claim-t-40456"></a>
-- t-002
+- t-001
   teiginys: "Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     - c-44530
 
 <a id="claim-t-40457"></a>
-- t-001
+- t-002
   teiginys: "T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44530
   sudarytojas: "Karolis Zikaras"
@@ -102,4 +102,4 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

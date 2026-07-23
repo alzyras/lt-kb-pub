@@ -54,13 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs ir perkrautas kitų asmenų pavyzdžiais."
   pagrindžia:
     - c-75364
-- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš [[objektai/asmenys/Eimuntas Nekrošius.md#claim-t-78050|Eimuntas Nekrošius]]: Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.
-- susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš Tryškiai: Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš Čikaga: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
+
 ## Citatos
 
 - id: c-75364

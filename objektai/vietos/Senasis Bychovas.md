@@ -78,11 +78,10 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
     žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175624

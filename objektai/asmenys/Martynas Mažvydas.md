@@ -39,7 +39,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 ## Teiginiai
 
 <a id="claim-t-19125"></a>
-- t-003
+- t-001
   teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     - c-21874
 
 <a id="claim-t-19127"></a>
-- t-001
+- t-003
   teiginys: "Martynas Mažvydas siejamas su 1547 m. Karaliaučiuje išspausdintu „Katekizmu“, pirmąja knyga lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +84,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   temporalinis_llm_pakomentavimas: "Reikia trumpesnio enciklopedinio sakinio be publicistinės formuluotės."
   pagrindžia:
     - c-21874
-- susijęs iš [[objektai/autoriai/Martynas Mažvydas Vaitkūnas.md#claim-t-64754|Martynas Mažvydas Vaitkūnas]]: Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.
-- susijęs iš [[objektai/autoriai/Martynas Mažvydas Vaitkūnas.md#claim-t-64755|Martynas Mažvydas Vaitkūnas]]: Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.
+
 ## Citatos
 
 - id: c-21874
@@ -107,7 +106,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-001
+    - t-003
 
 - id: c-21875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,4 +152,4 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -132,15 +132,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184426
-- susijęs iš [[objektai/grupes/Lietuvos vyskupai.md#claim-t-35714|Lietuvos vyskupai]]: Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą.
-- susijęs iš Kulmijos šalis: Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.
-- susijęs iš [[objektai/grupes/Vienos universiteto profesoriai.md#claim-t-34351|Vienos universiteto profesoriai]]: Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas.
-- susijęs iš Popiežiaus laiškai dėl Vytauto karūnacijos: Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.
-- susijęs iš Breslavas: 1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.
-- susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
-- susijęs iš Michalovos žemės: Vytauto požiūriu Michalovos sritys turėjo likti Ordinui, nes jis nenorėjo visiško Lenkijos susitaikymo su Ordinu.
-- susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
-- susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
+
 ## Citatos
 
 - id: c-93880

@@ -30,7 +30,7 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
 ## Teiginiai
 
 <a id="claim-t-187615"></a>
-- t-002
+- t-001
   teiginys: "Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė."
   atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,6 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170562
@@ -105,7 +104,7 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

@@ -39,7 +39,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ## Teiginiai
 
 <a id="claim-t-93195"></a>
-- t-002
+- t-001
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,17 +56,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Butauto veiksmus ir atitinka citatą."
   pagrindžia:
     - c-88591
-- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
-- susijęs iš [[objektai/asmenys/Survila.md#claim-t-82732|Survila]]: Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.
-- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
-- susijęs iš [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas.md#claim-t-34537|Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]: Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
-- susijęs iš [[objektai/asmenys/Vaidotas.md#claim-t-64202|Vaidotas]]: Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.
-- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
-- susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-81837|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.
-- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Kauno pilis (pilis): Šležas rašė apie Kauno pilies išgriovimą 1362 m.
-- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš [[objektai/asmenys/Survila.md#claim-t-82732|Survila]]: Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.
+
 ## Citatos
 
 - id: c-88591
@@ -88,7 +78,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

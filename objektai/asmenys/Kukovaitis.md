@@ -10,15 +10,15 @@ datos:
   - '1221 m.'
 date_start: '1220'
 date_end: '1221'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,7 +62,7 @@ media_all_json: |-
 <a id="claim-t-188571"></a>
 - t-002
   teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,7 +93,7 @@ media_all_json: |-
     - c-171461
 
 <a id="claim-t-193943"></a>
-- t-005
+- t-004
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-196529"></a>
-- t-007
+- t-005
   teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ media_all_json: |-
     - c-169494
 
 <a id="claim-t-196843"></a>
-- t-008
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-197419"></a>
-- t-012
+- t-007
   teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -142,14 +142,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171460
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184587|Vokiečiai]]: Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
-- susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
-- susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
-- susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
-- susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais.'
@@ -194,7 +187,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169494
@@ -233,7 +225,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
+    - t-005
 
 - id: c-171460
   autorius: "Teodoras Narbutas"
@@ -257,7 +249,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-007
 
 - id: c-171461
   autorius: "Teodoras Narbutas"
@@ -303,10 +295,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-004
+    - t-006
 
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

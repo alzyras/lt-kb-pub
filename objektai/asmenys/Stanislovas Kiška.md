@@ -43,7 +43,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 ## Teiginiai
 
 <a id="claim-t-79162"></a>
-- t-003
+- t-001
   teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-76241
 
 <a id="claim-t-79163"></a>
-- t-001
+- t-002
   teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-76240
 
 <a id="claim-t-184831"></a>
-- t-004
+- t-003
   teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - c-168192
 
 <a id="claim-t-184832"></a>
-- t-005
+- t-004
   teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,12 +122,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   semantiniai_rysiai: "Stanislovas Kiška puolė Viazma (0.88)"
   pagrindžia:
     - c-168193
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82630|Mykolas Glinskis]]: Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.
-- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
-- susijęs iš Viazmos žemė: Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.
+
 ## Citatos
 
 - id: c-76240
@@ -149,7 +144,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-76241
   sudarytojas: "Karolis Zikaras"
@@ -175,7 +170,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-168192
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -209,7 +204,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-168193
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -231,7 +226,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Stanislovas Kiška gynė [[objektai/vietos/Smolenskas]]

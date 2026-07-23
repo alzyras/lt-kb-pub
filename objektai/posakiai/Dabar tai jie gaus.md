@@ -34,7 +34,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09656"></a>
-- t-004
+- t-001
   teiginys: "„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -50,7 +50,7 @@ media_all_json: |-
     - c-12473
 
 <a id="claim-t-09657"></a>
-- t-003
+- t-002
   teiginys: "„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -82,5 +82,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

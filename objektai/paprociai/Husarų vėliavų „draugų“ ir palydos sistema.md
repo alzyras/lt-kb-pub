@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71798"></a>
-- t-007
+- t-001
   teiginys: "Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-43157
 
 <a id="claim-t-71800"></a>
-- t-008
+- t-002
   teiginys: "Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Nenurodyta
     - c-43158
 
 <a id="claim-t-71801"></a>
-- t-006
+- t-003
   teiginys: "Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-43157
 
 <a id="claim-t-71802"></a>
-- t-005
+- t-004
   teiginys: "Husarų vėliavų branduolį sudarė turtingi bajorai - draugai."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-12385
 
 <a id="claim-t-71803"></a>
-- t-009
+- t-005
   teiginys: "XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-43157
   sudarytojas: "Karolis Zikaras"
@@ -199,8 +199,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-006
+    - t-001
+    - t-003
 
 - id: c-43158
   sudarytojas: "Karolis Zikaras"
@@ -222,7 +222,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-43159
   sudarytojas: "Karolis Zikaras"
@@ -246,4 +246,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005

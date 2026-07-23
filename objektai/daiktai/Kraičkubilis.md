@@ -5,8 +5,9 @@ sukurta: '2026-07-12'
 variantai:
   - 'kraičkubilį'
   - 'Kraičkubilis'
+  - 'kraičkubilis'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -69,7 +70,7 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177738
-- susijęs iš Kairėnėliai: Vestuvininkai nuvažiavo į Kairėnėlius.
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 

@@ -176,48 +176,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   semantiniai_rysiai: "Jurgis Radvila (vyskupas, XVI a.) rėmė Vilniaus vyskupijos klierikų kolegija (0.86)"
   pagrindžia:
     - c-55908
-- susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
-- susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86706|Vilniaus jėzuitų kolegija]]: Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.
-- susijęs iš [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.).md#claim-t-86899|Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]: Vilniaus Jėzaus draugijos kolegijai buvo suteikta ekonominė ir administracinė valdžia seminarijai valdyti.
-- susijęs iš Jurgio Radvilos laiškas Jėzaus Draugijos generaliniam prepozitui dėl Vilniaus seminarijos: Jurgio Radvilos laiške Vilniaus jėzuitų kolegijai patikėtas seminarijos klierikų mokymas ir visa administracinė bei ekonominė valdžia.
-- susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): 1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.
-- susijęs iš [[objektai/zodynas/klierikų kolegija seminarija.md#claim-t-86474|klierikų kolegija seminarija]]: 1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.
-- susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101640|J. Stalinas]]: J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.
-- susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101641|J. Stalinas]]: J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87393|Jonas Hlebavičius]]: Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas.
-- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101658|Josifas Stalinas]]: Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais.
-- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101663|Josifas Stalinas]]: Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103049|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. sausio 11 d. Vilniuje pasirašė vyskupo seminarijos fundacijos aktą.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87531|Kasparas Bekešas]]: Kasparo Bekešo atminimas Vilniuje 1580 m. pagerbtas prie kapo ant kalno prie Vilnelės pastačius apvalaus bokšto paminklą.
-- susijęs iš [[objektai/asmenys/N. Chruščiovas.md#claim-t-19166|N. Chruščiovas]]: N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų.
-- susijęs iš [[objektai/asmenys/Nikita Chruščiovas.md#claim-t-19175|Nikita Chruščiovas]]: Nikita Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113980|Steponas Batoras]]: Vilniaus seminarijos steigėjai prašė karaliaus Stepono Batoro priimti seminariją į savo globą ir gynybą.
-- susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
-- susijęs iš [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.).md#claim-t-11075|Kuršaitis (redaktorius, 1849–1880 m.)]]: Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00058|Motiejus Valančius]]: Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
-- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116739|Katalikų Bažnyčia]]: Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.
-- susijęs iš [[objektai/grupes/Tridento Sinodas.md#claim-t-86829|Tridento Sinodas]]: Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.
-- susijęs iš [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.).md#claim-t-183232|Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]: Sovietų valdžia sekė kunigus, aprašinėjo pamokslus ir registravo, kas pas kunigus užeina.
-- susijęs iš [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.).md#claim-t-20241|Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]: 1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.
-- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86890|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.
-- susijęs iš [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.).md#claim-t-86935|Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]: 1582 m. sausio 11 d. Vilniuje klierikų mokymas ir vadovavimas seminarijai buvo patikėti Vilniaus Jėzaus draugijos kolegijai.
-- susijęs iš Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: „Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.
-- susijęs iš Tridento Sinodo nutarimas dėl diecezinių seminarijų: Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją.
-- susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): Vyskupo seminarijos įsteigimo iš Vozgėliškėmis vadinamo vyskupų stalo dvaro raštas datuojamas 1582 metais.
-- susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
-- susijęs iš Kalnas prie Vilnelės: 1580 m. prie Kasparo Bekešo kapo ant kalno prie Vilnelės buvo pastatytas apvalaus bokšto pavidalo paminklas.
-- susijęs iš Suvalkai: Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
-- susijęs iš Veiveriai: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.
-- susijęs iš Vilnelė: 1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.
-- susijęs iš [[objektai/zodynas/klierikų kolegija seminarija.md#claim-t-86475|klierikų kolegija seminarija]]: Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72704|mokytojų seminarija]]: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
+
 ## Citatos
 
 - id: c-55908

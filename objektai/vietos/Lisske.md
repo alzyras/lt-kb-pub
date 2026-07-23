@@ -55,10 +55,7 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59332
-- susijęs iš [[objektai/autoriai/Jasiński T.md#claim-t-60719|Jasiński T]]: T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.
-- susijęs iš [[objektai/zodynas/liscis lizkis Lisske.md#claim-t-58946|liscis lizkis Lisske]]: Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
-- susijęs iš Senoji Torunė: Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją.
-- susijęs iš [[objektai/zodynas/liscis lizkis.md#claim-t-58945|liscis lizkis]]: Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
+
 ## Citatos
 
 - id: c-59332

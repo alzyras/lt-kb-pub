@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-197243"></a>
-- t-002
+- t-001
   teiginys: "Ugniai ir saulei buvo nusilenkiama visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir žynius."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -75,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

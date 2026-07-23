@@ -91,17 +91,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175701
-- susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191948|Eduka]]: Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus.
-- susijęs iš [[objektai/asmenys/Kandaksas.md#claim-t-191287|Kandaksas]]: Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.
-- susijęs iš [[objektai/asmenys/Volfas.md#claim-t-191332|Volfas]]: Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192935|Skiriai]]: Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.
-- susijęs iš Matthäus Praetorius, Schaubühne: Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.
-- susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192927|Hiriai]]: Narbutas spėja, kad hiriai, eidami paskui gotus, apie II amžiaus pabaigą apsigyveno dešiniajame Dnestro krante.
-- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191012|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis.
-- susijęs iš Žemutinė Mezija: Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau Dunojaus žemupio, vadovaujami Kandakoso.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192232|revoliucija]]: Teodoro Narbuto teigimu, hunų antplūdžio sukelta revoliucija Dnepro ir Dunojaus tarpupyje lėmė daug pokyčių Europoje.
-- susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192233|revoliucija]]: Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu.
-- susijęs iš [[objektai/asmenys/Volfas.md#claim-t-191332|Volfas]]: Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių.
+
 ## Citatos
 
 - id: c-175699

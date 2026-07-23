@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-62623"></a>
-- t-002
+- t-001
   teiginys: "Jordanas buvo gotų istorikas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ media_all_json: |-
     - c-63352
 
 <a id="claim-t-190736"></a>
-- t-003
+- t-002
   teiginys: "Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ media_all_json: |-
     - c-173618
 
 <a id="claim-t-190737"></a>
-- t-004
+- t-003
   teiginys: "Jordanas aprašė gotų pergales prieš kaimynus, ypač prieš ulmerugius, kurių kraštą tarp Oderio ir Viparos gotai nusiaubė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-173619
 
 <a id="claim-t-190738"></a>
-- t-005
+- t-004
   teiginys: "Jordanas teigė, kad spaliai gyveno dabartinėje Mazovijoje, o Narbutas šią žinią siejo su Filimero žygio kryptimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ media_all_json: |-
     - c-173620
 
 <a id="claim-t-190739"></a>
-- t-006
+- t-005
   teiginys: "Narbutas vaizduoja Jordaną kaip labiau žavėjusįsi ostgotų žygdarbiais negu aprašiusį gotus, likusius kairiajame Vyslos krante."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ media_all_json: |-
     - c-173624
 
 <a id="claim-t-190740"></a>
-- t-007
+- t-006
   teiginys: "Jordanas, gotų istorikas, minėjo estus kaip jūros pakrantėje gyvenusią tautą ir rėmėsi Kasiodoru arba jį perdirbinėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ media_all_json: |-
     - c-173622
 
 <a id="claim-t-190741"></a>
-- t-008
+- t-007
   teiginys: "Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ media_all_json: |-
     - c-173625
 
 <a id="claim-t-190742"></a>
-- t-009
+- t-008
   teiginys: "Pasak Narbuto perteikto Jordano pasakojimo, 161 m. Filimero žygyje gotai, persikėlę į dešinįjį Vyslos krantą, pirmiausia pateko į Owim kraštą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -178,7 +178,7 @@ media_all_json: |-
     - c-173624
 
 <a id="claim-t-190743"></a>
-- t-010
+- t-009
   teiginys: "Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -199,7 +199,7 @@ media_all_json: |-
     - c-173625
 
 <a id="claim-t-190744"></a>
-- t-011
+- t-010
   teiginys: "Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ media_all_json: |-
     - c-173626
 
 <a id="claim-t-190745"></a>
-- t-012
+- t-011
   teiginys: "Jordanas rašė, kad už estų ribojosi agazirai, labai karinga gentis, gyvenusi iš gyvulių auginimo ir medžioklės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -239,7 +239,7 @@ media_all_json: |-
     - c-173627
 
 <a id="claim-t-197612"></a>
-- t-013
+- t-012
   teiginys: "Pirmiausia šią žinią randame Jordano darbuose1, kai šis autorius pasakoja apie karaliaus Fili mero žygį 161 metais j Rytų Europos kraštus; tuomet, persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa teko j kraštą, vadinamą Owim. Vėlesni istorijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -251,7 +251,7 @@ media_all_json: |-
     - c-173624
 
 <a id="claim-t-197613"></a>
-- t-014
+- t-013
   teiginys: "Jis papil dytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -261,21 +261,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179262
-- susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
-- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
-- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
-- susijęs iš Oliva: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178832|Kryžiuočių ordinas]]: Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108293|Pranciškonų ordinas]]: Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.
-- susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
-- susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
-- susijęs iš Braunsbergas: Gedimino skundą popiežiui ginčijo ir Mažesniųjų brolių Braunsbergo gvardijonas.
-- susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
-- susijęs iš Neuenbergas: Neuenbergo gvardijonas kartu su kitais dvasininkais laiškuose popiežiui stojo ginti kryžiuočių.
-- susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
-- susijęs iš Torunė: Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.
-- susijęs iš [[objektai/zodynas/kustodas ir gvardijonas.md#claim-t-86635|kustodas ir gvardijonas]]: Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.
+
 ## Citatos
 
 - id: c-63352
@@ -310,7 +296,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173618
   autorius: "Teodoras Narbutas"
@@ -336,7 +322,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173619
   autorius: "Teodoras Narbutas"
@@ -361,7 +347,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173620
   autorius: "Teodoras Narbutas"
@@ -384,7 +370,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173621
   autorius: "Teodoras Narbutas"
@@ -431,7 +417,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-173623
   autorius: "Teodoras Narbutas"
@@ -480,9 +466,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-009
-    - t-013
+    - t-005
+    - t-008
+    - t-012
 
 - id: c-173625
   autorius: "Teodoras Narbutas"
@@ -507,8 +493,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-010
+    - t-007
+    - t-009
 
 - id: c-173626
   autorius: "Teodoras Narbutas"
@@ -526,7 +512,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-173627
   autorius: "Teodoras Narbutas"
@@ -545,7 +531,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-179262
   autorius: "Teodoras Narbutas"
@@ -566,4 +552,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013

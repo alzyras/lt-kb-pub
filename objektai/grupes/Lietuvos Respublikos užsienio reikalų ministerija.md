@@ -41,7 +41,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 ## Teiginiai
 
 <a id="claim-t-65772"></a>
-- t-002
+- t-001
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     - c-22571
 
 <a id="claim-t-65773"></a>
-- t-004
+- t-002
   teiginys: "Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +77,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   temporalinis_llm_pakomentavimas: "Pašalintas OCR ir turinio triukšmas, paliktas paremtas faktas apie objektą."
   pagrindžia:
     - c-66165
-- susijęs iš [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke.md#claim-t-20358|Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]: 1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą.
-- susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-54364|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.
-- susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-54365|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.
+
 ## Citatos
 
 - id: c-22571
@@ -109,7 +107,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-66165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -152,4 +150,4 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

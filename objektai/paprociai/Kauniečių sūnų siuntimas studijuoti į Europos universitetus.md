@@ -53,9 +53,6 @@ Nenurodyta
   pagrindžia:
     - c-185376
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-185376

@@ -9,10 +9,6 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - autorius
   - miestas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -78,7 +78,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - c-171290
 
 <a id="claim-t-190698"></a>
-- t-004
+- t-003
   teiginys: "Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - c-173580
 
 <a id="claim-t-197297"></a>
-- t-005
+- t-004
   teiginys: "Hartknochas tuo palyginimu norėjo užmaskuoti savo nežinojimą, matomą iš žodžiųquidam didus Crive (vienas žmogus, vadintas kriviu)."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - c-171291
 
 <a id="claim-t-197589"></a>
-- t-006
+- t-005
   teiginys: "Anot Hartknocho, sudargų iš ties būta, jų atminimas gyvas šios žemės padavimuose ir kai kuriuose vietovardžiuose2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
     - c-179255
 
 <a id="claim-t-197590"></a>
-- t-007
+- t-006
   teiginys: "Ragainė Hartknocho išleistame Dusburgo veikale klaidingai pavadinta Ramige (p."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -132,49 +132,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173580
-- susijęs iš [[objektai/autoriai/Hartknoch Ch.md#claim-t-60844|Hartknoch Ch]]: Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64675|Kristupas Hartknochas]]: Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas.
-- susijęs iš Hartknocho pastabos Dusburgo kronikai: Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina.
-- susijęs iš [[objektai/asmenys/Eberhardas de Virnemburgas.md#claim-t-87656|Eberhardas de Virnemburgas]]: 1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102840|Dusburgas]]: Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.
-- susijęs iš Gedimino pilis Castrum Gedemini: Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.
-- susijęs iš Pagraudenė: Dusburgas Pagraudenę pirmą kartą mini prie 1304 m., aprašydamas Eberhardo de Virnemburgo žygį į Lietuvos valsčių.
-- susijęs iš Veliuona: Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje.
-- susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86506|Papilys suburbium]]: Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas nurodė, kad jam žinomuose rankraščiuose Dusburgiečio tekstas nesiskyrė nuo Hartknocho paskelbto teksto.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tad arba Dusburgietis pats nežinojo,
-    kaip apibūdinti krivį, ir iš viso buvo vos šį tą girdėjęs apie jį bei
-    jo lazdą, arba kad jo tekstas yra nepilnas, arba kad šalia qui­
-    dam turėję būti kažkas praleista. Tačiau jeigu remsimės žino­
-    mais istorikų pranešimais, tai pastaroji nuomonė negali pasi­
-    teisinti, nes nė viename iš mums žinomų rankraščių neparašy­
-    ta kitaip, negu yra Hartknocho paskelbtame tekste. Todėl lik­
-    tų pirmoji nuomonė, tai yra kad Dusburgietis nežinojo, kas iš
-    tikrųjų buvo tas krivis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-004
-  santrauka: 'Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tokia tvirtovė buvusi ant kalvos netoli
-    Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­
-    čių pilis. Ten, netoli Supenų kaimo, esama senovės skal­
-    vių pilies pėdsakų. Ragainė Hartknocho išleistame Dus-
-    burgo veikale klaidingai pavadinta Ramige (p. III. C.
-    178).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -251,7 +208,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173580
   autorius: "Teodoras Narbutas"
@@ -272,8 +229,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-007
+    - t-003
+    - t-006
 
 - id: c-179255
   autorius: "Teodoras Narbutas"
@@ -297,4 +254,4 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

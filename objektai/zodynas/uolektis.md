@@ -30,7 +30,7 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 ## Teiginiai
 
 <a id="claim-t-82104"></a>
-- t-002
+- t-001
   teiginys: "Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -44,12 +44,7 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78597
-- susijęs iš Žemaičių jūra: Žemaičių jūra per 1000 metų nuseko kelias uolektis.
-- susijęs iš [[objektai/asmenys/Nabuchodonosaras.md#claim-t-60391|Nabuchodonosaras]]: Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181476|Petras Dusburgietis]]: Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.
-- susijęs iš [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų.md#claim-t-89576|Aukščiausias dievas padarė manyje ženklų ir stebuklų]]: Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
-- susijęs iš Medininkų pilis (pilis): Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.
+
 ## Citatos
 
 - id: c-78597
@@ -78,4 +73,4 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

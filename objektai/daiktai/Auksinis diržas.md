@@ -80,11 +80,10 @@ Nenurodyta
     tėviškės niekuomet neatims. Už tai kunigaikštis Jonas
     jam davė auksinį diržą per mano rankas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170037

@@ -7,12 +7,12 @@ datos:
   - '1938 m.'
 date_start: '1938'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,11 +60,10 @@ Dusburgietis teigia, kad kučinskas A.
   citata_originali: |
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61750

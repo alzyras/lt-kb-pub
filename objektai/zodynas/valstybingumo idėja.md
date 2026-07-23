@@ -8,13 +8,13 @@ datos:
   - '1572 m.'
 date_start: '1569'
 date_end: '1572'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -164,8 +164,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-05601
-- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija.md#claim-t-32811|valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
-- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija.md#claim-t-32813|valstybingumo idėja valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti.'
@@ -174,6 +173,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­
     ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid­
     menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
+
 
     (^2) PRATARMĖ
     padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty­

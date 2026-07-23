@@ -44,7 +44,7 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82771
-- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
+
 ## Citatos
 
 - id: c-82771

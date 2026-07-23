@@ -36,7 +36,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 ## Teiginiai
 
 <a id="claim-t-42416"></a>
-- t-002
+- t-001
   teiginys: "Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     - c-45489
 
 <a id="claim-t-42417"></a>
-- t-001
+- t-002
   teiginys: "Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45490
-- susijęs iš [[objektai/grupes/ATAS.md#claim-t-40832|ATAS]]: 1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.
+
 ## Citatos
 
 - id: c-45489
@@ -102,7 +102,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45490
   sudarytojas: "Karolis Zikaras"
@@ -130,4 +130,4 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -10,13 +10,13 @@ datos:
   - '1431 m.'
 date_start: '1406'
 date_end: '1431'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186736"></a>
-- t-002
+- t-001
   teiginys: "Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-169953
 
 <a id="claim-t-196791"></a>
-- t-003
+- t-002
   teiginys: "Vytauto giminystė su Zadivydu buvo dar toli mesnė."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169953
@@ -132,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178910
   autorius: "Anoniminis metraštininkas"
@@ -160,4 +159,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

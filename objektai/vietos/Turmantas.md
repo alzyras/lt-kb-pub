@@ -30,7 +30,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 ## Teiginiai
 
 <a id="claim-t-80249"></a>
-- t-002
+- t-001
   teiginys: "Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - c-77079
 
 <a id="claim-t-80250"></a>
-- t-003
+- t-002
   teiginys: "4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - c-77077
 
 <a id="claim-t-80251"></a>
-- t-001
+- t-003
   teiginys: "Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -77,10 +77,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-77077
-- susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78158|1-asis pėstininkų pulkas]]: 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.
-- susijęs iš [[objektai/grupes/asis pėstininkų pulkas.md#claim-t-80634|asis pėstininkų pulkas]]: Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.
-- susijęs iš Turmanto stotis: Lietuvos ir Latvijos siena ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties.
-- susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78158|1-asis pėstininkų pulkas]]: 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.
+
 ## Citatos
 
 - id: c-77077
@@ -103,8 +100,8 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-001
 
 - id: c-77079
   sudarytojas: "Karolis Zikaras"
@@ -126,4 +123,4 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

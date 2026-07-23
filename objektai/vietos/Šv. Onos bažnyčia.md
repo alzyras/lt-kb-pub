@@ -45,14 +45,7 @@ Onos bažnyčios atsiradimo žr.
   vertinimo_atnaujinta: "2026-06-13T14:36:45Z"
   pagrindžia:
     - c-82266
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54984|Ona Jogailaitė]]: Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.
-- susijęs iš [[objektai/asmenys/Žalinskis Zaleskis.md#claim-t-87900|Žalinskis Zaleskis]]: Tikocine pas Zaleskį buvęs bažnytinis auksas ir sidabras buvo paskirti Šv. Onos bažnyčiai.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
-- susijęs iš 1529 m. Lietuvos Statutas: 1529 m. parengtas Lietuvos Statutas sistemingumu ir renesansiniu įforminimu pralenkė to meto Europos teisės kodifikacijos lygį.
-- susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
-- susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
-- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
+
 ## Citatos
 
 - id: c-82266

@@ -59,9 +59,7 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
   temporalinis_llm_pakomentavimas: "Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-44806
-- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78384|Livonijos kunigaikštystė]]: 1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.
-- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71645|Kuršo kunigaikštystė]]: 1561 m. nustojus egzistuoti Livonijos konfederacijai, Kuršo kunigaikštystė buvo viena iš dviejų kunigaikštysčių, atitekusių Lietuvai.
-- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71648|Kuršo kunigaikštystė]]: 1561 m. Livonijos konfederacijai nustojus egzistuoti, Kuršo ir Livonijos kunigaikštystės atiteko Lietuvai.
+
 ## Citatos
 
 - id: c-44806

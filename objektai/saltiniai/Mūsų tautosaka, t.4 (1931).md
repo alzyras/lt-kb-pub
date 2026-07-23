@@ -42,7 +42,7 @@ tags:
 ## Teiginiai
 
 <a id="claim-t-195215"></a>
-- t-005
+- t-001
   teiginys: "Po gautos medžiagos skyriumi pateiktos Tautosakos komisijos perrašytos ir tvarkomos dainos."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -52,7 +52,7 @@ tags:
     - c-177583
 
 <a id="claim-t-195216"></a>
-- t-001
+- t-002
   teiginys: "„Mūsų tautosaka“, t. 4, yra 1931 m. Kaune išleistas Tautosakos komisijos leidinys, redaguotas prof. V. Krėvės Mickevičiaus."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -115,7 +115,7 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177583
   šaltinis: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos"
@@ -131,4 +131,4 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

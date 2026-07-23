@@ -36,7 +36,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
 ## Teiginiai
 
 <a id="claim-t-46557"></a>
-- t-002
+- t-001
   teiginys: "Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - c-49121
 
 <a id="claim-t-46558"></a>
-- t-001
+- t-002
   teiginys: "J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -69,9 +69,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-49120
-- susijęs iš [[objektai/autoriai/Dr. J. Šliūpas.md#claim-t-01029|Dr. J. Šliūpas]]: Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.
-- susijęs iš [[objektai/autoriai/Mikšas.md#claim-t-01116|Mikšas]]: Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.
-- susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77881|Didysis Vilniaus Seimas]]: Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.
+
 ## Citatos
 
 - id: c-49120
@@ -93,7 +91,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-49121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -113,7 +111,4 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-
-## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Vladislovas]]
+    - t-001

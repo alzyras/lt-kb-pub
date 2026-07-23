@@ -62,7 +62,7 @@ Nenurodyta
     - c-169092
 
 <a id="claim-t-196195"></a>
-- t-003
+- t-002
   teiginys: "Kojelavičiaus pasakojime Jogaila tą pačią naktį, sulaužęs priesaiką ir svetingumą, įsakė suimti Kęstutį bei Vytautą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,4 +111,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

@@ -31,7 +31,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 ## Teiginiai
 
 <a id="claim-t-72696"></a>
-- t-002
+- t-001
   teiginys: "Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - c-71075
 
 <a id="claim-t-72699"></a>
-- t-001
+- t-002
   teiginys: "Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,11 +59,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175899
-- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
-- susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179503|K. Jablonskis]]: K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
-- susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
-- susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams: Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.
-- susijęs iš Prūsija: 1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.
+
 ## Citatos
 
 - id: c-71075
@@ -86,7 +82,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-71079
   redaktorius: "A. Šapoka"
@@ -104,7 +100,7 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-175899
   redaktorius: "A. Šapoka"

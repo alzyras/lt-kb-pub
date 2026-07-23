@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75138"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos pasiuntiniams užsienyje paskelbus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-23026
 
 <a id="claim-t-75139"></a>
-- t-001
+- t-002
   teiginys: "J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-23025
 
 <a id="claim-t-183238"></a>
-- t-004
+- t-003
   teiginys: "J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje paprašė Lietuvą įtraukti į SSRS sudėtį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -128,8 +128,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-23026
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -149,4 +149,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

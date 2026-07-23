@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09545"></a>
-- t-005
+- t-001
   teiginys: "Po totorių plėšimų buvo paskelbta bajorų mobilizacija."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-12306
 
 <a id="claim-t-09547"></a>
-- t-004
+- t-002
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12307
-- susijęs iš [[objektai/zodynas/pašauktinė kariuomenė.md#claim-t-78906|pašauktinė kariuomenė]]: Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.
+
 ## Citatos
 
 - id: c-12306
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-12307
   sudarytojas: "Karolis Zikaras"
@@ -126,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

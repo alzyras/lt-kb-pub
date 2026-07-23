@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187488"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-170450
 
 <a id="claim-t-187489"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-170451
 
 <a id="claim-t-187490"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-170451
 
 <a id="claim-t-187491"></a>
-- t-001
+- t-004
   teiginys: "Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -161,7 +161,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
-
 ## Citatos
 
 - id: c-170450
@@ -187,8 +186,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-004
 
 - id: c-170451
   autorius: "Anoniminis metraštininkas"
@@ -211,5 +210,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004

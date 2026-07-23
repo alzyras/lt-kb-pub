@@ -30,7 +30,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 ## Teiginiai
 
 <a id="claim-t-59140"></a>
-- t-002
+- t-001
   teiginys: "Regėjime Marija parodė Teutonų ordino brolių žaizdas ir randus, patirtus ginant tikėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-59772
 
 <a id="claim-t-59141"></a>
-- t-001
+- t-002
   teiginys: "Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-167423
 
 <a id="claim-t-194471"></a>
-- t-004
+- t-003
   teiginys: "Šventoji mergelė jam atsakė: „Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
-    - t-004
+    - t-002
+    - t-003
 
 - id: c-167423
   autorius: "Petras Dusburgietis"
@@ -117,4 +117,4 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

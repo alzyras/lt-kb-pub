@@ -54,8 +54,7 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32870
-- susijęs iš [[objektai/autoriai/K. Avižonis.md#claim-t-30721|K. Avižonis]]: K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“.
-- susijęs iš A. Juška Mindaugo krikštas Mindaugas ir Lietuvos krikštas: A. Juškos „Mindaugo krikštas“ išspausdintas „Lux Christi“ 1951 m. 1 numeryje, o „Mindaugas ir Lietuvos krikštas“ - „Laiškuose Lietuviams“ 1951 m. 2 numeryje.
+
 ## Citatos
 
 - id: c-32870

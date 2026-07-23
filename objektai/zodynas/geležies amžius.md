@@ -53,10 +53,7 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
   temporalinis_llm_pakomentavimas: "Pradinis teiginys fragmentiškas; citata palaiko pilną sakinį apie geležies amžių Lietuvoje."
   pagrindžia:
     - c-03235
-- susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip gamtinė judėjimo kliūtis.
-- susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.
-- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
-- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
+
 ## Citatos
 
 - id: c-03235

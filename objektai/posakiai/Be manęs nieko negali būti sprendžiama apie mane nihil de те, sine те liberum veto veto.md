@@ -38,7 +38,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67241
 
 <a id="claim-t-67259"></a>
-- t-006
+- t-002
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67241
 
 <a id="claim-t-67261"></a>
-- t-002
+- t-003
   teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67238
 
 <a id="claim-t-67264"></a>
-- t-003
+- t-005
   teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67239
 
 <a id="claim-t-67265"></a>
-- t-005
+- t-006
   teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-67240
   redaktorius: "A. Šapoka"
@@ -151,7 +151,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-67241
   redaktorius: "A. Šapoka"
@@ -173,7 +173,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-002
 
 - id: c-67245
   redaktorius: "A. Šapoka"
@@ -194,4 +194,4 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

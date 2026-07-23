@@ -49,6 +49,7 @@ APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėta
   citata_rodoma: "O tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­\ntyn, atrado labai gražią vietą; jam labai patiko toji \nvieta, jis ten įkurdino savo sūnų Kernių ir tam miestui \ndavė Kerniaus vardą, pavadinęs Kernave l0."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

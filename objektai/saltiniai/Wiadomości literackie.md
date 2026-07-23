@@ -60,7 +60,7 @@ media_all_json: |-
     - c-16862
 
 <a id="claim-t-23420"></a>
-- t-003
+- t-002
   teiginys: "„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,4 +101,4 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

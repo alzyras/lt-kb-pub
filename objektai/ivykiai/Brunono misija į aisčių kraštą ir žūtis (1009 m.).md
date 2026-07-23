@@ -62,7 +62,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Teiginiai
 
 <a id="claim-t-10801"></a>
-- t-004
+- t-001
   teiginys: "Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte."
   atnaujinta: "2026-06-14 09:48"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-70265
   autorius: "Zenonas Ivinskis"

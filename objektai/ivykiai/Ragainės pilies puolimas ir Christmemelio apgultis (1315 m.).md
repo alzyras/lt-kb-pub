@@ -54,7 +54,7 @@ Ragainė ir Christmemelis išliko nepaimti.
 ## Teiginiai
 
 <a id="claim-t-70964"></a>
-- t-002
+- t-001
   teiginys: "1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Ragainė ir Christmemelis išliko nepaimti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-69737
   autorius: "Zenonas Ivinskis"
@@ -108,6 +108,7 @@ Ragainė ir Christmemelis išliko nepaimti.
     svaidyklių ir daug lankininkų^22.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

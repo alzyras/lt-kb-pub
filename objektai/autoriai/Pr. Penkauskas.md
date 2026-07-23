@@ -39,7 +39,7 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 ## Teiginiai
 
 <a id="claim-t-30931"></a>
-- t-002
+- t-001
   teiginys: "Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     - c-33110
 
 <a id="claim-t-30932"></a>
-- t-001
+- t-002
   teiginys: "Pr. Penkauskas 1931 m. Athenaeum paskelbė darbą apie Vytauto Didžiojo nuopelnus dvasinės kultūros srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-33111
   autorius: "Zenonas Ivinskis"
@@ -105,4 +105,4 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

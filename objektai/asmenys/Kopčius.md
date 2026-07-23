@@ -44,8 +44,7 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42090
-- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
-- susijęs iš [[objektai/daiktai/Mietas.md#claim-t-80693|Mietas]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
+
 ## Citatos
 
 - id: c-42090

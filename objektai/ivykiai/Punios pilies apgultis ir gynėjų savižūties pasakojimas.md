@@ -82,11 +82,10 @@ Nenurodyta
     virus vartus ir užpuldami su­
     pančiuosius.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169186

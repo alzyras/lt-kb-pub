@@ -56,6 +56,7 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
   citata_rodoma: "— Essen, V.: _Die länd­\nlichen Siedlungen in Litauen,_ SBRiga, 1934. — Gerullis, J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

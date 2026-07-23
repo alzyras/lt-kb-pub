@@ -45,7 +45,7 @@ Baranovskio brigada atakuoja 2-ojo pėst.
   semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.85); J. Baranovskio brigada puolė Lietuviai (0.78)"
   pagrindžia:
     - c-44746
-- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
+
 ## Citatos
 
 - id: c-44746

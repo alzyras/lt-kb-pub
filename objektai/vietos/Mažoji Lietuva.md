@@ -44,7 +44,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 ## Teiginiai
 
 <a id="claim-t-180285"></a>
-- t-015
+- t-001
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyventojų vartojo lietuvių kalbą ir ėjo lietuviški laikraščiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163918
 
 <a id="claim-t-180286"></a>
-- t-010
+- t-002
   teiginys: "Mažojoje Lietuvoje lietuviškos raštijos buvo kur kas daugiau negu pačioje Lietuvoje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163915
 
 <a id="claim-t-180287"></a>
-- t-011
+- t-003
   teiginys: "Modernioji Lietuvos samprata Lietuvos vardą siejo su lietuvių kalbos vartojimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163913
 
 <a id="claim-t-180290"></a>
-- t-009
+- t-004
   teiginys: "Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163914
 
 <a id="claim-t-180294"></a>
-- t-008
+- t-006
   teiginys: "1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,7 +156,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163915
 
 <a id="claim-t-180298"></a>
-- t-006
+- t-008
   teiginys: "Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +172,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163923
 
 <a id="claim-t-180299"></a>
-- t-016
+- t-009
   teiginys: "Brandenburgo hercogams atitekusi ordino valstybė toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-166444
 
 <a id="claim-t-180300"></a>
-- t-004
+- t-010
   teiginys: "Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163917
 
 <a id="claim-t-180302"></a>
-- t-017
+- t-011
   teiginys: "Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -225,7 +225,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-24298
 
 <a id="claim-t-180303"></a>
-- t-014
+- t-012
   teiginys: "1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -245,7 +245,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163927
 
 <a id="claim-t-193648"></a>
-- t-021
+- t-013
   teiginys: "Paradoksas – svetima valstybė, o lietuviškos raštijos kur kas daugiau nei pačioje Lietuvoje."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -255,11 +255,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163918
-- susijęs iš Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje: P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.
-- susijęs iš [[objektai/zodynas/prūsų teisės.md#claim-t-72739|prūsų teisės]]: Ordino dokumentuose rytuose minėti ir lietuviai, ir prūsai, o vakaruose tik prūsai.
-- susijęs iš [[objektai/autoriai/V. Daugudis.md#claim-t-31023|V. Daugudis]]: V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.
-- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-104176|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę.
-- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-182980|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Klaipėdos krašto sujungimą su nepriklausoma Lietuva šaltinis sieja su vietos lietuvių kultūrine veikla ir tautiškos sąmonės gaivinimu.
+
 ## Citatos
 
 - id: c-24298
@@ -279,7 +275,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-011
 
 - id: c-163912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -310,7 +306,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-163913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -333,7 +329,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-003
 
 - id: c-163914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -381,7 +377,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-002
     - t-007
 
 - id: c-163917
@@ -406,7 +402,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-010
 
 - id: c-163918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -429,8 +425,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-021
+    - t-001
+    - t-013
 
 - id: c-163921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -449,7 +445,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-163923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -469,7 +465,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-008
 
 - id: c-163927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -492,7 +488,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012
 
 - id: c-166444
   redaktorius: "A. Šapoka"
@@ -512,7 +508,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-009
 
 - id: c-167011
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -531,4 +527,4 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004

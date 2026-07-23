@@ -49,7 +49,7 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
     - c-169382
 
 <a id="claim-t-186023"></a>
-- t-003
+- t-002
   teiginys: "Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
     - c-169384
 
 <a id="claim-t-186024"></a>
-- t-004
+- t-003
   teiginys: "Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,6 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169382
@@ -177,7 +176,7 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-169385
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -215,4 +214,4 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

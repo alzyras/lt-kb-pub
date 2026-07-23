@@ -32,7 +32,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
 ## Teiginiai
 
 <a id="claim-t-191225"></a>
-- t-002
+- t-001
   teiginys: "Teodoro Narbuto pasakojime Protonas I sudarė sąjungą su Ganduvanu ir vedė jo dukrą, taip užbaigdamas dviejų tautų karus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - c-174107
 
 <a id="claim-t-191226"></a>
-- t-003
+- t-002
   teiginys: "Teodoro Narbuto teigimu, chronologai nesutarė dėl Protono I valdymo pradžios, bet laikė jį kiek jaunesniu Oktaviano Augusto amžininku."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - c-174108
 
 <a id="claim-t-197808"></a>
-- t-004
+- t-003
   teiginys: "Protonas I sudarė su juo sąjungą ir vedė jo dukrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - c-174106
 
 <a id="claim-t-201024"></a>
-- t-005
+- t-004
   teiginys: "Jo sūnus Popielius I taip pat ne vien visa gudų tauta rėdęs, bet dar rubežaujančias tautas savo valdžioj turėjęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184374
-- susijęs iš [[objektai/asmenys/Ranonas.md#claim-t-191456|Ranonas]]: Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui.
+
 ## Citatos
 
 - id: c-174106
@@ -118,7 +118,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-174107
   autorius: "Teodoras Narbutas"
@@ -140,7 +140,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-174108
   autorius: "Teodoras Narbutas"
@@ -161,7 +161,7 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-184374
   autorius: "Simonas Daukantas"
@@ -183,4 +183,4 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

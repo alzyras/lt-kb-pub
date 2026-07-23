@@ -30,7 +30,7 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 ## Teiginiai
 
 <a id="claim-t-40321"></a>
-- t-002
+- t-001
   teiginys: "M. Stanišausko batalionai stovėjo kairiajame sparne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,19 +46,14 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     - c-44446
 
 <a id="claim-t-40322"></a>
-- t-001
+- t-002
   teiginys: "M. Stanišauskas buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44447
-- susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40080|D. Maleckis]]: D. Maleckis buvo paskirtas vienu iš batalionų vadų.
-- susijęs iš [[objektai/asmenys/Antonievičius.md#claim-t-40036|Antonievičius]]: Antonievičius buvo paskirtas vieno iš batalionų vadu.
-- susijęs iš [[objektai/asmenys/B. Žarskis.md#claim-t-40061|B. Žarskis]]: B. Žarskis buvo paskirtas vienu iš batalionų vadų.
-- susijęs iš [[objektai/asmenys/E. Vžesnievskis.md#claim-t-40094|E. Vžesnievskis]]: E. Vžesnievskis buvo paskirtas bataliono vadu.
-- susijęs iš [[objektai/asmenys/J. Radavičius.md#claim-t-40163|J. Radavičius]]: J. Radavičius buvo paskirtas vienu iš batalionų vadų.
-- susijęs iš [[objektai/asmenys/S. Kozakauskas.md#claim-t-40409|S. Kozakauskas]]: S. Kozakauskas buvo paskirtas vienu iš batalionų vadų.
+
 ## Citatos
 
 - id: c-44446
@@ -84,7 +79,7 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-44447
   sudarytojas: "Karolis Zikaras"
@@ -107,4 +102,4 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

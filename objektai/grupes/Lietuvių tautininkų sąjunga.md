@@ -39,7 +39,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 ## Teiginiai
 
 <a id="claim-t-44993"></a>
-- t-003
+- t-001
   teiginys: "Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22542
 
 <a id="claim-t-44994"></a>
-- t-001
+- t-002
   teiginys: "LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22540
 
 <a id="claim-t-44995"></a>
-- t-005
+- t-003
   teiginys: "Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22543
 
 <a id="claim-t-44997"></a>
-- t-002
+- t-005
   teiginys: "Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -166,7 +166,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-22542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -191,7 +191,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-22543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -232,4 +232,4 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

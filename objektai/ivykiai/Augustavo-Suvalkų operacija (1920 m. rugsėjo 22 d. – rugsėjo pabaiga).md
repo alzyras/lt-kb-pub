@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66458"></a>
-- t-006
+- t-001
   teiginys: "1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-66689
 
 <a id="claim-t-66459"></a>
-- t-008
+- t-002
   teiginys: "Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-66688
 
 <a id="claim-t-66460"></a>
-- t-010
+- t-003
   teiginys: "Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-66690
 
 <a id="claim-t-66461"></a>
-- t-007
+- t-004
   teiginys: "Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
     - c-11819
 
 <a id="claim-t-66462"></a>
-- t-009
+- t-005
   teiginys: "Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -132,9 +132,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11821
-- susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
-- susijęs iš Sviečė: Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių.
-- susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
+
 ## Citatos
 
 - id: c-11819
@@ -153,7 +151,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-11821
   sudarytojas: "Karolis Zikaras"
@@ -178,7 +176,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-66688
   sudarytojas: "Karolis Zikaras"
@@ -199,7 +197,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-002
 
 - id: c-66689
   sudarytojas: "Karolis Zikaras"
@@ -219,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-66690
   sudarytojas: "Karolis Zikaras"
@@ -242,4 +240,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003

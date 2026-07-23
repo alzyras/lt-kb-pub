@@ -53,9 +53,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-40386
-- susijęs iš Betygala: 1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.
-- susijęs iš Graužai-Lenčiai: 1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.
-- susijęs iš Raseinių apskritis: 1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.
+
 ## Citatos
 
 - id: c-40386

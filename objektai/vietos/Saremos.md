@@ -76,15 +76,7 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip priklausymo laikotarpis su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47144
-- susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
-- susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66608|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.
-- susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
-- susijęs iš Livonija: Didžiausioji Livonijos dalis teko Lietuvai.
-- susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
-- susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
-- susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
-- susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
-- susijęs iš Vilijandis: 1560 m. rusai užėmė Alūksnę, Vilijandį.
+
 ## Citatos
 
 - id: c-47144

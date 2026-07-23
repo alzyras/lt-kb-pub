@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67075"></a>
-- t-005
+- t-001
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-167082
 
 <a id="claim-t-67077"></a>
-- t-003
+- t-002
   teiginys: "Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -116,8 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-003
+    - t-001
+    - t-002
 
 - id: c-167082
   sudarytojas: "Karolis Zikaras"
@@ -137,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

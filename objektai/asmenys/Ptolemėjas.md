@@ -83,7 +83,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-173982
 
 <a id="claim-t-191102"></a>
-- t-005
+- t-004
   teiginys: "Teodoro Narbuto aiškinimu, Ptolemėjas stavanus vadino Stabatii ir minėjo juos tvarka, leidžiančia atpažinti lietuvius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-173984
 
 <a id="claim-t-191972"></a>
-- t-006
+- t-005
   teiginys: "Teodoro Narbuto aiškinimu, Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o kraštą svetimšaliai vadino Skalva arba Rusia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-174854
 
 <a id="claim-t-191973"></a>
-- t-007
+- t-006
   teiginys: "Teodoro Narbuto perteikimu, senovės tyrinėtojai, remdamiesi Ptolemėju, latgalus dar vadino veltais, arba Veltae."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-174855
 
 <a id="claim-t-197809"></a>
-- t-008
+- t-007
   teiginys: "Esmė ta, kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų, daugiausia netvarkingai surašytų ir sukompiliuotų iš įvairių šaltinių, kuriuos naudojo šis geografas, daugybė je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau tos pavadinimus iš įvairių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-173981
 
 <a id="claim-t-197810"></a>
-- t-009
+- t-008
   teiginys: "Tačiau Ptolemėjas turi tam tikrų žinių apie šią, toje pačioje vietoje esančią provinciją, be to, neabe jotina, kad nuo seno ten gyveno ir lietuviui Tas pats geografas taip pat žinojo vieną sudinų koloniją, buvusią germanų markomanų genties kaimynystėje, dabar."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -174,11 +174,11 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib. XXXI.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-007
 
 ## Citatos
 
@@ -226,7 +226,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-173982
   autorius: "Teodoras Narbutas"
@@ -254,7 +254,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-009
+    - t-008
 
 - id: c-173984
   autorius: "Teodoras Narbutas"
@@ -273,7 +273,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-174854
   autorius: "Teodoras Narbutas"
@@ -295,7 +295,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-174855
   autorius: "Teodoras Narbutas"
@@ -315,4 +315,4 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-007
+    - t-006

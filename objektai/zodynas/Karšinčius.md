@@ -39,7 +39,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 ## Teiginiai
 
 <a id="claim-t-07705"></a>
-- t-004
+- t-001
   teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,14 +48,14 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
     - c-09635
 
 <a id="claim-t-07706"></a>
-- t-003
+- t-002
   teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09634
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
+
 ## Citatos
 
 - id: c-09634
@@ -71,7 +71,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-09635
   autorius: "Simonas Daukantas"
@@ -86,4 +86,4 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

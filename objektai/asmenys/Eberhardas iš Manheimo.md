@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-60902
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89428|Mūro sienos ir miesto sienos]]: 1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.
+
 ## Citatos
 
 - id: c-60902

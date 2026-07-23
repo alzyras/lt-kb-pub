@@ -8,11 +8,11 @@ datos:
   - '1615 m.'
 date_start: '1562'
 date_end: '1615'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,9 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185387
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

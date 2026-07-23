@@ -52,7 +52,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83523
-- susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
+
 ## Citatos
 
 - id: c-83523

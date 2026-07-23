@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66775"></a>
-- t-006
+- t-001
   teiginys: "Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-43089
 
 <a id="claim-t-66776"></a>
-- t-008
+- t-002
   teiginys: "Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-43090
 
 <a id="claim-t-66777"></a>
-- t-011
+- t-003
   teiginys: "Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-43090
 
 <a id="claim-t-66779"></a>
-- t-007
+- t-004
   teiginys: "1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Nenurodyta
     - c-167067
 
 <a id="claim-t-66780"></a>
-- t-009
+- t-005
   teiginys: "Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Nenurodyta
     - c-43086
 
 <a id="claim-t-66781"></a>
-- t-005
+- t-006
   teiginys: "1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Nenurodyta
     - c-43086
 
 <a id="claim-t-183675"></a>
-- t-012
+- t-007
   teiginys: "1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -180,13 +180,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį."
   pagrindžia:
     - c-167067
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.
-- susijęs iš Merkinė: 1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.
-- susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
-- susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
+
 ## Citatos
 
 - id: c-43086
@@ -213,8 +207,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-005
+    - t-006
 
 - id: c-43089
   sudarytojas: "Karolis Zikaras"
@@ -247,7 +241,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-43090
   sudarytojas: "Karolis Zikaras"
@@ -276,8 +270,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-011
+    - t-002
+    - t-003
 
 - id: c-167067
   sudarytojas: "Karolis Zikaras"
@@ -304,5 +298,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-007
-    - t-012

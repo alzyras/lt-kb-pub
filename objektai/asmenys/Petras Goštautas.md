@@ -10,15 +10,15 @@ datos:
   - '1345 m.'
 date_start: '1314'
 date_end: '1345'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -140,7 +140,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157534
 
 <a id="claim-t-54991"></a>
-- t-006
+- t-005
   teiginys: "Grzybowski teigė, kad Petras Goštautas Krokuvoje tapo pranciškonu, Vilniuje įkūrė vienuolyną ir 1341 m. buvo nukankintas."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::people"
@@ -158,7 +158,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-55534
 
 <a id="claim-t-54992"></a>
-- t-007
+- t-006
   teiginys: "Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::people"
@@ -175,7 +175,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-55535
 
 <a id="claim-t-54993"></a>
-- t-009
+- t-007
   teiginys: "Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::people"
@@ -191,7 +191,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157540
 
 <a id="claim-t-173205"></a>
-- t-016
+- t-008
   teiginys: "Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -207,7 +207,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157540
 
 <a id="claim-t-173207"></a>
-- t-010
+- t-009
   teiginys: "Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -224,7 +224,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157538
 
 <a id="claim-t-173208"></a>
-- t-011
+- t-010
   teiginys: "Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -244,7 +244,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157537
 
 <a id="claim-t-173209"></a>
-- t-014
+- t-011
   teiginys: "Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -281,7 +281,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157534
 
 <a id="claim-t-173211"></a>
-- t-015
+- t-013
   teiginys: "Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::people"
@@ -298,7 +298,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-55535
 
 <a id="claim-t-184820"></a>
-- t-017
+- t-014
   teiginys: "Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -319,7 +319,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-168181
 
 <a id="claim-t-184821"></a>
-- t-018
+- t-015
   teiginys: "Kojelavičiaus pasakojime Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti aikštėje, kur jie skelbė Kristaus žodį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -339,7 +339,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-168182
 
 <a id="claim-t-184822"></a>
-- t-019
+- t-016
   teiginys: "Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -359,7 +359,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-168183
 
 <a id="claim-t-184823"></a>
-- t-020
+- t-017
   teiginys: "Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -377,24 +377,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   semantiniai_rysiai: "Petras Goštautas mirė Veliuona (0.73)"
   pagrindžia:
     - c-168184
-- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
-- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
-- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
-- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
-- susijęs iš Podolė: Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš Podolė: Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.
-- susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187741|Pranciškonų ordinas]]: Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
-- susijęs iš [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių.md#claim-t-186572|Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]: Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86885|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: 1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.
-- susijęs iš Podolės Kamenecas: 1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.
-- susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
-- susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187543|pagonys]]: Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.'
@@ -453,7 +436,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-55534
@@ -486,8 +468,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-014
+    - t-005
+    - t-011
 
 - id: c-55535
   autorius: "Michał Baliński"
@@ -519,8 +501,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-015
+    - t-006
+    - t-013
 
 - id: c-157534
   autorius: "Michał Baliński"
@@ -592,7 +574,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-011
+    - t-010
 
 - id: c-157538
   autorius: "Michał Baliński"
@@ -619,7 +601,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-001
     - t-002
-    - t-010
+    - t-009
 
 - id: c-157540
   autorius: "Michał Baliński"
@@ -661,8 +643,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-016
+    - t-007
+    - t-008
 
 - id: c-168181
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -691,7 +673,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-014
 
 - id: c-168182
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -726,7 +708,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-168183
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -751,7 +733,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-016
 
 - id: c-168184
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -777,7 +759,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-017
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

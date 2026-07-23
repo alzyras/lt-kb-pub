@@ -45,11 +45,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-154281
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75433|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75435|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje.
-- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54306|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
-- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54308|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
-- susijęs iš [[objektai/zodynas/chasidizmas rabinizmas.md#claim-t-22092|chasidizmas rabinizmas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.
+
 ## Citatos
 
 - id: c-22369

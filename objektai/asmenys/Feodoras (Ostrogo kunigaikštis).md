@@ -74,10 +74,7 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškesnį faktą apie Feodorą, o pradinis tekstas yra fragmentiškas."
   pagrindžia:
     - c-88594
-- susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
-- susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, kuri tvirtino ir plėtė jo žemes.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179673|Skirgaila]]: Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.
+
 ## Citatos
 
 - id: c-88593

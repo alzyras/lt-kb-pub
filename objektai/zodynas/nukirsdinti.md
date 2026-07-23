@@ -43,7 +43,7 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34171
-- susijęs iš Žygimanto Augusto paliaubų aktas: Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.
+
 ## Citatos
 
 - id: c-34171

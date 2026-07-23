@@ -55,9 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė nuoroda „tokių namų“ ir suformuluotas aiškus sakinys apie Žirmūnus."
   pagrindžia:
     - c-24652
-- susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
-- susijęs iš Žizdra: Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.
-- susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
+
 ## Citatos
 
 - id: c-24652

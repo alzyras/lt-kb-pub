@@ -1,739 +1,737 @@
 ---
 tipas: laikotarpis
-pavadinimas: 'XXI amžius'
-sukurta: '2026-04-26'
+pavadinimas: "XXI amžius"
+periodo_pradzia: 2001
+periodo_pabaiga: 2100
+periodo_objektu_skaicius: 701
 tags: []
 ---
 
 # XXI amžius
 
-Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
+Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 702.
-
-## Kaip naudoti
-
-- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą arba laiką.
-- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+Objektų skaičius: 701.
 
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Aaron Klug]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Antanas Valionis]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/asmenys/Bernard Lown]]
 - [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Džordžas Robertsonas]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Johannas Georgas Adamas Forsteris]]
 - [[objektai/asmenys/Jonas Mejenas]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Kazimieras Būga]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/asmenys/Valdas Adamkus]]
 - [[objektai/asmenys/Vygantas Jocius]]
 
 ### Autoriai
+- [[objektai/autoriai/A. Butrimas]]
+- [[objektai/autoriai/Abraomas Kulvietis]]
+- [[objektai/autoriai/Aldona Bieliūnienė]]
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
 - [[objektai/autoriai/Antanas Kulakauskas]]
+- [[objektai/autoriai/Anušauskas A]]
+- [[objektai/autoriai/Audronius Ažubalis]]
 - [[objektai/autoriai/Bumblauskas A]]
+- [[objektai/autoriai/Bučinskytė Ilona]]
 - [[objektai/autoriai/Daugirdas A]]
 - [[objektai/autoriai/Dieckmann Ch]]
+- [[objektai/autoriai/E. Spudytė]]
 - [[objektai/autoriai/Eduardas Brusokas]]
+- [[objektai/autoriai/Eidintas A]]
+- [[objektai/autoriai/Gaškaitė N]]
+- [[objektai/autoriai/Ilona Bučinskytė]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
-- [[objektai/autoriai/J. Aničas]]
+- [[objektai/autoriai/Irena Katilienė]]
+- [[objektai/autoriai/Johannas Georgas Adamas Forsteris]]
+- [[objektai/autoriai/Jonas Basanavičius]]
+- [[objektai/autoriai/Jūratė Dalia Baronienė]]
 - [[objektai/autoriai/M. Jučas]]
+- [[objektai/autoriai/M. Matulytė]]
+- [[objektai/autoriai/M. Šapoka]]
+- [[objektai/autoriai/Mačiulis D]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/autoriai/Mickevičius Adomas]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
-- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/autoriai/Mindaugas Šapoka]]
+- [[objektai/autoriai/Ona Slavėnaitė]]
 - [[objektai/autoriai/Raimundas Lopata]]
-- [[objektai/autoriai/Senn A. E]]
+- [[objektai/autoriai/Rasa Varsackytė]]
+- [[objektai/autoriai/Reda Griškaitė]]
+- [[objektai/autoriai/Romas Dubonis]]
+- [[objektai/autoriai/S. Urbonas]]
+- [[objektai/autoriai/Skirmantė Ramanauskaitė]]
 - [[objektai/autoriai/Skučas A]]
+- [[objektai/autoriai/Snyder T]]
+- [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/autoriai/Sužiedėlis S]]
+- [[objektai/autoriai/Vincas Vyčinas]]
+- [[objektai/autoriai/Vytautas Berenis|Vytautas Berenis (istorikas, XX–XXI a.)]]
+- [[objektai/autoriai/Žalys V]]
 
 ### Daiktai
 - [[objektai/daiktai/Apgulties mašinos]]
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/daiktai/Balnas]]
-- [Baltas apsiaustas su išsiuvinėtu kalaviju](../objektai/daiktai/Baltas%20apsiaustas%20su%20i%C5%A1siuvin%C4%97tu%20kalaviju)
-- [Balti vilnoniai marškiniai](../objektai/daiktai/Balti%20vilnoniai%20mar%C5%A1kiniai)
-- [Bizantijos imperatorių herbas](../objektai/daiktai/Bizantijos%20imperatori%C5%B3%20herbas)
-- [Bombardos](../objektai/daiktai/Bombardos)
-- [Brangieji metalai](../objektai/daiktai/Brangieji%20metalai)
-- [Brūkšniuotoji keramika](../objektai/daiktai/Br%C5%ABk%C5%A1niuotoji%20keramika)
-- [Daugiapakopės raketos ir raketų brėžiniai](../objektai/daiktai/Daugiapakop%C4%97s%20raketos%20ir%20raket%C5%B3%20br%C4%97%C5%BEiniai)
-- [Druska](../objektai/daiktai/Druska)
-- [Du pliki kardai](../objektai/daiktai/Du%20pliki%20kardai)
-- [Dviašmenis kalavijas](../objektai/daiktai/Dvia%C5%A1menis%20kalavijas)
-- [Gediminaičių stulpai](../objektai/daiktai/Gediminai%C4%8Di%C5%B3%20stulpai)
-- [Geležiniai ginklai ir įrankiai](../objektai/daiktai/Gele%C5%BEiniai%20ginklai%20ir%20%C4%AFrankiai)
-- [Halka](../objektai/daiktai/Halka)
-- [Herbai](../objektai/daiktai/Herbai)
-- [Išsaugotos Toros](../objektai/daiktai/I%C5%A1saugotos%20Toros)
-- [Iždo ir pilių raktai](../objektai/daiktai/I%C5%BEdo%20ir%20pili%C5%B3%20raktai)
-- [Javų sėklos, veisliniai gyvuliai ir trąšos](../objektai/daiktai/Jav%C5%B3%20s%C4%97klos%2C%20veisliniai%20gyvuliai%20ir%20tr%C4%85%C5%A1os)
-- [Juostos](../objektai/daiktai/Juostos)
-- [Kardas](../objektai/daiktai/Kardas)
-- [Karinė ginkluotė](../objektai/daiktai/Karin%C4%97%20ginkluot%C4%97)
-- [Karūna](../objektai/daiktai/Kar%C5%ABna)
-- [Kristaus Kančios relikvija](../objektai/daiktai/Kristaus%20Kan%C4%8Dios%20relikvija)
-- [Laivai](../objektai/daiktai/Laivai)
-- [Lietuvos pinigai](../objektai/daiktai/Lietuvos%20pinigai)
-- [Lietuvos trispalvė](../objektai/daiktai/Lietuvos%20trispalv%C4%97)
-- [Palapinės](../objektai/daiktai/Palapin%C4%97s)
-- [Papuošalai](../objektai/daiktai/Papuo%C5%A1alai)
-- [Patrankos](../objektai/daiktai/Patrankos)
-- [Pramonės ir prekybos rūmai Kaune](../objektai/daiktai/Pramon%C4%97s%20ir%20prekybos%20r%C5%ABmai%20Kaune)
-- [Sausio 13-osios gynybinės barikados](../objektai/daiktai/Sausio%2013-osios%20gynybin%C4%97s%20barikados)
-- [Sidabro dirbiniai](../objektai/daiktai/Sidabro%20dirbiniai)
-- [Sienodaužiai](../objektai/daiktai/Sienodau%C5%BEiai)
-- [Skydas](../objektai/daiktai/Skydas)
-- [Sąjūdžio ženklas su Gedimino stulpais](../objektai/daiktai/S%C4%85j%C5%ABd%C5%BEio%20%C5%BEenklas%20su%20Gedimino%20stulpais)
-- [Vaškas](../objektai/daiktai/Va%C5%A1kas)
-- [Vežimai](../objektai/daiktai/Ve%C5%BEimai)
-- [Vilnonės medžiagos](../objektai/daiktai/Vilnon%C4%97s%20med%C5%BEiagos)
-- [Vytauto paveikslas](../objektai/daiktai/Vytauto%20paveikslas)
-- [Vytauto vėliava](../objektai/daiktai/Vytauto%20v%C4%97liava)
-- [Vytauto ženklas](../objektai/daiktai/Vytauto%20%C5%BEenklas)
-- [Vėliavos](../objektai/daiktai/V%C4%97liavos)
-- [Šarvai](../objektai/daiktai/%C5%A0arvai)
-- [Šernų amuletai](../objektai/daiktai/%C5%A0ern%C5%B3%20amuletai)
-- [Šv. Panelės paveikslas](../objektai/daiktai/%C5%A0v.%20Panel%C4%97s%20paveikslas)
-- [Šv. Vaclovo karūna](../objektai/daiktai/%C5%A0v.%20Vaclovo%20kar%C5%ABna)
-- [Žemdirbystės įrankiai](../objektai/daiktai/%C5%BDemdirbyst%C4%97s%20%C4%AFrankiai)
-- [Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis](../objektai/daiktai/%C5%BDem%C4%97lapio%20fragmentas%20su%20%E2%80%9ET%C4%97ve%20m%C5%ABs%C5%B3%E2%80%9C%20eilut%C4%97mis)
-- [„Lituanica“ lėktuvas](../objektai/daiktai/%E2%80%9ELituanica%E2%80%9C%20l%C4%97ktuvas)
+- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
+- [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/daiktai/Brangieji metalai]]
+- [[objektai/daiktai/Brūkšniuotoji keramika]]
+- [[objektai/daiktai/Druska]]
+- [[objektai/daiktai/Du pliki kardai]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Halka]]
+- [[objektai/daiktai/Išsaugotos Toros]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/Juostos]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/daiktai/Papuošalai]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]]
+- [[objektai/daiktai/Sidabro dirbiniai]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/daiktai/Vilnonės medžiagos]]
+- [[objektai/daiktai/Vytauto paveikslas]]
+- [[objektai/daiktai/Vytauto vėliava]]
+- [[objektai/daiktai/Vytauto ženklas]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Šernų amuletai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
+- [[objektai/daiktai/„Lituanica“ lėktuvas]]
 
 ### Grupės
-- [2-oji ir 3-ioji Tautinės kavalerijos brigados](../objektai/grupes/2-oji%20ir%203-ioji%20Tautin%C4%97s%20kavalerijos%20brigados)
-- [Abiejų Tautų Respublika](../objektai/grupes/Abiej%C5%B3%20Taut%C5%B3%20Respublika)
-- [Aisčiai](../objektai/grupes/Ais%C4%8Diai)
-- [Ambasadorių Konferencija](../objektai/grupes/Ambasadori%C5%B3%20Konferencija)
-- [Aukso orda](../objektai/grupes/Aukso%20orda)
-- [Aukštaičiai](../objektai/grupes/Auk%C5%A1tai%C4%8Diai)
-- [Aukščiausioji Santarvininkių Taryba](../objektai/grupes/Auk%C5%A1%C4%8Diausioji%20Santarvininki%C5%B3%20Taryba)
-- [Baltai](../objektai/grupes/Baltai)
-- [Bazilijonų ordinas](../objektai/grupes/Bazilijon%C5%B3%20ordinas)
-- [Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti](../objektai/grupes/Centralinis%20Komitetas%20Nukent%C4%97jusiems%20D%C4%97l%20Karo%20%C5%A0elpti)
-- [Didžioji Lietuvos kunigaikštystė](../objektai/grupes/Did%C5%BEioji%20Lietuvos%20kunigaik%C5%A1tyst%C4%97)
-- [Didžiojo Naugardo respublika](../objektai/grupes/Did%C5%BEiojo%20Naugardo%20respublika)
-- [Domininkonų ordinas](../objektai/grupes/Domininkon%C5%B3%20ordinas)
-- [Draugija Užsienio Lietuviams Remti (DULR)](../objektai/grupes/Draugija%20U%C5%BEsienio%20Lietuviams%20Remti%20%28DULR%29)
-- [Edukacinė Komisija](../objektai/grupes/Edukacin%C4%97%20Komisija)
-- [Estai](../objektai/grupes/Estai)
-- [Europos Parlamentas](../objektai/grupes/Europos%20Parlamentas)
-- [Europos Sąjunga](../objektai/grupes/Europos%20S%C4%85junga)
-- [Gardino seimas](../objektai/grupes/Gardino%20seimas)
-- [Gediminaičių dinastija](../objektai/grupes/Gediminai%C4%8Di%C5%B3%20dinastija)
-- [Habsburgai](../objektai/grupes/Habsburgai)
-- [Hanza](../objektai/grupes/Hanza)
-- [Husitai](../objektai/grupes/Husitai)
-- [III Seimas](../objektai/grupes/III%20Seimas)
-- [JAV lietuviai](../objektai/grupes/JAV%20lietuviai)
-- [Jedinstvo](../objektai/grupes/Jedinstvo)
-- [Jogailaičiai](../objektai/grupes/Jogailai%C4%8Diai)
-- [Jogailaičių dinastija](../objektai/grupes/Jogailai%C4%8Di%C5%B3%20dinastija)
-- [Jono Mejeno divizija](../objektai/grupes/Jono%20Mejeno%20divizija)
-- [Jotvingiai](../objektai/grupes/Jotvingiai)
-- [Jozefo Grabinskio Jėgerių batalionas](../objektai/grupes/Jozefo%20Grabinskio%20J%C4%97geri%C5%B3%20batalionas)
-- [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
-- [Kalavijuočių ordinas](../objektai/grupes/Kalavijuo%C4%8Di%C5%B3%20ordinas)
-- [Kalnėnai](../objektai/grupes/Kaln%C4%97nai)
-- [Karaimai](../objektai/grupes/Karaimai)
-- [Karijotaičiai](../objektai/grupes/Karijotai%C4%8Diai)
-- [Katalikų Bažnyčia](../objektai/grupes/Katalik%C5%B3%20Ba%C5%BEny%C4%8Dia)
-- [Kazokai](../objektai/grupes/Kazokai)
-- [Kijevo Rusia](../objektai/grupes/Kijevo%20Rusia)
-- [Krikščionių demokratų blokas](../objektai/grupes/Krik%C5%A1%C4%8Dioni%C5%B3%20demokrat%C5%B3%20blokas)
-- [Krimo totoriai](../objektai/grupes/Krimo%20totoriai)
-- [Krymo totoriai](../objektai/grupes/Krymo%20totoriai)
-- [Kuršiai](../objektai/grupes/Kur%C5%A1iai)
-- [Kuršo kunigaikštystė](../objektai/grupes/Kur%C5%A1o%20kunigaik%C5%A1tyst%C4%97)
-- [Latviai](../objektai/grupes/Latviai)
-- [Lenkijos kariuomenė](../objektai/grupes/Lenkijos%20kariuomen%C4%97)
-- [Lenkų karalystė](../objektai/grupes/Lenk%C5%B3%20karalyst%C4%97)
-- [Lenkų karinė organizacija](../objektai/grupes/Lenk%C5%B3%20karin%C4%97%20organizacija)
-- [Lietuviai](../objektai/grupes/Lietuviai)
-- [Lietuvių aktyvistų frontas](../objektai/grupes/Lietuvi%C5%B3%20aktyvist%C5%B3%20frontas)
-- [Lietuvių Fondas](../objektai/grupes/Lietuvi%C5%B3%20Fondas)
-- [Lietuvių krikščionių demokratų partija](../objektai/grupes/Lietuvi%C5%B3%20krik%C5%A1%C4%8Dioni%C5%B3%20demokrat%C5%B3%20partija)
-- [Lietuvių valstiečių sąjunga](../objektai/grupes/Lietuvi%C5%B3%20valstie%C4%8Di%C5%B3%20s%C4%85junga)
-- [Lietuvos bajorija](../objektai/grupes/Lietuvos%20bajorija)
-- [Lietuvos demokratinė darbo partija](../objektai/grupes/Lietuvos%20demokratin%C4%97%20darbo%20partija)
-- [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
-- [Lietuvos Helsinkio grupė](../objektai/grupes/Lietuvos%20Helsinkio%20grup%C4%97)
-- [Lietuvos kariuomenė](../objektai/grupes/Lietuvos%20kariuomen%C4%97)
-- [Lietuvos komunistų partija](../objektai/grupes/Lietuvos%20komunist%C5%B3%20partija)
-- [Lietuvos laisvės armija](../objektai/grupes/Lietuvos%20laisv%C4%97s%20armija)
-- [Lietuvos laisvės kovos sąjūdis](../objektai/grupes/Lietuvos%20laisv%C4%97s%20kovos%20s%C4%85j%C5%ABdis)
-- [Lietuvos laisvės lyga](../objektai/grupes/Lietuvos%20laisv%C4%97s%20lyga)
-- [Lietuvos partizanai](../objektai/grupes/Lietuvos%20partizanai)
-- [Lietuvos Provincijos Valdymo Skyrius](../objektai/grupes/Lietuvos%20Provincijos%20Valdymo%20Skyrius)
-- [Lietuvos Respublikos užsienio reikalų ministerija](../objektai/grupes/Lietuvos%20Respublikos%20u%C5%BEsienio%20reikal%C5%B3%20ministerija)
-- [Lietuvos seimas](../objektai/grupes/Lietuvos%20seimas)
-- [Lietuvos socialdemokratų partija](../objektai/grupes/Lietuvos%20socialdemokrat%C5%B3%20partija)
-- [Lietuvos SSR Aukščiausioji Taryba](../objektai/grupes/Lietuvos%20SSR%20Auk%C5%A1%C4%8Diausioji%20Taryba)
-- [Lietuvos Taryba](../objektai/grupes/Lietuvos%20Taryba)
-- [Lietuvos vyrų krepšinio rinktinė](../objektai/grupes/Lietuvos%20vyr%C5%B3%20krep%C5%A1inio%20rinktin%C4%97)
-- [Lietuvos šaulių sąjunga](../objektai/grupes/Lietuvos%20%C5%A1auli%C5%B3%20s%C4%85junga)
-- [Lybiai](../objektai/grupes/Lybiai)
-- [Maskvos Helsinkio grupė](../objektai/grupes/Maskvos%20Helsinkio%20grup%C4%97)
-- [Maskvos kunigaikštystė](../objektai/grupes/Maskvos%20kunigaik%C5%A1tyst%C4%97)
-- [MGB](../objektai/grupes/MGB)
-- [Mongolų imperija](../objektai/grupes/Mongol%C5%B3%20imperija)
-- [Napoleono kariuomenė](../objektai/grupes/Napoleono%20kariuomen%C4%97)
-- [NKGB](../objektai/grupes/NKGB)
-- [NKVD](../objektai/grupes/NKVD)
-- [Ponų taryba](../objektai/grupes/Pon%C5%B3%20taryba)
-- [Pranciškonų ordinas](../objektai/grupes/Pranci%C5%A1kon%C5%B3%20ordinas)
-- [Pskovo respublika](../objektai/grupes/Pskovo%20respublika)
-- [Raudonoji armija](../objektai/grupes/Raudonoji%20armija)
-- [Riurikaičių dinastija](../objektai/grupes/Riurikai%C4%8Di%C5%B3%20dinastija)
-- [Romanovų dinastija](../objektai/grupes/Romanov%C5%B3%20dinastija)
-- [Romėnai](../objektai/grupes/Rom%C4%97nai)
-- [Rusai](../objektai/grupes/Rusai)
-- [Rusijos Federacija](../objektai/grupes/Rusijos%20Federacija)
-- [Rusijos kariuomenė](../objektai/grupes/Rusijos%20kariuomen%C4%97)
-- [Rygiečiai](../objektai/grupes/Rygie%C4%8Diai)
-- [Sapiegos](../objektai/grupes/Sapiegos)
-- [Saulė](../objektai/grupes/Saul%C4%97)
-- [Sembai](../objektai/grupes/Sembai)
-- [Skandinavai](../objektai/grupes/Skandinavai)
-- [Slavai](../objektai/grupes/Slavai)
-- [Sovietų Sąjunga](../objektai/grupes/Soviet%C5%B3%20S%C4%85junga)
-- [Sovietų Sąjungos komunistų partija](../objektai/grupes/Soviet%C5%B3%20S%C4%85jungos%20komunist%C5%B3%20partija)
-- [Stačiatikiai](../objektai/grupes/Sta%C4%8Diatikiai)
-- [Sėliai](../objektai/grupes/S%C4%97liai)
-- [Targovicos konfederacija](../objektai/grupes/Targovicos%20konfederacija)
-- [Tautos taryba](../objektai/grupes/Tautos%20taryba)
-- [Tautų Sąjunga](../objektai/grupes/Taut%C5%B3%20S%C4%85junga)
-- [Totoriai](../objektai/grupes/Totoriai)
-- [Valakai](../objektai/grupes/Valakai)
-- [Valkininkų konfederacija](../objektai/grupes/Valkinink%C5%B3%20konfederacija)
-- [Vazų dinastija](../objektai/grupes/Vaz%C5%B3%20dinastija)
-- [Vietinė rinktinė](../objektai/grupes/Vietin%C4%97%20rinktin%C4%97)
-- [Vikingai](../objektai/grupes/Vikingai)
-- [Vilniaus kapitula](../objektai/grupes/Vilniaus%20kapitula)
-- [Vilniaus romantizmo mokykla](../objektai/grupes/Vilniaus%20romantizmo%20mokykla)
-- [Vokiečiai](../objektai/grupes/Vokie%C4%8Diai)
-- [Vokiečių ordinas](../objektai/grupes/Vokie%C4%8Di%C5%B3%20ordinas)
-- [Voluiniečiai](../objektai/grupes/Voluinie%C4%8Diai)
-- [Vyriausias Mažosios Lietuvos gelbėjimo komitetas](../objektai/grupes/Vyriausias%20Ma%C5%BEosios%20Lietuvos%20gelb%C4%97jimo%20komitetas)
-- [Šiaurės Atlanto sutarties organizacija](../objektai/grupes/%C5%A0iaur%C4%97s%20Atlanto%20sutarties%20organizacija)
-- [Šiaurės Atlanto sutarties organizacija (NATO)](../objektai/grupes/%C5%A0iaur%C4%97s%20Atlanto%20sutarties%20organizacija%20%28NATO%29)
-- [Švedai](../objektai/grupes/%C5%A0vedai)
-- [Švietimo Ministerijos Knygų Leidimo Komisija](../objektai/grupes/%C5%A0vietimo%20Ministerijos%20Knyg%C5%B3%20Leidimo%20Komisija)
-- [Žemaičiai](../objektai/grupes/%C5%BDemai%C4%8Diai)
-- [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
-- [Žiemgaliai](../objektai/grupes/%C5%BDiemgaliai)
-- [Žydai](../objektai/grupes/%C5%BDydai)
+- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/grupes/Aukštaičiai]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Bazilijonų ordinas]]
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/grupes/Estai]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/grupes/Jedinstvo]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Jono Mejeno divizija]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]
+- [[objektai/grupes/Jungtinių Tautų organizacija]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Kijevo Rusia]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Lenkų karinė organizacija]]
+- [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
+- [[objektai/grupes/Lietuvių Fondas]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės bajorija]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/Lietuvos laisvės armija]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Lietuvos moterų krepšinio rinktinė]]
+- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
+- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/MGB]]
+- [[objektai/grupes/Napoleono kariuomenė]]
+- [[objektai/grupes/NATO]]
+- [[objektai/grupes/NKGB]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/grupes/Saulė]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Sėliai]]
+- [[objektai/grupes/Targovicos konfederacija]]
+- [[objektai/grupes/Tarptautinė darbo organizacija]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
+- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/UNESCO]]
+- [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/grupes/Vazų dinastija]]
+- [[objektai/grupes/Vietinė rinktinė]]
+- [[objektai/grupes/Vikingai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus romantizmo mokykla]]
+- [[objektai/grupes/Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/grupes/Voluiniečiai]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/grupes/Žemaičių medininkai]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Žydai]]
 
 ### Papročiai
-- [Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas](../objektai/paprociai/Abiej%C5%B3%20Taut%C5%B3%20Respublikos%20kariuomeni%C5%B3%20atskiras%20stovyklavimas%20ir%20pavaldumo%20nebuvimas)
-- [Aisčių ugnies kultas ir šventoji namų ugnelė](../objektai/paprociai/Ais%C4%8Di%C5%B3%20ugnies%20kultas%20ir%20%C5%A1ventoji%20nam%C5%B3%20ugnel%C4%97)
-- [Apgaulingo atsitraukimo manevras](../objektai/paprociai/Apgaulingo%20atsitraukimo%20manevras)
-- [Bajorų dalyvavimas svarbiausių aktų sudaryme](../objektai/paprociai/Bajor%C5%B3%20dalyvavimas%20svarbiausi%C5%B3%20akt%C5%B3%20sudaryme)
-- [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
-- [Bendras Lietuvos ir Lenkijos valdovo rinkimas](../objektai/paprociai/Bendras%20Lietuvos%20ir%20Lenkijos%20valdovo%20rinkimas)
-- [Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija](../objektai/paprociai/Gedimino%20informacin%C4%97%20diplomatija%20ir%20karo%20veiksm%C5%B3%20derinimas%20su%20Lenkija)
-- [Husarų lydėjimas į seimo rinkimus](../objektai/paprociai/Husar%C5%B3%20lyd%C4%97jimas%20%C4%AF%20seimo%20rinkimus)
-- [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
-- [Ištikimybės priesaikos Jogailai](../objektai/paprociai/I%C5%A1tikimyb%C4%97s%20priesaikos%20Jogailai)
-- [Jogailos privilegija apsikrikštijusiems bajorams](../objektai/paprociai/Jogailos%20privilegija%20apsikrik%C5%A1tijusiems%20bajorams)
-- [Kariuomenės lauko stovyklos įrengimas apsupant vežimais](../objektai/paprociai/Kariuomen%C4%97s%20lauko%20stovyklos%20%C4%AFrengimas%20apsupant%20ve%C5%BEimais)
-- [Kariuomenės sutikimas papuoštu vieškeliu](../objektai/paprociai/Kariuomen%C4%97s%20sutikimas%20papuo%C5%A1tu%20vie%C5%A1keliu)
-- [Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų](../objektai/paprociai/Karo%20b%C5%ABrimas%20prie%C5%A1%20%C5%BEyg%C4%AF%20i%C5%A1%20%C5%BEyni%C5%B3%2C%20%C5%BEvalgo%20kraujo%20ir%20%C5%BEal%C4%8Dio%20%C5%BEenkl%C5%B3)
-- [Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę](../objektai/paprociai/Konstitucin%C4%97%20tautos%20teis%C4%97%20prie%C5%A1intis%20prievarta%20k%C4%97sinantis%20%C4%AF%20valstyb%C4%97s%20nepriklausomyb%C4%99)
-- [Kovų vietų neliečiamumas](../objektai/paprociai/Kov%C5%B3%20viet%C5%B3%20nelie%C4%8Diamumas)
-- [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
-- [Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje](../objektai/paprociai/Kunigo%20A.%20Mackevi%C4%8Diaus%20religin%C4%97s%20apeigos%20sukil%C4%97li%C5%B3%20stovykloje)
-- [Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai](../objektai/paprociai/Lietuvi%C5%B3%20ir%20lenk%C5%B3%20dalini%C5%B3%20bendros%20operacijos%20bei%20pasienio%20susir%C4%97mimai)
-- [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
-- [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
-- [Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio](../objektai/paprociai/Masin%C4%97%20Lietuvos%20gyventoj%C5%B3%20emigracija%20po%20privatizacijos%20de%C5%A1imtme%C4%8Dio)
-- [Mergaičių, nuotakų, žmonų ir našlių galvos puošyba](../objektai/paprociai/Mergai%C4%8Di%C5%B3%2C%20nuotak%C5%B3%2C%20%C5%BEmon%C5%B3%20ir%20na%C5%A1li%C5%B3%20galvos%20puo%C5%A1yba)
-- [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)
-- [Teresboro stovyklos mokymai lietuvių kalba](../objektai/paprociai/Teresboro%20stovyklos%20mokymai%20lietuvi%C5%B3%20kalba)
-- [Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes](../objektai/paprociai/Trij%C5%B3%20Lietuvos%20valstybingumo%20dat%C5%B3%20min%C4%97jimas%20per%20nacionalines%20%C5%A1ventes)
-- [Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje](../objektai/paprociai/Triumfo%20i%C5%A1kilm%C4%97s%20su%20belaisvi%C5%B3%20eisena%20ir%20trof%C4%97jin%C4%97mis%20v%C4%97liavomis%20Vilniuje)
-- [Vėlyvos santuokos, kraitis ir vestuvių sutartys](../objektai/paprociai/V%C4%97lyvos%20santuokos%2C%20kraitis%20ir%20vestuvi%C5%B3%20sutartys)
-- [Žemaičių sėtinių kepimas namuose](../objektai/paprociai/%C5%BDemai%C4%8Di%C5%B3%20s%C4%97tini%C5%B3%20kepimas%20namuose)
+- [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
+- [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
+- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]
+- [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus|Husarų lydėjimas į seimo rinkimus (seimas)]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
+- [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
+- [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu]]
+- [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
+- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
+- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/paprociai/Lydimoji žemdirbystė]]
+- [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]
+- [[objektai/paprociai/Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes]]
+- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 
 ### Posakiai
-- [`Rex Lethowye`](../objektai/posakiai/%60Rex%20Lethowye%60)
-- [Aktai sau, gyvenimas nuėjo sau](../objektai/posakiai/Aktai%20sau%2C%20gyvenimas%20nu%C4%97jo%20sau)
-- [Drang nach Osten](../objektai/posakiai/Drang%20nach%20Osten)
-- [gerumu galima ir laukinius žvėris sušvelninti.](../objektai/posakiai/gerumu%20galima%20ir%20laukinius%20%C5%BEv%C4%97ris%20su%C5%A1velninti)
-- [jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.](../objektai/posakiai/jam%20patink%C4%85s%20ma%C5%BEiau%20i%C5%A1kalbingas%2C%20bet%20u%C5%BEtatai%20tiesakalbis.)
-- [Kad tik be arklio nebūtų](../objektai/posakiai/Kad%20tik%20be%20arklio%20neb%C5%ABt%C5%B3)
-- [karūna su karūna negali būti sujungta — inkorporuota](../objektai/posakiai/kar%C5%ABna%20su%20kar%C5%ABna%20negali%20b%C5%ABti%20sujungta%20%E2%80%94%20inkorporuota)
-- [Mes kariaujame ne su kryžium, o su vokiečiais!](../objektai/posakiai/Mes%20kariaujame%20ne%20su%20kry%C5%BEium%2C%20o%20su%20vokie%C4%8Diais%21)
-- [Mirė tikrai mūsų tautos garbė.](../objektai/posakiai/Mir%C4%97%20tikrai%20m%C5%ABs%C5%B3%20tautos%20garb%C4%97)
-- [Mums kovoje padėjo tik mūsų budrumas](../objektai/posakiai/Mums%20kovoje%20pad%C4%97jo%20tik%20m%C5%ABs%C5%B3%20budrumas)
-- [Mūsų kraštą pavergti](../objektai/posakiai/M%C5%ABs%C5%B3%20kra%C5%A1t%C4%85%20pavergti)
-- [Ne bičiulystės, o teisybės](../objektai/posakiai/Ne%20bi%C4%8Diulyst%C4%97s%2C%20o%20teisyb%C4%97s)
-- [Nepakartoti 1940 m. klaidos!](../objektai/posakiai/Nepakartoti%201940%20m.%20klaidos%21)
-- [nuduodami nekaltą balandėlį](../objektai/posakiai/nuduodami%20nekalt%C4%85%20baland%C4%97l%C4%AF)
-- [pinklėmis antremti pinkles](../objektai/posakiai/pinkl%C4%97mis%20antremti%20pinkles)
-- [Prie ginklų!](../objektai/posakiai/Prie%20ginkl%C5%B3%21)
-- [prieš vėją nepapūs](../objektai/posakiai/prie%C5%A1%20v%C4%97j%C4%85%20nepap%C5%ABs)
-- [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
-- [Sausis didžiąja raide](../objektai/posakiai/Sausis%20did%C5%BEi%C4%85ja%20raide)
-- [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
-- [Tikslas pateisino priemones.](../objektai/posakiai/Tikslas%20pateisino%20priemones)
-- [vardan tos Lietuvos](../objektai/posakiai/vardan%20tos%20Lietuvos)
-- [Viskas yra viena, viena žemė ir tie patys žmonės](../objektai/posakiai/Viskas%20yra%20viena%2C%20viena%20%C5%BEem%C4%97%20ir%20tie%20patys%20%C5%BEmon%C4%97s)
-- [Vyrai, pavojus!](../objektai/posakiai/Vyrai%2C%20pavojus%21)
-- [Širvintų stebuklas](../objektai/posakiai/%C5%A0irvint%C5%B3%20stebuklas)
-- [„aukščiausiuoju karaliumi“](../objektai/posakiai/%E2%80%9Eauk%C5%A1%C4%8Diausiuoju%20karaliumi%E2%80%9C)
-- [„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“](../objektai/posakiai/%E2%80%9EBe%20abejon%C4%97s%2C%20sanskrito%20giminingumas%20su%20lietuvi%C5%B3%20kalba%20yra%20didesnis%2C%20negu%20su%20bet%20kuria%20kita%20kalba%20%C5%A1ioje%20%C5%BEem%C4%97je%E2%80%9C)
-- [„Didžiuoju“](../objektai/posakiai/%E2%80%9EDid%C5%BEiuoju%E2%80%9C)
-- [„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“](../objektai/posakiai/%E2%80%9EGalima%20sp%C4%97lioti%2C%20kad...%20arij%C5%B3%20kalbos%20lop%C5%A1ys%20tur%C4%97jo%20b%C5%ABti%20lietuvi%C5%B3%20apgyventoje%20teritorijoje%E2%80%9C)
-- [„lenkų suartinimo su rusais“](../objektai/posakiai/%E2%80%9Elenk%C5%B3%20suartinimo%20su%20rusais%E2%80%9C)
-- [„Lietuvą padaryti internacionalinę“](../objektai/posakiai/%E2%80%9ELietuv%C4%85%20padaryti%20internacionalin%C4%99%E2%80%9C)
-- [„Lithuania Propria“](../objektai/posakiai/%E2%80%9ELithuania%20Propria%E2%80%9C)
-- [„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“](../objektai/posakiai/%E2%80%9EMindaugas%20%E2%80%93%20pirmas%20ir%20vienintelis%20vainikuotas%20Lietuvos%20karalius%E2%80%9C)
-- [„Mindaugo Lietuvą“](../objektai/posakiai/%E2%80%9EMindaugo%20Lietuv%C4%85%E2%80%9C)
-- [„nepriklausomybė svarbiausia“](../objektai/posakiai/%E2%80%9Enepriklausomyb%C4%97%20svarbiausia%E2%80%9C)
-- [„nė trijų dienų“](../objektai/posakiai/%E2%80%9En%C4%97%20trij%C5%B3%20dien%C5%B3%E2%80%9C)
-- [„organizacijos be organizacijos“](../objektai/posakiai/%E2%80%9Eorganizacijos%20be%20organizacijos%E2%80%9C)
-- [„Čia nebus Lenkijos“](../objektai/posakiai/%E2%80%9E%C4%8Cia%20nebus%20Lenkijos%E2%80%9C)
+- [[objektai/posakiai/`Rex Lethowye`]]
+- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/posakiai/Drang nach Osten]]
+- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
+- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
+- [[objektai/posakiai/Mums kovoje padėjo tik mūsų budrumas]]
+- [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
+- [[objektai/posakiai/Ne bičiulystės, o teisybės]]
+- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
+- [[objektai/posakiai/pinklėmis antremti pinkles]]
+- [[objektai/posakiai/Prie ginklų!]]
+- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
+- [[objektai/posakiai/Sausis didžiąja raide]]
+- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
+- [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/posakiai/Vyrai, pavojus!]]
+- [[objektai/posakiai/Širvintų stebuklas]]
+- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]
+- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
+- [[objektai/posakiai/„Didžiuoju“]]
+- [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]
+- [[objektai/posakiai/„lenkų suartinimo su rusais“]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]
+- [[objektai/posakiai/„Mindaugo Lietuvą“]]
+- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]
+- [[objektai/posakiai/„nepriklausomybė svarbiausia“]]
+- [[objektai/posakiai/„organizacijos be organizacijos“]]
+- [[objektai/posakiai/„Čia nebus Lenkijos“]]
 
 ### Vietos
-- [Aistmarios](../objektai/vietos/Aistmarios)
-- [Alenšteinas](../objektai/vietos/Alen%C5%A1teinas)
-- [Alytus](../objektai/vietos/Alytus)
-- [Anglija](../objektai/vietos/Anglija)
-- [Apuolės pilis](../objektai/vietos/Apuol%C4%97s%20pilis)
-- [Ariogala](../objektai/vietos/Ariogala)
-- [Astravos dvaras](../objektai/vietos/Astravos%20dvaras)
-- [Atėnai](../objektai/vietos/At%C4%97nai)
-- [Augustavo gubernija](../objektai/vietos/Augustavo%20gubernija)
-- [Aukštaitija](../objektai/vietos/Auk%C5%A1taitija)
-- [Austrija](../objektai/vietos/Austrija)
-- [Ašmena](../objektai/vietos/A%C5%A1mena)
-- [Baisogala](../objektai/vietos/Baisogala)
-- [Bajerburgas](../objektai/vietos/Bajerburgas)
-- [Baltarusija](../objektai/vietos/Baltarusija)
-- [Bazelis](../objektai/vietos/Bazelis)
-- [Berlynas](../objektai/vietos/Berlynas)
-- [Bernas](../objektai/vietos/Bernas)
-- [Betygala](../objektai/vietos/Betygala)
-- [Biala](../objektai/vietos/Biala)
-- [Birutės kalnas](../objektai/vietos/Birut%C4%97s%20kalnas)
-- [Biržai](../objektai/vietos/Bir%C5%BEai)
-- [Braclavo sritis](../objektai/vietos/Braclavo%20sritis)
-- [Brasta](../objektai/vietos/Brasta)
-- [Breslauja](../objektai/vietos/Breslauja)
-- [Brianskas](../objektai/vietos/Brianskas)
-- [Briuselis](../objektai/vietos/Briuselis)
-- [Butrimonys](../objektai/vietos/Butrimonys)
-- [Chotynas](../objektai/vietos/Chotynas)
-- [Daugai](../objektai/vietos/Daugai)
-- [Daugavgryva](../objektai/vietos/Daugavgryva)
-- [Daugpilis](../objektai/vietos/Daugpilis)
-- [Dauguva](../objektai/vietos/Dauguva)
-- [Didysis Naugardas](../objektai/vietos/Didysis%20Naugardas)
-- [Didžioji Lietuva](../objektai/vietos/Did%C5%BEioji%20Lietuva)
-- [Dniepras](../objektai/vietos/Dniepras)
-- [Dniepro žiotys](../objektai/vietos/Dniepro%20%C5%BEiotys)
-- [Drivietų ežerai](../objektai/vietos/Driviet%C5%B3%20e%C5%BEerai)
-- [Drohičinas](../objektai/vietos/Drohi%C4%8Dinas)
-- [Druckas](../objektai/vietos/Druckas)
-- [Druja](../objektai/vietos/Druja)
-- [Druskininkai](../objektai/vietos/Druskininkai)
-- [Dubingiai](../objektai/vietos/Dubingiai)
-- [Dubysa](../objektai/vietos/Dubysa)
-- [Durbė](../objektai/vietos/Durb%C4%97)
-- [Durbės ežeras](../objektai/vietos/Durb%C4%97s%20e%C5%BEeras)
-- [Estija](../objektai/vietos/Estija)
-- [Europa](../objektai/vietos/Europa)
-- [Galvės ežeras](../objektai/vietos/Galv%C4%97s%20e%C5%BEeras)
-- [Gardinas](../objektai/vietos/Gardinas)
-- [Georgenburgas](../objektai/vietos/Georgenburgas)
-- [Giedraičiai](../objektai/vietos/Giedrai%C4%8Diai)
-- [Gilgenburgas](../objektai/vietos/Gilgenburgas)
-- [Gniezno](../objektai/vietos/Gniezno)
-- [Gorodnica](../objektai/vietos/Gorodnica)
-- [Grabova](../objektai/vietos/Grabova)
-- [Griunvaldas](../objektai/vietos/Griunvaldas)
-- [Gudija](../objektai/vietos/Gudija)
-- [Gumbinė](../objektai/vietos/Gumbin%C4%97)
-- [Italija](../objektai/vietos/Italija)
-- [JAV](../objektai/vietos/JAV)
-- [Jelgava](../objektai/vietos/Jelgava)
-- [Jeruzalė](../objektai/vietos/Jeruzal%C4%97)
-- [Jotvingija](../objektai/vietos/Jotvingija)
-- [Jungtinės Amerikos Valstijos](../objektai/vietos/Jungtin%C4%97s%20Amerikos%20Valstijos)
-- [Juodoji Rusia](../objektai/vietos/Juodoji%20Rusia)
-- [Juodoji Rusija](../objektai/vietos/Juodoji%20Rusija)
-- [Jurbarkas](../objektai/vietos/Jurbarkas)
-- [Kaišiadorys](../objektai/vietos/Kai%C5%A1iadorys)
-- [Kaliningrado sritis](../objektai/vietos/Kaliningrado%20sritis)
-- [Kaltinėnai](../objektai/vietos/Kaltin%C4%97nai)
-- [Karšuva](../objektai/vietos/Kar%C5%A1uva)
-- [Kauno gubernija](../objektai/vietos/Kauno%20gubernija)
-- [Kauno Laisvės alėja](../objektai/vietos/Kauno%20Laisv%C4%97s%20al%C4%97ja)
-- [Kauno pilis](../objektai/vietos/Kauno%20pilis)
-- [Kernavė](../objektai/vietos/Kernav%C4%97)
-- [Kijevas](../objektai/vietos/Kijevas)
-- [Kinija](../objektai/vietos/Kinija)
-- [Kleckas](../objektai/vietos/Kleckas)
-- [Konstanca](../objektai/vietos/Konstanca)
-- [Konstantinopolis](../objektai/vietos/Konstantinopolis)
-- [Kražiai](../objektai/vietos/Kra%C5%BEiai)
-- [Kretinga](../objektai/vietos/Kretinga)
-- [Krokuva](../objektai/vietos/Krokuva)
-- [Krėva](../objektai/vietos/Kr%C4%97va)
-- [Kujavija](../objektai/vietos/Kujavija)
-- [Kulautuva](../objektai/vietos/Kulautuva)
-- [Kulmas](../objektai/vietos/Kulmas)
-- [Kulmo žemė](../objektai/vietos/Kulmo%20%C5%BEem%C4%97)
-- [Kuršas](../objektai/vietos/Kur%C5%A1as)
-- [Kuršių marios](../objektai/vietos/Kur%C5%A1i%C5%B3%20marios)
-- [Kuršmarės](../objektai/vietos/Kur%C5%A1mar%C4%97s)
-- [Kuršo gubernija](../objektai/vietos/Kur%C5%A1o%20gubernija)
-- [Kuršėnai](../objektai/vietos/Kur%C5%A1%C4%97nai)
-- [Kėdainiai](../objektai/vietos/K%C4%97dainiai)
-- [Labanoras](../objektai/vietos/Labanoras)
-- [Latvija](../objektai/vietos/Latvija)
-- [Leipūnai](../objektai/vietos/Leip%C5%ABnai)
-- [Lenkija](../objektai/vietos/Lenkija)
-- [Liepoja](../objektai/vietos/Liepoja)
-- [Lietuvos Užnemunė](../objektai/vietos/Lietuvos%20U%C5%BEnemun%C4%97)
-- [Liubekas](../objektai/vietos/Liubekas)
-- [Liublinas](../objektai/vietos/Liublinas)
-- [Londonas](../objektai/vietos/Londonas)
-- [Luckas](../objektai/vietos/Luckas)
-- [Lukomlis](../objektai/vietos/Lukomlis)
-- [Lvovas](../objektai/vietos/Lvovas)
-- [Marienburgas](../objektai/vietos/Marienburgas)
-- [Marijampolė](../objektai/vietos/Marijampol%C4%97)
-- [Marijenburgas](../objektai/vietos/Marijenburgas)
-- [Mažoji Azija](../objektai/vietos/Ma%C5%BEoji%20Azija)
-- [Mažoji Lenkija](../objektai/vietos/Ma%C5%BEoji%20Lenkija)
-- [Melnikas](../objektai/vietos/Melnikas)
-- [Melno ežeras](../objektai/vietos/Melno%20e%C5%BEeras)
-- [Merkinė](../objektai/vietos/Merkin%C4%97)
-- [Merkinės dvaras](../objektai/vietos/Merkin%C4%97s%20dvaras)
-- [Merkys](../objektai/vietos/Merkys)
-- [Miastros ežeras](../objektai/vietos/Miastros%20e%C5%BEeras)
-- [Mielnikas](../objektai/vietos/Mielnikas)
-- [Minskas](../objektai/vietos/Minskas)
-- [Moldavija](../objektai/vietos/Moldavija)
-- [Mozyrius](../objektai/vietos/Mozyrius)
-- [Mozūrai](../objektai/vietos/Moz%C5%ABrai)
-- [Mozūrija](../objektai/vietos/Moz%C5%ABrija)
-- [Mstislavlis](../objektai/vietos/Mstislavlis)
-- [Mėlynieji Vandenys](../objektai/vietos/M%C4%97lynieji%20Vandenys)
-- [Narevas](../objektai/vietos/Narevas)
-- [Narva](../objektai/vietos/Narva)
-- [Naugardas Sieverskas](../objektai/vietos/Naugardas%20Sieverskas)
-- [Naugardukas](../objektai/vietos/Naugardukas)
-- [Naujapilis](../objektai/vietos/Naujapilis)
-- [Naujorkas](../objektai/vietos/Naujorkas)
-- [Nemunas](../objektai/vietos/Nemunas)
-- [Neris](../objektai/vietos/Neris)
-- [Nevėžis](../objektai/vietos/Nev%C4%97%C5%BEis)
-- [Niešava](../objektai/vietos/Nie%C5%A1ava)
-- [Odesa](../objektai/vietos/Odesa)
-- [Odojevas](../objektai/vietos/Odojevas)
-- [Olandija](../objektai/vietos/Olandija)
-- [Ortelsburgas](../objektai/vietos/Ortelsburgas)
-- [Oziraičių ežerai](../objektai/vietos/Ozirai%C4%8Di%C5%B3%20e%C5%BEerai)
-- [Pabaiskas](../objektai/vietos/Pabaiskas)
-- [Pabaltijys](../objektai/vietos/Pabaltijys)
-- [Padauguvis](../objektai/vietos/Padauguvis)
-- [Palanga](../objektai/vietos/Palanga)
-- [Palenkė](../objektai/vietos/Palenk%C4%97)
-- [Palestina](../objektai/vietos/Palestina)
-- [Pamarys](../objektai/vietos/Pamarys)
-- [Panemunė](../objektai/vietos/Panemun%C4%97)
-- [Paneriai](../objektai/vietos/Paneriai)
-- [Panevėžys](../objektai/vietos/Panev%C4%97%C5%BEys)
-- [Pasvalys](../objektai/vietos/Pasvalys)
-- [Perekopas](../objektai/vietos/Perekopas)
-- [Perloja](../objektai/vietos/Perloja)
-- [Petrapilis](../objektai/vietos/Petrapilis)
-- [Piltenė](../objektai/vietos/Pilten%C4%97)
-- [Pinskas](../objektai/vietos/Pinskas)
-- [Podolija](../objektai/vietos/Podolija)
-- [Podolė](../objektai/vietos/Podol%C4%97)
-- [Polockas](../objektai/vietos/Polockas)
-- [Pomeranija](../objektai/vietos/Pomeranija)
-- [Poznanė](../objektai/vietos/Poznan%C4%97)
-- [Praga](../objektai/vietos/Praga)
-- [Prancūzija](../objektai/vietos/Pranc%C5%ABzija)
-- [Pravieniškių įkalinimo kolonija](../objektai/vietos/Pravieni%C5%A1ki%C5%B3%20%C4%AFkalinimo%20kolonija)
-- [Prienai](../objektai/vietos/Prienai)
-- [Pripetė](../objektai/vietos/Pripet%C4%97)
-- [Prūsai](../objektai/vietos/Pr%C5%ABsai)
-- [Prūsija](../objektai/vietos/Pr%C5%ABsija)
-- [Pskovas](../objektai/vietos/Pskovas)
-- [Punskas](../objektai/vietos/Punskas)
-- [Racionžas](../objektai/vietos/Racion%C5%BEas)
-- [Radomas](../objektai/vietos/Radomas)
-- [Radviliškis](../objektai/vietos/Radvili%C5%A1kis)
-- [Ragainė](../objektai/vietos/Ragain%C4%97)
-- [Raseiniai](../objektai/vietos/Raseiniai)
-- [Rastenburgas](../objektai/vietos/Rastenburgas)
-- [Riazanė](../objektai/vietos/Riazan%C4%97)
-- [Rokiškio apskritis](../objektai/vietos/Roki%C5%A1kio%20apskritis)
-- [Rostokas](../objektai/vietos/Rostokas)
-- [Rudava](../objektai/vietos/Rudava)
-- [Ruhro sritis](../objektai/vietos/Ruhro%20sritis)
-- [Rusija](../objektai/vietos/Rusija)
-- [Ryga](../objektai/vietos/Ryga)
-- [Rytprūsiai](../objektai/vietos/Rytpr%C5%ABsiai)
-- [Rytų Europa](../objektai/vietos/Ryt%C5%B3%20Europa)
-- [Rytų Lietuva](../objektai/vietos/Ryt%C5%B3%20Lietuva)
-- [Rytų Prūsija](../objektai/vietos/Ryt%C5%B3%20Pr%C5%ABsija)
-- [Rževas](../objektai/vietos/R%C5%BEevas)
-- [Saksonija](../objektai/vietos/Saksonija)
-- [Salaspilis](../objektai/vietos/Salaspilis)
-- [Salynas](../objektai/vietos/Salynas)
-- [Sandomiras](../objektai/vietos/Sandomiras)
-- [Sankt Peterburgas](../objektai/vietos/Sankt%20Peterburgas)
-- [Saremos](../objektai/vietos/Saremos)
-- [Seinai](../objektai/vietos/Seinai)
-- [Semba](../objektai/vietos/Semba)
-- [Senieji Trakai](../objektai/vietos/Senieji%20Trakai)
-- [Silezija](../objektai/vietos/Silezija)
-- [Simnas](../objektai/vietos/Simnas)
-- [Skirsnemunė](../objektai/vietos/Skirsnemun%C4%97)
-- [Slanimas](../objektai/vietos/Slanimas)
-- [Sluckas](../objektai/vietos/Sluckas)
-- [Sovietų Rusija](../objektai/vietos/Soviet%C5%B3%20Rusija)
-- [Stalupėnai](../objektai/vietos/Stalup%C4%97nai)
-- [Starodubas](../objektai/vietos/Starodubas)
-- [Stralsundas](../objektai/vietos/Stralsundas)
-- [Suvalkai](../objektai/vietos/Suvalkai)
-- [Suvalkų kraštas](../objektai/vietos/Suvalk%C5%B3%20kra%C5%A1tas)
-- [Talinas](../objektai/vietos/Talinas)
-- [Targovica](../objektai/vietos/Targovica)
-- [Tartu](../objektai/vietos/Tartu)
-- [Tauragė](../objektai/vietos/Taurag%C4%97)
-- [Taučiūnai](../objektai/vietos/Tau%C4%8Di%C5%ABnai)
-- [Tilžė](../objektai/vietos/Til%C5%BE%C4%97)
-- [Torno](../objektai/vietos/Torno)
-- [Trakai](../objektai/vietos/Trakai)
-- [Trakų pilis](../objektai/vietos/Trak%C5%B3%20pilis)
-- [Trakų vaivadija](../objektai/vietos/Trak%C5%B3%20vaivadija)
-- [Tula](../objektai/vietos/Tula)
-- [Turgeliai](../objektai/vietos/Turgeliai)
-- [Turkija](../objektai/vietos/Turkija)
-- [Turovas](../objektai/vietos/Turovas)
-- [Tverai](../objektai/vietos/Tverai)
-- [Tverė](../objektai/vietos/Tver%C4%97)
-- [Ukmergė](../objektai/vietos/Ukmerg%C4%97)
-- [Ukraina](../objektai/vietos/Ukraina)
-- [Upytė](../objektai/vietos/Upyt%C4%97)
-- [Utena](../objektai/vietos/Utena)
-- [Užnemunė](../objektai/vietos/U%C5%BEnemun%C4%97)
-- [Užpaliai](../objektai/vietos/U%C5%BEpaliai)
-- [Valkaviskas](../objektai/vietos/Valkaviskas)
-- [Valkininkai](../objektai/vietos/Valkininkai)
-- [Varmė](../objektai/vietos/Varm%C4%97)
-- [Varniai](../objektai/vietos/Varniai)
-- [Varėna](../objektai/vietos/Var%C4%97na)
-- [Varšuva](../objektai/vietos/Var%C5%A1uva)
-- [Varšuvos kunigaikštystė](../objektai/vietos/Var%C5%A1uvos%20kunigaik%C5%A1tyst%C4%97)
-- [Veliuona](../objektai/vietos/Veliuona)
-- [Veližas](../objektai/vietos/Veli%C5%BEas)
-- [Vengrija](../objektai/vietos/Vengrija)
-- [Verkiai](../objektai/vietos/Verkiai)
-- [Veršvai](../objektai/vietos/Ver%C5%A1vai)
-- [Viazma](../objektai/vietos/Viazma)
-- [Viduklė](../objektai/vietos/Vidukl%C4%97)
-- [Vidžemė](../objektai/vietos/Vid%C5%BEem%C4%97)
-- [Viena](../objektai/vietos/Viena)
-- [Vilkaviškis](../objektai/vietos/Vilkavi%C5%A1kis)
-- [Vilkija](../objektai/vietos/Vilkija)
-- [Vilniaus gubernija](../objektai/vietos/Vilniaus%20gubernija)
-- [Vilniaus katedra](../objektai/vietos/Vilniaus%20katedra)
-- [Vilniaus televizijos bokštas](../objektai/vietos/Vilniaus%20televizijos%20bok%C5%A1tas)
-- [Vitebskas](../objektai/vietos/Vitebskas)
-- [Vištyčio ežeras](../objektai/vietos/Vi%C5%A1ty%C4%8Dio%20e%C5%BEeras)
-- [Vladimiras](../objektai/vietos/Vladimiras)
-- [Vokietija](../objektai/vietos/Vokietija)
-- [Volkoviskas](../objektai/vietos/Volkoviskas)
-- [Voluinė](../objektai/vietos/Voluin%C4%97)
-- [Voronežas](../objektai/vietos/Vorone%C5%BEas)
-- [Vorskla](../objektai/vietos/Vorskla)
-- [Vyrgalės sala](../objektai/vietos/Vyrgal%C4%97s%20sala)
-- [Vysla](../objektai/vietos/Vysla)
-- [Vėluva](../objektai/vietos/V%C4%97luva)
-- [Zarasai](../objektai/vietos/Zarasai)
-- [Zaslavlis](../objektai/vietos/Zaslavlis)
-- [Čekija](../objektai/vietos/%C4%8Cekija)
-- [Černigovas](../objektai/vietos/%C4%8Cernigovas)
-- [Červinskas](../objektai/vietos/%C4%8Cervinskas)
-- [Čikaga](../objektai/vietos/%C4%8Cikaga)
-- [Įsrutis](../objektai/vietos/%C4%AEsrutis)
-- [Šafranovo dvaras](../objektai/vietos/%C5%A0afranovo%20dvaras)
-- [Šeduva](../objektai/vietos/%C5%A0eduva)
-- [Šeinfeldas](../objektai/vietos/%C5%A0einfeldas)
-- [Šešupė](../objektai/vietos/%C5%A0e%C5%A1up%C4%97)
-- [Šiauliai](../objektai/vietos/%C5%A0iauliai)
-- [Šiaulių ekonomija](../objektai/vietos/%C5%A0iauli%C5%B3%20ekonomija)
-- [Šiaurės Amerika](../objektai/vietos/%C5%A0iaur%C4%97s%20Amerika)
-- [Šiaurės Vakarų kraštas](../objektai/vietos/%C5%A0iaur%C4%97s%20Vakar%C5%B3%20kra%C5%A1tas)
-- [Šilutė](../objektai/vietos/%C5%A0ilut%C4%97)
-- [Širvintos](../objektai/vietos/%C5%A0irvintos)
-- [Švedija](../objektai/vietos/%C5%A0vedija)
-- [Šveicarija](../objektai/vietos/%C5%A0veicarija)
-- [Šventaragio slėnis](../objektai/vietos/%C5%A0ventaragio%20sl%C4%97nis)
-- [Šventoji](../objektai/vietos/%C5%A0ventoji)
-- [Švenčionys](../objektai/vietos/%C5%A0ven%C4%8Dionys)
-- [Griunvaldas](../objektai/vietos/Griunvaldas)
-- [Želva](../objektai/vietos/%C5%BDelva)
-- [Želvos ežerai](../objektai/vietos/%C5%BDelvos%20e%C5%BEerai)
-- [Žiemgala](../objektai/vietos/%C5%BDiemgala)
-- [Žiežmariai](../objektai/vietos/%C5%BDie%C5%BEmariai)
-- [Žitomiras](../objektai/vietos/%C5%BDitomiras)
-- [Žuvinto ežeras](../objektai/vietos/%C5%BDuvinto%20e%C5%BEeras)
+- [[objektai/vietos/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Afganistanas]]
+- [[objektai/vietos/Aistmarios]]
+- [[objektai/vietos/Alenšteinas]]
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]]
+- [[objektai/vietos/Ariogala]]
+- [[objektai/vietos/Astravos dvaras]]
+- [[objektai/vietos/Atėnai]]
+- [[objektai/vietos/Augustavo gubernija]]
+- [[objektai/vietos/Aukštaitija]]
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Baisogala]]
+- [[objektai/vietos/Bajerburgas]]
+- [[objektai/vietos/Baltijos jūra]]
+- [[objektai/vietos/Bazelis]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/vietos/Betygala]]
+- [[objektai/vietos/Biala]]
+- [[objektai/vietos/Birutės kalnas]]
+- [[objektai/vietos/Biržai]]
+- [[objektai/vietos/Braclavo sritis]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Breslauja]]
+- [[objektai/vietos/Brianskas]]
+- [[objektai/vietos/Briuselis]]
+- [[objektai/vietos/Butrimonys]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/vietos/Daugavgryva]]
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/vietos/Didžioji Lietuva]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/vietos/Druckas]]
+- [[objektai/vietos/Druja]]
+- [[objektai/vietos/Druskininkai]]
+- [[objektai/vietos/Dubingiai]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/vietos/Durbės ežeras]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Galvės ežeras]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/vietos/Gilgenburgas]]
+- [[objektai/vietos/Goras]]
+- [[objektai/vietos/Gorodnica]]
+- [[objektai/vietos/Grabova]]
+- [[objektai/vietos/Griunvaldas]]
+- [[objektai/vietos/Gudija]]
+- [[objektai/vietos/Gumbinė]]
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Jelgava]]
+- [[objektai/vietos/Jeruzalė]]
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/vietos/Juodoji Rusia]]
+- [[objektai/vietos/Juodoji Rusija]]
+- [[objektai/vietos/Jurbarkas]]
+- [[objektai/vietos/Kaišiadorys]]
+- [[objektai/vietos/Kaltinėnai]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/vietos/Kauno Laisvės alėja]]
+- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
+- [[objektai/vietos/Kernavė]]
+- [[objektai/vietos/Kleckas]]
+- [[objektai/vietos/Konstanca]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Kražiai]]
+- [[objektai/vietos/Kretinga]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/vietos/Kulmas]]
+- [[objektai/vietos/Kulmo žemė]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Kuršių marios]]
+- [[objektai/vietos/Kuršo gubernija]]
+- [[objektai/vietos/Kuršėnai]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/vietos/Labanoras]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Leipūnai]]
+- [[objektai/vietos/Liepoja]]
+- [[objektai/vietos/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Londonas]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Lukomlis]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Marienburgas]]
+- [[objektai/vietos/Marienverderis]]
+- [[objektai/vietos/Marijampolė]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Mažoji Azija]]
+- [[objektai/vietos/Mažoji Lenkija]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/vietos/Melno ežeras]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Merkinės dvaras]]
+- [[objektai/vietos/Merkys]]
+- [[objektai/vietos/Mielnikas]]
+- [[objektai/vietos/Moldavija]]
+- [[objektai/vietos/Mozyrius]]
+- [[objektai/vietos/Mozūrai]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/vietos/Mstislavlis]]
+- [[objektai/vietos/Mėlynieji Vandenys]]
+- [[objektai/vietos/Narevas]]
+- [[objektai/vietos/Narva]]
+- [[objektai/vietos/Naugardas Sieverskas]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Naujapilis]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Neris]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Niešava]]
+- [[objektai/vietos/Odesa]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Ortelsburgas]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Pabaltijys]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/vietos/Pamarys]]
+- [[objektai/vietos/Panemunė]]
+- [[objektai/vietos/Paneriai]]
+- [[objektai/vietos/Panevėžys]]
+- [[objektai/vietos/Pasvalys]]
+- [[objektai/vietos/Perekopas]]
+- [[objektai/vietos/Perloja]]
+- [[objektai/vietos/Petrapilis]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Pomeranija]]
+- [[objektai/vietos/Poznanė]]
+- [[objektai/vietos/Praga]]
+- [[objektai/vietos/Praha]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Prienai]]
+- [[objektai/vietos/Pripetė]]
+- [[objektai/vietos/Prūsų žemė]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Punskas]]
+- [[objektai/vietos/Racionžas]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Rastenburgas]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/vietos/Rokiškio apskritis]]
+- [[objektai/vietos/Rostokas]]
+- [[objektai/vietos/Rudava]]
+- [[objektai/vietos/Ruhro sritis]]
+- [[objektai/vietos/Rytprūsiai]]
+- [[objektai/vietos/Rytų Lietuva]]
+- [[objektai/vietos/Rytų Prūsija]]
+- [[objektai/vietos/Rževas]]
+- [[objektai/vietos/Saksonija]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/vietos/Sandomiras]]
+- [[objektai/vietos/Sankt Peterburgas]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Seinai]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Senieji Trakai]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/vietos/Simnas]]
+- [[objektai/vietos/Skirsnemunė]]
+- [[objektai/vietos/Sluckas]]
+- [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Stalupėnai]]
+- [[objektai/vietos/Starodubas]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/vietos/Targovica]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/vietos/Tauro kalnas]]
+- [[objektai/vietos/Taučiūnai]]
+- [[objektai/vietos/Torno]]
+- [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/vietos/Tula]]
+- [[objektai/vietos/Turgeliai]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Upytė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Užpaliai]]
+- [[objektai/vietos/Vakarų Europa]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Valkininkai]]
+- [[objektai/vietos/Varmė]]
+- [[objektai/vietos/Varniai]]
+- [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Veližas]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Verkiai]]
+- [[objektai/vietos/Viazma]]
+- [[objektai/vietos/Viduklė]]
+- [[objektai/vietos/Vidžemė]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilkaviškis]]
+- [[objektai/vietos/Vilkija]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/vietos/Vilniaus katedra]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/vietos/Vištyčio ežeras]]
+- [[objektai/vietos/Vladimiras]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Volkoviskas]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Voronežas]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/vietos/Vyrgalės sala]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/vietos/Vėluva]]
+- [[objektai/vietos/Zarasai]]
+- [[objektai/vietos/Zaslavlis]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/vietos/Černigovas]]
+- [[objektai/vietos/Červinskas]]
+- [[objektai/vietos/Įsrutis]]
+- [[objektai/vietos/Šeduva]]
+- [[objektai/vietos/Šeinfeldas]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Šiaulių ekonomija]]
+- [[objektai/vietos/Šiaurės Amerika]]
+- [[objektai/vietos/Šilutė]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Šveicarija]]
+- [[objektai/vietos/Šventaragio slėnis]]
+- [[objektai/vietos/Šventoji]]
+- [[objektai/vietos/Želva]]
+- [[objektai/vietos/Želvos ežerai]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/vietos/Žiemgala]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/vietos/Žitomiras]]
+- [[objektai/vietos/Žuvinto ežeras]]
 
 ### Įvykiai
-- [1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva](../objektai/ivykiai/1582%20m.%20sausio%2015%20d.%2010%20met%C5%B3%20karo%20paliaubos%20su%20Maskva)
-- [1926 m. gruodžio 17 d. perversmas Lietuvoje](../objektai/ivykiai/1926%20m.%20gruod%C5%BEio%2017%20d.%20perversmas%20Lietuvoje)
-- [Abiejų Tautų tarpusavio įžado priėmimas](../objektai/ivykiai/Abiej%C5%B3%20Taut%C5%B3%20tarpusavio%20%C4%AF%C5%BEado%20pri%C4%97mimas)
-- [Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20prie%C5%A1%20Maskv%C4%85%20%281368%2C%201370%2C%201372%20m.%29)
-- [Antrasis Respublikos padalinimas (1793 m.)](../objektai/ivykiai/Antrasis%20Respublikos%20padalinimas%20%281793%20m.%29)
-- [Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)](../objektai/ivykiai/Auk%C5%A1%C4%8Diausiosios%20Tarybos%20r%C5%ABm%C5%B3%20gynyba%20%281991%20m.%20sausis%E2%80%93rugpj%C5%ABtis%29)
-- [Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)](../objektai/ivykiai/Bermontinink%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Lietuv%C4%85%20%281919%20m.%20liepos%2026%20d.%29)
-- [Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)](../objektai/ivykiai/Chotino%20m%C5%AB%C5%A1is%20%281621%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20spalio%2010%20d.%29)
-- [Gedimino taikos sutartis su Livonija (1322 m.)](../objektai/ivykiai/Gedimino%20taikos%20sutartis%20su%20Livonija%20%281322%20m.%29)
-- [Gegužės trečiosios konstitucijos priėmimas](../objektai/ivykiai/Gegu%C5%BE%C4%97s%20tre%C4%8Diosios%20konstitucijos%20pri%C4%97mimas)
-- [Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)](../objektai/ivykiai/Generalini%C5%B3%20tar%C4%97j%C5%B3%20ir%20Tautos%20tarybos%20SS%20dalinio%20plano%20atmetimas%20%281943%20m.%20lapkri%C4%8Dio%2023-24%20d.%29)
-- [III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)](../objektai/ivykiai/III%20Seimo%20daugumos%20demokratin%C4%97s%20reformos%20%281926%20m.%20bir%C5%BEelio%2017%20d.%29)
-- [JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)](../objektai/ivykiai/JAV%20prezidento%20D%C5%BEord%C5%BEo%20Bu%C5%A1o%20kalba%20Vilniuje%20d%C4%97l%20Lietuvos%20saugumo%20%282002%20m.%20lapkri%C4%8Dio%2023%20d.%29)
-- [Kalniškės mūšis (1945 m. gegužės 16-17 d.)](../objektai/ivykiai/Kalni%C5%A1k%C4%97s%20m%C5%AB%C5%A1is%20%281945%20m.%20gegu%C5%BE%C4%97s%2016-17%20d.%29)
-- [Ketverių metų seimas (1788–1792 m.)](../objektai/ivykiai/Ketveri%C5%B3%20met%C5%B3%20seimas%20%281788%E2%80%931792%20m.%29)
-- [Kijevo Jaroslavo žygis į Lietuvą (1040 m.)](../objektai/ivykiai/Kijevo%20Jaroslavo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281040%20m.%29)
-- [Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)](../objektai/ivykiai/Kijevo%20Jaroslavo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Naugarduko%20%C4%AFk%C5%ABrimas%20%281044%20m.%29)
-- [Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)](../objektai/ivykiai/Klaip%C4%97dos%20naci%C5%B3%20teismas%20Kaune%20%281934%20m.%20liepa%20-%201935%20m.%20kovas%29)
-- [Klaipėdos prisijungimas prie Lietuvos (1923 m.)](../objektai/ivykiai/Klaip%C4%97dos%20prisijungimas%20prie%20Lietuvos%20%281923%20m.%29)
-- [Kuoknesės mūšis (1601 m. birželio 23 d.)](../objektai/ivykiai/Kuoknes%C4%97s%20m%C5%AB%C5%A1is%20%281601%20m.%20bir%C5%BEelio%2023%20d.%29)
-- [Kėdainių sutarties sudarymas su Švedija](../objektai/ivykiai/K%C4%97daini%C5%B3%20sutarties%20sudarymas%20su%20%C5%A0vedija)
-- [Lietuvių raštijos tradiciniu raidynu draudimo pradžia](../objektai/ivykiai/Lietuvi%C5%B3%20ra%C5%A1tijos%20tradiciniu%20raidynu%20draudimo%20prad%C5%BEia)
-- [Lietuvos Brastos mūšis (1792 m. liepos 23 d.)](../objektai/ivykiai/Lietuvos%20Brastos%20m%C5%AB%C5%A1is%20%281792%20m.%20liepos%2023%20d.%29)
-- [Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)](../objektai/ivykiai/Lietuvos%20dalin%C4%97%20mobilizacija%20SSRS%20%C4%AFsiver%C5%BEus%20%C4%AF%20Lenkij%C4%85%20%281939%20m.%20rugs%C4%97jo%2017%20d.%29)
-- [Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)](../objektai/ivykiai/Lietuvos%20Helsinkio%20grup%C4%97s%20%C4%AFk%C5%ABrimas%20Vilniuje%20%281976%20m.%20ruduo%29)
-- [Lietuvos krikštas](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas)
-- [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
-- [Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)](../objektai/ivykiai/Lietuvos%20kunig%C5%B3%20sutartis%20su%20Volinijos%20kunigaik%C5%A1%C4%8Dio%20Romano%20na%C5%A1le%20%281219%20m.%29)
-- [Lietuvos nepriklausomybės atkūrimas (1990 III 11)](../objektai/ivykiai/Lietuvos%20nepriklausomyb%C4%97s%20atk%C5%ABrimas%20%281990%20III%2011%29)
-- [Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)](../objektai/ivykiai/Lietuvos%20nepriklausomyb%C4%97s%20atk%C5%ABrimas%20ir%20Kovo%2011%20Aktas%20%281990%20m.%20kovo%2011%20d.%29)
-- [Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)](../objektai/ivykiai/Lietuvos%20partizaninis%20karas%20d%C4%97l%20nepriklausomyb%C4%97s%20atk%C5%ABrimo%20%281944%E2%80%931953%20m.%29)
-- [Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)](../objektai/ivykiai/Lietuvos%20partizan%C5%B3%20pasiprie%C5%A1inimas%20SSRS%20%281945-1953%20m.%29)
-- [Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)](../objektai/ivykiai/Lietuvos%20tapimas%20visateise%20NATO%20nare%20%282004%20m.%20kovo%2029%20d.%29)
-- [Lietuvos valstybės susikūrimas apie 1240 m](../objektai/ivykiai/Lietuvos%20valstyb%C4%97s%20susik%C5%ABrimas%20apie%201240%20m)
-- [Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)](../objektai/ivykiai/Lietuvos%20vyr%C5%B3%20krep%C5%A1inio%20rinktin%C4%97s%20antroji%20pergal%C4%97%20Europos%20%C4%8Dempionate%20Kaune%20%281939%20m.%29)
-- [Lietuvos įstojimas į ES ir NATO (2004 m.)](../objektai/ivykiai/Lietuvos%20%C4%AFstojimas%20%C4%AF%20ES%20ir%20NATO%20%282004%20m.%29)
-- [Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)](../objektai/ivykiai/Lietuvos%20%C4%AFstojimas%20%C4%AF%20Europos%20S%C4%85jung%C4%85%20%282004%20m.%20gegu%C5%BE%C4%97s%201%20d.%29)
-- [Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)](../objektai/ivykiai/Lietuvos%20%C5%BEem%C4%97s%20%C5%ABkio%20kolektyvizacija%20%281948%E2%80%931952%20m.%29)
-- [Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)](../objektai/ivykiai/Liublino%20unijos%20akto%20pri%C4%97mimas%20ir%20patvirtinimas%20%281569%20m.%29)
-- [Magdeburgo teisių suteikimas Lietuvos miestams](../objektai/ivykiai/Magdeburgo%20teisi%C5%B3%20suteikimas%20Lietuvos%20miestams)
-- [Merkinės puolimas (1945 m. gruodžio 15 d.)](../objektai/ivykiai/Merkin%C4%97s%20puolimas%20%281945%20m.%20gruod%C5%BEio%2015%20d.%29)
-- [Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)](../objektai/ivykiai/Michailo%20Gorba%C4%8Diovo%20vizitas%20%C4%AF%20Lietuv%C4%85%20%281990%20m.%20sausio%2011%E2%80%9313%20d.%29)
-- [Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)](../objektai/ivykiai/Mindaugo%20ir%20Livonijos%20ordino%20taika%20bei%20Mindaugo%20krik%C5%A1tas%20%281250%20m.%20gale%20%E2%80%93%201251%20m.%20prad%C5%BEia%29)
-- [Mindaugo krikštas](../objektai/ivykiai/Mindaugo%20krik%C5%A1tas)
-- [Mėlynųjų Vandenų mūšis (1362 m.)](../objektai/ivykiai/M%C4%97lyn%C5%B3j%C5%B3%20Vanden%C5%B3%20m%C5%AB%C5%A1is%20%281362%20m.%29)
-- [Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)](../objektai/ivykiai/Pirmasis%20Vilniaus%20kra%C5%A1to%20okupavimas%20%281919%20m.%20baland%C5%BEio%2019%20d.%29)
-- [Racionžo taika (1404 m.)](../objektai/ivykiai/Racion%C5%BEo%20taika%20%281404%20m.%29)
-- [Radviliškio kautynės (1919 m. lapkričio 21–22 d.)](../objektai/ivykiai/Radvili%C5%A1kio%20kautyn%C4%97s%20%281919%20m.%20lapkri%C4%8Dio%2021%E2%80%9322%20d.%29)
-- [Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje](../objektai/ivykiai/Rusijos%20vietinio%20valdymo%20sistemos%20%C4%AFvedimas%20aneksuotoje%20LDK%20dalyje)
-- [Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)](../objektai/ivykiai/Rygos%20arkivyskupo%20interdiktas%20ordinui%20u%C5%BE%20Lietuvos%20krik%C5%A1to%20sutrukdym%C4%85%20%281325%20m.%29)
-- [S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)](../objektai/ivykiai/S.%20Lozorai%C4%8Dio%20slapto%20memorandumo%20%C4%AFteikimas%20A.%20Smetonai%20%281935%20m.%20balandis%29)
-- [Sausio 13-oji (1991 m.)](../objektai/ivykiai/Sausio%2013-oji%20%281991%20m.%29)
-- [Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)](../objektai/ivykiai/Sausio%2013-oji%20ir%20Vilniaus%20televizijos%20bok%C5%A1to%20%C5%A1turmas%20%281991%20m.%20sausio%2012%E2%80%9313%20d.%29)
-- [Sovietinė Lietuvos reokupacija (1944 m. vasara)](../objektai/ivykiai/Sovietin%C4%97%20Lietuvos%20reokupacija%20%281944%20m.%20vasara%29)
-- [Sovietinė Lietuvos reokupacija (1944 m.)](../objektai/ivykiai/Sovietin%C4%97%20Lietuvos%20reokupacija%20%281944%20m.%29)
-- [Taika su Sovietų Rusija (1920 m. liepos 12 d.)](../objektai/ivykiai/Taika%20su%20Soviet%C5%B3%20Rusija%20%281920%20m.%20liepos%2012%20d.%29)
-- [Žalgirio mūšis (1410 m.)](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is%20%281410%20m.%29)
-- [Targovicos konfederacija (1792—1793 m.)](../objektai/ivykiai/Targovicos%20konfederacija%20%281792%E2%80%941793%20m.%29)
-- [Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)](../objektai/ivykiai/Tautai%20ir%20valstybei%20saugoti%20%C4%AFstatymo%20pri%C4%97mimas%20ir%20naci%C5%B3%20organizacij%C5%B3%20u%C5%BEdraudimas%20%281934%20m.%29)
-- [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)
-- [Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)](../objektai/ivykiai/Valkinink%C5%B3%20konfederacija%20ir%20Sapieg%C5%B3%20pralaim%C4%97jimas%20%281700%20m.%29)
-- [Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)](../objektai/ivykiai/Vilniaus%20pokalbiai%20su%20popie%C5%BEiaus%20legatais%20d%C4%97l%20Lietuvos%20krik%C5%A1to%20%281324%20m.%20gegu%C5%BE%C4%97s%20gale%29)
-- [Vilniaus vyskupystės įkūrimas](../objektai/ivykiai/Vilniaus%20vyskupyst%C4%97s%20%C4%AFk%C5%ABrimas)
-- [Vilniaus-Radomo susitarimas](../objektai/ivykiai/Vilniaus-Radomo%20susitarimas)
-- [Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)](../objektai/ivykiai/Vokietijos%20ultimatumas%20ir%20Klaip%C4%97dos%20kra%C5%A1to%20perdavimas%20Vokietijai%20%281939%20m.%20kovo%2020-23%20d.%29)
-- [Vorsklos mūšis](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is)
-- [Vorsklos mūšis (1399 m. rugpjūčio 12 d.)](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is%20%281399%20m.%20rugpj%C5%AB%C4%8Dio%2012%20d.%29)
-- [Vytauto karūnacijos byla (1429–1430 m.)](../objektai/ivykiai/Vytauto%20kar%C5%ABnacijos%20byla%20%281429%E2%80%931430%20m.%29)
-- [Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygiai%20prie%20Juodosios%20j%C5%ABros%20ir%20Krymo%20%281397%E2%80%931398%20m.%29)
-- [Šklovo mūšis (1654 m. rugpjūčio 12 d.)](../objektai/ivykiai/%C5%A0klovo%20m%C5%AB%C5%A1is%20%281654%20m.%20rugpj%C5%AB%C4%8Dio%2012%20d.%29)
-- [Žalgirio mūšis](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is)
-- [Žemaičių sukilimas 1418 m](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20sukilimas%201418%20m)
-- [Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)](../objektai/ivykiai/%C5%BDuvinto%20Pali%C5%B3%20kautyn%C4%97s%20%281945%20m.%20rugpj%C5%AB%C4%8Dio%206-12%20d.%29)
-- [„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)](../objektai/ivykiai/%E2%80%9ELietuvos%20katalik%C5%B3%20ba%C5%BEny%C4%8Dios%20kronikos%E2%80%9C%20leidimo%20prad%C5%BEia%20%281972%20m.%20kovo%2019%20d.%29)
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
+- [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
+- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
+- [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
+- [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija|Kėdainių sutarties sudarymas su Švedija (sutartis)]]
+- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
+- [[objektai/ivykiai/Lietuvos krepšinio rinktinių Europos čempionatų laimėjimai (1995, 1997 ir 2003 m.)]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]
+- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
+- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
+- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/ivykiai/Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)]]
+- [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
+- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
+- [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
+- [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
+- [[objektai/ivykiai/Taika su Sovietų Rusija (1920 m. liepos 12 d.)]]
+- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1418 m|Žemaičių sukilimas 1418 m (sukilimas)]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+
+### Šaltiniai
+- [[objektai/saltiniai/1918–1940 m. Lietuvos žemėlapis]]
+- [[objektai/saltiniai/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)]]
+- [[objektai/saltiniai/Alma Mater Vilnensis Vilniaus universiteto istorijos bruožai]]
+- [[objektai/saltiniai/Antanas Smetona ir jo aplinka]]
+- [[objektai/saltiniai/Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje]]
+- [[objektai/saltiniai/Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus]]
+- [[objektai/saltiniai/Aušra]]
+- [[objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede|Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją]]
+- [[objektai/saltiniai/Bučačo taikos sutartis (1672 m.)]]
+- [[objektai/saltiniai/Codex Diplomaticus Prussicus]]
+- [[objektai/saltiniai/Daugel krito sūnų]]
+- [[objektai/saltiniai/Detmaro Liubeko kronikos tęsinys]]
+- [[objektai/saltiniai/Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)]]
+- [[objektai/saltiniai/Eilėtoji Livonijos kronika]]
+- [[objektai/saltiniai/Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes]]
+- [[objektai/saltiniai/Generolas Silvestras Žukauskas (1861-1937)]]
+- [[objektai/saltiniai/Grigaliaus XIII bulė dėl Vilniaus kolegijos patvirtinimo universitetu]]
+- [[objektai/saltiniai/Hermano Vartbergės Livonijos kronika]]
+- [[objektai/saltiniai/Historiarum liber VII adversus paganos]]
+- [[objektai/saltiniai/J. Caro, Geschichte Polens]]
+- [[objektai/saltiniai/J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes]]
+- [[objektai/saltiniai/Jadvygos laiškas Vytautui (1398 m.)]]
+- [[objektai/saltiniai/Jaunoji Lietuva]]
+- [[objektai/saltiniai/Juozo Miliausko prisiminimai]]
+- [[objektai/saltiniai/Jučas M., The Battle of Grünwald]]
+- [[objektai/saltiniai/Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.)]]
+- [[objektai/saltiniai/Karo Archyvas]]
+- [[objektai/saltiniai/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)]]
+- [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas]]
+- [[objektai/saltiniai/Klaipėdos konvencija]]
+- [[objektai/saltiniai/Kovų istorijos II knyga XX amžius]]
+- [[objektai/saltiniai/Krašto apsaugos savanorių pajėgos]]
+- [[objektai/saltiniai/Kėdainių sutartis su Švedija (1655 m.)]]
+- [[objektai/saltiniai/Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)]]
+- [[objektai/saltiniai/Lietuva 1009–2009]]
+- [[objektai/saltiniai/Lietuva 1938–1939 m. Neutraliteto iliuzijos]]
+- [[objektai/saltiniai/Lietuva žemėlapiuose (2011 m.)]]
+- [[objektai/saltiniai/Lietuva žemėlapiuose = Lithuania on the map]]
+- [[objektai/saltiniai/Lietuva, 1940–1990 okupuotos Lietuvos istorija]]
+- [[objektai/saltiniai/Lietuvių kalbos žodynas]]
+- [[objektai/saltiniai/Lietuvos diduomenė XIV a. pabaigoje - XV a. Sudėtis - struktūra - valdžia]]
+- [[objektai/saltiniai/Lietuvos Didžiosios Kunigaikštystės Knyga]]
+- [[objektai/saltiniai/Lietuvos diplomatija nuo 1990 m. kovo 11]]
+- [[objektai/saltiniai/Lietuvos diplomatijos istorija (1925–1940)]]
+- [[objektai/saltiniai/Lietuvos fotografija vakar ir šiandien ’09 Lietuvos Tūkstantmečio veidas]]
+- [[objektai/saltiniai/Lietuvos Metraštis]]
+- [[objektai/saltiniai/Lietuvos metraštis (Bychovco kronika)]]
+- [[objektai/saltiniai/Lietuvos Seimo istorija XX–XXI a. pradžia]]
+- [[objektai/saltiniai/LLKS deklaracija (1949 m. vasario 16 d.)]]
+- [[objektai/saltiniai/M. Strijkovskio kronika]]
+- [[objektai/saltiniai/Michał Baliński jako mecenas polsko-litewskich więzi kulturowych]]
+- [[objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.)]]
+- [[objektai/saltiniai/Napoleono kodeksas]]
+- [[objektai/saltiniai/Naujosios Prūsijos žemės kronika]]
+- [[objektai/saltiniai/Ništato sutartis (1721 m.)]]
+- [[objektai/saltiniai/Opis obyczajów za panowania Augusta III]]
+- [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
+- [[objektai/saltiniai/Pasipriešinimo istorija. 1944–1953 metai]]
+- [[objektai/saltiniai/Per barzdą varvėjo svaigiųjų gėrimų istorija Lietuvoje]]
+- [[objektai/saltiniai/Prūsijos žemės kronika]]
+- [[objektai/saltiniai/S. Dariaus ir S. Girėno laiškas prieš skrydį]]
+- [[objektai/saltiniai/Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda)]]
+- [[objektai/saltiniai/SS dalinio organizavimo planas]]
+- [[objektai/saltiniai/Stojimo į Europos Sąjungą sutartis]]
+- [[objektai/saltiniai/Tautų Sąjungos Statutas]]
+- [[objektai/saltiniai/Torno taika (1411 m.)]]
+- [[objektai/saltiniai/Tėvynės sargas]]
+- [[objektai/saltiniai/Vasario 16 Aktas]]
+- [[objektai/saltiniai/Vilniaus klasicizmas]]
+- [[objektai/saltiniai/Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais]]
+- [[objektai/saltiniai/Volumina Legum]]
+- [[objektai/saltiniai/Vytautas Didysis (M. Jučas)]]
+- [[objektai/saltiniai/Ziemia Smoleńska i województwo smoleńskie XIV–XVIII wiek]]
+- [[objektai/saltiniai/Čiurlionis Vilniuje]]
+- [[objektai/saltiniai/Šlovė žemaičių]]
+- [[objektai/saltiniai/Žemaičių vyskupų portretų galerija]]
 
 ### Žodynas
-- [aneksija](../objektai/zodynas/aneksija)
-- [Antisemitizmas](../objektai/zodynas/Antisemitizmas)
-- [apostazija](../objektai/zodynas/apostazija)
-- [apsaugos raštas](../objektai/zodynas/apsaugos%20ra%C5%A1tas)
-- [apsigynimo ir puolimo sutartis](../objektai/zodynas/apsigynimo%20ir%20puolimo%20sutartis)
-- [apsikarūnavimas](../objektai/zodynas/apsikar%C5%ABnavimas)
-- [bajoriškoji demokratija](../objektai/zodynas/bajori%C5%A1koji%20demokratija)
-- [baskakas](../objektai/zodynas/baskakas)
-- [Baudžiava](../objektai/zodynas/Baud%C5%BEiava)
-- [bažnytinė provincija](../objektai/zodynas/ba%C5%BEnytin%C4%97%20provincija)
-- [chiefdom / vadystė](../objektai/zodynas/chiefdom%20vadyst%C4%97)
-- [civilinis aktas](../objektai/zodynas/civilinis%20aktas)
-- [de jure](../objektai/zodynas/de%20jure)
-- [demarkacijos linija](../objektai/zodynas/demarkacijos%20linija)
-- [diarchija](../objektai/zodynas/diarchija)
-- [didysis magistras](../objektai/zodynas/didysis%20magistras)
-- [dykra](../objektai/zodynas/dykra)
-- [etnografinė siena](../objektai/zodynas/etnografin%C4%97%20siena)
-- [fraternitas](../objektai/zodynas/fraternitas)
-- [generaliniai tarėjai](../objektai/zodynas/generaliniai%20tar%C4%97jai)
-- [inkorporacija](../objektai/zodynas/inkorporacija)
-- [kapitula](../objektai/zodynas/kapitula)
-- [karakolė](../objektai/zodynas/karakol%C4%97)
-- [kaštelionas](../objektai/zodynas/ka%C5%A1telionas)
-- [Kerzono linija](../objektai/zodynas/Kerzono%20linija)
-- [kitatikiai](../objektai/zodynas/kitatikiai)
-- [komtūras](../objektai/zodynas/komt%C5%ABras)
-- [konfederacija](../objektai/zodynas/konfederacija)
-- [konsiliumas](../objektai/zodynas/konsiliumas)
-- [kontrevoliucija](../objektai/zodynas/kontrevoliucija)
-- [kontribucija](../objektai/zodynas/kontribucija)
-- [kryžiaus karas](../objektai/zodynas/kry%C5%BEiaus%20karas)
-- [kultūrinė autonomija](../objektai/zodynas/kult%C5%ABrin%C4%97%20autonomija)
-- [kunigaikštija](../objektai/zodynas/kunigaik%C5%A1tija)
-- [lenkų pradų naikinimo politika](../objektai/zodynas/lenk%C5%B3%20prad%C5%B3%20naikinimo%20politika)
-- [Liberum veto](../objektai/zodynas/Liberum%20veto)
-- [Lietuviška Lietuva](../objektai/zodynas/Lietuvi%C5%A1ka%20Lietuva)
-- [lotyniškasis krikštas](../objektai/zodynas/lotyni%C5%A1kasis%20krik%C5%A1tas)
-- [luomas](../objektai/zodynas/luomas)
-- [Magdeburgo teisės](../objektai/zodynas/Magdeburgo%20teis%C4%97s)
-- [metropolija](../objektai/zodynas/metropolija)
-- [metropolitas](../objektai/zodynas/metropolitas)
-- [neofitas](../objektai/zodynas/neofitas)
-- [neutralitetas](../objektai/zodynas/neutralitetas)
-- [neutralizacija](../objektai/zodynas/neutralizacija)
-- [nuncijas](../objektai/zodynas/nuncijas)
-- [organas](../objektai/zodynas/organas)
-- [pagonybė](../objektai/zodynas/pagonyb%C4%97)
-- [paliaubos](../objektai/zodynas/paliaubos)
-- [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
-- [pereinamasis laikotarpis](../objektai/zodynas/pereinamasis%20laikotarpis)
-- [petihorai](../objektai/zodynas/petihorai)
-- [piastas](../objektai/zodynas/piastas)
-- [poliublininis laikotarpis](../objektai/zodynas/poliublininis%20laikotarpis)
-- [proistorė](../objektai/zodynas/proistor%C4%97)
-- [Rašliava](../objektai/zodynas/Ra%C5%A1liava)
-- [rotmistras](../objektai/zodynas/rotmistras)
-- [saar](../objektai/zodynas/saar)
-- [samozvancas](../objektai/zodynas/samozvancas)
-- [separatinės taikos derybos](../objektai/zodynas/separatin%C4%97s%20taikos%20derybos)
-- [statuto dėsniai](../objektai/zodynas/statuto%20d%C4%97sniai)
-- [taikos suvažiavimai](../objektai/zodynas/taikos%20suva%C5%BEiavimai)
-- [tautinis atgimimas](../objektai/zodynas/tautinis%20atgimimas)
-- [tautinis krikštas](../objektai/zodynas/tautinis%20krik%C5%A1tas)
-- [tautinė sąmonė](../objektai/zodynas/tautin%C4%97%20s%C4%85mon%C4%97)
-- [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
-- [tranzitas](../objektai/zodynas/tranzitas)
-- [vaivada](../objektai/zodynas/vaivada)
-- [Vakarų Bažnyčios schizma](../objektai/zodynas/Vakar%C5%B3%20Ba%C5%BEny%C4%8Dios%20schizma)
-- [vasalas](../objektai/zodynas/vasalas)
-- [vietininkas](../objektai/zodynas/vietininkas)
-- [vokiečių ateivių valstybė](../objektai/zodynas/vokie%C4%8Di%C5%B3%20ateivi%C5%B3%20valstyb%C4%97)
-- [vėliava](../objektai/zodynas/v%C4%97liava)
-- [įkaitai](../objektai/zodynas/%C4%AFkaitai)
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/apsaugos raštas]]
+- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/Auksinas (sąvoka)]]
+- [[objektai/zodynas/bajoriškoji demokratija]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/zodynas/civilinis aktas]]
+- [[objektai/zodynas/de jure]]
+- [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/etnografinė siena]]
+- [[objektai/zodynas/fraternitas]]
+- [[objektai/zodynas/hwirfingsdryckia (sąvoka)]]
+- [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/karakolė]]
+- [[objektai/zodynas/Kerzono linija]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/konsiliumas]]
+- [[objektai/zodynas/kontrevoliucija]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/zodynas/Korporatyvinė bendrystė]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/zodynas/Lietuviška Lietuva]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/neofitas]]
+- [[objektai/zodynas/neutralitetas]]
+- [[objektai/zodynas/neutralizacija]]
+- [[objektai/zodynas/organas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/pastočiai]]
+- [[objektai/zodynas/pereinamasis laikotarpis]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/zodynas/piastas]]
+- [[objektai/zodynas/Rašliava]]
+- [[objektai/zodynas/Restitucija]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/separatinės taikos derybos]]
+- [[objektai/zodynas/statuto dėsniai]]
+- [[objektai/zodynas/taikos suvažiavimai]]
+- [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
+- [[objektai/zodynas/tautinė sąmonė]]
+- [[objektai/zodynas/tranzitas]]
+- [[objektai/zodynas/twimenning (sąvoka)]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/vokiečių ateivių valstybė]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/įkaitai]]

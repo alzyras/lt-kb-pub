@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66451"></a>
-- t-003
+- t-001
   teiginys: "1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

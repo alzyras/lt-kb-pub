@@ -57,7 +57,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174075
 
 <a id="claim-t-191196"></a>
-- t-004
+- t-002
   teiginys: "Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174078
 
 <a id="claim-t-191980"></a>
-- t-006
+- t-003
   teiginys: "Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174862
 
 <a id="claim-t-194920"></a>
-- t-007
+- t-004
   teiginys: "Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok ti, — tas kalnas turėtų būti Minsko gubernijojell!"
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-174862
   autorius: "Teodoras Narbutas"
@@ -180,7 +180,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-177316
   autorius: "Teodoras Narbutas"
@@ -199,4 +199,4 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004

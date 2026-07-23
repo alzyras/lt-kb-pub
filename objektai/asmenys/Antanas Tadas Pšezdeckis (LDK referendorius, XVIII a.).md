@@ -73,8 +73,7 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183853
-- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200485|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis.
-- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200485|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis.
+
 ## Citatos
 
 - id: c-183853

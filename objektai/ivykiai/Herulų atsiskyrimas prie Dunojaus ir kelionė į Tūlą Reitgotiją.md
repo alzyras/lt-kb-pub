@@ -111,11 +111,11 @@ Nenurodyta
     kia lietuvių genčių gyvenamus pamario kraštus4, prie
     kurių priklausė ir H i r i j a (§ 240).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-003
 
 ## Citatos
 

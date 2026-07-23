@@ -56,7 +56,7 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai paremtas citata apie Bajazito kariuomenės pergalę."
   pagrindžia:
     - c-44307
-- susijęs iš Kijevo Rusia: Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.
+
 ## Citatos
 
 - id: c-44307

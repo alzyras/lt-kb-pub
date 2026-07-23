@@ -29,7 +29,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 ## Teiginiai
 
 <a id="claim-t-88264"></a>
-- t-002
+- t-001
   teiginys: "Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
     - c-84244
 
 <a id="claim-t-88265"></a>
-- t-001
+- t-002
   teiginys: "Mykolo Balinskio kovoje dėl istorijos T. Narbuto veikalas tapo pavyzdžiu, kaip nereikia rašyti istorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-84244
   autorius: "Michał Baliński"
@@ -101,4 +101,4 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

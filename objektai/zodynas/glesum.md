@@ -45,10 +45,7 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
   semantiniai_rysiai: "Aušrėnai gyveno Baltija (0.90)"
   pagrindžia:
     - c-28490
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
-- susijęs iš [[objektai/grupes/Svebai.md#claim-t-28669|Svebai]]: Tacitas teigė, kad Aestii papročiais ir išore buvo panašūs į svebus.
-- susijęs iš [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai ».md#claim-t-28704|Jie « papročiais ir savo išore yra kaip svebai »]]: Tacitas rašė, kad Aestii papročiais ir išore buvo panašūs į svebus, bet jų kalba esanti artimesnė britų kalbai.
+
 ## Citatos
 
 - id: c-28490

@@ -64,10 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60321
-- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
-- susijęs iš [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md#claim-t-66480|Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]: Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.
-- susijęs iš Ašmenos pavietas: M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete.
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58787|kuoras propugnaculum pilaitė]]: Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus.
+
 ## Citatos
 
 - id: c-60321

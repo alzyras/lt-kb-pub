@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89427"></a>
-- t-002
+- t-001
   teiginys: "Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Gyvatgalviai kapliai priklausė Baltai (0.76)"
   pagrindžia:
     - c-85387
-- susijęs iš Lietuvos archeologijos bruožai: Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.
+
 ## Citatos
 
 - id: c-85387
@@ -86,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

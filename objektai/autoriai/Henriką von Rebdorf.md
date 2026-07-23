@@ -54,7 +54,7 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32944
-- susijęs iš Henriko von Rebdorfo kronika: Henriko von Rebdorfo kronika mini, kad 1358 m. liepą Lietuvos karalius pas imperatorių atsiuntė savo brolį.
+
 ## Citatos
 
 - id: c-32944

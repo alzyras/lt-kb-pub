@@ -54,8 +54,7 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-87595
-- susijęs iš Sakso Gramatiko Danijos istorija: Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis.
-- susijęs iš [[objektai/zodynas/rutėnai Rutheni.md#claim-t-58831|rutėnai Rutheni]]: Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.
+
 ## Citatos
 
 - id: c-87595

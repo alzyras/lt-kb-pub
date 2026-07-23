@@ -53,8 +53,7 @@ Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-44780
-- susijęs iš [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.).md#claim-t-39147|LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]: 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada.
-- susijęs iš Šiauliai: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.
+
 ## Citatos
 
 - id: c-44780

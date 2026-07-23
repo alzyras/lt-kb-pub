@@ -44,9 +44,7 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82548
-- susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
-- susijęs iš [[objektai/asmenys/Pisonas.md#claim-t-186248|Pisonas]]: Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą.
-- susijęs iš [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas.md#claim-t-185921|Pasienio kelių saugojimas ir keleivių kratymas]]: Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.
+
 ## Citatos
 
 - id: c-82548

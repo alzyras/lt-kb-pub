@@ -7,13 +7,13 @@ datos:
   - '1263 m.'
 date_start: '1263'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paminklas
   - daiktas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,11 +87,10 @@ Nenurodyta
     j šiaurės rytus nuo Daugpilio. Iki XVII a. pradžios Agluonos vie­
     nuolyno buvusi marmurinė antkapinė lenta su atitinkamu užrašu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170040

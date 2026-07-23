@@ -29,7 +29,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
 ## Teiginiai
 
 <a id="claim-t-78116"></a>
-- t-002
+- t-001
   teiginys: "Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
     - c-75424
 
 <a id="claim-t-78117"></a>
-- t-001
+- t-002
   teiginys: "Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-75424
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -99,4 +99,4 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

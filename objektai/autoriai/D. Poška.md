@@ -11,15 +11,15 @@ datos:
   - '1829 m.'
 date_start: '1818'
 date_end: '1829'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 ## Teiginiai
 
 <a id="claim-t-05729"></a>
-- t-002
+- t-001
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-06625
 
 <a id="claim-t-05730"></a>
-- t-001
+- t-002
   teiginys: "D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-171289
 
 <a id="claim-t-190695"></a>
-- t-006
+- t-005
   teiginys: "Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-173577
 
 <a id="claim-t-193582"></a>
-- t-007
+- t-006
   teiginys: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-176257
 
 <a id="claim-t-197288"></a>
-- t-008
+- t-007
   teiginys: "Poška, rašydamas šį straipsnį, turėjo omenyje kokį nors konkretų asmenį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -165,7 +165,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-179106
 
 <a id="claim-t-197585"></a>
-- t-009
+- t-008
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -175,9 +175,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173577
-- susijęs iš [[objektai/autoriai/S. Stanevičius.md#claim-t-01132|S. Stanevičius]]: S. Stanevičius išleido lietuviškų dainų rinkinį.
-- susijęs iš [[objektai/daiktai/D. Poškos Baublys.md#claim-t-07520|D. Poškos Baublys]]: D. Poška savo Baublyje įtaisė senienų muziejų.
-- susijęs iš [[objektai/autoriai/K. Zabitis Nezabitauskas.md#claim-t-05735|K. Zabitis Nezabitauskas]]: K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti.'
@@ -218,7 +216,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-06625
@@ -244,7 +241,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-06627
   redaktorius: "A. Šapoka"
@@ -264,7 +261,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-171288
   autorius: "Teodoras Narbutas"
@@ -329,8 +326,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-009
+    - t-005
+    - t-008
 
 - id: c-176257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -353,7 +350,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-179106
   autorius: "Teodoras Narbutas"
@@ -373,4 +370,4 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

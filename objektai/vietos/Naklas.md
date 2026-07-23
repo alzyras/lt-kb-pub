@@ -44,8 +44,7 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59339
-- susijęs iš [[objektai/ivykiai/Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas.md#claim-t-62883|Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas (pilis, XIII a.)]]: Kariuomenė prie Naklo pilies įsirengė stovyklą ir apsiausties įtaisus, todėl pilėnai atidavė pilį broliams su sąlyga išeiti gyvi su manta.
-- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
+
 ## Citatos
 
 - id: c-59339

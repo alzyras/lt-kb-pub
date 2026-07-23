@@ -69,7 +69,7 @@ Nenurodyta
     - c-04909
 
 <a id="claim-t-71757"></a>
-- t-003
+- t-002
   teiginys: "Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-31354
 
 <a id="claim-t-71758"></a>
-- t-002
+- t-003
   teiginys: "1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-31354
   autorius: "Zenonas Ivinskis"
@@ -168,7 +168,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-70280
   autorius: "Zenonas Ivinskis"
@@ -209,6 +209,7 @@ Nenurodyta
     dalo krikščionybę su liturgija senojoje slavų kalboje^5.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,9 +55,7 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
   temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir sutrumpinti."
   pagrindžia:
     - c-83583
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176074|Vilniaus kapitula]]: Vilniaus kapitula pasirinko karūnas savo kolegijos herbu, norėdama prilygti Krokuvos kapitulai.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176100|Vilniaus kapitula]]: Vilniaus kapitula savo kolegijos herbu pasirinko tas pačias karūnas kaip Krokuvos kapitula.
+
 ## Citatos
 
 - id: c-83583

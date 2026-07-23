@@ -79,38 +79,7 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171437
-- susijęs iš [[objektai/asmenys/Jokūbas iš Kobylanų.md#claim-t-39748|Jokūbas iš Kobylanų]]: Jokūbas iš Kobylanų vadovavo apie 4000 karių lenkų daliniui, Vladislovo Jogailaičio atsiųstam į pagalbą Žygimantui Kęstutaičiui.
-- susijęs iš [[objektai/asmenys/Jokūbas, Leodijos arkidiakonas.md#claim-t-190163|Jokūbas, Leodijos arkidiakonas]]: Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos arkidiakono Jokūbo, 1249 metais prūsams duotos privilegijos.
-- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
-- susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
-- susijęs iš [[objektai/grupes/Prancūziškoji partija.md#claim-t-66038|Prancūziškoji partija]]: Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188308|Prūsai]]: Narbutas prūsų religijos duomenims svarbiomis laiko Hartknocho surinktas kronikų žinias ir 1249 metų popiežiaus legato Jokūbo privilegijos ištraukas.
-- susijęs iš [[objektai/ivykiai/1249 m. popiežiaus legato Jokūbo privilegija prūsams.md#claim-t-189615|1249 m. popiežiaus legato Jokūbo privilegija prūsams (privilegija, XIII a.)]]: Narbutas popiežiaus legato Jokūbo 1249 m. privilegijos prūsams ištraukas laikė ypač reikšmingu raštišku prūsų žynių paminėjimu.
-- susijęs iš Karaliaus Aleksandro testamentas (1506 m.): Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.
-- susijęs iš Leodijos arkidiakono Jokūbo privilegija prūsams: Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais.
-- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195541|Lileika (samdos tarpininkas)]]: Lileika pažadėjo pripiršti Grigorą Jokūbui ir pats nuvedė Grigorą į derybas.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63417|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
-- susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
-- susijęs iš [[objektai/asmenys/Konradas Štangė.md#claim-t-60159|Konradas Štangė]]: Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189976|Kristoforas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
-- susijęs iš [[objektai/asmenys/Kristupas Hartknochas.md#claim-t-190175|Kristupas Hartknochas]]: Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188435|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.
-- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
-- susijęs iš [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.).md#claim-t-62740|Albrechto nužudymas (1308 m. gegužės 1 d.)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.
-- susijęs iš [[objektai/ivykiai/Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.).md#claim-t-59528|Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.)]]: 1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.
-- susijęs iš [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.).md#claim-t-70938|Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]: 1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.
-- susijęs iš [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.).md#claim-t-70941|Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]: Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.
-- susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.
-- susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
-- susijęs iš Junigeda: Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
-- susijęs iš Nemunas: Didysis magistras per Šv. Jokūbą persikėlė anapus Nemuno ir ėmė statydinti bei stiprinti Rittersverderio pilį.
-- susijęs iš Pieštvė: Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius.
-- susijęs iš Rittersverderio pilis: Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.
-- susijęs iš Vitebskas: Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.
-- susijęs iš Žirnajos upelis: Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58775|papilys]]: Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.
-- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
+
 ## Citatos
 
 - id: c-60969

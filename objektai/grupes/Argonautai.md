@@ -53,15 +53,7 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175747
-- susijęs iš [[objektai/asmenys/Jasonas.md#claim-t-191280|Jasonas]]: Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais.
-- susijęs iš [[objektai/ivykiai/Argonautų kelionė Argo laivu.md#claim-t-191039|Argonautų kelionė Argo laivu]]: Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais.
-- susijęs iš [[objektai/asmenys/Argas.md#claim-t-191368|Argas]]: Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąja jūra, tuomet vadinta Pontos-Axenos.
-- susijęs iš [[objektai/asmenys/Fosas.md#claim-t-191398|Fosas]]: Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
-- susijęs iš [[objektai/asmenys/Johanas Fosas.md#claim-t-191281|Johanas Fosas]]: Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192946|Boristeniečiai]]: Narbuto teigimu, seniausias prekybos kelias ėjo per Aldeską ir Pantikapą į Dneprą, kur pirkliavo boristeniečiai.
-- susijęs iš [[objektai/grupes/Iboristeniečiai.md#claim-t-192995|Iboristeniečiai]]: Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldeską ir Pantikapą.
-- susijęs iš Baltija: Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą.
-- susijęs iš Didžioji Britanija: Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą.
+
 ## Citatos
 
 - id: c-175747

@@ -7,14 +7,14 @@ datos:
   - '1274 m.'
 date_start: '1274'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - tikėjimas
   - šeima
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62131"></a>
-- t-002
+- t-001
   teiginys: "Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-62563
 
 <a id="claim-t-196985"></a>
-- t-003
+- t-002
   teiginys: "Šis Bansas norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik visus prūsus sukurstė atsimesti nuo krikščionybės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -131,8 +131,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-62565
   autorius: "Petras Dusburgietis"
@@ -153,6 +153,7 @@ Nenurodyta
   citata_rodoma: "Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą\n\n  1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,\nvarmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,\nkad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai\npaklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]\nribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas\nTirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui\nbei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su\nvisomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė\ntarnauti gyvajam dievui Jėzui Kristui.\n\n\n\n\n      176 (171)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,7 +59,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 ## Teiginiai
 
 <a id="claim-t-54452"></a>
-- t-003
+- t-001
   teiginys: "Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -97,7 +97,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54454"></a>
-- t-001
+- t-003
   teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių."
   atnaujinta: "2026-06-13 17:21"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -161,7 +161,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-002
     - t-001
+    - t-002
+    - t-003
     - t-004

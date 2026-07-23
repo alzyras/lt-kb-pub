@@ -32,7 +32,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Teiginiai
 
 <a id="claim-t-72601"></a>
-- t-003
+- t-001
   teiginys: "Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71008
 
 <a id="claim-t-72602"></a>
-- t-004
+- t-002
   teiginys: "Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71006
 
 <a id="claim-t-72604"></a>
-- t-001
+- t-003
   teiginys: "XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     - c-71007
 
 <a id="claim-t-72605"></a>
-- t-002
+- t-004
   teiginys: "Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71010
-- susijęs iš [[objektai/zodynas/dievobaimingosios mokyklos scholae piae.md#claim-t-02977|dievobaimingosios mokyklos scholae piae]]: Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.
+
 ## Citatos
 
 - id: c-71006
@@ -124,7 +124,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-71007
   redaktorius: "A. Šapoka"
@@ -143,7 +143,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-71008
   redaktorius: "A. Šapoka"
@@ -160,7 +160,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-71010
   redaktorius: "A. Šapoka"
@@ -181,7 +181,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
     - t-005
 
 ## Ryšiai

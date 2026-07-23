@@ -63,6 +63,3 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18999|Jonas Žemaitis-Vytautas]]: Joną Žemaitį-Vytautą kameroje lankė SSRS saugumo maršalas Lavrentijus Berija.

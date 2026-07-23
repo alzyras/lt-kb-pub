@@ -48,7 +48,7 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171902
-- susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189364|Senovės romėnai]]: Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu.
+
 ## Citatos
 
 - id: c-171902

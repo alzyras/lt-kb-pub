@@ -37,7 +37,7 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
 ## Teiginiai
 
 <a id="claim-t-41676"></a>
-- t-002
+- t-001
   teiginys: "1580 m. Lietuvos kariuomenė užėmė Didžiųjų Lukų tvirtovę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
     - c-45071
 
 <a id="claim-t-41677"></a>
-- t-001
+- t-002
   teiginys: "Į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti pusei metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45072
   sudarytojas: "Karolis Zikaras"
@@ -125,7 +125,7 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Užėmė Didžiųjų Lukų tvirtovę: [[objektai/grupes/Lietuvos kariuomenė]]

@@ -41,7 +41,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 ## Teiginiai
 
 <a id="claim-t-79142"></a>
-- t-003
+- t-001
   teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     - c-76225
 
 <a id="claim-t-200765"></a>
-- t-004
+- t-003
   teiginys: "Po 1655 m. rusų antplūdžio Mykolas Pacas, Vilniaus vaivada ir Lietuvos Didžiosios Kunigaikštystės etmonas, padėjo atstatyti Bernardinų bažnyčią."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -85,16 +85,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184110
-- susijęs iš [[objektai/ivykiai/Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio.md#claim-t-200841|Bernardinų bažnyčios atstatymas po 1655 m. rusų antplūdžio]]: Po 1655 metų rusų antplūdžio apdaužytą Bernardinų bažnyčią padėjo atstatyti Vilniaus vaivada ir Didžiosios Kunigaikštystės etmonas Mykolas Pacas.
-- susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
-- susijęs iš [[objektai/zodynas/juodaknygis.md#claim-t-200675|juodaknygis]]: 1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
-- susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200672|Slapta skaitomos knygos]]: 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
-- susijęs iš [[objektai/zodynas/juodaknygis.md#claim-t-200675|juodaknygis]]: 1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
+
 ## Citatos
 
 - id: c-76225
@@ -136,7 +127,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-184110
   autorius: "Mikalojus Vorobjovas"
@@ -158,4 +149,4 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

@@ -36,7 +36,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 ## Teiginiai
 
 <a id="claim-t-77207"></a>
-- t-002
+- t-001
   teiginys: "1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - c-74638
 
 <a id="claim-t-77208"></a>
-- t-001
+- t-002
   teiginys: "1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-74640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -118,7 +118,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-167014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,4 +137,4 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

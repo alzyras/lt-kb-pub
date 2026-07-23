@@ -100,6 +100,7 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   citata_rodoma: "Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias\nmalones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei\nlibera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis\nturi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis\ndėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi\nnekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs\ništikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų\npakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad\ntaip."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

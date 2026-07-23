@@ -75,9 +75,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-60804
-- susijęs iš [[objektai/asmenys/Liuteris iš Braunšveigo.md#claim-t-60380|Liuteris iš Braunšveigo]]: Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.
-- susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
-- susijęs iš Mikalojaus iš Jerošino Prūsijos žemės kronika: XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.
+
 ## Citatos
 
 - id: c-60803

@@ -48,15 +48,7 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175738
-- susijęs iš [[objektai/asmenys/Safaržykas.md#claim-t-191980|Safaržykas]]: Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia.
-- susijęs iš [[objektai/autoriai/Safaržykas.md#claim-t-191555|Safaržykas]]: Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia.
-- susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-191107|Povilas Juozapas Safaržykas]]: Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu.
-- susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
-- susijęs iš [[objektai/autoriai/Eichvaldas.md#claim-t-191640|Eichvaldas]]: Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante.
-- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-190732|J. Dlugošas]]: „Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.
-- susijęs iš [[objektai/grupes/Gitonai.md#claim-t-192971|Gitonai]]: Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192467|Slavai]]: Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino skirtinga valdžia.
-- susijęs iš St. Peterburgo kodeksas: St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
+
 ## Citatos
 
 - id: c-175738

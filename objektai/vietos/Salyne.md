@@ -55,18 +55,7 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45318
-- susijęs iš [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu.md#claim-t-26373|Derybos Salyne su Vokiečių ordinu]]: 1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.
-- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
-- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
-- susijęs iš Salynas: 1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.
-- susijęs iš Salynas: 1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.
-- susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
-- susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
-- susijęs iš [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas.md#claim-t-101696|Mykolas Kiuchmeisteris fon Štenbergas]]: 1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose.
-- susijęs iš [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas.md#claim-t-101697|Mykolas Kiuchmeisteris fon Štenbergas]]: 1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176655|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
-- susijęs iš Kaunas: 1413 m. sausio 28 d. Salyne prie Kauno vyko derybos su Vokiečių ordino maršalu Mykolu Kiuchmeisteriu fon Štenbergu.
-- susijęs iš Žemaitija: 1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją.
+
 ## Citatos
 
 - id: c-45318

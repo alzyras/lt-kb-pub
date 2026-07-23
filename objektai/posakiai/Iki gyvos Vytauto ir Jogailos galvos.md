@@ -52,7 +52,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-10441"></a>
-- t-002
+- t-001
   teiginys: "1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ media_all_json: |-
     - c-12476
 
 <a id="claim-t-67269"></a>
-- t-003
+- t-002
   teiginys: "Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-12476
   sudarytojas: "Karolis Zikaras"
@@ -127,4 +127,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

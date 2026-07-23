@@ -45,25 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "Venta priklausė Lietuva (0.74); Minija priklausė Lietuva (0.74); Dubysa priklausė Lietuva (0.74); Šušvė priklausė Lietuva (0.74)"
   pagrindžia:
     - c-34076
-- susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
-- susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62621|J. Venta]]: J. Venta parašė darbą „Kronika“.
-- susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62622|J. Venta]]: J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.
-- susijęs iš Lietuvos metraštis (Bychovco kronika): Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta.
-- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Ceklis: Ceklio srityje ordinas paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros takoskyrą iki Veiviržo upės.
-- susijęs iš Ceklis: Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės.
-- susijęs iš Dubysa: Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78546|Varmiai]]: Varmės vardas greičiausiai yra upėvardinės kilmės, plg.
-- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.
-- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.
-- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
-- susijęs iš Ceklis: Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš Minija: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
-- susijęs iš Uppeleela: Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių.
-- susijęs iš Šušvė: Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.
-- susijęs iš [[objektai/zodynas/Medė.md#claim-t-70027|medė]]: Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.
+
 ## Citatos
 
 - id: c-34076

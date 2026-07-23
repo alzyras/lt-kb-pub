@@ -39,7 +39,7 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 ## Teiginiai
 
 <a id="claim-t-07696"></a>
-- t-004
+- t-001
   teiginys: "Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,7 +48,7 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
     - c-09625
 
 <a id="claim-t-07697"></a>
-- t-003
+- t-002
   teiginys: "Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -71,5 +71,5 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

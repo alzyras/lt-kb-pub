@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07781"></a>
-- t-002
+- t-001
   teiginys: "Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-09936
 
 <a id="claim-t-200944"></a>
-- t-003
+- t-002
   teiginys: "Minavonei dar tos pergalės tokį įstatymą padėjęs, jog alvieną grobį, karėj gautą ir namo pargabentą, dalys į 4 dalis, kurio viena dalis teks dievams, kaipo savo užtarytojams, antra viešpačiui ir jo tarnams, kurie nuo dievų pergalę išmeldė, 3 dalį gavo tie."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -73,9 +73,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184294
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -95,7 +92,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184294
   autorius: "Simonas Daukantas"
@@ -130,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

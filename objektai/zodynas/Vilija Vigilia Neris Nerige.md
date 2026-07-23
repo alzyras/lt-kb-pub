@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86445"></a>
-- t-002
+- t-001
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ media_all_json: |-
     - c-82424
 
 <a id="claim-t-86446"></a>
-- t-001
+- t-002
   teiginys: "Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ media_all_json: |-
     - c-82427
 
 <a id="claim-t-86447"></a>
-- t-004
+- t-003
   teiginys: "Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ media_all_json: |-
     - c-82426
 
 <a id="claim-t-86448"></a>
-- t-003
+- t-004
   teiginys: "Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-82425
   autorius: "Michał Baliński"
@@ -162,7 +162,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-82426
   autorius: "Michał Baliński"
@@ -192,7 +192,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-82427
   autorius: "Michał Baliński"
@@ -217,4 +217,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

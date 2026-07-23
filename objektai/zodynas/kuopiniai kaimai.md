@@ -30,7 +30,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 ## Teiginiai
 
 <a id="claim-t-32789"></a>
-- t-002
+- t-001
   teiginys: "Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - c-32661
 
 <a id="claim-t-32790"></a>
-- t-003
+- t-002
   teiginys: "Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - c-34163
 
 <a id="claim-t-32791"></a>
-- t-001
+- t-003
   teiginys: "Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +76,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32660
-- susijęs iš Rytprūsiai: Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą buvo žinomi upių krantų aukštumose įkurti kuopiniai kaimai.
-- susijęs iš Vysla: Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai kaimai (Haufendoerfer).
+
 ## Citatos
 
 - id: c-32660
@@ -96,7 +95,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-32661
   autorius: "Zenonas Ivinskis"
@@ -117,7 +116,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-34163
   autorius: "Zenonas Ivinskis"
@@ -138,4 +137,4 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

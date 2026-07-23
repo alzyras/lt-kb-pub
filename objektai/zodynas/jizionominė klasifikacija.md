@@ -47,7 +47,7 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 ## Teiginiai
 
 <a id="claim-t-192162"></a>
-- t-002
+- t-001
   teiginys: "Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -89,4 +89,4 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

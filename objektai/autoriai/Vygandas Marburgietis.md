@@ -46,7 +46,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 ## Teiginiai
 
 <a id="claim-t-172965"></a>
-- t-005
+- t-001
   teiginys: "Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42463
 
 <a id="claim-t-172967"></a>
-- t-012
+- t-002
   teiginys: "Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42463
 
 <a id="claim-t-172968"></a>
-- t-006
+- t-003
   teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157309
 
 <a id="claim-t-172969"></a>
-- t-016
+- t-004
   teiginys: "Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157308
 
 <a id="claim-t-172970"></a>
-- t-004
+- t-005
   teiginys: "Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157309
 
 <a id="claim-t-172971"></a>
-- t-007
+- t-006
   teiginys: "Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-42467
 
 <a id="claim-t-172972"></a>
-- t-010
+- t-007
   teiginys: "Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,7 +168,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157308
 
 <a id="claim-t-172974"></a>
-- t-014
+- t-008
   teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157314
 
 <a id="claim-t-172977"></a>
-- t-015
+- t-010
   teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -218,7 +218,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157310
 
 <a id="claim-t-172978"></a>
-- t-003
+- t-011
   teiginys: "Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -238,7 +238,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - c-157309
 
 <a id="claim-t-193881"></a>
-- t-017
+- t-012
   teiginys: "Kryžiuočių Vygando Marburgiškio duomenimis, Kaributas Dimitras sumušė Kęstučio kariuomenę."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -249,11 +249,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176508
-- susijęs iš [[objektai/autoriai/T. Hiršas.md#claim-t-91955|T. Hiršas]]: T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.
-- susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
-- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
-- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
-- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42511|stabmeldys]]: Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.
+
 ## Citatos
 
 - id: c-42463
@@ -274,9 +270,9 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-012
-    - t-003
+    - t-001
+    - t-002
+    - t-011
 
 - id: c-42467
   sudarytojas: "Karolis Zikaras"
@@ -300,7 +296,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-157308
   autorius: "Michał Baliński"
@@ -328,8 +324,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-010
+    - t-004
+    - t-007
 
 - id: c-157309
   sudarytojas: "Karolis Zikaras"
@@ -351,9 +347,9 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-004
     - t-003
+    - t-005
+    - t-011
 
 - id: c-157310
   autorius: "Michał Baliński"
@@ -394,7 +390,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-010
 
 - id: c-157311
   autorius: "Michał Baliński"
@@ -417,7 +413,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-008
 
 - id: c-157314
   autorius: "Michał Baliński"
@@ -475,4 +471,4 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-012

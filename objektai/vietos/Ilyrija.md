@@ -74,9 +74,7 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175612
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190926|Motiejus Strijkovskis]]: Narbutas aiškina, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos į Ilyriją datavo 190 metais prieš Kristaus gimimą.
-- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
-- susijęs iš [[objektai/grupes/Kimbrai.md#claim-t-192933|Kimbrai]]: Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus.
+
 ## Citatos
 
 - id: c-175611

@@ -59,6 +59,7 @@ Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tė
   citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias \npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau \nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis \nIm p e ra to riu s \nM a k si- \npadarė dėl savo senos drau-\nm ili jo n a s \nišsiža d a \ngystės su Vasilijumi."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -69,6 +69,7 @@ Nenurodyta
   citata_rodoma: "dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -61,7 +61,7 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
   pagrindžia:
     - c-178658
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
+
 ## Citatos
 
 - id: c-168751

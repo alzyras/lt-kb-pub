@@ -88,7 +88,7 @@ Nenurodyta
     - c-169030
 
 <a id="claim-t-196279"></a>
-- t-004
+- t-003
   teiginys: "1407 m. pabaigoje Švitrigaila, sudeginęs Briansko ir Starodubo pilis, perdavė kunigaikščiui Vasilijui Naugardą ir pabėgo į Maskvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Nenurodyta
     - c-169029
 
 <a id="claim-t-196793"></a>
-- t-005
+- t-004
   teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai, matydami pskoviečių pasidavimą Vytautui, pasižadėjo jam tarnauti, duoti duoklę ir laikyti valdovu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -215,4 +215,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

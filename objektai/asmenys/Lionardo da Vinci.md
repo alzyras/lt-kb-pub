@@ -27,7 +27,7 @@ Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėds
 ## Teiginiai
 
 <a id="claim-t-200860"></a>
-- t-002
+- t-001
   teiginys: "Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėdsaką vėlesnių Milano dailininkų atmintyje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +66,4 @@ Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėds
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

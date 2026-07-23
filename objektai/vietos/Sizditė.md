@@ -69,27 +69,7 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59271
-- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
-- susijęs iš [[objektai/asmenys/Mindotė.md#claim-t-60388|Mindotė]]: Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.
-- susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
-- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
-- susijęs iš [[objektai/asmenys/Kviramas iš Valdavos.md#claim-t-60373|Kviramas iš Valdavos]]: Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.
-- susijęs iš [[objektai/asmenys/Mindotė.md#claim-t-60388|Mindotė]]: Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.
-- susijęs iš [[objektai/asmenys/Rebodas iš Izenburgo.md#claim-t-60423|Rebodas iš Izenburgo]]: Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.
-- susijęs iš [[objektai/asmenys/Spagerotė.md#claim-t-60437|Spagerotė]]: Spagerotė buvo vienas iš keturių prityrusių karių, kurių broliai neteko 1314 m. Sizditės pilies puolime.
-- susijęs iš [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.).md#claim-t-183911|Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]: Po nesėkmingo Sizditės pilies puolimo brolio Henriko kariuomenė patraukė į pilies apylinkes ir jas nusiaubė degindama bei plėšdama.
-- susijęs iš [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.).md#claim-t-59272|Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]: 1314 m. apie vasario 2 d. maršalas brolis Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje, bet pilėnai priešinosi.
-- susijęs iš [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris).md#claim-t-55711|Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]: Po nesėkmingo Sizditės pilies puolimo Henriko kariuomenė patraukė į pilies apylinkes ir dar kartą jas nusiaubė.
-- susijęs iš [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris).md#claim-t-55712|Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]: 1314 m. apie vasario 2 d. Henrikas dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
-- susijęs iš Medininkų valsčius: 1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes.
-- susijęs iš Medininkų valsčius: 1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes.
-- susijęs iš [[objektai/asmenys/Ulrichas iš Tetingeno.md#claim-t-60451|Ulrichas iš Tetingeno]]: 1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179288|Lietuviai]]: 1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.
-- susijęs iš Simsarna: Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-184016|pilėnas pilėnai]]: 1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
-- susijęs iš [[objektai/asmenys/Rebodas iš Izenburgo.md#claim-t-60423|Rebodas iš Izenburgo]]: Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.
+
 ## Citatos
 
 - id: c-59270

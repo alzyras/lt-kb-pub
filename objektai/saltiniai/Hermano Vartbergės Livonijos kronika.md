@@ -52,7 +52,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 ## Teiginiai
 
 <a id="claim-t-171548"></a>
-- t-004
+- t-001
   teiginys: "Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     - c-11232
 
 <a id="claim-t-171549"></a>
-- t-005
+- t-002
   teiginys: "„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     - c-11233
 
 <a id="claim-t-171550"></a>
-- t-006
+- t-003
   teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     - c-167090
 
 <a id="claim-t-197018"></a>
-- t-008
+- t-004
   teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-11233
   sudarytojas: "Karolis Zikaras"
@@ -139,7 +139,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-167090
   sudarytojas: "Karolis Zikaras"
@@ -175,7 +175,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-179004
   autorius: "Petras Dusburgietis"
@@ -199,4 +199,4 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-004

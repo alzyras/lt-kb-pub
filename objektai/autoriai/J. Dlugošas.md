@@ -44,7 +44,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 ## Teiginiai
 
 <a id="claim-t-172865"></a>
-- t-005
+- t-001
   teiginys: "J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-13011
 
 <a id="claim-t-172866"></a>
-- t-016
+- t-002
   teiginys: "J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-157232
 
 <a id="claim-t-172867"></a>
-- t-008
+- t-003
   teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-42415
 
 <a id="claim-t-172868"></a>
-- t-015
+- t-004
   teiginys: "Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-56037
 
 <a id="claim-t-172869"></a>
-- t-010
+- t-005
   teiginys: "J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-42417
 
 <a id="claim-t-172870"></a>
-- t-014
+- t-006
   teiginys: "J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-157234
 
 <a id="claim-t-172873"></a>
-- t-009
+- t-007
   teiginys: "J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-42416
 
 <a id="claim-t-172874"></a>
-- t-020
+- t-008
   teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -177,7 +177,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-157237
 
 <a id="claim-t-172875"></a>
-- t-011
+- t-009
   teiginys: "J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-157233
 
 <a id="claim-t-172876"></a>
-- t-006
+- t-010
   teiginys: "Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -203,7 +203,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-13013
 
 <a id="claim-t-172878"></a>
-- t-017
+- t-011
   teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-42415
 
 <a id="claim-t-184606"></a>
-- t-021
+- t-012
   teiginys: "Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -238,7 +238,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-167967
 
 <a id="claim-t-188406"></a>
-- t-001
+- t-013
   teiginys: "Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -257,7 +257,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-171296
 
 <a id="claim-t-188414"></a>
-- t-002
+- t-014
   teiginys: "Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -276,7 +276,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-171296
 
 <a id="claim-t-190732"></a>
-- t-022
+- t-015
   teiginys: "„Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -297,7 +297,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-173614
 
 <a id="claim-t-197611"></a>
-- t-023
+- t-016
   teiginys: "Tai, ką tuo klausimu parašė lenkų istorikai Dlugošas ir Mechovita, t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -308,23 +308,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-179261
-- susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
-- susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
-- susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
-- susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186707|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Komentare nurodoma, kad tarp lietuvių kunigaikščių J. Dlugošas mini ir Jogailą su Vytautu.
-- susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186758|Ač-Girėjaus valdžios atstatymas Kryme]]: 1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.
-- susijęs iš Joannis Dlugosii Opera omnia: Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje.
-- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
-- susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
-- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
-- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186757|Suchtos sąmokslas prieš Kazimierą]]: Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.
-- susijęs iš Sanas: Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.
-- susijęs iš Sanas: Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe.
-- susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
-- susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
+
 ## Reikšmingi paminėjimai
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -358,7 +342,6 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-13011
@@ -378,7 +361,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-13013
   sudarytojas: "Karolis Zikaras"
@@ -398,7 +381,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-010
 
 - id: c-42415
   sudarytojas: "Karolis Zikaras"
@@ -425,8 +408,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-017
+    - t-003
+    - t-011
 
 - id: c-42416
   sudarytojas: "Karolis Zikaras"
@@ -452,7 +435,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-42417
   sudarytojas: "Karolis Zikaras"
@@ -478,7 +461,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-005
 
 - id: c-56037
   autorius: "Petras Dusburgietis"
@@ -497,7 +480,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-004
 
 - id: c-157232
   sudarytojas: "Karolis Zikaras"
@@ -529,7 +512,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-002
 
 - id: c-157233
   autorius: "Michał Baliński"
@@ -555,7 +538,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-157234
   autorius: "Michał Baliński"
@@ -577,7 +560,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-006
 
 - id: c-157237
   autorius: "Michał Baliński"
@@ -600,7 +583,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-008
 
 - id: c-167967
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -632,7 +615,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-012
 
 - id: c-171296
   autorius: "Teodoras Narbutas"
@@ -654,8 +637,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-013
+    - t-014
 
 - id: c-171304
   autorius: "Teodoras Narbutas"
@@ -705,7 +688,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-015
 
 - id: c-179261
   autorius: "Teodoras Narbutas"
@@ -727,4 +710,4 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-016

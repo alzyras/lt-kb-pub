@@ -47,16 +47,13 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07805"></a>
-- t-002
+- t-001
   teiginys: "Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09962
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -75,7 +72,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-09963
   autorius: "Simonas Daukantas"
@@ -87,6 +84,7 @@ Nenurodyta
   citata_rodoma: "negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis\n tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

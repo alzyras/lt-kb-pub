@@ -80,7 +80,7 @@ media_all_json: |-
     - c-60848
 
 <a id="claim-t-194522"></a>
-- t-005
+- t-003
   teiginys: "Apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60849
-- susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-62134|Kristaus kūno šventės šventimas]]: 1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę.
+
 ## Citatos
 
 - id: c-60848
@@ -133,7 +133,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003
 
 - id: c-168211
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -166,6 +166,7 @@ media_all_json: |-
     pai parėmė jo sumanymus.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

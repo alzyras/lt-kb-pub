@@ -65,7 +65,7 @@ Nenurodyta
   semantiniai_rysiai: "Pistoletas-kulkosvaidis MP 40 priklausė Vokiečiai (0.82)"
   pagrindžia:
     - c-41019
-- susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
+
 ## Citatos
 
 - id: c-41019

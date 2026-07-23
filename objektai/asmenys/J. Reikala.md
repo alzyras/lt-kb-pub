@@ -43,7 +43,7 @@ Reikala.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41549
-- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38707|bendrasis rezervas]]: Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.
+
 ## Citatos
 
 - id: c-41549

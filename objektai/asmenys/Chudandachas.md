@@ -56,7 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti."
   pagrindžia:
     - c-35938
-- susijęs iš [[objektai/grupes/Užvolgio totoriai.md#claim-t-34369|Užvolgio totoriai]]: 1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.
+
 ## Citatos
 
 - id: c-35938

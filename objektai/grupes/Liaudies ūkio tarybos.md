@@ -56,6 +56,3 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/ivykiai/Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.).md#claim-t-20462|Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)]]: 1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.

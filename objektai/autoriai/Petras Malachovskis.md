@@ -38,7 +38,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 ## Teiginiai
 
 <a id="claim-t-191616"></a>
-- t-002
+- t-001
   teiginys: "Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,4 +101,4 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

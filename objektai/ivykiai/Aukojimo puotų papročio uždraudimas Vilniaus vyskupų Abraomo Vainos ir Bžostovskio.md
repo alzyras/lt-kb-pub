@@ -7,13 +7,13 @@ datos:
   - '1710 m.'
 date_start: '1710'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

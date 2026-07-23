@@ -31,7 +31,7 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 ## Teiginiai
 
 <a id="claim-t-183407"></a>
-- t-002
+- t-001
   teiginys: "Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

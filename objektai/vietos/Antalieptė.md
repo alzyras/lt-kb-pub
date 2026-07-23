@@ -45,11 +45,7 @@ media_all_json: |-
   semantiniai_rysiai: "P. Genys užėmė Svėdasai (0.94); P. Genys užėmė Užpaliai (0.86); P. Genys užėmė Antalieptė (0.84)"
   pagrindžia:
     - c-40240
-- susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
-- susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
-- susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
-- susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
-- susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
+
 ## Citatos
 
 - id: c-40240

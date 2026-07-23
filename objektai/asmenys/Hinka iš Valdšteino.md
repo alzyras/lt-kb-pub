@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas, pašalintas OCR triukšmas ir palikta citatos remiama faktinė esmė."
   pagrindžia:
     - c-36017
-- susijęs iš [[objektai/grupes/Čekai.md#claim-t-50768|Čekai]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
+
 ## Citatos
 
 - id: c-36017

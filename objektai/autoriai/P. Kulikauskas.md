@@ -52,7 +52,7 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33092
-- susijęs iš [[objektai/autoriai/Kulikauskas P.md#claim-t-60735|Kulikauskas P]]: P. Kulikauskas kapinynų ir kai kurių piliakalnių tyrimais grindė teiginį, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenama.
+
 ## Citatos
 
 - id: c-33092

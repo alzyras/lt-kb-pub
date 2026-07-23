@@ -9,18 +9,17 @@ saltiniai:
 datos:
   - '1398 m.'
   - '2026 m.'
-  - '1492 m.'
 date_start: '1398'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - institucija
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +42,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 ## Teiginiai
 
 <a id="claim-t-72609"></a>
-- t-005
+- t-001
   teiginys: "Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181369
 
 <a id="claim-t-72615"></a>
-- t-006
+- t-002
   teiginys: "Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -80,7 +79,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181370
 
 <a id="claim-t-193844"></a>
-- t-017
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras ir Olbrachtas su savo Tarybų ponais 1496 m. Parčeve dvi savaites dalyvavo seime."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -94,7 +93,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181373
 
 <a id="claim-t-199008"></a>
-- t-013
+- t-004
   teiginys: "Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -116,7 +115,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181376
 
 <a id="claim-t-199009"></a>
-- t-001
+- t-005
   teiginys: "Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -135,7 +134,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181371
 
 <a id="claim-t-199010"></a>
-- t-012
+- t-006
   teiginys: "Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -157,7 +156,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181365
 
 <a id="claim-t-199011"></a>
-- t-002
+- t-007
   teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai."
   atnaujinta: "2026-07-19 19:01"
   sprendimo_priezastis: "auto"
@@ -167,7 +166,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181371
 
 <a id="claim-t-199012"></a>
-- t-011
+- t-008
   teiginys: "Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų."
   atnaujinta: "2026-07-12 23:01"
   sprendimo_priezastis: "auto"
@@ -176,7 +175,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Teiginys aiškiai nusako Ponų tarybos veiksmą ir atitinka citatos turinį."
   susije_objektai: "llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; llm_object: [[objektai/asmenys/Goštautas|Goštautas]]"
-  semantiniai_rysiai: "[[objektai/grupes/Ponų taryba|Ponų taryba]] paskyrė [[objektai/asmenys/Goštautas|Goštautas]]; Jurgis Nosuta keliavo į Mazovija (0.93); Ponų taryba (institucija) paskyrė Goštautas (vyskupas, XV a.) (0.76)"
+  semantiniai_rysiai: "[[objektai/grupes/Ponų taryba|Ponų taryba]] paskyrė [[objektai/asmenys/Goštautas|Goštautas]]"
   ryšio_patikimumas: "keliavo_i -> Mazovija: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
@@ -190,9 +189,9 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181372
 
 <a id="claim-t-199013"></a>
-- t-010
+- t-009
   teiginys: "Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -213,7 +212,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181375
 
 <a id="claim-t-199015"></a>
-- t-004
+- t-010
   teiginys: "Ponų taryba turėjo laisvę kalbėti, tačiau liko patariamasis organas, kurio sprendimai nevaržė didžiojo kunigaikščio."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -228,7 +227,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181368
 
 <a id="claim-t-199016"></a>
-- t-003
+- t-011
   teiginys: "Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -243,7 +242,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181368
 
 <a id="claim-t-199020"></a>
-- t-009
+- t-012
   teiginys: "Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -254,7 +253,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-181368
 
 <a id="claim-t-201479"></a>
-- t-018
+- t-013
   teiginys: "Gavęs Ponų tarybos prašymą kreiptis į bernardinų vienuolijos generolą dėl komisaro, kuris atskirtų Lietuvos ir Lenkijos bernardinų vienuolynus, jis šį prašymą įvykdė."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -266,7 +265,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
     - c-184826
 
 <a id="claim-t-201480"></a>
-- t-019
+- t-014
   teiginys: "Tekstas surašytas pergamente ir sutvirtintas valdovo/valstybės antspaudu dalyvaujant Ponų tarybos nariams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -276,58 +275,56 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184827
-- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
-- susijęs iš [[objektai/grupes/Lenkijos ponų taryba.md#claim-t-77825|Lenkijos ponų taryba]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
-- susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01378|Lenkų ponų taryba (institucija)]]: Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186626|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.
-- susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
-- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
-- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai.
-- susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-- susijęs iš [[objektai/zodynas/ponai.md#claim-t-186926|ponai]]: Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika.
-- susijęs iš [[objektai/grupes/Lenkų bajorija.md#claim-t-92501|Lenkų bajorija]]: Lenkų bajorija jau anksčiau turėjo teisę dalyvauti naujo kunigaikščio elekcijoje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179328|Lietuviai]]: Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50694|Lietuvių bajorija]]: Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186627|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.
-- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
-- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
-- susijęs iš [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas.md#claim-t-93025|Bendras Lietuvos ir Lenkijos valdovo rinkimas]]: Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas.md#claim-t-93026|Bendras Lietuvos ir Lenkijos valdovo rinkimas]]: Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose.
-- susijęs iš Smolenskas: Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.
-- susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
-## Reikšmingi paminėjimai
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vieni žemes gaudavo amžinai,
-    kiti — iki savo ar vaikų gyvos galvos, o dar kiti — iki norėjo
-    didysis kunigaikštis. Visa tai jis galėjo daryti laisvai; tačiau
-    valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
-    seimai (žiūr. 198—201 psl.).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu tarybos sudėtis pasidarė
-    pastovi, tik neaiškios pasiliko jos valdžios (kompetencijos) ribos.
-    Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog,
-    išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompe-
-    tencijos ribas. Aleksandras tatai padarė savo 1492 m. privilegi-
-    joje, kuria jis pirmiausia pasižadėjo tartis su taryba, siųs-
-    damas į užsienius pasiuntinius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras labai
+    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
+    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
+    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
+    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
+    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
+    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
+    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
+    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
+    didžiuoju kunigaikščiu Kazimieru IS.
+    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
+    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
+    gaikšti Kazimierai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Lietuvos metraštis pasakoja, kad Aleksandras ir Olbrachtas su savo Tarybų ponais 1496 m. Parčeve dvi savaites dalyvavo seime.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \ o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5. Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7, Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ®, o didysis kunigaikštis Aleksandras — į Vilnių9.
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-36928
@@ -348,7 +345,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-36929
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -369,7 +366,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-170674
   autorius: "Anoniminis metraštininkas"
@@ -394,7 +391,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-176488
   autorius: "Anoniminis metraštininkas"
@@ -426,7 +423,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-003
 
 - id: c-181365
   autorius: "Anoniminis metraštininkas"
@@ -445,7 +442,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-006
 
 - id: c-181366
   redaktorius: "A. Šapoka"
@@ -465,8 +462,8 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-005
+    - t-007
 
 - id: c-181367
   redaktorius: "A. Šapoka"
@@ -488,9 +485,9 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
-    - t-009
+    - t-010
+    - t-011
+    - t-012
 
 - id: c-181368
   redaktorius: "A. Šapoka"
@@ -512,9 +509,9 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
-    - t-009
+    - t-010
+    - t-011
+    - t-012
 
 - id: c-181369
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -534,7 +531,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-181370
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -555,7 +552,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-181371
   redaktorius: "A. Šapoka"
@@ -575,8 +572,8 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-005
+    - t-007
 
 - id: c-181372
   autorius: "Anoniminis metraštininkas"
@@ -610,7 +607,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 - id: c-181373
   autorius: "Anoniminis metraštininkas"
@@ -642,7 +639,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-003
 
 - id: c-181374
   redaktorius: "A. Šapoka"
@@ -686,7 +683,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-181376
   autorius: "Anoniminis metraštininkas"
@@ -706,7 +703,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-004
 
 - id: c-184826
   autorius: "Zigmantas Kiaupa"
@@ -726,7 +723,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-013
 
 - id: c-184827
   autorius: "Zigmantas Kiaupa"
@@ -744,4 +741,4 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-014

@@ -55,10 +55,7 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173087
-- susijęs iš [[objektai/asmenys/Melampas.md#claim-t-190182|Melampas]]: Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188258|Lietuviai]]: Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose.
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189386|Senovės graikai]]: Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą.
+
 ## Citatos
 
 - id: c-173087

@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75171"></a>
-- t-003
+- t-001
   teiginys: "1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-73064
 
 <a id="claim-t-75173"></a>
-- t-001
+- t-003
   teiginys: "Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-73064
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,7 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-166639
@@ -173,4 +173,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

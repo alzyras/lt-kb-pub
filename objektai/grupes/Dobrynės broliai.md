@@ -16,14 +16,14 @@ datos:
   - '1248 m.'
 date_start: '1216'
 date_end: '1248'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Teiginiai
 
 <a id="claim-t-65108"></a>
-- t-002
+- t-001
   teiginys: "„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65602
 
 <a id="claim-t-65109"></a>
-- t-006
+- t-002
   teiginys: "Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65603
 
 <a id="claim-t-65110"></a>
-- t-004
+- t-003
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65606
 
 <a id="claim-t-65111"></a>
-- t-003
+- t-004
   teiginys: "Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65605
 
 <a id="claim-t-65112"></a>
-- t-001
+- t-005
   teiginys: "Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65604
 
 <a id="claim-t-65113"></a>
-- t-005
+- t-006
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -192,12 +192,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184267
-- susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
-- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
-- susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60035|Julijus Cezaris (vyskupas)]]: Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.
-- susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
-- susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
-- susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją.'
@@ -218,7 +213,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-65602
@@ -236,7 +230,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-65603
   autorius: "Petras Dusburgietis"
@@ -257,7 +251,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-65604
   autorius: "Petras Dusburgietis"
@@ -276,7 +270,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-65605
   autorius: "Petras Dusburgietis"
@@ -301,7 +295,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-65606
   autorius: "Petras Dusburgietis"
@@ -343,8 +337,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-003
+    - t-006
 
 - id: c-175169
   autorius: "Teodoras Narbutas"

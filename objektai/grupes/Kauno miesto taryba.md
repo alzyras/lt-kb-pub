@@ -10,11 +10,11 @@ datos:
   - '1647 m.'
 date_start: '1481'
 date_end: '1647'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVII'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

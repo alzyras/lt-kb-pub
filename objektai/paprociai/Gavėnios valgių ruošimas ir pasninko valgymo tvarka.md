@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195407"></a>
-- t-004
+- t-001
   teiginys: "Avižinės kruopos ruoštos mirkant, kaitinant, malant ir „nekojant“ avižas."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-177827
 
 <a id="claim-t-195408"></a>
-- t-001
+- t-002
   teiginys: "Gavėniai užėjus šeimininkės rūpinosi pasninko valgiais ir šeima ruošdavosi keturiasdešimt šešių dienų pasninkui."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-177830
 
 <a id="claim-t-195409"></a>
-- t-005
+- t-003
   teiginys: "Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu."
   atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -110,7 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-177824
   autorius: "M. Katkus"
@@ -181,7 +181,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-177828
   autorius: "M. Katkus"
@@ -225,4 +225,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

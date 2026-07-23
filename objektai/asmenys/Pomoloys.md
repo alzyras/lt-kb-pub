@@ -47,9 +47,7 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173120
-- susijęs iš [[objektai/asmenys/Jargallo.md#claim-t-190229|Jargallo]]: Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai.
-- susijęs iš [[objektai/asmenys/Jaygello.md#claim-t-190230|Jaygello]]: Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai lietuviški vardai.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190617|Prūsai]]: Narbutas prūsus laiko vienos kilties ir vienos genties broliais su Lietuva.
+
 ## Citatos
 
 - id: c-173120

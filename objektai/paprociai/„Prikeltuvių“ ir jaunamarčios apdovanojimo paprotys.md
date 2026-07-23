@@ -81,7 +81,7 @@ Nenurodyta
     - c-177804
 
 <a id="claim-t-195386"></a>
-- t-004
+- t-003
   teiginys: "Tuo baigdavosi svočios pietūs."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-177803
 
 <a id="claim-t-195387"></a>
-- t-003
+- t-004
   teiginys: "Po prikeltuvių griežikai apeidavo užstalę, o svečiai jiems duodavo pinigų."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -135,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-177803
   autorius: "M. Katkus"
@@ -155,7 +155,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177804
   autorius: "M. Katkus"

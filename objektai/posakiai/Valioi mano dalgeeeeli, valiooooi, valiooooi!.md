@@ -66,6 +66,7 @@ Giedama šienaujant ir laukiant girios aido.
   citata_rodoma: "Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, ma­\nno dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums\npradėti, tik praleisime Šventą Petrą“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

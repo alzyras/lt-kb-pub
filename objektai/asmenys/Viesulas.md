@@ -44,8 +44,7 @@ Gaidys ir Viesulas turėjo tik pistalietus.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41470
-- susijęs iš [[objektai/asmenys/Gaidys.md#claim-t-40115|Gaidys]]: Partizanas Gaidys buvo ginkluotas tik pistoletu.
-- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40464|Tigras]]: Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.
+
 ## Citatos
 
 - id: c-41470

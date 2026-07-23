@@ -49,6 +49,7 @@ Mansikka, V.
   citata_rodoma: "— Mansikka,\nV. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­\nlis, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

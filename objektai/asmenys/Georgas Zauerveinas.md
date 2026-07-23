@@ -55,9 +55,7 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai remiasi citata."
   pagrindžia:
     - c-21678
-- susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/posakiai/„Lietuviais esame mes gimę...“.md#claim-t-75615|„Lietuviais esame mes gimę...“]]: Georgas Zauerveinas parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“, ir jis greitai išpopuliarėjo Didžiojoje Lietuvoje.
-- susijęs iš Mažosios Lietuvos himnas: XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.
+
 ## Citatos
 
 - id: c-21678

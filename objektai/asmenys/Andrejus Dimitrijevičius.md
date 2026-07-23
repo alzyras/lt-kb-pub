@@ -61,7 +61,6 @@ Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Doro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176740

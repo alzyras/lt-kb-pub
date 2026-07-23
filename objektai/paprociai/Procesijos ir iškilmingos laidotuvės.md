@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67189"></a>
-- t-002
+- t-001
   teiginys: "Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Nenurodyta
     - c-67201
 
 <a id="claim-t-67190"></a>
-- t-001
+- t-002
   teiginys: "Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-67201
   redaktorius: "A. Šapoka"
@@ -114,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

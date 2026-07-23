@@ -30,7 +30,7 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
 ## Teiginiai
 
 <a id="claim-t-196778"></a>
-- t-003
+- t-001
   teiginys: "Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikštę ir paskelbė ją valdovų laidotuvių vieta."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,6 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176161
@@ -100,4 +99,4 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

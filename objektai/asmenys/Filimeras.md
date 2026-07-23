@@ -91,28 +91,7 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173737
-- susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190673|Adomas Stanislovas Naruševičius]]: Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190738|Jordanas]]: Jordanas teigė, kad spaliai gyveno dabartinėje Mazovijoje, o Narbutas šią žinią siejo su Filimero žygio kryptimi.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190742|Jordanas]]: Pasak Narbuto perteikto Jordano pasakojimo, 161 m. Filimero žygyje gotai, persikėlę į dešinįjį Vyslos krantą, pirmiausia pateko į Owim kraštą.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188191|Gotai]]: Narbutas Rosės upės vardą Kijevo gubernijoje siejo su lietuvių gentimis, kurios esą išėjo į rytus su gotais Filimero valdymo metu ar kiek vėliau.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192398|Gotai]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją.
-- susijęs iš [[objektai/ivykiai/Filimero 161 metų žygis į Rytų Europą ir gotų patekimas į Owim.md#claim-t-191060|Filimero 161 metų žygis į Rytų Europą ir gotų patekimas į Owim]]: Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą.
-- susijęs iš Jordano De rebus Gothorum: Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę į dešiniąją Vyslos pakrantę, pateko į kraštą, vadinamą Owim.
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191082|Jordanas]]: Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje.
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191086|Jordanas]]: Narbutas rašo, kad Jordanas, pasakodamas apie Pavyslio vietoves prie jūros, minėjo vidivarius prie Vyslos žiočių.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190778|Plinijus]]: Teodoro Narbuto pasakojime Plinijus spalius lokalizavo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188279|Lietuviai]]: Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
-- susijęs iš [[objektai/grupes/Ukrainiečiai.md#claim-t-188356|Ukrainiečiai]]: Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų.
-- susijęs iš Naugardas: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.
-- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
-- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
-- susijęs iš Rosė (Ross) upė Kijevo gubernijoje: Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų.
-- susijęs iš Rosė: Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų.
-- susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
+
 ## Citatos
 
 - id: c-173032

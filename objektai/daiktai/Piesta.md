@@ -8,7 +8,7 @@ variantai:
   - 'piestą'
   - 'piestoj'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - buities-daiktas
@@ -73,6 +73,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Piestu.md#claim-t-195354|Piestu]]: Ąžuolo gabalas, kuriuo muša grūdus piestoje.

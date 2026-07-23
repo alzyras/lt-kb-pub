@@ -44,14 +44,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75109
-- susijęs iš [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia.md#claim-t-25042|Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]: Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė.
-- susijęs iš [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas.md#claim-t-169869|Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]: Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.
-- susijęs iš [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas.md#claim-t-169870|Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]: Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.
-- susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-183429|kirilika rusiškas raidynas lotyniškasis raidynas]]: Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.
-- susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70176|kirilika rusiškas raidynas lotyniškasis raidynas]]: Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.
-- susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70177|kirilika rusiškas raidynas lotyniškasis raidynas]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
-- susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77888|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas.
-- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
+
 ## Citatos
 
 - id: c-75109

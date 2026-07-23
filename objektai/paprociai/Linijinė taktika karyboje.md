@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67163"></a>
-- t-007
+- t-001
   teiginys: "XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Nenurodyta
     - c-12409
 
 <a id="claim-t-67164"></a>
-- t-012
+- t-002
   teiginys: "Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -68,14 +68,14 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Linijinė taktika karyboje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: ""
+  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Linijinė taktika karyboje\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12413
 
 <a id="claim-t-67165"></a>
-- t-008
+- t-003
   teiginys: "Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-12410
 
 <a id="claim-t-67166"></a>
-- t-009
+- t-004
   teiginys: "Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-12410
   sudarytojas: "Karolis Zikaras"
@@ -135,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-12411
   sudarytojas: "Karolis Zikaras"
@@ -159,7 +159,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004
 
 - id: c-12413
   sudarytojas: "Karolis Zikaras"
@@ -179,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-002

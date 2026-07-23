@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193018"></a>
-- t-002
+- t-001
   teiginys: "Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis."
   atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-177270
 
 <a id="claim-t-193019"></a>
-- t-003
+- t-002
   teiginys: "Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Nenurodyta
     - c-175789
 
 <a id="claim-t-197570"></a>
-- t-005
+- t-003
   teiginys: "Si upė šiaurės vakaruose ribojo gerų dykumas su nežinomais kraštais ir plaukė per skitų— nomadų kraštus, prasėdėdama gerų krašte."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -116,7 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-175789
   autorius: "Teodoras Narbutas"
@@ -139,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177270
   autorius: "Teodoras Narbutas"
@@ -165,4 +165,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

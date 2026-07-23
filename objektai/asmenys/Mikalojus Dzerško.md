@@ -56,7 +56,7 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
   temporalinis_llm_pakomentavimas: "Sakinys pataisytas pašalinant OCR defektus ir išlaikant faktus."
   pagrindžia:
     - c-83763
-- susijęs iš [[objektai/daiktai/Vilniaus vyskupų antspaudų ženklai.md#claim-t-87102|Vilniaus vyskupų antspaudų ženklai]]: Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.
+
 ## Citatos
 
 - id: c-83763

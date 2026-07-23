@@ -6,7 +6,7 @@ variantai:
   - 'apynaujį milinį apsiaustą'
   - 'apsiaustą'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - drabužis
@@ -92,8 +92,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys.md#claim-t-195385|„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys]]: Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais.
-- susijęs iš [[objektai/zodynas/Dieveriai.md#claim-t-195633|Dieveriai]]: Dieveriai šiame šaltinyje yra vyro broliai.
-- susijęs iš [[objektai/zodynas/Mošės.md#claim-t-195632|Mošės]]: Mošės šiame šaltinyje yra vyro seserys.

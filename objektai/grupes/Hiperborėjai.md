@@ -48,14 +48,7 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175742
-- susijęs iš [[objektai/posakiai/gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas.md#claim-t-193003|gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas]]: Narbutas pasakojimą, kad „gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas“, mini kaip senovės spėlionę apie gintaro kilmę.
-- susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191174|Augustas Friderikas Kocebu]]: Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų.
-- susijęs iš [[objektai/asmenys/Borėjas.md#claim-t-191257|Borėjas]]: Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žilos senovės šiaurės krašto valdovas.
-- susijęs iš [[objektai/asmenys/Kocebus.md#claim-t-191350|Kocebus]]: Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos.
-- susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-191568|Augustas fon Kocebus]]: Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle.
-- susijęs iš [[objektai/daiktai/Gintaras.md#claim-t-192494|Gintaras]]: Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle.
-- susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
-- susijęs iš Mažoji Azija: Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams.
+
 ## Citatos
 
 - id: c-175742

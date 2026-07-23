@@ -8,14 +8,14 @@ datos:
   - '1991 m.'
 date_start: '1940'
 date_end: '1991'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - politinė-praktika
   - paprotys
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09611"></a>
-- t-005
+- t-001
   teiginys: "Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-12361
 
 <a id="claim-t-09612"></a>
-- t-006
+- t-002
   teiginys: "Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-12359
 
 <a id="claim-t-09613"></a>
-- t-004
+- t-003
   teiginys: "Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -127,7 +127,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-12359
@@ -156,7 +155,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-12360
   sudarytojas: "Karolis Zikaras"
@@ -180,7 +179,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-12361
   sudarytojas: "Karolis Zikaras"
@@ -200,4 +199,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

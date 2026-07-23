@@ -29,7 +29,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 ## Teiginiai
 
 <a id="claim-t-67555"></a>
-- t-002
+- t-001
   teiginys: "1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -38,7 +38,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     - c-67418
 
 <a id="claim-t-67556"></a>
-- t-001
+- t-002
   teiginys: "Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-67419
   redaktorius: "A. Šapoka"
@@ -90,4 +90,4 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

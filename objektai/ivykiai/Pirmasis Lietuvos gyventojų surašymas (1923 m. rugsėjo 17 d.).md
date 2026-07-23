@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-23354"></a>
-- t-002
+- t-001
   teiginys: "Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-16902
 
 <a id="claim-t-23355"></a>
-- t-003
+- t-002
   teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje buvo neaiškus įvardis; perrašyta aiškiai nurodant objektą."
   pagrindžia:
     - c-16902
-- susijęs iš Vilniaus kraštas: 1923 m. pirmasis Lietuvos gyventojų surašymas neapėmė Vilniaus ir Klaipėdos kraštų.
+
 ## Citatos
 
 - id: c-16902
@@ -113,5 +113,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

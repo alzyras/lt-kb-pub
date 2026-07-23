@@ -41,7 +41,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 ## Teiginiai
 
 <a id="claim-t-172045"></a>
-- t-010
+- t-001
   teiginys: "Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
     - c-156474
 
 <a id="claim-t-184407"></a>
-- t-011
+- t-002
   teiginys: "Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -75,12 +75,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167772
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
-- susijęs iš Luckas: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
-- susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Volinija: Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
-- susijęs iš Volinija: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
+
 ## Citatos
 
 - id: c-156474
@@ -127,7 +122,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-001
 
 - id: c-167772
   autorius: "Zenonas Ivinskis"
@@ -146,7 +141,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-002
 
 ## Ryšiai
 - Užėmė Zaslavlį: [[objektai/grupes/Totoriai]]

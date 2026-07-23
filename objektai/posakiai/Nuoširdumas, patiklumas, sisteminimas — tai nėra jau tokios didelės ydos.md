@@ -64,6 +64,7 @@ media_all_json: |-
   citata_rodoma: "Ten buvo rašoma: „Nuoširdumas,\n  patiklumas, sisteminimas — tai nėra jau tokios didelės\n  ydos, jeigu istorikas tiksliai atpasakoja tai, ką buvo gir­\n  dėjęs, ir neslepia nieko, kas galėtų būti naudinga vėles­\n  niems tyrinėtojams, kai šie imsis nustatinėti čia girdėtų\n  padavimų patikimumą“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

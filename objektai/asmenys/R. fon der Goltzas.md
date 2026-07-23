@@ -38,7 +38,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 ## Teiginiai
 
 <a id="claim-t-40401"></a>
-- t-002
+- t-001
   teiginys: "1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
     - c-44494
 
 <a id="claim-t-40402"></a>
-- t-001
+- t-002
   teiginys: "1919 m. pradžioje gen. R. fon der Goltzas buvo paskirtas vokiečių pajėgų Baltijos šalyse vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44494
   sudarytojas: "Karolis Zikaras"
@@ -112,4 +112,4 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

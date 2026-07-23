@@ -44,9 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24940
-- susijęs iš [[objektai/zodynas/polonizacija integracinė kalba.md#claim-t-22250|polonizacija integracinė kalba]]: Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.
-- susijęs iš [[objektai/zodynas/integracinė kalba polonizacija.md#claim-t-22165|integracinė kalba polonizacija]]: Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos.
-- susijęs iš [[objektai/zodynas/polonizacija integracinė kalba.md#claim-t-22249|polonizacija integracinė kalba]]: Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.
+
 ## Citatos
 
 - id: c-24940

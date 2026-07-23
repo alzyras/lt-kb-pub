@@ -81,7 +81,7 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179133
-- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190002|Ksaveras Bogušas]]: Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą.'
@@ -104,11 +104,10 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-173239

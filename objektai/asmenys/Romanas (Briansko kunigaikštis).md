@@ -9,15 +9,15 @@ datos:
   - '1275 m.'
 date_start: '1275'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -94,20 +94,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178781
-- susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71754|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.
-- susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas Hipatijaus, arba Voluinės, metraščiu grindė žinią, kad Rostislavas Riurikovičius užkariavo Romano valdas prie Kamenės.
-- susijęs iš [[objektai/zodynas/kelionių romanas.md#claim-t-36792|kelionių romanas]]: Prie kelionių romano buvo pridėtas geografinis ir istorinis paaiškinimas, žodynėlis ir kelionės žemėlapis.
-- susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/grupes/Arabai.md#claim-t-35575|Arabai]]: Prie romano buvo pridėtas trumpas geografinis ir istorinis paaiškinimas apie arabus, turkus, kurdus ir kitas tauteles.
-- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71752|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
-- susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71755|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.
-- susijęs iš [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines.md#claim-t-97133|Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]: Pačios karūnavimo apeigos skaitėsi sakramentu.
-- susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.
-- susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas.'
@@ -126,7 +113,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-44496

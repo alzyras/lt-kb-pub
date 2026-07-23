@@ -57,7 +57,7 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     - c-28937
 
 <a id="claim-t-196525"></a>
-- t-003
+- t-002
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė kraštą Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -68,18 +68,7 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178748
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
-- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185365|algininkai]]: Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188018|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-188019|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
-- susijęs iš [[objektai/asmenys/Lanckoronskis.md#claim-t-186137|Lanckoronskis]]: Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę užklupusią karinę grėsmę.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186700|Teodoro Karijotaičio pašalinimas iš Podolės]]: Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.
-- susijęs iš Kropivnos upė: Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
-- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
-- susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
+
 ## Citatos
 
 - id: c-28937
@@ -124,4 +113,4 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

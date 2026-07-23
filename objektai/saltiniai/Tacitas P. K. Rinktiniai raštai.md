@@ -98,6 +98,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   citata_rodoma: "Tacitas P. K. Rinktiniai raštai.—V., 1972."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

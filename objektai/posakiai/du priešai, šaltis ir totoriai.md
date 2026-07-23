@@ -35,7 +35,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 ## Teiginiai
 
 <a id="claim-t-11660"></a>
-- t-002
+- t-001
   teiginys: "Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -74,4 +74,4 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

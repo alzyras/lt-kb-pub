@@ -44,7 +44,7 @@ media_all_json: |-
     - c-176731
 
 <a id="claim-t-196864"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Olbrachtas po sutarties su Moldavijos vaivada traukė iš Moldavijos per uolėtą Bukoviną, nes norėjo greičiau pasiekti Lenkijos sieną."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -55,12 +55,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178948
-- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
-- susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
-- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
-- susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
-- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
-- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse.'
@@ -86,7 +81,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176731
@@ -150,4 +144,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

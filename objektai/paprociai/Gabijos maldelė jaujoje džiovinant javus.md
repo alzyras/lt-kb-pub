@@ -52,7 +52,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187835"></a>
-- t-002
+- t-001
   teiginys: "Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,4 +93,4 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

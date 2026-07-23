@@ -39,7 +39,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 ## Teiginiai
 
 <a id="claim-t-19060"></a>
-- t-002
+- t-001
   teiginys: "1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - c-21820
 
 <a id="claim-t-19061"></a>
-- t-003
+- t-002
   teiginys: "Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - c-21821
 
 <a id="claim-t-19062"></a>
-- t-001
+- t-003
   teiginys: "Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - c-166943
 
 <a id="claim-t-183551"></a>
-- t-005
+- t-004
   teiginys: "Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu, o socialdemokratai jį parėmė su sąlyga derinti veiksmus su jais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -99,11 +99,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-166944
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23314|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Spaudžiamas perversmininkų prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė kabinetą sudaryti Augustinui Voldemarui.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23317|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Spaudžiamas perversmininkų Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.
-- susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169733|Lietuvos socialdemokratų partija]]: 1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.
-- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101466|Lietuvos valstiečių liaudininkų sąjunga]]: 1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją.
-- susijęs iš [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.).md#claim-t-45335|III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]: 1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo.
+
 ## Citatos
 
 - id: c-21820
@@ -125,7 +121,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-21821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -145,7 +141,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166943
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -167,7 +163,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-166944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -185,4 +181,4 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

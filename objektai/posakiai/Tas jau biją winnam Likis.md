@@ -48,8 +48,7 @@ Narbutas posakį „tas jau biją winnam Likis“ pateikia kaip latvių valstie�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172475
-- susijęs iš [[objektai/grupes/Senovės graikai.md#claim-t-189385|Senovės graikai]]: Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu.
-- susijęs iš [[objektai/zodynas/Antikos žmonės.md#claim-t-189275|Antikos žmonės]]: Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum.
+
 ## Citatos
 
 - id: c-172475

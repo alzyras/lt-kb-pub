@@ -63,7 +63,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176558
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune.md#claim-t-186629|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]: Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.'
@@ -105,7 +105,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169484

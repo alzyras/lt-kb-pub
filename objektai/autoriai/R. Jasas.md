@@ -36,7 +36,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 ## Teiginiai
 
 <a id="claim-t-64831"></a>
-- t-002
+- t-001
   teiginys: "Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų."
   atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     - c-65424
 
 <a id="claim-t-64832"></a>
-- t-001
+- t-002
   teiginys: "R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -63,8 +63,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį apie paskelbtą darbą ir jo teminį kontekstą."
   pagrindžia:
     - c-65426
-- susijęs iš Lietuvos metraštis Bychovco kronika Parengė R. Jasas: R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+
 ## Citatos
 
 - id: c-65424
@@ -82,7 +81,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-65425
   autorius: "Petras Dusburgietis"
@@ -118,4 +117,4 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

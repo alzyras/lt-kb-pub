@@ -9,10 +9,6 @@ datos:
   - '1554 m.'
 date_start: '1505'
 date_end: '1554'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - karalius
   - miestas
   - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Teiginiai
 
 <a id="claim-t-87362"></a>
-- t-004
+- t-001
   teiginys: "Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83342
 
 <a id="claim-t-87363"></a>
-- t-003
+- t-002
   teiginys: "Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83346
 
 <a id="claim-t-87364"></a>
-- t-006
+- t-003
   teiginys: "Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83347
 
 <a id="claim-t-87365"></a>
-- t-002
+- t-004
   teiginys: "1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83341
 
 <a id="claim-t-87367"></a>
-- t-007
+- t-006
   teiginys: "Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83344
 
 <a id="claim-t-87368"></a>
-- t-001
+- t-007
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83343
 
 <a id="claim-t-194242"></a>
-- t-009
+- t-008
   teiginys: "Tas pats Ulrikas visą laiką iki pat mirties buvo Vil niaus monetų kalyklos prižiūrėtojas."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -175,7 +175,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83346
 
 <a id="claim-t-201546"></a>
-- t-010
+- t-009
   teiginys: "1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -185,15 +185,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184893
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
-- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.
-- susijęs iš Ulriko Hozijaus tiltas per Viliją: Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.
-- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
-- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172092|Dominikonų ordinas]]: Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.
-- susijęs iš [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu.md#claim-t-86926|Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]: Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.
-- susijęs iš Šv. Dvasios prieglauda Vilniuje: Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.
-- susijęs iš Šv. Dvasios prieglauda Vilniuje: Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.
+
 ## Citatos
 
 - id: c-83341
@@ -255,7 +247,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-83343
   autorius: "Michał Baliński"
@@ -278,7 +270,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
 
 - id: c-83344
   autorius: "Michał Baliński"
@@ -308,7 +300,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-83345
   autorius: "Michał Baliński"
@@ -337,7 +329,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-83346
   autorius: "Michał Baliński"
@@ -404,8 +396,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-009
+    - t-002
+    - t-008
 
 - id: c-83347
   autorius: "Michał Baliński"
@@ -455,7 +447,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-184893
   autorius: "Zigmantas Kiaupa"
@@ -473,7 +465,4 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-
-## Ryšiai
-- Ulrikas Hozijus pastatė [[objektai/vietos/Vilniaus tiltas per Viliją]]
+    - t-009

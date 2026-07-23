@@ -43,7 +43,7 @@ Vartojama normanų žygių Baltijos regione aptarime.
 ## Teiginiai
 
 <a id="claim-t-54799"></a>
-- t-002
+- t-001
   teiginys: "Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -59,7 +59,7 @@ Vartojama normanų žygių Baltijos regione aptarime.
     - c-55796
 
 <a id="claim-t-54800"></a>
-- t-001
+- t-002
   teiginys: "Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -107,5 +107,5 @@ Vartojama normanų žygių Baltijos regione aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

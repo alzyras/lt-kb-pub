@@ -30,7 +30,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 ## Teiginiai
 
 <a id="claim-t-69028"></a>
-- t-002
+- t-001
   teiginys: "Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,7 +39,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     - c-68454
 
 <a id="claim-t-69029"></a>
-- t-001
+- t-002
   teiginys: "Į aisčių kraštą vykęs misionierius Vysla išplaukė į jūrą ir krantą pasiekė Priegliaus žiotyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +78,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-175966
   redaktorius: "A. Šapoka"

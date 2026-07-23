@@ -40,7 +40,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Teiginiai
 
 <a id="claim-t-26555"></a>
-- t-005
+- t-001
   teiginys: "XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - c-26783
 
 <a id="claim-t-26556"></a>
-- t-006
+- t-002
   teiginys: "Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-26784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -114,4 +114,4 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

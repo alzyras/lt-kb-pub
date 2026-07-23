@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78700"></a>
-- t-004
+- t-001
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai patys organizavo kryžiaus žygius prieš totorius."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Nenurodyta
     - c-75905
 
 <a id="claim-t-78701"></a>
-- t-006
+- t-002
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Nenurodyta
     - c-75905
 
 <a id="claim-t-78702"></a>
-- t-007
+- t-003
   teiginys: "Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
     - c-43168
 
 <a id="claim-t-78703"></a>
-- t-008
+- t-004
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai patys pradėjo organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,7 +202,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-75905
   sudarytojas: "Karolis Zikaras"
@@ -228,6 +228,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
+    - t-002
     - t-004
-    - t-006
-    - t-008

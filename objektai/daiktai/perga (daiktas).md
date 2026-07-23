@@ -70,9 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-185328
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-185327

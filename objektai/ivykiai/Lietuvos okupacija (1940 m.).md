@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys priklauso nuo konteksto, bet citata pagrindžia aiškų faktą."
   pagrindžia:
     - c-28746
-- susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
+
 ## Citatos
 
 - id: c-28746

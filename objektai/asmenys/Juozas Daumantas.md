@@ -77,11 +77,7 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
   temporalinis_llm_pakomentavimas: "Pradinis teiginys sujungia kelias temas ir turi antraštės bei fragmento triukšmo."
   pagrindžia:
     - c-167133
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-183697|Juozas Lukša-Daumantas]]: STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40632|Juozas Lukša-Daumantas]]: Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40634|Juozas Lukša-Daumantas]]: Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.
-- susijęs iš [[objektai/asmenys/Antanas Jančius-Žaibas.md#claim-t-80704|Antanas Jančius-Žaibas]]: Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.
-- susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.
+
 ## Citatos
 
 - id: c-42033

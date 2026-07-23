@@ -59,9 +59,6 @@ Nenurodyta
   pagrindžia:
     - c-10302
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-10302
@@ -92,6 +89,7 @@ Nenurodyta
   citata_rodoma: "mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697\ndarbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą\npatį darbą reiks atlikti, kurį ant svieto dirbo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

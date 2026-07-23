@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-189725"></a>
-- t-002
+- t-001
   teiginys: "Narbutas katiną aiškino kaip laisvės deivės simbolį, kuriuo lietuvių tauta esą naudojosi priešindamasi laisvių suvaržymui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -117,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

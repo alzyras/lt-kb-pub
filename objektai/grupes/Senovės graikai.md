@@ -57,7 +57,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172268
 
 <a id="claim-t-189383"></a>
-- t-003
+- t-002
   teiginys: "Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172270
 
 <a id="claim-t-189385"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172281
 
 <a id="claim-t-189386"></a>
-- t-005
+- t-004
   teiginys: "Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172273
 
 <a id="claim-t-189387"></a>
-- t-006
+- t-005
   teiginys: "Narbutas rašė, kad graikai Šiaurės tautų Apolono garbinimą laikė pagarsėjusiu ir todėl Apoloną vadino Šiauriniu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172274
 
 <a id="claim-t-189389"></a>
-- t-008
+- t-006
   teiginys: "Narbutas rašė, kad graikai, egiptiečiai, romėnai, indai, japonai, slavai, lietuviai ir kitos tautos turėjo dievų Kabirų ritualą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172279
 
 <a id="claim-t-189390"></a>
-- t-009
+- t-007
   teiginys: "Narbutas rašė, kad senovės graikai iki Periklio laikų Venerą laikė dviem atskiromis žvaigždėmis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172277
 
 <a id="claim-t-189392"></a>
-- t-011
+- t-008
   teiginys: "Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172279
 
 <a id="claim-t-189393"></a>
-- t-012
+- t-009
   teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -206,7 +206,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172280
 
 <a id="claim-t-189394"></a>
-- t-013
+- t-010
   teiginys: "Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -226,7 +226,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172281
 
 <a id="claim-t-189395"></a>
-- t-014
+- t-011
   teiginys: "Narbutas rašė, kad graikai nuo didvyrių laikų šventu laikė tam tikros ąžuolo rūšies medį, paskirtą Jupiteriui."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -246,7 +246,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-172282
 
 <a id="claim-t-189396"></a>
-- t-015
+- t-012
   teiginys: "Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -262,7 +262,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-176986
 
 <a id="claim-t-194587"></a>
-- t-016
+- t-013
   teiginys: "Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną ir tais pačiais principais besiremiančią religiją, pamėgdžiojančią beveik visas menkiausias smulkmenas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -275,7 +275,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     - c-176986
 
 <a id="claim-t-197219"></a>
-- t-017
+- t-014
   teiginys: "Kadangi ir šioje yra nemažai pasi savinta iš graikų, todėl mūsų ir skandinavų mitologijos panašybė pasirodo esanti dar ryškesnė."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -285,7 +285,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-176986
-- susijęs iš [[objektai/zodynas/Ratainyčia.md#claim-t-189324|Ratainyčia]]: Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.'
@@ -398,8 +398,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-015
+    - t-002
+    - t-012
 
 - id: c-172272
   autorius: "Teodoras Narbutas"
@@ -440,7 +440,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-172274
   autorius: "Teodoras Narbutas"
@@ -460,7 +460,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-172276
   autorius: "Teodoras Narbutas"
@@ -501,7 +501,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-172279
   autorius: "Teodoras Narbutas"
@@ -519,8 +519,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-008
-    - t-011
 
 - id: c-172280
   autorius: "Teodoras Narbutas"
@@ -537,8 +537,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-009
     - t-012
-    - t-015
 
 - id: c-172281
   autorius: "Teodoras Narbutas"
@@ -559,9 +559,9 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-013
-    - t-015
+    - t-003
+    - t-010
+    - t-012
 
 - id: c-172282
   autorius: "Teodoras Narbutas"
@@ -583,7 +583,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-011
 
 - id: c-172283
   autorius: "Teodoras Narbutas"
@@ -625,6 +625,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-016
-    - t-017
+    - t-012
+    - t-013
+    - t-014

@@ -69,8 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys pataisytas į savarankišką ir aiškią faktinę formą."
   pagrindžia:
     - c-19753
-- susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
-- susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
+
 ## Citatos
 
 - id: c-19753

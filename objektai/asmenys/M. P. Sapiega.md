@@ -61,8 +61,7 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44443
-- susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
-- susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78447|Sapiegų kariuomenė]]: M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.
+
 ## Citatos
 
 - id: c-44442

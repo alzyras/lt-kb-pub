@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41429"></a>
-- t-004
+- t-001
   teiginys: "Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-44949
 
 <a id="claim-t-41430"></a>
-- t-005
+- t-002
   teiginys: "Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -117,7 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-44948
   sudarytojas: "Karolis Zikaras"
@@ -138,7 +138,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-44949
   sudarytojas: "Karolis Zikaras"
@@ -163,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89412"></a>
-- t-003
+- t-001
   teiginys: "Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Nenurodyta
     - c-85375
 
 <a id="claim-t-89413"></a>
-- t-001
+- t-002
   teiginys: "Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-85372
 
 <a id="claim-t-89414"></a>
-- t-002
+- t-003
   teiginys: "Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-85373
   autorius: "Petras Dusburgietis"
@@ -173,7 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
-    - t-002
     - t-004
     - t-005

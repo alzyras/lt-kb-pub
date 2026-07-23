@@ -31,7 +31,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 ## Teiginiai
 
 <a id="claim-t-22165"></a>
-- t-002
+- t-001
   teiginys: "Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - c-24852
 
 <a id="claim-t-22166"></a>
-- t-001
+- t-002
   teiginys: "Lenkų kalba LDK bajorijai tapo integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-24852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -101,4 +101,4 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

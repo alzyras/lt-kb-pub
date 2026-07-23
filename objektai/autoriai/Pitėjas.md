@@ -7,15 +7,15 @@ datos:
   - '340 m.'
 date_start: '340'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'IV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
+amziai:
+  - 'IV'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -121,7 +121,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-174431
 
 <a id="claim-t-197632"></a>
-- t-006
+- t-005
   teiginys: "Ši kelionė įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų net iki Tacito senovės autoriai niekur nemini Estijos, nors kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Plinijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis aprašymais, estų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-179270
 
 <a id="claim-t-197633"></a>
-- t-007
+- t-006
   teiginys: "Pitėjas turbūt turėjo iš germanų, kurie visuomet taip gotiškai vadino šiuos kraštus ir žmones."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -145,7 +145,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-179271
 
 <a id="claim-t-197634"></a>
-- t-008
+- t-007
   teiginys: "Pitėjas gabenamas, nei kelio, kuriuo jį veždavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
     - c-174428
 
 <a id="claim-t-197635"></a>
-- t-009
+- t-008
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174428
@@ -236,7 +235,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-008
+    - t-007
 
 - id: c-174429
   autorius: "Teodoras Narbutas"
@@ -299,7 +298,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-009
+    - t-008
 
 - id: c-179270
   autorius: "Teodoras Narbutas"
@@ -325,7 +324,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-179271
   autorius: "Teodoras Narbutas"
@@ -348,4 +347,4 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006

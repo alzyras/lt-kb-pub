@@ -103,7 +103,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174093
-- susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191127|Darijus]]: Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi.
+
 ## Citatos
 
 - id: c-174091

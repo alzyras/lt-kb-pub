@@ -46,7 +46,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78919"></a>
-- t-004
+- t-001
   teiginys: "„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -62,7 +62,7 @@ media_all_json: |-
     - c-76022
 
 <a id="claim-t-78920"></a>
-- t-007
+- t-002
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir taip formavo „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -81,7 +81,7 @@ media_all_json: |-
     - c-76021
 
 <a id="claim-t-78921"></a>
-- t-005
+- t-003
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -125,8 +125,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-76022
   sudarytojas: "Karolis Zikaras"
@@ -146,4 +146,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

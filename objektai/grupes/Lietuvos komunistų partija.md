@@ -47,7 +47,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 ## Teiginiai
 
 <a id="claim-t-78352"></a>
-- t-022
+- t-001
   teiginys: "1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75656
 
 <a id="claim-t-78353"></a>
-- t-011
+- t-002
   teiginys: "Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22613
 
 <a id="claim-t-78354"></a>
-- t-015
+- t-003
   teiginys: "Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75645
 
 <a id="claim-t-78355"></a>
-- t-013
+- t-004
   teiginys: "Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75648
 
 <a id="claim-t-78357"></a>
-- t-023
+- t-005
   teiginys: "LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75650
 
 <a id="claim-t-78358"></a>
-- t-025
+- t-006
   teiginys: "Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75646
 
 <a id="claim-t-78360"></a>
-- t-014
+- t-007
   teiginys: "Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-42833
 
 <a id="claim-t-78362"></a>
-- t-004
+- t-009
   teiginys: "1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -205,7 +205,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22613
 
 <a id="claim-t-78364"></a>
-- t-002
+- t-010
   teiginys: "A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22611
 
 <a id="claim-t-78365"></a>
-- t-009
+- t-011
   teiginys: "TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -238,7 +238,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-42834
 
 <a id="claim-t-78366"></a>
-- t-005
+- t-012
   teiginys: "1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -257,7 +257,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22614
 
 <a id="claim-t-78367"></a>
-- t-006
+- t-013
   teiginys: "Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -273,7 +273,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22615
 
 <a id="claim-t-78373"></a>
-- t-024
+- t-014
   teiginys: "1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -292,7 +292,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-75658
 
 <a id="claim-t-78374"></a>
-- t-001
+- t-015
   teiginys: "Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -311,7 +311,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-22610
 
 <a id="claim-t-193553"></a>
-- t-026
+- t-016
   teiginys: "Kiekvienas žmogus, dalyvaujantis tokioje akcijoje, jautė, kad nuo jo priklauso Lietuvos ateitis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -321,10 +321,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176233
-- susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20555|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: Vladimirui Dekanozovui talkino sovietų pasiuntinybė su Nikolajumi Pozdniakovu priešakyje ir pogrindyje veikusi Lietuvos komunistų partija.
-- susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus.
-- susijęs iš [[objektai/zodynas/polpredas.md#claim-t-22253|polpredas]]: Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).
-- susijęs iš [[objektai/grupes/Nacionalinio gelbėjimo komitetas.md#claim-t-41101|Nacionalinio gelbėjimo komitetas (institucija)]]: Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
+
 ## Citatos
 
 - id: c-22610
@@ -348,7 +345,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-015
 
 - id: c-22611
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -368,7 +365,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-010
 
 - id: c-22613
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -388,8 +385,8 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-004
+    - t-002
+    - t-009
 
 - id: c-22614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -414,7 +411,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-012
 
 - id: c-22615
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -436,7 +433,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-013
 
 - id: c-42833
   sudarytojas: "Karolis Zikaras"
@@ -482,7 +479,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-011
 
 - id: c-75645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -509,7 +506,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-003
 
 - id: c-75646
   sudarytojas: "Karolis Zikaras"
@@ -549,7 +546,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-006
 
 - id: c-75647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -571,7 +568,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-007
 
 - id: c-75648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -592,7 +589,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-004
 
 - id: c-75650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -611,7 +608,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-005
 
 - id: c-75656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -633,7 +630,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-001
 
 - id: c-75658
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -657,7 +654,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-014
 
 - id: c-176233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -676,4 +673,4 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-016

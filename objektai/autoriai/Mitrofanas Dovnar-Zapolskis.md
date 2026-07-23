@@ -8,13 +8,13 @@ datos:
   - '1934 m.'
 date_start: '1867'
 date_end: '1934'
-periodo_grupes:
-  - 'naujieji laikai'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XIX'
   - 'XX'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196798"></a>
-- t-002
+- t-001
   teiginys: "Maskvėnams užėmus Briansko miestą ir kraštą, brianskiečiai prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -117,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

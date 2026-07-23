@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187993"></a>
-- t-004
+- t-001
   teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
@@ -75,11 +75,10 @@ Nenurodyta
     tai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­
     niais drabužiais ir atlikdavo įprastines aukojimo apeigas16.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-171001
@@ -105,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-171002
   autorius: "Teodoras Narbutas"
@@ -119,6 +118,7 @@ Nenurodyta
   citata_rodoma: "Kro­\nnikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik\ntai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­\nniais drabužiais ir atlikdavo įprastines aukojimo apeigas16."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

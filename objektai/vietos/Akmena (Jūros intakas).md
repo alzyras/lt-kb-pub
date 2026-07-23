@@ -27,39 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Aizkrauklė (buv. Ašeradė)
-      Akmena (Jūros intakas), u.
-      Akmena (Mituvos intakas), u.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-59307
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Ašeradė)
-      Akmena (Jūros intakas), u.
-      Akmena (Mituvos intakas), u.
-  citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-58675"></a>
@@ -78,3 +45,35 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59307
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Aizkrauklė (buv. Ašeradė)
+      Akmena (Jūros intakas), u.
+      Akmena (Mituvos intakas), u.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-59307
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Ašeradė)
+      Akmena (Jūros intakas), u.
+      Akmena (Mituvos intakas), u.
+  citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

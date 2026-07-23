@@ -26,7 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė.md#claim-t-09550|Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė]]: XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.

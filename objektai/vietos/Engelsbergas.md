@@ -65,15 +65,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir suformuluotas pilnas faktinis sakinys."
   pagrindžia:
     - c-59179
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89444|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179122|Kryžiuočių ordinas]]: Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89443|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89445|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.
-- susijęs iš [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai.md#claim-t-184041|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]: Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.
-- susijęs iš [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai.md#claim-t-59162|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]: Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.
-- susijęs iš Baiga: Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi.
-- susijęs iš Baiga: Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi.
+
 ## Citatos
 
 - id: c-59179

@@ -45,9 +45,3 @@ i Papée, Fr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64508|A. Brückner]]: Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.
-- susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30929|Pr. Papée]]: Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.
-- susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30930|Pr. Papée]]: Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.
-- susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.

@@ -7,14 +7,14 @@ datos:
   - '355 m.'
 date_start: '355'
 date_end: ''
-amziai:
-  - 'IV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sukilimas
   - ivykis
   - karas
+amziai:
+  - 'IV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -187,11 +187,11 @@ Nenurodyta
     bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
     paskatinti, ėmė maištauti ir sukėlė pilietinį karą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 

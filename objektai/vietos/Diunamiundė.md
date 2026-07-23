@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 ## Teiginiai
 
 <a id="claim-t-58538"></a>
-- t-002
+- t-001
   teiginys: "Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
     - c-59171
 
 <a id="claim-t-58539"></a>
-- t-001
+- t-002
   teiginys: "1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,12 +70,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą."
   pagrindžia:
     - c-59170
-- susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
-- susijęs iš Diunamiundės metraštis: Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.
-- susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
-- susijęs iš Prūsijos žemės kronika (iki 1450 m.): „Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.
-- susijęs iš Sembos kanauninko rinkinys: Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.
-- susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
+
 ## Citatos
 
 - id: c-59170
@@ -98,7 +93,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-59171
   autorius: "Petras Dusburgietis"
@@ -115,4 +110,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

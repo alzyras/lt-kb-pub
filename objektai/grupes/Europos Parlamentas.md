@@ -37,7 +37,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 ## Teiginiai
 
 <a id="claim-t-74105"></a>
-- t-003
+- t-001
   teiginys: "Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
     - c-72173
 
 <a id="claim-t-74106"></a>
-- t-001
+- t-002
   teiginys: "Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
     - c-72173
 
 <a id="claim-t-74107"></a>
-- t-002
+- t-003
   teiginys: "ES piliečiai turi teisę teikti peticijas Europos Parlamentui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +114,8 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002
 
 - id: c-72175
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -137,4 +137,4 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

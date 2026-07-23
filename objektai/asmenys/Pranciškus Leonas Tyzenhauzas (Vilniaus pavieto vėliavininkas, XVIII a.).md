@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200490"></a>
-- t-002
+- t-001
   teiginys: "1760 m. Pranciškus Leonas Tyzenhauzas tribunole buvo nuteistas kalėti 1 metus ir 6 savaites bokšto kalėjime."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-183857
 
 <a id="claim-t-200491"></a>
-- t-001
+- t-002
   teiginys: "Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -85,5 +85,5 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -43,9 +43,7 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-90716
-- susijęs iš [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.).md#claim-t-35893|Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]: 1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
-- susijęs iš Hohendorfas: Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
-- susijęs iš Soldau: Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.
+
 ## Citatos
 
 - id: c-90716

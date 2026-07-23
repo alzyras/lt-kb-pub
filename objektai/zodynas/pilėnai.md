@@ -9,13 +9,13 @@ datos:
   - '1314 m.'
 date_start: '1313'
 date_end: '1314'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinis-terminas
   - sąvoka
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -88,7 +88,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     - c-176941
 
 <a id="claim-t-197037"></a>
-- t-006
+- t-005
   teiginys: "Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176167
@@ -271,4 +270,4 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

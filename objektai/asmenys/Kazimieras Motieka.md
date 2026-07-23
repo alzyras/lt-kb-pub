@@ -55,13 +55,7 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie Motiekos pareigas ir paremtas citata."
   pagrindžia:
     - c-21815
-- susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
-- susijęs iš [[objektai/asmenys/Bronislovas Kuzmickas.md#claim-t-18859|Bronislovas Kuzmickas]]: 1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
-- susijęs iš [[objektai/asmenys/Česlovas Stankevičius.md#claim-t-19350|Česlovas Stankevičius]]: 1990 m. kovo 11 d. Česlovas Stankevičius buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-183249|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75166|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-183250|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.
-- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75170|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: 1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.
+
 ## Citatos
 
 - id: c-21815

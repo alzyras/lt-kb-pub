@@ -45,7 +45,7 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
   semantiniai_rysiai: "Vilniaus rusinai gyveno Vilnius (0.80)"
   pagrindžia:
     - c-82754
-- susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
+
 ## Citatos
 
 - id: c-82754

@@ -41,12 +41,7 @@ Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, god
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175729
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191155|Teodorikas Didysis]]: Narbutas Teodoriką apibūdino kaip ostrogotų valdovą, gudrų, godų ir sumanų žmogų, ištroškusį valdžios bei turtų.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191231|Teodorikas]]: Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.
-- susijęs iš [[objektai/asmenys/Amalas.md#claim-t-191364|Amalas]]: Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191230|Teodorikas]]: Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip sumanus, godus ir valdžios bei turtų troškęs žmogus.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
+
 ## Citatos
 
 - id: c-175729

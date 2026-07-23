@@ -68,8 +68,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir sutelktas į Rainius, pašalinant šalutinius sąrašinius duomenis."
   pagrindžia:
     - c-167016
-- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
-- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
+
 ## Citatos
 
 - id: c-24435

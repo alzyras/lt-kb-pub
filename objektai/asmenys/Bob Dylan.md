@@ -37,7 +37,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 ## Teiginiai
 
 <a id="claim-t-18855"></a>
-- t-002
+- t-001
   teiginys: "Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -47,9 +47,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   temporalinis_llm_pakomentavimas: "Citata pagrindžia lietuviškos kilmės faktą, o pirminis teiginys per ilgas ir publicistinis."
   pagrindžia:
     - c-21627
-- susijęs iš [[objektai/asmenys/Anthony Kiedis.md#claim-t-78044|Anthony Kiedis]]: Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.
-- susijęs iš [[objektai/asmenys/Leonard Cohen.md#claim-t-19105|Leonard Cohen]]: Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
+
 ## Citatos
 
 - id: c-21627
@@ -72,7 +70,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-21628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -92,6 +90,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   citata_rodoma: "je, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 ## Teiginiai
 
 <a id="claim-t-58521"></a>
-- t-002
+- t-001
   teiginys: "Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo."
   atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     - c-59153
 
 <a id="claim-t-58522"></a>
-- t-001
+- t-002
   teiginys: "1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59154
   autorius: "Petras Dusburgietis"
@@ -101,4 +101,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

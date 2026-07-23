@@ -56,8 +56,7 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
   temporalinis_llm_pakomentavimas: "Citata pagrindžia tikslesnį sakinį su vieta ir data."
   pagrindžia:
     - c-83878
-- susijęs iš Medininkų pilis (pilis): Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.
-- susijęs iš Medininkų pilis (pilis): Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.
+
 ## Citatos
 
 - id: c-83878

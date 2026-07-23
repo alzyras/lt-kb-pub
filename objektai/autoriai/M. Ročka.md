@@ -54,7 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata palaiko vertėjo faktą, bet pradinis teiginys yra bibliografinis fragmentas."
   pagrindžia:
     - c-84009
-- susijęs iš [[objektai/autoriai/Ročka M.md#claim-t-60775|Ročka M]]: M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais.
+
 ## Citatos
 
 - id: c-84009

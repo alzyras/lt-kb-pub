@@ -43,6 +43,7 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
   citata_rodoma: "sidalijo Lenkija ir Sovietų Rusija. Pirmąsias sutartis Lietuva pasirašė kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

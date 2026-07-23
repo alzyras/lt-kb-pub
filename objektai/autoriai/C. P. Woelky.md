@@ -52,9 +52,7 @@ Dusburgietis teigia, kad woelky.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61314
-- susijęs iš Urban W. The Baltic Crusade: W. Urbano „The Baltic Crusade“ išleista Northern Illinois University Press leidykloje De Kalbe 1975 m.
-- susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
-- susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
+
 ## Citatos
 
 - id: c-61314

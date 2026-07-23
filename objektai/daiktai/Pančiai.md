@@ -64,11 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60330
-- susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
-- susijęs iš [[objektai/asmenys/Vitolfas.md#claim-t-190119|Vitolfas]]: Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi.
-- susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60079|Šventoji Barbora]]: Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.
-- susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
-- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54804|Cechas]]: Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje.
+
 ## Citatos
 
 - id: c-60330

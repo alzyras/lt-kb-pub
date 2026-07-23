@@ -37,7 +37,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 ## Teiginiai
 
 <a id="claim-t-72073"></a>
-- t-004
+- t-001
   teiginys: "Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-46280
 
 <a id="claim-t-72074"></a>
-- t-003
+- t-002
   teiginys: "Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,30 +65,14 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-46281
 
 <a id="claim-t-72077"></a>
-- t-001
+- t-003
   teiginys: "Gardino seimas buvo sušauktas patvirtinti Respublikos padalijimą ir sudaryti naują taikos sutartį su apkarpyta valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46280
-- susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170094|Stanislovas Augustas Poniatovskis (valdovas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
-- susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. Gardino seimo privilegija nepriekaištingai Vilniaus magistrate tarnavusius miestiečius ir jų palikuonis visam laikui pakėlė į bajorų luomą.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
-- susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63710|Jokūbas Jasinskis]]: 1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.
-- susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
-- susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87062|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172813|Vilniaus magistratas]]: Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172846|Vilniaus miestiečių luomas]]: 1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
-- susijęs iš [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę.md#claim-t-87308|Vilniaus magistrato tarnybos kelias į bajorystę]]: Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
-- susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
-- susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
-- susijęs iš Gardinas: 1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
-- susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86486|miesto magistrato pareigybės]]: 1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
+
 ## Citatos
 
 - id: c-46280
@@ -108,8 +92,8 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-001
+    - t-003
 
 - id: c-46281
   redaktorius: "A. Šapoka"
@@ -128,7 +112,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-70499
   redaktorius: "A. Šapoka"
@@ -145,6 +129,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   citata_rodoma: "Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai\npadaryti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

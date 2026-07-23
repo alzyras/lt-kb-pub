@@ -45,7 +45,7 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33137
-- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66879|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.
+
 ## Citatos
 
 - id: c-33137

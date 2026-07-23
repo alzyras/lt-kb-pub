@@ -56,9 +56,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166355
-- susijęs iš [[objektai/autoriai/Nežinomas Jėzuitų ordino narys.md#claim-t-190397|Nežinomas Jėzuitų ordino narys]]: Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istoriją, saugotą privataus dvarininko bibliotekoje.
-- susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-183487|žyniai vaidilos raganos]]: „Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.
-- susijęs iš [[objektai/zodynas/žyniai vaidilos raganos.md#claim-t-22357|žyniai vaidilos raganos]]: Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes.
+
 ## Citatos
 
 - id: c-03301

@@ -31,7 +31,7 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
 ## Teiginiai
 
 <a id="claim-t-197368"></a>
-- t-002
+- t-001
   teiginys: "Ar krivio buvimas dėl to nevykusio palyginimo virto pasaka?"
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
     - c-179151
 
 <a id="claim-t-197369"></a>
-- t-003
+- t-002
   teiginys: "Manau, kad šiais argumentais ir šiais galinčių kelti prie kaištų nagrinėjimais išgelbėjau istorinį Prūsijos krivio egzista vimą, apgindamas nuo naujų abejonių, ir drauge patvirtinau senojo kryžiuočių kronikininko Dusburgiečio patikimumą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179151
   autorius: "Teodoras Narbutas"
@@ -104,4 +104,4 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

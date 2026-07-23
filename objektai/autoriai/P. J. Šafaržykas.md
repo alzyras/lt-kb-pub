@@ -38,7 +38,7 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
 ## Teiginiai
 
 <a id="claim-t-197631"></a>
-- t-002
+- t-001
   teiginys: "P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,4 +91,4 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -55,9 +55,7 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-60865
-- susijęs iš [[objektai/asmenys/Vilhelmas (Sabinos kardinolas).md#claim-t-60221|Vilhelmas (Sabinos kardinolas)]]: Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59971|Henrikas iš Hohenlohės]]: Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.
+
 ## Citatos
 
 - id: c-60865

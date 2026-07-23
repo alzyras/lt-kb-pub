@@ -41,7 +41,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Teiginiai
 
 <a id="claim-t-119212"></a>
-- t-003
+- t-001
   teiginys: "Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-37629
 
 <a id="claim-t-119213"></a>
-- t-005
+- t-002
   teiginys: "Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-37630
 
 <a id="claim-t-119214"></a>
-- t-006
+- t-003
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-37631
 
 <a id="claim-t-119215"></a>
-- t-001
+- t-004
   teiginys: "Lietuvos valstybės pietuose buvo plati Podolija, nusitęsusi link Juodosios jūros srities stepių."
   atnaujinta: "2026-05-31 12:53"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-109512
 
 <a id="claim-t-119216"></a>
-- t-009
+- t-005
   teiginys: "Vytauto laikais Podolijoje buvo daug dvarų ir ūkio centrų, nes ši sritis buvo labiau apgyventa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +129,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-109511
 
 <a id="claim-t-119217"></a>
-- t-004
+- t-006
   teiginys: "Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-109514
 
 <a id="claim-t-119218"></a>
-- t-008
+- t-007
   teiginys: "Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,7 +164,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-109513
 
 <a id="claim-t-119219"></a>
-- t-002
+- t-008
   teiginys: "Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -180,7 +180,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - c-37628
 
 <a id="claim-t-184394"></a>
-- t-010
+- t-009
   teiginys: "Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -198,10 +198,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   semantiniai_rysiai: "Podolija priklausė Lietuva (0.90)"
   pagrindžia:
     - c-167762
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179688|Švitrigaila]]: Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179688|Švitrigaila]]: Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.
-- susijęs iš Podolė: Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179693|Švitrigaila]]: Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.
+
 ## Citatos
 
 - id: c-37628
@@ -222,7 +219,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-008
 
 - id: c-37629
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -240,7 +237,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-37630
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -266,7 +263,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-37631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -290,7 +287,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-109511
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -312,7 +309,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-109512
   autorius: "Zenonas Ivinskis"
@@ -331,7 +328,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-109513
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -355,7 +352,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-109514
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -376,7 +373,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-006
 
 - id: c-167762
   autorius: "Zenonas Ivinskis"
@@ -395,7 +392,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

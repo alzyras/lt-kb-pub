@@ -69,10 +69,7 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173581
-- susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
-- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190759|Malte-Brunas]]: Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį.
-- susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
-- susijęs iš [[objektai/grupes/Stodorėnai.md#claim-t-192998|Stodorėnai]]: Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
+
 ## Citatos
 
 - id: c-173248

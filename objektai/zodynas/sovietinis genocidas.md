@@ -55,6 +55,7 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
   citata_rodoma: "dyti Lietuvoje – iš viso Lietuva neteko apie 1,058 mln. arba daugiau kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

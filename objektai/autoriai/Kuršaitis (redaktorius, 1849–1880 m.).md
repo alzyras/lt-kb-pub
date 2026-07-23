@@ -46,7 +46,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 ## Teiginiai
 
 <a id="claim-t-11074"></a>
-- t-003
+- t-001
   teiginys: "Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     - c-13626
 
 <a id="claim-t-11075"></a>
-- t-001
+- t-002
   teiginys: "Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
     - c-13625
 
 <a id="claim-t-11076"></a>
-- t-002
+- t-003
   teiginys: "Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“."
   atnaujinta: "2026-06-14 09:48"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-13626
   redaktorius: "A. Šapoka"
@@ -141,7 +141,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-13628
   redaktorius: "A. Šapoka"
@@ -163,4 +163,4 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

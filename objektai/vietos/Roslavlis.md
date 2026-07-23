@@ -27,45 +27,6 @@ media_all_json: |-
 
 Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    33. APIE SMOLENSKO KUNIGAIKŠČIO GLEBO SVETOSLAVOVI-
-    ClAUS MAISTĄ PRIEŠ VYTAUTĄ IR VYTAUTO MOS! SU
-    TOTORIAIS PRIE VORKSLOS UPES
-    Didysis kunigaikštis Vytautas, sugrįžęs iš Vokieti­
-    jos į didžiojo kunigaikščio sostą, paleido savo uošvį
-    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
-    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
-    vičiui davė Roslavlio2  miestą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-170346
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    paleido savo uošvį
-    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
-    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
-    vičiui davė Roslavlio2  miestą.
-  citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-187311"></a>
@@ -85,3 +46,41 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170346
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    33. APIE SMOLENSKO KUNIGAIKŠČIO GLEBO SVETOSLAVOVI-
+    ClAUS MAISTĄ PRIEŠ VYTAUTĄ IR VYTAUTO MOS! SU
+    TOTORIAIS PRIE VORKSLOS UPES
+    Didysis kunigaikštis Vytautas, sugrįžęs iš Vokieti­
+    jos į didžiojo kunigaikščio sostą, paleido savo uošvį
+    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
+    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
+    vičiui davė Roslavlio2  miestą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-170346
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    paleido savo uošvį
+    kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
+    ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
+    vičiui davė Roslavlio2  miestą.
+  citata_rodoma: "paleido savo uošvį \nkunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­\nju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo- \nvičiui davė Roslavlio2  miestą."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

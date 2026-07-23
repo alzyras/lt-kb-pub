@@ -68,11 +68,7 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174358
-- susijęs iš [[objektai/asmenys/Vasilijus Tatiščevas.md#claim-t-191359|Vasilijus Tatiščevas]]: Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu.
-- susijęs iš [[objektai/autoriai/Vasilijus Tatiščevas.md#claim-t-191602|Vasilijus Tatiščevas]]: Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
-- susijęs iš Osteros upė: Narbutas rašė, kad Tatiščevas klaidingai prie Osteros upės žiočių lokalizavo pilaitę, galbūt vadintą Jurjevu.
-- susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
+
 ## Citatos
 
 - id: c-174357

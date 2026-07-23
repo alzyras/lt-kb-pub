@@ -30,7 +30,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 ## Teiginiai
 
 <a id="claim-t-41996"></a>
-- t-002
+- t-001
   teiginys: "Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     - c-45254
 
 <a id="claim-t-41997"></a>
-- t-001
+- t-002
   teiginys: "Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-45254
   sudarytojas: "Karolis Zikaras"
@@ -124,7 +124,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-45255
   sudarytojas: "Karolis Zikaras"

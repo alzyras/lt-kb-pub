@@ -43,6 +43,7 @@ Dusburgietis teigia, kad valančius M.
   citata_rodoma: "Valančius M. Raštai. T. 1.— V., 1972."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

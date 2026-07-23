@@ -53,7 +53,7 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-75181
-- susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-19064|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
+
 ## Citatos
 
 - id: c-75181

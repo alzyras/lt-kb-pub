@@ -38,7 +38,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-03175
 
 <a id="claim-t-193263"></a>
-- t-003
+- t-002
   teiginys: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -48,20 +48,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03175
-- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
-- susijęs iš Geranainys: Geranainyse buvo įkurta pijarų mokykla.
-- susijęs iš Geranainys: Geranainyse veikė viena iš pijarų įkurtų mokyklų.
-- susijęs iš Naujasis Dolskas: Naujajame Dolske buvo įkurta pijarų mokykla.
-- susijęs iš Naujasis Dolskas: Naujajame Dolske buvo įkurta pijarų mokykla.
-- susijęs iš Panevėžys: Panevėžyje buvo įkurta viena iš pijarų mokyklų.
-- susijęs iš Raseiniai: Raseiniuose buvo įkurta pijarų mokykla.
-- susijęs iš Ukmergė: Ukmergėje buvo įkurta pijarų mokykla, priklausiusi jų kolegijų ir žemesniųjų mokyklų tinklui.
-- susijęs iš Ukmergė: Ukmergė minima tarp vietų, kuriose buvo įkurtos pijarų kolegijos arba žemesniosios mokyklos.
-- susijęs iš Verenava: Verenavoje buvo įkurta pijarų mokykla.
-- susijęs iš Verenava: Verenavoje buvo įkurta pijarų mokykla.
-- susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
-- susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
-- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
+
 ## Citatos
 
 - id: c-03175
@@ -85,4 +72,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

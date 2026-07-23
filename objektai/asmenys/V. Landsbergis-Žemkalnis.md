@@ -55,12 +55,7 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
   temporalinis_llm_pakomentavimas: "Citata nepagrindžia skrydžio teiginio, bet pagrindžia faktą apie architektą."
   pagrindžia:
     - c-75349
-- susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-183570|Stasys Girėnas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/daiktai/„Lituanica“ lėktuvas.md#claim-t-25181|„Lituanica“ lėktuvas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ skrido tiesiogiai iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183273|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77933|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš S. Dariaus ir S. Girėno laiškas prieš skrydį: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
+
 ## Citatos
 
 - id: c-75349

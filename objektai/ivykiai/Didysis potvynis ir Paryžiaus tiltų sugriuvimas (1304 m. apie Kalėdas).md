@@ -71,7 +71,7 @@ Nenurodyta
     - c-62735
 
 <a id="claim-t-194381"></a>
-- t-003
+- t-002
   teiginys: "Apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,4 +106,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

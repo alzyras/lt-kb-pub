@@ -44,7 +44,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     - c-172000
 
 <a id="claim-t-189112"></a>
-- t-003
+- t-002
   teiginys: "Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     - c-172000
 
 <a id="claim-t-197356"></a>
-- t-004
+- t-003
   teiginys: "Šie užkei kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapojami, bet gins savo senąjį tikėjimą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     - c-171998
 
 <a id="claim-t-197357"></a>
-- t-005
+- t-004
   teiginys: "Tamsybės laikais demonografai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc cubi, kankinančius žmones per miegą begėdiškais vaizdais, net tikrais veiksmais, ypač davusius skaistybės įžadus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -99,11 +99,11 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
 
 ## Citatos
 
@@ -127,7 +127,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-171999
   autorius: "Teodoras Narbutas"
@@ -151,7 +151,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-172000
   autorius: "Teodoras Narbutas"
@@ -175,4 +175,4 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

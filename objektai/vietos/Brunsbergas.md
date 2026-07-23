@@ -38,7 +38,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 ## Teiginiai
 
 <a id="claim-t-58383"></a>
-- t-003
+- t-001
   teiginys: "Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - c-59017
 
 <a id="claim-t-58385"></a>
-- t-001
+- t-003
   teiginys: "Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -96,20 +96,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir išnašos numeris, išlaikant datą, veikėją ir veiksmą."
   pagrindžia:
     - c-59016
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
-- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
-- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-60310|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
-- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
-- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-60310|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
-- susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62983|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.
-- susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62984|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.
-- susijęs iš [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.).md#claim-t-62761|Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.
-- susijęs iš [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas.md#claim-t-59288|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]: Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė.
-- susijęs iš [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas.md#claim-t-59289|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]: Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.
-- susijęs iš Elbingas: Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą.
-- susijęs iš Pasarė: Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
+
 ## Citatos
 
 - id: c-59015
@@ -132,7 +119,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-59016
   autorius: "Petras Dusburgietis"
@@ -173,7 +160,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002
 
 - id: c-59018
@@ -187,6 +174,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   citata_rodoma: "259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.\nPilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau\nAismarių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

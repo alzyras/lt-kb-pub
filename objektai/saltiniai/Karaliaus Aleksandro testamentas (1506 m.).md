@@ -39,7 +39,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88192"></a>
-- t-002
+- t-001
   teiginys: "1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Nenurodyta
     - c-84170
 
 <a id="claim-t-88193"></a>
-- t-003
+- t-002
   teiginys: "Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-84172
 
 <a id="claim-t-194209"></a>
-- t-004
+- t-003
   teiginys: "VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO TESTAMENTAS 1506 METAI (Iš Dogelio rankraščių buv."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84172
   autorius: "Michał Baliński"
@@ -176,7 +176,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-176812
   autorius: "Michał Baliński"
@@ -207,4 +207,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

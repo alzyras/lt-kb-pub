@@ -59,7 +59,7 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174561
-- susijęs iš [[objektai/autoriai/Puantine de Sivrej.md#claim-t-191684|Puantine de Sivrej]]: Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės rojų lokalizavo Ispanijoje prie Tago, netoli Sevilijos.
+
 ## Citatos
 
 - id: c-174561

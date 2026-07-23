@@ -48,11 +48,7 @@ Pasak Narbuto, Dionyzas iš Charakso Aldeskos upės žiotis prie Šiaurės jūro
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175631
-- susijęs iš [[objektai/asmenys/Dionyzas iš Charakso.md#claim-t-191162|Dionyzas iš Charakso]]: Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
-- susijęs iš [[objektai/autoriai/Dionyzas iš Charakso.md#claim-t-191562|Dionyzas iš Charakso]]: Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
-- susijęs iš Eridanas: Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano upės, įtekančios į Šiaurės jūrą.
-- susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192945|Boristeniečiai]]: Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia iš šiaurės vakaruose esančios jūros.
-- susijęs iš Šiaurės jūra: Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą.
+
 ## Citatos
 
 - id: c-175631

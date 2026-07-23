@@ -57,7 +57,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - c-21585
 
 <a id="claim-t-63476"></a>
-- t-003
+- t-002
   teiginys: "Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - c-41826
 
 <a id="claim-t-63477"></a>
-- t-002
+- t-003
   teiginys: "Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +134,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-41826
   sudarytojas: "Karolis Zikaras"
@@ -155,4 +155,4 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

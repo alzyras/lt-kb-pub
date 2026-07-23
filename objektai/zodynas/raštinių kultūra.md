@@ -57,8 +57,7 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-176286
-- susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-183307|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.
+
 ## Citatos
 
 - id: c-24951

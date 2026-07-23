@@ -46,6 +46,7 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   citata_rodoma: "kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

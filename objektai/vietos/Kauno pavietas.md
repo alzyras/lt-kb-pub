@@ -10,10 +10,10 @@ datos:
   - '1633 m.'
 date_start: '1627'
 date_end: '1633'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

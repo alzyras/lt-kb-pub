@@ -55,10 +55,7 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
   temporalinis_llm_pakomentavimas: "Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti."
   pagrindžia:
     - c-83819
-- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-55026|Akademijos observatorijos prietaisai]]: 1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
-- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
-- susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
-- susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
+
 ## Citatos
 
 - id: c-83819

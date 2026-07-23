@@ -45,7 +45,7 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
   semantiniai_rysiai: "Lenkai puolė Lietuviai (0.70)"
   pagrindžia:
     - c-77326
-- susijęs iš [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika.md#claim-t-67245|Šturmovųjų grupių fronto pralaužimo taktika]]: Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.
+
 ## Citatos
 
 - id: c-77326

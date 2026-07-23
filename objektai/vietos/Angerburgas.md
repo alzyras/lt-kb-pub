@@ -65,14 +65,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra ilgas sąrašas, todėl geriau palikti tik su objektu susijusį faktą."
   pagrindžia:
     - c-02574
-- susijęs iš Vėluva: Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.
-- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
-- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
-- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
-- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
-- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
-- susijęs iš Vėluva: Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.
-- susijęs iš Vėluva: Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės.
+
 ## Citatos
 
 - id: c-02574

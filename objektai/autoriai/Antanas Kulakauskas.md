@@ -45,7 +45,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 ## Teiginiai
 
 <a id="claim-t-26605"></a>
-- t-002
+- t-001
   teiginys: "Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - c-154570
 
 <a id="claim-t-26709"></a>
-- t-004
+- t-002
   teiginys: "Bibliografijoje Kulakauskas A. kartu su Aleksandravičiumi E. siejamas su veikalu „Carų valdžioje. Lietuva XIX amžiuje“."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - c-16343
 
 <a id="claim-t-169887"></a>
-- t-006
+- t-003
   teiginys: "Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo OCR ir metaduomenų nuotrupa; citata pagrindžia tik autorių teisių įrašą."
   pagrindžia:
     - c-154571
-- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
+
 ## Citatos
 
 - id: c-16343
@@ -115,7 +115,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-154570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -158,7 +158,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-154571
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -201,4 +201,4 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

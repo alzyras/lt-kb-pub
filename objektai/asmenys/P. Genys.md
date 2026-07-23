@@ -45,8 +45,7 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
   semantiniai_rysiai: "P. Genys užėmė Antalieptė (0.90); P. Genys užėmė Užpaliai (0.90)"
   pagrindžia:
     - c-41598
-- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
-- susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
+
 ## Citatos
 
 - id: c-41598

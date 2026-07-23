@@ -45,7 +45,7 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
   semantiniai_rysiai: "Lietuva priklausė SSRS (0.68); Estija priklausė SSRS (0.68); Latvija priklausė SSRS (0.68)"
   pagrindžia:
     - c-26575
-- susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-108340|Rusijos Federacija]]: Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.
+
 ## Citatos
 
 - id: c-26575

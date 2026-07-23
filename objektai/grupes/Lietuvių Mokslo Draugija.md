@@ -4,7 +4,7 @@ pavadinimas: 'Lietuvių Mokslo Draugija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 datos:
   - '1905 m.'
   - '1915 m.'
@@ -14,6 +14,7 @@ date_end: '1922'
 variantai:
   - 'Lietuvių mokslo draugija'
   - 'Lietuvių mokslo dr-jos'
+  - 'Lietuvių Mokslo Draugija'
 amziai:
   - 'XX'
 sukurta: ''
@@ -46,7 +47,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 ## Teiginiai
 
 <a id="claim-t-195534"></a>
-- t-004
+- t-001
   teiginys: "1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +75,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - c-177953
 
 <a id="claim-t-195536"></a>
-- t-001
+- t-003
   teiginys: "Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą."
   atnaujinta: "2026-07-12 05:45"
   sprendimo_priezastis: "auto"
@@ -90,7 +91,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - c-177954
 
 <a id="claim-t-195537"></a>
-- t-003
+- t-004
   teiginys: "Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų."
   atnaujinta: "2026-07-12 05:45"
   sprendimo_priezastis: "auto"
@@ -114,13 +115,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177952
-- susijęs iš [[objektai/grupes/Vilniaus mokslo bičiulių draugija.md#claim-t-66289|Vilniaus mokslo bičiulių draugija]]: Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui.
-- susijęs iš [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas.md#claim-t-75130|Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]: Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį, o Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius.
-- susijęs iš [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas.md#claim-t-75131|Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]: Nepavykus atkurti Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
-- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54280|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Vilniuje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija telkė skirtingas tautinio sąjūdžio aplinkas.
-- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54281|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės.
-- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md#claim-t-54283|Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]: Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
-- susijęs iš Vilnius: Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.
+
 ## Citatos
 
 - id: c-46354
@@ -162,7 +157,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-177952
   autorius: "A. Sabaliauskas"
@@ -234,5 +229,5 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
+    - t-004

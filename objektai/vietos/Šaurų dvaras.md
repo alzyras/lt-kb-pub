@@ -79,19 +79,7 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
   pagrindžia:
     - c-171052
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188639|Teodoras Narbutas]]: Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.
-- susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190297|Francua Žozefas Noelis]]: Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
-- susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
-- susijęs iš G. F. Stenderio „Neue vollständige lettische Grammatik“: Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje.
-- susijęs iš Narbutt T., Spisanie Muzeum w Szawrach: Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.
-- susijęs iš Spisanie Muzeum w Szawrach: „Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.
-- susijęs iš T. Narbuto „Spisanie Muzeum w Szawrach“: I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.
-- susijęs iš Obelių kapinynas: Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.
-- susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
-- susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
-- susijęs iš „Dziennik Wilenski“: Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams.
-- susijęs iš [[objektai/ivykiai/Narbutų šeimos represavimas po 1863 m. sukilimo.md#claim-t-187970|Narbutų šeimos represavimas po 1863 m. sukilimo (sukilimas, XIX a.)]]: Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią.
+
 ## Citatos
 
 - id: c-171049

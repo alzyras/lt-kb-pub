@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64956"></a>
-- t-002
+- t-001
   teiginys: "Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-05233
 
 <a id="claim-t-64958"></a>
-- t-003
+- t-002
   teiginys: "Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Nenurodyta
     - c-05234
 
 <a id="claim-t-64960"></a>
-- t-005
+- t-003
   teiginys: "Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-65512
 
 <a id="claim-t-64961"></a>
-- t-006
+- t-004
   teiginys: "Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -147,7 +147,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-05233
@@ -166,7 +165,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-05234
   autorius: "Zenonas Ivinskis"
@@ -188,7 +187,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-05277
   autorius: "Zenonas Ivinskis"
@@ -207,7 +206,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-65512
   redaktorius: "A. Šapoka"
@@ -229,4 +228,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

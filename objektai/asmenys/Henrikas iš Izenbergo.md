@@ -7,15 +7,15 @@ datos:
   - '1325 m.'
 date_start: '1325'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -71,14 +71,14 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
     29) užbaigė Girdavų pilį Bartos žemėje. Tais pačiais metais ir tuo pat laiku Eberhardas,
     Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
 
+
     pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
     netgi vyskupų valdas (žr. D. papildymus, 13 ir paaiškinimus).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60945

@@ -47,6 +47,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   citata_rodoma: "tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

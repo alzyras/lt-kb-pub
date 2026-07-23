@@ -9,14 +9,14 @@ datos:
   - '2026 m.'
 date_start: '1259'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - regionas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - c-175144
 
 <a id="claim-t-192347"></a>
-- t-003
+- t-002
   teiginys: "Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
@@ -69,7 +69,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - c-175143
 
 <a id="claim-t-192348"></a>
-- t-002
+- t-003
   teiginys: "Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "manual_places_boilerplate_fix"
@@ -117,32 +117,30 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175143
-- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
-- susijęs iš Žemaitija: Žemaitija aiškinta kaip žemesnė žemė, o Aukštaitija - kaip aukštesnė žemė palyginti su Žemaitija.
-- susijęs iš Jotvingija: Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.
-- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
-- susijęs iš Sūdavija: Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Baigiant šios antros srities aprašymą, negalima ne­
-    paminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­
-    kės dar kalbėti, be to, norint suvokti senovės lietuvių
-    kraštų geografiją, reikia aptarti šį padalijimą. Lietuva,
+    Lietuva,
     arba antroji sritis, laikoma viena visuma, dalijosi į dvi
     puses: aukštesnę, vadinamą Aukštaitija, lotynų autorių
     Austechia, ir žemesnę, arba Žemaitiją. Sis padalijimas
     turėjo sieną, kuri tęsėsi dešiniąja Neries ir Nemuno pa­
     krante nuo Nevėžio žiočių aukštyn šia upe net iki vaka­
     rinės Upytės apskrities sienos ir toliau net iki Kuršo.
+    Tačiau į vakarus nuo šios ribos buvęs šiandienis Šiaulių
+    kraštas, iš tikrųjų priklausantis Žemaitijai, dar buvo va­
+    dinamas vidurio Lietuva, o plytėjęs toliau į vakarus —
+    i ikrą j a Žemaitija, arba Vinidų kraštu.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-192348
-    - t-192608
+  statusas: verified
+- t-002
+    - t-004
+    - t-005
 
 ## Citatos
 
@@ -172,8 +170,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-002
+    - t-003
     - t-004
     - t-005
 

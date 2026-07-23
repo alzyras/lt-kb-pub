@@ -75,8 +75,7 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai paremtas citata apie 1994 m. sutartį."
   pagrindžia:
     - c-166901
-- susijęs iš [[objektai/ivykiai/Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.).md#claim-t-75143|Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)]]: Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas dabartinių teritorijų vientisumas.
-- susijęs iš Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis: Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas.
+
 ## Citatos
 
 - id: c-166901

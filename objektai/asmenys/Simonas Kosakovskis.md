@@ -56,6 +56,7 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   citata_rodoma: "Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

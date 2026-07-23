@@ -7,12 +7,12 @@ datos:
   - '1981 m.'
 date_start: '1981'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,36 +31,6 @@ media_all_json: |-
 ## Santrauka
 
 Dusburgietis teigia, kad vanagas A.
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
-      Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-
-## Citatos
-
-- id: c-61976
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
-  citata_rodoma: "Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Teiginiai
 
@@ -82,3 +52,32 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61976
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
+      Varakauskas R. Vokiečių feodalų agresija į Rytinį Pabaltijį ir lietuvių kova su ja XIII а.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Citatos
+
+- id: c-61976
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981.
+  citata_rodoma: "Vanagas A. Lietuvių hidronimų etimologinis žodynas.— V., 1981."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

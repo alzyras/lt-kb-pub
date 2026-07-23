@@ -38,7 +38,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 ## Teiginiai
 
 <a id="claim-t-71534"></a>
-- t-003
+- t-001
   teiginys: "Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +55,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   temporalinis_llm_pakomentavimas: "Citata pagrindžia redaktoriaus vaidmenį, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-70095
-- susijęs iš [[objektai/autoriai/Joseph Everatt.md#claim-t-19409|Joseph Everatt]]: Josephas Everattas kartu su Mindaugu Šapoka redagavo leidinį „The Battle of Grünwald“.
-- susijęs iš [[objektai/autoriai/Albina Strunga.md#claim-t-19372|Albina Strunga]]: Albina Strunga išvertė M. Jučo knygą „The Battle of Grünwald“, skirtą Žalgirio mūšio 600-osioms metinėms.
+
 ## Citatos
 
 - id: c-70095
@@ -73,4 +72,4 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: Gertuvė
 sukurta: '2026-07-12'
 variantai:
-  - 'gertuvių'
-  - 'gertuvę'
-  - 'gertuvėje'
+  - gertuvių
+  - gertuvę
+  - gertuvėje
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -63,8 +63,7 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178021
-- susijęs iš [[objektai/zodynas/Dantų plauti.md#claim-t-195634|Dantų plauti]]: „Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais.
-- susijęs iš [[objektai/zodynas/Dantų plauti.md#claim-t-195635|Dantų plauti]]: „Dantų plauti“ vadinamas gavėnios pradžios paprotys.
+
 ## Citatos
 
 - id: c-178021

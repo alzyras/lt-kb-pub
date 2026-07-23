@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87045"></a>
-- t-002
+- t-001
   teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Nenurodyta
     - c-83025
 
 <a id="claim-t-87046"></a>
-- t-001
+- t-002
   teiginys: "Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-83025
   autorius: "Michał Baliński"
@@ -151,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

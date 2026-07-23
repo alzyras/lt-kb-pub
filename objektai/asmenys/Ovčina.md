@@ -56,7 +56,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186049|Jonas Gornostajus]]: Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184806|Mykolas Glinskis]]: Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.

@@ -30,7 +30,7 @@ Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas p
 ## Teiginiai
 
 <a id="claim-t-196627"></a>
-- t-002
+- t-001
   teiginys: "Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -68,4 +68,4 @@ Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

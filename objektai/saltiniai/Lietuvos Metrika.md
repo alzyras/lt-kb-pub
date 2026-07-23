@@ -13,13 +13,13 @@ datos:
   - '1794 m.'
 date_start: '1524'
 date_end: '1794'
-amziai:
-  - 'XVI'
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182798"></a>
-- t-005
+- t-001
   teiginys: "Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-166208
 
 <a id="claim-t-182800"></a>
-- t-011
+- t-002
   teiginys: "1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ media_all_json: |-
     - c-166206
 
 <a id="claim-t-182801"></a>
-- t-006
+- t-003
   teiginys: "Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ media_all_json: |-
     - c-166207
 
 <a id="claim-t-183373"></a>
-- t-012
+- t-004
   teiginys: "Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ media_all_json: |-
     - c-166766
 
 <a id="claim-t-201499"></a>
-- t-013
+- t-005
   teiginys: "Kauno istorijai svarbiausia yra Lietuvos Metrika."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ media_all_json: |-
     - c-184846
 
 <a id="claim-t-201500"></a>
-- t-014
+- t-006
   teiginys: "1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos raštai buvo įrašyti į Lietuvos Metriką ir taip aktualizuoti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-002
 
 - id: c-166207
   autorius: "Michał Baliński"
@@ -183,7 +183,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-166208
   autorius: "Michał Baliński"
@@ -210,7 +210,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-166766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -235,7 +235,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-004
 
 - id: c-184846
   autorius: "Zigmantas Kiaupa"
@@ -251,7 +251,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-184847
   autorius: "Zigmantas Kiaupa"
@@ -267,4 +267,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-006

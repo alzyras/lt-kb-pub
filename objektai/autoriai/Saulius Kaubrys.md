@@ -39,7 +39,7 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 ## Teiginiai
 
 <a id="claim-t-19472"></a>
-- t-002
+- t-001
   teiginys: "Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,4 +102,4 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

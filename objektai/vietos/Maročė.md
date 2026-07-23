@@ -48,11 +48,7 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175613
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190682|Adomas Stanislovas Naruševičius]]: Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse.
-- susijęs iš [[objektai/autoriai/Naruševičius.md#claim-t-191587|Naruševičius]]: Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie vakarinę Boristenio pusę.
-- susijęs iš Adomas Naruševičius, Historia Narodu Polskiego: Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarinę pusę senovės geografų darbuose.
-- susijęs iš Nemunas: Narbuto aprašytame kelyje Pripetės vandens baseinas jungėsi su Nemuno sistema.
-- susijęs iš Punia: Narbutas pasakoja, kad keliaujanti tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis.
+
 ## Citatos
 
 - id: c-175613

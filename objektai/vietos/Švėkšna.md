@@ -70,12 +70,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171831
-- susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190045|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų.
-- susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-188475|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.
-- susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189650|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.
-- susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189652|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono Juozapo Januškevičiaus sode rasto lobio istorija buvo žinoma vietos gyventojams.
-- susijęs iš [[objektai/asmenys/Juozapas Januškevičius.md#claim-t-190164|Juozapas Januškevičius]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
-- susijęs iš [[objektai/asmenys/Jurgis Plioteris.md#claim-t-190167|Jurgis Plioteris]]: Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų.
+
 ## Citatos
 
 - id: c-171831
@@ -116,6 +111,7 @@ media_all_json: |-
   citata_rodoma: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

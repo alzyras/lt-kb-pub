@@ -87,7 +87,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169352
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Pasak Kojelavičiaus, Konradas Celneris parėmė Vytauto sumanymus ir su džiaugsmu nutarė pasinaudoti proga pradėti karą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui.'
@@ -191,7 +191,6 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169350

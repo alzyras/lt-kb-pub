@@ -49,7 +49,7 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
     - c-172389
 
 <a id="claim-t-197220"></a>
-- t-003
+- t-002
   teiginys: "Ypač slavai, mėgs tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu rungia bet kokį senovės cinizmo įsivaizdavimą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -59,24 +59,7 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172390
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189981|Kristoforas Hartknochas]]: Narbutas kritikavo Hartknochą, kad šis prūsų laiko skaičiavimą naktimis kildino iš spėjimų apie gotų mėgdžiojimą.
-- susijęs iš [[objektai/asmenys/Rėza.md#claim-t-190114|Rėza]]: Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai mirusiųjų valdovę vadino Giltine.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-190631|Kristupas Hartknochas]]: Narbutas kritikuoja Hartknochą, kad šis prūsų laiko skaičiavimą naktimis siejo su gotų mėgdžiojimu remdamasis spėliojimais.
-- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-188485|Vulfstanas (jūrininkas, IX amžius)]]: Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai kelis mėnesius namuose išlaikydavo mirusiųjų kūnus.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188313|Prūsai]]: Narbutas kritikuoja Hartknochą, kad šis prūsų laiko skaičiavimą pritempė prie germaniškų ženklų ir grindė spėliojimais apie gotų mėgdžiojimą.
-- susijęs iš Vulfstano pasakojimas: Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai mokėję kelis mėnesius namuose išlaikyti mirusiųjų kūnus.
-- susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189994|Frydrichas Stenderis]]: Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-184516|Latviai]]: Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188226|Latviai]]: Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188227|Latviai]]: Pasak Stenderio, latviai turėjo deivę Dyža arba Dysza, kuri savo ypatybėmis visiškai atitiko Pergrubę.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188296|Prūsai]]: Narbutas rašo, kad senovės prūsai mirusiųjų valdovę vadino Giltine, o jos garbinimo apeigos buvo rengiamos per laidotuves ir Vėlines.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188297|Prūsai]]: Narbutas rašo, kad senovės prūsai Pergrubei atitinkančią deivę vadino Melitele, tai yra Meilutėle.
-- susijęs iš [[objektai/paprociai/Laiko skaičiavimas įpjovomis arba mazgeliais.md#claim-t-189926|Laiko skaičiavimas įpjovomis arba mazgeliais]]: Narbutas, priešindamas Dusburgietį Hartknochui, rašo, kad senovės prūsai susitarimų dienas žymėdavo įpjovomis arba mazgeliais.
-- susijęs iš [[objektai/paprociai/Velionos garbinimo apeigos per laidotuves ir Vėlines.md#claim-t-189948|Velionos garbinimo apeigos per laidotuves ir Vėlines]]: Narbutas Velioną (Wellona) apibūdino kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
-- susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę.
-- susijęs iš Drujos apylinkė: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
-- susijęs iš Drujos apylinkės ir Druja: 1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos.
-- susijęs iš [[objektai/zodynas/Veliona Wellona.md#claim-t-189187|Veliona Wellona]]: Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
+
 ## Citatos
 
 - id: c-172389
@@ -121,4 +104,4 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

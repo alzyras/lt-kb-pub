@@ -70,7 +70,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
     - c-60730
 
 <a id="claim-t-194478"></a>
-- t-005
+- t-003
   teiginys: "Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -133,4 +133,4 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-003

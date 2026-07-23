@@ -70,8 +70,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“.md#claim-t-25369|„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]: Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.
-- susijęs iš [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“.md#claim-t-20865|„Po kuo būti geriau – rusais ar vokiečiais“]]: Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą.
-- susijęs iš The Origins of the Aryans: Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.

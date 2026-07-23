@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-188578"></a>
-- t-002
+- t-001
   teiginys: "Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-171467
 
 <a id="claim-t-197424"></a>
-- t-003
+- t-002
   teiginys: "Liudvikas Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ media_all_json: |-
     - c-179178
 
 <a id="claim-t-197425"></a>
-- t-004
+- t-003
   teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -82,9 +82,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179179
-- susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-19074|Kristijonas Donelaitis]]: Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.
-- susijęs iš Metai: 1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.
-- susijęs iš Metai: Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.
+
 ## Citatos
 
 - id: c-21859
@@ -131,7 +129,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-179178
   autorius: "Teodoras Narbutas"
@@ -151,7 +149,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179179
   autorius: "Teodoras Narbutas"
@@ -172,4 +170,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

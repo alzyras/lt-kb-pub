@@ -45,7 +45,7 @@ Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184218
-- susijęs iš [[objektai/asmenys/Giovanni Maria Gaili.md#claim-t-200866|Giovanni Maria Gaili]]: Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčios skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą.
+
 ## Citatos
 
 - id: c-184218

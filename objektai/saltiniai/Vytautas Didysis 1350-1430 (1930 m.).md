@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67583"></a>
-- t-016
+- t-001
   teiginys: "Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-13863
 
 <a id="claim-t-67586"></a>
-- t-015
+- t-002
   teiginys: "Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ media_all_json: |-
     - c-13862
 
 <a id="claim-t-67589"></a>
-- t-014
+- t-003
   teiginys: "Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-003
 
 - id: c-13862
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -137,7 +137,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-002
 
 - id: c-13863
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -160,4 +160,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-001

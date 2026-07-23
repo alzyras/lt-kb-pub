@@ -54,33 +54,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   temporalinis_llm_pakomentavimas: "Sutrumpinta ir pašalinta perteklinė formuluotė, paliekant citatos remiamą faktą."
   pagrindžia:
     - c-33954
-- susijęs iš [[objektai/grupes/Tervitėnai.md#claim-t-192991|Tervitėnai]]: Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Doblėnai.md#claim-t-192979|Doblėnai]]: Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Mechotėnai.md#claim-t-192988|Mechotėnai]]: Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Doblėnai.md#claim-t-192979|Doblėnai]]: Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Mechotėnai.md#claim-t-192988|Mechotėnai]]: Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
-- susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.
-- susijęs iš Tarasenka P. Lietuvos archeologijos medžiaga: P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile.
-- susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
-- susijęs iš Karšuvos žemė: Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.
-- susijęs iš Medraba: Medrabos pilis galėjusi būti Meškininkų piliakalnyje, į šiaurės vakarus nuo Jurbarko kairiajame Mituvos krante.
-- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190998|Vladislovas Varnietis]]: Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
-- susijęs iš [[objektai/grupes/Tervitėnai.md#claim-t-192991|Tervitėnai]]: Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių.
-- susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-192967|Žemgaliai]]: Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66529|Durbės mūšis (1260 m.)]]: 1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.
-- susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
-- susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.
-- susijęs iš Vokiškieji kryžiuočių kelių aprašymai: Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.
-- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
-- susijęs iš Dubysa: Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.
-- susijęs iš Dubysa: Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara.
-- susijęs iš Georgenburgas: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.
-- susijęs iš Imsrė: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį.
-- susijęs iš Kolainių pilis (pilis): Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.
-- susijęs iš Kuršas: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Kuršo žemė: 1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.
-- susijęs iš Žemgala: Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste.
+
 ## Citatos
 
 - id: c-33954

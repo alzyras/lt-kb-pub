@@ -58,8 +58,7 @@ Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas 
   vertinimo_atnaujinta: "2026-07-19T10:07:01Z"
   pagrindžia:
     - c-185765
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-202398|Kotryna]]: Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio žmona; jos pirmasis vyras Samuelis Komorowskis šaltinyje apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu.
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-202398|Kotryna]]: Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio žmona; jos pirmasis vyras Samuelis Komorowskis šaltinyje apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu.
+
 ## Citatos
 
 - id: c-185765

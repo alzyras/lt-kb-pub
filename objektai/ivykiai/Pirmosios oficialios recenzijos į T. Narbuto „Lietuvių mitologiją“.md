@@ -79,7 +79,7 @@ Nenurodyta
     - c-174893
 
 <a id="claim-t-192011"></a>
-- t-003
+- t-002
   teiginys: "1856 m. T. Narbuto „Mažesniųjų istorinių raštų“ kritikai skirti straipsniai priskiriami istorikui ir publicistui Mykolui Balinskiui."
   atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -102,7 +102,7 @@ Nenurodyta
     - c-174894
 
 <a id="claim-t-192012"></a>
-- t-002
+- t-003
   teiginys: "1835 m. anoniminė 25 puslapių recenzija apibūdinama kaip bene reikšmingiausias oficialus atgarsis į T. Narbuto „Lietuvių mitologiją“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -151,7 +151,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-174893
   autorius: "Teodoras Narbutas"
@@ -196,4 +196,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

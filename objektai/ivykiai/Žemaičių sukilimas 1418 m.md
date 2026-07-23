@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-50813"></a>
-- t-002
+- t-001
   teiginys: "Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Nenurodyta
     - c-37097
 
 <a id="claim-t-50814"></a>
-- t-001
+- t-002
   teiginys: "Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-37098
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -125,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

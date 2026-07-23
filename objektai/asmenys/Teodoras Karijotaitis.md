@@ -9,16 +9,16 @@ datos:
   - '1414 m.'
 date_start: '1396'
 date_end: '1414'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -89,7 +89,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     - c-169344
 
 <a id="claim-t-193501"></a>
-- t-006
+- t-005
   teiginys: "Kunigaikštį Teodorą su šeimy na išgabeno į Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
     - c-169346
 
 <a id="claim-t-196601"></a>
-- t-009
+- t-006
   teiginys: "Mirus broliui, Teodoras Karijotaitis, Algirdo remiamas, tapo Naugarduko kunigaikščiu, bet vėliau buvo išvarytas iš visų valdų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -201,7 +201,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169344
@@ -275,7 +274,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-006
+    - t-005
 
 - id: c-176617
   autorius: "Anoniminis metraštininkas"
@@ -330,4 +329,4 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006

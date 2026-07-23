@@ -30,7 +30,7 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
 ## Teiginiai
 
 <a id="claim-t-194033"></a>
-- t-006
+- t-001
   teiginys: "Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -108,4 +108,4 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

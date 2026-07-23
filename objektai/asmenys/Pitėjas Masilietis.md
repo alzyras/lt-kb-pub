@@ -7,15 +7,15 @@ datos:
   - '340 m.'
 date_start: '340'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'IV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - asmuo
+amziai:
+  - 'IV'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -167,7 +167,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174017
 
 <a id="claim-t-191137"></a>
-- t-008
+- t-007
   teiginys: "Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -187,7 +187,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174019
 
 <a id="claim-t-191138"></a>
-- t-009
+- t-008
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -207,7 +207,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174020
 
 <a id="claim-t-197796"></a>
-- t-010
+- t-009
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -219,7 +219,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174017
 
 <a id="claim-t-197797"></a>
-- t-011
+- t-010
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174019
 
 <a id="claim-t-197798"></a>
-- t-012
+- t-011
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -241,14 +241,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179344
-- susijęs iš [[objektai/asmenys/Aristotelis.md#claim-t-191941|Aristotelis]]: Narbutas rašo, kad Aristotelis kartu su Herodotu, Taliu, Teofrastu ir Pitėju Masiliečiu žinojo gintarą, jo savybes ir gavybos vietas.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190712|Herodotas]]: Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes.
-- susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191546|Pitėjas]]: Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas.
-- susijęs iš [[objektai/asmenys/Talis.md#claim-t-191474|Talis]]: Narbutas mini Talį tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas.
-- susijęs iš [[objektai/asmenys/Teofrastas.md#claim-t-191985|Teofrastas]]: Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas.
-- susijęs iš [[objektai/autoriai/Aristotelis.md#claim-t-191633|Aristotelis]]: Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas.
-- susijęs iš [[objektai/autoriai/Talis.md#claim-t-191685|Talis]]: Teodoras Narbutas Talį mini tarp autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas.
-- susijęs iš [[objektai/autoriai/Teofrastas.md#claim-t-191686|Teofrastas]]: Teodoras Narbutas Teofrastą mini tarp autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas pažymėjo, kad Pitėjas Masilietis gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
@@ -299,7 +292,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-174012
@@ -441,7 +433,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-010
+    - t-009
 
 - id: c-174019
   autorius: "Teodoras Narbutas"
@@ -462,8 +454,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-011
+    - t-007
+    - t-010
 
 - id: c-174020
   autorius: "Teodoras Narbutas"
@@ -496,7 +488,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-179344
   autorius: "Teodoras Narbutas"
@@ -526,4 +518,4 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011

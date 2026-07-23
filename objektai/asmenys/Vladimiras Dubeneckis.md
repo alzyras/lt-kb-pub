@@ -56,7 +56,7 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
   temporalinis_llm_pakomentavimas: "Pašalintas sujungtas antraštinis triukšmas, paliktas citatos pagrįstas faktas."
   pagrindžia:
     - c-75379
-- susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65004|Vytauto paveikslas]]: 1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.
+
 ## Citatos
 
 - id: c-75379

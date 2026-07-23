@@ -7,12 +7,12 @@ datos:
   - '1977 m.'
 date_start: '1977'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -62,11 +62,10 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
     pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977,
     Nr. 29, s. 54—57.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61730

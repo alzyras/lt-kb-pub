@@ -116,8 +116,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Rudaminos misiją ir jėzuitų idėjų sklaidą."
   pagrindžia:
     - c-166732
-- susijęs iš Kinija: Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-- susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
+
 ## Citatos
 
 - id: c-65256

@@ -9,13 +9,13 @@ datos:
   - '1382 m.'
 date_start: '1345'
 date_end: '1382'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - karinė-praktika
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05363"></a>
-- t-003
+- t-001
   teiginys: "Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-05428
 
 <a id="claim-t-05364"></a>
-- t-004
+- t-002
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,7 +143,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-05429
   autorius: "Zenonas Ivinskis"
@@ -177,4 +177,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002

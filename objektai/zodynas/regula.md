@@ -31,7 +31,7 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
 ## Teiginiai
 
 <a id="claim-t-82094"></a>
-- t-003
+- t-001
   teiginys: "Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,10 +45,7 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78589
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86885|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: 1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.
-- susijęs iš Vokiečių ordino statutų prologas: Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių.
-- susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86559|vaitas ir tarėjai]]: Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos.
+
 ## Citatos
 
 - id: c-78589
@@ -81,4 +78,4 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

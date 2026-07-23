@@ -39,9 +39,9 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 ## Teiginiai
 
 <a id="claim-t-07649"></a>
-- t-004
+- t-001
   teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 19:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -49,7 +49,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
     - c-09582
 
 <a id="claim-t-07650"></a>
-- t-003
+- t-002
   teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -72,7 +72,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-09582
   autorius: "Simonas Daukantas"
@@ -87,5 +87,5 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

@@ -30,7 +30,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 ## Teiginiai
 
 <a id="claim-t-176270"></a>
-- t-002
+- t-001
   teiginys: "Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
     - c-160279
 
 <a id="claim-t-176271"></a>
-- t-001
+- t-002
   teiginys: "Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-160279
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -108,4 +108,4 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

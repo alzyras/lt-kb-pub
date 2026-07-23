@@ -43,7 +43,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-78033"></a>
-- t-002
+- t-001
   teiginys: "Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-21725
 
 <a id="claim-t-78034"></a>
-- t-001
+- t-002
   teiginys: "Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,17 +113,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-175362
-- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
-- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
-- susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63306|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.
-- susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.
-- susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-18807|Andrius Sniadeckis]]: Andrius Sniadeckis buvo universitete dirbęs garsus chemikas ir biologas, kurio darbai buvo žinomi tarptautiniu mastu.
-- susijęs iš [[objektai/asmenys/Eduardas Karolis Eichvaldas.md#claim-t-18879|Eduardas Karolis Eichvaldas]]: Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.
-- susijęs iš [[objektai/asmenys/Johanas Pėteris Frankas.md#claim-t-18967|Johanas Pėteris Frankas]]: Johanas Pėteris Frankas dirbo Vilniaus universitete, o jo darbai buvo žinomi tarptautiniu mastu.
-- susijęs iš [[objektai/asmenys/Jonas Sniadeckis.md#claim-t-183544|Jonas Sniadeckis]]: Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu.
-- susijęs iš [[objektai/asmenys/Jozefas Frankas.md#claim-t-19009|Jozefas Frankas]]: Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu.
-- susijęs iš [[objektai/asmenys/Liudvigas Heinrichas Bojanus.md#claim-t-78065|Liudvigas Heinrichas Bojanus]]: Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113356|Vilniaus universitetas]]: Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru.
+
 ## Citatos
 
 - id: c-21725
@@ -146,7 +136,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-75345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -174,7 +164,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-171430
   autorius: "Teodoras Narbutas"

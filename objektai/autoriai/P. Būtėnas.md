@@ -40,7 +40,7 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 ## Teiginiai
 
 <a id="claim-t-97201"></a>
-- t-002
+- t-001
   teiginys: "P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
     - c-91688
 
 <a id="claim-t-97202"></a>
-- t-001
+- t-002
   teiginys: "P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-91688
   autorius: "Zenonas Ivinskis"
@@ -119,4 +119,4 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

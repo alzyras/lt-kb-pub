@@ -29,7 +29,7 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 ## Teiginiai
 
 <a id="claim-t-67364"></a>
-- t-002
+- t-001
   teiginys: "D. Kleino giesmynas datuojamas 1666 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -38,7 +38,7 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
     - c-67303
 
 <a id="claim-t-67365"></a>
-- t-001
+- t-002
   teiginys: "1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-67303
   redaktorius: "A. Šapoka"
@@ -82,4 +82,4 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

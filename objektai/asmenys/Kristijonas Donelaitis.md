@@ -72,7 +72,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     - c-166949
 
 <a id="claim-t-183556"></a>
-- t-004
+- t-003
   teiginys: "Kristijono Donelaičio poema „Metai“ 1818 m. Karaliaučiuje išleista Liudviko Rėzos su vertimu į vokiečių kalbą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -152,4 +152,4 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
+    - t-003

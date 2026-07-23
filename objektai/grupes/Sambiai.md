@@ -41,7 +41,7 @@ Baltų / prūsų regioninė grupė.
 ## Teiginiai
 
 <a id="claim-t-188047"></a>
-- t-002
+- t-001
   teiginys: "Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -58,7 +58,7 @@ Baltų / prūsų regioninė grupė.
     - c-170875
 
 <a id="claim-t-192454"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Sambijos gyventojus siejo daugiausia su senovės budinais, įsikūrusiais ten lietuvių protėviams atėjus į šiuos kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Baltų / prūsų regioninė grupė.
     - c-175248
 
 <a id="claim-t-197516"></a>
-- t-004
+- t-003
   teiginys: "Sambija — ne itin didelis kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa siglemžė dalies sausumos, buvęs platesnis, nes, anot kai kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my lių plotas2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Baltų / prūsų regioninė grupė.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179227
-- susijęs iš Vitlandija: Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.
+
 ## Citatos
 
 - id: c-170875
@@ -119,7 +119,7 @@ Baltų / prūsų regioninė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175248
   autorius: "Teodoras Narbutas"
@@ -142,7 +142,7 @@ Baltų / prūsų regioninė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-179227
   autorius: "Teodoras Narbutas"
@@ -168,4 +168,4 @@ Baltų / prūsų regioninė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

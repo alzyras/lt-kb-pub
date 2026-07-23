@@ -69,8 +69,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33365
-- susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81465|Lietuvos jėzuitų kolegijos]]: Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184459|Albertas Vijūkas-Kojelavičius]]: 1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti.
+
 ## Citatos
 
 - id: c-33364

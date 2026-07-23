@@ -35,7 +35,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
 ## Teiginiai
 
 <a id="claim-t-199242"></a>
-- t-002
+- t-001
   teiginys: "Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -48,7 +48,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     - c-181776
 
 <a id="claim-t-199243"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -85,7 +85,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181777
-- susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
+
 ## Citatos
 
 - id: c-181776
@@ -120,7 +120,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
     - t-003
 
 - id: c-181777
@@ -152,5 +152,5 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-004

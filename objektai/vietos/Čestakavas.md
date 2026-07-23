@@ -48,7 +48,7 @@ media_all_json: |-
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177906
-- susijęs iš Vilniaus Aušros broma: Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
+
 ## Citatos
 
 - id: c-177906

@@ -53,9 +53,7 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
   temporalinis_llm_pakomentavimas: "Pradinis teiginys gramatiškai negrakštus ir turi kontekstinį žodį „tenai“."
   pagrindžia:
     - c-03087
-- susijęs iš [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.).md#claim-t-20512|Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]: 1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
-- susijęs iš [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“.md#claim-t-65314|Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]: 1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72704|mokytojų seminarija]]: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.
+
 ## Citatos
 
 - id: c-03087

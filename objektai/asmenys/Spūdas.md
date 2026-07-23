@@ -48,9 +48,7 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169613
-- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
-- susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
-- susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna.'
@@ -71,7 +69,6 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169613

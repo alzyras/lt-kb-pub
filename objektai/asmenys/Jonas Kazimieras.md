@@ -10,16 +10,16 @@ datos:
   - '1667 m.'
 date_start: '1576'
 date_end: '1667'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
   - asmuo
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -103,10 +103,29 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184875
-- susijęs iš [[objektai/asmenys/Jonas Kazimieras Rudamina.md#claim-t-202415|Jonas Kazimieras Rudamina]]: Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87352|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.
-- susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
+    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
+    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
+    čioje. Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
+    želio 21 dieną2.
+    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
+    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
+    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
+    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
+    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
+    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
+    kėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-83891

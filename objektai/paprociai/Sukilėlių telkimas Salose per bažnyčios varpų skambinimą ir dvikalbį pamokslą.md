@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09577"></a>
-- t-004
+- t-001
   teiginys: "Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-12331
 
 <a id="claim-t-09578"></a>
-- t-003
+- t-002
   teiginys: "Žmones į Salas telkė bažnyčios varpų skambėjimas."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -96,7 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-12332
   sudarytojas: "Karolis Zikaras"
@@ -112,4 +112,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

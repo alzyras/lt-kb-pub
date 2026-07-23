@@ -102,7 +102,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-73208
 
 <a id="claim-t-188439"></a>
-- t-006
+- t-004
   teiginys: "Narbutas Girysčio, miško dievaičio ir miškų baidyklės, vardą kildina iš Ksavero Bogušo pastebėjimų."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-171329
 
 <a id="claim-t-188440"></a>
-- t-007
+- t-005
   teiginys: "Narbutas pateikia Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1-30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-171330
 
 <a id="claim-t-190753"></a>
-- t-008
+- t-006
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas lietuvių gentis šiose žemėse priskyrė estams, remdamasis Etiko „Kosmografija“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-173635
 
 <a id="claim-t-190754"></a>
-- t-009
+- t-007
   teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -173,28 +173,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173636
-- susijęs iš [[objektai/asmenys/Etikas.md#claim-t-191392|Etikas]]: Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie estus ir jiems priskiriamas lietuvių gentis.
-- susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190002|Ksaveras Bogušas]]: Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes.
-- susijęs iš [[objektai/asmenys/Silvestras Valiūnas.md#claim-t-183566|Silvestras Valiūnas]]: Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai.
-- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
-- susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190291|Konstantinas Sirvydas (kunigas)]]: Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190613|Lietuviai]]: Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį.
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45131|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45132|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
-- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45133|Mokslo bičiulių draugija]]: Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
-- susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
-- susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: 1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
-- susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai.
-- susijęs iš Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą laiko bandymu kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą.
-- susijęs iš Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: Narbutas rašo, kad pirmą kartą paėmęs Ksavero Bogušo studiją į rankas ypač susidomėjo joje pateiktomis eilėmis.
-- susijęs iš Ksavero Bogušo studija „O początkach narodu i języka Litewskiego“: Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.
-- susijęs iš Ksavero Bogušo „O początkach narodu i języka Litewskiego rozprawa“: Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa“ buvo perskaityta 1806 m. gruodžio 12 d. ir išspausdinta 1808 m. Varšuvoje.
-- susijęs iš [[objektai/zodynas/Girystis Pušinis.md#claim-t-189223|Girystis Pušinis]]: Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimiečių pasakojimuose vadintu Pušiniu (Pusinas).
-- susijęs iš [[objektai/asmenys/Dionizas Poška.md#claim-t-18875|Dionizas Poška]]: Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.
-- susijęs iš [[objektai/asmenys/Silvestras Valiūnas.md#claim-t-19223|Silvestras Valiūnas]]: Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188233|Latviai]]: Narbutas rašė, kad latviai Girystį vadino Meszu Deews, miškų dievu, arba Meschu Wihrs, miškiniu žmogumi.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190612|Lietuviai]]: Narbutas pateikė iš Ksavero Bogušo perimtą Čemberleno senovės lietuvių kalbos maldos pavyzdį.
-- susijęs iš Reitgotija: Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas išnašoje nurodo kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę kaip šaltinį lietuviškiems žemdirbystės žodžiams.'
@@ -300,7 +279,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-171330
   autorius: "Teodoras Narbutas"
@@ -321,7 +300,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-173635
   autorius: "Teodoras Narbutas"
@@ -340,7 +319,7 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-173636
   autorius: "Teodoras Narbutas"
@@ -361,4 +340,4 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007

@@ -38,7 +38,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
 ## Teiginiai
 
 <a id="claim-t-200683"></a>
-- t-005
+- t-001
   teiginys: "Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo jam karnavalo metu susirasti žmoną."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -49,7 +49,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
     - c-183989
 
 <a id="claim-t-200684"></a>
-- t-004
+- t-002
   teiginys: "1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -69,7 +69,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
     - c-184033
 
 <a id="claim-t-200685"></a>
-- t-002
+- t-003
   teiginys: "Kitame laiške kanauninkas Mykolui Ksaverui Sapiegai linkėjo karnavalo metu susirasti žmoną."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -86,7 +86,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
     - c-184033
 
 <a id="claim-t-200686"></a>
-- t-001
+- t-004
   teiginys: "1751 m. Mykolui Ksaverui Sapiegai buvo rašoma apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -104,14 +104,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje minimą 1751 m. laišką Mykolui Ksaverui Sapiegai apie Užgavėnes."
   pagrindžia:
     - c-184033
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200496|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: 1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200499|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis su broliu prašė, kad Mykolas Ksaveras Sapiega nenorėtų iš jų atpirkti rakto.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200497|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200496|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: 1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas.
-- susijęs iš [[objektai/asmenys/Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.).md#claim-t-200497|Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)]]: Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
-- susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
+
 ## Citatos
 
 - id: c-183989
@@ -123,7 +116,7 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-184033
   autorius: "Domininkas Burba"
@@ -134,6 +127,6 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
   pagrindzia:
-    - t-004
     - t-002
-    - t-001
+    - t-003
+    - t-004

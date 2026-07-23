@@ -11,15 +11,15 @@ datos:
   - '1089 m.'
 date_start: '1089'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -145,7 +145,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     - c-173787
 
 <a id="claim-t-197769"></a>
-- t-009
+- t-006
   teiginys: "Ka dangi Panerių gentys pūtė dūdas ant Neries krantų, ku nigaikščio Kerniaus valdymo metais atsirado dingstis su teikti visam kraštui ir giminei Litvania pavadinimą, ku ris dėl paprastų žmonių iškreipto lotynų tarimo pavirto Listubania."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     - c-173787
 
 <a id="claim-t-201001"></a>
-- t-010
+- t-007
   teiginys: ". XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -167,19 +167,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184351
-- susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
-- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
-- susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188427|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas, remdamasis savo tyrimais, ant Kukovaičio kalno lokalizavo Kerniaus užkurtą Amžinąją ugnį.
-- susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
-- susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
-- susijęs iš Kernavė: Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.
-- susijęs iš Kukovaičio kalnas: Narbutas rašo, kad ant Kukovaičio kalno nebebuvo šventyklos ar stabo pėdsakų, o atminimas tebegyvavo kaimo pasakojimuose.
-- susijęs iš Stavanija: Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-187530|tėvonija]]: Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.
-- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
-- susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
@@ -286,7 +274,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169366
@@ -412,7 +399,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-009
+    - t-006
 
 - id: c-184351
   autorius: "Simonas Daukantas"
@@ -447,7 +434,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Pajauta]]

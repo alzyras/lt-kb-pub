@@ -53,11 +53,7 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
   semantiniai_rysiai: "Vendrichovskis gyveno Vilnius (0.57)"
   pagrindžia:
     - c-83860
-- susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
-- susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
-- susijęs iš Lukiškės: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Šv. Mykolo bažnyčia Vilniuje: Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.
-- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
+
 ## Citatos
 
 - id: c-83860

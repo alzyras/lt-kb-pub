@@ -59,9 +59,7 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174549
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Narbuto išnašoje Carlo Deninos „Delle Rivoluzioni d’Italia“ nurodytas kaip 1784 m. Venecijoje išleistas šios temos pagrindo šaltinis.
-- susijęs iš [[objektai/autoriai/Muratorijus.md#claim-t-191682|Muratorijus]]: Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nurodytos kaip aptariamos temos pagrindas.
-- susijęs iš [[objektai/autoriai/Tilemanas.md#claim-t-191909|Tilemanas]]: Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriaus ir kitų autorių.
+
 ## Citatos
 
 - id: c-174549

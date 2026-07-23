@@ -49,10 +49,7 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174354
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
-- susijęs iš [[objektai/asmenys/Flamoras.md#claim-t-191396|Flamoras]]: Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.
-- susijęs iš [[objektai/asmenys/Ingigerda.md#claim-t-191419|Ingigerda]]: Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
-- susijęs iš [[objektai/asmenys/Ingvaras.md#claim-t-191420|Ingvaras]]: Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto tekste atsargiai siejamas su rusnėnų kariūnu.
+
 ## Citatos
 
 - id: c-174354

@@ -89,11 +89,10 @@ Nenurodyta
     nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
     nuostolius severskiečiams.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-170029

@@ -76,7 +76,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Burundajų su antpuoliu ir yra paremtas citata."
   pagrindžia:
     - c-76057
-- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
+
 ## Citatos
 
 - id: c-76057

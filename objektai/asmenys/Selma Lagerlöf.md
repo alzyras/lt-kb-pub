@@ -37,7 +37,7 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35983
-- susijęs iš Kristaus rožės legenda ir kiti pasakojimai: „Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.
+
 ## Citatos
 
 - id: c-35983

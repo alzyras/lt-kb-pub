@@ -30,7 +30,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
 ## Teiginiai
 
 <a id="claim-t-102033"></a>
-- t-002
+- t-001
   teiginys: "Prisikėlimo bažnyčia pagal Karolio Reisono projektą buvo statoma iš gelžbetonio plokščių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     - c-95403
 
 <a id="claim-t-102034"></a>
-- t-004
+- t-002
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
     - c-95403
 
 <a id="claim-t-102036"></a>
-- t-001
+- t-004
   teiginys: "Prisikėlimo bažnyčia buvo laikoma tautos šventykla, turėjusia atspindėti lietuvių tautos religinę ir tautinę dvasią."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
-    - t-003
     - t-001
+    - t-002
+    - t-003
+    - t-004

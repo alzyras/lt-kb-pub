@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-72726"></a>
-- t-002
+- t-001
   teiginys: "Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ media_all_json: |-
     - c-71104
 
 <a id="claim-t-72729"></a>
-- t-003
+- t-002
   teiginys: "Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ media_all_json: |-
     - c-71104
 
 <a id="claim-t-72730"></a>
-- t-001
+- t-003
   teiginys: "Didikai į seimelius veždavo plikbajorius, nes šie turėjo lygų balsą su didikais ir galėjo kardu paremti pono nuomonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-71104
   redaktorius: "A. Šapoka"
@@ -123,8 +123,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-166369
   redaktorius: "A. Šapoka"

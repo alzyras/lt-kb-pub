@@ -53,10 +53,7 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiksliai atitinka citatos informaciją."
   pagrindžia:
     - c-42891
-- susijęs iš [[objektai/asmenys/J. Variakojis.md#claim-t-40166|J. Variakojis]]: J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą.
-- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
-- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
-- susijęs iš Meškuičiai: Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių.
+
 ## Citatos
 
 - id: c-42891

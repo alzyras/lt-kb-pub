@@ -64,11 +64,10 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
     burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175642

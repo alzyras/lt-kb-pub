@@ -8,13 +8,13 @@ datos:
   - '1837 m.'
 date_start: '1836'
 date_end: '1837'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - sąvoka
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,7 +55,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 ## Teiginiai
 
 <a id="claim-t-192298"></a>
-- t-002
+- t-001
   teiginys: "Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -73,7 +73,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
     - c-175112
 
 <a id="claim-t-192299"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -106,11 +106,34 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
     negali būti vadinamas istorija (historia), o tik veikalais
     (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
+- c-002
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
+    bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba
+    visiškai identiškai. Simonas Daukantas vadinamajame
+    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
+    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
+    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t. Beje,
+    žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „lato-
+    pisiec“, t. y. „meturaszitojas“1. Taigi, laikantis anuome­
+    tinės terminijos, T. Narbuto LTI turėtų būti vadinama
+    „Lietuvių tautos veikalais“, o pirmieji trys tomai — „Lie­
+    tuvių
+    tautos
+    veikalais
+    senovėje“ — beveik identiškai
+    S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
+    tautos senovėje“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-175112
@@ -129,7 +152,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-175113
   autorius: "Teodoras Narbutas"
@@ -146,4 +169,4 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

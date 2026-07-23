@@ -57,7 +57,7 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175903
-- susijęs iš [[objektai/autoriai/Jonas Juškevičius.md#claim-t-01069|Jonas Juškevičius]]: Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.
+
 ## Citatos
 
 - id: c-03294

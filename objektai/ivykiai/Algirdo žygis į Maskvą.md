@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187458"></a>
-- t-005
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-170437
 
 <a id="claim-t-187462"></a>
-- t-006
+- t-002
   teiginys: "Algirdas, anot šaltinio, pareiškė turįs palikti šlovės ženklą ir atrėmė savo ietį į Maskvos miesto sieną."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-170437
 
 <a id="claim-t-187463"></a>
-- t-010
+- t-003
   teiginys: "Lietuvos metraštis teigia, kad Algirdas išsaugojo visus savo žmones."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -105,7 +105,7 @@ Nenurodyta
     - c-170438
 
 <a id="claim-t-187464"></a>
-- t-007
+- t-004
   teiginys: "Lietuvos metraštis teigia, kad Po susitarimo su Maskvos didžiuoju kunigaikščiu Algirdas atrėmė ietį į Maskvos sieną kaip savo žygio ženklą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -123,7 +123,7 @@ Nenurodyta
     - c-170437
 
 <a id="claim-t-187465"></a>
-- t-009
+- t-005
   teiginys: "Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -140,7 +140,7 @@ Nenurodyta
     - c-170438
 
 <a id="claim-t-187466"></a>
-- t-008
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas iš žygio grįžo su daugybe belaisvių ir grobio."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -258,9 +258,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
-    - t-007
+    - t-001
+    - t-002
+    - t-004
 
 - id: c-170438
   autorius: "Anoniminis metraštininkas"
@@ -291,6 +291,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-009
-    - t-008
+    - t-003
+    - t-005
+    - t-006

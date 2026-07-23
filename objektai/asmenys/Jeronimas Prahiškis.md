@@ -8,16 +8,16 @@ datos:
   - '1416 m.'
 date_start: '1405'
 date_end: '1416'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - karalius
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -60,7 +60,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-172894
 
 <a id="claim-t-190013"></a>
-- t-003
+- t-002
   teiginys: "Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą."
   atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-172898
 
 <a id="claim-t-190014"></a>
-- t-004
+- t-003
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis įtikino žmones apgavyste, sugriovė šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-172898
 
 <a id="claim-t-190016"></a>
-- t-006
+- t-004
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis ilgai mokė žmones tikėjimo paslapčių ir liepė iškirsti šventąjį mišką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-172899
 
 <a id="claim-t-197402"></a>
-- t-007
+- t-005
   teiginys: "Narbutas teigia, kad jeronimas pasijuokė iš jų nai vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė, mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -224,7 +224,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-172897
   autorius: "Teodoras Narbutas"
@@ -244,7 +244,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-172898
   autorius: "Teodoras Narbutas"
@@ -268,8 +268,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004
 
 - id: c-172899
   autorius: "Teodoras Narbutas"
@@ -288,7 +288,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 - Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

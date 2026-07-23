@@ -31,7 +31,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 ## Teiginiai
 
 <a id="claim-t-190353"></a>
-- t-002
+- t-001
   teiginys: "Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     - c-173236
 
 <a id="claim-t-190725"></a>
-- t-004
+- t-002
   teiginys: "Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     - c-173607
 
 <a id="claim-t-197605"></a>
-- t-005
+- t-003
   teiginys: "Nei Homero, nei Herodoto žemėlapiai, kurie niekad nebuvo tikslūs astronominiai-geografiniai, bet apskritai mitologiniai, kosmografiniai, genealoginiai ir istoriniai, nesutampa su mūsų žemėlapiais, kuriems būdingos tiks lios matematinės projekcijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,8 +74,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173607
-- susijęs iš [[objektai/autoriai/Heinė.md#claim-t-190425|Heinė (poetas)]]: Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo graikams Trojos karo metu žinomą žmogėdrystę.
-- susijęs iš [[objektai/paprociai/Milžinkapių ir pilkapių pylimas žymiems mirusiesiems.md#claim-t-189891|Milžinkapių ir pilkapių pylimas žymiems mirusiesiems]]: Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.'
@@ -193,7 +192,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-173607
   autorius: "Teodoras Narbutas"
@@ -226,5 +225,5 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-002
+    - t-003

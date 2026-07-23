@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Kraičvežiai
 sukurta: '2026-07-12'
 variantai:
-  - 'kraičvežiai'
+  - kraičvežiai
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -53,7 +53,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 ## Teiginiai
 
 <a id="claim-t-195626"></a>
-- t-002
+- t-001
   teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -63,7 +63,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     - c-178028
 
 <a id="claim-t-195627"></a>
-- t-001
+- t-002
   teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
   atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "gap::vocabulary"
@@ -71,7 +71,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178028
-- susijęs iš [[objektai/zodynas/Plunksnų pirkliai.md#claim-t-195628|Plunksnų pirkliai]]: Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais.
+
 ## Citatos
 
 - id: c-178028
@@ -94,8 +94,8 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-178029
   autorius: "M. Katkus"
@@ -113,6 +113,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

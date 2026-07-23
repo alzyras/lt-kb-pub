@@ -35,7 +35,7 @@ Vartojamos formos: `šliuižiu`.
 ## Teiginiai
 
 <a id="claim-t-07640"></a>
-- t-002
+- t-001
   teiginys: "Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,4 +67,4 @@ Vartojamos formos: `šliuižiu`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -6,13 +6,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'M'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - autorius
+amziai:
+  - 'M'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -47,7 +47,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177239
-- susijęs iš Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo Upsalensi, Suetiae et Gothiae Primate: Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus.'
@@ -65,7 +65,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-177239

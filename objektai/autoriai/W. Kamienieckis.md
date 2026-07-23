@@ -55,8 +55,7 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33194
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179525|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179527|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.
+
 ## Citatos
 
 - id: c-33194

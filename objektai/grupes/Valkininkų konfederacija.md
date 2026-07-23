@@ -40,7 +40,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Teiginiai
 
 <a id="claim-t-78531"></a>
-- t-005
+- t-001
   teiginys: "Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - c-42969
 
 <a id="claim-t-78532"></a>
-- t-004
+- t-002
   teiginys: "Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - c-75802
 
 <a id="claim-t-78533"></a>
-- t-001
+- t-003
   teiginys: "Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - c-42970
 
 <a id="claim-t-193133"></a>
-- t-006
+- t-004
   teiginys: "Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-42970
   sudarytojas: "Karolis Zikaras"
@@ -166,7 +166,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-75802
   redaktorius: "A. Šapoka"
@@ -185,7 +185,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-175891
   redaktorius: "A. Šapoka"
@@ -205,4 +205,4 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004

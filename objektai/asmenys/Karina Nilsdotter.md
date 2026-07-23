@@ -56,7 +56,7 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44407
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79078|Karolis IX]]: Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
+
 ## Citatos
 
 - id: c-44407

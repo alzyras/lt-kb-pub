@@ -56,11 +56,10 @@ Nenurodyta
     Žemaičiuose šventas medis buvo šermukšnis17“.
     ,7a Jucemicz. Litwa.
   citata_rodoma: ''
-  statusas: verified
-
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -73,6 +72,7 @@ Nenurodyta
   citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

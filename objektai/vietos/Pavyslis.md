@@ -48,10 +48,7 @@ Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171930
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191086|Jordanas]]: Narbutas rašo, kad Jordanas, pasakodamas apie Pavyslio vietoves prie jūros, minėjo vidivarius prie Vyslos žiočių.
-- susijęs iš Padnepris: Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkapius.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190743|Jordanas]]: Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai.
+
 ## Citatos
 
 - id: c-171930

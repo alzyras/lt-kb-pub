@@ -73,7 +73,7 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179312
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192472|Slavai]]: Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas.
+
 ## Citatos
 
 - id: c-174022

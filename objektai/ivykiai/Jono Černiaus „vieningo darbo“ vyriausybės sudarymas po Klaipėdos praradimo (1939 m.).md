@@ -66,6 +66,7 @@ Nenurodyta
   citata_rodoma: "ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

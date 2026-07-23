@@ -40,7 +40,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 ## Teiginiai
 
 <a id="claim-t-46320"></a>
-- t-003
+- t-001
   teiginys: "Po Lenkijos ultimatumo priėmimo Vladas Mironas atleido Stasį Lozoraitį, kurio politinė linija pralaimėjo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21996
 
 <a id="claim-t-46321"></a>
-- t-005
+- t-002
   teiginys: "LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-48907
 
 <a id="claim-t-46322"></a>
-- t-001
+- t-003
   teiginys: "Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21994
 
 <a id="claim-t-46323"></a>
-- t-002
+- t-004
   teiginys: "Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21995
 
 <a id="claim-t-46324"></a>
-- t-004
+- t-005
   teiginys: "Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -129,19 +129,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-21997
-- susijęs iš [[objektai/asmenys/Stasys Antanas Bačkis.md#claim-t-19246|Stasys Antanas Bačkis]]: Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
-- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101708|Stasys Raštikis]]: Stasys Raštikis kartu su Stasiu Lozoraičiu ėmėsi modernizuoti kariuomenę ir diplomatiją bei parengė naują nacionalinio saugumo strategiją.
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75262|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75263|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: 1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75264|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis): S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75618|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.
-- susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75619|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.
-- susijęs iš [[objektai/posakiai/„primus inter pares“.md#claim-t-77853|„primus inter pares“]]: Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių.
-- susijęs iš F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.): 1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.
-- susijęs iš Vokietija: 1935 m. Stasys Lozoraitis siūlė Lietuvai atkurti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.
-- susijęs iš [[objektai/zodynas/Modus vivendi.md#claim-t-77799|Modus vivendi]]: Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.
-- susijęs iš [[objektai/zodynas/primus inter pares.md#claim-t-22257|primus inter pares]]: Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.
+
 ## Citatos
 
 - id: c-21994
@@ -166,7 +154,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-21995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -185,7 +173,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-21996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -206,7 +194,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-21997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -229,7 +217,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-48907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -253,4 +241,4 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

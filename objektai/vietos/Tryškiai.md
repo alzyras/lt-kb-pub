@@ -54,18 +54,7 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   temporalinis_llm_pakomentavimas: "Klausiamoji formuluotė pakeista citatos palaikomu faktiniu sakiniu."
   pagrindžia:
     - c-24509
-- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
-- susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
-- susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
-- susijęs iš [[objektai/asmenys/Jurgis Mačiūnas.md#claim-t-63776|Jurgis Mačiūnas]]: Jurgis Mačiūnas citatoje įvardijamas kaip „Fluxus“ kūrėjas tarp su Lietuva siejamų garsių vardų.
-- susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76028|Victor David Brenner]]: Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius.
-- susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
-- susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
-- susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš Turkija: Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
+
 ## Citatos
 
 - id: c-24509

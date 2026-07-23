@@ -44,7 +44,7 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
   semantiniai_rysiai: "Lenkai puolė Prūsai (0.78); Totoriai puolė Prūsai (0.78); Totoriai buvo sąjungininkas su Lenkai (0.72)"
   pagrindžia:
     - c-38691
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176866|Zigmantas Kaributas]]: Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.
+
 ## Citatos
 
 - id: c-38691

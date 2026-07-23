@@ -208,7 +208,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-172352

@@ -8,14 +8,14 @@ datos:
   - '1314 m.'
 date_start: '1314'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
   - sąvoka
   - socialinis-terminas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07656"></a>
-- t-002
+- t-001
   teiginys: "Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,7 +63,7 @@ Papildomos aiškios formos neišskirtos.
     - c-09588
 
 <a id="claim-t-200951"></a>
-- t-003
+- t-002
   teiginys: "Tą matydamas, Botelis, marčelga kryžėjų, norėjo savo kariauną gelbėti, dariu ėmė su lietuviais sandarauti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Papildomos aiškios formos neišskirtos.
     - c-184301
 
 <a id="claim-t-200952"></a>
-- t-004
+- t-003
   teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-184301
   autorius: "Simonas Daukantas"
@@ -128,7 +128,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-184302
   autorius: "Simonas Daukantas"
@@ -160,4 +160,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

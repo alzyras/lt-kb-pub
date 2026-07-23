@@ -46,6 +46,7 @@ Ilgai ne­ begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai 
   citata_rodoma: "Ilgai ne­\nbegalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai\n\n(^10) **CEV, 18 (nr. 53).**\n(^11) **SRP, II, 713 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

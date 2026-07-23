@@ -53,7 +53,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     - c-173180
 
 <a id="claim-t-190297"></a>
-- t-003
+- t-002
   teiginys: "Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,7 +76,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     - c-173180
 
 <a id="claim-t-197293"></a>
-- t-004
+- t-003
   teiginys: "Francua Žozefas Noelis yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173180
   autorius: "Teodoras Narbutas"
@@ -149,4 +149,4 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

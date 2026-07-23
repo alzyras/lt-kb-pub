@@ -65,7 +65,7 @@ Nenurodyta
     - c-169217
 
 <a id="claim-t-185858"></a>
-- t-003
+- t-002
   teiginys: "Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-169219
 
 <a id="claim-t-196323"></a>
-- t-004
+- t-003
   teiginys: "Šventaragis paprašė Germantą po jo mirties skirti pasirinktą lygumą valdovams deginti ir jų pelenams laidoti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Nenurodyta
     - c-169217
 
 <a id="claim-t-196324"></a>
-- t-005
+- t-004
   teiginys: "Germantas atliko nustatytas apeigas, kurių vėliau laikytasi toje pačioje vietoje deginant mirusių valdovų kūnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169217
@@ -217,7 +216,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-169219
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -255,7 +254,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178626
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -286,4 +285,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

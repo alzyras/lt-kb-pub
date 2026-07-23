@@ -61,10 +61,7 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175667
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.'
@@ -77,11 +74,11 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
     jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
     nėjusi, be to, visiškai negausi, bet pernelyg karinga.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

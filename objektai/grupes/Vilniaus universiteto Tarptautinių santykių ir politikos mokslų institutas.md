@@ -60,6 +60,7 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   citata_rodoma: "reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

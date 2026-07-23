@@ -61,6 +61,7 @@ Nenurodyta
     tę stovyklą bei gurguoles, spruko ligi pat Maskvos.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,16 +47,13 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07810"></a>
-- t-002
+- t-001
   teiginys: "Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09969
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -90,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

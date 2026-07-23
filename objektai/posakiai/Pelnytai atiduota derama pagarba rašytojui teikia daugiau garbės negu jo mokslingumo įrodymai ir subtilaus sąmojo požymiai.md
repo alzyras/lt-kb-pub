@@ -74,6 +74,7 @@ Autorinė sentencija apie deramos pagarbos rašytojui vertę, įterpta į Baltij
   citata_rodoma: "Bet pelnytai atiduota derama pagarba rašytojui teikia dau­\n  giau garbės negu jo mokslingumo įrodymai ir subtilaus\n  sąmojo požymiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

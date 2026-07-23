@@ -57,6 +57,7 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   citata_rodoma: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

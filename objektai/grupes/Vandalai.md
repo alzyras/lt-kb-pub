@@ -62,23 +62,7 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179231
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192397|Gotai]]: Narbutas rašo, kad II amžiaus pradžioje gotai, nusiaubę ulmerugių kraštą tarp Oderio ir Viparos, atsigręžė prieš vandalus prie Vyslos vidurupio.
-- susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190736|Jordanas]]: Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192397|Gotai]]: Narbutas rašo, kad II amžiaus pradžioje gotai, nusiaubę ulmerugių kraštą tarp Oderio ir Viparos, atsigręžė prieš vandalus prie Vyslos vidurupio.
-- susijęs iš Jordano „De rebus Gothorum“: Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panonijos su vandalais bėgo nuo gotų, kuriuos vijo hunai.
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191171|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai apsigyveno Vyslos ir Nemuno tarpupyje.
-- susijęs iš [[objektai/asmenys/Evarikas.md#claim-t-191393|Evarikas]]: Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą.
-- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-190900|Justinianas]]: Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų.
-- susijęs iš [[objektai/asmenys/Liberijus.md#claim-t-191438|Liberijus]]: Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
-- susijęs iš [[objektai/asmenys/Totila.md#claim-t-191478|Totila]]: Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192440|Persai]]: 552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192475|Slavai]]: V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.
-- susijęs iš [[objektai/ivykiai/Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis.md#claim-t-191068|Narso kariuomenės sutelkimas Pado žemupyje ir Taginos mūšis]]: Narso vadovaujama Justiniano kariuomenė 552 m. buvo sutelkta Pado žemupyje ir dalyvavo Taginos mūšyje, kuriame žuvo Totila.
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191035|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.
-- susijęs iš Florencija: Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
+
 ## Citatos
 
 - id: c-175734

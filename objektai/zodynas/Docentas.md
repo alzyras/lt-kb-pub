@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: Docentas
 sukurta: '2026-07-12'
 variantai:
-  - 'docentu'
+  - docentu
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -61,8 +61,7 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177879
-- susijęs iš [[objektai/zodynas/Filosofijos licenciato laipsnis.md#claim-t-195614|Filosofijos licenciato laipsnis]]: A. R. Niemi 1899 m. gavo fil. licenciato laipsnį.
-- susijęs iš [[objektai/zodynas/Filosofijos magistro laipsnis.md#claim-t-195613|Filosofijos magistro laipsnis]]: A. R. Niemi 1894 m. gavo fil. magistro laipsnį.
+
 ## Citatos
 
 - id: c-177879

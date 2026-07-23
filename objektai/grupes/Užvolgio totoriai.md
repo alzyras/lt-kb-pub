@@ -53,7 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas ir išvalytas nuo OCR lūžių."
   pagrindžia:
     - c-35594
-- susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
+
 ## Citatos
 
 - id: c-35594

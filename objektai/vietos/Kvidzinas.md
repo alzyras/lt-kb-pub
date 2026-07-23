@@ -61,11 +61,10 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
     dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­
     jančios salos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175651

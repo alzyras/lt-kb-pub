@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187474"></a>
-- t-004
+- t-001
   teiginys: "Lietuvos metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-170443
 
 <a id="claim-t-187477"></a>
-- t-001
+- t-004
   teiginys: "Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::events"
@@ -147,7 +147,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-002
     - t-003
-    - t-001
+    - t-004

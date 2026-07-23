@@ -49,6 +49,7 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
   citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

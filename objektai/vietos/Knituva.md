@@ -45,7 +45,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   semantiniai_rysiai: "Žemaičiai sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86); Žemaičiai prekiavo su Prūsai (0.84); Žemaičiai sudarė sutartį su Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-28431
-- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
+
 ## Citatos
 
 - id: c-28431

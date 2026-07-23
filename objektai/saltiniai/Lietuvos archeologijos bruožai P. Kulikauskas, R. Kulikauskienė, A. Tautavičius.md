@@ -7,12 +7,12 @@ datos:
   - '1961 m.'
 date_start: '1961'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,11 +61,10 @@ Dusburgietis teigia, kad lietuvos archeologijos bruožai / P.
     Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,
     1961.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61770

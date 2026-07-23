@@ -44,18 +44,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33871
-- susijęs iš Alytus: Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.
-- susijęs iš Merkys: Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.
-- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192364|Alanai]]: Pasak Narbuto cituojamo Amiano Marcelino, dalis alanų apsigyveno Vyslos ir Nemuno tarpupyje.
-- susijęs iš [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau.md#claim-t-67254|Aktai sau, gyvenimas nuėjo sau]]: Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.
-- susijęs iš [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau.md#claim-t-67255|Aktai sau, gyvenimas nuėjo sau]]: Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.
-- susijęs iš [[objektai/zodynas/Sūdas.md#claim-t-07709|sūdas]]: Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
-- susijęs iš [[objektai/zodynas/konsekracija.md#claim-t-93089|konsekracija]]: Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
-- susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
+
 ## Citatos
 
 - id: c-33871

@@ -44,12 +44,7 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24055
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26900|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
-- susijęs iš Salonikai: XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.
-- susijęs iš Stambulas: XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.
-- susijęs iš Tunisas: Tunisas minimas tarp miestų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius kaip vienas svarbiausių žydų kultūros centrų.
-- susijęs iš Vilnius: XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale.
+
 ## Citatos
 
 - id: c-24055

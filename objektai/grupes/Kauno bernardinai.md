@@ -8,11 +8,11 @@ datos:
   - '1656 m.'
 date_start: '1483'
 date_end: '1656'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVII'
-sukurta: ''
-atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

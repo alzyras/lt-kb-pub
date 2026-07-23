@@ -46,7 +46,7 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
   semantiniai_rysiai: "Henrikas von Plauen gynė Marienburgas (0.82)"
   pagrindžia:
     - c-32737
-- susijęs iš Marienburgas: Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.
+
 ## Citatos
 
 - id: c-32737

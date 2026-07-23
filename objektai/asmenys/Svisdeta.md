@@ -8,15 +8,15 @@ datos:
   - '1269 m.'
 date_start: '1269'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Teiginiai
 
 <a id="claim-t-184839"></a>
-- t-003
+- t-001
   teiginys: "Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - c-168200
 
 <a id="claim-t-197161"></a>
-- t-004
+- t-002
   teiginys: "Svisdeta esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,15 +71,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167518
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184129|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184130|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184836|Surdeta]]: Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-60442|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183898|Skalviai]]: Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas.md#claim-t-62131|Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]: Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.'
@@ -103,7 +95,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-167518
@@ -123,7 +114,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-168200
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -146,4 +137,4 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

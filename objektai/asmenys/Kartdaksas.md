@@ -48,7 +48,7 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174311
-- susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191954|Jordanas]]: Narbutas Jordano aprašymus laikė svarbiais alanams, nes Jordanas, būdamas gotas, esą gerai pažinojo alanus per savo senelio ryšius.
+
 ## Citatos
 
 - id: c-174311

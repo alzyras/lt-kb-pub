@@ -7,13 +7,13 @@ datos:
   - '1359 m.'
 date_start: '1359'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - vietovardis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -82,7 +82,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     - c-175065
 
 <a id="claim-t-192559"></a>
-- t-004
+- t-003
   teiginys: "Narbutas Giryjos kilmę aiškina per lietuvių kalbos žodį „girija“, reiškiantį mišką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     - c-175342
 
 <a id="claim-t-192560"></a>
-- t-005
+- t-004
   teiginys: "Narbutas Giryją, Gerrhus ir Grykiją laiko pavadinimais, galėjusiais kilti iš tos pačios tautos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     - c-175065
 
 <a id="claim-t-197693"></a>
-- t-006
+- t-005
   teiginys: "Gal net lengviau būtų paaiškinti šio žodžio 'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių iškraipymo: Giryja, girija, miškas, Girkija, girkija, miš kingumas1."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
+    - t-005
 
 - id: c-175065
   autorius: "Teodoras Narbutas"
@@ -178,7 +178,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004
 
 - id: c-175342
   autorius: "Teodoras Narbutas"
@@ -201,4 +201,4 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

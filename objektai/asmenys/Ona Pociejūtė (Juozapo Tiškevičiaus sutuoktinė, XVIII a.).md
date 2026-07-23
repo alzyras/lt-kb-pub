@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200477"></a>
-- t-002
+- t-001
   teiginys: "1751 m. Jonas Dominykas Lopacinskis rašė, kad Ona Pociejūtė Tiškevičienė tikriausiai gimdys Vilniuje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +58,7 @@ media_all_json: |-
     - c-183848
 
 <a id="claim-t-200478"></a>
-- t-001
+- t-002
   teiginys: "Ona Pociejūtė buvo Juozapo Tiškevičiaus sutuoktinė."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -73,16 +73,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183848
-- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200475|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: 1751 m. Juozapas Tiškevičius atvyko į Vilnių kartu su Ona Pociejūte Tiškevičiene.
-- susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200525|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: Gimbutas buvo Starodubo pateisėjininkaitis.
-- susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200526|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: 1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę.
-- susijęs iš [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.).md#claim-t-200476|Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]: Juozapas Tiškevičius buvo Vilniaus tijūnas.
-- susijęs iš [[objektai/asmenys/Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.).md#claim-t-200527|Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.)]]: Stravinskaitė buvo Starodubo žemės teisėjaitė.
-- susijęs iš [[objektai/asmenys/Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.).md#claim-t-200528|Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.)]]: 1760 m. Starodubo žemės teisėjaitė Stravinskaitė ištekėjo už Starodubo pateisėjininkaičio Gimbuto.
-- susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200525|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: Gimbutas buvo Starodubo pateisėjininkaitis.
-- susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200526|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: 1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę.
-- susijęs iš [[objektai/asmenys/Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.).md#claim-t-200527|Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.)]]: Stravinskaitė buvo Starodubo žemės teisėjaitė.
-- susijęs iš [[objektai/asmenys/Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.).md#claim-t-200528|Stravinskaitė (Starodubo žemės teisėjaitė, XVIII a.)]]: 1760 m. Starodubo žemės teisėjaitė Stravinskaitė ištekėjo už Starodubo pateisėjininkaičio Gimbuto.
+
 ## Citatos
 
 - id: c-183848
@@ -94,5 +85,5 @@ media_all_json: |-
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -8,10 +8,10 @@ datos:
   - '1643 m.'
 date_start: '1640'
 date_end: '1643'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,9 +59,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185393
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

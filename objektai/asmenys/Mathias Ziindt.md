@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, faktinis ir atitinka citatoje pateiktą graviūros aprašą."
   pagrindžia:
     - c-44453
-- susijęs iš Gardino vaizdas (1568 m.): 1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.
+
 ## Citatos
 
 - id: c-44453

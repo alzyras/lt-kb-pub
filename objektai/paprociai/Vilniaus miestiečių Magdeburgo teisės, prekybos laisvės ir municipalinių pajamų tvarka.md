@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87131"></a>
-- t-005
+- t-001
   teiginys: "1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-83114
 
 <a id="claim-t-87132"></a>
-- t-004
+- t-002
   teiginys: "Dar būdamas didžiuoju kunigaikščiu, Kazimieras atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Nenurodyta
     - c-83110
 
 <a id="claim-t-87133"></a>
-- t-002
+- t-003
   teiginys: "Žygimantas Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Nenurodyta
     - c-83113
 
 <a id="claim-t-87134"></a>
-- t-001
+- t-004
   teiginys: "Rugsėjo 23 d. Žygimantas leido Vilniaus miestiečiams prekiauti ir be muito gabenti prekes Lietuvos žemėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Nenurodyta
     - c-83112
 
 <a id="claim-t-87135"></a>
-- t-003
+- t-005
   teiginys: "Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-83111
   autorius: "Michał Baliński"
@@ -205,7 +205,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-83112
   autorius: "Michał Baliński"
@@ -232,7 +232,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-83113
   autorius: "Michał Baliński"
@@ -266,7 +266,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-83114
   autorius: "Michał Baliński"
@@ -295,4 +295,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

@@ -75,32 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie šarvuočių buvimo vietą perversmo metu."
   pagrindžia:
     - c-26640
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13461|Sovietų tankai ir šarvuočiai]]: Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13462|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13463|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169856|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą.
-- susijęs iš Lietuvos radijo ir televizijos komiteto pastatas (institucija): 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą, kurį gynė taiki minia.
-- susijęs iš Vilnius: 1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
-- susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-- susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
-- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75767|Augustinas Voldemaras]]: Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Loreta Asanavičiūtė.md#claim-t-19113|Loreta Asanavičiūtė]]: Loreta Asanavičiūtė žuvo 1991 m. sausio 13-ąją per sovietų kariuomenės televizijos bokšto šturmą, patekusi po tanko vikšrais ir mirusi ligoninėje.
-- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
-- susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23302|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
-- susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23303|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
-- susijęs iš [[objektai/grupes/107-oji motošaulių divizija.md#claim-t-40821|107-oji motošaulių divizija]]: 1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija.
-- susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40859|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75265|Sausio 13-oji (1991 m.)]]: 1991 m. sausio 12-osios vakarą žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75267|Sausio 13-oji (1991 m.)]]: Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75270|Sausio 13-oji (1991 m.)]]: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169853|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169857|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-- susijęs iš Vilniaus televizijos bokštas: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
+
 ## Citatos
 
 - id: c-26640

@@ -71,15 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-40943
-- susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
-- susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
-- susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-40398|Povilas Morkūnas-Rimantas]]: Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.
-- susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
-- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+
 ## Citatos
 
 - id: c-40943

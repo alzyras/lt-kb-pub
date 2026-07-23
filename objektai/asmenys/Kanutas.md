@@ -55,7 +55,7 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Kanuto įsakymą nederliaus metu."
   pagrindžia:
     - c-83726
-- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192076|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+
 ## Citatos
 
 - id: c-83726

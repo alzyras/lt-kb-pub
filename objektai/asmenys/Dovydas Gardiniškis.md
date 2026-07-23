@@ -55,7 +55,7 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai remiasi Stryjkovskio kronikos paminėjimu."
   pagrindžia:
     - c-32718
-- susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
+
 ## Citatos
 
 - id: c-32718

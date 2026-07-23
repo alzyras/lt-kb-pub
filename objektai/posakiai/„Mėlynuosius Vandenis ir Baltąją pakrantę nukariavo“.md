@@ -53,7 +53,7 @@ sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nuk
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-44977
-- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78877|baskakas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
+
 ## Citatos
 
 - id: c-44977

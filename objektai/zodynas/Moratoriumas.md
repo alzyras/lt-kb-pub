@@ -54,7 +54,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-26562
-- susijęs iš [[objektai/ivykiai/Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga).md#claim-t-66908|Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)]]: 1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.
+
 ## Citatos
 
 - id: c-26562

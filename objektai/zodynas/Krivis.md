@@ -31,7 +31,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 ## Teiginiai
 
 <a id="claim-t-192923"></a>
-- t-002
+- t-001
   teiginys: "Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
     - c-175693
 
 <a id="claim-t-194903"></a>
-- t-003
+- t-002
   teiginys: "Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
     - c-177299
 
 <a id="claim-t-197695"></a>
-- t-004
+- t-003
   teiginys: "Visa tai leidžia padaryti teisingą išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa, karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems žymiems asmenims."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,11 +89,10 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
     burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-175693
@@ -118,8 +117,8 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-001
+    - t-003
 
 - id: c-177299
   autorius: "Teodoras Narbutas"
@@ -145,4 +144,4 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

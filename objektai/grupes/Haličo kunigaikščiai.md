@@ -100,7 +100,7 @@ Politinė ir karinė kunigaikščių grupė.
   temporalinis_llm_pakomentavimas: "Citata remia faktą apie Haličo kunigaikščių puolimą ir Slonimo pasipriešinimą."
   pagrindžia:
     - c-55887
-- susijęs iš [[objektai/grupes/Mongolai.md#claim-t-113191|Mongolai]]: 1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.
+
 ## Citatos
 
 - id: c-55887

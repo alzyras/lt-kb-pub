@@ -65,9 +65,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10266
-- susijęs iš [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba.md#claim-t-67168|Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]: Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

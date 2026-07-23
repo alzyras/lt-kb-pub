@@ -42,6 +42,7 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
   citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo\nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos\nir Lietuvos Valstybėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

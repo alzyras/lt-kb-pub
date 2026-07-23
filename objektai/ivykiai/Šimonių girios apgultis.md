@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-39118"></a>
-- t-002
+- t-001
   teiginys: "Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-40923
 
 <a id="claim-t-39119"></a>
-- t-001
+- t-002
   teiginys: "1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,17 +89,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys pataisytas į sklandesnę ir aiškesnę faktinę formą."
   pagrindžia:
     - c-40922
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš [[objektai/grupes/Rytų Lietuvos sritis.md#claim-t-41137|Rytų Lietuvos sritis]]: Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49114|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49117|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš Priepado ežeras: 1949 m. lapkričio 1 d. Šimonių girioje prie Priepado ežero MGB karių apsuptame bunkeryje po atkaklios kovos žuvo 7 partizanai.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49114|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49117|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
+
 ## Citatos
 
 - id: c-40922
@@ -120,7 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-40923
   sudarytojas: "Karolis Zikaras"
@@ -146,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

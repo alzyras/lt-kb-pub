@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06753"></a>
-- t-003
+- t-001
   teiginys: "Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-00224
 
 <a id="claim-t-06754"></a>
-- t-004
+- t-002
   teiginys: "Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -100,5 +100,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

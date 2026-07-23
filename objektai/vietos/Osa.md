@@ -8,13 +8,13 @@ datos:
   - '1413 m.'
 date_start: '1413'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - žemė
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 ## Teiginiai
 
 <a id="claim-t-68845"></a>
-- t-002
+- t-001
   teiginys: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     - c-68327
 
 <a id="claim-t-68846"></a>
-- t-001
+- t-002
   teiginys: "Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -81,11 +81,10 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
     vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-24347
@@ -106,7 +105,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-68327
   autorius: "Petras Dusburgietis"
@@ -123,4 +122,4 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

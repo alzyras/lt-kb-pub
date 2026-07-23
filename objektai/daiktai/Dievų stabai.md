@@ -173,12 +173,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179079
-- susijęs iš Upsala: Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188394|Adomas Bremenietis]]: Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“.
-- susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

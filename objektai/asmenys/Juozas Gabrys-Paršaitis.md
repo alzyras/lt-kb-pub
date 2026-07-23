@@ -57,6 +57,7 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   citata_rodoma: "brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

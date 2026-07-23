@@ -70,7 +70,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ## Teiginiai
 
 <a id="claim-t-47923"></a>
-- t-004
+- t-001
   teiginys: "Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -89,7 +89,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     - c-32651
 
 <a id="claim-t-47924"></a>
-- t-003
+- t-002
   teiginys: "1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -105,8 +105,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32651
-- susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
-- susijęs iš [[objektai/zodynas/aneksija.md#claim-t-70086|aneksija]]: Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
+
 ## Citatos
 
 - id: c-32651
@@ -128,5 +127,5 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

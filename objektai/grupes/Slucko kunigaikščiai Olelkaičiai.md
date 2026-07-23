@@ -36,7 +36,7 @@ Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Ole
 ## Teiginiai
 
 <a id="claim-t-187762"></a>
-- t-002
+- t-001
   teiginys: "Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -81,4 +81,4 @@ Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Ole
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

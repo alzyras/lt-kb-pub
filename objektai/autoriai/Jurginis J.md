@@ -31,7 +31,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 ## Teiginiai
 
 <a id="claim-t-64662"></a>
-- t-006
+- t-001
   teiginys: "J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     - c-65327
 
 <a id="claim-t-64663"></a>
-- t-003
+- t-002
   teiginys: "J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     - c-65330
 
 <a id="claim-t-64667"></a>
-- t-004
+- t-003
   teiginys: "J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65329
-- susijęs iš Lietuvos TSR istorija: „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
+
 ## Citatos
 
 - id: c-65327
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001
 
 - id: c-65329
   autorius: "Petras Dusburgietis"
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-65330
   autorius: "Petras Dusburgietis"
@@ -137,4 +137,4 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -40,9 +40,7 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182696
-- susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
-- susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
-- susijęs iš [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą.md#claim-t-185774|Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]: Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.
+
 ## Citatos
 
 - id: c-182696

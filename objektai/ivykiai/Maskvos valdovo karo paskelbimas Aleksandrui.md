@@ -96,11 +96,12 @@ Nenurodyta
     tų Maskvos valdžiai bei priklausomybei, išduotų Se-
     verską ir užpultų su savo kariaunomis Lietuvą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
+    - t-003
 
 ## Citatos
 

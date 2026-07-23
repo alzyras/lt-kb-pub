@@ -57,6 +57,7 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
   citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

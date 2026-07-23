@@ -72,8 +72,3 @@ Apibendrinanti senosios Lietuvos buities formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195611|Senosios gadynės kasdienybė]]: Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo.
-- susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195612|Senosios gadynės kasdienybė]]: Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose.
-- susijęs iš [[objektai/zodynas/Balana.md#claim-t-195450|Balana]]: Balana šiame šaltinyje reiškia apšvietimo priemonę, aiškinamą variantu `skala`.

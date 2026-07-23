@@ -48,12 +48,7 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174306
-- susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191327|Targitas]]: Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius.
-- susijęs iš [[objektai/asmenys/Boristenė.md#claim-t-191379|Boristenė]]: Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupiterio sūnų ir pirmą tikrųjų skitų karalių.
-- susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191327|Targitas]]: Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius.
-- susijęs iš [[objektai/asmenys/Borėjas.md#claim-t-191258|Borėjas]]: Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą.
-- susijęs iš [[objektai/asmenys/Fajetonas.md#claim-t-191267|Fajetonas]]: Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius.
-- susijęs iš Kerčės tvirtovė: Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.
+
 ## Citatos
 
 - id: c-174306

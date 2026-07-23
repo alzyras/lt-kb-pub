@@ -120,7 +120,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173815
 
 <a id="claim-t-190936"></a>
-- t-007
+- t-005
   teiginys: "Teodoras Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: jie degino mirusiuosius ir pelenus rinko į urnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -140,7 +140,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173818
 
 <a id="claim-t-190937"></a>
-- t-008
+- t-006
   teiginys: "Teodoro Narbuto perteikimu, Nestoras pasakojo, kad 859 m. variagai paskyrė kailių duoklę ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173819
 
 <a id="claim-t-190938"></a>
-- t-009
+- t-007
   teiginys: "Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173820
 
 <a id="claim-t-197780"></a>
-- t-011
+- t-008
   teiginys: "Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai riojoje Dnepro pakrantėje, į rytus nuo jo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -195,7 +195,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-179337
 
 <a id="claim-t-197781"></a>
-- t-012
+- t-009
   teiginys: "Nestoras turėjo būti X amžiuje parašyta kopija5."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -207,7 +207,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-175369
 
 <a id="claim-t-197782"></a>
-- t-013
+- t-010
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -217,9 +217,42 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173818
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188223|Latviai]]: Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.
+
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šneibratas (Sznejbrato)
+    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
+    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
+    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
+    Komovės šventykloje.
+    Prūsijos kronikininkai spėja, kad tai buvo sudievintas Pru-
+    lenis, taip pat sudievinto Vaidevučio brolis, vadintas Viršai­
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Teodoro Narbuto teigimu, Slėceris abejojo, ar iš Nestoro galima paaiškinti, kokiai tautai priklausė krivičiai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tačiau jo pastabos apie kri­
+    vičius vertos prisiminimo.
+    Kas gi buvo tie krivičiai ir kur jie gyveno? Pats Slė­
+    ceris netiki pats savimi, jog galėjęs iš Nestoro aiškinti,
+    330
+
+    ## Puslapis 341
+
+    kokiai tautai jie priklauso.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-008
   santrauka: 'Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -236,10 +269,10 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
     užrašyti tik senų padavimų sutrumpintas liekanas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-009
   santrauka: 'Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -252,11 +285,11 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
     namoje Bruzes.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-011
 
 ## Citatos
 
@@ -366,8 +399,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-013
+    - t-005
+    - t-010
 
 - id: c-173819
   autorius: "Teodoras Narbutas"
@@ -391,7 +424,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-173820
   autorius: "Teodoras Narbutas"
@@ -418,7 +451,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-175369
   autorius: "Teodoras Narbutas"
@@ -441,7 +474,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-179337
   autorius: "Teodoras Narbutas"
@@ -465,4 +498,4 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008

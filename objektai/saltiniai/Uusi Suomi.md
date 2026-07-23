@@ -5,7 +5,7 @@ saltinio_tipas: 'periodinis leidinys'
 variantai:
   - 'Naujoji Suomija'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'

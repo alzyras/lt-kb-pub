@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78707"></a>
-- t-006
+- t-001
   teiginys: "Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Nenurodyta
     - c-12402
 
 <a id="claim-t-78708"></a>
-- t-005
+- t-002
   teiginys: "Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
     - c-43174
 
 <a id="claim-t-78709"></a>
-- t-011
+- t-003
   teiginys: "1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Nenurodyta
     - c-43173
 
 <a id="claim-t-78710"></a>
-- t-008
+- t-004
   teiginys: "Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Nenurodyta
     - c-43173
 
 <a id="claim-t-78711"></a>
-- t-010
+- t-005
   teiginys: "1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Nenurodyta
     - c-12402
 
 <a id="claim-t-78712"></a>
-- t-009
+- t-006
   teiginys: "Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,8 +198,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-010
+    - t-001
+    - t-005
     - t-007
 
 - id: c-43173
@@ -221,8 +221,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-008
+    - t-003
+    - t-004
 
 - id: c-43174
   sudarytojas: "Karolis Zikaras"
@@ -243,5 +243,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-009
+    - t-002
+    - t-006

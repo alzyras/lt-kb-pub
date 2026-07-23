@@ -37,7 +37,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Teiginiai
 
 <a id="claim-t-86745"></a>
-- t-002
+- t-001
   teiginys: "1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     - c-82724
 
 <a id="claim-t-86746"></a>
-- t-003
+- t-002
   teiginys: "Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-82724
   autorius: "Michał Baliński"
@@ -127,4 +127,4 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

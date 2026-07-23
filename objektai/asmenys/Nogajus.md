@@ -56,8 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo."
   pagrindžia:
     - c-83786
-- susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
-- susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
+
 ## Citatos
 
 - id: c-83786

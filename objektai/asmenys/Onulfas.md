@@ -49,7 +49,7 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174185
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
+
 ## Citatos
 
 - id: c-174185

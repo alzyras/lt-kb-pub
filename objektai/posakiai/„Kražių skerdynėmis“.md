@@ -77,8 +77,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata geriau palaiko sakinį, aiškiai susiejantį įvykius su posakiu."
   pagrindžia:
     - c-166888
-- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
-- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
+
 ## Citatos
 
 - id: c-166888

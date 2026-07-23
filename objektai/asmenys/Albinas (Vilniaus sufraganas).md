@@ -44,10 +44,7 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83590
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176083|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176087|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
+
 ## Citatos
 
 - id: c-83590

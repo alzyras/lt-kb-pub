@@ -1,567 +1,1507 @@
 ---
 tipas: laikotarpis
-pavadinimas: 'XIV amžius'
-sukurta: '2026-04-26'
+pavadinimas: "XIV amžius"
+periodo_pradzia: 1301
+periodo_pabaiga: 1400
+periodo_objektu_skaicius: 1471
 tags: []
 ---
 
 # XIV amžius
 
-Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
+Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 530.
-
-## Kaip naudoti
-
-- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą arba laiką.
-- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+Objektų skaičius: 1471.
 
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Albertas Kojalavičius]]
+- [[objektai/asmenys/Albertas Vaitiekus Manvydas]]
+- [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Alcis]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Aldona Ona]]
+- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras (Mykolo sūnus)]]
+- [[objektai/asmenys/Aleksandras Narimantaitis]]
 - [[objektai/asmenys/Aleksandras Vyguntas]]
+- [[objektai/asmenys/Alepas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Andriejus]]
+- [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Andrius (račius)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/asmenys/Andrius iš Vasilevo]]
 - [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/asmenys/Andrius Važila]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Arnoldas iš Elnerio]]
+- [[objektai/asmenys/Augustas Kocebiu]]
 - [[objektai/asmenys/Bajazitas]]
+- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
 - [[objektai/asmenys/Baltramiejus (vyskupas)]]
 - [[objektai/asmenys/Benediktas]]
+- [[objektai/asmenys/Benediktas XI]]
 - [[objektai/asmenys/Bernardas (abatas)]]
-- [[objektai/asmenys/Bodzanta]]
+- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]]
+- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
+- [[objektai/asmenys/Bernardas iš Svidnicos]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Boleslavas (Mazovijos kunigaikštis)]]
+- [[objektai/asmenys/Boleslovas Droviusis]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
+- [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis )]]
+- [[objektai/asmenys/Boucicaut]]
+- [[objektai/asmenys/Brigita Beinartaitė Kojalavičienė]]
+- [[objektai/asmenys/Butautas]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/asmenys/Ditrichas fon Altenburgas]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Dmitrijus Michailovičius]]
+- [[objektai/asmenys/Dobrogostas]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Dovydas Gardiniškis]]
+- [[objektai/asmenys/Draika]]
+- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- [[objektai/asmenys/Eberhardas de Virnemburgas]]
+- [[objektai/asmenys/Eberhardas iš Manheimo]]
 - [[objektai/asmenys/Edividas]]
+- [[objektai/asmenys/Egerbergas]]
+- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Engelhardas Rabe]]
+- [[objektai/asmenys/Engelhardas Rabė]]
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [[objektai/asmenys/Flekenšteinas]]
+- [[objektai/asmenys/Folradas]]
+- [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/asmenys/Fridrichas de Libencelė]]
+- [[objektai/asmenys/Fridrichas fon Vildenbergas]]
+- [[objektai/asmenys/Fridrichas II]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
+- [[objektai/asmenys/Fridrichas iš Vildenbergo]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/asmenys/Fridrichas, vadinamas Hole]]
 - [[objektai/asmenys/Galminas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [Getautas](../objektai/asmenys/Getautas)
-- [Guillaume de Machaut](../objektai/asmenys/Guillaume%20de%20Machaut)
-- [Henrikas IV](../objektai/asmenys/Henrikas%20IV)
-- [Hlebas](../objektai/asmenys/Hlebas)
-- [Jadvyga](../objektai/asmenys/Jadvyga)
-- [Jadvyga Jogailienė](../objektai/asmenys/Jadvyga%20Jogailien%C4%97)
-- [Jaunutis](../objektai/asmenys/Jaunutis)
-- [Jaunė (Jievna)](../objektai/asmenys/Jaun%C4%97%20%28Jievna%29)
-- [Jogaila (Lenkijos karalius)](../objektai/asmenys/Jogaila)
-- [Jomantas](../objektai/asmenys/Jomantas)
-- [Jonas (Čekijos karalius)](../objektai/asmenys/Jonas%20%28%C4%8Cekijos%20karalius%29)
-- [Jonas Algimantaitis](../objektai/asmenys/Jonas%20Algimantaitis)
-- [Jonas Kalita](../objektai/asmenys/Jonas%20Kalita)
-- [Jonas Liuksemburgietis](../objektai/asmenys/Jonas%20Liuksemburgietis)
-- [Jonas Olesnickis](../objektai/asmenys/Jonas%20Olesnickis)
-- [Jonas Survila](../objektai/asmenys/Jonas%20Survila)
-- [Jonas XXII (popiežius)](../objektai/asmenys/Jonas%20XXII%20%28popie%C5%BEius%29)
-- [Julijona (Algirdo žmona)](../objektai/asmenys/Julijona%20%28Algirdo%20%C5%BEmona%29)
-- [Jurgis (Danieliaus sūnus)](../objektai/asmenys/Jurgis%20%28Danieliaus%20s%C5%ABnus%29)
-- [Jurgis Sviatoslavaitis](../objektai/asmenys/Jurgis%20Sviatoslavaitis)
-- [Jurgis Vytautaitis](../objektai/asmenys/Jurgis%20Vytautaitis)
-- [Karolis IV](../objektai/asmenys/Karolis%20IV)
-- [Kazimieras](../objektai/asmenys/Kazimieras)
-- [Kazimieras (Lokietkos sūnus)](../objektai/asmenys/Kazimieras%20%28Lokietkos%20s%C5%ABnus%29)
-- [Kazimieras Didysis](../objektai/asmenys/Kazimieras%20Didysis)
-- [Kiprijonas](../objektai/asmenys/Kiprijonas)
-- [Klausigaila](../objektai/asmenys/Klausigaila)
-- [Klemensas iš Moskoževo](../objektai/asmenys/Klemensas%20i%C5%A1%20Mosko%C5%BEevo)
-- [Konradas fon Jungingenas](../objektai/asmenys/Konradas%20fon%20Jungingenas)
-- [Konradas von Jungingen](../objektai/asmenys/Konradas%20von%20Jungingen)
-- [Konradas Wallenrodas](../objektai/asmenys/Konradas%20Wallenrodas)
-- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
-- [Lengvenis](../objektai/asmenys/Lengvenis)
-- [Liubartas](../objektai/asmenys/Liubartas)
-- [Liubartas Gediminaitis](../objektai/asmenys/Liubartas%20Gediminaitis)
-- [Liudvikas (Vengrijos karalius)](../objektai/asmenys/Liudvikas%20%28Vengrijos%20karalius%29)
-- [Lokietka](../objektai/asmenys/Lokietka)
-- [Margalis (Margirius )](../objektai/asmenys/Margalis%20%28Margirius%20%29)
-- [Marija (Haličo-Volinijos giminės)](../objektai/asmenys/Marija%20%28Hali%C4%8Do-Volinijos%20gimin%C4%97s%29)
-- [Marija (Vitebsko sosto įpėdinė)](../objektai/asmenys/Marija%20%28Vitebsko%20sosto%20%C4%AFp%C4%97din%C4%97%29)
-- [Marquardas von Salzbachas](../objektai/asmenys/Marquardas%20von%20Salzbachas)
-- [Michailas Aleksandrovičius](../objektai/asmenys/Michailas%20Aleksandrovi%C4%8Dius)
-- [Mikalojus Maskoževskis](../objektai/asmenys/Mikalojus%20Masko%C5%BEevskis)
-- [Mozūrijos kunigaikštis Jonušas](../objektai/asmenys/Moz%C5%ABrijos%20kunigaik%C5%A1tis%20Jonu%C5%A1as)
-- [Mozūrų kunigaikštis Henrikas](../objektai/asmenys/Moz%C5%ABr%C5%B3%20kunigaik%C5%A1tis%20Henrikas)
-- [Mykolas Küchmeisteris](../objektai/asmenys/Mykolas%20K%C3%BCchmeisteris)
-- [Olegas (Riazanės didysis kunigaikštis)](../objektai/asmenys/Olegas%20%28Riazan%C4%97s%20didysis%20kunigaik%C5%A1tis%29)
-- [Ona](../objektai/asmenys/Ona)
-- [Patrikas](../objektai/asmenys/Patrikas)
-- [Ringailė](../objektai/asmenys/Ringail%C4%97)
-- [Rumbaudas](../objektai/asmenys/Rumbaudas)
-- [Skirgaila](../objektai/asmenys/Skirgaila)
-- [Survila](../objektai/asmenys/Survila)
-- [Tautvilas](../objektai/asmenys/Tautvilas)
-- [Teodoras](../objektai/asmenys/Teodoras)
-- [Teodoras (Gedimino brolis)](../objektai/asmenys/Teodoras%20%28Gedimino%20brolis%29)
-- [Teodosijus](../objektai/asmenys/Teodosijus)
-- [Teofilis (arkivyskupas)](../objektai/asmenys/Teofilis%20%28arkivyskupas%29)
-- [Timuras](../objektai/asmenys/Timuras)
-- [Tochtamišas](../objektai/asmenys/Tochtami%C5%A1as)
-- [Tochtamyšas (Krymo ordos chanas)](../objektai/asmenys/Tochtamy%C5%A1as%20%28Krymo%20ordos%20chanas%29)
-- [Tomas Survila](../objektai/asmenys/Tomas%20Survila)
-- [Traidenis I](../objektai/asmenys/Traidenis%20I)
-- [Uzbeko](../objektai/asmenys/Uzbeko)
-- [Vaclovas Čekietis](../objektai/asmenys/Vaclovas%20%C4%8Cekietis)
-- [Vaidotas](../objektai/asmenys/Vaidotas)
-- [Vaidotas (Butauto sūnus)](../objektai/asmenys/Vaidotas%20%28Butauto%20s%C5%ABnus%29)
-- [Vasibutas](../objektai/asmenys/Vasibutas)
-- [Vikintas](../objektai/asmenys/Vikintas)
-- [Vilhelmas](../objektai/asmenys/Vilhelmas)
-- [Vilhelmas Habsburgas](../objektai/asmenys/Vilhelmas%20Habsburgas)
-- [Vinrichas von Kniprodė](../objektai/asmenys/Vinrichas%20von%20Kniprod%C4%97)
-- [Vladimiras Algirdaitis](../objektai/asmenys/Vladimiras%20Algirdaitis)
-- [Vladislovas Lokietka](../objektai/asmenys/Vladislovas%20Lokietka)
-- [Vladislovas Łokietka](../objektai/asmenys/Vladislovas%20%C5%81okietka)
-- [Vosylius I](../objektai/asmenys/Vosylius%20I)
-- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
-- [Vytenis](../objektai/asmenys/Vytenis)
-- [Vytenis (Lietuvos karalius)](../objektai/asmenys/Vytenis%20%28Lietuvos%20karalius%29)
-- [Ziemovitas III](../objektai/asmenys/Ziemovitas%20III)
-- [Zofija Algimantaitė](../objektai/asmenys/Zofija%20Algimantait%C4%97)
+- [[objektai/asmenys/Gebhardas iš Manstfeldo]]
+- [[objektai/asmenys/Geroldzekas iš Švabijos]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/asmenys/Gintautas]]
+- [[objektai/asmenys/Gotfridas Hohenlohė]]
+- [[objektai/asmenys/Guillaume de Machaut]]
+- [[objektai/asmenys/Gundramas]]
+- [[objektai/asmenys/Gvaželutis]]
+- [[objektai/asmenys/Hanulas]]
+- [[objektai/asmenys/Hanulas, arba Hanka]]
+- [[objektai/asmenys/Hartmanas]]
+- [[objektai/asmenys/Hartmanas iš Heldrungeno]]
+- [[objektai/asmenys/Heidenreichas|Heidenreichas (vyskupas, XIII–XIV a.)]]
+- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]]
+- [[objektai/asmenys/Henrikas fon Plockė]]
+- [[objektai/asmenys/Henrikas IV]]
+- [[objektai/asmenys/Henrikas iš Izenbergo]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/asmenys/Henrikas Lankasteris]]
+- [[objektai/asmenys/Henrikas Rutėnas]]
+- [[objektai/asmenys/Henrikas VII]]
+- [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]
+- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
+- [[objektai/asmenys/Hertvigas iš Pokarvių]]
+- [[objektai/asmenys/Hlebas]]
+- [[objektai/asmenys/Hugonas (Sembos fogtas)]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jasonas]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Jaunė (Jievna)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jokūbas I]]
+- [[objektai/asmenys/Jomantas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas (vadinamas Anlantu)]]
+- [[objektai/asmenys/Jonas (Čekijos karalius)]]
+- [[objektai/asmenys/Jonas iš Endorfo]]
+- [[objektai/asmenys/Jonas iš Liuksemburgo]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/asmenys/Jonas Liuksemburgietis]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/asmenys/Jonas Olesnickis]]
+- [[objektai/asmenys/Jonas Pliekta]]
+- [[objektai/asmenys/Jonas Rygietis]]
+- [[objektai/asmenys/Jonas Survila]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Jonas XXII (popiežius)]]
+- [[objektai/asmenys/Jonas, vadinamas Pope]]
+- [[objektai/asmenys/Jordanas iš Pelplino]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/asmenys/Julijona Vitebskietė]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/asmenys/Jurgis (Vytauto sūnus)]]
+- [[objektai/asmenys/Jurgis Narimantaitis]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Kaributas Dimitras]]
+- [[objektai/asmenys/Karigaila]]
+- [[objektai/asmenys/Karolis (didysis magistras)]]
+- [[objektai/asmenys/Karolis IV]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Kazimieras Karigaila]]
+- [[objektai/asmenys/Kiprijonas]]
+- [[objektai/asmenys/Klausigaila]]
+- [[objektai/asmenys/Klemensas iš Moskoževo]]
+- [[objektai/asmenys/Klemensas V]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Konradas (Prūsijos magistras)]]
+- [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
+- [[objektai/asmenys/Konradas fon Jungingenas]]
+- [[objektai/asmenys/Konradas Jungingenas]]
+- [[objektai/asmenys/Konradas Valenrodas]]
+- [[objektai/asmenys/Konradas von Jungingen]]
+- [[objektai/asmenys/Konradas Wallenrodas]]
+- [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/asmenys/Konstantinas Karijotaitis]]
+- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
+- [[objektai/asmenys/Kviramas iš Valdavos]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/asmenys/Lešekas Juodasis]]
+- [[objektai/asmenys/Limantas]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/asmenys/Liubartas Gediminaitis]]
+- [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
+- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/asmenys/Liudvikas Bavaras]]
+- [[objektai/asmenys/Liuteris iš Braunšveigo]]
+- [[objektai/asmenys/Lizdeika]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Mangaila iš Ašmenos]]
+- [[objektai/asmenys/Manvydas]]
+- [[objektai/asmenys/Margalis (Margirius )]]
+- [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
+- [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]
+- [[objektai/asmenys/Marquardas von Salzbachas]]
+- [[objektai/asmenys/Melampas]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/asmenys/Mikalojus fon Parsau]]
+- [[objektai/asmenys/Mikalojus iš Jerošino]]
+- [[objektai/asmenys/Mikalojus Maskoževskis]]
+- [[objektai/asmenys/Milonas]]
+- [[objektai/asmenys/Mindotė]]
+- [[objektai/asmenys/Mingaila]]
+- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
+- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]
+- [[objektai/asmenys/Mucijus Scevola]]
+- [[objektai/asmenys/Muka]]
+- [[objektai/asmenys/Mykolas (Kijevo vyskupas)]]
+- [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/asmenys/Nestanas]]
+- [[objektai/asmenys/Odoničius]]
+- [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ostapas Kropotkovas]]
+- [[objektai/asmenys/Patirgas]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]
+- [[objektai/asmenys/Paulius Rusdorfas]]
+- [[objektai/asmenys/Pelka]]
+- [[objektai/asmenys/Petras (Celestinas V)]]
+- [[objektai/asmenys/Petras (Poznanės vyskupas)]]
+- [[objektai/asmenys/Petras d'Ailli]]
+- [[objektai/asmenys/Petras Dusburgietis]]
+- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/asmenys/Petras iš Rozenbergo]]
+- [[objektai/asmenys/Pilypas]]
+- [[objektai/asmenys/Pinas]]
+- [[objektai/asmenys/Plihta]]
+- [[objektai/asmenys/Ptolomėjus iš Lukos]]
+- [[objektai/asmenys/Rebodas iš Izenburgo]]
+- [[objektai/asmenys/Ringailė]]
+- [[objektai/asmenys/Ričardas II]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/asmenys/Samboras]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Skaldonis]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Sofija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/Spagerotė]]
+- [[objektai/asmenys/Sudargas]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/asmenys/Survila]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/asmenys/Svirdeika]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Teodoras (Gedimino brolis)]]
+- [[objektai/asmenys/Teodoras Karijotaitis]]
+- [[objektai/asmenys/Teodosijus]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/asmenys/Timuras]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Tomas Aldenburgas]]
+- [[objektai/asmenys/Tomas Survila]]
+- [[objektai/asmenys/Traidenis (Mazovijos kunigaikštis, 1325 m.)]]
+- [[objektai/asmenys/Traidenis I]]
+- [[objektai/asmenys/Treteris]]
+- [[objektai/asmenys/Ulrichas iš Drinlevės]]
+- [[objektai/asmenys/Ulrichas iš Tetingeno]]
+- [[objektai/asmenys/Urbonas IV]]
+- [[objektai/asmenys/Uzbeko]]
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Vaclovas (Vanka)]]
+- [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]
+- [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/asmenys/Vaidotas]]
+- [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
+- [[objektai/asmenys/Vainius]]
+- [[objektai/asmenys/Vasibutas]]
+- [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]]
+- [[objektai/asmenys/Verneris (Ragainės komtūras)]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/asmenys/Vikintas]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]
+- [[objektai/asmenys/Vinrichas fon Kniprodė]]
+- [[objektai/asmenys/Vinrichas Kniprodė]]
+- [[objektai/asmenys/Vinrichas von Kniprodė]]
+- [[objektai/asmenys/Vitas]]
+- [[objektai/asmenys/Vladimiras Algirdaitis]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/asmenys/Vredė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
+- [[objektai/asmenys/Ziemovitas III]]
+- [[objektai/asmenys/Zigfridas fon Dahenfeldas]]
+- [[objektai/asmenys/Zigfridas iš Foichtvangeno]]
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- [[objektai/asmenys/Čupurva]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 
 ### Autoriai
-- [A. Mierzyński](../objektai/autoriai/A.%20Mierzy%C5%84ski)
-- [A. Šapoka](../objektai/autoriai/A.%20%C5%A0apoka)
-- [Dusburgas](../objektai/autoriai/Dusburgas)
-- [G. Rhode](../objektai/autoriai/G.%20Rhode)
-- [Goyski, W](../objektai/autoriai/Goyski%2C%20W)
-- [Henriką von Rebdorf](../objektai/autoriai/Henrik%C4%85%20von%20Rebdorf)
-- [J. Adamus](../objektai/autoriai/J.%20Adamus)
-- [J. Dąbrowski](../objektai/autoriai/J.%20D%C4%85browski)
-- [J. Jakubowski](../objektai/autoriai/J.%20Jakubowski)
-- [K. Avižonis](../objektai/autoriai/K.%20Avi%C5%BEonis)
-- [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
-- [Kliausis, lg](../objektai/autoriai/Kliausis%2C%20lg)
-- [L. Kolankowski](../objektai/autoriai/L.%20Kolankowski)
-- [lg. Kliausis](../objektai/autoriai/lg.%20Kliausis)
-- [Lianskoronskij, V](../objektai/autoriai/Lianskoronskij%2C%20V)
-- [Loreta Uzdraitė](../objektai/autoriai/Loreta%20Uzdrait%C4%97)
-- [M. Dovnar-Zapol’skij](../objektai/autoriai/M.%20Dovnar-Zapol%E2%80%99skij)
-- [M. Tumler](../objektai/autoriai/M.%20Tumler)
-- [O. Halecki](../objektai/autoriai/O.%20Halecki)
-- [O. Navickaitė-Kuncienė](../objektai/autoriai/O.%20Navickait%C4%97-Kuncien%C4%97)
-- [Osten-Sacken, P. von](../objektai/autoriai/Osten-Sacken%2C%20P.%20von)
-- [P. von](../objektai/autoriai/P.%20von)
-- [Petras Dusburgietis](../objektai/autoriai/Petras%20Dusburgietis)
-- [St. Zajączkowski](../objektai/autoriai/St.%20Zaj%C4%85czkowski)
-- [V. Urbanavičius](../objektai/autoriai/V.%20Urbanavi%C4%8Dius)
-- [Vygandas Marburgietis](../objektai/autoriai/Vygandas%20Marburgietis)
-- [Zajączkowski, St](../objektai/autoriai/Zaj%C4%85czkowski%2C%20St)
-- [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
+- [[objektai/autoriai/Ambrassat A]]
+- [[objektai/autoriai/Antoni Melissanius de Macro]]
+- [[objektai/autoriai/Atmesti paminėjimai]]
+- [[objektai/autoriai/August von Kotzebue]]
+- [[objektai/autoriai/Basanavičius J]]
+- [[objektai/autoriai/Bučinskytė Ilona]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/autoriai/E. Joachim]]
+- [[objektai/autoriai/G. Rhode]]
+- [[objektai/autoriai/Giovanni Villani]]
+- [[objektai/autoriai/Godzislavas Baško]]
+- [[objektai/autoriai/Goyski, W]]
+- [[objektai/autoriai/Grigalius Kniaževičius]]
+- [[objektai/autoriai/Gudavičius E]]
+- [[objektai/autoriai/H. Koeppen]]
+- [[objektai/autoriai/H. Paszkiewicz]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/autoriai/Henriką von Rebdorf]]
+- [[objektai/autoriai/Hermanas iš Vartbergės]]
+- [[objektai/autoriai/Hermanas Vartbergė]]
+- [[objektai/autoriai/Ilona Bučinskytė]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/autoriai/J. Puzinas]]
+- [[objektai/autoriai/J. Užpurvis]]
+- [[objektai/autoriai/J. Venta]]
+- [[objektai/autoriai/Lianskoronskij, V]]
+- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
+- [[objektai/autoriai/Lindenblattas Johannes Lindenblatt]]
+- [[objektai/autoriai/Loreta Uzdraitė]]
+- [[objektai/autoriai/M. Poliakuvna]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/autoriai/Mažvydas M]]
+- [[objektai/autoriai/Miechovita]]
+- [[objektai/autoriai/Miechowita Miechovita]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/autoriai/Napierski]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/autoriai/P. Tarasenka]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/autoriai/Petras d’Ailli]]
+- [[objektai/autoriai/R. Krumbholtz]]
+- [[objektai/autoriai/Rowell S. C]]
+- [[objektai/autoriai/Salys A]]
+- [[objektai/autoriai/Snorro Sturleson]]
+- [[objektai/autoriai/T. Hiršas]]
+- [[objektai/autoriai/Tarasenka Petras]]
+- [[objektai/autoriai/Tuulse A]]
+- [[objektai/autoriai/Vincentas Kadlubekas]]
+- [[objektai/autoriai/Vredė]]
+- [[objektai/autoriai/Vygandas iš Marburgo]]
+- [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/autoriai/Waddyngas Luca Vaddingo]]
+- [[objektai/autoriai/Walsinghamas]]
+- [[objektai/autoriai/Zajączkowski, St]]
 
 ### Daiktai
-- [Apgulties mašinos](../objektai/daiktai/Apgulties%20ma%C5%A1inos)
-- [Aukuras](../objektai/daiktai/Aukuras)
-- [Balti vilnoniai marškiniai](../objektai/daiktai/Balti%20vilnoniai%20mar%C5%A1kiniai)
-- [Bombardos](../objektai/daiktai/Bombardos)
-- [Brangieji metalai](../objektai/daiktai/Brangieji%20metalai)
-- [Du pliki kardai](../objektai/daiktai/Du%20pliki%20kardai)
-- [Gediminaičių stulpai](../objektai/daiktai/Gediminai%C4%8Di%C5%B3%20stulpai)
-- [Halka](../objektai/daiktai/Halka)
-- [Herbai](../objektai/daiktai/Herbai)
-- [Ietis](../objektai/daiktai/Ietis)
-- [Iždo ir pilių raktai](../objektai/daiktai/I%C5%BEdo%20ir%20pili%C5%B3%20raktai)
-- [Karinė ginkluotė](../objektai/daiktai/Karin%C4%97%20ginkluot%C4%97)
-- [Karūna](../objektai/daiktai/Kar%C5%ABna)
-- [Kristaus Kančios relikvija](../objektai/daiktai/Kristaus%20Kan%C4%8Dios%20relikvija)
-- [Laivai](../objektai/daiktai/Laivai)
-- [Lietuvos pinigai](../objektai/daiktai/Lietuvos%20pinigai)
-- [Palapinės](../objektai/daiktai/Palapin%C4%97s)
-- [Patrankos](../objektai/daiktai/Patrankos)
-- [Pilies raktai](../objektai/daiktai/Pilies%20raktai)
-- [Pirmosios katedros didysis altoriaus kryžius](../objektai/daiktai/Pirmosios%20katedros%20didysis%20altoriaus%20kry%C5%BEius)
-- [Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2](../objektai/daiktai/Rusi%C5%A1kas%201870%20m.%20modelio%20%C5%A1autuvas%20Berdan%20Nr.%202)
-- [Sienodaužiai](../objektai/daiktai/Sienodau%C5%BEiai)
-- [Vežimai](../objektai/daiktai/Ve%C5%BEimai)
-- [Vytauto vėliava](../objektai/daiktai/Vytauto%20v%C4%97liava)
-- [Vytauto ženklas](../objektai/daiktai/Vytauto%20%C5%BEenklas)
-- [Vėliavos](../objektai/daiktai/V%C4%97liavos)
-- [Įsivaizduojami Lietuvos valdovų portretai](../objektai/daiktai/%C4%AEsivaizduojami%20Lietuvos%20valdov%C5%B3%20portretai)
-- [Šarvai](../objektai/daiktai/%C5%A0arvai)
-- [Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%A0arvini%C5%B3%20pir%C5%A1tini%C5%B3%2C%20%C5%BEasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
-- [Šv. Panelės paveikslas](../objektai/daiktai/%C5%A0v.%20Panel%C4%97s%20paveikslas)
-- [Šv. Vaclovo karūna](../objektai/daiktai/%C5%A0v.%20Vaclovo%20kar%C5%ABna)
-- [Žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%BDasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/daiktai/Arisaka 30 modelio šautuvas]]
+- [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
+- [[objektai/daiktai/Brangieji metalai]]
+- [[objektai/daiktai/Deglas]]
+- [[objektai/daiktai/Du pliki kardai]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/daiktai/Gedimino antspaudas]]
+- [[objektai/daiktai/Geležinis vainikas]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/daiktai/Halka]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Laivai Memelyje]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
+- [[objektai/daiktai/Mosin-Nagant šautuvas]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
+- [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
+- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
+- [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
+- [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
+- [[objektai/daiktai/Sibilės plytos su hieroglifais]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/daiktai/Tochtamišo jarlykas]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/daiktai/Vilniaus Perkūno šventyklos aukuras]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
+- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
+- [[objektai/daiktai/Vytauto laikų pinigėliai]]
+- [[objektai/daiktai/Vytauto vėliava]]
+- [[objektai/daiktai/Vytauto ženklas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/daiktai/Winchester 1895 m. modelio šautuvas]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/daiktai/Švento Ruprechto relikvijos]]
 
 ### Grupės
-- [Anglai](../objektai/grupes/Anglai)
-- [Aukso orda](../objektai/grupes/Aukso%20orda)
-- [Aukštaičiai](../objektai/grupes/Auk%C5%A1tai%C4%8Diai)
-- [Baltų kovų brolija „Vilkatlakai“](../objektai/grupes/Balt%C5%B3%20kov%C5%B3%20brolija%20%E2%80%9EVilkatlakai%E2%80%9C)
-- [Didžiojo Naugardo respublika](../objektai/grupes/Did%C5%BEiojo%20Naugardo%20respublika)
-- [Gediminaičių dinastija](../objektai/grupes/Gediminai%C4%8Di%C5%B3%20dinastija)
-- [Jogailaičių dinastija](../objektai/grupes/Jogailai%C4%8Di%C5%B3%20dinastija)
-- [Kalavijuočių ordinas](../objektai/grupes/Kalavijuo%C4%8Di%C5%B3%20ordinas)
-- [Kalnėnai](../objektai/grupes/Kaln%C4%97nai)
-- [Karaimai](../objektai/grupes/Karaimai)
-- [Karijotaičiai](../objektai/grupes/Karijotai%C4%8Diai)
-- [Katalikų Bažnyčia](../objektai/grupes/Katalik%C5%B3%20Ba%C5%BEny%C4%8Dia)
-- [Kijevo kunigaikštystė](../objektai/grupes/Kijevo%20kunigaik%C5%A1tyst%C4%97)
-- [Krymo totoriai](../objektai/grupes/Krymo%20totoriai)
-- [Kryžiuočių ordinas](../objektai/grupes/Kry%C5%BEiuo%C4%8Di%C5%B3%20ordinas)
-- [Lenkai](../objektai/grupes/Lenkai)
-- [Lietuviai](../objektai/grupes/Lietuviai)
-- [Lietuvos kariuomenė](../objektai/grupes/Lietuvos%20kariuomen%C4%97)
-- [Lietuvos stačiatikiai](../objektai/grupes/Lietuvos%20sta%C4%8Diatikiai)
-- [Livonijos ordinas](../objektai/grupes/Livonijos%20ordinas)
-- [Maskvos kunigaikštystė](../objektai/grupes/Maskvos%20kunigaik%C5%A1tyst%C4%97)
-- [Miestelėnų luomas](../objektai/grupes/Miestel%C4%97n%C5%B3%20luomas)
-- [Mongolai](../objektai/grupes/Mongolai)
-- [Mongolų imperija](../objektai/grupes/Mongol%C5%B3%20imperija)
-- [Naugardo respublika](../objektai/grupes/Naugardo%20respublika)
-- [Ponų taryba](../objektai/grupes/Pon%C5%B3%20taryba)
-- [Pranciškonų ordinas](../objektai/grupes/Pranci%C5%A1kon%C5%B3%20ordinas)
-- [Rusai](../objektai/grupes/Rusai)
-- [Rygos miesto taryba](../objektai/grupes/Rygos%20miesto%20taryba)
-- [Stačiatikiai](../objektai/grupes/Sta%C4%8Diatikiai)
-- [Totoriai](../objektai/grupes/Totoriai)
-- [Tverės kunigaikštystė](../objektai/grupes/Tver%C4%97s%20kunigaik%C5%A1tyst%C4%97)
-- [Vilniaus kapitula](../objektai/grupes/Vilniaus%20kapitula)
-- [Vokiečiai](../objektai/grupes/Vokie%C4%8Diai)
-- [Žemaičiai](../objektai/grupes/%C5%BDemai%C4%8Diai)
-- [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
-- [Žuvėdai](../objektai/grupes/%C5%BDuv%C4%97dai)
-- [Žydai](../objektai/grupes/%C5%BDydai)
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/grupes/Aukštaičiai]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Europos kryžininkai]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Goštautų giminė]]
+- [[objektai/grupes/Hanzos sąjunga]]
+- [[objektai/grupes/Joanitų ordinas]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Kardinolų kolegija]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Karšuviai]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Kijevo kunigaikštystė]]
+- [[objektai/grupes/Kijevo Rusia]]
+- [[objektai/grupes/Kriviai ir Krivių Krivaičiai]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos Karalystė]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lietuvos ponai]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/grupes/Lietuvos stačiatikiai]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/grupes/Naugardo respublika]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pelazgai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rygos kapitula]]
+- [[objektai/grupes/Rygos miestiečiai]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
+- [[objektai/grupes/Saracėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Senovės graikai]]
+- [[objektai/grupes/Smolensko kunigaikščiai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/grupes/Tamplierių ordinas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tverės kunigaikštystė]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/grupes/Vokietijos maldininkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vytauto šalininkai]]
+- [[objektai/grupes/Škotai]]
+- [[objektai/grupes/Švento Jono ligoninės ordinas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Žemaičių medininkai]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Žydai]]
 
 ### Papročiai
-- [Aisčių ugnies kultas ir šventoji namų ugnelė](../objektai/paprociai/Ais%C4%8Di%C5%B3%20ugnies%20kultas%20ir%20%C5%A1ventoji%20nam%C5%B3%20ugnel%C4%97)
-- [Bajorijos stiprinimas valdovo privilegijomis](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
-- [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
-- [Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija](../objektai/paprociai/Gedimino%20informacin%C4%97%20diplomatija%20ir%20karo%20veiksm%C5%B3%20derinimas%20su%20Lenkija)
-- [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
-- [Lietuvos valdovų laidojimas pagoniškais papročiais](../objektai/paprociai/Lietuvos%20valdov%C5%B3%20laidojimas%20pagoni%C5%A1kais%20papro%C4%8Diais)
-- [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
-- [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)
-- [Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais](../objektai/paprociai/Sutarties%20ir%20vasaliteto%20tvirtinimas%20ra%C5%A1tu%20bei%20antspaudais)
-- [Vytauto bažnyčių statymas ir vienuolynų steigimas](../objektai/paprociai/Vytauto%20ba%C5%BEny%C4%8Di%C5%B3%20statymas%20ir%20vienuolyn%C5%B3%20steigimas)
-- [Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos](../objektai/paprociai/Vytauto%20ir%20Jogailos%20bendro%20veikimo%20praktika%20po%20Astravo%20taikos)
-- [Vėlyvos santuokos, kraitis ir vestuvių sutartys](../objektai/paprociai/V%C4%97lyvos%20santuokos%2C%20kraitis%20ir%20vestuvi%C5%B3%20sutartys)
-- [Įkaitų davimas kaip sutarties garantija](../objektai/paprociai/%C4%AEkait%C5%B3%20davimas%20kaip%20sutarties%20garantija)
-- [Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui](../objektai/paprociai/%C5%BDemai%C4%8Di%C5%B3%20paklusnumas%20ir%20i%C5%A1tikimyb%C4%97s%20priesaikos%20Ordinui)
+- [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
+- [[objektai/paprociai/Apkaltintųjų mėginimas verdančiu vandeniu]]
+- [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
+- [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
+- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes]]
+- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
+- [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
+- [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
+- [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]
+- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
+- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
+- [[objektai/paprociai/Kalinių paleidimas kaip kraitis]]
+- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
+- [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
+- [[objektai/paprociai/Kauno gynėjų gedulo raudos]]
+- [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise]]
+- [[objektai/paprociai/Kristaus kūno šventės šventimas]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
+- [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
+- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
+- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
+- [[objektai/paprociai/Lietuvos krikšto apeigos]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
+- [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų]]
+- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
+- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]
+- [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
+- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]
+- [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
+- [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
+- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
+- [[objektai/paprociai/Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes]]
+- [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]
+- [[objektai/paprociai/Vaidilučių saugoma Praurimės aukuro ugnis ir skaistybės įžadas]]
+- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
+- [[objektai/paprociai/Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius]]
+- [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
+- [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
+- [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
 
 ### Posakiai
-- [Aktai sau, gyvenimas nuėjo sau](../objektai/posakiai/Aktai%20sau%2C%20gyvenimas%20nu%C4%97jo%20sau)
-- [Aš tave pasodinsiu Auksinėj Ordoj...](../objektai/posakiai/A%C5%A1%20tave%20pasodinsiu%20Auksin%C4%97j%20Ordoj...)
-- [Bemeilijo žūti ugny, negu pasiduoti vokiečiams](../objektai/posakiai/Bemeilijo%20%C5%BE%C5%ABti%20ugny%2C%20negu%20pasiduoti%20vokie%C4%8Diams)
-- [Drang nach Osten](../objektai/posakiai/Drang%20nach%20Osten)
-- [dux Russiae](../objektai/posakiai/dux%20Russiae)
-- [Gedimino « Geležinio vilko » sapnas](../objektai/posakiai/Gedimino%20%C2%AB%20Gele%C5%BEinio%20vilko%20%C2%BB%20sapnas)
-- [gerumu galima ir laukinius žvėris sušvelninti.](../objektai/posakiai/gerumu%20galima%20ir%20laukinius%20%C5%BEv%C4%97ris%20su%C5%A1velninti)
-- [jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.](../objektai/posakiai/jam%20patink%C4%85s%20ma%C5%BEiau%20i%C5%A1kalbingas%2C%20bet%20u%C5%BEtatai%20tiesakalbis.)
-- [Karalius Keystutte, jo pavaldiniai ir jo žemės ir Žemaičių gyventojai visiškai turi būti išskirti](../objektai/posakiai/Karalius%20Keystutte%2C%20jo%20pavaldiniai%20ir%20jo%20%C5%BEem%C4%97s%20ir%20%C5%BDemai%C4%8Di%C5%B3%20gyventojai%20visi%C5%A1kai%20turi%20b%C5%ABti%20i%C5%A1skirti)
-- [karūna su karūna negali būti sujungta — inkorporuota](../objektai/posakiai/kar%C5%ABna%20su%20kar%C5%ABna%20negali%20b%C5%ABti%20sujungta%20%E2%80%94%20inkorporuota)
-- [Mes kariaujame ne su kryžium, o su vokiečiais!](../objektai/posakiai/Mes%20kariaujame%20ne%20su%20kry%C5%BEium%2C%20o%20su%20vokie%C4%8Diais%21)
-- [Mirė tikrai mūsų tautos garbė.](../objektai/posakiai/Mir%C4%97%20tikrai%20m%C5%ABs%C5%B3%20tautos%20garb%C4%97)
-- [nuduodami nekaltą balandėlį](../objektai/posakiai/nuduodami%20nekalt%C4%85%20baland%C4%97l%C4%AF)
-- [pinklėmis antremti pinkles](../objektai/posakiai/pinkl%C4%97mis%20antremti%20pinkles)
-- [prieš vėją nepapūs](../objektai/posakiai/prie%C5%A1%20v%C4%97j%C4%85%20nepap%C5%ABs)
-- [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
-- [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
-- [senovės negriauname, naujovių neįvedame](../objektai/posakiai/senov%C4%97s%20negriauname%2C%20naujovi%C5%B3%20ne%C4%AFvedame)
-- [Tikslas pateisino priemones.](../objektai/posakiai/Tikslas%20pateisino%20priemones)
-- [vardan tos Lietuvos](../objektai/posakiai/vardan%20tos%20Lietuvos)
-- [„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“](../objektai/posakiai/%E2%80%9Edid%C5%BEiausi%C4%85%20Europoje%20tolerancijos%20uost%C4%85%E2%80%9C%20%E2%80%9EEuropos%20tolerancijos%20lop%C5%A1ys%E2%80%9C)
-- [„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“](../objektai/posakiai/%E2%80%9EMaskvos%20didysis%20kunigaik%C5%A1ti%2C%20atmink%2C%20kad%20lietuvi%C5%B3%20ietis%20stov%C4%97jo%20prie%20Maskvos%21%E2%80%9C)
+- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]
+- [[objektai/posakiai/Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs]]
+- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
+- [[objektai/posakiai/Drang nach Osten]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
+- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]
+- [[objektai/posakiai/Herczog von Traken von Gottes Gnaden]]
+- [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime]]
+- [Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k](/objektai/posakiai/Jie%20ir%20%C5%BEemes%20paver%C4%8Dia%20tyrais%2C%20kaip%20tai%20matyti%20%C5%BDiemgaloje%20ir%20daugelyje%20kit%C5%B3%20%5Bviet%C5%B3%5D.%20Ta%C4%8Diau%20jie%20sako%2C%20jog%20tai%20daro%20d%C4%97l%20to%2C%20kad%20nori%20apginti%20k)
+- [[objektai/posakiai/Jure civili utantur Rigensis Civitatis]]
+- [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]
+- [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
+- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
+- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
+- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
+- [[objektai/posakiai/oculi post dominicam]]
+- [[objektai/posakiai/Omnia regna subiacent celesti regi Jesu Christo]]
+- [[objektai/posakiai/pinklėmis antremti pinkles]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
+- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
+- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/posakiai/Vardan Viešpaties Amen Amžinai dalykų atminčiai]]
+- [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/posakiai/šio šventojo žygio atminimas]]
+- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]
+- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
+- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
+- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
+- [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]
+- [[objektai/posakiai/„Mindaugo Lietuvą“]]
+- [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
+- [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
+- [[objektai/posakiai/„savotiška arba nesisteminė karalystė“]]
+- [[objektai/posakiai/„Šventos santuokos“]]
 
 ### Vietos
-- [Astravos dvaras](../objektai/vietos/Astravos%20dvaras)
-- [Augustavo girios](../objektai/vietos/Augustavo%20girios)
-- [Aukaimio pilis](../objektai/vietos/Aukaimio%20pilis)
-- [Aukštaičių žemė](../objektai/vietos/Auk%C5%A1tai%C4%8Di%C5%B3%20%C5%BEem%C4%97)
-- [Avinjonas](../objektai/vietos/Avinjonas)
-- [Ašmena](../objektai/vietos/A%C5%A1mena)
-- [Bajerburgas](../objektai/vietos/Bajerburgas)
-- [Berlynas](../objektai/vietos/Berlynas)
-- [Betygala](../objektai/vietos/Betygala)
-- [Biala](../objektai/vietos/Biala)
-- [Brandenburgo žemė](../objektai/vietos/Brandenburgo%20%C5%BEem%C4%97)
-- [Brasta](../objektai/vietos/Brasta)
-- [Brianskas](../objektai/vietos/Brianskas)
-- [Buda](../objektai/vietos/Buda)
-- [Cerkasai](../objektai/vietos/Cerkasai)
-- [Dancigas](../objektai/vietos/Dancigas)
-- [Daugai](../objektai/vietos/Daugai)
-- [Daugavgryvos pilis](../objektai/vietos/Daugavgryvos%20pilis)
-- [Didysis Naugardas](../objektai/vietos/Didysis%20Naugardas)
-- [Dniepro žiotys](../objektai/vietos/Dniepro%20%C5%BEiotys)
-- [Dobryniaus](../objektai/vietos/Dobryniaus)
-- [Dovydiškės](../objektai/vietos/Dovydi%C5%A1k%C4%97s)
-- [Druckas](../objektai/vietos/Druckas)
-- [Dubingiai](../objektai/vietos/Dubingiai)
-- [Dubysa](../objektai/vietos/Dubysa)
-- [Dubysos sala](../objektai/vietos/Dubysos%20sala)
-- [Eigulių pilis](../objektai/vietos/Eiguli%C5%B3%20pilis)
-- [Gardinas](../objektai/vietos/Gardinas)
-- [Gedimino pilis](../objektai/vietos/Gedimino%20pilis)
-- [Gorodecas](../objektai/vietos/Gorodecas)
-- [Haličo ir Volinijos žemės](../objektai/vietos/Hali%C4%8Do%20ir%20Volinijos%20%C5%BEem%C4%97s)
-- [Isteris](../objektai/vietos/Isteris)
-- [Juodoji jūra](../objektai/vietos/Juodoji%20j%C5%ABra)
-- [Jurbarkas](../objektai/vietos/Jurbarkas)
-- [Kališo sritis](../objektai/vietos/Kali%C5%A1o%20sritis)
-- [Kanevas](../objektai/vietos/Kanevas)
-- [Karaliaučius](../objektai/vietos/Karaliau%C4%8Dius)
-- [Karšuva](../objektai/vietos/Kar%C5%A1uva)
-- [Kaunas](../objektai/vietos/Kaunas)
-- [Kauno pilis](../objektai/vietos/Kauno%20pilis)
-- [Kijevas](../objektai/vietos/Kijevas)
-- [Kijevo Rusia](../objektai/vietos/Kijevo%20Rusia)
-- [Klaipėda](../objektai/vietos/Klaip%C4%97da)
-- [Korševas](../objektai/vietos/Kor%C5%A1evas)
-- [Kremlius](../objektai/vietos/Kremlius)
-- [Kriava](../objektai/vietos/Kriava)
-- [Krokuva](../objektai/vietos/Krokuva)
-- [Krymas](../objektai/vietos/Krymas)
-- [Kujavija](../objektai/vietos/Kujavija)
-- [Kulių (Jurgaičių) pilys](../objektai/vietos/Kuli%C5%B3%20%28Jurgai%C4%8Di%C5%B3%29%20pilys)
-- [Labanoras](../objektai/vietos/Labanoras)
-- [Lenkija](../objektai/vietos/Lenkija)
-- [Livonija](../objektai/vietos/Livonija)
-- [Lohajskas](../objektai/vietos/Lohajskas)
-- [Londonas](../objektai/vietos/Londonas)
-- [Luckas](../objektai/vietos/Luckas)
-- [Lukomlis](../objektai/vietos/Lukomlis)
-- [Lvovas](../objektai/vietos/Lvovas)
-- [Malburgas](../objektai/vietos/Malburgas)
-- [Malėtai](../objektai/vietos/Mal%C4%97tai)
-- [Marienburgas](../objektai/vietos/Marienburgas)
-- [Marijenburgas](../objektai/vietos/Marijenburgas)
-- [Maskva](../objektai/vietos/Maskva)
-- [Maskvos žemės](../objektai/vietos/Maskvos%20%C5%BEem%C4%97s)
-- [Mederaba](../objektai/vietos/Mederaba)
-- [Medininkų žemė](../objektai/vietos/Medinink%C5%B3%20%C5%BEem%C4%97)
-- [Merkinė](../objektai/vietos/Merkin%C4%97)
-- [Metena](../objektai/vietos/Metena)
-- [Mežuotnės pilis](../objektai/vietos/Me%C5%BEuotn%C4%97s%20pilis)
-- [Mielnikas](../objektai/vietos/Mielnikas)
-- [Minskas](../objektai/vietos/Minskas)
-- [Mozūrija](../objektai/vietos/Moz%C5%ABrija)
-- [Mstislavlis](../objektai/vietos/Mstislavlis)
-- [Mėlynieji Vandenys](../objektai/vietos/M%C4%97lynieji%20Vandenys)
-- [Narva](../objektai/vietos/Narva)
-- [Naugardas Sieverskas](../objektai/vietos/Naugardas%20Sieverskas)
-- [Naugardukas](../objektai/vietos/Naugardukas)
-- [Naujapilis](../objektai/vietos/Naujapilis)
-- [Naujasis Kaunas](../objektai/vietos/Naujasis%20Kaunas)
-- [Naujasis Kvidzinas](../objektai/vietos/Naujasis%20Kvidzinas)
-- [Nemunas](../objektai/vietos/Nemunas)
-- [Neries sritis](../objektai/vietos/Neries%20sritis)
-- [Neumarkas](../objektai/vietos/Neumarkas)
-- [Nevėžis](../objektai/vietos/Nev%C4%97%C5%BEis)
-- [Odojevas](../objektai/vietos/Odojevas)
-- [Ostrovas](../objektai/vietos/Ostrovas)
-- [Ovručas](../objektai/vietos/Ovru%C4%8Das)
-- [Pamarys](../objektai/vietos/Pamarys)
-- [Papilė](../objektai/vietos/Papil%C4%97)
-- [Perloja](../objektai/vietos/Perloja)
-- [Perudžija](../objektai/vietos/Perud%C5%BEija)
-- [Pinskas](../objektai/vietos/Pinskas)
-- [Podolija](../objektai/vietos/Podolija)
-- [Podolė](../objektai/vietos/Podol%C4%97)
-- [Pograuda](../objektai/vietos/Pograuda)
-- [Polockas](../objektai/vietos/Polockas)
-- [Pomeranija](../objektai/vietos/Pomeranija)
-- [Praga](../objektai/vietos/Praga)
-- [Płockas](../objektai/vietos/P%C5%82ockas)
-- [Raseiniai](../objektai/vietos/Raseiniai)
-- [Rastenburgas](../objektai/vietos/Rastenburgas)
-- [Ratne](../objektai/vietos/Ratne)
-- [Riazanė](../objektai/vietos/Riazan%C4%97)
-- [Riazanės kunigaikštystė](../objektai/vietos/Riazan%C4%97s%20kunigaik%C5%A1tyst%C4%97)
-- [Rittersverderis](../objektai/vietos/Rittersverderis)
-- [Ritterswerderis](../objektai/vietos/Ritterswerderis)
-- [Rudava](../objektai/vietos/Rudava)
-- [Ryga](../objektai/vietos/Ryga)
-- [Rževas](../objektai/vietos/R%C5%BEevas)
-- [Salynas](../objektai/vietos/Salynas)
-- [Sambija](../objektai/vietos/Sambija)
-- [Sandomierius](../objektai/vietos/Sandomierius)
-- [Sandomiras](../objektai/vietos/Sandomiras)
-- [Semba](../objektai/vietos/Semba)
-- [Skalvos žemė](../objektai/vietos/Skalvos%20%C5%BEem%C4%97)
-- [Smolenskas](../objektai/vietos/Smolenskas)
-- [Starodubas](../objektai/vietos/Starodubas)
-- [Stralsundas](../objektai/vietos/Stralsundas)
-- [Strėva](../objektai/vietos/Str%C4%97va)
-- [Sūduva](../objektai/vietos/S%C5%ABduva)
-- [Talinas](../objektai/vietos/Talinas)
-- [Tartu](../objektai/vietos/Tartu)
-- [Tauragnų pilis](../objektai/vietos/Tauragn%C5%B3%20pilis)
-- [Taurakalnis (Pilies kalnas)](../objektai/vietos/Taurakalnis%20%28Pilies%20kalnas%29)
-- [Tavanė](../objektai/vietos/Tavan%C4%97)
-- [Trakai](../objektai/vietos/Trakai)
-- [Trakų pilis](../objektai/vietos/Trak%C5%B3%20pilis)
-- [Trapėnai](../objektai/vietos/Trap%C4%97nai)
-- [Trubčevskas](../objektai/vietos/Trub%C4%8Devskas)
-- [Turovas](../objektai/vietos/Turovas)
-- [Tverė](../objektai/vietos/Tver%C4%97)
-- [Ukmergės apylinkė](../objektai/vietos/Ukmerg%C4%97s%20apylink%C4%97)
-- [Upytės žemė](../objektai/vietos/Upyt%C4%97s%20%C5%BEem%C4%97)
-- [Utena](../objektai/vietos/Utena)
-- [Varšuva](../objektai/vietos/Var%C5%A1uva)
-- [Veliuona](../objektai/vietos/Veliuona)
-- [Verkiai](../objektai/vietos/Verkiai)
-- [Viazma](../objektai/vietos/Viazma)
-- [Vilniaus katedra](../objektai/vietos/Vilniaus%20katedra)
-- [Vilnius](../objektai/vietos/Vilnius)
-- [Vitebskas](../objektai/vietos/Vitebskas)
-- [Vištyčio ežeras](../objektai/vietos/Vi%C5%A1ty%C4%8Dio%20e%C5%BEeras)
-- [Vladimiras](../objektai/vietos/Vladimiras)
-- [Vladimiras (prie Kliazmos)](../objektai/vietos/Vladimiras%20%28prie%20Kliazmos%29)
-- [Volinija](../objektai/vietos/Volinija)
-- [Voluinė](../objektai/vietos/Voluin%C4%97)
-- [Volynija](../objektai/vietos/Volynija)
-- [Vorskla](../objektai/vietos/Vorskla)
-- [Vyšgorodas](../objektai/vietos/Vy%C5%A1gorodas)
-- [Vėluva](../objektai/vietos/V%C4%97luva)
-- [Zaslavlis](../objektai/vietos/Zaslavlis)
-- [Zvenigorodas](../objektai/vietos/Zvenigorodas)
-- [Įsrutis](../objektai/vietos/%C4%AEsrutis)
-- [Šešuoliai](../objektai/vietos/%C5%A0e%C5%A1uoliai)
-- [Šiaulių žemė](../objektai/vietos/%C5%A0iauli%C5%B3%20%C5%BEem%C4%97)
-- [Šiaurės Žemaitija](../objektai/vietos/%C5%A0iaur%C4%97s%20%C5%BDemaitija)
-- [Švenčionys](../objektai/vietos/%C5%A0ven%C4%8Dionys)
-- [Žemaitija](../objektai/vietos/%C5%BDemaitija)
-- [Žemutinis Padnieprys](../objektai/vietos/%C5%BDemutinis%20Padnieprys)
-- [Žitomiras](../objektai/vietos/%C5%BDitomiras)
+- [[objektai/vietos/Aistmarios]]
+- [[objektai/vietos/Akonas]]
+- [[objektai/vietos/Alna]]
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Ariogala]]
+- [[objektai/vietos/Astravos dvaras]]
+- [[objektai/vietos/Augustavo girios]]
+- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Aukštaitija]]
+- [[objektai/vietos/Aukštaičių žemė]]
+- [[objektai/vietos/Avinjonas]]
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Baiga]]
+- [[objektai/vietos/Bajerburgas]]
+- [[objektai/vietos/Bajerburgas Raudonė]]
+- [[objektai/vietos/Bajerburgo pilis]]
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/vietos/Baltijos jūra]]
+- [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/vietos/Barta]]
+- [[objektai/vietos/Bartenšteinas]]
+- [[objektai/vietos/Bartos žemė]]
+- [[objektai/vietos/Belskas]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Betygala]]
+- [[objektai/vietos/Biala]]
+- [[objektai/vietos/Bisenė]]
+- [[objektai/vietos/Brandenburgo pilis]]
+- [[objektai/vietos/Brandenburgo žemė]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Breslauja]]
+- [[objektai/vietos/Bresto žemė (Palenkė)]]
+- [[objektai/vietos/Brianskas]]
+- [[objektai/vietos/Buda]]
+- [[objektai/vietos/Cerkasai]]
+- [[objektai/vietos/Chełmža]]
+- [[objektai/vietos/Cudzeniškiai]]
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/vietos/Daugavgryvos pilis|Daugavgryvos pilis (pilis)]]
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/vietos/Didžioji Lenkija]]
+- [[objektai/vietos/Diunamiundė]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/vietos/Dobryniaus]]
+- [[objektai/vietos/Dobrynės žemė]]
+- [[objektai/vietos/Dorpato vyskupija]]
+- [[objektai/vietos/Dovydiškės]]
+- [[objektai/vietos/Drahočynas]]
+- [[objektai/vietos/Drevanta]]
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/vietos/Druckas]]
+- [[objektai/vietos/Dubingiai]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Dubysos sala]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/vietos/Durbės ežeras]]
+- [[objektai/vietos/Eigulių pilis|Eigulių pilis (pilis)]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/vietos/Engelsbergas]]
+- [[objektai/vietos/Frankfurtas prie Oderio]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
+- [[objektai/vietos/Gedimino pilis Castrum Gedemini]]
+- [[objektai/vietos/Gegužkalnis]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/vietos/Greifsvaldas]]
+- [[objektai/vietos/Griunvaldas]]
+- [[objektai/vietos/Gudija]]
+- [[objektai/vietos/Haličo ir Volinijos žemės]]
+- [[objektai/vietos/Ilienburgas]]
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Jeruzalė]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/vietos/Junigeda]]
+- [[objektai/vietos/Jurbarkas]]
+- [[objektai/vietos/Kališo sritis]]
+- [[objektai/vietos/Kamiencas]]
+- [[objektai/vietos/Kamienecas]]
+- [[objektai/vietos/Kampsvykiai]]
+- [[objektai/vietos/Kanevas]]
+- [[objektai/vietos/Karaliaučius]]
+- [[objektai/vietos/Karpantra]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/vietos/Katavos valsčius]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Klogėnai]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Korševas]]
+- [[objektai/vietos/Kreivasis kalnas]]
+- [[objektai/vietos/Kremlius]]
+- [[objektai/vietos/Kriava]]
+- [[objektai/vietos/Kristburgas]]
+- [[objektai/vietos/Kristmemelis]]
+- [[objektai/vietos/Krivičių žemė]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/vietos/Kulikovo laukas]]
+- [[objektai/vietos/Kulių (Jurgaičių) pilys]]
+- [[objektai/vietos/Kulmas]]
+- [[objektai/vietos/Kulmo žemė]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Kvėdarna]]
+- [[objektai/vietos/Labanoras]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Londonas]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Lubava]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Lukomlis]]
+- [[objektai/vietos/Lunenburgas]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/vietos/Malėtai]]
+- [[objektai/vietos/Marienburgas]]
+- [[objektai/vietos/Marienverderis]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Maskvos žemės]]
+- [[objektai/vietos/Mazovija]]
+- [[objektai/vietos/Mederaba]]
+- [[objektai/vietos/Medininkų valsčius]]
+- [[objektai/vietos/Medininkų žemė]]
+- [[objektai/vietos/Medvėgalis]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Metena]]
+- [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]]
+- [[objektai/vietos/Mielnikas]]
+- [[objektai/vietos/Milanas]]
+- [[objektai/vietos/Morungenas]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/vietos/Mozūrijos žemė]]
+- [[objektai/vietos/Mstislavlis]]
+- [[objektai/vietos/Mėlynieji Vandenys]]
+- [[objektai/vietos/Narevas]]
+- [[objektai/vietos/Narva]]
+- [[objektai/vietos/Natanga]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Naugardas Sieverskas]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Naujapilis]]
+- [[objektai/vietos/Naujasis Kaunas]]
+- [[objektai/vietos/Naujieji Trakai]]
+- [[objektai/vietos/Neidenburgas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Nemėžis]]
+- [[objektai/vietos/Neries sritis]]
+- [[objektai/vietos/Neumarkas]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Oliva]]
+- [[objektai/vietos/Ostrovas]]
+- [[objektai/vietos/Ovručas]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/vietos/Pagraudenis (vieta)]]
+- [[objektai/vietos/Pagraudenė]]
+- [[objektai/vietos/Pagraudė]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/vietos/Palestina]]
+- [[objektai/vietos/Pamarys]]
+- [[objektai/vietos/Paneriai]]
+- [[objektai/vietos/Papilė]]
+- [[objektai/vietos/Paryžius]]
+- [[objektai/vietos/Paštuvos valsčius]]
+- [[objektai/vietos/Pelplinas]]
+- [[objektai/vietos/Perejeslavlis]]
+- [[objektai/vietos/Perloja]]
+- [[objektai/vietos/Pernarava]]
+- [[objektai/vietos/Perudža]]
+- [[objektai/vietos/Perudžija]]
+- [[objektai/vietos/Pilėnai]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/vietos/Plockas]]
+- [[objektai/vietos/Podbužo dvaras]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Pograuda]]
+- [[objektai/vietos/Poleksija]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Pomeranija]]
+- [[objektai/vietos/Poznanė]]
+- [[objektai/vietos/Praga]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Prieglius]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Prūsų žemė]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Raseiniai]]
+- [[objektai/vietos/Rastenburgas]]
+- [[objektai/vietos/Ratne]]
+- [[objektai/vietos/Revelio žemė]]
+- [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Rezeknės regionas]]
+- [[objektai/vietos/Rezlis]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/vietos/Riazanės kunigaikštystė]]
+- [[objektai/vietos/Rittersverderis]]
+- [[objektai/vietos/Ritterswerderis]]
+- [[objektai/vietos/Romainiai]]
+- [[objektai/vietos/Rudava]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Röselis]]
+- [[objektai/vietos/Rževas]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/vietos/Sambija]]
+- [[objektai/vietos/Sandomierius]]
+- [[objektai/vietos/Sandomiras]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Sizditė]]
+- [[objektai/vietos/Skalvos žemė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Smotričius]]
+- [[objektai/vietos/Sosnos upė]]
+- [[objektai/vietos/Starodubas]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Strėvos upė]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]]
+- [[objektai/vietos/Taurakalnis (Pilies kalnas)]]
+- [[objektai/vietos/Tavanė]]
+- [[objektai/vietos/Tikocinas]]
+- [[objektai/vietos/Toropiec]]
+- [[objektai/vietos/Torunė]]
+- [[objektai/vietos/Totorių vartai]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
+- [[objektai/vietos/Trapėnai]]
+- [[objektai/vietos/Treiderės upė]]
+- [[objektai/vietos/Trubčevskas]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Ukmergės apylinkė]]
+- [[objektai/vietos/Upytė]]
+- [[objektai/vietos/Upytės žemė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/vietos/Vaikiai]]
+- [[objektai/vietos/Vaikių valsčius]]
+- [[objektai/vietos/Vakarų Ukraina]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Varmė]]
+- [[objektai/vietos/Varniai]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vasilevas]]
+- [[objektai/vietos/Vedroša]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Ventės ragas]]
+- [[objektai/vietos/Verkiai]]
+- [[objektai/vietos/Viazma]]
+- [[objektai/vietos/Vilija]]
+- [[objektai/vietos/Vilniaus Aukštutinė pilis]]
+- [[objektai/vietos/Vilniaus katedra]]
+- [[objektai/vietos/Vilniaus Perkūno šventykla]]
+- [[objektai/vietos/Vilniaus pilies kalnas]]
+- [[objektai/vietos/Vilniaus pilis]]
+- [[objektai/vietos/Vilniaus pilys]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vingrių šaltiniai]]
+- [[objektai/vietos/Vingrių šaltinis]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/vietos/Vištyčio ežeras]]
+- [[objektai/vietos/Vladimiras]]
+- [[objektai/vietos/Vladimiras (prie Kliazmos)]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Vokė]]
+- [[objektai/vietos/Volinija]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Volynija]]
+- [[objektai/vietos/Volynė]]
+- [[objektai/vietos/Vorksla]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/vietos/Vyšgorodas]]
+- [[objektai/vietos/Vėluva]]
+- [[objektai/vietos/Zaslavlis]]
+- [[objektai/vietos/Zvenigorodas]]
+- [[objektai/vietos/Černigovas]]
+- [[objektai/vietos/Įsrutis]]
+- [[objektai/vietos/Šalčininkai]]
+- [[objektai/vietos/Šešuoliai]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Šiaulių žemė]]
+- [[objektai/vietos/Šiaurės Žemaitija]]
+- [[objektai/vietos/Šklovas]]
+- [[objektai/vietos/Štarkenbergas]]
+- [[objektai/vietos/Šv. Jono bažnyčia Vilniuje]]
+- [[objektai/vietos/Šventasis Kryžius]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/vietos/Žemutinis Padnieprys]]
+- [[objektai/vietos/Žiemgala]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/vietos/Žitomiras]]
 
 ### Įvykiai
-- [1379 m. Trakų 10 metų paliaubos su ordinu](../objektai/ivykiai/1379%20m.%20Trak%C5%B3%2010%20met%C5%B3%20paliaubos%20su%20ordinu)
-- [1381 m. kryžiuočių puolimai Kęstučio valdose](../objektai/ivykiai/1381%20m.%20kry%C5%BEiuo%C4%8Di%C5%B3%20puolimai%20K%C4%99stu%C4%8Dio%20valdose)
-- [1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui](../objektai/ivykiai/1384%20m.%20%C5%BDemai%C4%8Di%C5%B3%20s%C4%85junga%20su%20Ordinu%20ir%20Vytauto%20pasidavimas%20Ordinui)
-- [1387 m. vasaros žygis į Raudonąją Rusią](../objektai/ivykiai/1387%20m.%20vasaros%20%C5%BEygis%20%C4%AF%20Raudon%C4%85j%C4%85%20Rusi%C4%85)
-- [Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20prie%C5%A1%20Maskv%C4%85%20%281368%2C%201370%2C%201372%20m.%29)
-- [Astravos sutartis](../objektai/ivykiai/Astravos%20sutartis)
-- [Aukaimio pilies sunaikinimas (1302 ir 1305 m.)](../objektai/ivykiai/Aukaimio%20pilies%20sunaikinimas%20%281302%20ir%201305%20m.%29)
-- [Bisenos sunaikinimas (1316 m.)](../objektai/ivykiai/Bisenos%20sunaikinimas%20%281316%20m.%29)
-- [Butauto bėgimas į Karaliaučių ir apsikrikštijimas](../objektai/ivykiai/Butauto%20b%C4%97gimas%20%C4%AF%20Karaliau%C4%8Di%C5%B3%20ir%20apsikrik%C5%A1tijimas)
-- [Dovydiškių slapta sutartis (1380 m.)](../objektai/ivykiai/Dovydi%C5%A1ki%C5%B3%20slapta%20sutartis%20%281380%20m.%29)
-- [Dovydiškių sutarties sudarymas](../objektai/ivykiai/Dovydi%C5%A1ki%C5%B3%20sutarties%20sudarymas)
-- [Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)](../objektai/ivykiai/Dovydi%C5%A1ki%C5%B3%20sutarties%20sudarymas%20%281380%20m.%20gegu%C5%BE%C4%97s%2031%20d.%29)
-- [Dubysos salos derybos su Ordinu (1396 m.)](../objektai/ivykiai/Dubysos%20salos%20derybos%20su%20Ordinu%20%281396%20m.%29)
-- [Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)](../objektai/ivykiai/Gedimino%20lai%C5%A1k%C5%B3%20i%C5%A1siuntimas%20%C4%AF%20Vakar%C5%B3%20Europ%C4%85%20%281323%E2%80%931325%20m.%29)
-- [Gedimino prekybinė sutartis su Livonija (1338 m.)](../objektai/ivykiai/Gedimino%20prekybin%C4%97%20sutartis%20su%20Livonija%20%281338%20m.%29)
-- [Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)](../objektai/ivykiai/Gedimino%20sostin%C4%97s%20perk%C4%97limas%20%C4%AF%20Vilni%C5%B3%20%28iki%201322%20m.%29)
-- [Gedimino taikos sutartis su Livonija (1322 m.)](../objektai/ivykiai/Gedimino%20taikos%20sutartis%20su%20Livonija%20%281322%20m.%29)
-- [Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)](../objektai/ivykiai/Jogailos%20atvykimas%20%C4%AF%20Krokuv%C4%85%2C%20krik%C5%A1tas%2C%20vestuv%C4%97s%20ir%20kar%C5%ABnacija%20Lenkijos%20karalium%20%281386%20m.%20vasaris%E2%80%93kovas%29)
-- [Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)](../objektai/ivykiai/Jogailos%20ir%20Vokie%C4%8Di%C5%B3%20ordino%20puolimo%20sutartis%20%281382%20m.%20liepos%206%20d.%29)
-- [Jogailos išrinkimas Lenkijos karaliumi](../objektai/ivykiai/Jogailos%20i%C5%A1rinkimas%20Lenkijos%20karaliumi)
-- [Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)](../objektai/ivykiai/Jogailos%20pasi%C5%ABlymas%20Vytautui%20per%20Henrik%C4%85%20Ziemovit%C4%85%20%281392%20m.%20pavasaris%29)
-- [Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)](../objektai/ivykiai/Jogailos%20sugr%C4%AF%C5%BEimas%20%C4%AF%20Vilni%C5%B3%20%281382%20m.%20bir%C5%BEelio%2012%20d.%29)
-- [Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)](../objektai/ivykiai/Junig%C4%97dos%20ir%20Pe%C5%A1tv%C4%97s%20prie%C5%A1pili%C5%B3%20sudeginimas%20%281298%20m.%29)
-- [Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)](../objektai/ivykiai/Junig%C4%97dos%20puolimas%20ir%20Mederabos%20sunaikinimas%20%281291%20m.%29)
-- [Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)](../objektai/ivykiai/Junig%C4%97dos%20puolimas%20laivu%20ir%20Surmino%20kontrataka%20%281313%20m.%29)
-- [Karolio IV krikšto bandymas Lietuvoje (1358 m.)](../objektai/ivykiai/Karolio%20IV%20krik%C5%A1to%20bandymas%20Lietuvoje%20%281358%20m.%29)
-- [Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)](../objektai/ivykiai/Kar%C5%A1uvos%20nuniokojimas%20ir%20Skronai%C4%8Di%C5%B3%20bei%20Bebirvai%C4%8Di%C5%B3%20pili%C5%B3%20sudeginimas%20%281307%20m.%29)
-- [Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)](../objektai/ivykiai/Kauno%20pilies%20statybos%20prad%C5%BEia%20%281384%20m.%20gegu%C5%BE%C4%97s%2013%20d.%29)
-- [Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)](../objektai/ivykiai/Klaip%C4%97dos%20pilies%20perdavimas%20Pr%C5%ABsijos%20kry%C5%BEiuo%C4%8Diams%20%281328%20m.%29)
-- [Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)](../objektai/ivykiai/Klaip%C4%97dos%20puolimas%20ir%20Gedimino%20b%C5%ABri%C5%B3%20Sembos%20teriojimas%20%281323%20m.%29)
-- [Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)](../objektai/ivykiai/Konrado%20Wallenrodo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Vytauto%20kontrpuolimas%20Nemuno%20ruo%C5%BEe%20%281391%20m.%29)
-- [Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20ordino%20sostin%C4%97s%20perk%C4%97limas%20%C4%AF%20Marijenburg%C4%85%20%281309%20m.%29)
-- [Kulikovo kautynės (1380 m. rugsėjo 8 d.)](../objektai/ivykiai/Kulikovo%20kautyn%C4%97s%20%281380%20m.%20rugs%C4%97jo%208%20d.%29)
-- [Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20ir%20Jogailos%20kariuomeni%C5%B3%20derybos%20prie%20Trak%C5%B3%20%281382%20m.%20rugpj%C5%AB%C4%8Dio%203%20d.%29)
-- [Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20ir%20Vytauto%20su%C4%97mimas%20bei%20K%C4%99stu%C4%8Dio%20mirtis%20Kriave%20%281382%20m.%20rugpj%C5%AB%C4%8Dio%2015%20d.%29)
-- [Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20perversmas%20ir%20Vilniaus%20u%C5%BE%C4%97mimas%20%281344-1345%20m.%20%C5%BEiem%C4%85%29)
-- [Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20taikos%20ir%20krik%C5%A1to%20sutartis%20su%20Liudviku%20An%C5%BEu%20%281351%20m.%29)
-- [Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20Vilniaus%20u%C5%BE%C4%97mimas%20ir%20Jogailos%20su%C4%97mimas%20%281381%20m.%29)
-- [Kęstučio žūtis Krėvos kalėjime (1382 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20%C5%BE%C5%ABtis%20Kr%C4%97vos%20kal%C4%97jime%20%281382%20m.%29)
-- [Lietuvos ir Lenkijos paskutinis padalinimas](../objektai/ivykiai/Lietuvos%20ir%20Lenkijos%20paskutinis%20padalinimas)
-- [Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia](../objektai/ivykiai/Lietuvos%20ir%20%C5%BDemaitijos%20krik%C5%A1tai%20kaip%20krik%C5%A1%C4%8Dion%C4%97jimo%20prad%C5%BEia)
-- [Lietuvos krikštas](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas)
-- [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
-- [Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)](../objektai/ivykiai/Lietuvos%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Estij%C4%85%20ir%20kry%C5%BEiuo%C4%8Di%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20%C5%BDemaitij%C4%85%20%281322%20m.%29)
-- [Magdeburgo teisių suteikimas Lietuvos miestams](../objektai/ivykiai/Magdeburgo%20teisi%C5%B3%20suteikimas%20Lietuvos%20miestams)
-- [Mėlynųjų Vandenų mūšis (1362 m.)](../objektai/ivykiai/M%C4%97lyn%C5%B3j%C5%B3%20Vanden%C5%B3%20m%C5%AB%C5%A1is%20%281362%20m.%29)
-- [Nepriklausomybės pradžia](../objektai/ivykiai/Nepriklausomyb%C4%97s%20prad%C5%BEia)
-- [Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)](../objektai/ivykiai/Ordino%20%C5%BEygiai%20%C4%AF%20Pograud%C4%85%20ir%20%C5%A0al%C4%8Dininkus%20%281311%20m.%29)
-- [Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)](../objektai/ivykiai/Ordino%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Gardino%2C%20Merkin%C4%97s%2C%20Drohi%C4%8Dino%20bei%20Lydos%20sudeginimas%20%281393%20m.%29)
-- [Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)](../objektai/ivykiai/Ordino%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Sura%C5%BEiaus%20pilies%20sudeginimas%20%281392%20m.%20ruduo%29)
-- [Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)](../objektai/ivykiai/Pasiuntinyb%C4%97%20%C4%AF%20Niurnberg%C4%85%20d%C4%97l%20krik%C5%A1to%20%281358%20m.%29)
-- [Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)](../objektai/ivykiai/Pasiuntinyb%C4%97%20%C4%AF%20N%C3%BCrnberg%C4%85%20d%C4%97l%20krik%C5%A1to%20%281358%20m.%29)
-- [Pilėnų pilies gynimas (1336 m.)](../objektai/ivykiai/Pil%C4%97n%C5%B3%20pilies%20gynimas%20%281336%20m.%29)
-- [Polocko maištas prieš Skirgailą (1381 m. pavasaris)](../objektai/ivykiai/Polocko%20mai%C5%A1tas%20prie%C5%A1%20Skirgail%C4%85%20%281381%20m.%20pavasaris%29)
-- [Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)](../objektai/ivykiai/Ragain%C4%97s%20pilies%20puolimas%20ir%20Christmemelio%20apgultis%20%281315%20m.%29)
-- [Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)](../objektai/ivykiai/Rittersverderio%2C%20Naujojo%20Gardino%20ir%20Metenos%20sunaikinimas%20%281392%20m.%20liepa%29)
-- [Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)](../objektai/ivykiai/Rygos%20arkivyskupo%20interdiktas%20ordinui%20u%C5%BE%20Lietuvos%20krik%C5%A1to%20sutrukdym%C4%85%20%281325%20m.%29)
-- [Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)](../objektai/ivykiai/Rygos%20s%C4%85junginink%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Livonij%C4%85%20ir%20pralaim%C4%97jimas%20prie%20Dob%C4%97s%20%281305%20m.%29)
-- [Rūdavos mūšis](../objektai/ivykiai/R%C5%ABdavos%20m%C5%AB%C5%A1is)
-- [Rūdavos mūšis (1370 m. vasario 17 d.)](../objektai/ivykiai/R%C5%ABdavos%20m%C5%AB%C5%A1is%20%281370%20m.%20vasario%2017%20d.%29)
-- [Salyno sutartis](../objektai/ivykiai/Salyno%20sutartis)
-- [Smolensko užėmimas (1395 m. rugsėjo 28 d.)](../objektai/ivykiai/Smolensko%20u%C5%BE%C4%97mimas%20%281395%20m.%20rugs%C4%97jo%2028%20d.%29)
-- [Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)](../objektai/ivykiai/Smolensko%20u%C5%BE%C4%97mimas%20ir%20Viazmos%20pa%C4%97mimas%20%281396%20m.%20ruden%C4%AF%29)
-- [Strėvos mūšis (1348 m.)](../objektai/ivykiai/Str%C4%97vos%20m%C5%AB%C5%A1is%20%281348%20m.%29)
-- [Trakų paliaubos (1379 m. rugsėjo 29 d.)](../objektai/ivykiai/Trak%C5%B3%20paliaubos%20%281379%20m.%20rugs%C4%97jo%2029%20d.%29)
-- [Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)](../objektai/ivykiai/Trak%C5%B3%20pilies%20pasidavimas%20Jogailai%20%281382%20m.%20liepos%2020%20d.%29)
-- [Vaidoto pabėgimas į Prūsus](../objektai/ivykiai/Vaidoto%20pab%C4%97gimas%20%C4%AF%20Pr%C5%ABsus)
-- [Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)](../objektai/ivykiai/Vilniaus%20apgultis%20ir%20m%C5%AB%C5%A1iai%20prie%20Rudaminos%20%281394%20m.%20vasara%29)
-- [Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)](../objektai/ivykiai/Vilniaus%20pokalbiai%20su%20popie%C5%BEiaus%20legatais%20d%C4%97l%20Lietuvos%20krik%C5%A1to%20%281324%20m.%20gegu%C5%BE%C4%97s%20gale%29)
-- [Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)](../objektai/ivykiai/Vilniaus%20taika%20su%20Livonijos%20ordinu%20%281323%20m.%20spalio%202%20d.%29)
-- [Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)](../objektai/ivykiai/Vilniaus%20u%C5%BE%C4%97mimas%20ir%20Vytauto%20bandymas%20j%C4%AF%20atsiimti%20%281382%20m.%20bir%C5%BEelio%2012%20d.%29)
-- [Vilniaus vyskupystės įkūrimas](../objektai/ivykiai/Vilniaus%20vyskupyst%C4%97s%20%C4%AFk%C5%ABrimas)
-- [Vitebsko užėmimas (1392 m.)](../objektai/ivykiai/Vitebsko%20u%C5%BE%C4%97mimas%20%281392%20m.%29)
-- [Vorsklos mūšis](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is)
-- [Vorsklos mūšis (1399 m. rugpjūčio 12 d.)](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is%20%281399%20m.%20rugpj%C5%AB%C4%8Dio%2012%20d.%29)
-- [Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)](../objektai/ivykiai/Vytauto%20ir%20Ordino%20%C5%BEygis%20%C4%AF%20Trakus%20bei%20Vilni%C5%B3%20%281383%20m.%20rugs%C4%97jo%2011%E2%80%9322%20d.%29)
-- [Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)](../objektai/ivykiai/Vytauto%20ir%20Skirgailos%20gin%C4%8Das%20Vilniuje%20%281393%20m.%20spalio%203%20d.%29)
-- [Vytauto krikštas Tapiau (1383 m. spalio 21 d.)](../objektai/ivykiai/Vytauto%20krik%C5%A1tas%20Tapiau%20%281383%20m.%20spalio%2021%20d.%29)
-- [Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)](../objektai/ivykiai/Vytauto%20persik%C4%97limas%20pas%20Ordin%C4%85%20%281382%20m.%20pabaiga%29)
-- [Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygiai%20prie%20Juodosios%20j%C5%ABros%20ir%20Krymo%20%281397%E2%80%931398%20m.%29)
-- [Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Medininkus%20%281392%20m.%20gegu%C5%BE%C4%97s%2020%20d.%29)
-- [Vytauto žygis į Ordino žemes (1377 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Ordino%20%C5%BEemes%20%281377%20m.%29)
-- [Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Semb%C4%85%2C%20Natang%C4%85%20ir%20Varm%C4%99%20bei%20pralaim%C4%97jimas%20Woplaukene%20%281311%20m.%29)
-- [Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)](../objektai/ivykiai/V%C4%97juk%C5%B3%20srities%20nusiaubimas%20ir%20Raseini%C5%B3%20bei%20Ariogalos%20sri%C4%8Di%C5%B3%20gaisrai%20%281322%20m.%29)
+- [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
+- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
+- [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]
+- [[objektai/ivykiai/1387 m. pirmoji ranka Vilniaus šventyklai sugriauti]]
+- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
+- [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
+- [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą]]
+- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
+- [[objektai/ivykiai/Astravos sutartis]]
+- [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
+- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
+- [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]
+- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
+- [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.)]]
+- [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]
+- [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
+- [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]
+- [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]
+- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]
+- [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
+- [[objektai/ivykiai/Celestino V kanonizavimas (1313 m. gegužės 5 d.)]]
+- [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]
+- [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje]]
+- [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]
+- [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]
+- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
+- [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas kraujo lašų stebuklas Kristburgo pilyje (1324 m.)]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
+- [[objektai/ivykiai/Dusburgiečio pasakojami švento Ruprechto relikvijų stebuklai Karaliaučiuje (1306 m.)]]
+- [[objektai/ivykiai/Dviejų kaimų sudeginimas Medininkų valsčiuje (1316 m. vasara)]]
+- [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]
+- [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]
+- [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]
+- [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui]]
+- [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui 1302 m]]
+- [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
+- [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]
+- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
+- [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
+- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
+- [[objektai/ivykiai/Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)]]
+- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
+- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
+- [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
+- [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]
+- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
+- [[objektai/ivykiai/Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)]]
+- [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]
+- [[objektai/ivykiai/Henriko Liuksemburgiečio išrinkimas Romos karaliumi (1308 m. lapkričio 25 d.)]]
+- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
+- [[objektai/ivykiai/Henriko vainikavimas Achene (1309 m. sausio 6 d.)]]
+- [[objektai/ivykiai/Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.)]]
+- [[objektai/ivykiai/Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.)]]
+- [[objektai/ivykiai/Henriko VII vainikavimas imperatoriumi Romoje (1312 m.)]]
+- [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]
+- [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui]]
+- [[objektai/ivykiai/Hospitaljerų Rodo salos užėmimas (1307 m.)]]
+- [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]
+- [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]
+- [[objektai/ivykiai/Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti|Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
+- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
+- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
+- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
+- [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]
+- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
+- [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
+- [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]
+- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
+- [[objektai/ivykiai/Julijonos padėkos laiškas Pauliui Rusdorfui dėl gydomųjų gėrimų (1426 m. liepos 8 d.)]]
+- [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]
+- [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
+- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/ivykiai/Jurijaus Svetoslavovičiaus priesaika Jogailai ir Skirgailai]]
+- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
+- [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
+- [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)]]
+- [[objektai/ivykiai/Kauno pilies apgultis ir užėmimas (1362 m.)]]
+- [[objektai/ivykiai/Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)]]
+- [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
+- [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.)]]
+- [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
+- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
+- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
+- [[objektai/ivykiai/Klemenso V mirtis (1314 m. balandžio 20 d.)]]
+- [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]
+- [[objektai/ivykiai/Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.)]]
+- [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
+- [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]
+- [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės]]
+- [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
+- [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]
+- [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
+- [[objektai/ivykiai/Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą|Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)]]
+- [[objektai/ivykiai/Kryžiuočių antpuolis į Lietuvą ir Žemaitiją (1396 m.)]]
+- [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]
+- [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]
+- [[objektai/ivykiai/Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
+- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
+- [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]
+- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
+- [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
+- [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
+- [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
+- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
+- [[objektai/ivykiai/Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)]]
+- [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]
+- [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]
+- [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]
+- [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]
+- [[objektai/ivykiai/Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.)]]
+- [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
+- [[objektai/ivykiai/Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)]]
+- [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]
+- [[objektai/ivykiai/Lietuvių žygis į Mazoviją ir pralaimėjimas prie Narevo (1336-1337 m.)]]
+- [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]
+- [[objektai/ivykiai/Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)]]
+- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]
+- [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
+- [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
+- [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai|Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai (krikštas, XIII–XIV a.)]]
+- [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
+- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
+- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
+- [[objektai/ivykiai/Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)]]
+- [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]
+- [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
+- [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
+- [[objektai/ivykiai/Lietuvos-Lenkijos sutartis dėl abipusės karinės paramos (1325 m. pradžia)]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]
+- [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
+- [[objektai/ivykiai/Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
+- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
+- [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]
+- [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
+- [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]
+- [[objektai/ivykiai/Mūšis ties upe Usviete]]
+- [[objektai/ivykiai/Mūšis ties Usviete]]
+- [[objektai/ivykiai/Nepriklausomybės pradžia]]
+- [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
+- [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]
+- [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]
+- [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
+- [[objektai/ivykiai/Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Paštuvos valsčiaus nusiaubimas (1316 m. žiema)]]
+- [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]
+- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
+- [[objektai/ivykiai/Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)]]
+- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/ivykiai/Pirmoji Lietuvos Bažnyčiai privilegija|Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)]]
+- [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion]]
+- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]
+- [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
+- [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]
+- [[objektai/ivykiai/Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas]]
+- [[objektai/ivykiai/Raupsuotųjų deginimai Prancūzijoje (1320 m.)]]
+- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
+- [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
+- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
+- [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]
+- [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
+- [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]
+- [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
+- [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės]]
+- [[objektai/ivykiai/Torunės pilies sugriovimas (1454 m.)]]
+- [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]
+- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
+- [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]
+- [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
+- [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
+- [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
+- [[objektai/ivykiai/Trijų nuodijimu apkaltintų vyrų išbandymas verdančiu vandeniu Slavijoje (1321 m.)]]
+- [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]
+- [[objektai/ivykiai/Utenio žygis į Padaugavį ir Ašradės apygardas]]
+- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
+- [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
+- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]
+- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
+- [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
+- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
+- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
+- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
+- [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
+- [[objektai/ivykiai/Vytauto derybos su kryžiuočiais]]
+- [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]
+- [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
+- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
+- [[objektai/ivykiai/Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.)]]
+- [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]
+- [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]
+- [[objektai/ivykiai/Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.)]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
+- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
+- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]
+- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
+- [[objektai/ivykiai/Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.)]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/ivykiai/Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)]]
+- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
+- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
+- [[objektai/ivykiai/Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)]]
+- [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]
+- [[objektai/ivykiai/Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo|Švitrigailos 1451 m. privilegija ir ankstesnių Vytauto bei Algirdo privilegijų patvirtinimas dėl Ostapo Kropotkovo herbo (privilegija, XIV–XV a.)]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/ivykiai/Žemės drebėjimas Prūsijoje (1303 m. rugpjūčio 8 d.)]]
+- [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]
+
+### Šaltiniai
+- [[objektai/saltiniai/1230 m. Krušvicos falsifikatas]]
+- [[objektai/saltiniai/1230 m. rugsėjo 12 d. popiežiaus bulė]]
+- [[objektai/saltiniai/1232 m. sausio 23 d. popiežiaus bulė]]
+- [[objektai/saltiniai/1248 m. Kristburgo sutartis]]
+- [[objektai/saltiniai/1249 m. Ordino — prūsų sutartis]]
+- [[objektai/saltiniai/1282 m. Mstivojaus ir Ordino taikos dokumentas]]
+- [[objektai/saltiniai/1285 m. dokumentas su forma „Kantigirde“]]
+- [[objektai/saltiniai/1320 m. dokumentas su forma „wüste Wunne“]]
+- [[objektai/saltiniai/1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse]]
+- [[objektai/saltiniai/1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas]]
+- [[objektai/saltiniai/1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu]]
+- [[objektai/saltiniai/1323 m. Vilniaus sutartis]]
+- [[objektai/saltiniai/1323 m. Vilniaus taikos sutartis]]
+- [[objektai/saltiniai/1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu]]
+- [[objektai/saltiniai/1325 m. Gedimino sutartis su Łokietka]]
+- [[objektai/saltiniai/1329 m. dokumentas su forma „Kanthe“]]
+- [[objektai/saltiniai/1331 metų rugsėjo 17 dienos sutartis prie Bartenšteino]]
+- [[objektai/saltiniai/1337 m. gruodžio 12 d. Liudviko Bavaro dokumentas]]
+- [[objektai/saltiniai/1380 m. paliaubos tarp Livonijos magistro ir Jogailos]]
+- [[objektai/saltiniai/1380 m. vasario mėnesio paliaubos su Livonijos ordinu]]
+- [[objektai/saltiniai/1382 m. Jogailos sutartis su ordinu dėl Žemaičių iki Dubysos]]
+- [[objektai/saltiniai/1383 m. Jogailos laiškas didžiajam magistrui]]
+- [[objektai/saltiniai/1384 m. Vytauto sutartis su Ordinu]]
+- [[objektai/saltiniai/1385 m. Vladislovo Jogailos laiškas iš Krėvos]]
+- [[objektai/saltiniai/1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių]]
+- [[objektai/saltiniai/1398 m. Salyno sutartis]]
+- [[objektai/saltiniai/1404 m. Racionžo taikos sutartis]]
+- [[objektai/saltiniai/1427 m. vyskupų induitas dėl Šv. Jono bažnyčios pašventinimo]]
+- [[objektai/saltiniai/1781 m. vokiškas Dusburgiečio kronikos vertimas]]
+- [[Prätorius M.] Praetorio M. Deliciae Prussicae oder Preussische Schawbühne. [Rankraštis, 1—7 knygos]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Praetorio%20M.%20Deliciae%20Prussicae%20oder%20Preussische%20Schawb%C3%BChne.%20%5BRankra%C5%A1tis%2C%201%E2%80%947%20knygos%5D)
+- [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne [Rankraštis]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne%20%5BRankra%C5%A1tis%5D)
+- [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne. [Mašinraštis. E. Kraštinaičio šifruotas tekstas]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne.%20%5BMa%C5%A1inra%C5%A1tis.%20E.%20Kra%C5%A1tinai%C4%8Dio%20%C5%A1ifruotas%20tekstas%5D)
+- [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
+- [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
+- [[objektai/saltiniai/A. Prochaska, Nieznany akt homogialny Witolda]]
+- [[objektai/saltiniai/A. Tautavičius, Papildomi duomenys apie naujų sidabro lydinių iš XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR terit]]
+- [[objektai/saltiniai/A. Vijūko-Kojelavičiaus Lietuvos istorija]]
+- [[objektai/saltiniai/Akta unii Polski z Litwą 1385-1791]]
+- [[objektai/saltiniai/Akta unji]]
+- [[objektai/saltiniai/Algirdo laiškas Konstantinopolio patriarchui (1371 m.)]]
+- [[objektai/saltiniai/Ambrassat A. Die Provinz Ostpreussen]]
+- [[objektai/saltiniai/Annales Minorum seu trium ordinum a S. Francisco institutorum]]
+- [[objektai/saltiniai/B. Dundulis, Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m]]
+- [[objektai/saltiniai/Baltische Geschichte 1180-1918]]
+- [[objektai/saltiniai/Basanavičius J., Iš gyvenimo vėlių]]
+- [[objektai/saltiniai/Codex Diplomaticus Prussicus]]
+- [[objektai/saltiniai/Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands]]
+- [[objektai/saltiniai/Codex epistolaris Vitoldi Magni Ducis Lithuaniae 1376—1430]]
+- [[objektai/saltiniai/Codex epistolaris Vitoldi Magni Ducis Lithvan]]
+- [[objektai/saltiniai/Codex epistolaris Vitoldi, magni ducis Lithuaniae]]
+- [[objektai/saltiniai/Daukšos pamokslai]]
+- [[objektai/saltiniai/Der Deutsche Orden im Zeitalter der polnisch-litauischen Union]]
+- [[objektai/saltiniai/Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden]]
+- [[objektai/saltiniai/Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį]]
+- [[objektai/saltiniai/Dr. A. Alseika, „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku”]]
+- [[objektai/saltiniai/Dusburgo kronika]]
+- [[objektai/saltiniai/Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów]]
+- [[objektai/saltiniai/Eberhardo Varmės vyskupo diploma (1325 m.)]]
+- [[objektai/saltiniai/Eilėtoji Livonijos kronika]]
+- [[objektai/saltiniai/Fridricho II 1226 m. aukso bulė]]
+- [[objektai/saltiniai/Gedimino laiškai]]
+- [[objektai/saltiniai/Gedimino laiškai ordinams ir Hanzos miestams]]
+- [[objektai/saltiniai/Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams]]
+- [[objektai/saltiniai/Guillaume de Machaut Confort d’Ami]]
+- [[objektai/saltiniai/Hartknocho pastabos Dusburgo kronikai]]
+- [[objektai/saltiniai/Heinrici Chronicon Livoniae]]
+- [[objektai/saltiniai/Henriko von Rebdorfo kronika]]
+- [[objektai/saltiniai/Hermano Vartbergės Livonijos kronika]]
+- [[objektai/saltiniai/Hermano Wartberges kronika]]
+- [[objektai/saltiniai/Historiarum liber VII adversus paganos]]
+- [[objektai/saltiniai/Horodlės aktai (1413 m.)]]
+- [[objektai/saltiniai/Ivinskis Z. Gedimino pilis]]
+- [[objektai/saltiniai/J. Caro, Geschichte Polens]]
+- [[objektai/saltiniai/J. Dlugošo Analai, arba kronikos]]
+- [[objektai/saltiniai/J. Dąbrowski, Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385-1444]]
+- [[objektai/saltiniai/J. Jakštas, Jogailos ir Vytauto kovos su vokiečių ordinu]]
+- [[objektai/saltiniai/J. Jakštas, Vokiečių ordinas ir Lietuva Vytenio ir Gedimino metu]]
+- [[objektai/saltiniai/Jadvygos dokumentas (1393 m. lapkričio 4 d.)]]
+- [[objektai/saltiniai/Jadvygos laiškas Vytautui]]
+- [[objektai/saltiniai/Jadvygos laiškas Vytautui (1398 m.)]]
+- [[objektai/saltiniai/Jasas R. Didysis prūsų sukilimas (1260—1274)]]
+- [[objektai/saltiniai/Jogailos ir Vytauto privilegija Vilniaus vyskupui Andriui dėl metinių pajamų]]
+- [[objektai/saltiniai/Jogailos privilegijos (1387 m.)]]
+- [[objektai/saltiniai/Jogailos raštas dėl lietuvių patraukimo į katalikybę (1387 m. vasario 22 d.)]]
+- [[objektai/saltiniai/Jono XXII bulė dėl Gedimino ir 1323 m. sutarties]]
+- [[objektai/saltiniai/K. Heinl, Fürst Witold von Litauen 1382-1401]]
+- [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
+- [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
+- [[objektai/saltiniai/Kronika Lechitów i Polaków]]
+- [[objektai/saltiniai/Krėvos aktas (1385 m.)]]
+- [[objektai/saltiniai/Kujot S. Dzieje Prus Królewskich]]
+- [[objektai/saltiniai/Kvedlinburgo kronika]]
+- [[objektai/saltiniai/Labuda G. Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228— 1454]]
+- [[objektai/saltiniai/Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej w świetle ztotej bulli Fryderyka II z r. 1226]]
+- [[objektai/saltiniai/Lealio komtūro 1432 m. rugpjūčio 19 d. laiškas didžiajam magistrui]]
+- [[objektai/saltiniai/Lietuva 1009–2009]]
+- [[objektai/saltiniai/Lietuvių kalbos žodynas, t. I (1968)]]
+- [[objektai/saltiniai/Lietuvių tautos istorijos šaltiniai]]
+- [[objektai/saltiniai/Lietuvos metraštis (Bychovco kronika)]]
+- [[objektai/saltiniai/Lietuvos TSR Istorijos Šaltiniai]]
+- [[objektai/saltiniai/Liublino unijos aktas (1569 m.)]]
+- [[objektai/saltiniai/Livonijos atstovų prieštaravimas dėl 1323 m. taikos]]
+- [[objektai/saltiniai/Lvovo privilegija (1392 m. bal. 16 d.)]]
+- [[objektai/saltiniai/M. Strijkovskio kronika]]
+- [[objektai/saltiniai/Martyno iš Opavos popiežių ir imperatorių istorija]]
+- [[objektai/saltiniai/Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.)]]
+- [[objektai/saltiniai/Mikalojaus iš Jerošino Prūsijos žemės kronika]]
+- [[objektai/saltiniai/Mindaugas-Lietuvos karalius]]
+- [[objektai/saltiniai/Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts]]
+- [[objektai/saltiniai/N. Korčino aktas]]
+- [[objektai/saltiniai/Naujausių Proistorinių Tyrinėjimų Duomens]]
+- [[objektai/saltiniai/Naujosios Prūsijos žemės kronika]]
+- [[objektai/saltiniai/Nikono metraštis]]
+- [[objektai/saltiniai/Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.)]]
+- [[objektai/saltiniai/Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.)]]
+- [[objektai/saltiniai/Olivos kronika]]
+- [[objektai/saltiniai/Ostrogo kunigaikščio Feodoro privilegija (1396 m.)]]
+- [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
+- [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
+- [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
+- [[objektai/saltiniai/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)]]
+- [[objektai/saltiniai/Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)]]
+- [[objektai/saltiniai/Pirmoji spausdinta Lietuvos istorija (1582 m.)]]
+- [[objektai/saltiniai/Piętka J. Geneza mazowieckiej elity feudalnej i jej stan w pierwszym okresie niezależności księstwa (1138—1371)]]
+- [[objektai/saltiniai/Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka]]
+- [[objektai/saltiniai/Popiežiaus 1230 m. sausio 18 d. bulė]]
+- [[objektai/saltiniai/Popiežiaus Martyno V laiškai dėl Vytauto karūnavimo]]
+- [[objektai/saltiniai/Povest vremennych let]]
+- [[objektai/saltiniai/Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977]]
+- [[objektai/saltiniai/Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308]]
+- [[objektai/saltiniai/Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli Pomorza Gdańskiego]]
+- [[objektai/saltiniai/Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386]]
+- [[objektai/saltiniai/Preussens aeltere Geschichte]]
+- [[objektai/saltiniai/Preussisches Urkundenbuch]]
+- [[objektai/saltiniai/Preussisches Urkundenbuch Politische Abtheilung]]
+- [[objektai/saltiniai/Prūsijos valdžios gromatos]]
+- [[objektai/saltiniai/Prūsijos vyskupų laiškas dėl 1323 m. sutarties]]
+- [[objektai/saltiniai/Prūsijos žemės kronika]]
+- [[objektai/saltiniai/Ptolomėjaus iš Lukos Analai]]
+- [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
+- [[objektai/saltiniai/Regesta Lithnaniae]]
+- [[objektai/saltiniai/Regesta Lithuaniae]]
+- [[objektai/saltiniai/Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas]]
+- [[objektai/saltiniai/St. Zajączkowski Przymierze polsko-litewskie 1325 r]]
+- [[objektai/saltiniai/Sventopelko ir Ordino 1243 m. sutartis]]
+- [[objektai/saltiniai/Tacitas P. K. Rinktiniai raštai]]
+- [[objektai/saltiniai/Torno analai]]
+- [[objektai/saltiniai/Torno taika (1411 m.)]]
+- [[objektai/saltiniai/Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas]]
+- [[objektai/saltiniai/Trakų žydų privilegija]]
+- [[objektai/saltiniai/Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.)]]
+- [[objektai/saltiniai/Trumpieji Prūsijos analai]]
+- [[objektai/saltiniai/Tumler M. Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400 mit einem Abriss der Geschichte des Ordens von 1400 bis zur neuesten Zei]]
+- [[objektai/saltiniai/Urbono VI bulė dėl Vilniaus katedros ir vyskupijos]]
+- [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
+- [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
+- [[objektai/saltiniai/Vilniaus miesto planas Jogailos laikais]]
+- [[objektai/saltiniai/Vokiškieji kryžiuočių kelių aprašymai]]
+- [[objektai/saltiniai/Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis]]
+- [[objektai/saltiniai/Vytauto dovanojimo aktas Trakų miestui (1384 m.)]]
+- [[objektai/saltiniai/Vytauto jaunystė ir jo veikimas iki 1392 m]]
+- [[objektai/saltiniai/Vytauto laiškas didžiajam magistrui dėl rūmų gydytojo]]
+- [[objektai/saltiniai/Vytauto lotyniški ir vokiški Žemaitijos atskyrimo raštai (1405 m.)]]
+- [[objektai/saltiniai/Vytauto privilegija Trakams (1384 m.)]]
+- [[objektai/saltiniai/Vytauto vasalystės dokumentas (1386 m. gegužės 10 d.)]]
+- [[objektai/saltiniai/W. Goyski, Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404]]
+- [[objektai/saltiniai/Walsinghamo kronika]]
+- [[objektai/saltiniai/Wcielenie Litwy do Polski w 1386]]
+- [[objektai/saltiniai/Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer Beziehung nebst Special-Geographie]]
+- [[objektai/saltiniai/Wremiennik Sofijski]]
+- [[objektai/saltiniai/Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248— 1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3]]
+- [[objektai/saltiniai/Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų]]
+- [[objektai/saltiniai/Z. Ivinskis, Raciąžo taika]]
+- [[objektai/saltiniai/Z. Ivinskis, Salyno taika]]
+- [[objektai/saltiniai/Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII]]
+- [[objektai/saltiniai/Łowmiański H., Studja]]
+- [[objektai/saltiniai/Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos]]
+- [[objektai/saltiniai/Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai]]
+- [[objektai/saltiniai/Гуревич Ф. Д. Древний Новогрудок]]
+- [[objektai/saltiniai/Пашуто В. Т. Христбургский (Кишпорский) договор 1249 г. как исторический источник]]
+- [[objektai/saltiniai/Ткачоу М. А., Абарончыя]]
+- [[objektai/saltiniai/Ткачоу М. А., Замки]]
 
 ### Žodynas
-- [apostazija](../objektai/zodynas/apostazija)
-- [applicare](../objektai/zodynas/applicare)
-- [apsaugos raštas](../objektai/zodynas/apsaugos%20ra%C5%A1tas)
-- [apsigynimo ir puolimo sutartis](../objektai/zodynas/apsigynimo%20ir%20puolimo%20sutartis)
-- [apsikarūnavimas](../objektai/zodynas/apsikar%C5%ABnavimas)
-- [Arkivyskupija](../objektai/zodynas/Arkivyskupija)
-- [avantiūristas](../objektai/zodynas/avanti%C5%ABristas)
-- [baskakas](../objektai/zodynas/baskakas)
-- [bažnytinė provincija](../objektai/zodynas/ba%C5%BEnytin%C4%97%20provincija)
-- [brevė](../objektai/zodynas/brev%C4%97)
-- [denariukas](../objektai/zodynas/denariukas)
-- [diarchija](../objektai/zodynas/diarchija)
-- [didysis magistras](../objektai/zodynas/didysis%20magistras)
-- [emyras](../objektai/zodynas/emyras)
-- [grašis](../objektai/zodynas/gra%C5%A1is)
-- [inkorporacija](../objektai/zodynas/inkorporacija)
-- [kapitula](../objektai/zodynas/kapitula)
-- [kaštelionas](../objektai/zodynas/ka%C5%A1telionas)
-- [komtūras](../objektai/zodynas/komt%C5%ABras)
-- [kontrevoliucija](../objektai/zodynas/kontrevoliucija)
-- [kunigaikštija](../objektai/zodynas/kunigaik%C5%A1tija)
-- [leičiai / liečiai / leišiai](../objektai/zodynas/lei%C4%8Diai%20lie%C4%8Diai%20lei%C5%A1iai)
-- [lotyniškasis krikštas](../objektai/zodynas/lotyni%C5%A1kasis%20krik%C5%A1tas)
-- [luominė diferenciacija](../objektai/zodynas/luomin%C4%97%20diferenciacija)
-- [Magdeburgo teisės](../objektai/zodynas/Magdeburgo%20teis%C4%97s)
-- [Mahometoniškas tikėjimas](../objektai/zodynas/Mahometoni%C5%A1kas%20tik%C4%97jimas)
-- [maršalas](../objektai/zodynas/mar%C5%A1alas)
-- [metropolija](../objektai/zodynas/metropolija)
-- [metropolitas](../objektai/zodynas/metropolitas)
-- [neofitas](../objektai/zodynas/neofitas)
-- [pravoslavai](../objektai/zodynas/pravoslavai)
-- [rublis](../objektai/zodynas/rublis)
-- [saar](../objektai/zodynas/saar)
-- [seniūnas storasta](../objektai/zodynas/seni%C5%ABnas%20storasta)
-- [supremus dux ir magnus dux](../objektai/zodynas/supremus%20dux%20ir%20magnus%20dux)
-- [supremus dux magnus dux](../objektai/zodynas/supremus%20dux%20magnus%20dux)
-- [tėviškė](../objektai/zodynas/t%C4%97vi%C5%A1k%C4%97)
-- [vaivada](../objektai/zodynas/vaivada)
-- [Vakarų Bažnyčios schizma](../objektai/zodynas/Vakar%C5%B3%20Ba%C5%BEny%C4%8Dios%20schizma)
-- [valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumo%20idealas%20valstybingumu%20gr%C4%AFsta%20periodizacija)
-- [valstybingumo idėja valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumu%20gr%C4%AFsta%20periodizacija)
-- [vasalas](../objektai/zodynas/vasalas)
-- [vietininkas](../objektai/zodynas/vietininkas)
-- [vėliava](../objektai/zodynas/v%C4%97liava)
-- [įkaitai](../objektai/zodynas/%C4%AFkaitai)
-- [žemės santykiais pagrįsta periodizacija](../objektai/zodynas/%C5%BEem%C4%97s%20santykiais%20pagr%C4%AFsta%20periodizacija)
+- [[objektai/zodynas/alodas dvaras]]
+- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]
+- [[objektai/zodynas/antifona kolekta liturginės valandos]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/applicare]]
+- [[objektai/zodynas/apsaugos raštas]]
+- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ariergardas]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/zodynas/Arkivyskupija]]
+- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
+- [[objektai/zodynas/avantiūristas]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/zodynas/brevė]]
+- [[objektai/zodynas/Cechas]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/zodynas/denariukas]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/didvalstybė]]
+- [[objektai/zodynas/didysis komtūras arkikomtūras]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/didysis maršalas]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/ekskomunikuoti]]
+- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
+- [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/kankinių vainikai]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kontrevoliucija]]
+- [[objektai/zodynas/Krieviai krivičiai gudai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/luominė diferenciacija]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
+- [[objektai/zodynas/Mahometoniškas tikėjimas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/mišparai]]
+- [[objektai/zodynas/neofitas]]
+- [[objektai/zodynas/oktava]]
+- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/zodynas/papilys]]
+- [[objektai/zodynas/Papilys suburbium]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/pilėnas]]
+- [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/pravoslavai]]
+- [[objektai/zodynas/prūsas Prūsa Prūsija]]
+- [[objektai/zodynas/prūsiškos grivenos]]
+- [[objektai/zodynas/pūdas talentas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/skaistykla]]
+- [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/stabų garbinimas stabmeldystė]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/zodynas/sąvadas]]
+- [[objektai/zodynas/tautiška politika]]
+- [[objektai/zodynas/terrula žemelė]]
+- [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės]]
+- [[objektai/zodynas/tikybos ir bažnyčios priešai]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
+- [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
+- [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vasalystė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/Vilija Vigilia Neris Nerige]]
+- [[objektai/zodynas/vora]]
+- [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/zodynas/šventasis žygis]]
+- [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]

@@ -53,7 +53,7 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55575
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182791|Michał Baliński Mykolas Balinskis]]: Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.
+
 ## Citatos
 
 - id: c-55575

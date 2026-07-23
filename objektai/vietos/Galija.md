@@ -49,15 +49,7 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175641
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
-- susijęs iš Ammianus Marcellinus, Res gestae: Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.
-- susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190736|Jordanas]]: Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai.
-- susijęs iš Jordano „De rebus Gothorum“: Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panonijos su vandalais bėgo nuo gotų, kuriuos vijo hunai.
-- susijęs iš Heraklio stulpai: Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.
-- susijęs iš Masilija: Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją.
-- susijęs iš Šv. Vincento kyšulys: Šv. Vincento kyšulys Narbuto aprašyme buvo jūros kelyje, kuris ėjo pro Heraklio stulpus.
-- susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
+
 ## Citatos
 
 - id: c-175641

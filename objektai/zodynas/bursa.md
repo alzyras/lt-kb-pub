@@ -69,15 +69,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą fundacijos dokumento datavimą."
   pagrindžia:
     - c-82394
-- susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55069|Valerijono Bursos studentų bendrija]]: Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas.
-- susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55072|Valerijono Bursos studentų bendrija]]: Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.
-- susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55073|Valerijono Bursos studentų bendrija]]: Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms.
-- susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-81661|Valerijono Bursos studentų bendrija]]: Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.
-- susijęs iš [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra.md#claim-t-87306|Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]: Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
-- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189676|Buthas]]: Narbutas Buthą apibūdina kaip ąžuolinę dvasininko lazdą, liaudies kalba vadintą valdžios ženklu ir turėjusią šakotą viršūnę su kutais.
-- susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
-- susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
+
 ## Citatos
 
 - id: c-82394

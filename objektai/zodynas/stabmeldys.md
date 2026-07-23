@@ -37,7 +37,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 ## Teiginiai
 
 <a id="claim-t-42510"></a>
-- t-003
+- t-001
   teiginys: "Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +56,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45548
 
 <a id="claim-t-42511"></a>
-- t-001
+- t-002
   teiginys: "Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45549
 
 <a id="claim-t-42512"></a>
-- t-002
+- t-003
   teiginys: "Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-45549
   sudarytojas: "Karolis Zikaras"
@@ -132,7 +132,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-45550
   sudarytojas: "Karolis Zikaras"
@@ -153,4 +153,4 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

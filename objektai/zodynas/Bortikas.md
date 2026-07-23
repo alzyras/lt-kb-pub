@@ -47,7 +47,7 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
 ## Teiginiai
 
 <a id="claim-t-192214"></a>
-- t-002
+- t-001
   teiginys: "Narbutas nurodo, kad vėlesniais laikais Lietuvoje Bortiku vadinti artileristai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -65,7 +65,7 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
     - c-175070
 
 <a id="claim-t-192215"></a>
-- t-001
+- t-002
   teiginys: "Narbutas Bortiką aiškina kaip vyrą, apsiginklavusį šoviniais, arba šaulį."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -120,6 +120,6 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
     - t-003

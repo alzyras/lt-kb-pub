@@ -59,7 +59,7 @@ Nenurodyta
     - c-177037
 
 <a id="claim-t-194640"></a>
-- t-003
+- t-002
   teiginys: "Šį gėrimą mini padavimai, o senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo niams tai esąs labai stiprinantis dalykas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-177038
 
 <a id="claim-t-197271"></a>
-- t-004
+- t-003
   teiginys: "(Kad aš gyvenčiau turtingas ir kad savo darbais nusipelnyčiau gyventi laimingoje šalyje, kur geria baltą gėrimą iš aukso ragų kartu su dievais, semdami jį iš švento kubilo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-172671
 
 <a id="claim-t-197272"></a>
-- t-005
+- t-004
   teiginys: "Degintą degtinę su medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -109,11 +109,11 @@ Nenurodyta
     kur geria baltą gėrimą iš aukso ragų kartu su dievais,
     semdami jį iš švento kubilo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
 
 ## Citatos
 
@@ -141,7 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177037
   autorius: "Teodoras Narbutas"
@@ -164,7 +164,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-177038
   autorius: "Teodoras Narbutas"
@@ -183,4 +183,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 ## Teiginiai
 
 <a id="claim-t-58890"></a>
-- t-002
+- t-001
   teiginys: "Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
     - c-59523
 
 <a id="claim-t-58891"></a>
-- t-001
+- t-002
   teiginys: "Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167384
   autorius: "Petras Dusburgietis"
@@ -105,4 +105,4 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

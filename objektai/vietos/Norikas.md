@@ -7,13 +7,13 @@ datos:
   - '477 m.'
 date_start: '477'
 date_end: ''
-amziai:
-  - 'V'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
+amziai:
+  - 'V'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -114,20 +114,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175597
-- susijęs iš [[objektai/asmenys/Febanas.md#claim-t-191395|Febanas]]: Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus Norike ir žuvo kautynėse su Odoakru.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192408|Herulai]]: Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
-- susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
-- susijęs iš [[objektai/ivykiai/Odoakro 486 m. žygis prieš rugius Norike.md#claim-t-191069|Odoakro 486 m. žygis prieš rugius Norike]]: Narbutas pasakoja, kad 486 m. Odoakras, Norike engiamų sąjungininkų paprašytas pagalbos, nugalėjo rugius, o jų karalius Febanas žuvo kautynėse.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
-- susijęs iš Juvava: 477 m. herulai sudegino romėnų koloniją Juvavą prie Saurus upės, kurią Narbutas tapatina su Zalcburgu prie Zalcacho.
-- susijęs iš Rugilandija: Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192409|Herulai]]: Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-192408|Herulai]]: Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.'
@@ -142,11 +129,11 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
     tis karalius nusižemino ir sudarė sąjungą, kokios iš jo
     reikalavo Odoakras.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
 
 ## Citatos
 

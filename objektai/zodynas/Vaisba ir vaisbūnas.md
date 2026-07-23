@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06181"></a>
-- t-004
+- t-001
   teiginys: "Žodis „vaisbūnas“ reiškia pirklį."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-00296
 
 <a id="claim-t-06182"></a>
-- t-003
+- t-002
   teiginys: "Žodis „vaisba“ reiškia prekybą."
   atnaujinta: "2026-06-14 10:15"
   sprendimo_priezastis: "auto"
@@ -99,5 +99,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

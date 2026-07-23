@@ -78,10 +78,10 @@ Nenurodyta
     sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
     davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -103,11 +103,10 @@ Nenurodyta
     kankamai faktų ir, jais remdamiesi, atskleidėme ne vieną
     istorinę tiesą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174970

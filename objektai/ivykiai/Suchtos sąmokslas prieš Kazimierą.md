@@ -8,13 +8,13 @@ datos:
   - '1453 m.'
 date_start: '1444'
 date_end: '1453'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - konfliktas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -100,7 +100,7 @@ Nenurodyta
     - c-169965
 
 <a id="claim-t-186754"></a>
-- t-005
+- t-003
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošo pasakojimas apie Suchtą laikomas tautosakinio pobūdžio."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -216,4 +216,4 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-005
+    - t-003

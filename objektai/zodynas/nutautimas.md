@@ -31,7 +31,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 ## Teiginiai
 
 <a id="claim-t-100285"></a>
-- t-003
+- t-001
   teiginys: "Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     - c-94127
 
 <a id="claim-t-100286"></a>
-- t-001
+- t-002
   teiginys: "SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     - c-94127
 
 <a id="claim-t-100287"></a>
-- t-002
+- t-003
   teiginys: "Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +88,8 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002
 
 - id: c-94129
   redaktorius: "A. Šapoka"
@@ -112,4 +112,4 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

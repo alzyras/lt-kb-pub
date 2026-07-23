@@ -9,16 +9,16 @@ datos:
   - '1191 m.'
 date_start: '1190'
 date_end: '1191'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - popiežius
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     - c-64623
 
 <a id="claim-t-63622"></a>
-- t-003
+- t-002
   teiginys: "Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,8 +72,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167469
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183885|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Švabijos kunigaikštis Fridrichas prašė Vokietijos karaliaus Henriko tarpininkauti popiežiaus kurijoje.'
@@ -175,4 +174,4 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

@@ -44,6 +44,7 @@ media_all_json: |-
   citata_rodoma: "sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

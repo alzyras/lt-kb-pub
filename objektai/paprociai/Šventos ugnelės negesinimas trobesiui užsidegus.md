@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67247"></a>
-- t-004
+- t-001
   teiginys: "Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -64,9 +64,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10051
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -87,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

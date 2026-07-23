@@ -7,7 +7,7 @@ variantai:
   - 'plako'
   - 'plaką'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - ūkio-įrankis
@@ -91,6 +91,7 @@ Nenurodyta
   citata_rodoma: "Kraudami vežimą taip pat paduodavo šieną plakais: po vieną plaką ant keturių ragų (kerčių), po vieną ant dviejų šonų, iš viso šeši plakai, tai viena eilė."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

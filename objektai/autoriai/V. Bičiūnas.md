@@ -39,7 +39,7 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 ## Teiginiai
 
 <a id="claim-t-34854"></a>
-- t-002
+- t-001
   teiginys: "V. Bičiūno pastabos ir komentarai padėjo skaitytojams suprasti „Likimo kelių“ autoriaus intencijas, tikslą ir veikalo idėją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
     - c-36079
 
 <a id="claim-t-34855"></a>
-- t-001
+- t-002
   teiginys: "V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-36080
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -106,4 +106,4 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

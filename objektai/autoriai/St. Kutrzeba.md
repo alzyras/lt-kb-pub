@@ -49,12 +49,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata palaiko pilną faktą apie autoriaus publikaciją."
   pagrindžia:
     - c-94033
-- susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
-- susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54147|prof. dr. St. Kutrzeba]]: St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
-- susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54148|prof. dr. St. Kutrzeba]]: Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
-- susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
-- susijęs iš Akta unji: „Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.
-- susijęs iš [[objektai/autoriai/Kutrzeba.md#claim-t-96054|Kutrzeba]]: St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
+
 ## Citatos
 
 - id: c-94033

@@ -53,8 +53,7 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vingrių šaltinio vietą."
   pagrindžia:
     - c-82294
-- susijęs iš [[objektai/posakiai/Vendimus abscedimus, et resignamus.md#claim-t-86875|Vendimus abscedimus, et resignamus]]: Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis.
-- susijęs iš Vilija: Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.
+
 ## Citatos
 
 - id: c-82294

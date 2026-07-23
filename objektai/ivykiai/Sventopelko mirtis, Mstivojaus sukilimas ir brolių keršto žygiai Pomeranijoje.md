@@ -7,13 +7,13 @@ datos:
   - '1299 m.'
 date_start: '1299'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62925"></a>
-- t-002
+- t-001
   teiginys: "Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Nenurodyta
     - c-63797
 
 <a id="claim-t-62926"></a>
-- t-001
+- t-002
   teiginys: "1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -138,8 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 - id: c-63799
   autorius: "Petras Dusburgietis"

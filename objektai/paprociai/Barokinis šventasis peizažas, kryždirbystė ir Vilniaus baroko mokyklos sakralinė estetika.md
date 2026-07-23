@@ -74,7 +74,7 @@ Nenurodyta
     - c-67105
 
 <a id="claim-t-67057"></a>
-- t-003
+- t-002
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,4 +121,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

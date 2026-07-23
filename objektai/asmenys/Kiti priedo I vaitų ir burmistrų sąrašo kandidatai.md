@@ -36,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87349"></a>
-- t-007
+- t-001
   teiginys: "Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ media_all_json: |-
     - c-83331
 
 <a id="claim-t-87350"></a>
-- t-004
+- t-002
   teiginys: "1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ media_all_json: |-
     - c-83333
 
 <a id="claim-t-87352"></a>
-- t-005
+- t-003
   teiginys: "Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ media_all_json: |-
     - c-83329
 
 <a id="claim-t-87353"></a>
-- t-002
+- t-004
   teiginys: "Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ media_all_json: |-
     - c-83332
 
 <a id="claim-t-87354"></a>
-- t-006
+- t-005
   teiginys: "Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ media_all_json: |-
     - c-83330
 
 <a id="claim-t-87355"></a>
-- t-001
+- t-006
   teiginys: "Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +142,7 @@ media_all_json: |-
     - c-83328
 
 <a id="claim-t-194231"></a>
-- t-008
+- t-007
   teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -183,7 +183,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-006
 
 - id: c-83329
   autorius: "Michał Baliński"
@@ -209,7 +209,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-83330
   autorius: "Michał Baliński"
@@ -227,7 +227,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-83331
   autorius: "Michał Baliński"
@@ -262,7 +262,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-83332
   autorius: "Michał Baliński"
@@ -279,7 +279,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-83333
   autorius: "Michał Baliński"
@@ -313,5 +313,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-008
+    - t-002
+    - t-007

@@ -39,7 +39,7 @@ Vartojamos formos: `dabos`.
 ## Teiginiai
 
 <a id="claim-t-69994"></a>
-- t-004
+- t-001
   teiginys: "Daba minima greta būdo ir tikybos kaip bruožas, kuriuo lietuviai esą buvo panašūs į indijonis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Vartojamos formos: `dabos`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09674
-- susijęs iš Žalioji giria: Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.
+
 ## Citatos
 
 - id: c-09674
@@ -68,4 +68,4 @@ Vartojamos formos: `dabos`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

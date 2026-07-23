@@ -47,7 +47,6 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-00116
@@ -63,6 +62,3 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/K. Masiliūnas.md#claim-t-00009|K. Masiliūnas (viceministeris)]]: K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.

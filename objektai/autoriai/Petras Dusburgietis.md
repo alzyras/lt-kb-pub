@@ -11,11 +11,6 @@ datos:
   - '1326 m.'
 date_start: '1259'
 date_end: '1326'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,6 +18,11 @@ tags:
   - karalius
   - ordinas
   - kunigas
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +45,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 ## Teiginiai
 
 <a id="claim-t-181459"></a>
-- t-012
+- t-001
   teiginys: "Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165014
 
 <a id="claim-t-181460"></a>
-- t-009
+- t-002
   teiginys: "Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165019
 
 <a id="claim-t-181462"></a>
-- t-010
+- t-003
   teiginys: "Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165017
 
 <a id="claim-t-181464"></a>
-- t-006
+- t-004
   teiginys: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-181467"></a>
-- t-015
+- t-005
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-181468"></a>
-- t-016
+- t-006
   teiginys: "Petras iš Dusburgo rašė, kad į knygą sudėjo Ordino brolių karus ir užbaigė ją 1326 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -136,7 +136,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165019
 
 <a id="claim-t-181469"></a>
-- t-013
+- t-007
   teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-181470"></a>
-- t-024
+- t-008
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-42455
 
 <a id="claim-t-181471"></a>
-- t-020
+- t-009
   teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,7 +185,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165011
 
 <a id="claim-t-181472"></a>
-- t-019
+- t-010
   teiginys: "Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,7 +204,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165020
 
 <a id="claim-t-181474"></a>
-- t-022
+- t-011
   teiginys: "Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -220,7 +220,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-42456
 
 <a id="claim-t-181476"></a>
-- t-023
+- t-012
   teiginys: "Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -237,7 +237,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165018
 
 <a id="claim-t-183995"></a>
-- t-025
+- t-013
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -256,7 +256,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-188460"></a>
-- t-021
+- t-014
   teiginys: "Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -268,7 +268,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171351
 
 <a id="claim-t-188461"></a>
-- t-001
+- t-015
   teiginys: "Narbutas aiškino, kad Dusburgietis vyriausiąjį žynį prilygino popiežiui, bet tokį palyginimą laikė menkai tinkamu dalykui pažinti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -287,7 +287,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171351
 
 <a id="claim-t-188462"></a>
-- t-002
+- t-016
   teiginys: "Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -308,9 +308,9 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-177068
 
 <a id="claim-t-188463"></a>
-- t-003
+- t-017
   teiginys: "Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-23 20:08"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -326,10 +326,9 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.76)"
   pagrindžia:
     - c-171353
-    - c-177068
 
 <a id="claim-t-188465"></a>
-- t-026
+- t-018
   teiginys: "Narbutas svarstė, kad Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba jo tekstas apie krivį galėjo būti nepilnas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -349,7 +348,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171355
 
 <a id="claim-t-188467"></a>
-- t-027
+- t-019
   teiginys: "Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -369,7 +368,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171357
 
 <a id="claim-t-188468"></a>
-- t-028
+- t-020
   teiginys: "Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -389,7 +388,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171358
 
 <a id="claim-t-190777"></a>
-- t-029
+- t-021
   teiginys: "Teodoro Narbuto pasakojime Petras Dusburgietis minėjo Sūduvos valsčių Kirsowia, arba Kirsnavą, tarp Olecko ir Raigardo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -409,7 +408,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-173659
 
 <a id="claim-t-194449"></a>
-- t-030
+- t-022
   teiginys: "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -422,7 +421,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165013
 
 <a id="claim-t-194671"></a>
-- t-031
+- t-023
   teiginys: "Vos šimtas metų buvo praėję nuo kryžiuočių atsi kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė savo kroniką didžiajam."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -435,7 +434,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-177068
 
 <a id="claim-t-197006"></a>
-- t-032
+- t-024
   teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -448,7 +447,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-197007"></a>
-- t-033
+- t-025
   teiginys: "Petras Dusburgietis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei būsimosioms kartoms pamokyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -461,7 +460,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165013
 
 <a id="claim-t-197328"></a>
-- t-034
+- t-026
   teiginys: "Petras Dusburgietis globojo Platelių valsčių, kuriame ir buvusi toji legendinė pilis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -474,7 +473,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171349
 
 <a id="claim-t-197329"></a>
-- t-035
+- t-027
   teiginys: "Petras Dusburgietis persikėlė į apsišvietusią šalį, tai yra į Indiją, kur braminai skleidė vietinį, arba vien tik savo kraštui būdingą, tikėjimą, kadangi, pasak jų, žmogus, miręs nepašlakstytas šventųjų upių vandeniu, negalįs būti išganytas; Budhos sektos šalininkai su šituo nesutinka, kitaip sakant, leidžia laikyti vandenį šventu kiekvienoje šalyje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -487,7 +486,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171351
 
 <a id="claim-t-197330"></a>
-- t-036
+- t-028
   teiginys: "Petras Dusburgietis mokėjo prūsų ir žemaičių kalbą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -499,7 +498,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-179134
 
 <a id="claim-t-197331"></a>
-- t-037
+- t-029
   teiginys: "Petras Dusburgietis paskutinis vyriausiasis žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkūno šventykla; tai įvyko praėjus 69 metams po minėtosios datos, todėl turėjo būti jau labai senas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -511,7 +510,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171352
 
 <a id="claim-t-197332"></a>
-- t-038
+- t-030
   teiginys: "Petras Dusburgietis buvusi turto deivė arba ir jo dovanotoja."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -521,183 +520,223 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179135
-- susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175145|M. Perlbachas]]: M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.
-- susijęs iš [[objektai/autoriai/M. Poliakuvna.md#claim-t-64726|M. Poliakuvna]]: M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.
-- susijęs iš [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.).md#claim-t-59643|Akono (Akros) žlugimas (1291 m.)]]: Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.
-- susijęs iš Akonas: Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją.
-- susijęs iš Jeruzalė: Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89827|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Petras Dusburgietis Hermaną iš Zalcos apibūdino kaip iškalbingą, mandagų, išmintingą, apdairų, atsargų ir garbingą.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89922|Konradas, vardu Divelis]]: Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.
-- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63916|Martynas iš Golino]]: Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59825|Skomantas]]: Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Tarkvinijus.md#claim-t-60445|Tarkvinijus]]: Petras Dusburgietis Tarkvinijų mini kaip žiaurų daugelio kankinimo būdų sumanytoją.
-- susijęs iš [[objektai/asmenys/Tropas.md#claim-t-60449|Tropas]]: Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.
-- susijęs iš [[objektai/asmenys/Ulrichas iš Magdeburgo.md#claim-t-60214|Ulrichas iš Magdeburgo]]: Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102850|Dusburgas]]: Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178793|Kryžiuočių ordinas]]: Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178996|Kryžiuočių ordinas]]: Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179091|Kryžiuočių ordinas]]: Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183883|Kryžiuočių ordinas]]: Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais.
-- susijęs iš [[objektai/posakiai/Eime, sakė, išnaikinsime juos.md#claim-t-184027|Eime, sakė, išnaikinsime juos]]: Petras Dusburgietis posakį „Eime, sakė, išnaikinsime juos“ sieja su Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupėjais.
-- susijęs iš [[objektai/posakiai/Eime, sakė, išnaikinsime juos.md#claim-t-59091|Eime, sakė, išnaikinsime juos]]: Petras Dusburgietis posakį „Eime, sakė, išnaikinsime juos“ sieja su Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupėjais.
-- susijęs iš [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.md#claim-t-59097|Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]: Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.
-- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89583|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
-- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
-- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
-- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89586|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
-- susijęs iš [[objektai/posakiai/Maldininke, nuramink žęmę.md#claim-t-184036|Maldininke, nuramink žęmę]]: Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“.
-- susijęs iš [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs.md#claim-t-59127|Man liūdna, kad mano mielieji sūnūs]]: Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.
-- susijęs iš [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen.md#claim-t-103453|Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]: Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.
-- susijęs iš [[objektai/posakiai/apreikšti dievo darbus yra šlovinga.md#claim-t-184024|apreikšti dievo darbus yra šlovinga]]: Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš [[objektai/posakiai/apreikšti dievo darbus yra šlovinga.md#claim-t-59074|apreikšti dievo darbus yra šlovinga]]: Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-184032|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
-- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-59109|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
-- susijęs iš [[objektai/posakiai/moteriškos vilionės palaužė stiprųjį Samsoną.md#claim-t-59133|moteriškos vilionės palaužė stiprųjį Samsoną]]: Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.
-- susijęs iš [[objektai/posakiai/nesibaiminkite visokeriopų vargų.md#claim-t-59138|nesibaiminkite visokeriopų vargų]]: Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei.
-- susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-184040|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.
-- susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-89605|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.
-- susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-89606|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.
-- susijęs iš [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje.md#claim-t-89607|stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]: Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.
-- susijęs iš [[objektai/posakiai/težino vienas dievas.md#claim-t-59160|težino vienas dievas]]: Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.
-- susijęs iš [[objektai/posakiai/šio šventojo žygio atminimas.md#claim-t-59173|šio šventojo žygio atminimas]]: Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas.
-- susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
-- susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
-- susijęs iš Kristmemelis: Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno.
-- susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
-- susijęs iš Santyras: Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
-- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
-- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
-- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
-- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
-- susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58845|atsimetėliai naujakrikščiai atsimetėliai]]: Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais.
-- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-184001|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
-- susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58808|atskalūnybė atskalūnai]]: Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
-- susijęs iš [[objektai/zodynas/terra žemė.md#claim-t-58872|terra žemė]]: Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus.
-- susijęs iš [[objektai/zodynas/tikybos ir bažnyčios priešai.md#claim-t-58938|tikybos ir bažnyčios priešai]]: Petras Dusburgietis Prūsijoje vykusį karą vaizdavo kaip kovą prieš „tikybos ir bažnyčios priešus“.
-- susijęs iš [[objektai/zodynas/viešpaties darbas opus domini.md#claim-t-58939|viešpaties darbas opus domini]]: Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.
-- susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-184020|viešpaties dievo kariuomenė dievo tauta]]: Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.
-- susijęs iš [[objektai/zodynas/viešpaties karas.md#claim-t-58941|viešpaties karas]]: Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.
-- susijęs iš [[objektai/zodynas/šventasis žygis.md#claim-t-58943|šventasis žygis]]: Petras Dusburgietis 1326 m. užbaigė kroniką, kad būsimoms kartoms liktų šventojo žygio atminimas.
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
-      Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
-    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais.
+    Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-007
+
+- c-005
+  santrauka: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
+    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
+    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
+    ekonominę Lietuvos blokadą. Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos
+    sąjunga buvo atnaujinta47.
+    Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
+    aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
+    ir daugelyje kitų [vietų].
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    PRŪSIJOS ŽEMĖS
-       KRONIKA
-
-    Dedikacija
-
-         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
-    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
-    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
     būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
     apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-181467
-    - t-183995
-    - t-194449
+  statusas: verified
+- t-005
+    - t-019
+    - t-030
+    - t-033
+
 - c-007
   santrauka: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
-    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
-    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
-    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
     jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
-      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
     bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
     lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
     klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-013
-  santrauka: 'Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: verified
+- c-008
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Paulius Varnefrydas, diako­
-    nas, rašantis apie langobardų praeitį, sako, kad pas herulus
-    matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad
-    tuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­
-    dinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais
-    drobiniais baltais ir dažytais rūbais, o vasarmečiu -  ir vyrai,
-    kaip liudija Petras Dusburgietis. Kitokių drabužių, išskyrus dro­
-    binius, nevilkėjo.
+    K. Požėlos spaustuvė, Kaunas
+
+
+    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
+            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
+                               Į ELEKTRONINĘ ERDVĘ“, 2013
+
+    TURINYS
+
+    Pratarmė                                           5
+    Petro Dusburgiečio kronika                            7
+    PRŪSIJOS ŽEMĖS KRONIKA                           32
+      Pirma knygos dalis                                                36
+      Antra knygos dalis                                                42
+       Trečia knygos dalis                                                52
+       Ketvirta knygos dalis (Apie įvykius)                                  225
+      Papildymas                                                     252
+    Bibliografija                                      259
+    Asmenvardžių rodyklė                              279
+    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
+
+    PETRI DE DUSBURG
+
+
+    CHRONICA TERRAE
+        PRUSSIAE
+
+    Lituanistinė biblioteka
+
+    Pratarmė
+
+
+
+      XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
+    sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
+    Europoje pasigirdo kritiškų balsų Ordino atžvilgiu. Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- c-015
-  santrauka: 'Narbutas aiškino, kad Dusburgietis vyriausiąjį žynį prilygino popiežiui, bet tokį palyginimą laikė menkai tinkamu dalykui pažinti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  statusas: verified
+- t-015
+    - t-003
+
+- c-009
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Toks didelis buvo jo au­
-    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
-    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
-    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
-    davo karalių, ponų ir prastuomenės didžios pagarbos.
-    Dusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­
-    nį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­
-    siasis krikščionių valdovas; tai mes ir pažymėjome. Tačiau tas
-    palyginimas kilo nežinant esmės, todėl mažai pritaikomas da­
-    lykui pažinti.
+    Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
+    kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
+    Jausdamasis per silpnas tokiam uždaviniui užbaigti, ypač dėl to, kad dabar gyvenantys
+    žmonės jau yra beveik užmiršę šiuos įvykius, žinodamas, kad nieko negaliu nuveikti
+    be dievo, nuolankiai tave, gerasis Jėzau, maldauju atskleisti visas paslaptis, ne tik
+    busimąsias, bet ir dabarties bei praeities, nes tu esi tikrasis išminties bei žinojimo lobynas.
+    Apšviesk savo dvasios malone man protą ir padaryk mane iškalbingą bei išmintingą, kad
+    negaišdamas užbaigčiau šį darbą, kad tie, kurie skaitys šiame veikale apie tavo didingus
+    ženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų,
+    kad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu,
+    dieve, kuris gyveni ir viešpatauji per amžių amžius.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
 - c-016
   santrauka: 'Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    286
-
-    ## Puslapis 286
-
-    sijusių su senąja religija arba jos tarnais ir viršininkais, papa­
-    sakota jiems geranoriškai. Nors šiems vienuoliams kryžiuo­
-    čiams, neliteratams, įdomiausi krašto senovės dalykai beveik
-    visai išbyrėjo iš galvos, nes jų istorijos rašytojas Dusburgietis
-    pats buvo griežtai cenzūruojamas, vis dėlto jie neabejotinai,
-    vien iš smalsumo, išsaugojo senųjų vyriausiųjų žynių sąrašą.
-    Pagaliau kam, praėjus daugeliui metų, būtų užėjęs noras iš­
-    galvoti tą tikrinių vardų eile?
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-037
 
+- c-018
+  santrauka: 'Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Seniausios žinios apie vyriausiojo žynio buvimą klausimas
+    labiau už kitus susijęs su kryžiuočių kronikininko Dusburgie-
+    eio pranešimu (dalis III. -  skyrius 5), kuriame taip sakoma
+    apie krivį: Fuit in medio nationis hujus perversae, scilicet in Nad-
+    rovia locus quidam, dictus Romow, trahens nomen suum a Ro­
+    ma, in quo habitabat quidam dictus Crive, quem colebant pro
+    Papa, quia sicut Dominus Papa regit universalem Ecclaesiam
+    fidelium, ita ad istius nutum seu mandatum non solum gentes
+    praedictae, sed et Litthovini et aliae nationes Livoniae terrae
+    regebantur. Tantae fuit auctoritatis, quod non solum ipse vel ali­
+    quis de sanguine sua, verum et nuntius cum baculo suo vel alio
+    signo nato transiens terminos infidelium praedictorum, a regi­
+    bus et nobilibus et communi populo, in magna reverentia habe-
+    409
+
+    ## Puslapis 409
+
+    retur (Šios klastingos tautos [gyvenamų žemių] viduryje, Nad-
+    ruvoje, buvo vieta, kurią vadino Romove, gavusi savo vardą
+    nuo Romos, o ten gyveno žmogus, vadinamas kriviu, kurį ger­
+    bė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne
+    tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenu­
+    sios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne
+    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
+    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
+    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
+    stuomenės pagarbos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-42455
@@ -727,7 +766,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-008
 
 - id: c-42456
   sudarytojas: "Karolis Zikaras"
@@ -742,7 +781,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-011
 
 - id: c-56023
   autorius: "Petras Dusburgietis"
@@ -779,7 +818,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-009
 
 - id: c-165012
   autorius: "Petras Dusburgietis"
@@ -823,8 +862,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-033
+    - t-022
+    - t-025
 
 - id: c-165014
   autorius: "Petras Dusburgietis"
@@ -845,8 +884,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-013
+    - t-001
+    - t-007
 
 - id: c-165017
   autorius: "Petras Dusburgietis"
@@ -869,7 +908,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-003
 
 - id: c-165018
   autorius: "Petras Dusburgietis"
@@ -895,7 +934,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-012
 
 - id: c-165019
   autorius: "Petras Dusburgietis"
@@ -919,8 +958,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-016
+    - t-002
+    - t-006
 
 - id: c-165020
   sudarytojas: "Karolis Zikaras"
@@ -949,7 +988,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-010
 
 - id: c-171349
   autorius: "Teodoras Narbutas"
@@ -970,7 +1009,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-026
 
 - id: c-171350
   autorius: "Teodoras Narbutas"
@@ -1021,10 +1060,10 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-001
-    - t-002
-    - t-035
+    - t-014
+    - t-015
+    - t-016
+    - t-027
 
 - id: c-171352
   autorius: "Teodoras Narbutas"
@@ -1051,7 +1090,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-029
 
 - id: c-171353
   autorius: "Teodoras Narbutas"
@@ -1071,7 +1110,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-017
 
 - id: c-171355
   autorius: "Teodoras Narbutas"
@@ -1096,7 +1135,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-018
 
 - id: c-171357
   autorius: "Teodoras Narbutas"
@@ -1124,7 +1163,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-019
 
 - id: c-171358
   autorius: "Teodoras Narbutas"
@@ -1146,7 +1185,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-020
 
 - id: c-173659
   autorius: "Teodoras Narbutas"
@@ -1173,7 +1212,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-021
 
 - id: c-177068
   autorius: "Teodoras Narbutas"
@@ -1199,9 +1238,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
-    - t-031
+    - t-016
+    - t-023
 
 - id: c-178999
   autorius: "Petras Dusburgietis"
@@ -1227,11 +1265,11 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-015
+    - t-004
+    - t-005
+    - t-007
     - t-013
-    - t-025
-    - t-032
+    - t-024
 
 - id: c-179134
   autorius: "Teodoras Narbutas"
@@ -1252,7 +1290,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-028
 
 - id: c-179135
   autorius: "Teodoras Narbutas"
@@ -1272,4 +1310,4 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-030

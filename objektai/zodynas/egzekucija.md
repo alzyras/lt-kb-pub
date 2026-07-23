@@ -73,21 +73,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175895
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173213|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui.
-- susijęs iš [[objektai/asmenys/T. Dalevskis.md#claim-t-40451|T. Dalevskis]]: T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.
-- susijęs iš [[objektai/grupes/Jakobinų klubas.md#claim-t-19717|Jakobinų klubas]]: Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-183209|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66435|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-183207|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų egzekucija Varšuvoje.
-- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
-- susijęs iš [[objektai/asmenys/Juozapas Kosakovskis.md#claim-t-19012|Juozapas Kosakovskis (vyskupas)]]: Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.
-- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20132|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: 1794 m. sukilimo kulminacija Lenkijoje ir Lietuvoje tapo kai kurių Targovicos konfederatų pakorimas Varšuvoje birželio 28 d.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-183329|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54325|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: 1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
-- susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54326|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Kai kurių Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
-- susijęs iš Lietuvos sukilėlių atsišaukimas į valstiečius (1794 m.): 1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę.
-- susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
-- susijęs iš Varšuva: Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną.
+
 ## Citatos
 
 - id: c-03221

@@ -5,7 +5,7 @@ sukurta: '2026-07-12'
 variantai:
   - 'kelnės'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - drabužis
@@ -81,7 +81,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Grigoras (našlys samdinys).md#claim-t-195543|Grigoras (našlys samdinys)]]: Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių.
-- susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195364|Piemenų samdymo ir apmokėjimo tvarka]]: Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa.

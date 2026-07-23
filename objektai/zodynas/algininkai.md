@@ -31,7 +31,7 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
 ## Teiginiai
 
 <a id="claim-t-185364"></a>
-- t-002
+- t-001
   teiginys: "Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
     - c-168725
 
 <a id="claim-t-196363"></a>
-- t-005
+- t-002
   teiginys: "Po Mengli Girėjaus įsiveržimo į Rusią iš žiemos stovyklų buvo skubiai iškviesti algininkai, o Lanckoronskiui pavesta atremti grėsmę valstybei."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-168725
@@ -126,7 +125,7 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -159,4 +158,4 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

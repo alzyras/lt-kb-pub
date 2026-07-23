@@ -53,7 +53,7 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie draugijos veiksmą ir remiasi citata."
   pagrindžia:
     - c-42892
-- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
+
 ## Citatos
 
 - id: c-42892

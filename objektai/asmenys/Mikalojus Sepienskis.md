@@ -56,8 +56,7 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Mikalojaus Sepienskio vaidmenį ir yra paremtas citata."
   pagrindžia:
     - c-28948
-- susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
-- susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
+
 ## Citatos
 
 - id: c-28948

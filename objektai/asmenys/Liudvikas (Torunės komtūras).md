@@ -50,7 +50,7 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
     - c-169424
 
 <a id="claim-t-186065"></a>
-- t-003
+- t-002
   teiginys: "Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,6 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169424
@@ -138,4 +137,4 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

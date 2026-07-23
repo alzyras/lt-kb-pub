@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09593"></a>
-- t-008
+- t-001
   teiginys: "Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -56,7 +56,7 @@ Nenurodyta
     - c-12346
 
 <a id="claim-t-09594"></a>
-- t-005
+- t-002
   teiginys: "Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -65,7 +65,7 @@ Nenurodyta
     - c-12347
 
 <a id="claim-t-09595"></a>
-- t-006
+- t-003
   teiginys: "Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-12348
 
 <a id="claim-t-09596"></a>
-- t-007
+- t-004
   teiginys: "Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-12346
   sudarytojas: "Karolis Zikaras"
@@ -118,7 +118,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-12347
   sudarytojas: "Karolis Zikaras"
@@ -140,7 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-12348
   sudarytojas: "Karolis Zikaras"
@@ -162,4 +162,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003

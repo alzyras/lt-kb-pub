@@ -56,9 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir atitinka citatos informaciją apie 1563 m. atstovavimą."
   pagrindžia:
     - c-83747
-- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Zenonas Zažeckis.md#claim-t-87891|Zenonas Zažeckis]]: 1563 m. Vilniaus burmistras Zenonas Zažeckis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Varšuvos seime.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
+
 ## Citatos
 
 - id: c-83747

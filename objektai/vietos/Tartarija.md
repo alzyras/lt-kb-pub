@@ -48,14 +48,7 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175672
-- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191539|Gotthardas Friedrichas Stenderis]]: Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192365|Alanai]]: Narbuto perpasakotoje keliautojų istorijoje kelias į Livoniją ėjo per venedų ir alanų žemes.
-- susijęs iš [[objektai/grupes/Roksolanai.md#claim-t-192943|Roksolanai]]: Teodoro Narbuto perpasakotame padavime keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192469|Slavai]]: Narbutas perpasakojo legendą, kurioje keliautojai per slavų Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192480|Venedai]]: Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją.
-- susijęs iš Livonija: Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją.
-- susijęs iš Roksolanija: Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją.
+
 ## Citatos
 
 - id: c-175672

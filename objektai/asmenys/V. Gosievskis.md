@@ -56,9 +56,7 @@ Gosievskio pajėgas.
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir neturi savarankiško fakto."
   pagrindžia:
     - c-41623
-- susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80673|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.
-- susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80675|Kėdainių unija (1655 m. spalio 20 d.)]]: Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.
-- susijęs iš Lojevas: V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti.
+
 ## Citatos
 
 - id: c-41623

@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75191"></a>
-- t-002
+- t-001
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Nenurodyta
     - c-73068
 
 <a id="claim-t-75192"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos pirmininkavimas ES vertintas kaip galimybė priminti pasauliui Lietuvos praeitį ir jos vietą Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-73068
 
 <a id="claim-t-75193"></a>
-- t-001
+- t-003
   teiginys: "2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citatoje kalbama apie būsimą pareigą, todėl teiginys patikslintas pagal šaltinio formuluotę."
   pagrindžia:
     - c-73068
-- susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-54363|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: 2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.
+
 ## Citatos
 
 - id: c-73068
@@ -132,9 +132,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
-    - t-001
 
 - id: c-73069
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -180,6 +180,7 @@ Nenurodyta
   citata_rodoma: "skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

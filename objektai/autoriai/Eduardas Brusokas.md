@@ -52,7 +52,7 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas biografinis sakinys ir tiksliai paremtas citata."
   pagrindžia:
     - c-41647
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-41647

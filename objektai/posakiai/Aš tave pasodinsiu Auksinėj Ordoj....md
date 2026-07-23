@@ -40,7 +40,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 ## Teiginiai
 
 <a id="claim-t-67256"></a>
-- t-002
+- t-001
   teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     - c-14557
 
 <a id="claim-t-67257"></a>
-- t-001
+- t-002
   teiginys: "Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-14556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -125,4 +125,4 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

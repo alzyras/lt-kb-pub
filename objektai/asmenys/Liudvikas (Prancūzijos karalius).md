@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 ## Teiginiai
 
 <a id="claim-t-60049"></a>
-- t-003
+- t-001
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     - c-60682
 
 <a id="claim-t-60050"></a>
-- t-001
+- t-002
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     - c-60681
 
 <a id="claim-t-194502"></a>
-- t-005
+- t-003
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,8 +111,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-60682
   autorius: "Petras Dusburgietis"
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-60683
   autorius: "Petras Dusburgietis"
@@ -149,6 +149,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   citata_rodoma: "Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­\n                      kų, patraukusių vaduoti šventosios žemės\n\n  1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė\nsu dviem savo sūnumis ir daugybe kunigaikščių  į žygį, ketindamas išvaduoti šventąją\nžemę, tačiau kelyje numirė jis pats, vienas jo sūnus ir daug kitų vyrų. Ilgai meldęsis,\nšis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo\nšventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

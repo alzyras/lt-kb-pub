@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo dviejų sakinių, todėl sutrauktas į vieną aiškų sakinį."
   pagrindžia:
     - c-75221
-- susijęs iš Ispanija: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.
+
 ## Citatos
 
 - id: c-75221

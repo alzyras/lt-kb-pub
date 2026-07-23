@@ -14,12 +14,12 @@ aliases:
   - 'objektai/saltiniai/Ipatijaus metraštis'
 variantai:
   - 'Ipatijaus metraštis'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 ## Teiginiai
 
 <a id="claim-t-191918"></a>
-- t-003
+- t-001
   teiginys: "Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
     - c-174800
 
 <a id="claim-t-191919"></a>
-- t-004
+- t-002
   teiginys: "Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
     - c-174801
 
 <a id="claim-t-193594"></a>
-- t-005
+- t-003
   teiginys: "Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
     - c-176269
 
 <a id="claim-t-197670"></a>
-- t-006
+- t-004
   teiginys: "Tad Danielius, palikęs Nebrą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems jotvingiam sK itais metais jotvingių grėsmė iškilo Ru siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga turėjo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -117,24 +117,6 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174596
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Hipatijaus, arba Voluinės, metraščiu grindė žinią, kad Rostislavas Riurikovičius užkariavo Romano valdas prie Kamenės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Romano valdas prie Kamenės užkariavo Rostislavas Riurikovi-
-    čius (Hipatijaus, arba Voluinės, metraštis (spausdintas). P. 149). Iš
-    visko matyti, jog kalbama apie Kamenę,
-    esančią
-    greta
-    Lietuvos
-    Brastos*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
 
 ## Citatos
 
@@ -160,7 +142,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-174800
   autorius: "Teodoras Narbutas"
@@ -187,7 +169,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-174801
   autorius: "Teodoras Narbutas"
@@ -210,7 +192,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-176269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -229,4 +211,4 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

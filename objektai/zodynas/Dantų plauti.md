@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'Dantų plauti'
 sukurta: '2026-07-12'
 variantai:
-  - '„dantų plauti“'
-  - 'dantis plauti'
+  - „dantų plauti“
+  - dantis plauti
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -54,7 +54,7 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
 ## Teiginiai
 
 <a id="claim-t-195634"></a>
-- t-002
+- t-001
   teiginys: "„Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -96,4 +96,4 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -60,8 +60,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174255
-- susijęs iš [[objektai/asmenys/Sekalas.md#claim-t-191463|Sekalas]]: Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį.
-- susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
+
 ## Citatos
 
 - id: c-174255

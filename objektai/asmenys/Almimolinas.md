@@ -46,8 +46,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   semantiniai_rysiai: "Almimolinas keliavo į Ispanija (0.94)"
   pagrindžia:
     - c-60867
-- susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
-- susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
+
 ## Citatos
 
 - id: c-60867

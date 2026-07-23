@@ -93,9 +93,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Lietuvos okupacinio valdymo pakeitimą."
   pagrindžia:
     - c-166661
-- susijęs iš Rytų kraštas (Ostlandas): 1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
-- susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74876|Nacių Vokietija]]: 1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.
-- susijęs iš Vokietija: Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.
+
 ## Citatos
 
 - id: c-23195

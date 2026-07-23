@@ -79,7 +79,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
     - c-172947
 
 <a id="claim-t-190851"></a>
-- t-004
+- t-003
   teiginys: "Dionizas Paškevičius savo rinkinyje turėjo urną, panašią į Žemaitijos kapavietėse rastas urnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
     - c-173733
 
 <a id="claim-t-190852"></a>
-- t-005
+- t-004
   teiginys: "Narbutas rėmėsi Kajetono Niezabitowskio straipsniu apie Dionizo Paškevičiaus Žemaitijos senienų rinkinį, paskelbtu „Dziennik Wilenski“ 1823 m."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -114,11 +114,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   pagrindžia:
     - c-173733
     - c-173734
-- susijęs iš [[objektai/autoriai/Praleisti nelaikyti saugiais autoriais.md#claim-t-190448|Praleisti nelaikyti saugiais autoriais]]: Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.
-- susijęs iš Bardžių dvaras: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms.
-- susijęs iš Nočia: Narbutas rašo, kad prie Nočios miestelio atsitiktinai atkastame kape rastas akmeninis kirvukas iš kietos geležies.
-- susijęs iš Žemaitija: Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.
-- susijęs iš Žemaitija: Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ši lietuvių gentis.'
@@ -204,8 +200,8 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-005
 
 - id: c-173734
   autorius: "Teodoras Narbutas"
@@ -224,4 +220,4 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

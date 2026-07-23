@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Poterėliai'
 sukurta: '2026-07-12'
 variantai:
-  - 'poterėliais'
+  - poterėliais
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -82,6 +82,7 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­\ndindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­\npa. Pagavus duonos gabalėlį tuoj pro duris."
   statusas: verified
   atnaujinta: "2026-07-12 08:53"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

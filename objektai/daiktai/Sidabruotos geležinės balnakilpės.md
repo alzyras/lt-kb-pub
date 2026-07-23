@@ -72,9 +72,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
-- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71559|Dviašmenis kalavijas]]: X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
-- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
-- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.

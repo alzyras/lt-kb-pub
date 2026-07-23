@@ -44,7 +44,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02908
-- susijęs iš Paragvajus: Paragvajaus atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.
+
 ## Citatos
 
 - id: c-02908

@@ -109,6 +109,7 @@ Nenurodyta
   citata_rodoma: "Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po\n1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;\nPowierski J. Przekaz..., p. 409—410)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

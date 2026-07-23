@@ -54,8 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko tik atsargiai atribotą teiginį apie autoriaus vaizdinį."
   pagrindžia:
     - c-75358
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
+
 ## Citatos
 
 - id: c-75358

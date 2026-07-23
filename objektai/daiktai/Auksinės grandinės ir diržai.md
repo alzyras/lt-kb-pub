@@ -7,13 +7,13 @@ datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - papuošalas
   - daiktas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

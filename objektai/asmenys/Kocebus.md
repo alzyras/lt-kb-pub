@@ -7,14 +7,14 @@ datos:
   - '1246 m.'
 date_start: '1246'
 date_end: ''
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,15 +87,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179332
-- susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191174|Augustas Friderikas Kocebu]]: Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų.
-- susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-191568|Augustas fon Kocebus]]: Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle.
-- susijęs iš [[objektai/autoriai/Augustas fon Kocebus.md#claim-t-192520|Augustas fon Kocebus]]: Kocebaus darbe Narbutas nurodė 1246 m. sutartį kaip seniausią jam žinomą liudijimą apie dingusios Sambijos dalies egzistavimą.
-- susijęs iš [[objektai/daiktai/Gintaras.md#claim-t-192494|Gintaras]]: Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle.
-- susijęs iš [[objektai/posakiai/gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas.md#claim-t-193003|gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas]]: Narbutas pasakojimą, kad „gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas“, mini kaip senovės spėlionę apie gintaro kilmę.
-- susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
-- susijęs iš 1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje: Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią Sambijos dalį, susijusią su Liubeko gyventojų valdomis.
-- susijęs iš Vitlandija: Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius.
-- susijęs iš [[objektai/posakiai/poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai.md#claim-t-192120|poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai]]: Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalbėdamas apie gintaro kilmę.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku.'
@@ -115,11 +107,10 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
     kaip pasakė Kocebus); tiksliai tai padaryti sunku. Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174232

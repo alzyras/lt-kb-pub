@@ -39,7 +39,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07677"></a>
-- t-004
+- t-001
   teiginys: "Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -62,7 +62,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-09609
   autorius: "Simonas Daukantas"
@@ -73,6 +73,7 @@ Papildomos aiškios formos neišskirtos.
   citata_rodoma: "Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

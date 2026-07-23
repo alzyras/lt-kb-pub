@@ -62,18 +62,7 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175921
-- susijęs iš Dusburgo kronika apie Prieglių arba Lipsą: Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenburgo apylinkėmis, o kitoje kronikoje vadinama Lentzinburg.
-- susijęs iš Raseinių apskritis: Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas.
-- susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-188290|Pamedėnai]]: Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
-- susijęs iš Luko Davido kronika: Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.
-- susijęs iš Lietuva: Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.
-- susijęs iš Lietuva: Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.
-- susijęs iš Natangija: Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.
-- susijęs iš Upytės apskritis: Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi.
-- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
-- susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
+
 ## Citatos
 
 - id: c-171871

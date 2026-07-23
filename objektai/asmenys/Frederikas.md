@@ -49,15 +49,7 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174085
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/asmenys/Febanas.md#claim-t-191395|Febanas]]: Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus Norike ir žuvo kautynėse su Odoakru.
-- susijęs iš [[objektai/ivykiai/Odoakro 486 m. žygis prieš rugius Norike.md#claim-t-191069|Odoakro 486 m. žygis prieš rugius Norike]]: Narbutas pasakoja, kad 486 m. Odoakras, Norike engiamų sąjungininkų paprašytas pagalbos, nugalėjo rugius, o jų karalius Febanas žuvo kautynėse.
-- susijęs iš Norikas: Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš Pavija: Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
+
 ## Citatos
 
 - id: c-174085

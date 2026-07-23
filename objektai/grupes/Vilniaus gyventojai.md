@@ -40,7 +40,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 ## Teiginiai
 
 <a id="claim-t-86689"></a>
-- t-003
+- t-001
   teiginys: "Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82668
 
 <a id="claim-t-86690"></a>
-- t-007
+- t-002
   teiginys: "Vilniaus gyventojai teigė, kad gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82674
 
 <a id="claim-t-86691"></a>
-- t-005
+- t-003
   teiginys: "Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82670
 
 <a id="claim-t-86692"></a>
-- t-002
+- t-004
   teiginys: "Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82669
 
 <a id="claim-t-86693"></a>
-- t-008
+- t-005
   teiginys: "Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,7 +137,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82673
 
 <a id="claim-t-86695"></a>
-- t-001
+- t-007
   teiginys: "Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82675
 
 <a id="claim-t-86696"></a>
-- t-004
+- t-008
   teiginys: "Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,17 +168,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   semantiniai_rysiai: "Vilniaus gyventojai gyveno Vilnius (0.70)"
   pagrindžia:
     - c-82672
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176515|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172840|Vilniaus miestiečių luomas]]: Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55087|Vilniaus miestiečių luomas]]: Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus.
-- susijęs iš [[objektai/ivykiai/Altambo šventyklos pastatymas Vilniuje.md#claim-t-189618|Altambo šventyklos pastatymas Vilniuje]]: Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.
-- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173316|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173323|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190586|Lietuviai]]: Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55088|Vilniaus miestiečių luomas]]: Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo.
-- susijęs iš Haličas: Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176266|vietininkas]]: Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.
+
 ## Citatos
 
 - id: c-82668
@@ -245,7 +235,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-82669
   autorius: "Michał Baliński"
@@ -275,7 +265,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-82670
   autorius: "Michał Baliński"
@@ -300,7 +290,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-82671
   autorius: "Michał Baliński"
@@ -323,7 +313,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-82672
   autorius: "Michał Baliński"
@@ -344,7 +334,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-82673
   autorius: "Michał Baliński"
@@ -390,7 +380,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-002
 
 - id: c-82675
   autorius: "Michał Baliński"
@@ -411,7 +401,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
 
 ## Ryšiai
 - Vilniaus gyventojai gyveno [[objektai/vietos/Vilnius]]

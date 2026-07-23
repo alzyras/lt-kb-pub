@@ -39,7 +39,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07749"></a>
-- t-004
+- t-001
   teiginys: "Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -55,7 +55,7 @@ Papildomos aiškios formos neišskirtos.
     - c-09661
 
 <a id="claim-t-07750"></a>
-- t-003
+- t-002
   teiginys: "Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,7 +69,7 @@ Papildomos aiškios formos neišskirtos.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09661
-- susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
+
 ## Citatos
 
 - id: c-09661
@@ -85,5 +85,5 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

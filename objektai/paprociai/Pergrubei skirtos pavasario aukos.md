@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194629"></a>
-- t-002
+- t-001
   teiginys: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama pavasarį, kai tik nutirpsta sniegas."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -108,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

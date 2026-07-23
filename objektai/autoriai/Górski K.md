@@ -58,7 +58,7 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
     - c-61235
 
 <a id="claim-t-196999"></a>
-- t-003
+- t-002
   teiginys: "Górski K galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-61235
   autorius: "Petras Dusburgietis"

@@ -66,7 +66,6 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-170287

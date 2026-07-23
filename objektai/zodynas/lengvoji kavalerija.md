@@ -44,15 +44,7 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45531
-- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
-- susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
-- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
-- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176222|Šarvai]]: Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.
-- susijęs iš [[objektai/posakiai/gerai užrakinamus Krymo vartus.md#claim-t-78923|gerai užrakinamus Krymo vartus]]: Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“.
-- susijęs iš [[objektai/posakiai/gerai užrakinamus Krymo vartus.md#claim-t-78924|gerai užrakinamus Krymo vartus]]: Totoriai turėjo „gerai užrakinamus Krymo vartus“ – įtvirtintą Perekopo sąsmauką, saugojusią sunkiai pasiekiamą jų bazę.
-- susijęs iš Krymo pusiasalis: Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą.
-- susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
-- susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
+
 ## Citatos
 
 - id: c-45531

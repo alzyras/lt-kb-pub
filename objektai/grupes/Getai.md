@@ -52,7 +52,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     - c-175708
 
 <a id="claim-t-200920"></a>
-- t-003
+- t-002
   teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -62,13 +62,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184270
-- susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190672|Adomas Stanislovas Naruševičius]]: Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi.
-- susijęs iš [[objektai/posakiai/Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi.md#claim-t-192117|Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi]]: Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.
-- susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
-- susijęs iš [[objektai/posakiai/Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju.md#claim-t-192116|Karingasis gelonas bėga į Rodopų kalnus arba getų dykumas ir ten minta rūgusiu pienu, sumaišytu su arklių krauju]]: Teodoras Narbutas, remdamasis Vergilijumi, gelonų kumelės pieno vartojimą siejo su rūgusiu pienu, maišytu su arklių krauju.
-- susijęs iš Bogončavas: Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje.
-- susijęs iš Starobelsko apskritis: Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje.
-- susijęs iš Voluika: Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.'
@@ -113,7 +107,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175708
@@ -163,7 +156,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 - Getai gyveno [[objektai/vietos/Isteris]]

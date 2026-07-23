@@ -60,9 +60,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59155
-- susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.
-- susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
+
 ## Citatos
 
 - id: c-59155

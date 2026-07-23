@@ -54,7 +54,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 ## Teiginiai
 
 <a id="claim-t-66816"></a>
-- t-005
+- t-001
   teiginys: "1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
     - c-14179
 
 <a id="claim-t-66817"></a>
-- t-006
+- t-002
   teiginys: "1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-14180
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -139,4 +139,4 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002

@@ -68,8 +68,7 @@ Nenurodyta
   semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Giedraičių kautynės (0.76)"
   pagrindžia:
     - c-43046
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
-- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+
 ## Citatos
 
 - id: c-43046

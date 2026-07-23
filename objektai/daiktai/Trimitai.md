@@ -67,15 +67,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10292
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
-- susijęs iš [[objektai/daiktai/Birbynės.md#claim-t-198530|Birbynės]]: Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.
-- susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
-- susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82629|Mykolas Glinskis]]: Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187751|Totoriai]]: Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.
-- susijęs iš [[objektai/zodynas/Sutartinės.md#claim-t-07663|sutartinės]]: Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Pastabos
 

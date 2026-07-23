@@ -54,6 +54,7 @@ Surviliškis šiame šaltinyje yra vietovė.
   citata_rodoma: "A. Žilgulis (iš Survilišk. v.)"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

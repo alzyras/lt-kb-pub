@@ -44,13 +44,7 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75384
-- susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
-- susijęs iš [[objektai/grupes/Tumo Vaižganto rinktinė.md#claim-t-41183|Tumo Vaižganto rinktinė]]: 1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
-- susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188420|Jonas Lasickis]]: Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą.
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
-- susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41200|Vytauto apygarda]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.
-- susijęs iš [[objektai/grupes/Vyčio apygarda.md#claim-t-41204|Vyčio apygarda]]: 1950 m. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.
-- susijęs iš [[objektai/grupes/Žalioji rinktinė.md#claim-t-41218|Žalioji rinktinė]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.
+
 ## Citatos
 
 - id: c-75384

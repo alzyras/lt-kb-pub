@@ -56,7 +56,7 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
     - c-60983
 
 <a id="claim-t-194495"></a>
-- t-003
+- t-002
   teiginys: "Broliai jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį Joną, vadinamą Pope, o daug kitų sužeidė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,4 +91,4 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

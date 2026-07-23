@@ -64,7 +64,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200557"></a>
-- t-002
+- t-001
   teiginys: "Jei advokatas būtų pareikalavęs daugiau, Lopacinskis žadėjo jam nedelsdamas sumokėti ir papildomą sumą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -81,7 +81,7 @@ Nenurodyta
     - c-183948
 
 <a id="claim-t-200558"></a>
-- t-001
+- t-002
   teiginys: "1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -111,5 +111,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 04:19"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

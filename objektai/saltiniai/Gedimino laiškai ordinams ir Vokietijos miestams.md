@@ -35,7 +35,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 ## Teiginiai
 
 <a id="claim-t-88153"></a>
-- t-002
+- t-001
   teiginys: "1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - c-84134
 
 <a id="claim-t-88154"></a>
-- t-003
+- t-002
   teiginys: "Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - c-84135
 
 <a id="claim-t-88155"></a>
-- t-005
+- t-003
   teiginys: "Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,7 +154,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-84135
   autorius: "Michał Baliński"
@@ -178,7 +178,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-84136
   autorius: "Michał Baliński"
@@ -198,4 +198,4 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

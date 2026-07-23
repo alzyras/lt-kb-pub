@@ -48,18 +48,7 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172186
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188595|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis lietuvių išpažintį grindė senųjų kronikininkų pranešimais ir savo duomenimis.
-- susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189803|Išpažintis per aukojimo apeigas]]: Narbutas išpažintį priskyrė apeigoms, atliekamoms per aukų atnašavimą, remdamasis Strijkovskio ir senųjų kronikininkų duomenimis.
-- susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189805|Išpažintis per aukojimo apeigas]]: Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172880|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172881|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172889|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172890|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172895|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172896|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172897|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172900|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. buvo sunykusi ir sugriuvusi.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188445|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki ninkų pranešimais ir savo paties duomenimis.
+
 ## Citatos
 
 - id: c-172186

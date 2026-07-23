@@ -44,10 +44,7 @@ Lazutka, E.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22189
-- susijęs iš [[objektai/autoriai/E. Gudavičius.md#claim-t-19388|E. Gudavičius]]: E. Gudavičius kartu su S. Lazutka parengė Pirmojo Lietuvos Statuto Dzialinskio, Lauryno ir Ališavos nuorašų faksimiles.
-- susijęs iš Šiaulių ekonomija: R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179538|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.
-- susijęs iš [[objektai/autoriai/P. Dundulienė.md#claim-t-30896|P. Dundulienė]]: P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.
+
 ## Citatos
 
 - id: c-22189

@@ -54,15 +54,7 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
   temporalinis_llm_pakomentavimas: "Citata pagrindžia kaimo tapatinimą ir įvykį, pašalinant perteklinį kontekstą."
   pagrindžia:
     - c-59357
-- susijęs iš [[objektai/asmenys/Misinas.md#claim-t-60175|Misinas]]: Misinas su Sklunijos valsčiaus vyrais pagrobė Karaliaučiaus brolių arklius.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.
-- susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
-- susijęs iš [[objektai/asmenys/Naudžiotas.md#claim-t-60180|Naudžiotas (karvedys)]]: Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius.
-- susijęs iš [[objektai/asmenys/Stanta.md#claim-t-60207|Stanta]]: Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.
-- susijęs iš [[objektai/asmenys/Vargulis.md#claim-t-60459|Vargulis]]: Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.
-- susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66800|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.
-- susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
-- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
+
 ## Citatos
 
 - id: c-59357

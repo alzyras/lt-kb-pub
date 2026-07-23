@@ -44,8 +44,7 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13908
-- susijęs iš Vandens ir vėjo galybė: „Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių.
-- susijęs iš Krašto mokslo vadovėlis: A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.
+
 ## Citatos
 
 - id: c-13908

@@ -7,13 +7,13 @@ datos:
   - '1457 m.'
 date_start: '1457'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -87,11 +87,10 @@ Nenurodyta
     laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
     3 3  Utcnls patikimuose šaltiniuose nepaliudytas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-169930

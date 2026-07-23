@@ -73,17 +73,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   temporalinis_llm_pakomentavimas: "Citata remia aiškesnį faktinį teiginį apie Olandiją."
   pagrindžia:
     - c-24346
-- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60145|Hugonas Butyras]]: Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.
-- susijęs iš [[objektai/asmenys/Flokas.md#claim-t-191397|Flokas]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Olandijos grafas).md#claim-t-60463|Vilhelmas (Olandijos grafas)]]: 1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, bet vėliau jį nužudė frizai.
-- susijęs iš [[objektai/autoriai/Piętka J.md#claim-t-60769|Piętka J]]: J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.
-- susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60513|Powierski J]]: J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
-- susijęs iš [[objektai/ivykiai/Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.).md#claim-t-62528|Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)]]: 1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192198|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192580|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
-- susijęs iš [[objektai/zodynas/Vizinas.md#claim-t-192198|Vizinas]]: Teodoro Narbuto aiškinimu, Wizin arba Vizinas Lydos apskrities lietuvių dialekte reiškė šliužą, bjaurų šliaužiojantį padarą.
-- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60145|Hugonas Butyras]]: Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.
+
 ## Citatos
 
 - id: c-24345

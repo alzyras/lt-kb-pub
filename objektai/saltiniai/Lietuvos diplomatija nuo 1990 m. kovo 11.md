@@ -40,7 +40,7 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
 ## Teiginiai
 
 <a id="claim-t-75459"></a>
-- t-002
+- t-001
   teiginys: "Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
     - c-23860
 
 <a id="claim-t-75460"></a>
-- t-001
+- t-002
   teiginys: "Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -96,5 +96,5 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

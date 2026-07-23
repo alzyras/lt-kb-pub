@@ -7,8 +7,6 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +14,8 @@ tags:
   - ordinas
   - paprotys
   - religinė-praktika
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67173"></a>
-- t-002
+- t-001
   teiginys: "Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-67189
 
 <a id="claim-t-67174"></a>
-- t-004
+- t-002
   teiginys: "Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-67189
 
 <a id="claim-t-67175"></a>
-- t-005
+- t-003
   teiginys: "Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-67187
 
 <a id="claim-t-67176"></a>
-- t-003
+- t-004
   teiginys: "600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -109,7 +109,7 @@ Nenurodyta
     - c-67187
 
 <a id="claim-t-67177"></a>
-- t-001
+- t-005
   teiginys: "Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-67185
@@ -173,7 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-005
 
 - id: c-67186
   autorius: "Petras Dusburgietis"
@@ -221,8 +220,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-003
+    - t-004
 
 - id: c-67188
   autorius: "Petras Dusburgietis"
@@ -259,5 +258,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004

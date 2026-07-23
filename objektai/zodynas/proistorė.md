@@ -80,7 +80,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-05587
 
 <a id="claim-t-05608"></a>
-- t-005
+- t-003
   teiginys: "Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-05587
 
 <a id="claim-t-70294"></a>
-- t-007
+- t-004
   teiginys: "Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -110,14 +110,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69345
-- susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
-- susijęs iš [[objektai/autoriai/St. Zajączkowski.md#claim-t-100100|St. Zajączkowski]]: St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113194|Pskovo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
-- susijęs iš Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje: J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.
-- susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
-- susijęs iš Didysis Naugardas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
-- susijęs iš Pskovas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
-- susijęs iš Zietela: Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.
+
 ## Citatos
 
 - id: c-05587
@@ -138,7 +131,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   pagrindzia:
     - t-001
     - t-002
-    - t-005
+    - t-003
 
 - id: c-69344
   autorius: "Zenonas Ivinskis"
@@ -172,4 +165,4 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004

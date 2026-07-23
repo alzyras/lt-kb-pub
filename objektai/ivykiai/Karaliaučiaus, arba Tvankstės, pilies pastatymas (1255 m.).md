@@ -7,12 +7,12 @@ datos:
   - '1255 m.'
 date_start: '1255'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,10 +86,9 @@ Nenurodyta
     automobilių  kelio Kaliningradas—Poleskas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-63632
@@ -149,6 +148,7 @@ Nenurodyta
   citata_rodoma: "Burrhardą iš Hornhauzeno2 su daugybe brolių ir ginklanešių. Vėliau ši pilis buvo perkelta\nį tą vietą, kur ir dabar stovi ant kalvos, apsupta dviem sienomis ir devyniais akmeniniais\nbokštais.\n\n\n\n\n       73 (72)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

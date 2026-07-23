@@ -56,7 +56,7 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   temporalinis_llm_pakomentavimas: "Nutrūkęs tekstas perrašytas į pilną sakinį apie Skaldonio žūtį."
   pagrindžia:
     - c-167511
-- susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
+
 ## Citatos
 
 - id: c-167511

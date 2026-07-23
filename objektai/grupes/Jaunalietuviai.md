@@ -44,7 +44,7 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22423
-- susijęs iš [[objektai/grupes/Senalietuviai.md#claim-t-20006|Senalietuviai]]: Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.
+
 ## Citatos
 
 - id: c-22423

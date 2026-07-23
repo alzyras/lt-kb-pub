@@ -38,7 +38,7 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
 ## Teiginiai
 
 <a id="claim-t-186040"></a>
-- t-002
+- t-001
   teiginys: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,4 +85,4 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

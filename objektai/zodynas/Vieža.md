@@ -39,7 +39,7 @@ Vartojamos formos: `viežą`, `viežos`.
 ## Teiginiai
 
 <a id="claim-t-07713"></a>
-- t-004
+- t-001
   teiginys: "Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,7 +48,7 @@ Vartojamos formos: `viežą`, `viežos`.
     - c-09641
 
 <a id="claim-t-07714"></a>
-- t-003
+- t-002
   teiginys: "Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -62,7 +62,7 @@ Vartojamos formos: `viežą`, `viežos`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09641
-- susijęs iš [[objektai/daiktai/Dybas.md#claim-t-08289|Dybas]]: Kaltininkus pririšdavo prie dybo ir plakdavo.
+
 ## Citatos
 
 - id: c-09641
@@ -84,5 +84,5 @@ Vartojamos formos: `viežą`, `viežos`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

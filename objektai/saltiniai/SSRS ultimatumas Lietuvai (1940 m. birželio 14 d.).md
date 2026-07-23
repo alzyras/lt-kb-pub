@@ -35,7 +35,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Teiginiai
 
 <a id="claim-t-75516"></a>
-- t-002
+- t-001
   teiginys: "Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-23957
 
 <a id="claim-t-75517"></a>
-- t-001
+- t-002
   teiginys: "1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-23956
 
 <a id="claim-t-75518"></a>
-- t-004
+- t-003
   teiginys: "Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-73280
 
 <a id="claim-t-75519"></a>
-- t-003
+- t-004
   teiginys: "Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-23957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -150,7 +150,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-23958
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -170,7 +170,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-73280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -194,4 +194,4 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

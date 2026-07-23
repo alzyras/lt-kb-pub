@@ -52,13 +52,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83646
-- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.
-- susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
-- susijęs iš [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.).md#claim-t-86961|Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]: 1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.
+
 ## Citatos
 
 - id: c-83646

@@ -69,7 +69,7 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171223
-- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
+
 ## Citatos
 
 - id: c-168821

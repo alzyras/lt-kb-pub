@@ -47,7 +47,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
 ## Teiginiai
 
 <a id="claim-t-195471"></a>
-- t-002
+- t-001
   teiginys: "1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -57,7 +57,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     - c-177893
 
 <a id="claim-t-195472"></a>
-- t-001
+- t-002
   teiginys: "1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -65,7 +65,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177892
-- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195570|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: 1904 m. rugpjūčio ir rugsėjo mėnesiais A. R. Niemis vyko į Archangelsko guberniją.
+
 ## Citatos
 
 - id: c-177892
@@ -102,7 +102,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177893
   autorius: "A. Sabaliauskas"
@@ -136,4 +136,4 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -39,7 +39,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 ## Teiginiai
 
 <a id="claim-t-190292"></a>
-- t-002
+- t-001
   teiginys: "Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     - c-173175
 
 <a id="claim-t-190293"></a>
-- t-003
+- t-002
   teiginys: "Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     - c-173175
 
 <a id="claim-t-190294"></a>
-- t-004
+- t-003
   teiginys: "Narbutas remiasi kunigu Sirvydu aiškindamas Vasario vardą per žodžius „Lutis“, „Pūsis“ ir „Pūstis“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +85,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     - c-173177
 
 <a id="claim-t-190748"></a>
-- t-005
+- t-004
   teiginys: "Narbutas, remdamasis K. Sirvydo žodynu, žodį „dykra“ aiškino kaip „Solitudo“ ir „Giria“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -105,7 +105,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     - c-173630
 
 <a id="claim-t-190749"></a>
-- t-006
+- t-005
   teiginys: "Narbutas K. Sirvydo žodyne nurodė lietuviškas formas „Pridegis“ ir „Priderinis“ kaip aptariamo pavadinimo atitikmenis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,7 +125,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     - c-173631
 
 <a id="claim-t-193584"></a>
-- t-007
+- t-006
   teiginys: "Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -176,8 +176,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-173176
   autorius: "Teodoras Narbutas"
@@ -217,7 +217,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173630
   autorius: "Teodoras Narbutas"
@@ -233,7 +233,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173631
   autorius: "Teodoras Narbutas"
@@ -251,7 +251,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-176259
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -272,7 +272,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-179123
   autorius: "Teodoras Narbutas"
@@ -287,6 +287,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
     toje vietoje įkūrė Senąją Torunę.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,7 +38,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 ## Teiginiai
 
 <a id="claim-t-09682"></a>
-- t-002
+- t-001
   teiginys: "Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -71,4 +71,4 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

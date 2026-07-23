@@ -58,7 +58,7 @@ Nenurodyta
     - c-02134
 
 <a id="claim-t-01894"></a>
-- t-003
+- t-002
   teiginys: "Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-02132
 
 <a id="claim-t-01895"></a>
-- t-002
+- t-003
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-02132
   redaktorius: "A. Šapoka"
@@ -130,7 +130,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-02134
   redaktorius: "A. Šapoka"

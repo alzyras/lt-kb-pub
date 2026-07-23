@@ -68,27 +68,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-13459"></a>
-- t-005
-  teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
-  atnaujinta: "2026-07-20 14:16"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Partizanų bunkeriai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Partizanų bunkeriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie gyvenimą bunkeriuose ir atitinka citatos informaciją."
-  pagrindžia:
-    - c-16407
-
 <a id="claim-t-13460"></a>
-- t-006
+- t-001
   teiginys: "1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -98,14 +79,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą laiką, veiksmą ir bunkerių paskirtį."
   pagrindžia:
     - c-22284
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39118|Šimonių girios apgultis]]: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
-- susijęs iš Denionių ežeras: Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas.
-- susijęs iš Šimonių giria: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49114|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49117|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš Juodelių sodyba: Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -126,12 +100,10 @@ Nenurodyta
   citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-22284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

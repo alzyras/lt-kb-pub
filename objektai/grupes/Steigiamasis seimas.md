@@ -42,7 +42,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 ## Teiginiai
 
 <a id="claim-t-74943"></a>
-- t-008
+- t-001
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72888
 
 <a id="claim-t-74948"></a>
-- t-004
+- t-003
   teiginys: "Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72894
 
 <a id="claim-t-74950"></a>
-- t-006
+- t-004
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72893
 
 <a id="claim-t-193129"></a>
-- t-009
+- t-005
   teiginys: "Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -129,20 +129,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-22762
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103467|Lietuvos pinigai]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23351|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: 1922 m. spalio 1 d. Lietuvoje įvestas litas.
-- susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-23352|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.).md#claim-t-26858|Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas.md#claim-t-77915|Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]: Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.
-- susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23356|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: 1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.
-- susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23357|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.
-- susijęs iš [[objektai/posakiai/„etnologinėmis sienomis“.md#claim-t-183491|„etnologinėmis sienomis“]]: Steigiamasis Seimas vienbalsiai priėmė dokumentą, skelbusį Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Piniginio vieneto įstatymas (1922 m.): Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
-- susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
-- susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
-- susijęs iš [[objektai/zodynas/litas.md#claim-t-183444|litas]]: Litas Lietuvoje įvestas 1922 m. spalio 1 d.; jo aukso turinys buvo 0,150462 g gryno aukso, o santykis su JAV doleriu buvo 10:1.
-- susijęs iš [[objektai/zodynas/litas.md#claim-t-22218|litas]]: Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.
+
 ## Citatos
 
 - id: c-22762
@@ -160,7 +147,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-005
 
 - id: c-72888
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -200,7 +187,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-001
 
 - id: c-72893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -223,7 +210,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-72894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -242,4 +229,4 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

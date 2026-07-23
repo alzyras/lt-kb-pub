@@ -64,8 +64,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166845
-- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65206|Jedinstvo]]: Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
-- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-183135|Jedinstvo]]: Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.
+
 ## Citatos
 
 - id: c-24930

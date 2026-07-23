@@ -49,7 +49,7 @@ media_all_json: |-
     - c-02773
 
 <a id="claim-t-197888"></a>
-- t-003
+- t-002
   teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,9 +59,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179381
-- susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-- susijęs iš Livonija: Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
+
 ## Citatos
 
 - id: c-02773
@@ -103,4 +101,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

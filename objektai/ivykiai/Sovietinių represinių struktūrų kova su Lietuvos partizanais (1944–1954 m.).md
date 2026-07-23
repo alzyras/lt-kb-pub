@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75278"></a>
-- t-002
+- t-001
   teiginys: "Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-23218
 
 <a id="claim-t-75279"></a>
-- t-003
+- t-002
   teiginys: "Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +88,7 @@ Nenurodyta
     - c-73109
 
 <a id="claim-t-183275"></a>
-- t-004
+- t-003
   teiginys: "Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -141,7 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-73109
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -168,7 +168,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-166664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -191,4 +191,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

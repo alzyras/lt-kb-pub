@@ -32,7 +32,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 ## Teiginiai
 
 <a id="claim-t-195002"></a>
-- t-003
+- t-001
   teiginys: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     - c-177387
 
 <a id="claim-t-195003"></a>
-- t-006
+- t-002
   teiginys: "Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     - c-177388
 
 <a id="claim-t-195004"></a>
-- t-002
+- t-003
   teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     - c-177386
 
 <a id="claim-t-195005"></a>
-- t-001
+- t-004
   teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     - c-177385
 
 <a id="claim-t-196558"></a>
-- t-008
+- t-005
   teiginys: "Krymo skitai, vadovaujami Biti Girėjaus, nuniokojo Rusią ir įsiveržę į Lietuvą ją nusiaubė beveik iki Vilniaus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     - c-178765
 
 <a id="claim-t-196559"></a>
-- t-009
+- t-006
   teiginys: "Mengli Girėjus su pagrindinėmis jėgomis apėjo lenkus ir smarkiai užgriuvo dešinįjį Konstantino sparną."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -110,9 +110,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-177386
-- susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
-- susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195007|Šich Achmetas]]: Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -157,7 +155,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -180,8 +178,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-009
+    - t-003
+    - t-006
 
 - id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -207,7 +205,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177388
   sudarytojas: "Karolis Zikaras"
@@ -228,7 +226,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-178765
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -255,4 +253,4 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005

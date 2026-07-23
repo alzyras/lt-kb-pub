@@ -12,15 +12,15 @@ datos:
   - '1565 m.'
 date_start: '1342'
 date_end: '1565'
-amziai:
-  - 'XIV'
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - gentis
   - grupe
   - tauta
+amziai:
+  - 'XIV'
+  - 'XVI'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/1920px-Roman_Empire_125.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ARoman_Empire_125.png'
@@ -184,7 +184,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-171088
 
 <a id="claim-t-188196"></a>
-- t-009
+- t-008
   teiginys: "Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -197,7 +197,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-171087
 
 <a id="claim-t-188197"></a>
-- t-010
+- t-009
   teiginys: "Volfgangas Lazius, Narbuto išnašoje vadinamas istoriografu ir geografu, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -217,7 +217,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-171091
 
 <a id="claim-t-192408"></a>
-- t-012
+- t-010
   teiginys: "Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -238,7 +238,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-175202
 
 <a id="claim-t-192409"></a>
-- t-013
+- t-011
   teiginys: "Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -259,7 +259,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-175203
 
 <a id="claim-t-196075"></a>
-- t-014
+- t-012
   teiginys: "Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami toliau tarnauti imperatoriaus kariuomenėje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -272,7 +272,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
     - c-167836
 
 <a id="claim-t-197504"></a>
-- t-015
+- t-013
   teiginys: "Didžiausia herulų dalis pasitraukė prie Dunojaus, kur ketino apsigyventi šalia rugių arba toje Noriko dalyje, kurią pavadino Rugilandija."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -282,117 +282,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179222
-- susijęs iš Ravena: 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
-- susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
-- susijęs iš Retra: Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.
-- susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
-- susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190850|Dionizas Paškevičius]]: Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ši lietuvių gentis.
-- susijęs iš [[objektai/asmenys/Frederikas.md#claim-t-191203|Frederikas]]: Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
-- susijęs iš [[objektai/asmenys/Galėnas.md#claim-t-191401|Galėnas]]: Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.
-- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
-- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-190900|Justinianas]]: Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-188599|Odoakras]]: Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190940|Odoakras]]: Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191154|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.
-- susijęs iš [[objektai/autoriai/D. Poška.md#claim-t-190694|D. Poška]]: Dionizas Poška, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ta lietuvių gentis.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
-- susijęs iš [[objektai/autoriai/Volfgangas Lazijus.md#claim-t-191662|Volfgangas Lazijus]]: Volfgangas Lazijus, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąja laikytą maldą „Tėve mūsų“.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192366|Alanai]]: Narbuto pasakojime 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-192392|Gepidai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190609|Lietuviai]]: Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-192440|Persai]]: 552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.
-- susijęs iš [[objektai/grupes/Skiriai.md#claim-t-192937|Skiriai]]: 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
-- susijęs iš [[objektai/grupes/Stodorėnai.md#claim-t-192998|Stodorėnai]]: Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
-- susijęs iš [[objektai/grupes/Turcilingai.md#claim-t-192976|Turcilingai]]: Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/ivykiai/Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m.md#claim-t-191042|Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m]]: Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų.
-- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191043|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbuto pasakojimu, po pralaimėjimo longobardams herulų būrys 493 m. pabaigoje atsiskyrė prie Dunojaus ir patraukė kita kryptimi.
-- susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
-- susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191046|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus.
-- susijęs iš [[objektai/ivykiai/Herulų žygis prieš Bizantiją III a. pabaigoje.md#claim-t-191031|Herulų žygis prieš Bizantiją III a. pabaigoje]]: Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš Apie herulus, lietuvių giminaičius: Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“.
-- susijęs iš Dziennik Warszawski 1829 Nr. 44: Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus siūlė vadinti gerulais.
-- susijęs iš Ksaveras Bogušas, Rozprawa: Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš Stenderio Lettische Grammatik: Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“.
-- susijęs iš Meklenburgas: Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų būti kaimiečių, mokančių herulų kalbą.
-- susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
-- susijęs iš Ravena: 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
-- susijęs iš Retra: Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie Prilvico kaimo netoli Penclino Meklenburge.
-- susijęs iš Vilkija: Narbutas Vilkiją aiškino kaip vėlesnį didelio krašto vardą ir siejo jį su herulų įsikūrimu tarp saksų ir slavų.
-- susijęs iš Vilkija: Narbutas Vilkiją laikė herulų kraštu, Didžiąja Herulija, iš kurios apie 580 metus slavai esą išstūmė ankstesnius gyventojus.
-- susijęs iš [[objektai/zodynas/alanai.md#claim-t-185378|alanai]]: Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.
-- susijęs iš [[objektai/asmenys/Galėnas.md#claim-t-191401|Galėnas]]: Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-188507|Albertas Vijūkas-Kojalavičius]]: Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo.
-- susijęs iš [[objektai/asmenys/Aurelianas Klaudijus.md#claim-t-191338|Aurelianas Klaudijus]]: Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę.
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190006|Henenbergeris]]: Narbutas vertino, kad Henenbergeris, Hartknochas, Kojalavičius ir Škicas apšmeižė senovės lietuvius dėl tariamo žiaurumo ligoniams.
-- susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
-- susijęs iš [[objektai/asmenys/Kojalavičius.md#claim-t-190082|Kojalavičius]]: Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties pagreitinimo papročio.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189983|Kristoforas Hartknochas]]: Narbutas kaltino Škicą, Henenbergerį, Hartknochą ir Kojalavičių apšmeižus senovės lietuvius dėl elgesio su ligoniais ir mirštančiaisiais.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190933|Nestoras]]: Teodoro Narbuto teigimu, Nestoras apie 860 m. pirmasis iš žinomų originalių istorikų paminėjo Lietuvą ir išvardijo rusų variagams priklausiusias gentis.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190941|Odoakras]]: Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190942|Odoakras]]: Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191330|Tufą]]: Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę.
-- susijęs iš [[objektai/asmenys/Tufą.md#claim-t-191331|Tufą]]: Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190624|Albertas Vijūkas-Kojalavičius]]: Narbutas kaltino Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties greitinimo papročio.
-- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-188400|Hartknochas]]: Narbutas Hartknochą kartu su Škicu, Henenbergeriu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius, esą šie greitindavę ligonių ir mirštančiųjų mirtį.
-- susijęs iš [[objektai/autoriai/Henenbergeris.md#claim-t-190312|Henenbergeris]]: Narbutas Henenbergerį kartu su Škicu, Hartknochu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius dėl tariamo ligonių mirties greitinimo.
-- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191531|Nestoras]]: Narbutas Nestorą vadino pirmuoju jam žinomu originaliu istoriku, paminėjusiu Lietuvą 860 metais ar kiek vėliau.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188459|Petras Dusburgietis]]: Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.
-- susijęs iš [[objektai/autoriai/Stenderis.md#claim-t-190792|Stenderis]]: Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.
-- susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192403|Gotai]]: Narbutas rašo, kad apie 269 metus gotai su maždaug 320 000 ginkluotų žmonių armija puolė imperiją, siekdami ją užkariauti.
-- susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192926|Hiriai]]: Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais.
-- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169585|Latviai]]: Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190582|Lietuviai]]: Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.
-- susijęs iš [[objektai/grupes/Lužitėnai.md#claim-t-192997|Lužitėnai]]: Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188298|Prūsai]]: Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192475|Slavai]]: V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.
-- susijęs iš [[objektai/grupes/Tiuringiai.md#claim-t-192999|Tiuringiai]]: Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus.
-- susijęs iš [[objektai/grupes/Valetabai.md#claim-t-193000|Valetabai]]: Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie tuvių kartos.
-- susijęs iš [[objektai/grupes/Vandalai.md#claim-t-192964|Vandalai]]: Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.).md#claim-t-185758|Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]: Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
-- susijęs iš [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.).md#claim-t-185831|Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]: 475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų versti sąjungininkų kariuomenės gailėtis žygio į Italiją.
-- susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
-- susijęs iš Juvava: 477 m. herulai sudegino romėnų koloniją Juvavą prie Saurus upės, kurią Narbutas tapatina su Zalcburgu prie Zalcacho.
-- susijęs iš Lietuva: Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.
-- susijęs iš Lietuva: Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau.
-- susijęs iš Naugardas: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.
-- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
-- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš Orleanas: Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano.
-- susijęs iš Reitgotija: Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją.
-- susijęs iš Rugilandija: Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.
-- susijęs iš Rusa (Russ) upė Naugardo gubernijoje: Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija.
-- susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
-- susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
-- susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
-- susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
-- susijęs iš Daugava: Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
-- susijęs iš Daugava: Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
-- susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
-- susijęs iš Daugava: Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
-- susijęs iš [[objektai/asmenys/Frederikas.md#claim-t-191203|Frederikas]]: Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus.
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.'
@@ -488,7 +378,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-82773
@@ -553,7 +442,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-014
+    - t-012
 
 - id: c-167837
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -659,7 +548,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-009
+    - t-008
 
 - id: c-171088
   autorius: "Teodoras Narbutas"
@@ -726,7 +615,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-175202
   autorius: "Teodoras Narbutas"
@@ -745,7 +634,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-175203
   autorius: "Teodoras Narbutas"
@@ -770,7 +659,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011
 
 - id: c-179222
   autorius: "Teodoras Narbutas"
@@ -789,11 +678,10 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-013
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]
-- Turėjo valdovą: [[objektai/asmenys/Odoakras]]
 - Puolė Herulai: [[objektai/grupes/Gotai]]
 - Herulai keliavo į [[objektai/vietos/Isteris]], [[objektai/vietos/Reitgotija]]
 - Herulai puolė [[objektai/grupes/Romėnai]]

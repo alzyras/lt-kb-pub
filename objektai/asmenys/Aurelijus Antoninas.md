@@ -54,8 +54,7 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172966
-- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188380|Dievų stabai]]: Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu.
-- susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-188548|Jokūbas (vėliau Urbonas IV)]]: Jokūbas nukritęs iš dangaus (akmuo - meteoritas).
+
 ## Citatos
 
 - id: c-172966
@@ -99,6 +98,7 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   citata_rodoma: "Ta­\nčiau mūsų istorikas šito dalyko nuodugniau neišlukštena. Man\natrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies\ndievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus\nAntonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­\ntvaras“.\nPerkūno stabai iš karto turėjo būti tokie, apie kokius kal­\nba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­\nbus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­\nlas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

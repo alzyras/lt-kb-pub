@@ -73,7 +73,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-26745
 
 <a id="claim-t-75620"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - c-73342
 
 <a id="claim-t-75621"></a>
-- t-003
+- t-004
   teiginys: "Prancūzijos remtas didelės Lenkijos „nuo jūros iki jūros“ planas stabdė Lietuvos tarptautinio pripažinimo reikalus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -106,8 +106,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja planą su Lietuvos pripažinimo strigimu."
   pagrindžia:
     - c-26745
-- susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101584|federacija federacinė valstybė]]: Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos.
-- susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-183424|federacija federacinė valstybė]]: Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų.
+
 ## Citatos
 
 - id: c-26745
@@ -132,7 +131,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
   pagrindzia:
     - t-001
     - t-002
-    - t-003
+    - t-004
 
 - id: c-73342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -153,4 +152,4 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

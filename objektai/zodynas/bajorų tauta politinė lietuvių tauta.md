@@ -66,6 +66,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   citata_rodoma: "požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

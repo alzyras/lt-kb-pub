@@ -43,7 +43,7 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 ## Teiginiai
 
 <a id="claim-t-54795"></a>
-- t-002
+- t-001
   teiginys: "Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -59,7 +59,7 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     - c-55793
 
 <a id="claim-t-54796"></a>
-- t-001
+- t-002
   teiginys: "Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis."
   atnaujinta: "2026-05-27 07:20"
   sprendimo_priezastis: "gap::vocabulary"
@@ -97,5 +97,5 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

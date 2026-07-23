@@ -86,30 +86,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Nepriklausomybės kovas prie Jiezno ir paremtas citata."
   pagrindžia:
     - c-76411
-- susijęs iš [[objektai/asmenys/A. Ružancovas.md#claim-t-39981|A. Ružancovas]]: A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais.
-- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
-- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
-- susijęs iš [[objektai/asmenys/Auglys.md#claim-t-40047|Auglys]]: Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai.
-- susijęs iš [[objektai/asmenys/J. Cetuchinas.md#claim-t-40154|J. Cetuchinas]]: J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.
-- susijęs iš [[objektai/asmenys/Lebedevas.md#claim-t-39774|Lebedevas]]: Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjančius lietuvių husarus, nedelsdamas pasitraukė į Stakliškes.
-- susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40414|S. Zaskevičius]]: Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.
-- susijęs iš Aukštadvaris: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį, kol pasiekė Jiezną.
-- susijęs iš Birštonas: Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
-- susijęs iš [[objektai/zodynas/Nepriklausomybės kovos.md#claim-t-42425|Nepriklausomybės kovos]]: 1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.
-- susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40415|S. Zaskevičius]]: Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.
-- susijęs iš [[objektai/asmenys/V. Kapsukas-Mickevičius.md#claim-t-40487|V. Kapsukas-Mickevičius]]: V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/posakiai/traukiniais į Maskvą.md#claim-t-41476|traukiniais į Maskvą]]: Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“.
-- susijęs iš Alytus: 1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.
-- susijęs iš Daugpilis: 1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.
-- susijęs iš Lentvaris: V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi.
-- susijęs iš Maskva: Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos.
-- susijęs iš Maskva: Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių.
-- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
+
 ## Citatos
 
 - id: c-76411

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 ## Teiginiai
 
 <a id="claim-t-175237"></a>
-- t-003
+- t-001
   teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159384
 
 <a id="claim-t-175238"></a>
-- t-004
+- t-002
   teiginys: "Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159382
 
 <a id="claim-t-175239"></a>
-- t-002
+- t-003
   teiginys: "Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159381
 
 <a id="claim-t-197109"></a>
-- t-005
+- t-004
   teiginys: "Dusburgietis teigia, kad judas Makabėjus kaip Dovydas įsivedė kunigystę ir kas dieną šlovina dievo didybę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,9 +84,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179028
-- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
-- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
+
 ## Citatos
 
 - id: c-159381
@@ -113,7 +111,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-159382
   autorius: "Petras Dusburgietis"
@@ -142,7 +140,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-159384
   autorius: "Petras Dusburgietis"
@@ -162,7 +160,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-179028
   autorius: "Petras Dusburgietis"
@@ -181,7 +179,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

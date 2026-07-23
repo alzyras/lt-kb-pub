@@ -49,6 +49,7 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
   citata_rodoma: "ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

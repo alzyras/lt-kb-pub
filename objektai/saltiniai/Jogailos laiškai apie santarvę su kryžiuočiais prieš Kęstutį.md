@@ -30,7 +30,7 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
 ## Teiginiai
 
 <a id="claim-t-193531"></a>
-- t-002
+- t-001
   teiginys: "Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė šio puolimo sumanymo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -43,7 +43,7 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
     - c-176211
 
 <a id="claim-t-196348"></a>
-- t-003
+- t-002
   teiginys: "Kęstutis laukė Jonušo, Mazovijos kunigaikščio ir savo žento, pagalbos, todėl nestojo į lemiamą mūšį prieš Jogailą su maža kariuomene."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -81,5 +81,5 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003

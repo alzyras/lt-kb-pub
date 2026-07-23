@@ -43,6 +43,7 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   citata_rodoma: "Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

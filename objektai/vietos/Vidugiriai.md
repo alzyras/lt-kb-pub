@@ -86,11 +86,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys negrabiai suformuluotas; citata palaiko aiškesnį faktą."
   pagrindžia:
     - c-45404
-- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40826|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.
-- susijęs iš [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-80639|asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.
-- susijęs iš [[objektai/zodynas/viršila.md#claim-t-42522|viršila]]: 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.
-- susijęs iš Eglainė: Į Vidugirių kaimą buvo atvykę iš Eglainės 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko batalionai.
-- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40826|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.
+
 ## Citatos
 
 - id: c-43983

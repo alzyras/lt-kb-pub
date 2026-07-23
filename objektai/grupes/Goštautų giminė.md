@@ -40,7 +40,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 ## Teiginiai
 
 <a id="claim-t-187760"></a>
-- t-002
+- t-001
   teiginys: "Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     - c-170699
 
 <a id="claim-t-193831"></a>
-- t-003
+- t-002
   teiginys: "Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.)."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -73,7 +73,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     - c-176475
 
 <a id="claim-t-196779"></a>
-- t-004
+- t-003
   teiginys: "Pasakojimas, kad Petras Goštautas atsikvietė į Vilnių pranciškonų, komentare laikomas veikiausiai XV a. antrojoje pusėje kilusia legenda."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-176475
   autorius: "Anoniminis metraštininkas"
@@ -152,5 +152,5 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
-    - t-004

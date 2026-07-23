@@ -48,7 +48,7 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   temporalinis_llm_pakomentavimas: "Pirminis tekstas yra nepilnas pavadinimo fragmentas."
   pagrindžia:
     - c-36651
-- susijęs iš Vakarų fronte nieko naujo: E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba.
+
 ## Citatos
 
 - id: c-36651

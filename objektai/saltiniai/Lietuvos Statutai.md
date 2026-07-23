@@ -75,7 +75,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-23851
 
 <a id="claim-t-101552"></a>
-- t-011
+- t-003
   teiginys: "Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95091
 
 <a id="claim-t-101555"></a>
-- t-007
+- t-005
   teiginys: "Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +117,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95091
 
 <a id="claim-t-101556"></a>
-- t-010
+- t-006
   teiginys: "Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +133,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95089
 
 <a id="claim-t-101557"></a>
-- t-008
+- t-007
   teiginys: "Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,7 +153,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95090
 
 <a id="claim-t-101558"></a>
-- t-009
+- t-008
   teiginys: "1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -173,7 +173,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95092
 
 <a id="claim-t-101559"></a>
-- t-003
+- t-009
   teiginys: "Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -192,7 +192,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-23852
 
 <a id="claim-t-101560"></a>
-- t-006
+- t-010
   teiginys: "1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-95088
 
 <a id="claim-t-193596"></a>
-- t-012
+- t-011
   teiginys: "Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -267,7 +267,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-011
+    - t-003
 
 - id: c-23852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -286,7 +286,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-009
 
 - id: c-23853
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -323,7 +323,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-010
 
 - id: c-95089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -345,7 +345,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006
 
 - id: c-95090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -375,7 +375,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-95091
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -397,7 +397,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-007
+    - t-005
 
 - id: c-95092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -423,7 +423,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-176271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -441,4 +441,4 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011

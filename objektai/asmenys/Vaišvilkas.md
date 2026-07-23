@@ -45,7 +45,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169313
 
 <a id="claim-t-185954"></a>
-- t-003
+- t-002
   teiginys: "Vaišvilkas ant purpurinio apsiausto vilkėdavo juodą drapaną kaip vienuolio įžadų ženklą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176183
 
 <a id="claim-t-185955"></a>
-- t-004
+- t-003
   teiginys: "A. Kojelavičiaus teksto vertime paliktas tradicinis vardas Vaišvilkas, nors naujausioje literatūroje plito forma Vaišelga."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169316
 
 <a id="claim-t-193483"></a>
-- t-005
+- t-004
   teiginys: "Kodėl nekrei piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių valdovo, kuris visas valdžios teises pagrįstai sau prisiskirįąs?"
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -81,7 +81,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169313
 
 <a id="claim-t-193484"></a>
-- t-006
+- t-005
   teiginys: "Vaišvilkas, žygūnų pakviestas perimti tėvo valdžios, atvyko iš Pinsko į Naugarduką ir Kernavėje buvo paskelbtas Lietuvos didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176183
 
 <a id="claim-t-193485"></a>
-- t-007
+- t-006
   teiginys: "Vaišvilkas vilkėdavo juodą drapaną, kaip vienuolio įžadų ženklą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176183
 
 <a id="claim-t-193486"></a>
-- t-008
+- t-007
   teiginys: "Kojelavičiaus te ksto vertime paliekamas tradicinis Vaišvilkas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169316
 
 <a id="claim-t-194001"></a>
-- t-009
+- t-008
   teiginys: "Lietuvos metraščio pasakojime Mindaugas turėjo sūnų Vaišvilką ir dukterį, kurią išleido už Danieliaus sūnaus Švarno į Cholmą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176626
 
 <a id="claim-t-194002"></a>
-- t-010
+- t-009
   teiginys: "Lietuvos metraščio pasakojime Vaišvilką apėmė Dievo baimė, jis panūdo priimti krikštą ir pasikrikštijo Naugarduke."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176627
 
 <a id="claim-t-194003"></a>
-- t-011
+- t-010
   teiginys: "Po krikšto Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176628
 
 <a id="claim-t-196617"></a>
-- t-012
+- t-011
   teiginys: "Kojelavičius vaizdavo Vaišvilką kaip keršto troškimo neraminamą asmenį, kuris pats nerado būdo keršyti ir ėmė skatinti Tautvilą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -168,6 +168,19 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178802
+
+<a id="claim-t-196618"></a>
+- t-012
+  teiginys: "Kojelavičiaus pasakojime Vaišvilkas nusileido žygūnų maldavimams, kai šie ragino pasigailėti dėl nesantarvės žūstančios tėvynės."
+  atnaujinta: "2026-07-23 20:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169316
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -304,7 +317,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-169315
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -344,8 +357,9 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-008
+    - t-003
+    - t-007
+    - t-012
 
 - id: c-176183
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -375,9 +389,9 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
+    - t-005
     - t-006
-    - t-007
 
 - id: c-176626
   autorius: "Anoniminis metraštininkas"
@@ -397,7 +411,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-176627
   autorius: "Anoniminis metraštininkas"
@@ -417,7 +431,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-176628
   autorius: "Anoniminis metraštininkas"
@@ -435,7 +449,7 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-178802
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -458,4 +472,4 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011

@@ -68,19 +68,7 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172965
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-188506|Albertas Vijūkas-Kojalavičius]]: Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų.
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-188507|Albertas Vijūkas-Kojalavičius]]: Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo.
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-190840|Albertas Vijūkas-Kojalavičius]]: Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190006|Henenbergeris]]: Narbutas vertino, kad Henenbergeris, Hartknochas, Kojalavičius ir Škicas apšmeižė senovės lietuvius dėl tariamo žiaurumo ligoniams.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189983|Kristoforas Hartknochas]]: Narbutas kaltino Škicą, Henenbergerį, Hartknochą ir Kojalavičių apšmeižus senovės lietuvius dėl elgesio su ligoniais ir mirštančiaisiais.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190623|Albertas Vijūkas-Kojalavičius]]: Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-190624|Albertas Vijūkas-Kojalavičius]]: Narbutas kaltino Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties greitinimo papročio.
-- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-188400|Hartknochas]]: Narbutas Hartknochą kartu su Škicu, Henenbergeriu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius, esą šie greitindavę ligonių ir mirštančiųjų mirtį.
-- susijęs iš [[objektai/autoriai/Henenbergeris.md#claim-t-190312|Henenbergeris]]: Narbutas Henenbergerį kartu su Škicu, Hartknochu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius dėl tariamo ligonių mirties greitinimo.
-- susijęs iš [[objektai/daiktai/Piorunkos.md#claim-t-189697|Piorunkos]]: XV amžiuje kursavo lenkiški grašiai, vadinti piorunkomis, kuriuos Kojalavičius skyrė nuo Lietuvoje žinotų auksinių ir sidabrinių perunų.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190924|Motiejus Strijkovskis]]: Narbutas teigė, kad Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir taisė jo spragas.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188195|Herulai]]: Narbutas aiškino, kad herulai kai kada pagreitindavo ligos palaužtų senelių mirtį jų pačių prašymu, o ne pagal religijos nuostatus.
-- susijęs iš M. Strijkovskio kronika: Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas.
+
 ## Citatos
 
 - id: c-172964

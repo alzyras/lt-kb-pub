@@ -40,7 +40,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 ## Teiginiai
 
 <a id="claim-t-181515"></a>
-- t-017
+- t-001
   teiginys: "1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-165054
-- susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
+
 ## Citatos
 
 - id: c-165054
@@ -77,4 +77,4 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-001

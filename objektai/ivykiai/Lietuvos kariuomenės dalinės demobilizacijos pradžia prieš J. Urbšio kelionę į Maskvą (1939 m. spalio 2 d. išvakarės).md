@@ -62,6 +62,7 @@ Nenurodyta
   citata_rodoma: "kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

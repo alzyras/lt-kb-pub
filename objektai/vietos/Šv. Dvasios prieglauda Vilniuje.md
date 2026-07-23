@@ -48,7 +48,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81834
 
 <a id="claim-t-85852"></a>
-- t-005
+- t-002
   teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +64,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81838
 
 <a id="claim-t-85853"></a>
-- t-004
+- t-003
   teiginys: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +80,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81833
 
 <a id="claim-t-85854"></a>
-- t-003
+- t-004
   teiginys: "Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81837
 
 <a id="claim-t-85855"></a>
-- t-006
+- t-005
   teiginys: "Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,7 +112,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81835
 
 <a id="claim-t-85856"></a>
-- t-002
+- t-006
   teiginys: "Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +148,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-81834
   autorius: "Michał Baliński"
@@ -212,7 +212,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-81836
   autorius: "Michał Baliński"
@@ -241,7 +241,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
 
 - id: c-81837
   autorius: "Michał Baliński"
@@ -264,7 +264,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-81838
   autorius: "Michał Baliński"
@@ -298,4 +298,4 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

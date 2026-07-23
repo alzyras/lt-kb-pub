@@ -51,7 +51,7 @@ Krasauskas, R.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33115
-- susijęs iš [[objektai/autoriai/Krasauskas, R.md#claim-t-30768|Krasauskas, R]]: R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.
+
 ## Citatos
 
 - id: c-33115

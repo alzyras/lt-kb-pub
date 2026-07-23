@@ -61,6 +61,7 @@ Antoniewicz, J.
   citata_rodoma: "Antoniewicz, J. : _The Mysterious Sudovian People_ , Archaeology,\nII, nr. 3, New York 1958, 158-161 p. — (”) TaPr, I, 1, 1959, 63-64 p. —\n(”) _O kilku importach prowincialno-rzymskich i kultury « weuedzkiej »,\nznalezionych na obszarach plemiennych Jaćwiezy_ , RoB, III, 1962, 183-\n204 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

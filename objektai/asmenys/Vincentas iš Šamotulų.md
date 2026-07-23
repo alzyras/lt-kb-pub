@@ -50,7 +50,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     - c-169449
 
 <a id="claim-t-196628"></a>
-- t-003
+- t-002
   teiginys: "Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -128,4 +128,4 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

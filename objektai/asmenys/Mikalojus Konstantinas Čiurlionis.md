@@ -36,7 +36,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 ## Teiginiai
 
 <a id="claim-t-101688"></a>
-- t-016
+- t-001
   teiginys: "Čiurlionio muziejaus senojo meno ekspozicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -52,7 +52,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-95138
 
 <a id="claim-t-101689"></a>
-- t-012
+- t-002
   teiginys: "Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -68,7 +68,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-21889
 
 <a id="claim-t-101690"></a>
-- t-017
+- t-003
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -87,7 +87,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16722
 
 <a id="claim-t-101691"></a>
-- t-015
+- t-004
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -103,7 +103,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16723
 
 <a id="claim-t-101692"></a>
-- t-014
+- t-005
   teiginys: "Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -120,7 +120,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16723
 
 <a id="claim-t-101693"></a>
-- t-018
+- t-006
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -137,7 +137,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16724
 
 <a id="claim-t-101695"></a>
-- t-013
+- t-007
   teiginys: "Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -151,29 +151,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-16724
-- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63885|M. K. Čiurlionis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.
-- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63886|M. K. Čiurlionis]]: Čiurlionio muziejaus senojo meno ekspozicija.
-- susijęs iš Pažaislio vienuolynas: Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-- susijęs iš [[objektai/asmenys/Balys Sruoga.md#claim-t-18847|Balys Sruoga]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Balio Sruogos kūrinių.
-- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63726|Jonas Mačiulis-Maironis]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio, Vinco Mykolaičio-Putino ir kitų lietuvių autorių kūrinių.
-- susijęs iš [[objektai/asmenys/Jurgis Baltrušaitis.md#claim-t-19032|Jurgis Baltrušaitis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta Jurgio Baltrušaičio kūrinių.
-- susijęs iš [[objektai/asmenys/S. Girėnas.md#claim-t-78078|S. Girėnas]]: Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.
-- susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-64102|Stasys Girėnas]]: Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.
-- susijęs iš [[objektai/asmenys/V. Krėvė-Mickevičius.md#claim-t-64199|V. Krėvė-Mickevičius]]: Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti.
-- susijęs iš [[objektai/asmenys/Vincas Krėvė-Mickevičius.md#claim-t-19315|Vincas Krėvė-Mickevičius]]: Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius.
-- susijęs iš [[objektai/asmenys/Vincas Mykolaitis-Putinas.md#claim-t-19317|Vincas Mykolaitis-Putinas]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Vinco Mykolaičio-Putino kūrinių.
-- susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125058|Maironis]]: Po J. Stalino mirties, „atšilimo“ laikotarpiu, oficialiai išspausdinta Maironio kūrinių.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26810|Lietuvos Persitvarkymo Sąjūdis]]: 1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75268|Sausio 13-oji (1991 m.)]]: Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų.
-- susijęs iš Kauno įgulos bažnyčia: Kauno įgulos bažnyčioje buvo įkurtas Skulptūros ir vitražo muziejus.
-- susijęs iš Leipcigas: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš Vilniaus arkikatedra: Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.
-- susijęs iš Visų Šventųjų bažnyčia: Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.
-- susijęs iš Šv. Jonų bažnyčia: Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.
-- susijęs iš [[objektai/zodynas/destalinizacija atšilimo laikotarpis.md#claim-t-22112|destalinizacija atšilimo laikotarpis]]: Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
-- susijęs iš [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis.md#claim-t-22113|destalinizacija postalininis metas atšilimo laikotarpis]]: Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
+
 ## Citatos
 
 - id: c-16722
@@ -197,7 +175,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-003
 
 - id: c-16723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -218,8 +196,8 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-014
+    - t-004
+    - t-005
 
 - id: c-16724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -245,8 +223,8 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-013
+    - t-006
+    - t-007
 
 - id: c-21889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -270,7 +248,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-002
 
 - id: c-95138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -289,4 +267,4 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-001

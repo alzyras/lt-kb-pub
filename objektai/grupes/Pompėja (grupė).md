@@ -50,8 +50,7 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184181
-- susijęs iš [[objektai/grupes/Paestumas (grupė).md#claim-t-200835|Paestumas (grupė)]]: Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų dorėniškomis Paestumo šventyklomis.
-- susijęs iš Paestumas (vieta): Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir romėnų architektūros paminklais.
+
 ## Citatos
 
 - id: c-184181

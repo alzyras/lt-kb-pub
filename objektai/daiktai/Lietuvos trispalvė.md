@@ -67,7 +67,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75334"></a>
-- t-009
+- t-001
   teiginys: "Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -84,7 +84,7 @@ Nenurodyta
     - c-26857
 
 <a id="claim-t-75335"></a>
-- t-014
+- t-002
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-26858
 
 <a id="claim-t-75336"></a>
-- t-013
+- t-003
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -120,7 +120,7 @@ Nenurodyta
     - c-73140
 
 <a id="claim-t-75337"></a>
-- t-010
+- t-004
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -139,7 +139,7 @@ Nenurodyta
     - c-26858
 
 <a id="claim-t-75338"></a>
-- t-012
+- t-005
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -155,7 +155,7 @@ Nenurodyta
     - c-73140
 
 <a id="claim-t-75339"></a>
-- t-011
+- t-006
   teiginys: "1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -199,7 +199,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-26857
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,7 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-001
 
 - id: c-26858
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -241,8 +241,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-010
+    - t-002
+    - t-004
 
 - id: c-73140
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -265,5 +265,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-012
+    - t-003
+    - t-005

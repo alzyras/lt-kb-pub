@@ -47,7 +47,7 @@ Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixti
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173345
-- susijęs iš [[objektai/autoriai/Maschas.md#claim-t-190372|Maschas]]: Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
+
 ## Citatos
 
 - id: c-173345

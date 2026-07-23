@@ -44,7 +44,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 <a id="claim-t-199236"></a>
 - t-001
   teiginys: "Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m."
-  atnaujinta: "2026-07-20 14:26"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Latvija; mentioned_place: Livonija"
   temporaliniai_duomenys: "įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.; įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m."
@@ -62,7 +62,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     - c-181757
 
 <a id="claim-t-199237"></a>
-- t-003
+- t-002
   teiginys: "Pagal rusų metraščius ir Henriko Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko patekimo Lietuvos valdžion XIII a."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "auto"
@@ -74,7 +74,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     - c-181758
 
 <a id="claim-t-199238"></a>
-- t-002
+- t-003
   teiginys: "HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "auto"
@@ -127,7 +127,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-181757
   autorius: "Zenonas Ivinskis"
@@ -166,4 +166,4 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

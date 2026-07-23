@@ -36,7 +36,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 ## Teiginiai
 
 <a id="claim-t-89601"></a>
-- t-002
+- t-001
   teiginys: "Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     - c-85544
 
 <a id="claim-t-89602"></a>
-- t-001
+- t-002
   teiginys: "Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +107,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003
 
 - id: c-85544
@@ -128,4 +128,4 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

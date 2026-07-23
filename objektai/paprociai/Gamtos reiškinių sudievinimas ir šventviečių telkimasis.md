@@ -66,7 +66,7 @@ Nenurodyta
     - c-55137
 
 <a id="claim-t-183310"></a>
-- t-003
+- t-002
   teiginys: "Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -124,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

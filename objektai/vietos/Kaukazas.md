@@ -66,49 +66,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175439
-- susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
-- susijęs iš [[objektai/asmenys/Herberis.md#claim-t-191414|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai.
-- susijęs iš [[objektai/asmenys/Karpinas.md#claim-t-191428|Karpinas]]: Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries.
-- susijęs iš [[objektai/asmenys/Rusbergas Rubrikvis.md#claim-t-191978|Rusbergas Rubrikvis]]: Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus.
-- susijęs iš [[objektai/asmenys/Rusbergas.md#claim-t-191977|Rusbergas]]: Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus.
-- susijęs iš [[objektai/asmenys/Safaržykas.md#claim-t-191193|Safaržykas]]: Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais ir osetinais, kurių palikuonys gyvena Kaukaze.
-- susijęs iš [[objektai/autoriai/Herberis.md#claim-t-191645|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai buvo auksakaliai arba ginklakaliai.
-- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190441|Malte-Brunas]]: Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.
-- susijęs iš [[objektai/autoriai/Rosliakovas.md#claim-t-190451|Rosliakovas]]: Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraštinį žodynėlį.
-- susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
-- susijęs iš Malte-Bruno „Vocabulaire de mots génériques“: Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš prūsiško „Khohkasp“ – plikojo kalno.
-- susijęs iš Rosliakovo apie 1809 m. sudarytas Kaukazo dialekto rankraštinis žodynėlis: Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu.
-- susijęs iš Pietų Rusija: Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.
-- susijęs iš [[objektai/asmenys/Hameris.md#claim-t-191204|Hameris]]: Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra.
-- susijęs iš [[objektai/asmenys/Henrikas Julijus Klaprotas.md#claim-t-191347|Henrikas Julijus Klaprotas]]: Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną.
-- susijęs iš [[objektai/asmenys/Klaprotas.md#claim-t-191503|Klaprotas]]: Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuriame Narbutas nerado reikšmingo panašumo į lietuvių kalbą.
-- susijęs iš [[objektai/autoriai/Klaprotas.md#claim-t-191628|Klaprotas]]: Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdamas neradęs ryškaus panašumo į lietuvių kalbą.
-- susijęs iš [[objektai/autoriai/Robert Gordon Latham.md#claim-t-75425|Robert Gordon Latham]]: Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskrito giminingumas su lietuvių kalba yra ypač didelis.
-- susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
-- susijęs iš [[objektai/grupes/Alanai.md#claim-t-192363|Alanai]]: Narbuto pasakojime alanai pasitraukė į Dono aukštupį ir pavergė arba išstūmė galonus, antropofagus, melanchlenus bei neurus.
-- susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192953|Kolchai]]: Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187967|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: 1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas.
-- susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187968|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją.
-- susijęs iš [[objektai/ivykiai/Čingischano vadų karas su alanais.md#claim-t-191078|Čingischano vadų karas su alanais]]: Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.
-- susijęs iš [[objektai/ivykiai/Čingischano vadų žygis į Samachą ir Derbentą 1223 m.md#claim-t-192490|Čingischano vadų žygis į Samachą ir Derbentą 1223 m]]: Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento.
-- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13491|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.
-- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13492|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui.
-- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75606|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.
-- susijęs iš Descriptive Ethnology: „Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.
-- susijęs iš Descriptive Ethnology: Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.
-- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
-- susijęs iš Klaproth, Asia Polyglotta: Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žodyne nėra reikšmingo panašumo į lietuvių kalbą.
-- susijęs iš Araksas: Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio.
-- susijęs iš Azija: Narbutas kolchų tautos atsikėlimą kildino iš Azijos gilumos į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų.
-- susijęs iš Europos geografinis centras: Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje.
-- susijęs iš Europos geografinis centras: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
-- susijęs iš Europos geografinis centras: Geografinis Europos centras nurodomas Lietuvoje.
-- susijęs iš Lietuva: Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.
-- susijęs iš Pietų Rusija: Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.
-- susijęs iš Uralas: Teodoras Narbutas Uralo kalnus ir turtingas rūdynas nurodė kaip tikėtiną šios plačiai pasklidusios tautos įtakos ribą.
-- susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.
-- susijęs iš Vilnius: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
-- susijęs iš [[objektai/daiktai/Rykštės.md#claim-t-187814|Rykštės]]: 1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas.
+
 ## Citatos
 
 - id: c-33872

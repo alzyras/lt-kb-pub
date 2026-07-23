@@ -51,7 +51,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     - c-173337
 
 <a id="claim-t-190794"></a>
-- t-003
+- t-002
   teiginys: "Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     - c-173676
 
 <a id="claim-t-190795"></a>
-- t-004
+- t-003
   teiginys: "Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +91,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     - c-173677
 
 <a id="claim-t-194890"></a>
-- t-005
+- t-004
   teiginys: "Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -102,12 +102,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177286
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190316|Herodotas]]: Herodotas ir Strabonas tikino, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti dievams skirtas šventyklas.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188179|Egiptiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
-- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-188183|Finikiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
-- susijęs iš [[objektai/grupes/Persai.md#claim-t-189429|Persai]]: Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose.
-- susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189424|Senovės egiptiečiai]]: Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams.
-- susijęs iš [[objektai/zodynas/Miškas su kovarniais.md#claim-t-189313|Miškas su kovarniais]]: Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.'
@@ -130,11 +125,10 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-173337
@@ -183,7 +177,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-173677
   autorius: "Teodoras Narbutas"
@@ -214,7 +208,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177286
   autorius: "Teodoras Narbutas"
@@ -231,4 +225,4 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004

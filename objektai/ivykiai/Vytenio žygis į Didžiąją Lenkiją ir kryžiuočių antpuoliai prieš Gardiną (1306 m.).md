@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196284"></a>
-- t-004
+- t-001
   teiginys: "Kojelavičiaus pasakojime magistras Konradas, manydamas Gardiną likus be gynėjų, įsakė Albertui Hagenui staiga užpulti pilį ir miestą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Nenurodyta
     - c-168876
 
 <a id="claim-t-196285"></a>
-- t-005
+- t-002
   teiginys: "Kojelavičius Gardino antpuolio skerdynes vaizduoja kaip didesnes, nei leido tikėtis iš ne daugiau kaip trijų šimtų samdininkų ir kelių Ordino riterių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-178610
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -131,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

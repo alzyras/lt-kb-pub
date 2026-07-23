@@ -77,7 +77,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173716
-- susijęs iš Vilniaus vyskupija Vilnius kaip vyskupų centras: Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.
+
 ## Citatos
 
 - id: c-173010

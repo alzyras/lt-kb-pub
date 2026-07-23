@@ -57,7 +57,7 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
   temporalinis_llm_pakomentavimas: "Reikia pašalinti OCR ir puslapio triukšmą, paliekant citatos pagrindžiamą faktą."
   pagrindžia:
     - c-26664
-- susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64205|Valdas Adamkus]]: Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
+
 ## Citatos
 
 - id: c-26664

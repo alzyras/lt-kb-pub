@@ -54,11 +54,7 @@ Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai se
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171840
-- susijęs iš [[objektai/daiktai/Kidulių Dangaus karalienės bareljefas.md#claim-t-189657|Kidulių Dangaus karalienės bareljefas]]: Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso.
-- susijęs iš Kidulių pilis (pilis, XIX a.): Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo labai seną mūro pilį.
-- susijęs iš Kidulių pilis (pilis, XIX a.): Narbutas iliustracijų sąraše nurodė, kad Kidulių pilyje rasta lipdyta jo vadintos dievaitės Perkūnaitėlės statulėlė.
-- susijęs iš Jurbarkas: Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.
-- susijęs iš Nemunas: Narbutas 1805 m. Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, matė labai seną mūro pilį.
+
 ## Citatos
 
 - id: c-171840

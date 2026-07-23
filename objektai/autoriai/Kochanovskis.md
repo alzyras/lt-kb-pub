@@ -80,8 +80,7 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167623
-- susijęs iš Witold Wielki Książe Litewski: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą.
-- susijęs iš [[objektai/zodynas/lenkinti.md#claim-t-36804|lenkinti]]: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.
+
 ## Citatos
 
 - id: c-36669

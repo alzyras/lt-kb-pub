@@ -53,11 +53,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis faktinis sakinys apie agentų-smogikų vaidmenį."
   pagrindžia:
     - c-44719
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67037|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.
-- susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
-- susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
-- susijęs iš [[objektai/zodynas/kovinė-agentūrinė grupė.md#claim-t-42474|kovinė-agentūrinė grupė]]: Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes.
+
 ## Citatos
 
 - id: c-44719

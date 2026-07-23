@@ -53,16 +53,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82534
-- susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
-- susijęs iš [[objektai/zodynas/Czopowe.md#claim-t-86521|Czopowe]]: Vilniaus miestiečiams ir pirkliams buvo nurodyta privalomai mokėti Czopowe ir Szosowe mokesčius.
-- susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113893|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
-- susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172850|Vilniaus pirkliai]]: Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus.
-- susijęs iš Torunė: Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.
-- susijęs iš [[objektai/zodynas/Czopowe.md#claim-t-86520|Czopowe]]: Czopowe buvo svaigalų mokestis, kurį Batoras reikalavo išreikalauti iš Vilniaus miestiečių.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169921|luomas]]: Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.
-- susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86424|muitas thelonea]]: Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas.
+
 ## Citatos
 
 - id: c-82533

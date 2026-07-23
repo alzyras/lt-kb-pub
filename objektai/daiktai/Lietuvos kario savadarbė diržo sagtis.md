@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78668"></a>
-- t-003
+- t-001
   teiginys: "Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ Nenurodyta
     - c-75882
 
 <a id="claim-t-78669"></a>
-- t-001
+- t-002
   teiginys: "Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-75882
 
 <a id="claim-t-78670"></a>
-- t-002
+- t-003
   teiginys: "Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -124,8 +124,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-75883
-- susijęs iš Kolupiai: 1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.
-- susijęs iš [[objektai/zodynas/Savanoris.md#claim-t-42426|Savanoris]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.
+
 ## Citatos
 
 - id: c-75882
@@ -151,8 +150,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-001
+    - t-002
 
 - id: c-75883
   sudarytojas: "Karolis Zikaras"
@@ -207,4 +206,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

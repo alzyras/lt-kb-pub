@@ -8,10 +8,10 @@ datos:
   - '1971 m.'
 date_start: '1960'
 date_end: '1971'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

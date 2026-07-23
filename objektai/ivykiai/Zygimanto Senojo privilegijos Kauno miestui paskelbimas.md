@@ -50,9 +50,6 @@ Nenurodyta
   pagrindžia:
     - c-185268
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-185268

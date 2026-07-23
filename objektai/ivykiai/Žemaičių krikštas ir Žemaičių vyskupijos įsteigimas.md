@@ -9,13 +9,13 @@ datos:
   - '1417 m.'
 date_start: '1413'
 date_end: '1417'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - krikštas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -74,7 +74,7 @@ Nenurodyta
     - c-169900
 
 <a id="claim-t-186618"></a>
-- t-006
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas paskyrė kanauninkus, apdovanojo bažnyčią turtais ir įsakė perkrikštyti Žemaitiją į krikščionių tikėjimą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -91,7 +91,7 @@ Nenurodyta
     - c-169898
 
 <a id="claim-t-186619"></a>
-- t-005
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -108,7 +108,7 @@ Nenurodyta
     - c-169898
 
 <a id="claim-t-186621"></a>
-- t-007
+- t-004
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -147,12 +147,12 @@ Nenurodyta
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-186619
-    - t-186621
+  statusas: verified
+- t-002
+    - t-005
 
 ## Citatos
 
@@ -177,9 +177,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-005
-    - t-007
+    - t-002
+    - t-003
+    - t-004
 
 - id: c-169899
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

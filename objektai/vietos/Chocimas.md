@@ -54,7 +54,7 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-02631
-- susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
+
 ## Citatos
 
 - id: c-02631

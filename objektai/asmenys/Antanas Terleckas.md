@@ -56,14 +56,7 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-21600
-- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
-- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
-- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės lyga.md#claim-t-74752|Lietuvos laisvės lyga]]: Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.
-- susijęs iš [[objektai/grupes/Lietuvos laisvės lyga.md#claim-t-74756|Lietuvos laisvės lyga]]: Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
-- susijęs iš Laisvės šauklys: Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.
-- susijęs iš Vytis (Lietuvos laisvės lygos žurnalas): Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.
-- susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23536|pogrindis pogrindiniai leidiniai nelegali spauda]]: LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+
 ## Citatos
 
 - id: c-21600
@@ -105,6 +98,7 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   citata_rodoma: "Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

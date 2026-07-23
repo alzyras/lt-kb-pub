@@ -48,7 +48,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 ## Teiginiai
 
 <a id="claim-t-55235"></a>
-- t-002
+- t-001
   teiginys: "Wremiennik Sofijski nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -66,7 +66,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55650
 
 <a id="claim-t-55236"></a>
-- t-003
+- t-002
   teiginys: "Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -84,7 +84,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55651
 
 <a id="claim-t-55237"></a>
-- t-004
+- t-003
   teiginys: "Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -100,7 +100,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55652
 
 <a id="claim-t-55238"></a>
-- t-005
+- t-004
   teiginys: "Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::sources"
@@ -118,7 +118,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-55653
 
 <a id="claim-t-82035"></a>
-- t-006
+- t-005
   teiginys: "Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::sources"
@@ -155,7 +155,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-55651
   autorius: "Michał Baliński"
@@ -184,7 +184,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-55652
   autorius: "Michał Baliński"
@@ -221,7 +221,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-55653
   autorius: "Michał Baliński"
@@ -257,7 +257,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-78541
   autorius: "Michał Baliński"
@@ -283,4 +283,4 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005

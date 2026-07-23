@@ -53,11 +53,7 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
   temporalinis_llm_pakomentavimas: "Reikia aiškiau perteikti citatoje minimą sutarties pobūdį."
   pagrindžia:
     - c-03146
-- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
-- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
-- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
-- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
-- susijęs iš [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.).md#claim-t-01734|Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]: 1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.
+
 ## Citatos
 
 - id: c-03146

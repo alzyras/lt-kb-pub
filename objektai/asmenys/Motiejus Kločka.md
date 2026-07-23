@@ -61,7 +61,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169432
-- susijęs iš [[objektai/asmenys/Aleksandras Bokevičius.md#claim-t-186093|Aleksandras Bokevičius]]: Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
+
 ## Citatos
 
 - id: c-169431

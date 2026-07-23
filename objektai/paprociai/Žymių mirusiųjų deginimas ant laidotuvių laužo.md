@@ -122,6 +122,7 @@ Nenurodyta
   citata_rodoma: "Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­\nsiojo kūnu būdavo kraunama viskas, kas velionio gyvenime\nbuvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­\nžiūriu sekta senovės galais ir skandinavais bei daugeliu kitų\nįvairių tautų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

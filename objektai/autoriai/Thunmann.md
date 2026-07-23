@@ -48,8 +48,7 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173342
-- susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-191886|Johanas Foigtas]]: Nagrinėdamas Tacito geografiją, J. Foigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu.
-- susijęs iš [[objektai/autoriai/J. Voigtas.md#claim-t-191884|J. Voigtas]]: Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu.
+
 ## Citatos
 
 - id: c-173342

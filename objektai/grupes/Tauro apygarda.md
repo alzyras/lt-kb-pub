@@ -41,7 +41,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 ## Teiginiai
 
 <a id="claim-t-49111"></a>
-- t-003
+- t-001
   teiginys: "Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +61,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - c-51211
 
 <a id="claim-t-49112"></a>
-- t-001
+- t-002
   teiginys: "Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - c-51212
 
 <a id="claim-t-49113"></a>
-- t-002
+- t-003
   teiginys: "Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-51210
-- susijęs iš Suvalkija: Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.
+
 ## Citatos
 
 - id: c-51210
@@ -117,7 +117,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-51211
   sudarytojas: "Karolis Zikaras"
@@ -137,7 +137,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-51212
   sudarytojas: "Karolis Zikaras"
@@ -175,4 +175,4 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

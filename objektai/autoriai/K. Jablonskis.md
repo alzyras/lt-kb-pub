@@ -51,10 +51,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30629
-- susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
-- susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams Sudarė P. Pakarklis; Redagavo K. Jablonskis: Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.
-- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
-- susijęs iš Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais: K. Jablonskis sudarė pirmąjį XVI-XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
+
 ## Citatos
 
 - id: c-30629
@@ -96,6 +93,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   citata_rodoma: "Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius\nlietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių\nkalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški\nžodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).\nAntrasis to rinkinio tomas liko rankraštyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

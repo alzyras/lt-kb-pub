@@ -45,12 +45,7 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33951
-- susijęs iš Preivosto šilai: Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89549|dykra]]: Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
-- susijęs iš Liepona: Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.
-- susijęs iš Raigardo ežeras: Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos.
-- susijęs iš Vystyčio ežeras: Siena ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
-- susijęs iš Širvinta: Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę.
+
 ## Citatos
 
 - id: c-33951

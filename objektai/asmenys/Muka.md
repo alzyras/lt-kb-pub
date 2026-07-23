@@ -7,15 +7,15 @@ datos:
   - '1324 m.'
 date_start: '1324'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -135,6 +135,7 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   citata_rodoma: "Apie 45 lietuvių žūtį 1324 metais\n\n   Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,\nsu 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai\njuos apsupo ir visus nukovė.\n\n\n\n\n                        353 (346)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

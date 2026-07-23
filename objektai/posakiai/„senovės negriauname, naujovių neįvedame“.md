@@ -36,7 +36,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 ## Teiginiai
 
 <a id="claim-t-186413"></a>
-- t-002
+- t-001
   teiginys: "Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-169754
 
 <a id="claim-t-186414"></a>
-- t-004
+- t-002
   teiginys: "Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +70,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-169754
 
 <a id="claim-t-186415"></a>
-- t-005
+- t-003
   teiginys: "Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-169754
 
 <a id="claim-t-186416"></a>
-- t-001
+- t-004
   teiginys: "„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - c-169755
 
 <a id="claim-t-186417"></a>
-- t-003
+- t-005
   teiginys: "Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +114,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-169755
-- susijęs iš [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas.md#claim-t-54268|LDK užimtų Rusios žemių senosios tvarkos palikimas]]: LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.
-- susijęs iš [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas.md#claim-t-54269|LDK užimtų Rusios žemių senosios tvarkos palikimas]]: LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.
+
 ## Citatos
 
 - id: c-169754
@@ -138,9 +137,9 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-004
-    - t-005
+    - t-003
 
 - id: c-169755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -160,8 +159,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
+    - t-004
+    - t-005
 
 - id: c-169756
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -179,6 +178,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   citata_rodoma: "Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų \nbažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos \nidėją (ji įgyvendinta vėliau – 1439 m. Florencijoje). LDK būtent Vytauto \nlaikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios, \nmatuojant net tų laikų mastu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

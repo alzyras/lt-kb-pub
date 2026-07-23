@@ -52,11 +52,7 @@ J. L. Ozięblowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininka
   vertinimo_atnaujinta: "2026-07-19T10:07:02Z"
   pagrindžia:
     - c-185750
-- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202412|Jonas Leonas Oziębłowskis]]: Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininkas, turėjo valdų Ukmergės paviete ties Vidiškiais ir Riešėje prie Vilniaus.
-- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-202398|Kotryna]]: Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio žmona; jos pirmasis vyras Samuelis Komorowskis šaltinyje apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu.
-- susijęs iš [[objektai/asmenys/Petkevičius (karvedys, XVII a.).md#claim-t-202417|Petkevičius (karvedys, XVII a.)]]: 1698 m. balandžio 23 d. J. L. Oziębłowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pavalksnės, palivarką Ukmergės paviete Samueliui Petkevičiui.
-- susijęs iš [[objektai/asmenys/Samuelis Komorowskis.md#claim-t-202418|Samuelis Komorowskis (karvedys, XVII a.)]]: Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu.
-- susijęs iš [[objektai/asmenys/Teofilis Duninas Rajeckis.md#claim-t-202419|Teofilis Duninas Rajeckis]]: Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmonos, tėvas.
+
 ## Citatos
 
 - id: c-185750

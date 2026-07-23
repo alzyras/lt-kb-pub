@@ -48,7 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41464"></a>
-- t-003
+- t-001
   teiginys: "Posakis „Sausis didžiąja raide“ siejamas su Sausio 13-ąja ir 1991 metų naktimi, kai Lietuva laimėjo ištvermės mūšį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -129,5 +129,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-002

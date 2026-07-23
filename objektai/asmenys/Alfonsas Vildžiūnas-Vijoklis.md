@@ -55,10 +55,7 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-44272
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67011|Šimonių girios apgultis (1949 m.)]]: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
-- susijęs iš Anykščių valsčius: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
-- susijęs iš Butkiškio vienkiemis: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.
-- susijęs iš Jovaišų sodyba: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie štabo bunkerio Jovaišų sodyboje.
+
 ## Citatos
 
 - id: c-44272

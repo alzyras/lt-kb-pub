@@ -59,9 +59,9 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - c-75368
 
 <a id="claim-t-188567"></a>
-- t-003
+- t-002
   teiginys: "Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,7 +79,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - c-171456
 
 <a id="claim-t-197413"></a>
-- t-005
+- t-003
   teiginys: "Konstantinas Sirvydas būtų kalbėjęs lietuviams, kurie senovės laikais šito iškilmingai laikydavosi ir iš dalies to laikėsi iki Laskovičiaus ir Lasickio laikų, tai yra iki XVI amžiaus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-171462
   autorius: "Teodoras Narbutas"
@@ -191,4 +191,4 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

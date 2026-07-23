@@ -59,16 +59,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45162
-- susijęs iš [[objektai/asmenys/Sprangeris.md#claim-t-40425|Sprangeris]]: Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.
-- susijęs iš Kupiškio apskritis: 1949 m. lapkričio 1-2 d. MGB vidaus kariuomenės 137-ojo ir 298-ojo šaulių pulkų kareiviai vykdė operacijas Kupiškio apskrityje.
-- susijęs iš Subačius: Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje.
-- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41239|Antrasis Panevėžio puolimas]]: Užėmus Panevėžį gegužės 20 d. lietuvių pajėgos įsitvirtino mieste ir pradėjo ruoštis galimam bolševikų mėginimui Panevėžį atsiimti.
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67010|Šimonių girios apgultis (1949 m.)]]: 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
-- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39119|Šimonių girios apgultis]]: 1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.
-- susijęs iš Subačius: Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių.
-- susijęs iš Svėdasų valsčius: 1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
-- susijęs iš Troškūnai: Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.
-- susijęs iš Šimonių giria: 1949 m. lapkričio 1-2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje.
+
 ## Citatos
 
 - id: c-45162

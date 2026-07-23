@@ -30,7 +30,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 ## Teiginiai
 
 <a id="claim-t-58993"></a>
-- t-002
+- t-001
   teiginys: "Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
     - c-59626
 
 <a id="claim-t-58994"></a>
-- t-003
+- t-002
   teiginys: "Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59627
   autorius: "Petras Dusburgietis"
@@ -100,4 +100,4 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

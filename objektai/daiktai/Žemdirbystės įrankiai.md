@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179494"></a>
-- t-003
+- t-001
   teiginys: "Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -89,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

@@ -26,6 +26,17 @@ media_all_json: |-
 
 Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V.
 
+## Teiginiai
+
+<a id="claim-t-61012"></a>
+- t-001
+  teiginys: "V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-61644
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
@@ -34,11 +45,10 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
     7; Lietuvininkai.— LTE, t. 6, p. 527— 528; Mažoji Lietuva.— Ten pat, t. 7, p. 338—340.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61644
@@ -54,7 +64,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-61645
   autorius: "Petras Dusburgietis"
@@ -70,13 +80,3 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-<a id="claim-t-61012"></a>
-- t-002
-  teiginys: "V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61644

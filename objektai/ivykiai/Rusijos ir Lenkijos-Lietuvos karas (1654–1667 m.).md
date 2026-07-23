@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41353"></a>
-- t-002
+- t-001
   teiginys: "1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Nenurodyta
     - c-44926
 
 <a id="claim-t-41354"></a>
-- t-001
+- t-002
   teiginys: "1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +118,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-44926
   sudarytojas: "Karolis Zikaras"
@@ -165,4 +165,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

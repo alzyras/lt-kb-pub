@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-113486"></a>
-- t-003
+- t-001
   teiginys: "Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-104711
   autorius: "Michał Baliński"

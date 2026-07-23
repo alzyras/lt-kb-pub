@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12289"></a>
-- t-003
+- t-001
   teiginys: "Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Nenurodyta
     - c-14303
 
 <a id="claim-t-12290"></a>
-- t-004
+- t-002
   teiginys: "Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-14304
 
 <a id="claim-t-12291"></a>
-- t-005
+- t-003
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -110,7 +110,7 @@ Nenurodyta
     - c-21398
 
 <a id="claim-t-12292"></a>
-- t-006
+- t-004
   teiginys: "1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -128,7 +128,7 @@ Nenurodyta
     - c-14307
 
 <a id="claim-t-92960"></a>
-- t-012
+- t-005
   teiginys: "Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,7 +144,7 @@ Nenurodyta
     - c-21394
 
 <a id="claim-t-92961"></a>
-- t-010
+- t-006
   teiginys: "Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,7 +161,7 @@ Nenurodyta
     - c-88394
 
 <a id="claim-t-92962"></a>
-- t-009
+- t-007
   teiginys: "Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,7 +196,7 @@ Nenurodyta
     - c-21397
 
 <a id="claim-t-92964"></a>
-- t-007
+- t-009
   teiginys: "LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,7 +215,7 @@ Nenurodyta
     - c-21396
 
 <a id="claim-t-92965"></a>
-- t-013
+- t-010
   teiginys: "Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -247,56 +247,7 @@ Nenurodyta
   semantiniai_rysiai: "Herbai priklausė Lietuvos bajorija (0.86)"
   pagrindžia:
     - c-21398
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190858|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1302 m. Gediminas suteikė herbą Krunevičiui, nors toks paprotys lietuviams nebuvęs būdingas.
-- susijęs iš [[objektai/asmenys/Kasparas Neseckis.md#claim-t-191212|Kasparas Neseckis]]: Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą.
-- susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188597|Motiejus Strijkovskis]]: Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.
-- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191306|Petras Malachovskis]]: Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui.
-- susijęs iš [[objektai/asmenys/Petras Malachovskis.md#claim-t-191307|Petras Malachovskis]]: Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus.
-- susijęs iš [[objektai/autoriai/J. B. Rakoveckis.md#claim-t-190430|J. B. Rakoveckis]]: J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190644|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.
-- susijęs iš [[objektai/autoriai/Neseckis.md#claim-t-190374|Neseckis]]: Narbutas kritikuoja Neseckio „Herbyne“ pateiktą aiškinimą, kad „Paparona“ arba „Kiniglis“ reiškia kiškį, o ne triušį.
-- susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191615|Petras Malachovskis]]: Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.
-- susijęs iš [[objektai/autoriai/Petras Malachovskis.md#claim-t-191616|Petras Malachovskis]]: Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu.
-- susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190303|Tadas Čackis]]: Narbutas Čackio veikalą „Apie teises“ nurodė kaip šaltinį istorijos duomenims apie kitų tautų antspaudus ir herbus.
-- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200669|Herbų bareljefai ir varinis stogas]]: 1751 m. giminės rezidencijos statybos metu buvo aptariama, kur ir kokie turi būti herbų bareljefai.
-- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais.md#claim-t-189766|Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
-- susijęs iš [[objektai/daiktai/Senovės prūsų vėliava.md#claim-t-189714|Senovės prūsų vėliava]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
-- susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50696|Lietuvių bajorija]]: Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.
-- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-188282|Lietuvos bajorija]]: Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.
-- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
-- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
-- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui 1302 m.md#claim-t-189620|Gedimino herbo suteikimas Krunevičiui 1302 m]]: Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną.
-- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
-- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192032|Gedimino herbo suteikimas Krunevičiui]]: Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms.
-- susijęs iš [[objektai/ivykiai/Herbų vienovės įvedimas Horodlės seime 1413 m.md#claim-t-189622|Herbų vienovės įvedimas Horodlės seime 1413 m (seimas, XV a.)]]: 1413 m. Horodlės seime Lenkijos bajorai, Lietuvos ir Lenkijos unijos ženklan, suteikė savo herbus lietuvių bajorams ir įvedė herbų vienovę.
-- susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
-- susijęs iš 1630 m. testamentas su šešiais antspaudais: Narbutas nurodė, kad prie 1630 m. testamento buvo pridėtas nežinia kieno prispaustas antspaudas ir dar penki antspaudai su lenkiškais herbais.
-- susijęs iš Horodlė: 1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192330|Kiniglis]]: Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192331|Kiniglis]]: Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį.
-- susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200669|Herbų bareljefai ir varinis stogas]]: 1751 m. giminės rezidencijos statybos metu buvo aptariama, kur ir kokie turi būti herbų bareljefai.
-- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192032|Gedimino herbo suteikimas Krunevičiui]]: Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192330|Kiniglis]]: Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų.
-- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190176|Krunevičius]]: Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui.
-- susijęs iš [[objektai/asmenys/Krunevičius.md#claim-t-190913|Krunevičius]]: Malachovskis pateikė žinių, kad Gediminas suteikė herbą Krunevičiui, nors Narbutas nurodo neaiškų šio teiginio šaltinį.
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200670|Herbų bareljefai ir varinis stogas]]: 1751 m. rezidencijos stogą nurodyta dengti variu, kad gausūs lietūs jam nepakenktų.
-- susijęs iš [[objektai/daiktai/Rezidencijos herbų bareljefai ir varinis stogas.md#claim-t-200706|Rezidencijos herbų bareljefai ir varinis stogas]]: 1751 m. Jonas Dominykas Lopacinskis su architektu nuolat diskutavo dėl savo giminės rezidencijos statybos kaštų.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188248|Lenkai]]: Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192432|Lietuviai]]: Teodoro Narbuto teigimu, herbų suteikimo paprotys lietuviams nebuvo būdingas, nors Lietuvoje šeimos herbai egzistavo bent nuo Gedimino laikų.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188304|Prūsai]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.
-- susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
-- susijęs iš Lenkija: Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192329|Kiniglis]]: Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200670|Herbų bareljefai ir varinis stogas]]: 1751 m. rezidencijos stogą nurodyta dengti variu, kad gausūs lietūs jam nepakenktų.
-- susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
-- susijęs iš [[objektai/posakiai/„senesnė ir garbingesnė, negu lenkų“.md#claim-t-195047|„senesnė ir garbingesnė, negu lenkų“]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192329|Kiniglis]]: Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį.
-- susijęs iš [[objektai/zodynas/Kiniglis.md#claim-t-192331|Kiniglis]]: Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį.
+
 ## Citatos
 
 - id: c-14303
@@ -315,7 +266,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-14304
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -336,7 +287,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-14306
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -376,7 +327,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-21394
   redaktorius: "A. Šapoka"
@@ -399,7 +350,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-005
 
 - id: c-21395
   redaktorius: "A. Šapoka"
@@ -421,7 +372,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-21396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -458,8 +409,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-007
+    - t-009
 
 - id: c-21397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -509,7 +460,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
     - t-011
 
 - id: c-88394
@@ -534,4 +485,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-006

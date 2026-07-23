@@ -101,8 +101,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55781
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
-- susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
+
 ## Citatos
 
 - id: c-55780

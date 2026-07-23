@@ -55,8 +55,7 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir bibliografinis triukšmas, paliktas aiškus faktas apie Inocentą."
   pagrindžia:
     - c-60964
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai.
-- susijęs iš Ptolomėjaus iš Lukos Analai: Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.
+
 ## Citatos
 
 - id: c-60964

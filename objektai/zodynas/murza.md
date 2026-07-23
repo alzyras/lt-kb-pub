@@ -64,7 +64,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.86)"
   pagrindžia:
     - c-167106
-- susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
+
 ## Citatos
 
 - id: c-40571

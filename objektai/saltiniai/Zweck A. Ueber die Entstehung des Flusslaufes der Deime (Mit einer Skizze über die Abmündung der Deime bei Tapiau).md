@@ -45,6 +45,7 @@ Dusburgietis teigia, kad zweck A.
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

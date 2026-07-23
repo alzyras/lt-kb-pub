@@ -8,12 +8,12 @@ datos:
   - '1817 m.'
 date_start: '1817'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -127,7 +127,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-173377

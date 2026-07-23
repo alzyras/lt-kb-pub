@@ -70,11 +70,10 @@ Nenurodyta
     maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
     tojo kaip diplomatinę kalbą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174982

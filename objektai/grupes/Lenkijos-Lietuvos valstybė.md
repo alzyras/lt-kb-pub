@@ -44,7 +44,7 @@ Politinė valstybė / politinis darinys.
 ## Teiginiai
 
 <a id="claim-t-188043"></a>
-- t-002
+- t-001
   teiginys: "Įvadiniame straipsnyje Lenkijos-Lietuvos valstybė apibūdinama kaip po trečiojo padalijimo 1795 m. netekusi nepriklausomybės ir atsidūrusi Rusijos, Prūsijos bei Austrijos imperijų valdžioje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -62,7 +62,7 @@ Politinė valstybė / politinis darinys.
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas gramatinis sakinys apie Lenkijos-Lietuvos valstybę. Jis remiasi citata ir neprideda nuo jos nutolusių faktų."
   pagrindžia:
     - c-170874
-- susijęs iš [[objektai/ivykiai/Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.).md#claim-t-187974|Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)]]: Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.
+
 ## Citatos
 
 - id: c-170874
@@ -92,4 +92,4 @@ Politinė valstybė / politinis darinys.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

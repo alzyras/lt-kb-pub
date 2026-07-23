@@ -37,9 +37,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69228
-- susijęs iš [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos.md#claim-t-01948|Generaliniai seimeliai ir provincijų sesijos]]: Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.
-- susijęs iš Slanimas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
-- susijęs iš Volkoviskas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
+
 ## Citatos
 
 - id: c-69228

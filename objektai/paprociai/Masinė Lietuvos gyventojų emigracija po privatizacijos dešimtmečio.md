@@ -83,6 +83,7 @@ Nenurodyta
   citata_rodoma: "Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

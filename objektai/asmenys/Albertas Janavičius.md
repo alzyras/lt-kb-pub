@@ -9,11 +9,6 @@ datos:
   - '1607 m.'
 date_start: '1506'
 date_end: '1607'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +16,11 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

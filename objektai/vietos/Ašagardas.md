@@ -48,7 +48,7 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171868
-- susijęs iš [[objektai/zodynas/Murgai.md#claim-t-189315|Murgai]]: Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Milda mūšio lauke dalydavosi su Odinu.
+
 ## Citatos
 
 - id: c-171868

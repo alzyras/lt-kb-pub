@@ -69,20 +69,7 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45544
-- susijęs iš [[objektai/asmenys/J. Reikala.md#claim-t-39745|J. Reikala]]: J. Reikala perėmė vadovavimą kolonai, kurią parėmė rezervas.
-- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49403|K. Škirpa]]: K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.
-- susijęs iš [[objektai/asmenys/Vasilka.md#claim-t-190996|Vasilka]]: Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę.
-- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38707|bendrasis rezervas]]: Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.
-- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38708|bendrasis rezervas]]: Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191004|Ziemovitas]]: Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
-- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-183656|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
-- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-38968|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182741|Lietuvos kariuomenė]]: Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.
-- susijęs iš Katinai: Bendrasis rezervas turėjo vykti Katinų kaimo link ir jį užimti.
-- susijęs iš Turmantas: 4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi.
-- susijęs iš Turmantas: Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.
-- susijęs iš [[objektai/zodynas/flangas.md#claim-t-42454|flangas]]: Lenkų rezervas pradėjo apeiti kryžiuočius iš jų dešiniojo flango.
+
 ## Citatos
 
 - id: c-45543

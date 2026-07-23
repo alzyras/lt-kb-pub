@@ -53,7 +53,7 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas biografinis sakinys."
   pagrindžia:
     - c-41652
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+
 ## Citatos
 
 - id: c-41652

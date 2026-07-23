@@ -8,12 +8,12 @@ datos:
   - '1848 m.'
 date_start: '1847'
 date_end: '1848'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192047"></a>
-- t-002
+- t-001
   teiginys: "Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -74,7 +74,7 @@ Nenurodyta
     - c-174918
 
 <a id="claim-t-192048"></a>
-- t-001
+- t-002
   teiginys: "T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -110,11 +110,10 @@ Nenurodyta
     kiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­
     tyti ir kritiškai įvertinti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174917
@@ -136,7 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-174918
   autorius: "Teodoras Narbutas"
@@ -158,4 +157,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

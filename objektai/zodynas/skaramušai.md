@@ -79,11 +79,7 @@ Terminas pavartotas apibūdinti artėjančių Užgavėnių minios antplūdžiui 
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183971
-- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200684|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Jonas Dominykas Lopacinskis Mykolui Ksaverui Sapiegai rašė apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
-- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200686|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: 1751 m. Mykolui Ksaverui Sapiegai buvo rašoma apie artėjančias Užgavėnes ir į Vilnių plūstančius skaramušus.
-- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200683|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo jam karnavalo metu susirasti žmoną.
-- susijęs iš [[objektai/asmenys/Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766).md#claim-t-200685|Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)]]: Kitame laiške kanauninkas Mykolui Ksaverui Sapiegai linkėjo karnavalo metu susirasti žmoną.
-- susijęs iš [[objektai/posakiai/nereikalingi skaramušai.md#claim-t-200628|nereikalingi skaramušai]]: 1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“.
+
 ## Citatos
 
 - id: c-183971

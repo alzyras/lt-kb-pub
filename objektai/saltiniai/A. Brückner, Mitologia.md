@@ -35,7 +35,7 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
 ## Teiginiai
 
 <a id="claim-t-188033"></a>
-- t-003
+- t-001
   teiginys: "A. Brücknerio „Mitologia“ nurodoma kaip 1910 m. Varšuvoje leistos „Wielka encyklopedia powszechna ilustrowana“ straipsnis."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -48,7 +48,7 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
     - c-170966
 
 <a id="claim-t-188034"></a>
-- t-004
+- t-002
   teiginys: "1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas buvo pavadintas „įžymiuoju falsifikatoriumi“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -90,8 +90,8 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-170967
   autorius: "Teodoras Narbutas"
@@ -103,6 +103,7 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   citata_rodoma: "35 Brįūckner] A. Mitologia // Wielka encyklopedia powszechna ■\nilustrowana. -  Warszawa, 1910. -  T. XLII-XLIV. -  S. 633."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

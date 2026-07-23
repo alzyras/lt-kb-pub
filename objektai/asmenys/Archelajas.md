@@ -48,16 +48,7 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174822
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191092|Plinijus Vyresnysis]]: Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190954|Plinijus]]: Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190782|Plinijus]]: Teodoro Narbuto pasakojime Plinijus užrašė Archelajo pasakojimą apie gintaro žaliavą, dar neatskirtą nuo medžių žievės.
-- susijęs iš Plinijaus veikalas apie gamtą: Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve.
-- susijęs iš Danija: Narbutas Danijos pakrantes mini tarp vietų, kur randama pavienių gintaro gabalų.
-- susijęs iš Indija: Narbutas remiasi Plinijaus užrašytu Archelajo pasakojimu, kad iš Indijos buvo atvežama gintaro žaliava, dar neatskirta nuo medžių žievės.
-- susijęs iš Lenkija: Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
-- susijęs iš Silezija: Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų.
-- susijęs iš Čekija: Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose.
-- susijęs iš [[objektai/zodynas/gintaras.md#claim-t-192920|gintaras]]: Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais.
+
 ## Citatos
 
 - id: c-174822

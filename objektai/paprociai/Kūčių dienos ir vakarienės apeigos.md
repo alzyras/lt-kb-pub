@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195395"></a>
-- t-004
+- t-001
   teiginys: "Po barščių valgomas aguonų pienas su šližikais."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-177816
 
 <a id="claim-t-195396"></a>
-- t-001
+- t-002
   teiginys: "Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-177812
 
 <a id="claim-t-195398"></a>
-- t-005
+- t-003
   teiginys: "Po Kūčių samdininkams baigdavosi tarnybos metai ir jie tapdavo svečiais."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-177814
 
 <a id="claim-t-195399"></a>
-- t-002
+- t-004
   teiginys: "Kūčioms ruošiami pasninkiniai ir šventiniai valgiai, tarp jų sausi barščiai su baravykais."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -120,7 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177813
   autorius: "M. Katkus"
@@ -136,7 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-177814
   autorius: "M. Katkus"
@@ -157,7 +157,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-177815
   autorius: "M. Katkus"
@@ -187,4 +187,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

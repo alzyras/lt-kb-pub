@@ -50,11 +50,10 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
     ar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten
     užrašyti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59546

@@ -31,7 +31,7 @@ Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes.
 ## Teiginiai
 
 <a id="claim-t-196555"></a>
-- t-002
+- t-001
   teiginys: "Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,4 +69,4 @@ Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

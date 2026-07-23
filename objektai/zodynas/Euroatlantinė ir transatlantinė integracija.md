@@ -38,7 +38,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 ## Teiginiai
 
 <a id="claim-t-69999"></a>
-- t-003
+- t-001
   teiginys: "Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +95,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-69164
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -138,4 +138,4 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

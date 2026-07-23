@@ -56,8 +56,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata."
   pagrindžia:
     - c-59333
-- susijęs iš [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.).md#claim-t-59552|Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]: 1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
-- susijęs iš Chełmža: Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
+
 ## Citatos
 
 - id: c-59333

@@ -46,7 +46,7 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     - c-45480
 
 <a id="claim-t-193789"></a>
-- t-003
+- t-002
   teiginys: "Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -83,4 +83,4 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
+    - t-002

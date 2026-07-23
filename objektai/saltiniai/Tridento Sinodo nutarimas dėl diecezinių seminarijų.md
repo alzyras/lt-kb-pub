@@ -29,7 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88341"></a>
-- t-002
+- t-001
   teiginys: "Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -45,7 +45,7 @@ media_all_json: |-
     - c-84321
 
 <a id="claim-t-88342"></a>
-- t-001
+- t-002
   teiginys: "Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-84321
   autorius: "Michał Baliński"
@@ -122,4 +122,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

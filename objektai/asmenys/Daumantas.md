@@ -12,15 +12,15 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-amziai:
-  - 'XV'
-  - 'D'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - karalius
+amziai:
+  - 'XV'
+  - 'D'
 periodo_grupes: []
 media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Mirozhskaya_2.jpg'
@@ -45,7 +45,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 ## Teiginiai
 
 <a id="claim-t-05161"></a>
-- t-003
+- t-001
   teiginys: "Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -62,7 +62,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-04827
 
 <a id="claim-t-05162"></a>
-- t-004
+- t-002
   teiginys: "Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-21645
 
 <a id="claim-t-05163"></a>
-- t-005
+- t-003
   teiginys: "Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-21646
 
 <a id="claim-t-05164"></a>
-- t-006
+- t-004
   teiginys: "1266 m. Daumantas su pskoviečiais puolė Nalšėnus."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-04830
 
 <a id="claim-t-82249"></a>
-- t-013
+- t-005
   teiginys: "Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-21642
 
 <a id="claim-t-82252"></a>
-- t-014
+- t-006
   teiginys: "Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-21643
 
 <a id="claim-t-184683"></a>
-- t-008
+- t-007
   teiginys: "Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -169,7 +169,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-168044
 
 <a id="claim-t-184685"></a>
-- t-010
+- t-008
   teiginys: "Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -189,7 +189,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-168046
 
 <a id="claim-t-184686"></a>
-- t-011
+- t-009
   teiginys: "Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -209,7 +209,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-168047
 
 <a id="claim-t-184687"></a>
-- t-012
+- t-010
   teiginys: "Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -229,7 +229,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-168048
 
 <a id="claim-t-193901"></a>
-- t-016
+- t-011
   teiginys: "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -241,7 +241,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-176526
 
 <a id="claim-t-193902"></a>
-- t-017
+- t-012
   teiginys: "Didysis kunigaikštis Narimantas, išgirdęs apie savo brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa reikšti užuojautos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -253,7 +253,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-176527
 
 <a id="claim-t-193903"></a>
-- t-018
+- t-013
   teiginys: "Kunigaikštis Daumantas suprato, kad ne jo jėgoms atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi lies, kol jis nebus prasiveržęs per Narimanto kariuo menę."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -265,7 +265,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-176528
 
 <a id="claim-t-194224"></a>
-- t-019
+- t-014
   teiginys: "Daumantas į Sinajaus kalną ir pakrikštija vardan Tėvo ir Sūnaus ir Šventosios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuolišką stotą Šventajame kalne ir, prabuvęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sinajaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -277,7 +277,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-176824
 
 <a id="claim-t-196435"></a>
-- t-020
+- t-015
   teiginys: "Daumantas praliejąs Mindaugo, išžudžiusio savo artimuosius, kraują."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -289,7 +289,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-178685
 
 <a id="claim-t-196437"></a>
-- t-022
+- t-016
   teiginys: "Kojelavičius vaizduoja Daumantą po šermenų prievarta pasilikusį Narimanto žmoną, kad ši jam guolyje pavaduotų mirusiąją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -302,7 +302,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-168048
 
 <a id="claim-t-196438"></a>
-- t-023
+- t-017
   teiginys: "Kojelavičiaus pasakojime Daumantas buvo išrinktas kunigaikščiu, o jį išrinkusieji, pašalinę Kęsgailos pareigūnus, rėmė Mykolą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -315,7 +315,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-178687
 
 <a id="claim-t-196817"></a>
-- t-024
+- t-018
   teiginys: "Lietuvos metraščio pasakojime Daumantas, tapęs vienuoliu Lauru, prašė Narimanto skirti jam vietą vienuolynui Naugarduko pavieto girioje prie Nemuno."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -328,7 +328,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-176527
 
 <a id="claim-t-196818"></a>
-- t-025
+- t-019
   teiginys: "Lietuvos metraštis Daumantą vaizduoja sutelkusį pskoviškę ir polockiškę kariuomenę ir žygiavusį į Lietuvą, ketinant tapti Lietuvos ir Žemaičių kunigaikščiu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -341,7 +341,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-178929
 
 <a id="claim-t-200978"></a>
-- t-026
+- t-020
   teiginys: "Tarp kitų svečių buvęs tenai Daumantas su žmona, se seria nabaštikės, kurią tenai Mindaugas taip pamė gęs, jog, geisdamas ją už žmoną sau paskirti, būk nebįdavęs daugiaus jos Daumantui, kursai, tuomi būdamas abydytu ir negaudamas teisybės, būk su sitaręs su."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -353,7 +353,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-184328
 
 <a id="claim-t-200979"></a>
-- t-027
+- t-021
   teiginys: "Nustipus Daumantui, urėdui Polocko, ūkėjai, kitą kartą, kaip sakiau, krievais, arba krivičiais, vadinami, jau krikščionys ir į gudus išvirtę, kuriuos šiandien vadina baltaisiais gudais nuo to, jog dėvė jo lietuviškai, o kalba gudiškai jaugiai su lietuvių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -363,31 +363,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184329
-- susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-183745|Juozas Daumantas]]: Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.
-- susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-40235|Juozas Daumantas]]: Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.
-- susijęs iš [[objektai/asmenys/Kantautas.md#claim-t-186123|Kantautas]]: Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184848|Treniota]]: Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-183697|Juozas Lukša-Daumantas]]: STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40632|Juozas Lukša-Daumantas]]: Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.
-- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40634|Juozas Lukša-Daumantas]]: Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.
-- susijęs iš [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.).md#claim-t-31409|Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]: Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo.
-- susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
-- susijęs iš Pskovo pilis (pilis): Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis.
-- susijęs iš [[objektai/asmenys/Antanas Jančius-Žaibas.md#claim-t-80704|Antanas Jančius-Žaibas]]: Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113906|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113915|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90064|Treniota]]: Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.
-- susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
-- susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
-- susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
-- susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.
-- susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
-- susijęs iš Nalšia: Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.
-- susijęs iš Nalšėnai: Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.
-- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
-- susijęs iš Svyrių pilis (pilis): Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas.'
@@ -427,7 +403,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-04827
@@ -448,7 +423,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-04830
   autorius: "Zenonas Ivinskis"
@@ -467,7 +442,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-21642
   redaktorius: "A. Šapoka"
@@ -485,7 +460,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-005
 
 - id: c-21643
   redaktorius: "A. Šapoka"
@@ -505,7 +480,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-006
 
 - id: c-21645
   autorius: "Zenonas Ivinskis"
@@ -530,7 +505,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-21646
   autorius: "Zenonas Ivinskis"
@@ -558,7 +533,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-168044
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -585,7 +560,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-168046
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -610,7 +585,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-168047
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -637,7 +612,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-168048
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -678,8 +653,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-022
+    - t-010
+    - t-016
 
 - id: c-176526
   autorius: "Anoniminis metraštininkas"
@@ -697,7 +672,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-011
 
 - id: c-176527
   autorius: "Anoniminis metraštininkas"
@@ -722,8 +697,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-024
+    - t-012
+    - t-018
 
 - id: c-176528
   autorius: "Anoniminis metraštininkas"
@@ -745,7 +720,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-013
 
 - id: c-176824
   autorius: "Michał Baliński"
@@ -790,7 +765,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-014
 
 - id: c-178685
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -812,7 +787,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-015
 
 - id: c-178687
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -838,7 +813,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-017
 
 - id: c-178929
   autorius: "Anoniminis metraštininkas"
@@ -863,7 +838,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-019
 
 - id: c-184328
   autorius: "Simonas Daukantas"
@@ -887,7 +862,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-020
 
 - id: c-184329
   autorius: "Simonas Daukantas"
@@ -910,9 +885,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-021
 
 ## Ryšiai
-- Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]]
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]
 - Daumantas (kunigaikštis, XV a.) surengė žygį į [[objektai/vietos/Nalšėnai]]

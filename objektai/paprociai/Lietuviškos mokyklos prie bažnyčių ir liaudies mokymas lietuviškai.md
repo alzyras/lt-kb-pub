@@ -91,7 +91,7 @@ Nenurodyta
     - c-166710
 
 <a id="claim-t-183320"></a>
-- t-005
+- t-003
   teiginys: "Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -158,4 +158,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-003

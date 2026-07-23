@@ -65,7 +65,7 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 ## Teiginiai
 
 <a id="claim-t-05466"></a>
-- t-004
+- t-001
   teiginys: "Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -102,4 +102,4 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

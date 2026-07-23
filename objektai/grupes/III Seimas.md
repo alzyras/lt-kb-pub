@@ -56,7 +56,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - c-22413
 
 <a id="claim-t-74135"></a>
-- t-003
+- t-002
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +75,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - c-22415
 
 <a id="claim-t-74136"></a>
-- t-004
+- t-003
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,12 +92,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą."
   pagrindžia:
     - c-72189
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71725|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po 1926 m. gruodžio 17 d. perversmo III Seimas gruodžio 19 d. nauju Lietuvos prezidentu išrinko tautininkų lyderį Antaną Smetoną.
-- susijęs iš [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.).md#claim-t-20199|III Seimo paleidimas (1927 m. balandžio 12 d.)]]: 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.
-- susijęs iš Prezidento aktas dėl III Seimo paleidimo (1927 m.): 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75749|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.
+
 ## Citatos
 
 - id: c-22413
@@ -145,7 +140,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-72189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -169,4 +164,4 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

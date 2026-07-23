@@ -31,7 +31,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 ## Teiginiai
 
 <a id="claim-t-104168"></a>
-- t-004
+- t-001
   teiginys: "Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - c-97127
 
 <a id="claim-t-104169"></a>
-- t-003
+- t-002
   teiginys: "Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - c-97128
 
 <a id="claim-t-104170"></a>
-- t-001
+- t-003
   teiginys: "Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
     - c-97129
 
 <a id="claim-t-104171"></a>
-- t-002
+- t-004
   teiginys: "Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,8 +104,8 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
-    - t-002
 
 - id: c-97128
   redaktorius: "A. Šapoka"
@@ -125,7 +125,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-97129
   redaktorius: "A. Šapoka"
@@ -145,7 +145,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-175901
   redaktorius: "A. Šapoka"

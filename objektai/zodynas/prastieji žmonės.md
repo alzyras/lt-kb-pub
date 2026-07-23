@@ -30,7 +30,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 ## Teiginiai
 
 <a id="claim-t-187545"></a>
-- t-002
+- t-001
   teiginys: "Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -50,7 +50,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     - c-170495
 
 <a id="claim-t-187546"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -68,9 +68,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170496
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199222|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199221|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada.'
@@ -124,7 +122,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-170496
   autorius: "Anoniminis metraštininkas"
@@ -152,4 +150,4 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

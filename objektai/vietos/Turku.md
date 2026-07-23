@@ -49,7 +49,7 @@ Turku šiame šaltinyje yra miestas.
 ## Teiginiai
 
 <a id="claim-t-195482"></a>
-- t-002
+- t-001
   teiginys: "1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -57,10 +57,7 @@ Turku šiame šaltinyje yra miestas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177903
-- susijęs iš Lemu parapija: Augustas Robertas Niemi gimė Lemu parapijoje.
-- susijęs iš Luononmaa sala: Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje.
-- susijęs iš Naantalis: Naantalis šiame šaltinyje minimas kaip artimas Augusto Roberto Niemio gimimo vietos orientyras.
-- susijęs iš Vakarų Suomija: Augustas Robertas Niemi gimė vakarų Suomijoje.
+
 ## Citatos
 
 - id: c-177903
@@ -84,4 +81,4 @@ Turku šiame šaltinyje yra miestas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

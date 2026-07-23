@@ -59,11 +59,7 @@ Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevsk
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174382
-- susijęs iš L. A. Jucevičiaus „Litwa pod względem starožytnych zabytkow, obyczajow i zwyczajow“: Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lietuva“ dalies „Metamorfozės lietuvių mitologijoje“.
-- susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-192304|Atlimpas Atrimpas Potrimpos]]: Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus.
-- susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-192306|Atlimpas Atrimpas Potrimpos]]: Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs.
-- susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-192308|Žalčių karalius]]: Narbutas perteikia L. A. Jucevičiaus teiginį, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus.
-- susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-192310|Žalčių karalius]]: Narbutas perteikia L. A. Jucevičiaus teiginį, kad kai kur lietuviai Žalčių karalių laikė tikru aukščiausiojo dievo Ukapirmo broliu.
+
 ## Citatos
 
 - id: c-174382

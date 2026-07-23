@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 ## Teiginiai
 
 <a id="claim-t-58445"></a>
-- t-003
+- t-001
   teiginys: "Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     - c-59078
 
 <a id="claim-t-58447"></a>
-- t-001
+- t-003
   teiginys: "Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,9 +91,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59079
-- susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
-- susijęs iš Arsa: Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.
-- susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
+
 ## Citatos
 
 - id: c-59077
@@ -116,7 +114,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-59078
   autorius: "Petras Dusburgietis"
@@ -161,4 +159,4 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

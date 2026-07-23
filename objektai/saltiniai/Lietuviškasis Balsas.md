@@ -29,7 +29,7 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 ## Teiginiai
 
 <a id="claim-t-67434"></a>
-- t-003
+- t-001
   teiginys: "„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -38,7 +38,7 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     - c-67334
 
 <a id="claim-t-67435"></a>
-- t-001
+- t-002
   teiginys: "Laikraštis „Lietuviškasis Balsas“ buvo leidžiamas 1885–1889 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-67334
   redaktorius: "A. Šapoka"
@@ -88,4 +88,4 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001

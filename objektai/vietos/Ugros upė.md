@@ -67,11 +67,10 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-168677

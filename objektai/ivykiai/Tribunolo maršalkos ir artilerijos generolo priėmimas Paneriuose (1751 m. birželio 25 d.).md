@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200603"></a>
-- t-002
+- t-001
   teiginys: "Juozapas Antanas Solohubas ir Antanas Solohubas 1751 m. be ceremonijų pakvietė Lopacinskį prie mažojo staliuko."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -83,7 +83,7 @@ Nenurodyta
     - c-184000
 
 <a id="claim-t-200604"></a>
-- t-001
+- t-002
   teiginys: "1751 m. birželio 25 d. Lopacinskis vyko į Panerius priimti tribunolo maršalo Juozapo Antano Solohubo ir artilerijos generolo Antano Solohubo."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -118,5 +118,5 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

@@ -34,7 +34,7 @@ Zajączkowski, St.
 ## Teiginiai
 
 <a id="claim-t-54141"></a>
-- t-002
+- t-001
   teiginys: "St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -50,8 +50,7 @@ Zajączkowski, St.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-55082
-- susijęs iš [[objektai/autoriai/Werminghoee, A.md#claim-t-31077|Werminghoee, A]]: A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui.
-- susijęs iš Werminghoee Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens: A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.
+
 ## Citatos
 
 - id: c-55082
@@ -70,4 +69,4 @@ Zajączkowski, St.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

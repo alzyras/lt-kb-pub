@@ -7,13 +7,13 @@ datos:
   - '1528 m.'
 date_start: '1528'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - socialinė-grupė
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,18 +36,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-07857"></a>
-- t-002
+- t-001
   teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10095
-- susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
-- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70424|žemlionis]]: Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08356|Vėliavos]]: Prie karūžojo buvo laikoma karės vėliava tos apykartos.
-- susijęs iš [[objektai/grupes/Lietuvos Vyčių Sąjunga.md#claim-t-01397|Lietuvos Vyčių Sąjunga]]: Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.
-- susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07731|perveiza]]: `Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.
+
 ## Citatos
 
 - id: c-10095
@@ -63,7 +59,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-10096
   autorius: "Simonas Daukantas"
@@ -90,6 +86,7 @@ media_all_json: |-
   citata_rodoma: "Kas dar yra didžiau stebuklingesniu, jog ne vien pačių žemlionų, arba vyčių, buvo lygios tėviškės, bet dar ir visų pirmieji\nūkės vyresnieji neturėjo valsčių, kaip kad yra randama paskesnėse gadynėse irstant Lietuvos ūkei^1178 ,\nnes vos penkis, šešis tarnus, arba, kaip šiandien vadina, padonuosius^1179 , teturėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

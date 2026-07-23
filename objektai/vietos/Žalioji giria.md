@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-08029"></a>
-- t-004
+- t-001
   teiginys: "Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-10473
 
 <a id="claim-t-08030"></a>
-- t-005
+- t-002
   teiginys: "Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -77,7 +77,7 @@ media_all_json: |-
     - c-10474
 
 <a id="claim-t-08031"></a>
-- t-006
+- t-003
   teiginys: "Algirdas iš Žaliosios girios per Įstrupį užpuolė krikščionis iš užpakalio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -91,11 +91,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10472
-- susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
-- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78609|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.
-- susijęs iš [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose.md#claim-t-07776|Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]: Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.
-- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78607|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.
-- susijęs iš Isteris: Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.
+
 ## Citatos
 
 - id: c-10472
@@ -113,7 +109,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-10473
   autorius: "Simonas Daukantas"
@@ -132,7 +128,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
 
 - id: c-10474
   autorius: "Simonas Daukantas"
@@ -152,4 +148,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002

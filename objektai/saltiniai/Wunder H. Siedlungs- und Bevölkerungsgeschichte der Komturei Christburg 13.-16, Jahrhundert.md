@@ -44,6 +44,7 @@ Dusburgietis teigia, kad wunder H.
   citata_rodoma: "Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,\nJahrhundert.— Wiesbaden, 1968."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

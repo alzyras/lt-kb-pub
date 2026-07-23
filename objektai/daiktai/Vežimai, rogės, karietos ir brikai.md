@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87037"></a>
-- t-003
+- t-001
   teiginys: "Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Nenurodyta
     - c-83017
 
 <a id="claim-t-87039"></a>
-- t-001
+- t-002
   teiginys: "Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-83018
 
 <a id="claim-t-194183"></a>
-- t-004
+- t-003
   teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -119,7 +119,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-83018
   autorius: "Michał Baliński"
@@ -150,7 +150,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-176793
   autorius: "Michał Baliński"
@@ -179,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

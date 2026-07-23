@@ -94,8 +94,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Antano Mykolo Paco gautas knygas. Citata tiesiogiai nurodo metus, asmenį ir aplinkybes."
   pagrindžia:
     - c-184004
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
-- susijęs iš [[objektai/posakiai/kaip koks juodaknygis tamsiuose požemiuose.md#claim-t-200676|kaip koks juodaknygis tamsiuose požemiuose]]: 1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose.
+
 ## Citatos
 
 - id: c-184004

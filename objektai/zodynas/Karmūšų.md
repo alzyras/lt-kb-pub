@@ -39,7 +39,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07690"></a>
-- t-003
+- t-001
   teiginys: "Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -48,7 +48,7 @@ Papildomos aiškios formos neišskirtos.
     - c-09620
 
 <a id="claim-t-07691"></a>
-- t-004
+- t-002
   teiginys: "Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -80,5 +80,5 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

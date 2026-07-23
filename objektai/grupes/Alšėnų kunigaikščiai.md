@@ -68,14 +68,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-72148
-- susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-20013|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Vyšnioveckiai.md#claim-t-183201|Vyšnioveckiai]]: Vyšnioveckiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
-- susijęs iš [[objektai/grupes/Vyšnioveckiai.md#claim-t-20092|Vyšnioveckiai]]: Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
-- susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-183202|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
-- susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-45273|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'

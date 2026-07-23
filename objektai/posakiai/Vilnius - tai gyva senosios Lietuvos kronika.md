@@ -52,7 +52,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 ## Teiginiai
 
 <a id="claim-t-54488"></a>
-- t-002
+- t-001
   teiginys: "Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -71,7 +71,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - c-55392
 
 <a id="claim-t-54489"></a>
-- t-001
+- t-002
   teiginys: "Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -110,5 +110,5 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

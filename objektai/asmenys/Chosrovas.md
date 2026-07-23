@@ -56,10 +56,7 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginio centre būtų Chosrovas, o ne Heraklijus."
   pagrindžia:
     - c-60889
-- susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-184086|Heraklijus]]: Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę.
-- susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-60320|Heraklijus]]: Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.
-- susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-184086|Heraklijus]]: Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę.
-- susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-60320|Heraklijus]]: Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.
+
 ## Citatos
 
 - id: c-60889

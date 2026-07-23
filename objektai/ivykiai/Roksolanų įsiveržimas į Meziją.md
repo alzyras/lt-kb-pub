@@ -116,6 +116,7 @@ Nenurodyta
   citata_rodoma: "Tai tiesa, nors įvairiai skamba\n1 Lib. I, 79. (Roxolani, Sarmatica gens, caesis duabus cohorti­\nbus, magna spe in Moesiam irruperant). (Roksolanai, sarmatą gen­\ntis, išžudė dvi kohortas (romėnų) ir, kupini vilties, įsiveržė į Meziją.)\n70\n\n## Puslapis 68\n\nVolgos',ypavadinimas, tačiau roksanai ir bulgarai reiškia\nvieną ik tą patį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

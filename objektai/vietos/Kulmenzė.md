@@ -7,14 +7,14 @@ datos:
   - '1299 m.'
 date_start: '1299'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 ## Teiginiai
 
 <a id="claim-t-58496"></a>
-- t-005
+- t-001
   teiginys: "Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - c-59131
 
 <a id="claim-t-58497"></a>
-- t-004
+- t-002
   teiginys: "Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - c-59131
 
 <a id="claim-t-58498"></a>
-- t-001
+- t-003
   teiginys: "Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - c-59130
 
 <a id="claim-t-58499"></a>
-- t-003
+- t-004
   teiginys: "Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - c-59128
 
 <a id="claim-t-58500"></a>
-- t-002
+- t-005
   teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     - c-59132
 
 <a id="claim-t-194537"></a>
-- t-007
+- t-006
   teiginys: "Kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -125,27 +125,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59130
-- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
-- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
-- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
-- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
-- susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
-- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
-- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
-- susijęs iš [[objektai/ivykiai/Kulmenzės javapjūtės žudynės.md#claim-t-62349|Kulmenzės javapjūtės žudynės]]: Per javapjūtę prūsai prie Fogelzango užpuolė Kulmenzės miestiečius, išžudė vyrus, o moteris ir vaikus išsivarė į nelaisvę.
-- susijęs iš [[objektai/ivykiai/Kulmenzės miesto apgula ir sužeisto prūso iškeitimas.md#claim-t-62350|Kulmenzės miesto apgula ir sužeisto prūso iškeitimas (miestas)]]: Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą.
-- susijęs iš Eimsutis: Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.
-- susijęs iš Goliubo pilis (pilis): Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.
-- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89685|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.
-- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60045|Konradas Žakas]]: Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.
-- susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
-- susijęs iš [[objektai/paprociai/Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius.md#claim-t-62669|Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius]]: Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.
-- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-184032|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
-- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-59109|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
-- susijęs iš Chełmža: Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą.
-- susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
-- susijęs iš Chełmža: Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'
@@ -157,10 +137,10 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
     išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -170,12 +150,15 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
        Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
     metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
 
+
+
+
       273 (266).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -188,11 +171,10 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
     manydami, kad svetima kariuomenė bus pasitraukusi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59128
@@ -215,7 +197,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-59129
   autorius: "Petras Dusburgietis"
@@ -254,8 +236,8 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-007
+    - t-003
+    - t-006
 
 - id: c-59131
   autorius: "Petras Dusburgietis"
@@ -278,8 +260,8 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-59132
   autorius: "Petras Dusburgietis"
@@ -300,7 +282,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ninerikas]]

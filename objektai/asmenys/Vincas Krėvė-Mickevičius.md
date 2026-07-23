@@ -30,7 +30,7 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
 ## Teiginiai
 
 <a id="claim-t-19315"></a>
-- t-002
+- t-001
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,7 +46,7 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
     - c-22057
 
 <a id="claim-t-19316"></a>
-- t-001
+- t-002
   teiginys: "J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22057
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -112,4 +112,4 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -82,8 +82,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175619
-- susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
-- susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
+
 ## Citatos
 
 - id: c-175619

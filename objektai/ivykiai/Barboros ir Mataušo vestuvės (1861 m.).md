@@ -2,8 +2,7 @@
 tipas: ivykis
 pavadinimas: 'Barboros ir Mataušo vestuvės (1861 m.)'
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - '[[Mūsų tautosaka, t.4 (1931)]]'
 bukle: juodrastis
 laikotarpis: '1861 m.'
 datos:
@@ -74,7 +73,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 ## Teiginiai
 
 <a id="claim-t-195295"></a>
-- t-005
+- t-001
   teiginys: "Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,7 +83,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
     - c-177659
 
 <a id="claim-t-195296"></a>
-- t-001
+- t-002
   teiginys: "1861 m. pasakotojo namuose buvo keliamos vestuvės."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -94,7 +93,7 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
     - c-177660
 
 <a id="claim-t-195297"></a>
-- t-004
+- t-003
   teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
   atnaujinta: "2026-07-12 01:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -139,7 +138,7 @@ Vieta: pasakotojo namai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-177660
   autorius: "M. Katkus"
@@ -160,7 +159,7 @@ Vieta: pasakotojo namai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177661
   autorius: "M. Katkus"
@@ -177,4 +176,4 @@ Vieta: pasakotojo namai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

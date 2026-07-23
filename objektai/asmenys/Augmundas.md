@@ -50,10 +50,7 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174252
-- susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
-- susijęs iš [[objektai/asmenys/Heiridė.md#claim-t-191411|Heiridė]]: Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
-- susijęs iš [[objektai/asmenys/Heiridė.md#claim-t-191411|Heiridė]]: Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą.
+
 ## Citatos
 
 - id: c-174252

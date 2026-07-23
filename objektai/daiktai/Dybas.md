@@ -65,9 +65,6 @@ Nenurodyta
   pagrindžia:
     - c-56411
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-56411

@@ -7,14 +7,14 @@ datos:
   - '1290 m.'
 date_start: '1290'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
   - jūra
   - vieta
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     - c-175585
 
 <a id="claim-t-197870"></a>
-- t-003
+- t-002
   teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,8 +60,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179373
-- susijęs iš Pagudė: Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.
-- susijęs iš Lovetės giria: Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu.'
@@ -103,7 +102,6 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175585
@@ -154,4 +152,4 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

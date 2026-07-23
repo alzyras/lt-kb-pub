@@ -30,7 +30,7 @@ Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkast
 ## Teiginiai
 
 <a id="claim-t-197465"></a>
-- t-002
+- t-001
   teiginys: "Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -63,4 +63,4 @@ Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkast
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

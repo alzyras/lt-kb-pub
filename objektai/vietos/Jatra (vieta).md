@@ -50,7 +50,7 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
   vertinimo_atnaujinta: "2026-07-19T10:07:02Z"
   pagrindžia:
     - c-185751
-- susijęs iš Sielcas (vieta): Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
+
 ## Citatos
 
 - id: c-185751

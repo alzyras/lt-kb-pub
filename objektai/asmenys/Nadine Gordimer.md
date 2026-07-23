@@ -76,23 +76,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-95139
-- susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
-- susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18856|Bob Dylan]]: Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/asmenys/Bruce Springsteen.md#claim-t-18860|Bruce Springsteen]]: Bruce Springsteenas grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75793|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
-- susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75795|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
-- susijęs iš [[objektai/asmenys/David Gilmour.md#claim-t-18873|David Gilmour]]: Davidas Gilmouras grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Eric Clapton.md#claim-t-18886|Eric Clapton]]: Eric Clapton grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/George Harrison.md#claim-t-18914|George Harrison]]: George Harrison grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Jimi Hendrix.md#claim-t-18962|Jimi Hendrix]]: Jimi Hendrixas grojo Tony'o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Keith Richards.md#claim-t-19063|Keith Richards]]: Keith Richards grojo Tony’o Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/asmenys/Paul McCartney.md#claim-t-19186|Paul McCartney]]: Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/asmenys/Ronnie Wood.md#claim-t-19215|Ronnie Wood]]: Ronnie Wood grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45489|Gitara „Zemaitis“]]: Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45490|Gitara „Zemaitis“]]: Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45491|Gitara „Zemaitis“]]: Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
-- susijęs iš Londonas: 1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.
-- susijęs iš [[objektai/zodynas/Bendrinė sąvoka.md#claim-t-21984|Bendrinė sąvoka]]: Tony Žemaitis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
+
 ## Citatos
 
 - id: c-95139

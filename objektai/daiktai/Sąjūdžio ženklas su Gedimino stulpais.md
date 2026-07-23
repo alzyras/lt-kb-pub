@@ -94,8 +94,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata pagrindžia ženklo autorius, bet įvestyje yra puslapio ir OCR triukšmo."
   pagrindžia:
     - c-73152
-- susijęs iš [[objektai/daiktai/Gediminaičių stulpai.md#claim-t-169858|Gediminaičių stulpai]]: Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23309|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.
+
 ## Citatos
 
 - id: c-73151

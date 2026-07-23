@@ -7,14 +7,14 @@ datos:
   - '1121 m.'
 date_start: '1121'
 date_end: ''
-amziai:
-  - 'XII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - gentis
   - tauta
   - grupe
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -119,26 +119,7 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175698
-- susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
-- susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
-- susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191969|Plinijus Vyresnysis]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-191968|Plinijus]]: Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/asmenys/Uphagenas.md#claim-t-191480|Uphagenas]]: Narbutas Uphageną mini tarp senovės tyrinėtojų, kurie, jo vertinimu, pasiklydo prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/autoriai/J. Voigtas Foigtas.md#claim-t-191554|J. Voigtas Foigtas]]: Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų.
-- susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-191903|Plinijus]]: Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-190788|Prokopijus]]: Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima.
-- susijęs iš [[objektai/autoriai/Uphagenas.md#claim-t-191660|Uphagenas]]: Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis.
-- susijęs iš [[objektai/asmenys/Chodkevičius.md#claim-t-191380|Chodkevičius]]: Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui.
-- susijęs iš [[objektai/asmenys/Ketleris.md#claim-t-191432|Ketleris]]: Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190933|Nestoras]]: Teodoro Narbuto teigimu, Nestoras apie 860 m. pirmasis iš žinomų originalių istorikų paminėjo Lietuvą ir išvardijo rusų variagams priklausiusias gentis.
-- susijęs iš [[objektai/asmenys/Prokopijus.md#claim-t-191971|Prokopijus]]: Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti.
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-190744|Jordanas]]: Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas.
-- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191531|Nestoras]]: Narbutas Nestorą vadino pirmuoju jam žinomu originaliu istoriku, paminėjusiu Lietuvą 860 metais ar kiek vėliau.
-- susijęs iš [[objektai/grupes/Agatirai.md#claim-t-192950|Agatirai]]: Narbutas nurodo senovės tyrinėtojų teiginį, kad agatirai gyveno Marus, arba Maroszy, upės aukštupyje.
-- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191014|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams.
-- susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191869|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą.
-- susijęs iš Philippi Miitendorfii rankraštis apie 1605 m. rugsėjo 27 d. mūšį: Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.
-- susijęs iš Lietuva: Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante.'
@@ -158,11 +139,11 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
     jose šalyse, galėjo įžvelgti jų panašumą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-005
 
 ## Citatos
 

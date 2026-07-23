@@ -51,11 +51,7 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
   semantiniai_rysiai: "I brigada puolė Naujasodė (0.77)"
   pagrindžia:
     - c-44743
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38838|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
-- susijęs iš Naujasodė: I brigada turėjo pralaužti bolševikų gynybą gerai įtvirtintoje Galminių, Bružų ir Naujasodės linijoje.
+
 ## Citatos
 
 - id: c-44743

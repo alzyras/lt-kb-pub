@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32532"></a>
-- t-002
+- t-001
   teiginys: "1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-34032
 
 <a id="claim-t-32533"></a>
-- t-001
+- t-002
   teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,10 +75,7 @@ media_all_json: |-
   pagrindžia:
     - c-32409
     - c-167764
-- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66879|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.
-- susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
-- susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
-- susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
+
 ## Citatos
 
 - id: c-32409
@@ -97,7 +94,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-34032
   autorius: "Zenonas Ivinskis"
@@ -116,7 +113,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-167764
   autorius: "Zenonas Ivinskis"
@@ -133,7 +130,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 - Puolė Sandomierių: [[objektai/grupes/Lietuviai]]

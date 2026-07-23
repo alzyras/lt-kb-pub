@@ -30,7 +30,7 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
 ## Teiginiai
 
 <a id="claim-t-197764"></a>
-- t-002
+- t-001
   teiginys: "Julijonas priklausė minėtai tautai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -40,10 +40,7 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174305
-- susijęs iš [[objektai/asmenys/Amianas Marcelinas.md#claim-t-191172|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš [[objektai/asmenys/Saporas.md#claim-t-191461|Saporas]]: Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie Volgos vidurupio, kai Julijonas siuntė pas jį žygūnus.
-- susijęs iš [[objektai/autoriai/Amianas Marcelinas.md#claim-t-191527|Amianas Marcelinas]]: Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą.
-- susijęs iš Volga: Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas persų karalių Saporą per Dneprą ir alanų kraštą.'
@@ -62,11 +59,11 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
     Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
     novės Kijevą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 
@@ -94,4 +91,4 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

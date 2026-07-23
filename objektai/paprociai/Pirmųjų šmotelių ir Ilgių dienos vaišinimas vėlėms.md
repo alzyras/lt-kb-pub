@@ -45,9 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
-Nenurodyta
-
 ## Citatos
 
 - id: c-09956
@@ -66,6 +63,7 @@ Nenurodyta
   citata_rodoma: "Tą žinodami, kalnėnai ir žemaičiai didžiai rūpinęsi likumu\nsavo dūšių atenčio je^701 , todėl mirdami liuobėję^702 įsakyti gentims visus apsiėjimus^703\nlaidosenos^704 kaip reikiant atlikti, kurie taip pat jų įsakymus didžiai saugoję, nesgi neattiesiant^705\njų ne vien dievai, bet ir pačios dūšios baisiai apmaudavusios ant neklausančiųjų: kaipgi\nbaldžiusios naktimis ir blaškiusios, darydamos jiems iškadas^706 javuose, gyvuliuose ir kituose\ndaiktuose, nesgi jos, nebūdamos palaidotomis, kentėjusios alkį, todėl, idant jas nutildytų, ne vien\nkiek pradėdami valgyti ar gerti mėčioję žemyn pirmuosius šmotelius valgio ir laistę gėrimo, bet\ndar metuose kartą ilgių^707 dieną jas vaišinę, kaip tuojau regėsim."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

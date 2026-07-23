@@ -66,7 +66,7 @@ media_all_json: |-
 <a id="claim-t-86053"></a>
 - t-002
   teiginys: "Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-23 20:34"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Namas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,6 +78,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82032
+    - c-82136
+    - c-82031
 
 ## Citatos
 
@@ -103,8 +105,40 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-82032
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tikimės, kad didžiai gerbiamas tė­
+    vas Rektorius iš meilės brolijai ir geranoriškumo mums mie­
+    lai prisiims tokią nelengvą, bet pagyrimo vertą naštą -
+    nubaus nepaklusniuosius, apsileidusiuosius moksle paska­
+    tins stropumui, o geruosius apgaubs tėviška meile. Be to,
+    kad tiems patiems studentams, anksčiau minėtoje Bursoje
+    tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­
+    dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­
+    žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­
+    dame du naujus, mūsų lėšomis įsigytus namus su aikštėmis
+    ir visais kitais pastatais: vieną iš tikrojo to namo savininko
+    pirkome, iš vienos jo pusės yra kolegija, iš kitos - mūsų siu­
+    vėjo Tomo namas, tai smulkiau nurodo pirkimo raštas, kurį
+    didžiai gerbiamam tėvui Rektoriui į rankas kartu su kitais
+    su šiuo reikalu susijusiais dokumentais įteikėme, o kitą iš
+    kitos to paties mūsų siuvėjo Tomo namo pusės nuo seno
+    tuščiame sklype panašiai savo lėšomis pastatėme. Abu
+    Vyskupų gatvėje.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-82136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."

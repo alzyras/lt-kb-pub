@@ -64,6 +64,3 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/daiktai/Namų baldai ir rakandai.md#claim-t-08309|Namų baldai ir rakandai]]: Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.

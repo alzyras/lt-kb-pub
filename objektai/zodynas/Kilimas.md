@@ -39,7 +39,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 ## Teiginiai
 
 <a id="claim-t-70006"></a>
-- t-003
+- t-001
   teiginys: "`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
     - c-09689
 
 <a id="claim-t-70007"></a>
-- t-004
+- t-002
   teiginys: "Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -69,36 +69,6 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09689
-
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    - status: unused
-    - claim_role: supports_existing_claim
-    - kategorija: paprotys
-    - kandidatas: Mergaičių, nuotakų, žmonų ir našlių galvos puošyba
-    - potencialus_teiginys: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: match: normalized_whitespace
-    - santrauka: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
-        tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
-        tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
-        laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
-        Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
-        susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
-        žiemą vilnonus, vasarą marškonus dėvėjo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
 
 ## Citatos
 
@@ -125,8 +95,8 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 - id: c-09690
   autorius: "Simonas Daukantas"
@@ -155,6 +125,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   citata_rodoma: "tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele\nsusegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;\nžiemą vilnonus, vasarą marškonus dėvėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -36,7 +36,7 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
 ## Teiginiai
 
 <a id="claim-t-78164"></a>
-- t-002
+- t-001
   teiginys: "Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

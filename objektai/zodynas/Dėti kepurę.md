@@ -38,7 +38,7 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
 <a id="claim-t-189124"></a>
 - t-001
   teiginys: "Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,7 +54,7 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172012
-- susijęs iš [[objektai/posakiai/Tas, kuris vežime turi pasikinkęs šešis arklius.md#claim-t-187840|Tas, kuris vežime turi pasikinkęs šešis arklius]]: Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad liudytojas dėdavo kepurę ant stalo prieš teisėją ir taip laiduodavo savo liudijimo sąžiningumą.'

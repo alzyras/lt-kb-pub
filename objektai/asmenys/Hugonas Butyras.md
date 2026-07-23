@@ -40,7 +40,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 ## Teiginiai
 
 <a id="claim-t-60145"></a>
-- t-002
+- t-001
   teiginys: "Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
     - c-60777
 
 <a id="claim-t-60146"></a>
-- t-001
+- t-002
   teiginys: "Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-60778
   autorius: "Petras Dusburgietis"
@@ -127,5 +127,5 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003

@@ -45,6 +45,7 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
   citata_rodoma: "kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

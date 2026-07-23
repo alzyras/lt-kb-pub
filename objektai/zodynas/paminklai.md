@@ -47,7 +47,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 ## Teiginiai
 
 <a id="claim-t-192138"></a>
-- t-003
+- t-001
   teiginys: "Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius."
   atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -84,7 +84,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     - c-175025
 
 <a id="claim-t-192567"></a>
-- t-004
+- t-003
   teiginys: "Teodoras Narbutas rašo, kad prarasti paminklai palaidojo neįkainojamą tautos istoriją."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -97,7 +97,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     - c-175346
 
 <a id="claim-t-192568"></a>
-- t-005
+- t-004
   teiginys: "Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -116,18 +116,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   pagrindžia:
     - c-175027
     - c-175346
-- susijęs iš [[objektai/paprociai/Vilnius — tikras lobis.md#claim-t-200857|Vilnius — tikras lobis]]: Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro.
-- susijęs iš [[objektai/posakiai/Vilnius — tikras lobis.md#claim-t-200840|Vilnius — tikras lobis]]: Mikalojus Vorobjovas Vilnių vadino lobiu meno istorijos studijoms, nes miesto paminklai rodo Europos stilių raidą nuo gotikos iki empiro.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190938|Nestoras]]: Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas.
-- susijęs iš [[objektai/autoriai/Nestoras.md#claim-t-191534|Nestoras]]: Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.
-- susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
-- susijęs iš Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej: Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
-- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius.'
@@ -155,7 +144,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-175025
@@ -227,8 +215,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-001
+    - t-004
 
 - id: c-175346
   autorius: "Teodoras Narbutas"
@@ -248,6 +236,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
     - t-004
-    - t-005

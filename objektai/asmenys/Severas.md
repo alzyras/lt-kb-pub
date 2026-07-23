@@ -48,11 +48,7 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174346
-- susijęs iš [[objektai/asmenys/Gliceras.md#claim-t-191271|Gliceras]]: Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais.
-- susijęs iš [[objektai/asmenys/Romulas Momilijus Augustulas.md#claim-t-191313|Romulas Momilijus Augustulas]]: Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš [[objektai/ivykiai/Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą.md#claim-t-191070|Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą]]: Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
-- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192562|karaliukas]]: Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų.
+
 ## Citatos
 
 - id: c-174346

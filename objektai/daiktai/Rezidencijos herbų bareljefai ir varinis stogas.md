@@ -7,10 +7,10 @@ datos:
   - '1751 m.'
 date_start: '1751'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -69,10 +69,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184003
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200669|Herbų bareljefai ir varinis stogas]]: 1751 m. giminės rezidencijos statybos metu buvo aptariama, kur ir kokie turi būti herbų bareljefai.
-- susijęs iš [[objektai/daiktai/Herbų bareljefai ir varinis stogas.md#claim-t-200670|Herbų bareljefai ir varinis stogas]]: 1751 m. rezidencijos stogą nurodyta dengti variu, kad gausūs lietūs jam nepakenktų.
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 

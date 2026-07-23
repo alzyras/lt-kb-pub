@@ -50,6 +50,7 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
   citata_rodoma: "dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,7 +46,7 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   semantiniai_rysiai: "Chadžibėjus kariavo prieš Lietuvos kariuomenė (0.90)"
   pagrindžia:
     - c-41306
-- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
+
 ## Citatos
 
 - id: c-41306

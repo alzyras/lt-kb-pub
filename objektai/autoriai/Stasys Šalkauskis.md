@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-81965"></a>
-- t-004
+- t-001
   teiginys: "Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -68,7 +68,7 @@ media_all_json: |-
     - c-78482
 
 <a id="claim-t-81967"></a>
-- t-001
+- t-003
   teiginys: "Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -84,7 +84,7 @@ media_all_json: |-
     - c-78485
 
 <a id="claim-t-81968"></a>
-- t-003
+- t-004
   teiginys: "Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,9 +101,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata pateikia leidyklos sąrašo faktą apie Stasio Šalkauskio raštus."
   pagrindžia:
     - c-78482
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
-- susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88083|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.
-- susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88084|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.
+
 ## Citatos
 
 - id: c-78482
@@ -148,9 +146,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001
     - t-002
-    - t-003
+    - t-004
 
 - id: c-78483
   autorius: "Michał Baliński"
@@ -219,4 +217,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003

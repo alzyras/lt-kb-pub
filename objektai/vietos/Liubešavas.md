@@ -44,9 +44,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   semantiniai_rysiai: "Liubešavas priklausė Brasta (0.78)"
   pagrindžia:
     - c-02792
-- susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
-- susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
+
 ## Citatos
 
 - id: c-02792

@@ -62,7 +62,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 ## Teiginiai
 
 <a id="claim-t-187909"></a>
-- t-007
+- t-001
   teiginys: "Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::people"
@@ -79,7 +79,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170890
 
 <a id="claim-t-187910"></a>
-- t-009
+- t-002
   teiginys: "Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -99,7 +99,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170892
 
 <a id="claim-t-187911"></a>
-- t-008
+- t-003
   teiginys: "Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::people"
@@ -116,7 +116,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170890
 
 <a id="claim-t-187912"></a>
-- t-010
+- t-004
   teiginys: "Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -133,7 +133,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170891
 
 <a id="claim-t-187913"></a>
-- t-011
+- t-005
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -150,7 +150,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170894
 
 <a id="claim-t-190646"></a>
-- t-012
+- t-006
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -163,7 +163,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170894
 
 <a id="claim-t-190647"></a>
-- t-013
+- t-007
   teiginys: "Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-173530
 
 <a id="claim-t-197388"></a>
-- t-014
+- t-008
   teiginys: "Alepas taikindavo dalinius kunigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo mokėti jam atlygį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -196,8 +196,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173529
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188215|Kryžiuočių ordinas]]: Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -211,11 +210,32 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
     žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-187911
+  statusas: verified
+- t-003
+
+- c-003
+  santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-005
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -230,11 +250,11 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
     mokėti jam atlygį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-008
 
 ## Citatos
 
@@ -255,8 +275,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-001
+    - t-003
 
 - id: c-170891
   autorius: "Teodoras Narbutas"
@@ -282,7 +302,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-004
 
 - id: c-170892
   autorius: "Teodoras Narbutas"
@@ -301,7 +321,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-002
 
 - id: c-170894
   autorius: "Teodoras Narbutas"
@@ -325,8 +345,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-012
+    - t-005
+    - t-006
 
 - id: c-173529
   autorius: "Teodoras Narbutas"
@@ -350,7 +370,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-008
 
 - id: c-173530
   autorius: "Teodoras Narbutas"
@@ -372,4 +392,4 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-007

@@ -60,9 +60,7 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169587
-- susijęs iš [[objektai/grupes/Smolensko kunigaikščiai.md#claim-t-199073|Smolensko kunigaikščiai]]: Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m.
-- susijęs iš Haličas: Bychovco kronikoje pasakojama, kad Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
-- susijęs iš Smolenskas: Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją.'

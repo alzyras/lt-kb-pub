@@ -38,7 +38,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ## Teiginiai
 
 <a id="claim-t-78039"></a>
-- t-002
+- t-001
   teiginys: "Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     - c-22042
 
 <a id="claim-t-78040"></a>
-- t-001
+- t-002
   teiginys: "Priėmus Lenkijos ultimatumą, A. Smetonai artimas kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko pareigose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,11 +71,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo fragmentiškas, todėl papildytas citatoje esančiu veiksmu ir pareigomis."
   pagrindžia:
     - c-22041
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75748|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
-- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54009|Vladas Mironas]]: 1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20149|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. gegužės 12 d. paskelbta nauja Lietuvos konstitucija sustiprino autoritarinį prezidento režimą.
+
 ## Citatos
 
 - id: c-22041
@@ -97,7 +93,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-22042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -118,4 +114,4 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-49114"></a>
-- t-003
+- t-001
   teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-42991
 
 <a id="claim-t-49115"></a>
-- t-001
+- t-002
   teiginys: "Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,7 +77,7 @@ media_all_json: |-
     - c-51214
 
 <a id="claim-t-49116"></a>
-- t-002
+- t-003
   teiginys: "Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -111,7 +111,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-51214
   sudarytojas: "Karolis Zikaras"
@@ -130,7 +130,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-51215
   sudarytojas: "Karolis Zikaras"
@@ -193,4 +193,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

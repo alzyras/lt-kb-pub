@@ -45,6 +45,7 @@ Dusburgietis teigia, kad karwasińska J.
     Studia z dziejów średniowiecznej kultury, Warszawa, 1976, s. 233—249.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,7 +48,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 ## Teiginiai
 
 <a id="claim-t-36049"></a>
-- t-004
+- t-001
   teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -64,7 +64,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     - c-38409
 
 <a id="claim-t-36050"></a>
-- t-003
+- t-002
   teiginys: "„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -80,7 +80,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     - c-38409
 
 <a id="claim-t-36051"></a>
-- t-005
+- t-003
   teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -121,7 +121,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-38409
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -146,5 +146,5 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-003
+    - t-001
+    - t-002

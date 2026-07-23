@@ -66,6 +66,7 @@ Trumpa padėkos formulė.
   citata_rodoma: "„Ponui Dievui dėkui“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

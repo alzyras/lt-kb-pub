@@ -53,7 +53,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 ## Teiginiai
 
 <a id="claim-t-54781"></a>
-- t-002
+- t-001
   teiginys: "Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais."
   atnaujinta: "2026-05-27 07:04"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     - c-55783
 
 <a id="claim-t-54782"></a>
-- t-003
+- t-002
   teiginys: "1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje."
   atnaujinta: "2026-05-27 07:04"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     - c-55784
 
 <a id="claim-t-54783"></a>
-- t-001
+- t-003
   teiginys: "Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -126,7 +126,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-55783
   autorius: "Michał Baliński"
@@ -148,7 +148,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-55784
   autorius: "Michał Baliński"
@@ -184,4 +184,4 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

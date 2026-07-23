@@ -26,6 +26,3 @@ media_all_json: |-
 ## Santrauka
 
 Nenurodyta
-
-## Ryšiai
-- Branskas priklausė [[objektai/vietos/Palenkė]]

@@ -7,10 +7,6 @@ datos:
   - '1272 m.'
 date_start: '1272'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +14,10 @@ tags:
   - asmuo
   - karas
   - kunigas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

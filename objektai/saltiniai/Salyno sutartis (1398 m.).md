@@ -8,8 +8,6 @@ datos:
   - '1398 m.'
 date_start: '1398'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +15,8 @@ tags:
   - saltinis
   - valstybė
   - dokumentas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,7 @@ media_all_json: |-
     - c-67405
 
 <a id="claim-t-67535"></a>
-- t-004
+- t-002
   teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ media_all_json: |-
     - c-67404
 
 <a id="claim-t-67539"></a>
-- t-002
+- t-004
   teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +120,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-67404
   redaktorius: "A. Šapoka"
@@ -180,7 +180,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-184848
   autorius: "Zigmantas Kiaupa"

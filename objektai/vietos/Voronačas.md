@@ -9,13 +9,13 @@ datos:
   - '1428 m.'
 date_start: '1406'
 date_end: '1428'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187391"></a>
-- t-003
+- t-001
   teiginys: "1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-170393
 
 <a id="claim-t-187393"></a>
-- t-004
+- t-002
   teiginys: "1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -118,5 +118,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

@@ -49,8 +49,7 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171864
-- susijęs iš [[objektai/grupes/Kuršiai ir latviai.md#claim-t-189519|Kuršiai ir latviai]]: Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą.
-- susijęs iš [[objektai/autoriai/Brantas.md#claim-t-190418|Brantas]]: Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą.
+
 ## Citatos
 
 - id: c-171864

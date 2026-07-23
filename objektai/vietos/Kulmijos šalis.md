@@ -44,8 +44,7 @@ Daugiausia buvo varginama Kulmijos šalis.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-90715
-- susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
-- susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
+
 ## Citatos
 
 - id: c-90715

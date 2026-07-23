@@ -44,7 +44,7 @@ Stanislovo katedrą.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82298
-- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54447|Lietuvos krikštas Vilniuje (1387 m.)]]: Krikšto metu buvo užgesinta amžinoji ugnis, iškirstos šventos girios, sugriauta Perkūno šventykla ir pradėta statyti Šv. Stanislovo katedra.
+
 ## Citatos
 
 - id: c-82298

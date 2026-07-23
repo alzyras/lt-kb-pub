@@ -53,15 +53,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   temporalinis_llm_pakomentavimas: "Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą."
   pagrindžia:
     - c-21647
-- susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
-- susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
-- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101637|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.
-- susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101638|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.
-- susijęs iš [[objektai/asmenys/Gertrude Ellion.md#claim-t-18916|Gertrude Ellion]]: Gertrude Ellion 1988 m. gavo medicinos ir fiziologijos srities Nobelio premiją, o jos tėvas vaikystėje emigravo iš Lietuvos į JAV.
-- susijęs iš [[objektai/asmenys/Sydney Brenner.md#claim-t-19279|Sydney Brenner]]: Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.
-- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45105|Litvakai]]: Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
-- susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
-- susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
+
 ## Citatos
 
 - id: c-21647

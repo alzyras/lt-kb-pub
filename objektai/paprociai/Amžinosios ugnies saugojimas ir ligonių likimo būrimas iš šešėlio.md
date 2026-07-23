@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187999"></a>
-- t-002
+- t-001
   teiginys: "Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::customs"
@@ -70,7 +70,7 @@ Nenurodyta
     - c-171006
 
 <a id="claim-t-194620"></a>
-- t-003
+- t-002
   teiginys: "Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -106,8 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-177019
   autorius: "Teodoras Narbutas"
@@ -133,6 +133,7 @@ Nenurodyta
   citata_rodoma: "Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­\ndavo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo\nkūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai\ntą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo\nįstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta\nišvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad\naukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo\napvalytoji duona, vadinamieji sikies nuplaudimies."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,7 +41,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 ## Teiginiai
 
 <a id="claim-t-66129"></a>
-- t-002
+- t-001
   teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-42931
 
 <a id="claim-t-188332"></a>
-- t-001
+- t-002
   teiginys: "Narbutas mano, kad lietuvių ir skandinavų mitologijų panašumą ryškino skandinavų perimti graikų elementai."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -171,7 +171,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-171233
 
 <a id="claim-t-192456"></a>
-- t-009
+- t-008
   teiginys: "Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -191,7 +191,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175250
 
 <a id="claim-t-192457"></a>
-- t-010
+- t-009
   teiginys: "Narbutas spėjo, kad skandinavai iš Baltijos jūros per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -211,7 +211,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175251
 
 <a id="claim-t-192458"></a>
-- t-011
+- t-010
   teiginys: "Narbutas rašė, kad Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -231,7 +231,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175252
 
 <a id="claim-t-192459"></a>
-- t-012
+- t-011
   teiginys: "Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -251,7 +251,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175253
 
 <a id="claim-t-192460"></a>
-- t-013
+- t-012
   teiginys: "Narbutas skandinavų užkariavimus lietuvių žemėse apibūdino kaip labai senus ir didelius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -271,7 +271,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175254
 
 <a id="claim-t-193128"></a>
-- t-014
+- t-013
   teiginys: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -284,7 +284,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-175887
 
 <a id="claim-t-194595"></a>
-- t-015
+- t-014
   teiginys: "Su šių dviejų religijų sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam plaikos kilo mitologija, kurią imamės išdėstyti."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -298,7 +298,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-176994
 
 <a id="claim-t-194596"></a>
-- t-016
+- t-015
   teiginys: "Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo tina ."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -310,7 +310,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-176995
 
 <a id="claim-t-194597"></a>
-- t-017
+- t-016
   teiginys: "Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -322,7 +322,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-176996
 
 <a id="claim-t-194598"></a>
-- t-018
+- t-017
   teiginys: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -334,7 +334,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-176996
 
 <a id="claim-t-194599"></a>
-- t-019
+- t-018
   teiginys: "Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papročius, bendrus lietuviams ir skandinavams, tai yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo terys neturėjo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -346,7 +346,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - c-176998
 
 <a id="claim-t-194600"></a>
-- t-020
+- t-019
   teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -356,114 +356,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171228
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
-- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
-- susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190932|Nestoras]]: Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų.
-- susijęs iš [[objektai/asmenys/Rėza.md#claim-t-190116|Rėza]]: Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų.
-- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191186|Vulfstanas]]: Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pusėje apsilankė Estijoje.
-- susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190759|Malte-Brunas]]: Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį.
-- susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190378|Prūsijos kronikininkai]]: Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.
-- susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188471|Rėza (leidėjas, 1818 m.)]]: Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus.
-- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190819|Vulfstanas (jūrininkas, IX amžius)]]: Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179490|Laivai]]: Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.
-- susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
-- susijęs iš [[objektai/grupes/Galai ir skandinavai.md#claim-t-189515|Galai ir skandinavai]]: Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais.
-- susijęs iš [[objektai/grupes/Graikai, romėnai, skandinavai ir slavų kiltys.md#claim-t-189516|Graikai, romėnai, skandinavai ir slavų kiltys]]: Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skandinavų ir kai kurių slavų kilčių papročiais.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
-- susijęs iš [[objektai/grupes/Skandinavai ir germanai.md#claim-t-189535|Skandinavai ir germanai]]: Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, latviai ir lietuviai vartojo panašius pavadinimus.
-- susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
-- susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87179|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją.
-- susijęs iš Asgarai: Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis.
-- susijęs iš Lietuva: Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.
-- susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192554|Ausiurland]]: Narbuto teigimu, Ausiurland buvo vienas iš skandinavų vartotų bendrinių lietuvių žemių pavadinimų.
-- susijęs iš [[objektai/zodynas/Lietuvių mitologija.md#claim-t-189157|Lietuvių mitologija]]: Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romėnų dievų bei skandinavų religijos samplaikos rezultatą.
-- susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82106|Variagai]]: IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.
-- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
-- susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192199|Ausiurland]]: Narbuto teigimu, skandinavai lietuvių žemes vadino bendriniais pavadinimais Ausiurland, Austarreich ir Austurmeg.
-- susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190037|Adomas Bremenietis]]: Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu.
-- susijęs iš [[objektai/asmenys/Chunigardija.md#claim-t-191381|Chunigardija]]: Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės Rusioje auklėjo Fridleifą.
-- susijęs iš [[objektai/asmenys/Flamoras.md#claim-t-191396|Flamoras]]: Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.
-- susijęs iš [[objektai/asmenys/Fridleifas.md#claim-t-191268|Fridleifas]]: Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą.
-- susijęs iš [[objektai/asmenys/Frotonas III.md#claim-t-191140|Frotonas III]]: Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.
-- susijęs iš [[objektai/asmenys/Frotonas III.md#claim-t-191141|Frotonas III]]: Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą.
-- susijęs iš [[objektai/asmenys/Goteris.md#claim-t-191275|Goteris]]: Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.
-- susijęs iš [[objektai/asmenys/Hadingas.md#claim-t-190155|Hadingas]]: Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis.
-- susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190004|Henenbergeris]]: Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu.
-- susijęs iš [[objektai/asmenys/Hoteris.md#claim-t-190157|Hoteris]]: Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pakeitė žmonių auka.
-- susijęs iš [[objektai/asmenys/Ingigerda.md#claim-t-191419|Ingigerda]]: Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
-- susijęs iš [[objektai/asmenys/Ingvaras.md#claim-t-191420|Ingvaras]]: Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto tekste atsargiai siejamas su rusnėnų kariūnu.
-- susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/asmenys/Sterverkas.md#claim-t-191982|Sterverkas]]: Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu.
-- susijęs iš [[objektai/asmenys/Sturlaugas Darbštusis.md#claim-t-191472|Sturlaugas Darbštusis]]: Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro.
-- susijęs iš [[objektai/asmenys/Torfėjas.md#claim-t-191329|Torfėjas]]: Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191239|Vyresnysis Starkateras]]: Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku.
-- susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-64515|A. Salys]]: A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.
-- susijęs iš [[objektai/autoriai/Adomas Bremenietis.md#claim-t-188392|Adomas Bremenietis]]: Narbutas teigė, kad, Adomo Bremeniečio pranešimu, švedų protėviai ypač laikėsi šventųjų ąžuolų tradicijos.
-- susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190317|Herodotas]]: Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
-- susijęs iš [[objektai/autoriai/Torfėjas.md#claim-t-191578|Torfėjas]]: Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.
-- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
-- susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189432|Biarmiai]]: Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-188188|Gotai]]: Narbutas teigė, kad dėl artimų ryšių su gotais lietuvių gentys perėmė daug religinių mitų ir apeigų, palikusių pėdsakų lietuvių mitologijoje.
-- susijęs iš [[objektai/grupes/Gotai.md#claim-t-192402|Gotai]]: Narbutas aiškina, kad kraštas nuo Nemuno žemupio iki Dauguvos žemupio vadintas Gotija dėl jame plėstos gotų valdžios.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
-- susijęs iš [[objektai/grupes/Kaukai.md#claim-t-189492|Kaukai]]: Narbutas kaukų garbintojams priskiria paprotį nakčiai padėti maisto ir iš jo suvalgymo pranašauti kaip su barstukais.
-- susijęs iš [[objektai/grupes/Keltai.md#claim-t-192985|Keltai]]: Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-188242|Latviai]]: Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179236|Lietuviai]]: Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179251|Lietuviai]]: Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179325|Lietuviai]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188254|Lietuviai]]: Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190577|Lietuviai]]: Narbutas manė, kad skandinavai tikėjimą ąžuolo šventumu iš dalies perėmė iš lietuvių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190601|Lietuviai]]: Narbutas teigė neturįs patvirtinimo, kad lietuviai šventose giraitėse ant medžių kabindavo karalių kūnus aukso grandinėmis.
-- susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
-- susijęs iš [[objektai/grupes/Rusai.md#claim-t-192453|Rusai]]: Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais.
-- susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189407|Rusinai]]: Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.
-- susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189378|Senovės romėnai]]: Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-189481|Skitai]]: Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
-- susijęs iš [[objektai/grupes/Skitai.md#claim-t-192461|Skitai]]: Narbutas rašė, kad Šiaurės tautų sagos skandinavų protėvių atvykimą siejo su Skitijos puse ir Odino vadovavimu.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192468|Slavai]]: Narbutas spėjo, kad skandinavai per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus, gabenusius prekes į pietus.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-192471|Slavai]]: Narbutas, remdamasis istorikais, rašė apie labai seną Rusią, egzistavusią iki epochos, kai slavai pradėjo vadintis rusais.
-- susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
-- susijęs iš [[objektai/ivykiai/Fridleifo Danijos sosto susigrąžinimas.md#claim-t-191061|Fridleifo Danijos sosto susigrąžinimas]]: Narbuto pasakojimu, Frotono III sūnus Fridleifas buvo auklėjamas Rusioje ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.
-- susijęs iš [[objektai/ivykiai/Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos.md#claim-t-192017|Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos]]: Narbuto pateikiamame datavime Torfėjas Frotono III valdymą sieja su III krikščioniškosios eros amžiumi.
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
-- susijęs iš [[objektai/paprociai/Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime.md#claim-t-189816|Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime]]: Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.
-- susijęs iš [[objektai/paprociai/Gardaičiui aukojamos žuvys ir audros aukų daina.md#claim-t-189831|Gardaičiui aukojamos žuvys ir audros aukų daina]]: Narbuto pasakojime pajūrio žemaičių daina apverkė jūreivius, pagrobtus paaukoti audrai kaip juodus gyvulius, aukojamus audrų dievui.
-- susijęs iš [[objektai/paprociai/Lietuvių dangaus kūnų ir elementų garbinimas Narbuto aiškinime.md#claim-t-189961|Lietuvių dangaus kūnų ir elementų garbinimas Narbuto aiškinime]]: Narbutas teigė, kad seniausioji lietuvių religija buvusi azijinė indiška, o dangaus kūnai, ugnis, vanduo ir žemė garbinti pagal budistų ir persų taisykles.
-- susijęs iš [[objektai/paprociai/Žymių mirusiųjų deginimas ant laidotuvių laužo.md#claim-t-189908|Žymių mirusiųjų deginimas ant laidotuvių laužo]]: Narbutas rašo, kad žymių mirusiųjų laidotuvėse su didiku kartais laidodavo tarnus, arklius, šunis ir sakalus, o dažniau juos vesdavo ant laužo.
-- susijęs iš [[objektai/paprociai/Žymių mirusiųjų deginimas ant laidotuvių laužo.md#claim-t-189909|Žymių mirusiųjų deginimas ant laidotuvių laužo]]: Narbuto aprašymu, ant laidotuvių laužo su žymaus mirusiojo kūnu kraudavo daiktus, kurie jam gyvenime buvo malonūs, reikalingi ar puošnūs.
-- susijęs iš Huldasaga: Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa statė šventyklą Odino garbei.
-- susijęs iš Jogailos autentiški dokumentai iki krikšto Karaliaučiaus archyve: Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.
-- susijęs iš Torfėjaus Historia Norvegica: Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.
-- susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
-- susijęs iš Danija: Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.
-- susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
-- susijęs iš Dauguva: Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.
-- susijęs iš Italija: Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.
-- susijęs iš Karaliaučius: Kai kurie autentiški Jogailos dokumentai, rašyti prieš jo krikštą, buvo išsaugoti Karaliaučiaus archyve.
-- susijęs iš Karaliaučius: Karaliaučiaus archyve buvo saugomi autentiški Jogailos dokumentai, rašyti prieš jo krikštą.
-- susijęs iš Kijevas: Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo.
-- susijęs iš Nemunas: Narbuto aprašytas Reithgothland kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.
-- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
-- susijęs iš Rusia: Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.
-- susijęs iš Trakai: Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą.
-- susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192199|Ausiurland]]: Narbuto teigimu, skandinavai lietuvių žemes vadino bendriniais pavadinimais Ausiurland, Austarreich ir Austurmeg.
-- susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192200|Ausiurland]]: Narbutas aiškina, kad Ausiurland, Austarreich ir Austurmeg reiškia Rytų žemę, Rytų valstybę ir Rytų kelią.
-- susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54799|Austurweg]]: Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.
-- susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
-- susijęs iš [[objektai/zodynas/Froblosk.md#claim-t-189293|Froblosk]]: Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
-- susijęs iš [[objektai/zodynas/Kaukai.md#claim-t-189151|Kaukai]]: Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais.
-- susijęs iš [[objektai/zodynas/Koboliai kobeliai koboldai.md#claim-t-189129|Koboliai kobeliai koboldai]]: Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.
-- susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189106|Krivis Krewe Crive]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
-- susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
-- susijęs iš [[objektai/ivykiai/Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos.md#claim-t-192017|Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos]]: Narbuto pateikiamame datavime Torfėjas Frotono III valdymą sieja su III krikščioniškosios eros amžiumi.
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
-- susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
-- susijęs iš [[objektai/zodynas/Ausiurland.md#claim-t-192200|Ausiurland]]: Narbutas aiškina, kad Ausiurland, Austarreich ir Austurmeg reiškia Rytų žemę, Rytų valstybę ir Rytų kelią.
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.'
@@ -511,7 +404,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-171225
   autorius: "Teodoras Narbutas"
@@ -538,9 +431,9 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
     - t-003
-    - t-015
+    - t-014
 
 - id: c-171227
   autorius: "Teodoras Narbutas"
@@ -580,7 +473,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-020
+    - t-019
 
 - id: c-171229
   autorius: "Teodoras Narbutas"
@@ -666,7 +559,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-175251
   autorius: "Teodoras Narbutas"
@@ -690,7 +583,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-175252
   autorius: "Teodoras Narbutas"
@@ -714,7 +607,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-175253
   autorius: "Teodoras Narbutas"
@@ -743,7 +636,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-175254
   autorius: "Teodoras Narbutas"
@@ -764,7 +657,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-175887
   redaktorius: "A. Šapoka"
@@ -784,7 +677,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-176994
   autorius: "Teodoras Narbutas"
@@ -808,7 +701,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-015
+    - t-014
 
 - id: c-176995
   autorius: "Teodoras Narbutas"
@@ -830,7 +723,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-176996
   autorius: "Teodoras Narbutas"
@@ -850,8 +743,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-016
     - t-017
-    - t-018
 
 - id: c-176997
   autorius: "Teodoras Narbutas"
@@ -902,7 +795,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-176999
   autorius: "Teodoras Narbutas"
@@ -918,6 +811,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   citata_rodoma: "Romėnai darydavo pakirptuves\nįvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­\nves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-\nratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak\nislandų sagose esančių padavimų, skandinavai taip pat žinojo\npakirptuves. Senovės lenkai ypač laikėsi šio papročio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

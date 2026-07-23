@@ -49,25 +49,7 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171934
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
-- susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187905|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą.
-- susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187906|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu.
-- susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-188519|Bonaventūras Milevskis]]: Bonaventūras Milevskis, ardamas žemę Burokų dvare netoli Kražių, 1836 m. gegužę iškasė figūrą.
-- susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-190849|Bonaventūras Milevskis]]: 1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą.
-- susijęs iš [[objektai/asmenys/Jucevičius.md#claim-t-191500|Jucevičius]]: Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevskis ardamas iškasė figūrą.
-- susijęs iš [[objektai/asmenys/Liudvikas Adomas Jucevičius.md#claim-t-191159|Liudvikas Adomas Jucevičius]]: Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą.
-- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190988|Teodoras Narbutas]]: Teodoras Narbutas yra dailiau už anuos padarytas.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
-- susijęs iš Burokų dvaras: 1836 m. gegužę Burokų dvare, esančiame už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą.
-- susijęs iš Kražiai: Pasak Narbuto cituoto aprašymo, 1836 m. Bonaventūras Milevskis Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą.
-- susijęs iš Kražiai: 1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192569|Pusbernis]]: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, ardamas iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
-- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
-- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
+
 ## Citatos
 
 - id: c-171934

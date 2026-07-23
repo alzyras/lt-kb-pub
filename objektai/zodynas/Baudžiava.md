@@ -15,14 +15,14 @@ datos:
   - '2026 m.'
 date_start: '1447'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - socialinis-terminas
   - sąvoka
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -68,7 +68,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-108568"></a>
-- t-017
+- t-001
   teiginys: "Petrapily paruoštas ir 1861 m. vasario 19 d. paskelbtas manifestas Rusijos imperijoje panaikino baudžiavą ir suteikė valstiečiams teisę per 49 metus išsipirkti žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +87,7 @@ Nenurodyta
     - c-00274
 
 <a id="claim-t-108570"></a>
-- t-016
+- t-002
   teiginys: "Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Nenurodyta
     - c-100728
 
 <a id="claim-t-108573"></a>
-- t-023
+- t-003
   teiginys: "1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +122,7 @@ Nenurodyta
     - c-100727
 
 <a id="claim-t-108574"></a>
-- t-001
+- t-004
   teiginys: "Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,7 +138,7 @@ Nenurodyta
     - c-24661
 
 <a id="claim-t-108575"></a>
-- t-024
+- t-005
   teiginys: "1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,7 +157,7 @@ Nenurodyta
     - c-100721
 
 <a id="claim-t-108576"></a>
-- t-020
+- t-006
   teiginys: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,7 +176,7 @@ Nenurodyta
     - c-100726
 
 <a id="claim-t-108577"></a>
-- t-015
+- t-007
   teiginys: "1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -194,7 +194,7 @@ Nenurodyta
     - c-00274
 
 <a id="claim-t-108579"></a>
-- t-014
+- t-008
   teiginys: "Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -210,7 +210,7 @@ Nenurodyta
     - c-24661
 
 <a id="claim-t-108580"></a>
-- t-013
+- t-009
   teiginys: "Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -221,7 +221,7 @@ Nenurodyta
     - c-00271
 
 <a id="claim-t-108583"></a>
-- t-025
+- t-010
   teiginys: "Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -240,7 +240,7 @@ Nenurodyta
     - c-100725
 
 <a id="claim-t-193138"></a>
-- t-026
+- t-011
   teiginys: "Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -250,7 +250,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175893
-- susijęs iš [[objektai/zodynas/Karališkieji žmonės.md#claim-t-195452|Karališkieji žmonės]]: Karališkieji žmonės priešpriešinami baudžiauninkams.
+
 ## Citatos
 
 - id: c-00271
@@ -270,7 +270,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 - id: c-00274
   redaktorius: "A. Šapoka"
@@ -292,8 +292,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-015
+    - t-001
+    - t-007
 
 - id: c-24661
   redaktorius: "A. Šapoka"
@@ -312,8 +312,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-014
+    - t-004
+    - t-008
 
 - id: c-100721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -334,7 +334,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-005
 
 - id: c-100725
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -354,7 +354,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-010
 
 - id: c-100726
   autorius: "Michał Baliński"
@@ -379,7 +379,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-006
 
 - id: c-100727
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -399,7 +399,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-003
 
 - id: c-100728
   autorius: "Michał Baliński"
@@ -417,7 +417,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-002
 
 - id: c-175893
   redaktorius: "A. Šapoka"
@@ -435,4 +435,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-011

@@ -48,7 +48,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67261
-- susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
+
 ## Citatos
 
 - id: c-67260

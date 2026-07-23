@@ -39,7 +39,7 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
 ## Teiginiai
 
 <a id="claim-t-191426"></a>
-- t-002
+- t-001
   teiginys: "Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,7 +57,7 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174308
-- susijęs iš Jurgis de Buffonas, Gamtos istorija: Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direktorius ir 1749–1788 m. leistos „Gamtos istorijos“ autorius.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis prasidėjo nuo ašigalių.'
@@ -102,4 +102,4 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

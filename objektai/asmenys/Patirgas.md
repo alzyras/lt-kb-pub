@@ -56,7 +56,7 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   temporalinis_llm_pakomentavimas: "Vietoje triukšmingo sąrašo parinktas aiškus citata paremtas faktas apie Patirgą."
   pagrindžia:
     - c-36484
-- susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
+
 ## Citatos
 
 - id: c-36484

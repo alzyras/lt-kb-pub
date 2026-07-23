@@ -53,10 +53,7 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
   semantiniai_rysiai: "Namas priklausė Cimermanas (0.87)"
   pagrindžia:
     - c-83624
-- susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
-- susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
-- susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
-- susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
+
 ## Citatos
 
 - id: c-83624

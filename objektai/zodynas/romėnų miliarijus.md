@@ -43,7 +43,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
 ## Teiginiai
 
 <a id="claim-t-192176"></a>
-- t-003
+- t-001
   teiginys: "Narbutas nurodė: Lotyniškoje pastaboje 600 romėniškų mylių nurodomos kaip atstumas nuo Karnunto Panonijoje iki Germanijos pakrantės."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -61,7 +61,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     - c-175050
 
 <a id="claim-t-192177"></a>
-- t-001
+- t-002
   teiginys: "Teodoras Narbutas kelio ilgį pagal Plinijų nusako kaip 600 romėnų miliarijų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,7 +79,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
     - c-175051
 
 <a id="claim-t-192178"></a>
-- t-002
+- t-003
   teiginys: "Teodoras Narbutas 600 romėnų miliarijų prilygina 120—125 vokiečių mylioms ir sieja su Ptolemėjo nurodytu nuotoliu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -157,7 +157,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
     - t-005
 
 - id: c-175051
@@ -177,6 +177,6 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
+    - t-003
     - t-004

@@ -35,7 +35,7 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 ## Teiginiai
 
 <a id="claim-t-75504"></a>
-- t-005
+- t-001
   teiginys: "Po Melno taikos santykiai su Lenkija tapo svarbiausia politine Lietuvos problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
     - c-73264
 
 <a id="claim-t-75505"></a>
-- t-004
+- t-002
   teiginys: "Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,5 +103,5 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-004
+    - t-001
+    - t-002

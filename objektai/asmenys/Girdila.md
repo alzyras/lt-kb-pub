@@ -7,14 +7,14 @@ datos:
   - '1285 m.'
 date_start: '1285'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 ## Teiginiai
 
 <a id="claim-t-60123"></a>
-- t-002
+- t-001
   teiginys: "Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
     - c-60755
 
 <a id="claim-t-60124"></a>
-- t-001
+- t-002
   teiginys: "1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -71,9 +71,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apkrautas antrašte ir boilerplate."
   pagrindžia:
     - c-60755
-- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
-- susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-183921|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
-- susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-62269|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,11 +84,11 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
     pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
     juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- t-60124
+  statusas: verified
+- t-001
 
 ## Citatos
 
@@ -113,8 +111,8 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 - Girdila keliavo į [[objektai/vietos/Aukaimis]]

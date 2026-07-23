@@ -55,8 +55,7 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; sutrumpinta iki aiškaus fakto apie asmenį."
   pagrindžia:
     - c-167520
-- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-184065|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
-- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
+
 ## Citatos
 
 - id: c-167520

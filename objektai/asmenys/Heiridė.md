@@ -50,11 +50,7 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174293
-- susijęs iš [[objektai/asmenys/Augmundas.md#claim-t-191370|Augmundas]]: Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Augmundas.md#claim-t-191370|Augmundas]]: Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą.
-- susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
-- susijęs iš [[objektai/asmenys/Zugurlamas.md#claim-t-191488|Zugurlamas]]: Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje.
-- susijęs iš Islandų sakmės, vadinamos šiaurinėmis sagomis: Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi.
+
 ## Citatos
 
 - id: c-174293

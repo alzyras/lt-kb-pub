@@ -48,10 +48,7 @@ Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkap
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171926
-- susijęs iš Pavyslis: Narbutas rašo, kad Pavyslio ir Padneprio senieji gyventojai pildavo milžinkapius.
-- susijęs iš Dnepras: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais.
-- susijęs iš Mogiliovas: Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius.
-- susijęs iš Rogačiovas: Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.
+
 ## Citatos
 
 - id: c-171926

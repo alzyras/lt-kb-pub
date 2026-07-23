@@ -51,7 +51,7 @@ media_all_json: |-
   semantiniai_rysiai: "Turkijos kariuomenė keliavo į Chotinas (0.84)"
   pagrindžia:
     - c-44861
-- susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.
+
 ## Citatos
 
 - id: c-44861

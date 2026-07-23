@@ -61,7 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195358"></a>
-- t-003
+- t-001
   teiginys: "Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,7 +72,7 @@ Nenurodyta
     - c-177771
 
 <a id="claim-t-195359"></a>
-- t-001
+- t-002
   teiginys: "Šienapiūtėje būtina mokėti tinkamai parengti dalgį šienui pjauti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,7 +82,7 @@ Nenurodyta
     - c-177769
 
 <a id="claim-t-195360"></a>
-- t-004
+- t-003
   teiginys: "Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,7 +93,7 @@ Nenurodyta
     - c-177773
 
 <a id="claim-t-195361"></a>
-- t-002
+- t-004
   teiginys: "Šienapiūtė pradedama po Švento Jono, o jos pradžią lydi šienapiūtės daina."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -101,7 +101,7 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177772
-- susijęs iš [[objektai/posakiai/Valioi mano dalgeeeeli, valiooooi, valiooooi!.md#claim-t-195418|Valioi mano dalgeeeeli, valiooooi, valiooooi!]]: Šienapiūtės dainoje kartojamas kreipinys į dalgį ir refrenas „valiooooi“.
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -130,7 +130,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177769
   autorius: "M. Katkus"
@@ -155,7 +155,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-177770
   autorius: "M. Katkus"
@@ -171,7 +171,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177771
   autorius: "M. Katkus"
@@ -194,7 +194,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-177772
   autorius: "M. Katkus"
@@ -210,7 +210,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-177773
   autorius: "M. Katkus"
@@ -226,7 +226,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-177774
   autorius: "M. Katkus"
@@ -238,6 +238,7 @@ Nenurodyta
   citata_rodoma: "Pavalgius vakarienę, arklius suveda prie ugnies, pririša prie kuolų, ir stovi jie trumpą vasaros naktį. Del ugnies nepuola arklių uodai, ugnies ir vilkai vengia."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,7 +40,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 ## Teiginiai
 
 <a id="claim-t-58876"></a>
-- t-002
+- t-001
   teiginys: "Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
     - c-59508
 
 <a id="claim-t-58877"></a>
-- t-001
+- t-002
   teiginys: "1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-59509
   autorius: "Petras Dusburgietis"
@@ -120,4 +120,4 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

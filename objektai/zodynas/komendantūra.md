@@ -72,7 +72,7 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166352
-- susijęs iš [[objektai/asmenys/J. Aukštuolaitis.md#claim-t-40151|J. Aukštuolaitis]]: J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.
+
 ## Citatos
 
 - id: c-03279

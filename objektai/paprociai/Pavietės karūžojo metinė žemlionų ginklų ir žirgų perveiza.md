@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07798"></a>
-- t-002
+- t-001
   teiginys: "Kiekviena pavietė turėjo karūžąjį, kuris laikė surašytus žemlionus, o kartą per metus tikrino jų ginklus ir arklius."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -60,9 +60,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09954
-
-## Reikšmingi paminėjimai
-Nenurodyta
 
 ## Citatos
 
@@ -81,7 +78,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-09955
   autorius: "Simonas Daukantas"
@@ -97,6 +94,7 @@ Nenurodyta
   citata_rodoma: "Atlikusysis arba išmestasis\nir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo\nlaikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse\ngadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti\nreistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių\nžemlionų, arba vyčių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

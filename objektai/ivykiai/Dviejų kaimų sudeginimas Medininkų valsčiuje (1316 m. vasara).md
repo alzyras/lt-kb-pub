@@ -7,13 +7,13 @@ datos:
   - '1316 m.'
 date_start: '1316'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -98,11 +98,11 @@ Nenurodyta
     kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
     dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-002
 
 ## Citatos
 

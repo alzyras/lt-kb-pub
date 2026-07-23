@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67009"></a>
-- t-006
+- t-001
   teiginys: "Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,7 @@ Nenurodyta
     - c-43145
 
 <a id="claim-t-67010"></a>
-- t-004
+- t-002
   teiginys: "1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -89,7 +89,7 @@ Nenurodyta
     - c-11944
 
 <a id="claim-t-67011"></a>
-- t-005
+- t-003
   teiginys: "1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -106,7 +106,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-11945
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67036|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.
+
 ## Citatos
 
 - id: c-11944
@@ -125,7 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-11945
   sudarytojas: "Karolis Zikaras"
@@ -161,7 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-43145
   sudarytojas: "Karolis Zikaras"
@@ -187,4 +187,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-001

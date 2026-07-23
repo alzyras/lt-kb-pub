@@ -38,7 +38,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 ## Teiginiai
 
 <a id="claim-t-175164"></a>
-- t-005
+- t-001
   teiginys: "Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - c-159323
 
 <a id="claim-t-175165"></a>
-- t-006
+- t-002
   teiginys: "Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - c-159319
 
 <a id="claim-t-175167"></a>
-- t-007
+- t-004
   teiginys: "H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - c-159320
 
 <a id="claim-t-175169"></a>
-- t-002
+- t-005
   teiginys: "H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,7 +130,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-002
 
 - id: c-159318
   autorius: "Petras Dusburgietis"
@@ -151,7 +151,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-005
 
 - id: c-159319
   autorius: "Petras Dusburgietis"
@@ -185,7 +185,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-159323
   autorius: "Petras Dusburgietis"
@@ -203,4 +203,4 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001

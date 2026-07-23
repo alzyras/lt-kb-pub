@@ -49,14 +49,3 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
-## Teiginiai
-
-- susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190098|Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189974|Kristoforas Hartknochas]]: Hartknochas senosios Prūsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188433|Kristupas Hartknochas]]: Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.
-- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
-- susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
-- susijęs iš [[objektai/autoriai/Treteris.md#claim-t-190359|Treteris]]: Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos.
-- susijęs iš Bysleida: Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje.
-- susijęs iš Romovės šventykla: Narbutas pažymi, kad slavai šventyklas vadino gontinomis arba kontinomis.

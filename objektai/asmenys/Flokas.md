@@ -49,9 +49,7 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174279
-- susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191319|Starkateras]]: Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
-- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
+
 ## Citatos
 
 - id: c-174279

@@ -44,9 +44,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45542
-- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
-- susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42462|karakolė]]: Švedų raitarai pasikliovė karakoliavimo taktika.
+
 ## Citatos
 
 - id: c-45542

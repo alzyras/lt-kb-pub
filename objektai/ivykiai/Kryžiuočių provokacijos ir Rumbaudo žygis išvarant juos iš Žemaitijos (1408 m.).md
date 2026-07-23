@@ -79,7 +79,7 @@ Nenurodyta
     - c-168958
 
 <a id="claim-t-196186"></a>
-- t-004
+- t-003
   teiginys: "Kryžiuočiai užgrobė Vysla gabentus grūdus, o karaliui pareikalavus nelaužyti susitarimo aiškino atėmę siuntą lietuviams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,7 +92,7 @@ Nenurodyta
     - c-168957
 
 <a id="claim-t-196187"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičiaus pasakojime kryžiuočiai, neva nepakęsdami ilgos ramybės ir atidėliojamo karo, Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -160,7 +160,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-168958
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -193,4 +193,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
+    - t-004

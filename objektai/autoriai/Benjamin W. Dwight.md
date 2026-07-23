@@ -44,12 +44,7 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75385
-- susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101616|„Iš visų Europos kalbų lietuvių kalba...“]]: Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.
-- susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101617|„Iš visų Europos kalbų lietuvių kalba...“]]: Benjaminas W. Dwightas teigė, kad pagal kalbos grožį lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų.
-- susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101618|„Iš visų Europos kalbų lietuvių kalba...“]]: Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.
-- susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101619|„Iš visų Europos kalbų lietuvių kalba...“]]: Benjaminas W. Dwightas lietuvių kalbą išskyrė dėl gausių maloninių ir mažybinių žodžių.
-- susijęs iš Modern Philology: Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.
-- susijęs iš Modern Philology: „Modern Philology“ lietuvių kalba apibūdinta kaip turinti daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.
+
 ## Citatos
 
 - id: c-75385

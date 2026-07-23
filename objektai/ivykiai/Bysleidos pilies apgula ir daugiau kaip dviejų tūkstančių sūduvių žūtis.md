@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62762"></a>
-- t-002
+- t-001
   teiginys: "Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Nenurodyta
     - c-63552
 
 <a id="claim-t-62763"></a>
-- t-001
+- t-002
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +100,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-63552
   autorius: "Petras Dusburgietis"
@@ -119,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

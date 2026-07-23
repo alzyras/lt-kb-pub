@@ -6,7 +6,7 @@ variantai:
   - 'kačergą'
   - 'Kačergos'
 saltiniai:
-  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
+  - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
 tags:
   - įrankis
@@ -68,6 +68,7 @@ Nenurodyta
   citata_rodoma: "Tam reikalui vienam vaikinui duoda į rankas kačergą, kurios gale padaryta storuma, panaši į gervės galvą su snapu ir kuodu."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

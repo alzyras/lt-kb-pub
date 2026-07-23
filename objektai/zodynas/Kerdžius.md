@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: Kerdžius
 sukurta: '2026-07-12'
 variantai:
-  - 'kerdžiaus'
-  - 'kerdžiui'
-  - 'kerdžiuku'
+  - kerdžiaus
+  - kerdžiui
+  - kerdžiuku
 aliases: []
 saltiniai:
-  - 'Mūsų tautosaka, t.4 (1931)'
+  - Mūsų tautosaka, t.4 (1931)
 bukle: juodrastis
 laikotarpis: ''
 datos: []
@@ -73,6 +73,3 @@ Terminas vartojamas kaip kaimo ūkinės tvarkos pareigybės pavadinimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Teiginiai
-
-- susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.

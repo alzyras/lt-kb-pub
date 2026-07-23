@@ -8,14 +8,14 @@ datos:
   - '1317 m.'
 date_start: '1315'
 date_end: '1317'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - mūšis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -52,11 +52,7 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis."
   pagrindžia:
     - c-33081
-- susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
-- susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
-- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
-- susijęs iš [[objektai/autoriai/V. Černeckis.md#claim-t-31055|V. Černeckis]]: V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.
+
 ## Citatos
 
 - id: c-33081

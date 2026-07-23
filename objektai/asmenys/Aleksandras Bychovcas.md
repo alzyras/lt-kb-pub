@@ -83,8 +83,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169839
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186811|Bychovco kronikos rankraštis]]: Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.
-- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186811|Bychovco kronikos rankraštis]]: Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -95,10 +94,10 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
     siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
     paviete, Nočios parapijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
+  statusas: verified
 - c-002
   santrauka: 'Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -110,11 +109,29 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
     pagal rankraščio savininką, Gardino gubernijos Volko-
     vysko apskrities teisėją Aleksandrą Bychovcą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
-
+  statusas: verified
+- c-003
+  santrauka: 'Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    I RANKRAŠTIS IR JO  SKELBIMAS
+    Bychovco kronika, palyginus su Trumpuoju ir Pla-
+    tesniuoju sąvadais, yra pilniausia Lietuvos istorija, pa­
+    rašyta iki XVI a. vidurio; joje užpildytos Trumpojo
+    sąvado spragos Vytauto valdymo laikų aprašyme, o
+    Lietuvos istorija po 1446 m. sistemingai aprašoma ligi
+    1506 m.
+    Bychovco kronikos rankraštį prieš 1830 m. Alek­
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: tiesioginė-citata
+  statusas: verified
 ## Citatos
 
 - id: c-169839

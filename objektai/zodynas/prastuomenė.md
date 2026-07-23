@@ -48,11 +48,7 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai ap
   vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
   pagrindžia:
     - c-168769
-- susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55145|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
-- susijęs iš Palenkė: Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.
-- susijęs iš Tikocinas: Apie 1345 m. Goštautui išvykus į Palenkės Tikociną, Vilniuje prastuomenė užėmė pranciškonų vienuolyną.
-- susijęs iš [[objektai/zodynas/prastuomenė communis populus ignobiles.md#claim-t-56951|prastuomenė / communis populus / ignobiles]]: Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.
-- susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
+
 ## Citatos
 
 - id: c-168769

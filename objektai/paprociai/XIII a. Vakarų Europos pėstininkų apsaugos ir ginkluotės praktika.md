@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78730"></a>
-- t-002
+- t-001
   teiginys: "XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +67,7 @@ Nenurodyta
     - c-75917
 
 <a id="claim-t-193747"></a>
-- t-003
+- t-002
   teiginys: "Pėstininkai galėdavo būti apsaugoti žieduočio šarvų, tačiau dažniau apsaugai naudodavo tiesiog storos medžiagos pošarvį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -96,7 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-75917
   sudarytojas: "Karolis Zikaras"
@@ -116,4 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -40,7 +40,7 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 ## Teiginiai
 
 <a id="claim-t-07721"></a>
-- t-003
+- t-001
   teiginys: "Adynos šiame tekste reiškia 24 dienos ir nakties valandas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -49,27 +49,34 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
     - c-09645
 
 <a id="claim-t-07722"></a>
-- t-004
+- t-002
   teiginys: "Adynos turėjo konkrečius vardus, tarp jų sambrėškį, vakarą, naktovidą, pietus ir saulėlydį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09645
-- susijęs iš [[objektai/ivykiai/Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.).md#claim-t-200603|Tribunolo maršalkos ir artilerijos generolo priėmimas Paneriuose (1751 m. birželio 25 d.)]]: Juozapas Antanas Solohubas ir Antanas Solohubas 1751 m. be ceremonijų pakvietė Lopacinskį prie mažojo staliuko.
-- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
-- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195303|Terba]]: Šienapjūtėje terbos vartojamos maistui vežti į pievas.
-- susijęs iš [[objektai/daiktai/Virvė.md#claim-t-195311|Virvė]]: Virvė minima tiek lauko darbuose, tiek buitinio pokšto pasakojime.
-- susijęs iš [[objektai/daiktai/Ąsotis.md#claim-t-195307|Ąsotis]]: Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas.
-- susijęs iš [[objektai/paprociai/Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme.md#claim-t-200621|Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme]]: 1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
-- susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
-- susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200556|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
-- susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.
-- susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192286|Fajetono katastrofa]]: Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu.
-- susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192293|judančios žemės sluoksniai]]: Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais.
-- susijęs iš [[objektai/zodynas/senienos.md#claim-t-192135|senienos]]: Narbutas aiškina, kad Senienos siejamos su priešistorinės senovės epochomis ir naudojamos kaip istorinio tyrimo medžiaga.
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Brėkšta (Brekszta) Tamsumų deivė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Brėkšta (Brekszta)
+    Tamsumų deivė. Tik tiek žinome apie ją iš Lasickio tyri­
+    mų. Į šios deivės mitą dar įėjo sapnų valdymas. Iš žmonių pasa­
+    139
+
+    ## Puslapis 139
+
+    kojimų ir būrimo pagal sapnų apraiškas aiškėja, kad tai buvo
+    dievybė, valdanti sapnus, arba sapnais įspėjanti žmones apie
+    būsimus gerus arba blogus įvykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-09645
@@ -85,5 +92,5 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002

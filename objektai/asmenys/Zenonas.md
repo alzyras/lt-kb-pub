@@ -9,15 +9,15 @@ datos:
   - '1422 m.'
 date_start: '1414'
 date_end: '1422'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -92,25 +92,13 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173883
-- susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/ivykiai/Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą.md#claim-t-191073|Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą]]: Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
-- susijęs iš [[objektai/asmenys/Povilas Russdortas.md#claim-t-35267|Povilas Russdortas]]: Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191231|Teodorikas]]: Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.
-- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50799|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.
-- susijęs iš Ravena: Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems.
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    325
-    Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
-    dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
-    nėjo paliaubas, ieškojo priežasčių susidūrimams ir vėl
-    stengėsi jų išvengti. Galop jis slapta susitarė su Teodo-
+    Galop jis slapta susitarė su Teodo-
     riku, pasikliaudamas pažadais, o gal vildamasis sukelti
     barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
     atsirastų proga pašalinti juos abu, be to, jis leido ostro-
@@ -119,11 +107,16 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
     seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
     ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+- t-003
 
 ## Citatos
 

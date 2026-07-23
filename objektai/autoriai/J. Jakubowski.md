@@ -39,7 +39,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 ## Teiginiai
 
 <a id="claim-t-64628"></a>
-- t-002
+- t-001
   teiginys: "J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     - c-36655
 
 <a id="claim-t-64629"></a>
-- t-001
+- t-002
   teiginys: "J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“"
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-65306
   autorius: "Zenonas Ivinskis"
@@ -112,4 +112,4 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

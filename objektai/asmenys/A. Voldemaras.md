@@ -39,7 +39,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ## Teiginiai
 
 <a id="claim-t-77996"></a>
-- t-003
+- t-001
   teiginys: "A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75315
 
 <a id="claim-t-77997"></a>
-- t-004
+- t-002
   teiginys: "A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75312
 
 <a id="claim-t-77998"></a>
-- t-007
+- t-003
   teiginys: "1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75317
 
 <a id="claim-t-77999"></a>
-- t-001
+- t-004
   teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,7 +155,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75313
 
 <a id="claim-t-78002"></a>
-- t-002
+- t-007
   teiginys: "A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,37 +189,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie bandymus grąžinti Voldemarą į valdžią."
   pagrindžia:
     - c-75314
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
-- susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75767|Augustinas Voldemaras]]: Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75770|Augustinas Voldemaras]]: Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75775|Augustinas Voldemaras]]: Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75777|Augustinas Voldemaras]]: Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75780|Augustinas Voldemaras]]: 1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75783|Augustinas Voldemaras]]: Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
-- susijęs iš [[objektai/asmenys/J. Simpsonas.md#claim-t-26443|J. Simpsonas]]: J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija.
-- susijęs iš [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris).md#claim-t-20213|Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]: 1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.
-- susijęs iš [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.).md#claim-t-20440|Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]: Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras.
-- susijęs iš [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“.md#claim-t-26349|„vidurainės [A. Smetonos terminas – Red.] linijos“]]: A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Kaunas: Grįžęs į Kauną Augustinas Voldemaras Karininkų ramovėje ir per radiją pareiškė, kad Lietuva išėjo į pasaulinę politiką.
-- susijęs iš Paryžius: Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.
-- susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.
-- susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75771|Augustinas Voldemaras]]: A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75785|Augustinas Voldemaras]]: Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui A. Voldemarui sudaryti naują Ministrų kabinetą.
-- susijęs iš [[objektai/asmenys/Juozas Pajaujis.md#claim-t-19016|Juozas Pajaujis]]: 1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.
-- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
-- susijęs iš [[objektai/daiktai/Šarvuočiai.md#claim-t-26415|Šarvuočiai]]: 1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.
-- susijęs iš [[objektai/grupes/Geležinis vilkas.md#claim-t-19696|Geležinis vilkas]]: Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.
-- susijęs iš [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“.md#claim-t-26358|„Lietuva galėtų įsijungti į Rusijos federaciją...“]]: Atsakydamas J. Simpsonui, Augustinas Voldemaras pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiai kaip Bavarija į Vokietijos sąjungą.
-- susijęs iš [[objektai/posakiai/„seimų laikus“.md#claim-t-20942|„seimų laikus“]]: A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.
-- susijęs iš Paryžius: Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.
-- susijęs iš Zarasai: Voldemaras buvo ištremtas iš Zarasų į Paryžių.
-- susijęs iš Ženeva: Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.
+
 ## Citatos
 
 - id: c-75311
@@ -263,7 +233,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-75313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -330,7 +300,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-75316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -354,7 +324,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-007
 
 - id: c-75317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -378,7 +348,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-75318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -413,7 +383,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 ## Ryšiai
 - Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]

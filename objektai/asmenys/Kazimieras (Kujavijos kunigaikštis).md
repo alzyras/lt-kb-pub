@@ -32,7 +32,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 ## Teiginiai
 
 <a id="claim-t-63803"></a>
-- t-005
+- t-001
   teiginys: "Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64740
 
 <a id="claim-t-63804"></a>
-- t-007
+- t-002
   teiginys: "Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-167484
 
 <a id="claim-t-63805"></a>
-- t-008
+- t-003
   teiginys: "Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį."
   atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64741
 
 <a id="claim-t-63808"></a>
-- t-001
+- t-005
   teiginys: "Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64742
 
 <a id="claim-t-63809"></a>
-- t-003
+- t-006
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -123,7 +123,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64742
 
 <a id="claim-t-194498"></a>
-- t-010
+- t-007
   teiginys: "Apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -135,7 +135,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-176945
 
 <a id="claim-t-197113"></a>
-- t-011
+- t-008
   teiginys: "Kazimieras (Kujavijos kunigaikštis) žemino tikėjimą ir tikinčiuosius!"
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -147,6 +147,22 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64738
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    46(45). Apie Svečės pilies pastatymą ir jos užpuolimą
+    Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
+    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
+    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
+    žemino tikėjimą ir tikinčiuosius!
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-009
+
 - c-005
   santrauka: 'Lenkijos kunigaikštis Kazimieras po Vytenio žygio į Bresto žemę paprašė Prūsijos magistro Meinhardo pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,11 +176,10 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
     kunigaikščiai pasileido bėgti su visais savo lenkais.
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -187,7 +202,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 - id: c-64740
   autorius: "Petras Dusburgietis"
@@ -205,7 +220,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-001
 
 - id: c-64741
   autorius: "Petras Dusburgietis"
@@ -251,8 +266,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
+    - t-005
+    - t-006
 
 - id: c-64744
   autorius: "Petras Dusburgietis"
@@ -274,7 +289,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-167484
   autorius: "Petras Dusburgietis"
@@ -304,8 +319,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-002
+    - t-003
 
 - id: c-176945
   autorius: "Petras Dusburgietis"
@@ -324,7 +339,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kujavija]]

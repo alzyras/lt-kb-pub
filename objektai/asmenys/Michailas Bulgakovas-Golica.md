@@ -39,7 +39,7 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 ## Teiginiai
 
 <a id="claim-t-79110"></a>
-- t-002
+- t-001
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica Oršos mūšyje vadovavo dešiniajam flangui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +51,7 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     - c-76199
 
 <a id="claim-t-79111"></a>
-- t-001
+- t-002
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -92,5 +92,5 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

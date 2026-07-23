@@ -39,7 +39,7 @@ Vartojamos formos: `ermyderių`.
 ## Teiginiai
 
 <a id="claim-t-69996"></a>
-- t-004
+- t-001
   teiginys: "Ermyderiai žemėje, vandenyje ir ore rodo pasaulyje buvusias atmainas, apie kurias raštai tyli."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Vartojamos formos: `ermyderių`.
     - c-09675
 
 <a id="claim-t-69998"></a>
-- t-005
+- t-002
   teiginys: "Ermyderiai apibūdina žemės, vandens ir oro reiškinius, liudijančius pasaulio atmainas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -69,7 +69,7 @@ Vartojamos formos: `ermyderių`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09675
-- susijęs iš [[objektai/grupes/Mozūrai (XV amžius).md#claim-t-11083|Mozūrai (XV amžius)]]: Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.
+
 ## Citatos
 
 - id: c-09675
@@ -84,5 +84,5 @@ Vartojamos formos: `ermyderių`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002

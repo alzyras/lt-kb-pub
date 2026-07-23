@@ -81,7 +81,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - c-167225
 
 <a id="claim-t-184095"></a>
-- t-004
+- t-003
   teiginys: "1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,18 +94,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo su antraštės ir fragmentų triukšmu, todėl perrašytas į aiškų sakinį."
   pagrindžia:
     - c-167480
-- susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97447|Jonas XXII (popiežius)]]: 1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.
-- susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97448|Jonas XXII (popiežius)]]: Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102844|Dusburgas]]: Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102856|Dusburgas]]: Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
-- susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54969|Fridrichas (Rygos arkivyskupas)]]: Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89290|Tamplierių ordinas]]: Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.
-- susijęs iš [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.).md#claim-t-62900|Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]: 1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Teutonų ordiną dėl Ordino priešų veiklos ir kryžiuočiams keltų kaltinimų.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62933|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir veikė Teutonų ordinas.
-- susijęs iš Prancūzija: Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.
-- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05590|apostazija]]: Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.
-- susijęs iš [[objektai/zodynas/ekskomunikuoti.md#claim-t-58899|ekskomunikuoti]]: 1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Ordiną.
+
 ## Citatos
 
 - id: c-166938
@@ -200,7 +189,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Jonas XXII (arkivyskupas, XIV a.) siuntė į [[objektai/vietos/Livonija]]

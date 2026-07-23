@@ -57,7 +57,7 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Walsinghamo kronikos informaciją."
   pagrindžia:
     - c-84064
-- susijęs iš Walsinghamo kronika: Walsinghamo kronika 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
+
 ## Citatos
 
 - id: c-84064

@@ -48,7 +48,7 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172482
-- susijęs iš Henrikas Leo, Die Malbergische Glosse: Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškais vadintus žodžius aiškino kaip keltų kalbos liekanas.
+
 ## Citatos
 
 - id: c-172482

@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196165"></a>
-- t-002
+- t-001
   teiginys: "Jogaila sutelkė kariuomenę, netikėtai patraukė į Vilnių ir, Hanului bei miesto magistratui išdavus, naktį buvo įleistas į miestą bei užėmė pilis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -52,7 +52,7 @@ media_all_json: |-
     - c-32618
 
 <a id="claim-t-184355"></a>
-- t-003
+- t-002
   teiginys: "Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,4 +107,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002

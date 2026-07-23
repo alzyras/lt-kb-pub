@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66485"></a>
-- t-002
+- t-001
   teiginys: "1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Nenurodyta
     - c-66699
 
 <a id="claim-t-66487"></a>
-- t-001
+- t-002
   teiginys: "Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-66702
   redaktorius: "A. Šapoka"
@@ -125,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

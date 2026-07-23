@@ -9,15 +9,15 @@ datos:
   - '1239 m.'
 date_start: '1210'
 date_end: '1239'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - pareigūnas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,14 +55,7 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   semantiniai_rysiai: "Otonas buvo palaidotas Akonas (0.99); Otonas mirė Akonas (0.68)"
   pagrindžia:
     - c-61032
-- susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
-- susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
-- susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
-- susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
-- susijęs iš [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją.md#claim-t-62217|Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]: Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.
-- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-183908|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
-- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62734|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. į Prūsiją atvykę kunigaikščiai dėl minkštos žiemos nepasiekė savo tikslo ir sugrįžo į savo kraštus.
-- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62735|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'

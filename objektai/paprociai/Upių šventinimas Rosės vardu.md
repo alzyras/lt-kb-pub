@@ -88,7 +88,7 @@ Nenurodyta
     - c-175304
 
 <a id="claim-t-192516"></a>
-- t-004
+- t-003
   teiginys: "Narbutas Rosės pavadinimo kilmę sieja su upių šventinimu Rosės vardu ir lietuvių religijos skoliniais iš indų budistų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -125,11 +125,10 @@ Nenurodyta
     Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
     išliko visiškai nepakitęs.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-174960
@@ -185,7 +184,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
+    - t-003
 
 - id: c-175304
   autorius: "Teodoras Narbutas"

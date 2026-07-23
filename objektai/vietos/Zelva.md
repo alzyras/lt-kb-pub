@@ -43,11 +43,7 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45450
-- susijęs iš [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.).md#claim-t-80682|Zelvos mūšis (1792 m. liepos 4 d.)]]: 1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.
-- susijęs iš [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.).md#claim-t-41325|Miro mūšis (1792 m. birželio 11 d.)]]: 1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.
-- susijęs iš [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.).md#claim-t-80681|Zelencų mūšis (1792 m. birželio 18 d.)]]: 1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.
-- susijęs iš Miro: Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.
-- susijęs iš Zelencai: Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, bet spaudžiama didelių priešo pajėgų ATR kariuomenė traukėsi visu frontu.
+
 ## Citatos
 
 - id: c-45450

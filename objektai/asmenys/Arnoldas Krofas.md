@@ -45,8 +45,7 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
   semantiniai_rysiai: "Arnoldas Krofas puolė Divanas (0.94)"
   pagrindžia:
     - c-60872
-- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
@@ -60,11 +59,10 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
     kiti pasitraukė nebaigę reikalo.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-60872

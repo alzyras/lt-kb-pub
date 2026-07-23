@@ -14,13 +14,13 @@ datos:
   - '1327 m.'
 date_start: '1112'
 date_end: '1327'
-amziai:
-  - 'XII'
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XII'
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 ## Teiginiai
 
 <a id="claim-t-60888"></a>
-- t-003
+- t-001
   teiginys: "Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61521
 
 <a id="claim-t-60889"></a>
-- t-004
+- t-002
   teiginys: "Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61525
 
 <a id="claim-t-60890"></a>
-- t-007
+- t-003
   teiginys: "Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +94,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61522
 
 <a id="claim-t-60891"></a>
-- t-001
+- t-004
   teiginys: "Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją."
   atnaujinta: "2026-07-19 18:44"
   sprendimo_priezastis: "auto"
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61523
 
 <a id="claim-t-60892"></a>
-- t-008
+- t-005
   teiginys: "1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė tamplierių ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,7 +132,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61520
 
 <a id="claim-t-60893"></a>
-- t-009
+- t-006
   teiginys: "1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -151,7 +151,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61524
 
 <a id="claim-t-60894"></a>
-- t-005
+- t-007
   teiginys: "1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -170,7 +170,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61528
 
 <a id="claim-t-60895"></a>
-- t-006
+- t-008
   teiginys: "Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -179,7 +179,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - c-61527
 
 <a id="claim-t-60896"></a>
-- t-002
+- t-009
   teiginys: "Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -204,10 +204,10 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
       Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
     prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: 'Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -218,10 +218,10 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
       Dusburgietis marginaliniuose paaiškinimuose (51-ame paragrafe iš 126) rėmėsi abiem
     minėtais autoriais. Kai kur —tik Ptolomėjumi (25 kartus) arba Martynu (10 kartų).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
 - c-006
   santrauka: 'Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -230,11 +230,10 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
       Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-61520
@@ -256,7 +255,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-61521
   autorius: "Petras Dusburgietis"
@@ -274,7 +273,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-61522
   autorius: "Petras Dusburgietis"
@@ -297,7 +296,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-003
 
 - id: c-61523
   autorius: "Petras Dusburgietis"
@@ -314,7 +313,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-004
 
 - id: c-61524
   autorius: "Petras Dusburgietis"
@@ -337,7 +336,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-006
 
 - id: c-61525
   autorius: "Petras Dusburgietis"
@@ -353,7 +352,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-61526
   autorius: "Petras Dusburgietis"
@@ -371,7 +370,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-009
 
 - id: c-61527
   autorius: "Petras Dusburgietis"
@@ -390,7 +389,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-008
 
 - id: c-61528
   autorius: "Petras Dusburgietis"
@@ -409,4 +408,4 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-007

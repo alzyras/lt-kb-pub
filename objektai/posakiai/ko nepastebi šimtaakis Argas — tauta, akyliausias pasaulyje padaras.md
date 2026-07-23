@@ -30,7 +30,7 @@ Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
 ## Teiginiai
 
 <a id="claim-t-196397"></a>
-- t-002
+- t-001
   teiginys: "Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -73,4 +73,4 @@ Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

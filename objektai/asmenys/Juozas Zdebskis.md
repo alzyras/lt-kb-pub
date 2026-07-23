@@ -56,18 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto."
   pagrindžia:
     - c-21790
-- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
-- susijęs iš [[objektai/asmenys/Jonas Kauneckas.md#claim-t-18978|Jonas Kauneckas]]: Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
-- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
-- susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116745|Katalikų Bažnyčia]]: „Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.
-- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20047|Tikinčiųjų teisių gynimo komitetas (institucija)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20048|Tikinčiųjų teisių gynimo komitetas (institucija)]]: 1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.
-- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
-- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš Maskva: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
-- susijęs iš [[objektai/zodynas/kulto laisvė.md#claim-t-22201|kulto laisvė]]: Tikinčiųjų teisių gynimo komitetas teigė, kad kulto laisvė praktikoje varžoma, ir siekė katalikams lygių teisių su ateistais.
+
 ## Citatos
 
 - id: c-21790

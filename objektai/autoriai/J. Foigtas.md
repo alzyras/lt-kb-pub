@@ -66,7 +66,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-65302
 
 <a id="claim-t-188412"></a>
-- t-004
+- t-003
   teiginys: "Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-171302
 
 <a id="claim-t-188413"></a>
-- t-005
+- t-004
   teiginys: "Johanas Foigtas buvo Karaliaučiaus universiteto profesorius ir daugiatomės „Prūsijos istorijos“ autorius."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -106,9 +106,9 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-171303
 
 <a id="claim-t-190727"></a>
-- t-006
+- t-005
   teiginys: "Teodoras Narbutas poną Foigtą vadino įžymiu autoriumi, kuris darbštumu ir talentais atskleidė kryžiuočių dokumentų bei kronikų turtingumą."
-  atnaujinta: "2026-07-20 14:27"
+  atnaujinta: "2026-07-23 20:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,7 +126,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-173609
 
 <a id="claim-t-190728"></a>
-- t-007
+- t-006
   teiginys: "Foigto ištraukoje teigiama, kad Aistmarės išsiplėtė į rytus, o tarp senos Baigos pilies ir Piliavos anksčiau buvo gyvenama sausuma."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-173610
 
 <a id="claim-t-190730"></a>
-- t-009
+- t-007
   teiginys: "Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -166,7 +166,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-173612
 
 <a id="claim-t-190731"></a>
-- t-010
+- t-008
   teiginys: "Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -186,7 +186,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-173613
 
 <a id="claim-t-191886"></a>
-- t-011
+- t-009
   teiginys: "Nagrinėdamas Tacito geografiją, J. Foigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -206,7 +206,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-174768
 
 <a id="claim-t-197304"></a>
-- t-012
+- t-010
   teiginys: "Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar ba."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -218,7 +218,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-179116
 
 <a id="claim-t-197609"></a>
-- t-013
+- t-011
   teiginys: "Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -230,7 +230,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
     - c-179259
 
 <a id="claim-t-197610"></a>
-- t-014
+- t-012
   teiginys: "Kadangi se nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu, bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš tas, t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -376,7 +376,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-65302
@@ -425,7 +424,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-171303
   autorius: "Teodoras Narbutas"
@@ -445,7 +444,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-173609
   autorius: "Teodoras Narbutas"
@@ -477,7 +476,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173610
   autorius: "Teodoras Narbutas"
@@ -511,7 +510,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-173612
   autorius: "Teodoras Narbutas"
@@ -529,7 +528,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-007
 
 - id: c-173613
   autorius: "Teodoras Narbutas"
@@ -559,7 +558,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-008
 
 - id: c-174768
   autorius: "Teodoras Narbutas"
@@ -580,7 +579,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-009
 
 - id: c-179116
   autorius: "Teodoras Narbutas"
@@ -604,7 +603,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-179259
   autorius: "Teodoras Narbutas"
@@ -625,7 +624,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-011
 
 - id: c-179260
   autorius: "Teodoras Narbutas"
@@ -646,4 +645,4 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012

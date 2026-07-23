@@ -53,10 +53,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-45522
-- susijęs iš [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga).md#claim-t-169829|Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų.
-- susijęs iš [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams.md#claim-t-77956|Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]: Nurodymai Klaipėdos krašto tarnautojams darbe kalbėti lietuviškai ir dalyvauti lietuviškose šventėse trukdė krašto integracijai.
-- susijęs iš Klaipėdos krašto Statutas: Klaipėdos krašto Statute įrašytas dviejų kalbų lygiateisiškumas 1938 m. pabaigoje faktiškai buvo virtęs fikcija.
-- susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų.
+
 ## Citatos
 
 - id: c-45522

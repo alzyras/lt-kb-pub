@@ -61,6 +61,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   citata_rodoma: "Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

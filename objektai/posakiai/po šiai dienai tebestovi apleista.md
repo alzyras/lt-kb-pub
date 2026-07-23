@@ -27,6 +27,24 @@ media_all_json: |-
 
 Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur dabar tebėra“ (III, 140). Taigi kronikoje ryškūs kitų pasakojimų bei savo laikotarpio ir aplinkos betarpiško stebėjimo elementai. Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos. Dusburgietis teigia, kad retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje, paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).
 
+## Teiginiai
+
+<a id="claim-t-59151"></a>
+- t-001
+  teiginys: "Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pamedė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "po šiai dienai tebestovi apleista: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"po šiai dienai tebestovi apleista\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-59783
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.'
@@ -39,11 +57,10 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
       Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją
     reikšmę.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+  statusas: verified
 ## Citatos
 
 - id: c-59783
@@ -63,23 +80,4 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-59151"></a>
-- t-002
-  teiginys: "Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamedė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "po šiai dienai tebestovi apleista: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"po šiai dienai tebestovi apleista\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59783
-- susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.
+    - t-001

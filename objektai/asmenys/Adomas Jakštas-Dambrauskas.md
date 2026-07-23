@@ -56,10 +56,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą veiksmą."
   pagrindžia:
     - c-21542
-- susijęs iš [[objektai/autoriai/T. Čarkovskis.md#claim-t-63319|T. Čarkovskis]]: T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.
-- susijęs iš [[objektai/posakiai/„Lietuvos žemės druska“.md#claim-t-20855|„Lietuvos žemės druska“]]: Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.
-- susijęs iš Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.
-- susijęs iš [[objektai/zodynas/litvomanija.md#claim-t-77798|litvomanija]]: Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.
+
 ## Citatos
 
 - id: c-21542

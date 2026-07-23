@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-189819"></a>
-- t-004
+- t-001
   teiginys: "Narbuto aiškinime pertvarkant mitologiją dalis Mėnesio garbinimo perėjo Laimai, vadintai Lėlės ir Mėnulės vardais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -58,7 +58,7 @@ Nenurodyta
     - c-172702
 
 <a id="claim-t-197254"></a>
-- t-005
+- t-002
   teiginys: "Toliau šiame veikale rasime kitas dangaus kūnų judėjimo pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil mės“."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -139,7 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-002
 
 - id: c-172702
   autorius: "Teodoras Narbutas"
@@ -160,4 +160,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-001

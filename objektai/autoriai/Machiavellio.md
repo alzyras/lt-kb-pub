@@ -46,7 +46,7 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01346
-- susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
+
 ## Citatos
 
 - id: c-01346

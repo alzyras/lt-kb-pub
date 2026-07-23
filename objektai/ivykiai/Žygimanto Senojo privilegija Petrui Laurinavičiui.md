@@ -69,8 +69,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174891
-- susijęs iš 1538 m. Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius Vilniaus piliečio pirkimus.
-- susijęs iš [[objektai/asmenys/Petras Laurinavičius.md#claim-t-191454|Petras Laurinavičius]]: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus.
+
 ## Citatos
 
 - id: c-174891

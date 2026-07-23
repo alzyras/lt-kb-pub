@@ -18,15 +18,15 @@ datos:
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
-amziai:
-  - 'XII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
   - vieta
+amziai:
+  - 'XII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 ## Teiginiai
 
 <a id="claim-t-114293"></a>
-- t-014
+- t-001
   teiginys: "Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +66,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-46502
 
 <a id="claim-t-114294"></a>
-- t-013
+- t-002
   teiginys: "Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +83,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-46502
 
 <a id="claim-t-114296"></a>
-- t-008
+- t-003
   teiginys: "Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +99,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-105417
 
 <a id="claim-t-114297"></a>
-- t-012
+- t-004
   teiginys: "Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -115,7 +115,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-166414
 
 <a id="claim-t-114298"></a>
-- t-006
+- t-005
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,7 +131,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-105413
 
 <a id="claim-t-183020"></a>
-- t-015
+- t-006
   teiginys: "Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -150,7 +150,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-166413
 
 <a id="claim-t-183021"></a>
-- t-016
+- t-007
   teiginys: "Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -169,7 +169,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-166414
 
 <a id="claim-t-184962"></a>
-- t-001
+- t-008
   teiginys: "Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -188,7 +188,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-168323
 
 <a id="claim-t-188700"></a>
-- t-010
+- t-009
   teiginys: "Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -208,7 +208,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-171589
 
 <a id="claim-t-192667"></a>
-- t-017
+- t-010
   teiginys: "Narbutas rašo, kad 1700–1200 m. pr. Kr. pelazgai įsigalėjo artimesnėje Hesperijoje, arba Italijoje, ir apie 1500 m. pr. Kr. davė pradžią dorėnams bei achajams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -232,7 +232,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-175437
 
 <a id="claim-t-193637"></a>
-- t-018
+- t-011
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -244,7 +244,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-176308
 
 <a id="claim-t-200778"></a>
-- t-019
+- t-012
   teiginys: "Vorobjovas perspėjo nemanyti, kad Italijoje susiformavęs barokas buvo tiesiog perkeltas į Vilnių kaip užsieninis pavyzdys."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -262,181 +262,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184123
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191152|Teodorikas Didysis]]: Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą ir Italiją bei, jo pasakojimu, sudrebinusį Vakarų Europą.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192553|arijonas]]: Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
-- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191157|Teodorikas Didysis]]: Teodoriko žygyje į Italiją dalyvavo kariai su šeimomis ir manta, taip pat įvairūs kolonistai, keliavę į Italijos kraštą.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191232|Teodorikas]]: Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
-- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
-- susijęs iš [[objektai/asmenys/Liberijus.md#claim-t-191438|Liberijus]]: Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82626|Mykolas Glinskis]]: Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.
-- susijęs iš [[objektai/asmenys/Narsas.md#claim-t-191298|Narsas]]: Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisidėjo prie jų išvarymo iš Italijos.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190941|Odoakras]]: Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190943|Odoakras]]: Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje.
-- susijęs iš [[objektai/asmenys/Orestas.md#claim-t-190947|Orestas]]: Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo.
-- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
-- susijęs iš [[objektai/asmenys/Severas.md#claim-t-191464|Severas]]: Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191152|Teodorikas Didysis]]: Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą ir Italiją bei, jo pasakojimu, sudrebinusį Vakarų Europą.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191157|Teodorikas Didysis]]: Teodoriko žygyje į Italiją dalyvavo kariai su šeimomis ir manta, taip pat įvairūs kolonistai, keliavę į Italijos kraštą.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191158|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191231|Teodorikas]]: Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191232|Teodorikas]]: Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.
-- susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
-- susijęs iš [[objektai/grupes/Burgundai.md#claim-t-192978|Burgundai]]: Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiusių į po Odoakro mirties Italijoje vykusius susirėmimus.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
-- susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
-- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
-- susijęs iš [[objektai/ivykiai/Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.).md#claim-t-62326|Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.)]]: Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/ivykiai/Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją.md#claim-t-191050|Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją]]: Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191034|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Romos senatas pasiuntė į Konstantinopolį delegaciją pranešti Zenonui, kad Romoje nereikia skelbti imperatoriaus, o Odoakrui galima patikėti Italijos valdžią.
-- susijęs iš [[objektai/ivykiai/Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas.md#claim-t-191035|Romulo Augustulo pašalinimo patvirtinimas ir Odoakro valdžios Italijoje pripažinimas]]: Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.
-- susijęs iš [[objektai/ivykiai/Teodoriko Italijos žygis su ostrogotais ir kolonistais.md#claim-t-191053|Teodoriko Italijos žygis su ostrogotais ir kolonistais]]: Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191057|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54297|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54299|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.
-- susijęs iš Carlo Denina, Delle Rivoluzioni d’Italia: Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų versti sąjungininkų kariuomenės gailėtis žygio į Italiją.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš Ptolomėjaus iš Lukos Analai: 1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.
-- susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
-- susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš Pavija: Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene.
-- susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
-- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
-- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
-- susijęs iš [[objektai/asmenys/Ambraziejus.md#claim-t-191365|Ambraziejus]]: Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173119|Barbora Radvilaitė]]: Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54952|Barbora Radvilaitė]]: Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.
-- susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
-- susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
-- susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173150|Elžbieta (Žygimanto Augusto žmona)]]: Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.
-- susijęs iš [[objektai/asmenys/Evarikas.md#claim-t-191393|Evarikas]]: Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą.
-- susijęs iš [[objektai/asmenys/Genserikas.md#claim-t-191270|Genserikas]]: Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją.
-- susijęs iš [[objektai/asmenys/Gliceras.md#claim-t-191950|Gliceras]]: Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės.
-- susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188546|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.
-- susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
-- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
-- susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190942|Odoakras]]: Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.
-- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190946|Odoakras]]: Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš [[objektai/asmenys/Peteris Paulius Rubensas.md#claim-t-19189|Peteris Paulius Rubensas]]: Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
-- susijęs iš [[objektai/asmenys/Petras Kubiliūnas.md#claim-t-19193|Petras Kubiliūnas]]: Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.
-- susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
-- susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
-- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
-- susijęs iš [[objektai/asmenys/Vaitiekus Chelminskis.md#claim-t-87872|Vaitiekus Chelminskis]]: Vaitiekus Chelminskis iš Inovroclavo buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių.
-- susijęs iš [[objektai/asmenys/Zenonas iš Rodo.md#claim-t-191335|Zenonas iš Rodo]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/asmenys/Zenonas.md#claim-t-191001|Zenonas]]: Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.
-- susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
-- susijęs iš [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje.md#claim-t-87076|Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]: Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.
-- susijęs iš [[objektai/daiktai/Imperatoriaus ženklai, purpurai ir sosto papuošalai.md#claim-t-193008|Imperatoriaus ženklai, purpurai ir sosto papuošalai]]: Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
-- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
-- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19635|Antantė]]: 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.
-- susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-184475|Herulai]]: Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
-- susijęs iš [[objektai/grupes/Herulai.md#claim-t-188192|Herulai]]: Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.
-- susijęs iš [[objektai/grupes/Hohenštaufenų giminė.md#claim-t-86795|Hohenštaufenų giminė]]: Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.
-- susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu iš Italijos po hunų nusiaubimų 924 metais.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-188205|Krikščionys]]: Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
-- susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-183167|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
-- susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-74802|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
-- susijęs iš [[objektai/grupes/Lužitėnai.md#claim-t-192997|Lužitėnai]]: Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.
-- susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-66129|Skandinavai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
-- susijęs iš [[objektai/grupes/Valetabai.md#claim-t-193000|Valetabai]]: Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie tuvių kartos.
-- susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
-- susijęs iš [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.).md#claim-t-62268|Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.
-- susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
-- susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių.
-- susijęs iš [[objektai/ivykiai/Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime.md#claim-t-185704|Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime]]: Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.
-- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m.md#claim-t-189624|Jeronimo Prahiškio pasiuntimas į Lietuvą 1392 m]]: 1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.
-- susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191048|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.
-- susijęs iš [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą.md#claim-t-191049|Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]]: Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.
-- susijęs iš [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.).md#claim-t-185758|Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]: Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
-- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75258|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
-- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75259|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
-- susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
-- susijęs iš [[objektai/ivykiai/Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą.md#claim-t-191056|Zenono ir Teodoriko slaptas susitarimas dėl karo prieš Odoakrą]]: Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses.
-- susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185889|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
-- susijęs iš [[objektai/paprociai/Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis.md#claim-t-77959|Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis]]: 1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.
-- susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
-- susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
-- susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Už karaliaus dovanotą žemę Martynas Paleckis turėjo kasmet pristatyti į Vilniaus karališkuosius rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
-- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
-- susijęs iš Peutingerio žemėlapis: Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais.
-- susijęs iš Florencija: Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.
-- susijęs iš Ispanija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
-- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
-- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
-- susijęs iš Norikas: Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
-- susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
-- susijęs iš Prancūzija: LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.
-- susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
-- susijęs iš Prancūzija: LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.
-- susijęs iš Prancūzija: Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.
-- susijęs iš Prancūzija: Aukštojo mokslo siekę ne dvasininkai vykdavo į Vakarų Europos universitetus Vokietijoje, Italijoje ir Prancūzijoje.
-- susijęs iš Rygos arkivyskupija: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
-- susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
-- susijęs iš Skandinavija: Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.
-- susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
-- susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
-- susijęs iš Vilniaus katedra: Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.
-- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
-- susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
-- susijęs iš Šv. Stanislovo bažnyčia: Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.
-- susijęs iš [[objektai/zodynas/Cechai.md#claim-t-86578|Cechai]]: XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos.
-- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54804|Cechas]]: Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje.
-- susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
-- susijęs iš [[objektai/zodynas/alanai.md#claim-t-185378|alanai]]: Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.
-- susijęs iš [[objektai/zodynas/arijonas.md#claim-t-192553|arijonas]]: Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus.
-- susijęs iš [[objektai/zodynas/gibelinai.md#claim-t-58902|gibelinai]]: 1228 m. Italijoje radosi gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas - bažnyčią.
-- susijęs iš [[objektai/zodynas/gvelfai.md#claim-t-58904|gvelfai]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70220|maldininkai / maldininko įžadai]]: Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
-- susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58825|maldininkai]]: 1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
-- susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192241|patricijus]]: Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką.
-- susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
-- susijęs iš [[objektai/zodynas/supremacija.md#claim-t-36838|supremacija]]: Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.
-- susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
-- susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
-- susijęs iš [[objektai/asmenys/Onulfas.md#claim-t-191303|Onulfas]]: Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją.
-- susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192165|diecezija]]: Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje.
-- susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
-- susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191158|Teodorikas Didysis]]: Narbutas rašo, kad Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus bei paliko jam dalį valdžios ar valdų Italijoje.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
-- susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
-- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
@@ -464,7 +290,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-46502
@@ -487,8 +312,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-013
+    - t-001
+    - t-002
 
 - id: c-105413
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -512,7 +337,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-105417
   autorius: "Michał Baliński"
@@ -538,7 +363,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-003
 
 - id: c-166413
   redaktorius: "A. Šapoka"
@@ -556,7 +381,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-006
 
 - id: c-166414
   redaktorius: "A. Šapoka"
@@ -578,8 +403,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-016
+    - t-004
+    - t-007
 
 - id: c-168323
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -610,7 +435,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-008
 
 - id: c-171589
   autorius: "Teodoras Narbutas"
@@ -639,7 +464,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-175437
   autorius: "Teodoras Narbutas"
@@ -658,7 +483,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-010
 
 - id: c-176308
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -676,7 +501,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-011
 
 - id: c-184123
   autorius: "Mikalojus Vorobjovas"
@@ -696,7 +521,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-012
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]]

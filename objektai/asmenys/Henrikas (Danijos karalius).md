@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 ## Teiginiai
 
 <a id="claim-t-60129"></a>
-- t-002
+- t-001
   teiginys: "Pasak Dusburgiečio, šventasis Vaclovas išpranašavo Danijos karaliaus Henriko žūtį ir pasiūlė jam pastatyti bažnyčią."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
     - c-60762
 
 <a id="claim-t-60130"></a>
-- t-001
+- t-002
   teiginys: "1250 metais Danijos karalių Henriką nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,5 +93,5 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-001
+    - t-002

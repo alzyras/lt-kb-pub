@@ -46,7 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194067"></a>
-- t-002
+- t-001
   teiginys: "Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -79,7 +79,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-176680
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

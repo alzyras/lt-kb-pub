@@ -45,7 +45,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 ## Teiginiai
 
 <a id="claim-t-23231"></a>
-- t-003
+- t-001
   teiginys: "K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70089
 
 <a id="claim-t-23233"></a>
-- t-005
+- t-002
   teiginys: "Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +82,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70089
 
 <a id="claim-t-23234"></a>
-- t-006
+- t-003
   teiginys: "Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +101,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - c-70088
 
 <a id="claim-t-26715"></a>
-- t-007
+- t-004
   teiginys: "Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -112,24 +112,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-16789
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75315|Daugiapakopės raketos ir raketų brėžiniai]]: Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75314|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75316|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45476|Daugiapakopės raketos]]: Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45477|Daugiapakopės raketos]]: Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.
-- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45479|Daugiapakopės raketos]]: K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-183311|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
-- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-183312|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema.md#claim-t-77950|Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]: 1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.
-- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.
-- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.
-- susijęs iš Artis magnae artilleriae: Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.
-- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.
-- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.
-- susijęs iš Amsterdamas: K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m.
-- susijęs iš Krokuva: Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
-- susijęs iš Vilnius: Jėzuitų švietimo sistemos viršūne tapo 1579 m. įkurtas Vilniaus universitetas.
+
 ## Citatos
 
 - id: c-16789
@@ -152,7 +135,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-004
 
 - id: c-70088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -169,7 +152,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-003
 
 - id: c-70089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -191,8 +174,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
+    - t-001
+    - t-002
 
 - id: c-70091
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -210,6 +193,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

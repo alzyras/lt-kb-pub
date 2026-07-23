@@ -55,7 +55,6 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-
 ## Citatos
 
 - id: c-169498
@@ -75,6 +74,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę
   citata_rodoma: "Konstantinas su savaisiais įsitaisė dešiniajame\nsparne, o kairiajame — Mikalojus Kameneckis, rikiuo­\ntės priekyje įsitvirtino algininkai, o į rezervą paskyrė\nbūrius tų bajorų, kurie savo valia iš visur susirinko at­\nremti pavojaus. Vyriausiuoju karvedžiu paliko Lanc-\nkoronskį. Surikiavę jėgas ta tvarka, kad daugiau bu­\nvo paisoma kiekvieno pulko kovinio pajėgumo, nei\nkokio bendro plano, visi laukė mūšio dienos, nė nežino­\ndami, kuria kryptimi priešas pasiryžęs smogti."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

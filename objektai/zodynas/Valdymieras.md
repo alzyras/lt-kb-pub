@@ -4,10 +4,6 @@ pavadinimas: 'valdymieras'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-variantai:
-  - 'valdymierai'
-aliases:
-  - 'objektai/zodynas/valdymierai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -45,7 +41,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 ## Teiginiai
 
 <a id="claim-t-70059"></a>
-- t-007
+- t-001
   teiginys: "`Valdymierai` šiame tekste reiškia tautų valdovus."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -54,7 +50,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - c-09754
 
 <a id="claim-t-70060"></a>
-- t-005
+- t-002
   teiginys: "`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį."
   atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
@@ -63,7 +59,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - c-09756
 
 <a id="claim-t-70061"></a>
-- t-008
+- t-003
   teiginys: "Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -72,7 +68,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - c-09756
 
 <a id="claim-t-200959"></a>
-- t-009
+- t-004
   teiginys: "Ditrichas, noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet rado jau tenai siuntinius padaugavionų, telkiančius valdymierą jiems padėti vokyčius per jūrą varyti laukan iš Padaugavio, guosdamies jam, jog Alber tas su meldžionimis, danguodamos savo tikyba."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -97,7 +93,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-001
 
 - id: c-09756
   autorius: "Simonas Daukantas"
@@ -111,8 +107,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-008
+    - t-002
+    - t-003
 
 - id: c-184309
   autorius: "Simonas Daukantas"
@@ -137,4 +133,4 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-004

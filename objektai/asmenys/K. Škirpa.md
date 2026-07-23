@@ -55,7 +55,7 @@ media_all_json: |-
     - c-51393
 
 <a id="claim-t-49400"></a>
-- t-004
+- t-002
   teiginys: "Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -72,7 +72,7 @@ media_all_json: |-
     - c-42054
 
 <a id="claim-t-49401"></a>
-- t-005
+- t-003
   teiginys: "Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +90,7 @@ media_all_json: |-
     - c-167135
 
 <a id="claim-t-49402"></a>
-- t-002
+- t-004
   teiginys: "K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -108,7 +108,7 @@ media_all_json: |-
     - c-51392
 
 <a id="claim-t-49403"></a>
-- t-003
+- t-005
   teiginys: "K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -123,12 +123,7 @@ media_all_json: |-
   semantiniai_rysiai: "Lietuviai kariavo prieš Lenkai (0.86); K. Škirpa puolė Suvalkai (0.76)"
   pagrindžia:
     - c-42053
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
-- susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74878|Nacių Vokietija]]: Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.
-- susijęs iš [[objektai/grupes/Abveras.md#claim-t-19624|Abveras]]: Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.
-- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75624|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.
-- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
+
 ## Citatos
 
 - id: c-42053
@@ -148,7 +143,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-42054
   sudarytojas: "Karolis Zikaras"
@@ -170,8 +165,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
+    - t-002
+    - t-003
 
 - id: c-51392
   sudarytojas: "Karolis Zikaras"
@@ -191,7 +186,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-004
 
 - id: c-51393
   sudarytojas: "Karolis Zikaras"
@@ -234,4 +229,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003

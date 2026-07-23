@@ -37,7 +37,7 @@ Jonas Kraucevičius.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41179
-- susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78694|Šarvuotasis traukinys Gediminas]]: Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius.
+
 ## Citatos
 
 - id: c-41179

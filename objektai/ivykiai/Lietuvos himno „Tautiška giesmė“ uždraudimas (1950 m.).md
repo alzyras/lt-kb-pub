@@ -65,6 +65,7 @@ Nenurodyta
   citata_rodoma: "vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

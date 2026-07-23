@@ -30,7 +30,7 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 ## Teiginiai
 
 <a id="claim-t-22153"></a>
-- t-002
+- t-001
   teiginys: "Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +84,4 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
