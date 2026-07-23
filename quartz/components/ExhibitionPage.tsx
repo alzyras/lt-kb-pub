@@ -6,7 +6,7 @@ import type {
   ExhibitionItemRelation,
   ExhibitionManifest,
 } from "../util/exhibitions"
-import { cleanText, displayCreator, displayDate } from "../util/objectMedia"
+import { cleanText, displayCreator, displayDate, mediaDetailUrl, mediaImageUrl } from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
@@ -132,8 +132,8 @@ function ItemTags({ item }: { item: ExhibitionItem }) {
   )
 }
 
-function galleryUrl(exhibitionId: string, mediaId: string): string {
-  return `/galerija/?media=${encodeURIComponent(mediaId)}&exhibition=${encodeURIComponent(exhibitionId)}`
+function galleryUrl(item: ExhibitionItem): string {
+  return mediaDetailUrl(item.media)
 }
 
 function mediaFrame(item: ExhibitionItem): { className: string; aspect: number } {
@@ -164,7 +164,7 @@ function Exhibit({
 }) {
   const media = item.media
   // Large exhibition panels should never upscale a thumbnail.
-  const imageUrl = cleanText(media.sourceUrl || media.thumbUrl)
+  const imageUrl = mediaImageUrl(media)
   const frame = mediaFrame(item)
   return (
     <article
@@ -173,7 +173,7 @@ function Exhibit({
     >
       <a
         class="exhibition-item-image"
-        href={galleryUrl(exhibitionId, item.mediaId)}
+        href={galleryUrl(item)}
         data-exhibition-media={item.mediaId}
         data-exhibition-id={exhibitionId}
         style={`--media-aspect:${frame.aspect}`}
@@ -218,7 +218,7 @@ function Exhibit({
 }
 
 function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
-  const hero = cleanText(exhibition.hero.sourceUrl || exhibition.hero.thumbUrl)
+  const hero = mediaImageUrl(exhibition.hero)
   let exhibitIndex = 0
   const catalogue = exhibition.sections.flatMap((section) =>
     section.items.filter((item) => !item.featured),
@@ -283,7 +283,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
         {exhibition.sections.map((section, index) => (
           <a href={`#${section.slug}`} data-exhibition-chapter={section.slug}>
             <img
-              src={section.navMedia.thumbUrl || section.navMedia.sourceUrl}
+              src={mediaImageUrl(section.navMedia)}
               alt=""
               aria-hidden="true"
               style={`object-position:${section.navImagePosition || "50% 30%"}`}
@@ -342,13 +342,13 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               return (
                 <article class={frame.className} id={item.exhibitionItemId}>
                   <a
-                    href={galleryUrl(exhibition.exhibitionId, item.mediaId)}
+                    href={galleryUrl(item)}
                     data-exhibition-media={item.mediaId}
                     data-exhibition-id={exhibition.exhibitionId}
                     style={`--media-aspect:${frame.aspect}`}
                   >
                     <img
-                      src={item.media.sourceUrl || item.media.thumbUrl}
+                      src={mediaImageUrl(item.media)}
                       alt={item.titleLt}
                       loading="lazy"
                     />
@@ -402,7 +402,7 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
           >
             <a href={`/${exhibition.slug}`}>
               <img
-                src={exhibition.hero.thumbUrl || exhibition.hero.sourceUrl}
+                src={mediaImageUrl(exhibition.hero)}
                 alt={exhibition.title}
               />
             </a>

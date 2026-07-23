@@ -18,6 +18,7 @@ import {
   isMediaGalleryPage,
   MediaEntry,
   mediaDetailUrl,
+  mediaImageUrl,
   parseMediaEntry,
   relationLabel,
 } from "../util/objectMedia"
@@ -87,7 +88,7 @@ function MediaDetailPage({ entry }: { entry: MediaEntry }) {
   const creator = displayCreator(entry.creator)
   const date = displayDate(entry.dateDisplay)
   const provider = cleanText(entry.providerLabel || entry.provider)
-  const imageUrl = cleanText(entry.sourceUrl || entry.thumbUrl)
+  const imageUrl = mediaImageUrl(entry)
   const tags = [...new Map((entry.tags ?? []).map((tag) => [tag.code || tag.label, tag])).values()]
   const sourceTags = [
     ...new Map(
@@ -237,7 +238,7 @@ function MediaCard({
       >
         <span class="media-gallery-card-media">
           <img
-            src={entry.thumbUrl || entry.sourceUrl}
+            src={mediaImageUrl(entry)}
             alt={displayCaption(entry)}
             width={entry.width || undefined}
             height={entry.height || undefined}

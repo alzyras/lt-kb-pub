@@ -2,7 +2,7 @@ import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
 import { emitAnalyticsExhibition } from "../../util/analytics-client"
 import type { MediaEntry } from "../../util/objectMedia"
-import { cleanText, displayCaption } from "../../util/objectMedia"
+import { cleanText, displayCaption, mediaImageUrl } from "../../util/objectMedia"
 import { mediaLicenseLabel } from "../../util/mediaGallery"
 import {
   exhibitionSlideshowDurationMs,
@@ -356,7 +356,7 @@ function initExhibitionViewer() {
   const preloadNext = (index: number) => {
     if (!slideshowMode || !sequence.length) return
     const next = sequence[exhibitionSlideshowNextIndex(index, sequence.length)]
-    const src = text(next?.sourceUrl || next?.thumbUrl)
+    const src = next ? mediaImageUrl(next) : ""
     if (!src) return
     const image = new Image()
     image.decoding = "async"
@@ -408,8 +408,8 @@ function initExhibitionViewer() {
   }
   const dataSource = () =>
     sequence.map((entry) => ({
-      src: entry.sourceUrl || entry.thumbUrl,
-      msrc: entry.thumbUrl || entry.sourceUrl,
+      src: mediaImageUrl(entry),
+      msrc: mediaImageUrl(entry),
       ...viewerDimensions(entry),
       alt: displayCaption(entry),
     }))

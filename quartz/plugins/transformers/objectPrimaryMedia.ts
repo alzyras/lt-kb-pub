@@ -8,6 +8,8 @@ import {
   displayCaption,
   displayMeta,
   isObjectPage,
+  mediaDetailUrl,
+  mediaImageUrl,
   objectGallerySlug,
   objectMediaSet,
   relationLabel,
@@ -50,11 +52,12 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
           const { direct, contextual, all, fallbackPrimary, totalCount } = objectMediaSet(file.data.frontmatter)
           if (!fallbackPrimary || all.length === 0) return
 
-          const imageSrc = fallbackPrimary.thumbUrl || fallbackPrimary.canonicalUrl || ""
+          const imageSrc = mediaImageUrl(fallbackPrimary)
           if (!imageSrc) return
 
           const objectTitle = cleanText(file.data.frontmatter?.title)
           const galleryHref = resolveRelative(slug, objectGallerySlug(slug))
+          const mediaHref = mediaDetailUrl(fallbackPrimary)
           const sourceHref = fallbackPrimary.canonicalUrl || fallbackPrimary.thumbUrl || "#"
           const meta = displayMeta(fallbackPrimary)
           const license = cleanText(fallbackPrimary.license)
@@ -66,9 +69,7 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
           }, [
             element("a", {
               className: ["object-primary-media-figure"],
-              href: sourceHref,
-              target: "_blank",
-              rel: "noreferrer noopener",
+              href: mediaHref,
             }, [
               element("img", {
                 src: imageSrc,
@@ -99,6 +100,8 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
                   ]
                 : []),
               element("p", { className: ["object-primary-media-actions"] }, [
+                element("a", { href: mediaHref }, [text("Atidaryti vaizdo kortelę")]),
+                text(" "),
                 element("a", { href: galleryHref }, [text(`Eiti į galeriją (${objectTitle || "objektas"})`)]),
                 text(" "),
                 element("a", { href: sourceHref, target: "_blank", rel: "noreferrer noopener" }, [text("Atidaryti šaltinį")]),

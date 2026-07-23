@@ -23,9 +23,9 @@ import {
 import { normalizeCitationSourceId } from "../../util/citationFilter"
 import { buildMediaCatalog, MediaCatalogFile, mediaEntriesByObject } from "../../util/mediaCatalog"
 import {
-  cleanText,
   isObjectPage as isMediaObjectPage,
   mediaDetailSlug,
+  mediaImageUrl,
   objectGallerySlug,
 } from "../../util/objectMedia"
 import { loadExhibitions } from "../../util/exhibitions"
@@ -553,7 +553,7 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
   const catalog = buildMediaCatalog(files)
   if (!catalog.length) return []
   const byObject = mediaEntriesByObject(catalog)
-  const imageUrl = (entry: (typeof catalog)[number]) => cleanText(entry.sourceUrl || entry.thumbUrl)
+  const imageUrl = (entry: (typeof catalog)[number]) => mediaImageUrl(entry)
   const modifiedDate = (entry: (typeof catalog)[number]) =>
     entryModifiedDate(entry.reviewedAt || entry.firstDiscoveredAt)
   const entries: SitemapExtraEntry[] = [
@@ -592,7 +592,7 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
         exhibitions.map((exhibition) => entryModifiedDate(exhibition.updatedAt)),
       ),
       imageUrls: exhibitions
-        .map((exhibition) => cleanText(exhibition.hero.sourceUrl || exhibition.hero.thumbUrl))
+        .map((exhibition) => mediaImageUrl(exhibition.hero))
         .filter(Boolean),
     })
   }

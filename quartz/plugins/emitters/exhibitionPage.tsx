@@ -14,7 +14,7 @@ import {
   loadExhibitions,
   type ExhibitionManifest,
 } from "../../util/exhibitions"
-import { cleanText } from "../../util/objectMedia"
+import { mediaDetailUrl, mediaImageUrl } from "../../util/objectMedia"
 
 function absolutePageUrl(baseUrl: string | undefined, slug: string): string {
   return new URL(`/${encodeURI(slug)}`, `https://${baseUrl ?? "example.com"}`).toString()
@@ -38,8 +38,7 @@ function structuredData(exhibition: ExhibitionManifest, pageUrl: string): string
     url: pageUrl,
     name: exhibition.title,
     description: exhibition.description,
-    primaryImageOfPage:
-      cleanText(exhibition.hero.sourceUrl || exhibition.hero.thumbUrl) || undefined,
+    primaryImageOfPage: mediaImageUrl(exhibition.hero) || undefined,
     mainEntity: {
       "@type": "ItemList",
       numberOfItems: items.length,
@@ -47,8 +46,8 @@ function structuredData(exhibition: ExhibitionManifest, pageUrl: string): string
         "@type": "ListItem",
         position: index + 1,
         name: item.titleLt,
-        url: new URL(item.media.detailUrl || `/galerija?media=${item.mediaId}`, pageUrl).toString(),
-        image: cleanText(item.media.sourceUrl || item.media.thumbUrl) || undefined,
+        url: new URL(mediaDetailUrl(item.media), pageUrl).toString(),
+        image: mediaImageUrl(item.media) || undefined,
       })),
     },
   })
@@ -141,7 +140,7 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
         {
           exhibitions_index_json: JSON.stringify(exhibitions),
           media_primary_thumb_url:
-            exhibitions[0]?.hero.thumbUrl || exhibitions[0]?.hero.sourceUrl || "",
+            exhibitions[0] ? mediaImageUrl(exhibitions[0].hero) : "",
         },
       )
 
@@ -151,7 +150,7 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
         yield* emit(slug, exhibition.title, exhibition.description, {
           exhibition_page: true,
           exhibition_manifest_json: JSON.stringify(exhibition),
-          media_primary_thumb_url: exhibition.hero.thumbUrl || exhibition.hero.sourceUrl || "",
+          media_primary_thumb_url: mediaImageUrl(exhibition.hero),
           media_primary_width: exhibition.hero.width,
           media_primary_height: exhibition.hero.height,
           structured_data_json: structuredData(exhibition, pageUrl),

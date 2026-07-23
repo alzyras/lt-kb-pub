@@ -6,6 +6,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
 import { isPoorSeoPage, pageStructuredData, seoDescription, seoTitle } from "../util/seo"
+import { displayCaption, parseMediaEntry } from "../util/objectMedia"
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -38,6 +39,14 @@ export default (() => {
       String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
     const mediaPrimaryWidth = Number(fileData.frontmatter?.media_primary_width ?? 0)
     const mediaPrimaryHeight = Number(fileData.frontmatter?.media_primary_height ?? 0)
+    const mediaEntry = parseMediaEntry(fileData.frontmatter?.media_detail_json) ??
+      parseMediaEntry(fileData.frontmatter?.media_primary_json)
+    const mediaSocialAlt =
+      String(fileData.frontmatter?.media_social_alt ?? "").trim() ||
+      (mediaEntry ? displayCaption(mediaEntry) : "") ||
+      titleBase ||
+      description
+    const customImageSchemaId = String(fileData.frontmatter?.media_schema_image_id ?? "").trim()
     const structuredDataValue = fileData.frontmatter?.structured_data_json
     const structuredData =
       typeof structuredDataValue === "string"
@@ -68,6 +77,8 @@ export default (() => {
               mediaUrl: mediaPrimaryThumb || undefined,
               mediaWidth: mediaPrimaryWidth || undefined,
               mediaHeight: mediaPrimaryHeight || undefined,
+              primaryImageId: customImageSchemaId || undefined,
+              includePrimaryImageObject: !customImageSchemaId,
             }),
           )
         : ""
@@ -103,7 +114,8 @@ export default (() => {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
-        <meta property="og:image:alt" content={description} />
+        <meta property="og:image:alt" content={mediaSocialAlt} />
+        <meta name="twitter:image:alt" content={mediaSocialAlt} />
 
         {!usesCustomOgImage && (
           <>

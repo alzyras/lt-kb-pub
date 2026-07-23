@@ -17,6 +17,7 @@ import {
   isObjectPage,
   MediaEntry,
   mediaDetailSlug,
+  mediaImageUrl,
   mergeMediaEntries,
   objectGallerySlug,
 } from "../../util/objectMedia"
@@ -58,42 +59,30 @@ function absolutePageUrl(baseUrl: string | undefined, slug: FullSlug): string {
 function mediaStructuredData(entry: MediaEntry, pageUrl: string, description: string): string {
   const imageId = `${pageUrl}#image`
   const creator = displayCreator(entry.creator)
-  const contentUrl = cleanText(entry.sourceUrl || entry.thumbUrl)
-  const thumbnailUrl = cleanText(entry.thumbUrl || entry.sourceUrl)
+  const contentUrl = mediaImageUrl(entry)
+  const thumbnailUrl = cleanText(entry.thumbUrl || contentUrl)
   const creditText = cleanText(
     entry.attribution || entry.institution || entry.providerLabel || entry.provider,
   )
   const license = cleanText(entry.licenseUrl)
   const object = {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebPage",
-        "@id": pageUrl,
-        url: pageUrl,
-        name: displayCaption(entry),
-        description,
-        primaryImageOfPage: { "@id": imageId },
-      },
-      {
-        "@type": "ImageObject",
-        "@id": imageId,
-        name: displayCaption(entry),
-        caption: displayCaption(entry),
-        description,
-        contentUrl: contentUrl || undefined,
-        thumbnailUrl: thumbnailUrl || undefined,
-        width: entry.width || undefined,
-        height: entry.height || undefined,
-        creator: creator ? { "@type": "Person", name: creator } : undefined,
-        creditText: creditText || undefined,
-        copyrightNotice: cleanText(entry.rightsNote) || undefined,
-        license: license || undefined,
-        acquireLicensePage: cleanText(entry.canonicalUrl) || undefined,
-        representativeOfPage: true,
-        mainEntityOfPage: { "@id": pageUrl },
-      },
-    ],
+    "@type": "ImageObject",
+    "@id": imageId,
+    name: displayCaption(entry),
+    caption: displayCaption(entry),
+    description,
+    contentUrl: contentUrl || undefined,
+    thumbnailUrl: thumbnailUrl || undefined,
+    width: entry.width || undefined,
+    height: entry.height || undefined,
+    creator: creator ? { "@type": "Person", name: creator } : undefined,
+    creditText: creditText || undefined,
+    copyrightNotice: cleanText(entry.rightsNote) || undefined,
+    license: license || undefined,
+    acquireLicensePage: cleanText(entry.canonicalUrl) || undefined,
+    representativeOfPage: true,
+    mainEntityOfPage: { "@id": pageUrl },
   }
   return JSON.stringify(object)
 }
@@ -166,7 +155,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             description,
             media_gallery_page: true,
             media_gallery_bootstrap_json: JSON.stringify(bootstrap),
-            media_primary_thumb_url: entries[0]?.thumbUrl || entries[0]?.sourceUrl || "",
+            media_primary_thumb_url: entries[0] ? mediaImageUrl(entries[0]) : "",
             media_primary_width: entries[0]?.width,
             media_primary_height: entries[0]?.height,
             ...frontmatter,
@@ -238,9 +227,11 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             description,
             media_detail_page: true,
             media_detail_json: JSON.stringify(entry),
-            media_primary_thumb_url: entry.thumbUrl || entry.sourceUrl || "",
+            media_primary_thumb_url: mediaImageUrl(entry),
             media_primary_width: entry.width,
             media_primary_height: entry.height,
+            media_social_alt: title,
+            media_schema_image_id: `${pageUrl}#image`,
             structured_data_json: mediaStructuredData(entry, pageUrl, description),
           },
         })

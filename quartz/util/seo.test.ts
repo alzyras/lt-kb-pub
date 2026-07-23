@@ -28,3 +28,20 @@ test("emits entity, image and breadcrumbs JSON-LD", () => {
   assert.equal(data["@graph"][2]["@type"], "Person")
   assert.equal(data["@graph"][3]["@type"], "ImageObject")
 })
+
+test("keeps the page graph while letting a media detail page own its ImageObject", () => {
+  const data = pageStructuredData({
+    slug: "galerija/vaizdas--m-1",
+    title: "Istorinis vaizdas",
+    description: "Patikrintas istorinis vaizdas su šaltiniu.",
+    baseUrl: "example.com",
+    canonicalUrl: "https://example.com/galerija/vaizdas--m-1",
+    mediaUrl: "https://images.example/vaizdas.jpg",
+    primaryImageId: "https://example.com/galerija/vaizdas--m-1#image",
+    includePrimaryImageObject: false,
+  }) as any
+  assert.equal(data["@graph"].filter((node: any) => node["@type"] === "ImageObject").length, 0)
+  assert.deepEqual(data["@graph"][0].primaryImageOfPage, {
+    "@id": "https://example.com/galerija/vaizdas--m-1#image",
+  })
+})

@@ -6,6 +6,11 @@ on:
       - main
       - development
   workflow_dispatch:
+  schedule:
+    # Third-party image URLs are audited independently from deploys, so a
+    # provider outage is visible without making an unrelated content publish
+    # wait for hundreds of remote requests.
+    - cron: "20 3 * * *"
 
 permissions:
   contents: read
@@ -31,6 +36,13 @@ jobs:
         run: npm ci
       - name: Build and audit DB-authoritative projection
         run: npm run build
+      - name: Check representative external image hosts
+        run: npm run audit:media-hosts
+      - name: Upload media host audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: media-host-audit-${{ github.run_id }}
+          path: media-host-audit.json
       - name: Remove accidental root redirect artifact
         run: rm -f public/.html
       - name: Save public build audit
@@ -41,7 +53,7 @@ jobs:
         with:
           path: public
   deploy:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'schedule'
     needs: build
     environment:
       name: github-pages
@@ -51,3 +63,24 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  media-health:
+    if: github.event_name == 'schedule'
+    needs: build
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Check every external DB-exported image URL
+        run: npm run audit:media-hosts -- --full
+      - name: Upload full media health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-media-host-audit-${{ github.run_id }}
+          path: media-host-audit.json

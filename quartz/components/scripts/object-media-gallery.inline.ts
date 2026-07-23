@@ -2,7 +2,7 @@ import createJustifiedLayout from "justified-layout"
 import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
 import type { MediaEntry } from "../../util/objectMedia"
-import { cleanText, displayCaption, relationLabel } from "../../util/objectMedia"
+import { cleanText, displayCaption, mediaImageUrl, relationLabel } from "../../util/objectMedia"
 import {
   buildMediaSearchIndex,
   computeDynamicFacetCounts,
@@ -104,7 +104,7 @@ function loadNaturalDimensions(
   let request = naturalSizeCache.get(key)
   if (!request) {
     request = new Promise((resolve) => {
-      const src = text(entry.sourceUrl || entry.thumbUrl)
+      const src = mediaImageUrl(entry)
       if (!src) return resolve(null)
       const image = new Image()
       image.decoding = "async"
@@ -254,7 +254,7 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
       ? ` width="${width}" height="${height}"`
       : ""
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
-    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
+    <span class="media-gallery-card-media"><img src="${escapeHtml(mediaImageUrl(entry))}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
     <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
   const image = article.querySelector<HTMLImageElement>("img")
@@ -344,8 +344,8 @@ function initViewer(
   const currentEntry = (index: number) => getEntries()[index]
   const dataSource = () =>
     getEntries().map((entry) => ({
-      src: entry.sourceUrl || entry.thumbUrl,
-      msrc: entry.thumbUrl || entry.sourceUrl,
+      src: mediaImageUrl(entry),
+      msrc: mediaImageUrl(entry),
       ...normalizedDimensions(entry),
       alt: displayCaption(entry),
       mediaId: entry.mediaId,

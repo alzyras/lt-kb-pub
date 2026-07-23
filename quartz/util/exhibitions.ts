@@ -10,7 +10,7 @@ import {
   parseEvidenceSections,
   type EvidenceEntry,
 } from "./citationFilter"
-import type { MediaEntry } from "./objectMedia"
+import { mediaImageUrl, type MediaEntry } from "./objectMedia"
 import { createUniqueSlugMap, type FilePath } from "./path"
 
 export type ExhibitionClaimRef = {
@@ -265,7 +265,7 @@ function resolveExhibition(
           `${source.exhibitionId}/${section.sectionId}/${item.exhibitionItemId}: media ${item.mediaId} was not found`,
         )
       }
-      const imageUrl = media.sourceUrl || media.thumbUrl
+      const imageUrl = mediaImageUrl(media)
       if (imageUrl) imageUrls.push(imageUrl)
       const claims = (item.claimRefs ?? []).map((ref) =>
         resolveClaim(

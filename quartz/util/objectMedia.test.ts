@@ -5,6 +5,7 @@ import {
   displayDate,
   mediaDetailSlug,
   mediaDetailUrl,
+  mediaImageUrl,
   mergeMediaEntries,
   withMediaDetailUrl,
 } from "./objectMedia"
@@ -56,6 +57,14 @@ describe("media catalog", () => {
     assert.equal(
       mediaDetailUrl(entry),
       "/galerija/zalgirio-musio-miniatiura-is-liucernos-kronikos-1410-m--m-a9916882f77bc13171fd77b9",
+    )
+  })
+
+  it("uses the DB-selected thumbnail when the archival source is not an image", () => {
+    const thumbnail = "https://api.europeana.eu/thumbnail/v2/url.json?uri=record.pdf&type=IMAGE"
+    assert.equal(
+      mediaImageUrl({ sourceUrl: "https://archive.example/record.pdf", thumbUrl: thumbnail }),
+      thumbnail,
     )
   })
 })

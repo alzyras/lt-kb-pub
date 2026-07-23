@@ -22,6 +22,8 @@ export type MediaEntry = {
   canonicalUrl?: string
   sourceUrl?: string
   thumbUrl?: string
+  /** DB-exported URL selected for rendering and search, never a document URL. */
+  displayUrl?: string
   institution?: string
   collection?: string
   country?: string
@@ -252,6 +254,28 @@ export function cleanText(value: unknown): string {
 
 export function displayCaption(entry: MediaEntry): string {
   return cleanText(entry.caption) || cleanText(entry.title) || "Atvaizdas"
+}
+
+/**
+ * Media source URLs can point to an archival original (including PDFs), while
+ * thumbnails are actual image responses. DB export supplies `displayUrl` for
+ * exceptional providers; this fallback keeps earlier exports safe as well.
+ */
+export function mediaImageUrl(entry: MediaEntry): string {
+  const display = cleanText(entry.displayUrl)
+  if (display) return display
+  const source = cleanText(entry.sourceUrl)
+  const thumbnail = cleanText(entry.thumbUrl)
+  const sourceWithoutQuery = source.split(/[?#]/, 1)[0].toLocaleLowerCase("lt")
+  const isDocument = /\.(?:pdf|djvu|epub|mobi|txt|xml|html?)$/.test(sourceWithoutQuery)
+  let hostname = ""
+  try {
+    hostname = new URL(source).hostname
+  } catch {}
+  const knownUnreliableImageHost =
+    /(?:^|\.)fbc\.pionier\.net\.pl$/i.test(hostname) ||
+    /(?:^|\.)iiif\.deutsche-digitale-bibliothek\.de$/i.test(hostname)
+  return isDocument || knownUnreliableImageHost ? thumbnail || source : source || thumbnail
 }
 
 export function displayCreator(value: unknown): string {

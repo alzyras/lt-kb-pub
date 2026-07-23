@@ -125,6 +125,13 @@ export function pageStructuredData(input: SeoInput & {
   mediaUrl?: string
   mediaWidth?: number
   mediaHeight?: number
+  /**
+   * Media detail pages emit their own complete ImageObject.  The shared page
+   * graph still needs to point at it, but must not manufacture a second,
+   * competing ImageObject.
+   */
+  primaryImageId?: string
+  includePrimaryImageObject?: boolean
 }): Record<string, unknown> {
   const slug = String(input.slug ?? "index")
   const title = seoText(input.title) || "Lietuvos istorija"
@@ -160,17 +167,20 @@ export function pageStructuredData(input: SeoInput & {
     },
   ]
   if (input.mediaUrl) {
-    graph.push({
-      "@type": "ImageObject",
-      "@id": `${input.canonicalUrl}#primary-image`,
-      contentUrl: input.mediaUrl,
-      thumbnailUrl: input.mediaUrl,
-      caption: title,
-      width: input.mediaWidth || undefined,
-      height: input.mediaHeight || undefined,
-      representativeOfPage: true,
-    })
-    ;(graph[0] as Record<string, unknown>).primaryImageOfPage = { "@id": `${input.canonicalUrl}#primary-image` }
+    const imageId = input.primaryImageId || `${input.canonicalUrl}#primary-image`
+    if (input.includePrimaryImageObject !== false) {
+      graph.push({
+        "@type": "ImageObject",
+        "@id": imageId,
+        contentUrl: input.mediaUrl,
+        thumbnailUrl: input.mediaUrl,
+        caption: title,
+        width: input.mediaWidth || undefined,
+        height: input.mediaHeight || undefined,
+        representativeOfPage: true,
+      })
+    }
+    ;(graph[0] as Record<string, unknown>).primaryImageOfPage = { "@id": imageId }
   }
   return { "@context": "https://schema.org", "@graph": graph }
 }
