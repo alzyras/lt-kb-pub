@@ -131,8 +131,17 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-00156
 
-<a id="claim-t-10692"></a>
+<a id="claim-t-10689"></a>
 - t-006
+  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
+  atnaujinta: "2026-07-23 21:02"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-160519
+
+<a id="claim-t-10692"></a>
+- t-007
   teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -150,7 +159,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160524
 
 <a id="claim-t-10693"></a>
-- t-007
+- t-008
   teiginys: "Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -166,7 +175,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160519
 
 <a id="claim-t-176515"></a>
-- t-008
+- t-009
   teiginys: "Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,7 +191,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160538
 
 <a id="claim-t-176516"></a>
-- t-009
+- t-010
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,7 +207,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160536
 
 <a id="claim-t-176517"></a>
-- t-010
+- t-011
   teiginys: "Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,7 +224,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160516
 
 <a id="claim-t-176518"></a>
-- t-011
+- t-012
   teiginys: "1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -234,7 +243,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160527
 
 <a id="claim-t-176519"></a>
-- t-012
+- t-013
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -254,7 +263,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160521
 
 <a id="claim-t-176520"></a>
-- t-013
+- t-014
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -270,7 +279,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160535
 
 <a id="claim-t-176523"></a>
-- t-014
+- t-015
   teiginys: "Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -286,7 +295,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160523
 
 <a id="claim-t-176524"></a>
-- t-015
+- t-016
   teiginys: "Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -302,7 +311,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160515
 
 <a id="claim-t-176525"></a>
-- t-016
+- t-017
   teiginys: "Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -318,7 +327,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160537
 
 <a id="claim-t-176528"></a>
-- t-017
+- t-018
   teiginys: "Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -336,7 +345,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160520
 
 <a id="claim-t-176529"></a>
-- t-018
+- t-019
   teiginys: "Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -352,7 +361,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160531
 
 <a id="claim-t-176530"></a>
-- t-019
+- t-020
   teiginys: "Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -371,7 +380,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160533
 
 <a id="claim-t-176531"></a>
-- t-020
+- t-021
   teiginys: "Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -387,7 +396,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160534
 
 <a id="claim-t-176532"></a>
-- t-021
+- t-022
   teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -406,7 +415,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160520
 
 <a id="claim-t-184761"></a>
-- t-022
+- t-023
   teiginys: "Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -425,7 +434,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178750
 
 <a id="claim-t-184763"></a>
-- t-023
+- t-024
   teiginys: "Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -444,7 +453,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168124
 
 <a id="claim-t-184764"></a>
-- t-024
+- t-025
   teiginys: "Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -463,7 +472,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168125
 
 <a id="claim-t-184766"></a>
-- t-025
+- t-026
   teiginys: "Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -482,7 +491,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168127
 
 <a id="claim-t-184768"></a>
-- t-026
+- t-027
   teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -501,7 +510,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168129
 
 <a id="claim-t-184769"></a>
-- t-027
+- t-028
   teiginys: "Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -520,7 +529,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168130
 
 <a id="claim-t-184770"></a>
-- t-028
+- t-029
   teiginys: "Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -540,7 +549,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168131
 
 <a id="claim-t-184771"></a>
-- t-029
+- t-030
   teiginys: "Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -559,7 +568,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168132
 
 <a id="claim-t-184772"></a>
-- t-030
+- t-031
   teiginys: "Kojelavičius rašo, kad Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, Vytautą įkalinti Vilniuje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -579,7 +588,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168133
 
 <a id="claim-t-188574"></a>
-- t-031
+- t-032
   teiginys: "Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -598,7 +607,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171463
 
 <a id="claim-t-188575"></a>
-- t-032
+- t-033
   teiginys: "Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -619,7 +628,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171464
 
 <a id="claim-t-188576"></a>
-- t-033
+- t-034
   teiginys: "Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -642,7 +651,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171465
 
 <a id="claim-t-193947"></a>
-- t-034
+- t-035
   teiginys: "O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -655,7 +664,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176572
 
 <a id="claim-t-193948"></a>
-- t-035
+- t-036
   teiginys: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil niaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -668,7 +677,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176573
 
 <a id="claim-t-193949"></a>
-- t-036
+- t-037
   teiginys: "Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -681,7 +690,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176574
 
 <a id="claim-t-193950"></a>
-- t-037
+- t-038
   teiginys: "1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -693,7 +702,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176575
 
 <a id="claim-t-194947"></a>
-- t-038
+- t-039
   teiginys: "Kęstutis vėliau taip pasižymėjo."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -705,7 +714,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-177343
 
 <a id="claim-t-196530"></a>
-- t-039
+- t-040
   teiginys: "Didžiausios autoriaus pagarbos nusipelnė Kęstutis."
   atnaujinta: "2026-07-12 22:17"
   sprendimo_priezastis: "auto"
@@ -717,7 +726,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178750
 
 <a id="claim-t-196532"></a>
-- t-040
+- t-041
   teiginys: "Kęstutis, Trakuose tvarkęs sąmokslą prieš Jaunutį, lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -730,7 +739,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178751
 
 <a id="claim-t-196533"></a>
-- t-041
+- t-042
   teiginys: "Kojelavičius rašo, kad Algirdo broliai valdė Rusios žemes: Liubartas Lvovą, Kęstutis dideles žemes kitur Rusioje, Jurgis Narimantaitis Kremenecą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -743,7 +752,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168125
 
 <a id="claim-t-196535"></a>
-- t-042
+- t-043
   teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją su Lietuvos, Žemaitijos, Rusios ir pakviestais totorių pulkais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -756,7 +765,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168129
 
 <a id="claim-t-196536"></a>
-- t-043
+- t-044
   teiginys: "Kojelavičius rašo, kad Kęstutis, grįžęs į Lietuvą ir vedęs vaidilutę Birutę, neilgai džiaugėsi ramiu gyvenimu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -769,7 +778,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168130
 
 <a id="claim-t-196537"></a>
-- t-044
+- t-045
   teiginys: "Kęstutis, sužinojęs apie Jogailos veiksmus Trakuose, skubiai grįžo į Žemaitiją, surinko kariuomenę ir susijungė su Vytautu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -782,7 +791,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168131
 
 <a id="claim-t-196538"></a>
-- t-045
+- t-046
   teiginys: "Kojelavičius rašo, kad Kęstutis žinojo Jogailą vedantis didžiulę kariuomenę, kuriai jo pajėgos neprilygo nei ginkluote, nei karių skaičiumi."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -795,7 +804,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168132
 
 <a id="claim-t-196848"></a>
-- t-046
+- t-047
   teiginys: "Lietuvos metraštyje Kęstutis vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis užėmė Vilnių, kai Algirdas nespėjo atvykti iš Vitebsko."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -808,7 +817,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176572
 
 <a id="claim-t-196849"></a>
-- t-047
+- t-048
   teiginys: "Lietuvos metraštyje Kęstutis vadinamas didžiuoju kunigaikščiu ir vaizduojamas Vilniuje įsodinęs Algirdą į didžiojo kunigaikščio sostą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -821,7 +830,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178942
 
 <a id="claim-t-196850"></a>
-- t-048
+- t-049
   teiginys: "Lietuvos metraštis vaizduoja Kęstutį skundžiantis Vytautui, kad Jogaila jį įskaudino ir esą sudarė sandėrį su vokiečiais prieš juos."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -834,7 +843,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178943
 
 <a id="claim-t-196851"></a>
-- t-049
+- t-050
   teiginys: "Lietuvos metraštyje Vytautas per vieną dieną atskuba iš Gardino pas savo tėvą Kęstutį."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -847,7 +856,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178944
 
 <a id="claim-t-197420"></a>
-- t-050
+- t-051
   teiginys: "Kęstutis visiškai atitiko Pergrubę."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -859,7 +868,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-179176
 
 <a id="claim-t-201008"></a>
-- t-051
+- t-052
   teiginys: "Kryžėjai, norėdami ta dimgsčia naudoti, nuleido siuntinius pas Kęstutį, tardami, jei jis persikrikštys, galės su kryžėjų talka brolį nuveikti ir vienas valdžioniu tapti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -871,7 +880,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-184358
 
 <a id="claim-t-201009"></a>
-- t-052
+- t-053
   teiginys: "Lietuvių dešinuoju sparnu rykavo Algirdas, o kairiuoju Kęstutis."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1091,7 +1100,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-160516
   autorius: "Michał Baliński"
@@ -1155,7 +1164,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-160517
   sudarytojas: "Karolis Zikaras"
@@ -1205,7 +1214,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
+    - t-008
 
 - id: c-160520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1230,8 +1240,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-021
+    - t-018
+    - t-022
 
 - id: c-160521
   autorius: "Michał Baliński"
@@ -1255,7 +1265,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-160523
   autorius: "Michał Baliński"
@@ -1280,7 +1290,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-160524
   redaktorius: "A. Šapoka"
@@ -1303,7 +1313,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-160525
   autorius: "Zenonas Ivinskis"
@@ -1342,7 +1352,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-160530
   autorius: "Zenonas Ivinskis"
@@ -1383,7 +1393,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-019
 
 - id: c-160533
   sudarytojas: "Karolis Zikaras"
@@ -1400,7 +1410,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-160534
   autorius: "Michał Baliński"
@@ -1424,7 +1434,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-160535
   autorius: "Michał Baliński"
@@ -1457,7 +1467,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-160536
   autorius: "Michał Baliński"
@@ -1483,7 +1493,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-160537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1505,7 +1515,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017
 
 - id: c-160538
   autorius: "Michał Baliński"
@@ -1535,7 +1545,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-168122
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1596,7 +1606,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-024
 
 - id: c-168125
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1620,8 +1630,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
-    - t-041
+    - t-025
+    - t-042
 
 - id: c-168127
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1651,7 +1661,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-026
 
 - id: c-168128
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1721,8 +1731,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-    - t-042
+    - t-027
+    - t-043
 
 - id: c-168130
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1750,8 +1760,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-    - t-043
+    - t-028
+    - t-044
 
 - id: c-168131
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1790,8 +1800,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
-    - t-044
+    - t-029
+    - t-045
 
 - id: c-168132
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1828,8 +1838,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-045
+    - t-030
+    - t-046
 
 - id: c-168133
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1869,7 +1879,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-031
 
 - id: c-171463
   autorius: "Teodoras Narbutas"
@@ -1894,7 +1904,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032
 
 - id: c-171464
   autorius: "Teodoras Narbutas"
@@ -1915,7 +1925,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-033
 
 - id: c-171465
   autorius: "Teodoras Narbutas"
@@ -1936,7 +1946,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-034
 
 - id: c-176572
   autorius: "Anoniminis metraštininkas"
@@ -1956,8 +1966,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
-    - t-046
+    - t-035
+    - t-047
 
 - id: c-176573
   autorius: "Anoniminis metraštininkas"
@@ -1978,7 +1988,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-036
 
 - id: c-176574
   autorius: "Anoniminis metraštininkas"
@@ -1998,7 +2008,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-037
 
 - id: c-176575
   autorius: "Anoniminis metraštininkas"
@@ -2016,7 +2026,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-038
 
 - id: c-177343
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2038,7 +2048,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-039
 
 - id: c-178750
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2060,8 +2070,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-039
+    - t-023
+    - t-040
 
 - id: c-178751
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2089,7 +2099,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-041
 
 - id: c-178942
   autorius: "Anoniminis metraštininkas"
@@ -2111,7 +2121,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-048
 
 - id: c-178943
   autorius: "Anoniminis metraštininkas"
@@ -2135,7 +2145,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-049
 
 - id: c-178944
   autorius: "Anoniminis metraštininkas"
@@ -2156,7 +2166,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-050
 
 - id: c-179176
   autorius: "Teodoras Narbutas"
@@ -2177,7 +2187,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-051
 
 - id: c-184358
   autorius: "Simonas Daukantas"
@@ -2202,7 +2212,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
+    - t-052
 
 - id: c-184359
   autorius: "Simonas Daukantas"
@@ -2221,7 +2231,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-053
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]

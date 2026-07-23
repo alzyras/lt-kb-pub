@@ -39,7 +39,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 <a id="claim-t-90534"></a>
 - t-001
   teiginys: "Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Karšuva: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -52,7 +52,6 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   semantiniai_rysiai: "Karšuvos žemė priklausė Karšuva (0.78)"
   pagrindžia:
     - c-86348
-    - c-86350
 
 <a id="claim-t-90535"></a>
 - t-002
@@ -148,6 +147,5 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003

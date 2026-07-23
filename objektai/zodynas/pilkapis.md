@@ -85,7 +85,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 <a id="claim-t-192278"></a>
 - t-003
   teiginys: "Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany."
-  atnaujinta: "2026-07-23 20:08"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Rusinai: 0.85"
@@ -98,7 +98,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175101
     - c-175102
 
 <a id="claim-t-192279"></a>
@@ -263,7 +262,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-004
     - t-006
 

@@ -167,7 +167,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 <a id="claim-t-188458"></a>
 - t-008
   teiginys: "Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas."
-  atnaujinta: "2026-07-23 20:35"
+  atnaujinta: "2026-07-23 21:02"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

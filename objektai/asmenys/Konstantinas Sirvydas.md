@@ -61,7 +61,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 <a id="claim-t-188567"></a>
 - t-002
   teiginys: "Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
-  atnaujinta: "2026-07-23 20:35"
+  atnaujinta: "2026-07-23 21:02"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

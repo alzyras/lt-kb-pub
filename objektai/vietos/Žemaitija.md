@@ -1427,7 +1427,7 @@ media_all_json: |-
 <a id="claim-t-192791"></a>
 - t-075
   teiginys: "1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1446,6 +1446,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175561
+    - c-179410
 
 <a id="claim-t-192792"></a>
 - t-076
@@ -1502,7 +1503,7 @@ media_all_json: |-
 <a id="claim-t-196764"></a>
 - t-080
   teiginys: "Kojelavičiaus pasakojime iš Vokietijos sutraukta kariuomenė buvo skirta Prūsijos ir Žemaitijos žemdirbiams išžudyti."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1511,7 +1512,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168579
-    - c-168580
 
 <a id="claim-t-196765"></a>
 - t-081
@@ -2975,7 +2975,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-053
-    - t-080
 
 - id: c-168582
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3694,6 +3693,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-075
     - t-085
 
 ## Ryšiai

@@ -59,13 +59,11 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 <a id="claim-t-59901"></a>
 - t-002
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
-  atnaujinta: "2026-07-23 19:58"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60532
     - c-60534
-    - c-60536
 
 <a id="claim-t-59902"></a>
 - t-003
@@ -176,7 +174,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
 
 - id: c-60533
@@ -267,4 +264,3 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

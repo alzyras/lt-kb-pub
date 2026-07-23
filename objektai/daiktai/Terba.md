@@ -94,16 +94,6 @@ Nenurodyta
   pagrindžia:
     - c-177670
 
-<a id="claim-t-195304"></a>
-- t-004
-  teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
-  atnaujinta: "2026-07-23 20:35"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177670
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -194,7 +184,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-177671
   autorius: "M. Katkus"

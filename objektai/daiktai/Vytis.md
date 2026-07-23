@@ -151,7 +151,7 @@ Nenurodyta
     antspaude pradėjo vartoti bene Algirdas. Jo sūnus Jogaila nuo
     1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
     kunigaikščiams.
-  citata_rodoma: "Manoma, kad anksčiausiai, bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba kunigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo susijusi Lietuvos didžiojo kunigaikščio valdžia."
+  citata_rodoma: "Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai, \nbent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­\nnigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo \nsusijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo \nantspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo \n1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės \nkunigaikščiams."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas

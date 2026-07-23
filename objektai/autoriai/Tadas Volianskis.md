@@ -104,7 +104,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 <a id="claim-t-190287"></a>
 - t-005
   teiginys: "Narbutas pagal Volianskio šifruotę runų užrašą siejo su Vaivedučio vardu, bet nežinojo, ar jis skirtas vėliavai, ar herbui."
-  atnaujinta: "2026-07-23 20:35"
+  atnaujinta: "2026-07-23 21:02"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

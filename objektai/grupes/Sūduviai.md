@@ -392,7 +392,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 <a id="claim-t-194366"></a>
 - t-022
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-07-23 20:08"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -400,8 +400,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85212
-    - c-85213
-    - c-85229
 
 <a id="claim-t-196924"></a>
 - t-023
@@ -549,7 +547,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-018
-    - t-022
 
 - id: c-85214
   autorius: "Petras Dusburgietis"
@@ -881,7 +878,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-022
 
 - id: c-85230
   autorius: "Petras Dusburgietis"

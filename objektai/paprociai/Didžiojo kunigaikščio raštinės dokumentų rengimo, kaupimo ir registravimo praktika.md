@@ -123,7 +123,6 @@ Nenurodyta
     ir raštininkų mokyklomis. Jų veikla gerokai prisidėjo prie to, kad raštas
     įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
     kultūra kartais apibūdinama kaip raštinių kultūra.
-  citata_rodoma: "Formuojantis luominei LDK visuomenei ir susidarius sudėtingam valstybės valdymo aparatui, XIV–XV a. sandūroje skubiai prireikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai didėjo. Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

@@ -569,15 +569,13 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-194370"></a>
 - t-034
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-07-23 20:08"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159253
-    - c-159272
     - c-159274
 
 <a id="claim-t-196925"></a>
@@ -747,7 +745,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-023
-    - t-034
 
 - id: c-159254
   autorius: "Petras Dusburgietis"
@@ -1060,7 +1057,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-030
-    - t-034
 
 - id: c-159274
   autorius: "Petras Dusburgietis"

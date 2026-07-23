@@ -102,7 +102,7 @@ Nenurodyta
     biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
     platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
     eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
-  citata_rodoma: "Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę."
+  citata_rodoma: "biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas

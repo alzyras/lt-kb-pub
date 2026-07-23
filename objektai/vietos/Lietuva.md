@@ -67,7 +67,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180065"></a>
 - t-001
   teiginys: "Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -142,7 +142,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180069"></a>
 - t-005
   teiginys: "1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -234,7 +234,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180074"></a>
 - t-010
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -271,7 +271,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180076"></a>
 - t-012
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -348,7 +348,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180081"></a>
 - t-016
   teiginys: "1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> SSRS: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -425,7 +425,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180085"></a>
 - t-020
   teiginys: "1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -519,7 +519,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180092"></a>
 - t-025
   teiginys: "XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -619,7 +619,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180097"></a>
 - t-030
   teiginys: "Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.71"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -633,7 +633,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163818
     - c-181970
-    - c-163722
 
 <a id="claim-t-180098"></a>
 - t-031
@@ -716,7 +715,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180103"></a>
 - t-035
   teiginys: "Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos)."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -729,8 +728,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163812
     - c-182016
-    - c-163800
-    - c-181945
 
 <a id="claim-t-180104"></a>
 - t-036
@@ -806,7 +803,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180110"></a>
 - t-040
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -918,7 +915,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180120"></a>
 - t-046
   teiginys: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -991,7 +988,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180126"></a>
 - t-050
   teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1052,7 +1049,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180130"></a>
 - t-053
   teiginys: "Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1197,7 +1194,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180141"></a>
 - t-061
   teiginys: "Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1217,7 +1214,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180142"></a>
 - t-062
   teiginys: "Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1236,7 +1233,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180143"></a>
 - t-063
   teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1258,7 +1255,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180144"></a>
 - t-064
   teiginys: "Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1497,7 +1494,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180160"></a>
 - t-077
   teiginys: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1518,7 +1515,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180162"></a>
 - t-078
   teiginys: "Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1537,7 +1534,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180163"></a>
 - t-079
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Latvija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1592,7 +1589,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180169"></a>
 - t-082
   teiginys: "Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1615,7 +1612,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180170"></a>
 - t-083
   teiginys: "Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1630,13 +1627,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra iliustracijos antraštės triukšmas."
   pagrindžia:
     - c-163789
-    - c-163757
-    - c-181984
 
 <a id="claim-t-180171"></a>
 - t-084
   teiginys: "Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> primus inter pares: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1734,7 +1729,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180179"></a>
 - t-089
   teiginys: "Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1755,7 +1750,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180180"></a>
 - t-090
   teiginys: "Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1827,7 +1822,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180186"></a>
 - t-094
   teiginys: "Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1902,7 +1897,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180193"></a>
 - t-098
   teiginys: "Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1937,7 +1932,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180198"></a>
 - t-100
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Antantė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1956,14 +1951,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     - c-181964
     - c-182025
     - c-182066
-    - c-163730
-    - c-181926
-    - c-181940
 
 <a id="claim-t-180199"></a>
 - t-101
   teiginys: "1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Estija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1984,7 +1976,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-180200"></a>
 - t-102
   teiginys: "Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2239,7 +2231,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-187596"></a>
 - t-115
   teiginys: "Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2260,7 +2252,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192688"></a>
 - t-116
   teiginys: "Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2281,7 +2273,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192689"></a>
 - t-117
   teiginys: "Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2302,7 +2294,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192690"></a>
 - t-118
   teiginys: "Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2323,7 +2315,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192691"></a>
 - t-119
   teiginys: "Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2344,7 +2336,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192693"></a>
 - t-120
   teiginys: "Tadas Voliankis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė, kad ji priklauso lietuviškiems paminklams."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2365,7 +2357,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-192694"></a>
 - t-121
   teiginys: "Narbutas rašo, kad XVI a. teismuose nuosprendžiai būdavo sakomi lietuviškai, o į knygas įrašomi rusiškai, lotyniškai arba lenkiškai."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2399,7 +2391,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193645"></a>
 - t-123
   teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2413,7 +2405,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193774"></a>
 - t-124
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2427,7 +2419,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-193775"></a>
 - t-125
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2441,7 +2433,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-194255"></a>
 - t-126
   teiginys: "Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė ir apsaugojo."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2546,7 +2538,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-196885"></a>
 - t-134
   teiginys: "Leidinio aiškinime tolimesnioji Lietuvos istorija Platesniajame sąvade dėstoma pagal XV a. pabaigos Trumpojo sąvado antrąją redakciją."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2560,7 +2552,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-196886"></a>
 - t-135
   teiginys: "Grįždamas iš Braclavo didysis kunigaikštis Aleksandras Trakuose aplankė sergantį Petrą Jonaitį, tuo metu buvusį Trakų vaivada ir Lietuvos didžiuoju etmonu."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2574,7 +2566,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197466"></a>
 - t-136
   teiginys: "Tas senovės mitas, primenantis labai reikšmingą Titanų šeimynos asmenį, negalėjo būti nežinomas lietuvių mitologijai."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2590,7 +2582,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197467"></a>
 - t-137
   teiginys: "Šiuo atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys gimdavo aklas arba su kokia baisia yda."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2603,7 +2595,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197468"></a>
 - t-138
   teiginys: "Neturime jokio pa tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka bindavo karalių kūnus, parištus ant aukso grandinių ."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2616,7 +2608,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197469"></a>
 - t-139
   teiginys: "Todėl blogai daro kunigai, ku rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichėjų sektos žmones, nes tie žmonės kartą jau priėmė krikštą var dan Tėvo ir Sūnaus, ir Šventosios dvasios, nes kartoti šį sakra mentą draudžiama."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2629,7 +2621,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197470"></a>
 - t-140
   teiginys: "Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2642,7 +2634,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197471"></a>
 - t-141
   teiginys: "Italijoje jis įstojo į vienuolyną, o sugrįžęs į tė vynę ir susidūręs su religiniais sąmaiščiais, kilusiais dėl Huso moky mo, jis išvyko į Lenkiją, o iš ten karalius Vladislovas Jogaila 1392 metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2655,7 +2647,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197889"></a>
 - t-142
   teiginys: "Pažvelgę tyrinėtojo žvilgsniu į lietuvių senovės paminklus, visur aptinkame pėdsakų ir padavimų apie tautos kilmę iš pelazgų1."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2668,7 +2660,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197890"></a>
 - t-143
   teiginys: "Tačiau iš kur kilęs šis pavadinimas, dabar nepradėsime nagrinėti, kad nekartotume to, apie ką rašėme šio veikalo pirmo tomo straipsniuose „Lietuva“ ir „Lietuvanis“."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2681,7 +2673,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-197891"></a>
 - t-144
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2767,7 +2759,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199354"></a>
 - t-149
   teiginys: "Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2901,7 +2893,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199382"></a>
 - t-156
   teiginys: "T. Narbuto lenkiškai parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“ skirtumus."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2918,12 +2910,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171628
+    - c-181935
     - c-181992
 
 <a id="claim-t-199385"></a>
 - t-157
   teiginys: "Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3023,7 +3016,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199407"></a>
 - t-162
   teiginys: "Narbutas Prūsijoje buvusius žemės drebėjimus laikė argumentu, kad jie galėjo būti žinomi ir tolimesnei Lietuvai."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3045,7 +3038,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199413"></a>
 - t-163
   teiginys: "Narbutas rašė, kad Lietuvoje pasakojimuose aitvaras kartais nematomas užpuola moteris, o kartais prijaukintas neša gėrybes."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3108,7 +3101,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199425"></a>
 - t-166
   teiginys: "Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3147,7 +3140,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199427"></a>
 - t-168
   teiginys: "Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3160,7 +3153,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199446"></a>
 - t-169
   teiginys: "Narbutas tikėjimą raganomis siejo su lietuvių stabmeldystės žlugimu ir svetimų prietarų plitimu."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3201,7 +3194,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199448"></a>
 - t-171
   teiginys: "Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3242,7 +3235,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199453"></a>
 - t-173
   teiginys: "Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3328,7 +3321,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199478"></a>
 - t-177
   teiginys: "Lietuvos metraštis pasakoja, kad tais pačiais metais Lietuvos žemę ištiko baisus badas ir tarp žmonių paplito prancūziškos ligos."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3343,7 +3336,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199482"></a>
 - t-178
   teiginys: "Narbutas nurodė, kad toliau pateikia smulkius kai kurių lietuvių mitologijos sričių aprašymus."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3379,7 +3372,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199484"></a>
 - t-180
   teiginys: "Narbutas Lietuvos sluoksnių formacijoje išskyrė įvairialypius jai nebūdingus akmenis, nes joje nematė panašių uolienų sluoksnių ar kalnų."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3480,7 +3473,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 <a id="claim-t-199498"></a>
 - t-185
   teiginys: "Narbutas dievaitį Lielhuwani siejo su Lietuvos vardo kilme ir laikė jį lietuvių mitu bei pamėgtu šūkiu."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4714,7 +4707,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
     - t-053
 
 - id: c-163725
@@ -4829,7 +4821,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-089
-    - t-100
 
 - id: c-163731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -5390,7 +5381,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
     - t-087
 
 - id: c-163758
@@ -6271,7 +6261,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-035
     - t-057
 
 - id: c-163801
@@ -8211,7 +8200,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-089
-    - t-100
 
 - id: c-181927
   autorius: "Teodoras Narbutas"
@@ -8416,6 +8404,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-156
     - t-174
 
 - id: c-181936
@@ -8545,7 +8534,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-089
-    - t-100
 
 - id: c-181941
   autorius: "Petras Dusburgietis"
@@ -8673,7 +8661,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-035
     - t-057
 
 - id: c-181947
@@ -9482,7 +9469,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
     - t-087
 
 - id: c-181985

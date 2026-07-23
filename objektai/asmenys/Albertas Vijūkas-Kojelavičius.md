@@ -38,8 +38,21 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-196403"></a>
+<a id="claim-t-193494"></a>
 - t-001
+  teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
+  atnaujinta: "2026-07-23 21:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-176185
+
+<a id="claim-t-196403"></a>
+- t-002
   teiginys: "Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +65,7 @@ media_all_json: |-
     - c-176186
 
 <a id="claim-t-196404"></a>
-- t-002
+- t-003
   teiginys: "Antrąjį „Lietuvos istorijos“ tomą Albertas Vijūkas-Kojelavičius paskyrė Kazimierui Jonui Sapiegai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,7 +78,7 @@ media_all_json: |-
     - c-178662
 
 <a id="claim-t-196405"></a>
-- t-003
+- t-004
   teiginys: "Kojelavičius, katalikybės ideologas, sprendė pago niškų valdovų santykius su krikščionimis?"
   atnaujinta: "2026-07-12 22:17"
   sprendimo_priezastis: "auto"
@@ -112,10 +125,12 @@ media_all_json: |-
   citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -135,7 +150,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-178662
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -154,7 +169,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-178663
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -176,4 +191,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

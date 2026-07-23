@@ -44,7 +44,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 <a id="claim-t-199236"></a>
 - t-001
   teiginys: "Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Latvija; mentioned_place: Livonija"
   temporaliniai_duomenys: "įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.; įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m."

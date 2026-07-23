@@ -66,7 +66,7 @@ media_all_json: |-
 <a id="claim-t-86053"></a>
 - t-002
   teiginys: "Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Namas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"

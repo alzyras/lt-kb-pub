@@ -137,7 +137,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 <a id="claim-t-111661"></a>
 - t-006
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-23 21:00"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -151,8 +151,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindžia:
     - c-103194
     - c-181888
-    - c-103200
-    - c-181894
 
 <a id="claim-t-111662"></a>
 - t-007
@@ -493,7 +491,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-001
     - t-005
-    - t-006
 
 - id: c-166427
   redaktorius: "A. Šapoka"
@@ -809,7 +806,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-001
     - t-005
-    - t-006
 
 - id: c-181895
   autorius: "Anoniminis metraštininkas"

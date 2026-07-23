@@ -29,20 +29,8 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
 
 ## Teiginiai
 
-<a id="claim-t-194483"></a>
-- t-001
-  teiginys: "Apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus metus340."
-  atnaujinta: "2026-07-23 20:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60918
-
 <a id="claim-t-197082"></a>
-- t-002
+- t-001
   teiginys: "Gerhardas iš Hircbergo stengėsi patirti jos liūdesio priežastį, atsakė: „Man liūdna, kad mano mielieji sūnūs, o tavo broliai iš Teutonų ordino, kitados apie nieką kita nesikalbėję, tik apie mano sūnų, apie mane ir šventųjų darbus, dabar apie nieką kita nesikalba, tik apie karalių bei kunigaikščių darbus ir šio pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs, nei šventųjų darbų“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,4 +67,3 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

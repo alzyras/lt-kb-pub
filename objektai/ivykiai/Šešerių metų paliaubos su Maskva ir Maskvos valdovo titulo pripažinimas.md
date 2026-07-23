@@ -60,8 +60,20 @@ Nenurodyta
   pagrindžia:
     - c-168905
 
-<a id="claim-t-196292"></a>
+<a id="claim-t-185545"></a>
 - t-002
+  teiginys: "Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
+  atnaujinta: "2026-07-23 21:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-178614
+
+<a id="claim-t-196292"></a>
+- t-003
   teiginys: "Kojelavičius rašo, kad Vasilijus laiške per Bonfalą Dimitrovičių teisino maskvėnus ir kaltę vertė karaliaus pasiuntiniams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -74,7 +86,7 @@ Nenurodyta
     - c-178614
 
 <a id="claim-t-196293"></a>
-- t-003
+- t-004
   teiginys: "Popiežiaus, imperatoriaus ir Romos karaliaus pasiuntiniai, suderinę planus su karaliumi, pirmieji iškeliavo į Maskvos kunigaikštystę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -172,7 +184,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-178614
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -205,3 +217,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-003

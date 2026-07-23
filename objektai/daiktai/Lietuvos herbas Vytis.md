@@ -92,7 +92,6 @@ Nenurodyta
     kitos demokratinės teisės. Valstybės vėliavos spalvomis (geltona, žalia,
     raudona) atsisakyta bendrumo su LDK valdovų naudota vėliava, tačiau
     herbas – baltas Vytis raudoname fone – liko tas pats.
-  citata_rodoma: "Valstybės vėliavos spalvomis (geltona, žalia, raudona) atsisakyta bendrumo su LDK valdovų naudota vėliava, tačiau herbas – baltas Vytis raudoname fone – liko tas pats."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
