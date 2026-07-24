@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Kalavijai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lituanistika-1890-Skasevskio-klientele'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -106,6 +107,26 @@ Nenurodyta
   pagrindžia:
     - c-175290
 
+<a id="claim-t-202476"></a>
+- t-004
+  teiginys: "Aštuoni Skaševskio livrėjomis aprengti ir gerai ginkluoti pėstininkai turėjo kalavijus bei raguotines."
+  atnaujinta: "2026-07-24 14:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Raguotinės (daiktas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Raguotinės (daiktas): mention_match, thing, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijai\" parinktas kaip owner_note_path. Targetas \"Raguotinės (daiktas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-1890-Skasevskio-klientele"
+  vertinimo_atnaujinta: "2026-07-24T11:53:17Z"
+  pagrindžia:
+    - c-185838
+
 ## Citatos
 
 - id: c-41060
@@ -172,3 +193,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-185838
+  autorius: "Ragauskienė, Raimonda"
+  šaltinis: "Lituanistika-1890-Skasevskio-klientele"
+  puslapiai: "PDF 10"
+  indeksas: "Ragauskienė, Raimonda, Lituanistika-1890-Skasevskio-klientele, PDF 10."
+  citata_originali: |
+    Be to, būryje dalyvavo
+    aštuoni su Skaševskio livrėjomis (ap­
+    ranga) ir gerai ginkluoti pėstininkai. Jų
+    amunicijoje buvo kalavijai ir raguotinės
+    (sunkios ietys). Palyginimui: visas Beržėnų
+    valsčius tegalėjo išrengti 107 raitelius ir
+    šešis pėstininkus
+    5 6.
+  statusas: verified
+  atnaujinta: "2026-07-24 14:53"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

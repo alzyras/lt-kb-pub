@@ -6,11 +6,13 @@ saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1458 m.'
   - '1917 m.'
   - '1920 m.'
-date_start: '1917'
+date_start: '1458'
 date_end: '1920'
 sukurta: ''
 atnaujinta: ''
@@ -18,6 +20,7 @@ tags:
   - daiktas
   - ginklas
 amziai:
+  - 'XV'
   - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -116,6 +119,13 @@ Nenurodyta
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sibiras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Sibiras: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Sibiras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-88397
@@ -188,6 +198,21 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184290
+
+<a id="claim-t-202438"></a>
+- t-010
+  teiginys: "Kardai buvo tarp ginklų, kuriais, pasak šaltinio, 1458 m. į Mantują pas popiežių vykusios Kazimiero legacijos ilgaplaukiai blondinai buvo apsiginklavę."
+  atnaujinta: "2026-07-24 14:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
+  temporaliniai_duomenys: "įvykio data: 1458 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į kardą ir suformuluotas kaip vientisas faktinis sakinys. Išlaikytas šaltinio aprašomasis pobūdis bei kelionės kontekstas."
+  pagrindžia:
+    - c-185785
 
 ## Citatos
 
@@ -381,3 +406,22 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-185785
+  autorius: "Rowell, Stephen Christopher"
+  šaltinis: "Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
+  puslapiai: "PDF 9"
+  indeksas: "Rowell, Stephen Christopher, Lituanistika-3-Kazimiero-Jogailaicio-dvaras, PDF 9."
+  citata_originali: |
+    Netinkamai apsirengę dvariškiai užtraukdavo gėdą savo
+    ponui, o gera apranga rodydavo pastarojo didingumą
+    4 8. Kai 1458 m. Kazimiero legacija
+    važiavo į Mantują pas popiežių, didelį įspūdį padarė žaliai apsirengę ilgaplaukiai blon­
+    dinai su plunksnuotomis kepuraitėmis, apsiginklavę arbaletais, kardais ir strėlinėmis.
+  statusas: verified
+  atnaujinta: "2026-07-24 14:16"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

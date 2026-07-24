@@ -4,11 +4,13 @@ pavadinimas: 'Jurbarkas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lituanistika-1890-Skasevskio-klientele'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1259 m.'
+  - '1559 m.'
   - '1613 m.'
   - '1805 m.'
   - '2026 m.'
@@ -191,6 +193,13 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Brestas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brestas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Brestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
@@ -204,10 +213,37 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-184951
+
+<a id="claim-t-202477"></a>
+- t-011
+  teiginys: "Lituanistika-1890-Skasevskio-klientele vertinimu, 1559 m. Mikalojus Radvila Juodasis galėjo padėti Skaševskiui gauti pelningą Jurbarko seniūno vietą."
+  atnaujinta: "2026-07-24 14:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Brestas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brestas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Brestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-1890-Skasevskio-klientele"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-185839
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -424,6 +460,27 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindzia:
     - t-010
 
+- id: c-185839
+  autorius: "Ragauskienė, Raimonda"
+  šaltinis: "Lituanistika-1890-Skasevskio-klientele"
+  puslapiai: "PDF 5"
+  indeksas: "Ragauskienė, Raimonda, Lituanistika-1890-Skasevskio-klientele, PDF 5."
+  citata_originali: |
+    Tikėtina,
+    kad ir šį sykį neapsieita be Chodkevičiaus
+    paramos.
+    Trečiąją, dar pelningesnę Jurbarko se­
+    niūno vietą 1559 m. Skaševskiui turbūt
+    padėjo gauti irgi Žemaitijos seniūnas,
+    arba Vilniaus vaivada, Mikalojus Rad­
+    vila Juodasis.
+  statusas: verified
+  atnaujinta: "2026-07-24 14:53"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 ## Ryšiai
 - Apgulė Jurbarką: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Užėmė Jurbarką: [[objektai/grupes/Kryžiuočių ordinas]]
