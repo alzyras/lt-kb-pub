@@ -1,10 +1,18 @@
 import fs from "node:fs"
 import path from "node:path"
 import { unescapeHTML } from "../quartz/util/escape"
-import { displayCaption, mediaDetailSlug, mediaImageUrl, type MediaEntry } from "../quartz/util/objectMedia"
+import {
+  displayCaption,
+  mediaDetailSlug,
+  mediaImageUrl,
+  type MediaEntry,
+} from "../quartz/util/objectMedia"
 
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
-const siteOrigin = String(process.env.SITE_ORIGIN ?? "https://lietuvosistorija.eu").replace(/\/$/, "")
+const siteOrigin = String(process.env.SITE_ORIGIN ?? "https://lietuvosistorija.eu").replace(
+  /\/$/,
+  "",
+)
 const placeholderCaption = /^(?:atvaizdas|vaizdas|image|unknown|nenurodyta|nežinoma)$/i
 
 function fail(failures: string[], message: string) {
@@ -12,11 +20,21 @@ function fail(failures: string[], message: string) {
 }
 
 function text(value: unknown): string {
-  return String(value ?? "").replace(/\s+/g, " ").trim()
+  return String(value ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
 }
 
 function htmlEscape(value: string): string {
-  return value.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+}
+
+function regexpEscape(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }
 
 function readJson<T>(relativePath: string): T | undefined {
@@ -39,13 +57,19 @@ function htmlForMedia(entry: MediaEntry): { relative: string; html: string } | u
 
 function jsonLdNodes(html: string): Record<string, unknown>[] {
   const nodes: Record<string, unknown>[] = []
-  for (const match of html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+  for (const match of html.matchAll(
+    /<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi,
+  )) {
     try {
       const parsed = JSON.parse(match[1]) as unknown
       if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) continue
       const graph = (parsed as { "@graph"?: unknown })["@graph"]
       if (Array.isArray(graph)) {
-        nodes.push(...graph.filter((node): node is Record<string, unknown> => Boolean(node && typeof node === "object" && !Array.isArray(node))))
+        nodes.push(
+          ...graph.filter((node): node is Record<string, unknown> =>
+            Boolean(node && typeof node === "object" && !Array.isArray(node)),
+          ),
+        )
       } else {
         nodes.push(parsed as Record<string, unknown>)
       }
@@ -62,9 +86,11 @@ function isImageObject(node: Record<string, unknown>): boolean {
 }
 
 function metaContent(html: string, property: string): string {
-  const escaped = property.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-  const tag = html.match(new RegExp(`<meta\\b(?=[^>]*(?:property|name)=["']${escaped}["'])[^>]*>`, "i"))?.[0]
-  return text(unescapeHTML(tag?.match(/\bcontent=["']([^"']*)["']/i)?.[1] ?? ""))
+  const escaped = regexpEscape(property)
+  const tag = html.match(
+    new RegExp(`<meta\\b(?=[^>]*(?:property|name)=["']${escaped}["'])[^>]*>`, "i"),
+  )?.[0]
+  return text(unescapeHTML(tag?.match(/\bcontent=(["'])([\s\S]*?)\1/i)?.[2] ?? ""))
 }
 
 const failures: string[] = []
@@ -94,7 +120,8 @@ if (!Array.isArray(catalog) || !catalog.length) {
     const imageUrl = mediaImageUrl(entry)
     try {
       const url = new URL(imageUrl)
-      if (!(url.protocol === "https:" || url.protocol === "http:")) throw new Error("unsupported protocol")
+      if (!(url.protocol === "https:" || url.protocol === "http:"))
+        throw new Error("unsupported protocol")
     } catch {
       fail(failures, `${mediaId}: invalid image URL`)
       continue
@@ -127,12 +154,15 @@ if (!Array.isArray(catalog) || !catalog.length) {
       fail(failures, `${page.relative}: expected exactly one ImageObject, found ${images.length}`)
     } else {
       const image = images[0]
-      if (image["@id"] !== `${canonicalUrl}#image`) fail(failures, `${page.relative}: wrong ImageObject @id`)
+      if (image["@id"] !== `${canonicalUrl}#image`)
+        fail(failures, `${page.relative}: wrong ImageObject @id`)
       if (text(image.name) !== caption || text(image.caption) !== caption) {
         fail(failures, `${page.relative}: ImageObject name/caption does not equal DB caption`)
       }
-      if (text(image.contentUrl) !== imageUrl) fail(failures, `${page.relative}: ImageObject contentUrl mismatch`)
-      if (entry.creator && !image.creator) fail(failures, `${page.relative}: missing ImageObject creator`)
+      if (text(image.contentUrl) !== imageUrl)
+        fail(failures, `${page.relative}: ImageObject contentUrl mismatch`)
+      if (entry.creator && !image.creator)
+        fail(failures, `${page.relative}: missing ImageObject creator`)
       if (entry.licenseUrl && text(image.license) !== text(entry.licenseUrl)) {
         fail(failures, `${page.relative}: ImageObject license mismatch`)
       }
@@ -140,12 +170,18 @@ if (!Array.isArray(catalog) || !catalog.length) {
 
     const sitemapEntry = sitemap.match(
       new RegExp(
-        `<url>\\s*<loc>${htmlEscape(canonicalUrl)}</loc>[\\s\\S]*?<image:loc>${htmlEscape(imageUrl)}</image:loc>[\\s\\S]*?</url>`,
+        `<url>\\s*<loc>${regexpEscape(htmlEscape(canonicalUrl))}</loc>[\\s\\S]*?<image:loc>${regexpEscape(htmlEscape(imageUrl))}</image:loc>[\\s\\S]*?</url>`,
       ),
     )
     if (!sitemapEntry) fail(failures, `${mediaId}: sitemap lacks canonical page + image URL pair`)
   }
 }
 
-console.log(JSON.stringify({ catalogEntries: Array.isArray(catalog) ? catalog.length : 0, failures }, null, 2))
+console.log(
+  JSON.stringify(
+    { catalogEntries: Array.isArray(catalog) ? catalog.length : 0, failures },
+    null,
+    2,
+  ),
+)
 if (failures.length) process.exitCode = 1
