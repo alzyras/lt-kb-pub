@@ -73,7 +73,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 <a id="claim-t-70426"></a>
 - t-003
   teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
-  atnaujinta: "2026-07-22 01:42"
+  atnaujinta: "2026-07-24 15:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:

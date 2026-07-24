@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XV amžius"
 periodo_pradzia: 1401
 periodo_pabaiga: 1500
-periodo_objektu_skaicius: 1262
+periodo_objektu_skaicius: 1278
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1262.
+Objektų skaičius: 1278.
 
 ## Susiję objektai
 
@@ -49,12 +49,14 @@ Objektų skaičius: 1262.
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Elžbieta Granauskaitė]]
+- [[objektai/asmenys/Elžbieta Habsburgaite]]
 - [[objektai/asmenys/Eugenijus IV]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Fotijus]]
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas fon Bebirsteynas]]
 - [[objektai/asmenys/Gedgaudas]]
+- [[objektai/asmenys/Georg Glucksrath]]
 - [[objektai/asmenys/Gintautas]]
 - [[objektai/asmenys/Gotszalk Schutte]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
@@ -104,13 +106,14 @@ Objektų skaičius: 1262.
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/asmenys/Kaributas Dimitras]]
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis (valdovas, XV a.)]]
 - [[objektai/asmenys/Kerim Berdis]]
 - [[objektai/asmenys/Kerimberdėjus]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
 - [[objektai/asmenys/Klausigaila]]
 - [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
+- [[objektai/asmenys/Kontarinis (pasiuntinys, XV a.)]]
 - [[objektai/asmenys/Krunevičius]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Leicis]]
@@ -123,6 +126,7 @@ Objektų skaičius: 1262.
 - [[objektai/asmenys/Mikalojus (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Mikalojus Dzerško]]
 - [[objektai/asmenys/Mikalojus Dziežgavičius]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Mikalojus Laurinavičius]]
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
 - [[objektai/asmenys/Mikalojus Sepienskis]]
@@ -161,6 +165,7 @@ Objektų skaičius: 1262.
 - [[objektai/asmenys/Skiparas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
+- [[objektai/asmenys/Sofija Alšėniškė]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/asmenys/Stankus Mordašas]]
@@ -273,6 +278,7 @@ Objektų skaičius: 1262.
 ### Daiktai
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/daiktai/Arbaletas]]
 - [[objektai/daiktai/Arisaka 30 modelio šautuvas]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
@@ -289,6 +295,7 @@ Objektų skaičius: 1262.
 - [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/Kardas]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/daiktai/Katinas kaip stabmeldiškosios laisvės ženklas]]
 - [[objektai/daiktai/Kauno miesto antspaudas]]
@@ -300,9 +307,11 @@ Objektų skaičius: 1262.
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
+- [[objektai/daiktai/plunksnuota kepuraitė]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
 - [[objektai/daiktai/Sabalų kailiniai]]
 - [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/daiktai/strėlinė (daiktas)]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Varpai]]
@@ -819,6 +828,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]
 - [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
 - [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/ivykiai/Abiejų Tautų Respublikos žlugimas]]
 - [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
@@ -863,6 +873,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]
 - [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
+- [[objektai/ivykiai/Kazimiero Jogailaičio ir Elžbietos Habsburgaitės vestuvės]]
 - [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]
 - [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas]]
 - [[objektai/ivykiai/Kazimiero Žaslių suteikimas Jonui Goštautui]]
@@ -872,6 +883,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]
+- [[objektai/ivykiai/Kontarinio priėmimas Trakuose]]
 - [[objektai/ivykiai/Kryžiuočių antpuolis Volkovysko apygardoje (1410 m. pradžia)]]
 - [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]
 - [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]
@@ -897,6 +909,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/ivykiai/Martyno Truchsesso vizitas į Trakus ir derybos]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]
 - [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
@@ -911,6 +924,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
 - [[objektai/ivykiai/Mūšis ties upe Usviete]]
 - [[objektai/ivykiai/Mūšis ties Usviete]]
+- [[objektai/ivykiai/Naugarduko parapijos bažnyčios privilegijos tvirtinimas|Naugarduko parapijos bažnyčios privilegijos tvirtinimas (privilegija, XV a.)]]
 - [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
 - [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]
@@ -927,6 +941,7 @@ Objektų skaičius: 1262.
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
 - [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
+- [[objektai/ivykiai/Radvilos Astikaičio laidotuvės]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]
@@ -1143,6 +1158,7 @@ Objektų skaičius: 1262.
 - [[objektai/saltiniai/Prūsijos žemės kronika (iki 1450 m.)]]
 - [[objektai/saltiniai/Pskovo metraštis]]
 - [[objektai/saltiniai/Pskovo prekybos sutartis su Švitrigaila]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Radvilų archyvas Kardinalijoje]]
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
 - [[objektai/saltiniai/Regesta Lithnaniae]]

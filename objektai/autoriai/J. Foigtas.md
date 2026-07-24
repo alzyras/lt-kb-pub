@@ -108,7 +108,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 <a id="claim-t-190727"></a>
 - t-005
   teiginys: "Teodoras Narbutas poną Foigtą vadino įžymiu autoriumi, kuris darbštumu ir talentais atskleidė kryžiuočių dokumentų bei kronikų turtingumą."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

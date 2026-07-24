@@ -45,7 +45,7 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Gediminas užkariavo Kijevą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Gediminas užkariavo Kijevas (0.98); Gediminas užėmė Brianskas (0.97); Gediminas užėmė Perejeslavlis (0.94); Gediminas užkariavo Volynė (0.92); Gediminas užkariavo Severskas (0.88)"
+  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.97); Gediminas užėmė Perejeslavlis (0.94); Gediminas užkariavo Volynė (0.92); Gediminas užkariavo Severskas (0.88)"
   pagrindžia:
     - c-168749
 

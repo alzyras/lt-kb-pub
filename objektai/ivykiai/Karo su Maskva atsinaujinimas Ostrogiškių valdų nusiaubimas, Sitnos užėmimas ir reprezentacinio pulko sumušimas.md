@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-196174"></a>
 - t-002
   teiginys: "Per derybas maskvėnai pareikalavo amžinam Maskvos valdymui perduoti didžiojo kunigaikščio užimtas žemes."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

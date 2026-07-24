@@ -75,7 +75,7 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
 <a id="claim-t-200508"></a>
 - t-003
   teiginys: "Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio rezidencijoje."
-  atnaujinta: "2026-07-23 19:41"
+  atnaujinta: "2026-07-24 15:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): 0.85"

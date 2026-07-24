@@ -83,7 +83,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Kijevo luomai prisiekė paklusti Gedimino valdžiai."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Gediminas valdė Kijevas (0.72)"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168855
@@ -104,7 +103,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gediminas užėmė Kijevą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Gediminas užėmė Kijevas (0.98); Gediminas užėmė Brianskas (0.96); Gediminas užėmė Perejeslavlis (0.94)"
+  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.96); Gediminas užėmė Perejeslavlis (0.94)"
   pagrindžia:
     - c-168856
 

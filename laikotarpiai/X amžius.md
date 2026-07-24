@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "X amžius"
 periodo_pradzia: 901
 periodo_pabaiga: 1000
-periodo_objektu_skaicius: 31
+periodo_objektu_skaicius: 32
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 31.
+Objektų skaičius: 32.
 
 ## Susiję objektai
 
@@ -48,6 +48,7 @@ Objektų skaičius: 31.
 - [[objektai/vietos/Vilnius]]
 
 ### Įvykiai
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]

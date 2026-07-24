@@ -41,7 +41,7 @@ media_all_json: |-
 <a id="claim-t-193494"></a>
 - t-001
   teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -253,7 +253,7 @@ Objektų skaičius: 508.
 - [Kazimieras Didysis](../objektai/asmenys/Kazimieras%20Didysis)
 - [Kazimieras III Didysis](../objektai/asmenys/Kazimieras%20III%20Didysis)
 - [Kazimieras IV](../objektai/asmenys/Kazimieras%20IV)
-- [Kazimieras Jogailaitis](../objektai/asmenys/Kazimieras%20Jogailaitis)
+- [Kazimieras Jogailaitis (valdovas, XV a.)](../objektai/asmenys/Kazimieras%20Jogailaitis)
 - [Kazimieras Skirgaila (Lenkijos karalius)](../objektai/asmenys/Kazimieras%20Skirgaila)
 - [Kiprijonas (Vilniaus sufraganas)](../objektai/asmenys/Kiprijonas%20%28Vilniaus%20sufraganas%29)
 - [Kiti priedo I vaitų ir burmistrų sąrašo kandidatai](../objektai/asmenys/Kiti%20priedo%20I%20vait%C5%B3%20ir%20burmistr%C5%B3%20s%C4%85ra%C5%A1o%20kandidatai)

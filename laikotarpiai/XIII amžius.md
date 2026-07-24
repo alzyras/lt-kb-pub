@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1049
+periodo_objektu_skaicius: 1051
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1049.
+Objektų skaičius: 1051.
 
 ## Susiję objektai
 
@@ -177,6 +177,7 @@ Objektų skaičius: 1049.
 - [[objektai/asmenys/Odoničius]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
 - [[objektai/asmenys/Olga]]
+- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]]
 - [[objektai/asmenys/Otokaras II]]
 - [[objektai/asmenys/Otonas]]
@@ -668,6 +669,7 @@ Objektų skaičius: 1049.
 - [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas]]
 - [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
 - [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.)]]
 - [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
 - [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]

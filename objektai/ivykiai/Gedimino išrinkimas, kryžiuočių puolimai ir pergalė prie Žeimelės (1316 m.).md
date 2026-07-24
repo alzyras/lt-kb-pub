@@ -83,7 +83,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai mini Kauno pilies užėmimą ir gynėjų išžudymą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kauno pilis (pilis) (0.95); Kryžiuočių ordinas užėmė Jurbarkas (0.91); Kryžiuočių ordinas užėmė Kaunas (0.91)"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kauno pilis (pilis) (0.95); Kryžiuočių ordinas užėmė Kaunas (0.91)"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168850

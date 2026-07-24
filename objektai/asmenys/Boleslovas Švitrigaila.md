@@ -46,7 +46,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Boleslovas Švitrigaila pasitraukė į Kijevą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Boleslovas Švitrigaila keliavo į Kijevas (0.88)"
   pagrindžia:
     - c-169293
 

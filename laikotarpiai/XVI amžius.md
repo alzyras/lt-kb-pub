@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVI amžius"
 periodo_pradzia: 1501
 periodo_pabaiga: 1600
-periodo_objektu_skaicius: 1305
+periodo_objektu_skaicius: 1313
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1305.
+Objektų skaičius: 1313.
 
 ## Susiję objektai
 
@@ -66,6 +66,7 @@ Objektų skaičius: 1305.
 - [[objektai/asmenys/Ivanas Fiodorovas]]
 - [[objektai/asmenys/Ivanas Hornostajus]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
+- [[objektai/asmenys/Jarošas Čechavičius]]
 - [[objektai/asmenys/Jeronimas Opachovskis]]
 - [[objektai/asmenys/Jokūbas Babičius]]
 - [[objektai/asmenys/Jokūbas Lencicijus]]
@@ -119,6 +120,7 @@ Objektų skaičius: 1305.
 - [[objektai/asmenys/Mickus Pocaitis]]
 - [[objektai/asmenys/Mikalojus Daukša]]
 - [[objektai/asmenys/Mikalojus Husovianas]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Lancicijus]]
 - [[objektai/asmenys/Mikalojus Radvila]]
@@ -638,6 +640,8 @@ Objektų skaičius: 1305.
 - [[objektai/vietos/Kulmas]]
 - [[objektai/vietos/Kulmo žemė]]
 - [[objektai/vietos/Kuoknesė]]
+- [[objektai/vietos/Kurtuvėnai (vieta)]]
+- [[objektai/vietos/Kurtuvėnų dvaras]]
 - [[objektai/vietos/Kuršas]]
 - [[objektai/vietos/Kuršo gubernija]]
 - [[objektai/vietos/Kłeckas]]
@@ -832,7 +836,9 @@ Objektų skaičius: 1305.
 
 ### Įvykiai
 - [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]
+- [[objektai/ivykiai/1557 m. Kurtuvėnų katalikų bažnyčios nusavinimas ir perdavimas evangelikams]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/ivykiai/Abiejų Tautų Respublikos žlugimas]]
 - [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]
@@ -863,6 +869,7 @@ Objektų skaičius: 1305.
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/ivykiai/Kražių valdos laikytojo paskyrimas]]
 - [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
 - [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]
 - [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]
@@ -1150,6 +1157,7 @@ Objektų skaičius: 1305.
 - [[objektai/saltiniai/Prūsijos valdžios gromatos]]
 - [[objektai/saltiniai/Prūsijos žemės kronika]]
 - [[objektai/saltiniai/Pulavų bibliotekos rankraščiai]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.)]]
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
 - [[objektai/saltiniai/Regesta Lithnaniae]]

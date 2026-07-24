@@ -86,24 +86,8 @@ Nenurodyta
   pagrindžia:
     - c-155997
 
-<a id="claim-t-171454"></a>
-- t-003
-  teiginys: "Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės."
-  atnaujinta: "2026-07-23 20:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-155996
-
 <a id="claim-t-171455"></a>
-- t-004
+- t-003
   teiginys: "Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -122,7 +106,7 @@ Nenurodyta
     - c-11823
 
 <a id="claim-t-171457"></a>
-- t-005
+- t-004
   teiginys: "Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -138,7 +122,7 @@ Nenurodyta
     - c-11827
 
 <a id="claim-t-171458"></a>
-- t-006
+- t-005
   teiginys: "1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,7 +141,7 @@ Nenurodyta
     - c-155995
 
 <a id="claim-t-171459"></a>
-- t-007
+- t-006
   teiginys: "Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -175,7 +159,7 @@ Nenurodyta
     - c-43029
 
 <a id="claim-t-171460"></a>
-- t-008
+- t-007
   teiginys: "Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,7 +175,7 @@ Nenurodyta
     - c-155996
 
 <a id="claim-t-171461"></a>
-- t-009
+- t-008
   teiginys: "Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -211,7 +195,7 @@ Nenurodyta
     - c-43030
 
 <a id="claim-t-171462"></a>
-- t-010
+- t-009
   teiginys: "1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -229,7 +213,7 @@ Nenurodyta
     - c-11826
 
 <a id="claim-t-171463"></a>
-- t-011
+- t-010
   teiginys: "1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -248,7 +232,7 @@ Nenurodyta
     - c-155998
 
 <a id="claim-t-171464"></a>
-- t-012
+- t-011
   teiginys: "Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -294,8 +278,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-012
+    - t-003
+    - t-011
 
 - id: c-11826
   sudarytojas: "Karolis Zikaras"
@@ -314,7 +298,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-11827
   sudarytojas: "Karolis Zikaras"
@@ -332,7 +316,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-43029
   sudarytojas: "Karolis Zikaras"
@@ -360,7 +344,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-43030
   sudarytojas: "Karolis Zikaras"
@@ -379,7 +363,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-155995
   sudarytojas: "Karolis Zikaras"
@@ -405,7 +389,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-155996
   sudarytojas: "Karolis Zikaras"
@@ -439,8 +423,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-008
+    - t-007
 
 - id: c-155997
   sudarytojas: "Karolis Zikaras"
@@ -493,4 +476,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-011
+    - t-010

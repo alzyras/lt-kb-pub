@@ -75,7 +75,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 <a id="claim-t-188418"></a>
 - t-003
   teiginys: "Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVII amžius"
 periodo_pradzia: 1601
 periodo_pabaiga: 1700
-periodo_objektu_skaicius: 943
+periodo_objektu_skaicius: 947
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 943.
+Objektų skaičius: 947.
 
 ## Susiję objektai
 
@@ -73,6 +73,7 @@ Objektų skaičius: 943.
 - [[objektai/asmenys/Michailas Fiodorovičius Romanovas]]
 - [[objektai/asmenys/Mickus Pocaitis]]
 - [[objektai/asmenys/Mikalojus Daukša]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Mikalojus Lancicijus]]
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
@@ -615,6 +616,8 @@ Objektų skaičius: 943.
 - [[objektai/vietos/Žitomiras]]
 
 ### Įvykiai
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
+- [[objektai/ivykiai/1631 m. birželio 15 d. Krasnogališkių kalvinistų bažnyčios pašventinimas ir Jono Monkevičiaus įvesdinimas]]
 - [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/ivykiai/Abiejų Tautų Respublikos žlugimas]]
 - [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]
@@ -851,6 +854,7 @@ Objektų skaičius: 943.
 - [[objektai/saltiniai/Preussisches Urkundenbuch Politische Abtheilung]]
 - [[objektai/saltiniai/Prūsijos valdžios gromatos]]
 - [[objektai/saltiniai/Prūsijos žemės kronika]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Radvilos laiškas dėl lenkų kalbos vartojimo (1615 m.)]]
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
 - [[objektai/saltiniai/Regesta Lithnaniae]]

@@ -163,7 +163,7 @@ Objektų skaičius: 294.
 - [Karolis](../objektai/asmenys/Karolis)
 - [Karolis (didysis magistras)](../objektai/asmenys/Karolis%20%28didysis%20magistras%29)
 - [Kazimieras (Konrado sūnus)](../objektai/asmenys/Kazimieras%20%28Konrado%20s%C5%ABnus%29)
-- [Kazimieras Jogailaitis](../objektai/asmenys/Kazimieras%20Jogailaitis)
+- [Kazimieras Jogailaitis (valdovas, XV a.)](../objektai/asmenys/Kazimieras%20Jogailaitis)
 - [Kerim Berdis](../objektai/asmenys/Kerim%20Berdis)
 - [Kerimberdėjus](../objektai/asmenys/Kerimberd%C4%97jus)
 - [Kerskorfas](../objektai/asmenys/Kerskorfas)

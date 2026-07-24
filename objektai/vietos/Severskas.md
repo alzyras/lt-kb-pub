@@ -90,7 +90,7 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Gedimino veiksmas tiesiogiai išreikštas žodžiais „Užėmęs Brianską“."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.90); Gediminas užkariavo Kijevas (0.90); Gediminas užėmė Perejeslavlis (0.86); Gediminas užkariavo Volynė (0.86); Gediminas užkariavo Severskas (0.84)"
+  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.90); Gediminas užėmė Perejeslavlis (0.86); Gediminas užkariavo Volynė (0.86); Gediminas užkariavo Severskas (0.84); Gediminas keliavo į Severskas (0.82)"
   pagrindžia:
     - c-168495
 
@@ -394,6 +394,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kaributas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Puolė Severską: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - Severskas priklausė [[objektai/vietos/Lietuva]]

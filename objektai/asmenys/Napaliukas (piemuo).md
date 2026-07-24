@@ -67,16 +67,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   pagrindžia:
     - c-177658
 
-<a id="claim-t-195294"></a>
-- t-003
-  teiginys: "Napaliukas klausinėjo apie atlygį už Baltro pagalbą."
-  atnaujinta: "2026-07-23 21:02"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177656
-
 ## Citatos
 
 - id: c-177656
@@ -102,7 +92,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-177657
   autorius: "M. Katkus"

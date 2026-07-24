@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XX amžius"
 periodo_pradzia: 1901
 periodo_pabaiga: 2000
-periodo_objektu_skaicius: 2748
+periodo_objektu_skaicius: 2750
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 2748.
+Objektų skaičius: 2750.
 
 ## Susiję objektai
 
@@ -159,6 +159,7 @@ Objektų skaičius: 2748.
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/asmenys/Michailas Kalininas]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Mykolas Biržiška]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/asmenys/N. Chruščiovas]]
@@ -2343,6 +2344,7 @@ Objektų skaičius: 2748.
 - [[objektai/saltiniai/Prūsijos žemės kronika]]
 - [[objektai/saltiniai/Prūsų kalba]]
 - [[objektai/saltiniai/Pskovskije letopisi]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Rankraščių rinkiniai Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX amžių rankraščių fondų trumpa apžvalga Sudarė V. Abramavičiu]]
 - [[objektai/saltiniai/Raudonasis rojus]]
 - [[objektai/saltiniai/Raštai. T. 1]]

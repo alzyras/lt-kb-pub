@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189775"></a>
 - t-001
   teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-24 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

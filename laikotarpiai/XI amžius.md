@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XI amžius"
 periodo_pradzia: 1001
 periodo_pabaiga: 1100
-periodo_objektu_skaicius: 107
+periodo_objektu_skaicius: 108
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 107.
+Objektų skaičius: 108.
 
 ## Susiję objektai
 
@@ -102,6 +102,7 @@ Objektų skaičius: 107.
 - [[objektai/vietos/Vokietija]]
 
 ### Įvykiai
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]

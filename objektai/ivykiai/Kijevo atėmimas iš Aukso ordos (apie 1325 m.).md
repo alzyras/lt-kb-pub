@@ -66,7 +66,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Kijevas tiesiogiai nurodomas kaip atimtas iš Aukso ordos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas užėmė Kijevas (0.94); Gediminas surengė žygį į Kijevas (0.92); Kijevas priklausė Auksinė Orda (0.82); Gediminas kariavo prieš Auksinė Orda (0.78)"
+  semantiniai_rysiai: "Gediminas kariavo prieš Auksinė Orda (0.78)"
   temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: apie 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."

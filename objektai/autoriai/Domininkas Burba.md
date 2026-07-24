@@ -44,7 +44,7 @@ Domininkas Burba yra šio straipsnio autorius.
 <a id="claim-t-200432"></a>
 - t-001
   teiginys: "Domininkas Burba yra šio straipsnio autorius."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 14:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"

@@ -45,7 +45,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176250"></a>
 - t-001
   teiginys: "Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-23 21:00"
+  atnaujinta: "2026-07-24 15:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Skirgaila: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -191,7 +191,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176266"></a>
 - t-009
   teiginys: "Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą."
-  atnaujinta: "2026-07-23 21:00"
+  atnaujinta: "2026-07-24 15:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"

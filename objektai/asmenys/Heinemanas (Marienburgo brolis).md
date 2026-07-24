@@ -40,7 +40,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 <a id="claim-t-60303"></a>
 - t-001
   teiginys: "Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį."
-  atnaujinta: "2026-07-23 20:10"
+  atnaujinta: "2026-07-24 15:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Marienburgas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"

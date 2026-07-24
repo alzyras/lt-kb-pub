@@ -62,7 +62,7 @@ media_all_json: |-
 <a id="claim-t-188571"></a>
 - t-002
   teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
-  atnaujinta: "2026-07-23 20:35"
+  atnaujinta: "2026-07-24 14:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

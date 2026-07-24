@@ -108,7 +108,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 <a id="claim-t-97214"></a>
 - t-005
   teiginys: "Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius."
-  atnaujinta: "2026-07-23 19:58"
+  atnaujinta: "2026-07-24 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kalavijuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -123,7 +123,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su Saulės mūšio aiškinimu."
   pagrindžia:
-    - c-91696
     - c-91697
 
 ## Reikšmingi paminėjimai
@@ -211,7 +210,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
 
 - id: c-91697
   autorius: "Petras Dusburgietis"

@@ -190,13 +190,12 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101476"></a>
 - t-011
   teiginys: "Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas."
-  atnaujinta: "2026-07-23 20:08"
+  atnaujinta: "2026-07-24 15:00"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22645
     - c-22646
-    - c-166553
 
 <a id="claim-t-183166"></a>
 - t-012
@@ -385,5 +384,4 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-002
     - t-005
     - t-009
-    - t-011
     - t-012

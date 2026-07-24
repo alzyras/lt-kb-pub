@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIV amžius"
 periodo_pradzia: 1301
 periodo_pabaiga: 1400
-periodo_objektu_skaicius: 1471
+periodo_objektu_skaicius: 1473
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1471.
+Objektų skaičius: 1473.
 
 ## Susiję objektai
 
@@ -212,6 +212,7 @@ Objektų skaičius: 1471.
 - [[objektai/asmenys/Nestanas]]
 - [[objektai/asmenys/Odoničius]]
 - [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Ostapas Kropotkovas]]
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
@@ -921,6 +922,7 @@ Objektų skaičius: 1471.
 - [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]
 - [[objektai/ivykiai/1387 m. pirmoji ranka Vilniaus šventyklai sugriauti]]
 - [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
+- [[objektai/ivykiai/1629 m. balandžio 1 d. Krasnogališkių įsigijimas]]
 - [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]

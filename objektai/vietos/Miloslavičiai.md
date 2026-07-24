@@ -45,7 +45,7 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
   ryšio_targeto_parinkimas: "Miloslavičiai: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila jojo į Miloslavičius."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Skirgaila keliavo į Miloslavičiai (0.91); Skirgaila mirė Kijevas (0.82)"
+  semantiniai_rysiai: "Skirgaila keliavo į Miloslavičiai (0.91)"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170562

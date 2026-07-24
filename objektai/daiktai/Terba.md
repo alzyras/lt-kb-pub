@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-195300"></a>
 - t-001
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-24 11:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"

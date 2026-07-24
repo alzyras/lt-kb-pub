@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIX amžius"
 periodo_pradzia: 1801
 periodo_pabaiga: 1900
-periodo_objektu_skaicius: 1300
+periodo_objektu_skaicius: 1304
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1300.
+Objektų skaičius: 1304.
 
 ## Susiję objektai
 
@@ -97,12 +97,14 @@ Objektų skaičius: 1300.
 - [[objektai/asmenys/Liudvikas Narbutas]]
 - [[objektai/asmenys/Liudvikas Rėza]]
 - [[objektai/asmenys/M. E. Andriolli]]
+- [[objektai/asmenys/M. J. Römeris]]
 - [[objektai/asmenys/M. Muravjovas]]
 - [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/asmenys/Michailas Muravjovas-Korikas]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/asmenys/Mikalojus Kopernikas]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Motiejus Valančius|Motiejus Valančius (vyskupas, XIX a.)]]
 - [[objektai/asmenys/Mykolas Balinskis]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
@@ -702,6 +704,7 @@ Objektų skaičius: 1300.
 - [[objektai/vietos/Praga]]
 - [[objektai/vietos/Praha]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Prūdžionys (vieta)]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Prūsų žemė]]
 - [[objektai/vietos/Pskovas]]
@@ -1139,6 +1142,7 @@ Objektų skaičius: 1300.
 - [[objektai/saltiniai/Prätorius M. Deliciae Prussicae oder Preussische Schaubühne Im wörtlichen Auszuge aus dem Manuscript herausgegeben von Dr. W. Pierson]]
 - [[objektai/saltiniai/Prūsijos žemės kronika]]
 - [[objektai/saltiniai/Rachunki Justa Ludwika Decyusza]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Radlofo veikalas apie Hesperą ir Fajetoną]]
 - [[objektai/saltiniai/Reden an die deutsche Nation (1808 m.)]]
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]

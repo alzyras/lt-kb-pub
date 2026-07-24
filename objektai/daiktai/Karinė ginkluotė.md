@@ -165,8 +165,25 @@ Nenurodyta
   pagrindžia:
     - c-12235
 
-<a id="claim-t-193744"></a>
+<a id="claim-t-78665"></a>
 - t-008
+  teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
+  atnaujinta: "2026-07-24 15:57"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karinė ginkluotė: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karinė ginkluotė priklausė Lietuviai (0.86)"
+  pagrindžia:
+    - c-05216
+
+<a id="claim-t-193744"></a>
+- t-009
   teiginys: "Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -192,10 +209,12 @@ Nenurodyta
   citata_rodoma: "Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė\ngrobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.\nVartojo lietuviai dar ietis ir kardus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-10250
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -300,7 +319,7 @@ Nenurodyta
   pagrindzia:
     - t-005
     - t-007
-    - t-008
+    - t-009
 
 - id: c-12236
   sudarytojas: "Karolis Zikaras"

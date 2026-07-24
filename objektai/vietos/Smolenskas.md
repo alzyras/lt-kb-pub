@@ -1526,7 +1526,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Sviatoslavas]], [[objektai/asmenys/Švitrigaila]]
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Sofija Vytautaitė]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Smolenską: [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Smolenską: [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis (valdovas, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Smolenską: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Stanislovas Kiška]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Muradas II]]
 - Turėjo priklausinį: [[objektai/grupes/Smolensko pavieto seimelis]]

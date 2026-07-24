@@ -31,7 +31,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 <a id="claim-t-67441"></a>
 - t-001
   teiginys: "Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas."
-  atnaujinta: "2026-07-23 19:58"
+  atnaujinta: "2026-07-24 15:56"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Gardinas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -44,7 +44,6 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   semantiniai_rysiai: "Dovydas Gardiniškis gynė Pskovas (0.91)"
   pagrindžia:
     - c-67338
-    - c-67339
 
 <a id="claim-t-67442"></a>
 - t-002
@@ -98,5 +97,4 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

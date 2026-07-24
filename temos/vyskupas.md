@@ -130,7 +130,7 @@ Objektų skaičius: 248.
 - [Jurgis Astikas](../objektai/asmenys/Jurgis%20Astikas)
 - [Jurgis Matulaitis](../objektai/asmenys/Jurgis%20Matulaitis)
 - [Jurgis Radvila (vyskupas, XVI a.)](../objektai/asmenys/Jurgis%20Radvila)
-- [Kazimieras Jogailaitis](../objektai/asmenys/Kazimieras%20Jogailaitis)
+- [Kazimieras Jogailaitis (valdovas, XV a.)](../objektai/asmenys/Kazimieras%20Jogailaitis)
 - [Kerimberdėjus](../objektai/asmenys/Kerimberd%C4%97jus)
 - [Kiprijonas](../objektai/asmenys/Kiprijonas)
 - [Klemensas VIII](../objektai/asmenys/Klemensas%20VIII)

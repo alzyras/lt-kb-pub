@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-195298"></a>
 - t-001
   teiginys: "Balana pateikiama kaip senosios gadynės apšvietimo priemonė, tiesiogiai sutapatinta su „skala“."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"

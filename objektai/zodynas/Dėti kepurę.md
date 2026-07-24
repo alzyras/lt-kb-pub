@@ -38,7 +38,7 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
 <a id="claim-t-189124"></a>
 - t-001
   teiginys: "Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose."
-  atnaujinta: "2026-07-23 21:02"
+  atnaujinta: "2026-07-24 15:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

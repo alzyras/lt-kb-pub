@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVIII amžius"
 periodo_pradzia: 1701
 periodo_pabaiga: 1800
-periodo_objektu_skaicius: 1019
+periodo_objektu_skaicius: 1021
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1019.
+Objektų skaičius: 1021.
 
 ## Susiję objektai
 
@@ -84,6 +84,7 @@ Objektų skaičius: 1019.
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
 - [[objektai/asmenys/Mikalojus Daukša]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/asmenys/Mikalojus Kremderis]]
 - [[objektai/asmenys/Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)]]
 - [[objektai/asmenys/Motiejus Dominikas Dogelis]]
 - [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]
@@ -931,6 +932,7 @@ Objektų skaičius: 1019.
 - [[objektai/saltiniai/Prūsijos valdžios gromatos]]
 - [[objektai/saltiniai/Prūsijos žemės kronika]]
 - [[objektai/saltiniai/Puolimo bei gynimosi sutartis (1793 m.)]]
+- [[objektai/saltiniai/Rachunki królewskie z lat 1471-1472 i 1476-1478]]
 - [[objektai/saltiniai/Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525]]
 - [[objektai/saltiniai/Regesta Lithnaniae]]
 - [[objektai/saltiniai/Regesta Lithuaniae]]

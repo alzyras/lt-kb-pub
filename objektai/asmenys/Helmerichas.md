@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 <a id="claim-t-89794"></a>
 - t-001
   teiginys: "Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje."
-  atnaujinta: "2026-07-23 20:34"
+  atnaujinta: "2026-07-24 13:40"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Kulmenzė: 0.95"
   ryšio_patikimumo_lygis: "aukstas"

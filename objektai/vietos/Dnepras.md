@@ -137,7 +137,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Chionitai apibūdinti kaip graikų kolonistai, gyvenę Dnepro dešiniajame krante; kandidatų sąraše nėra chionitų, todėl ryšys vedamas su graikais vidutiniu tikrumu."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Graikai gyveno Dnepras (0.70); Graikai gyveno Kijevas (0.62)"
+  semantiniai_rysiai: "Graikai gyveno Dnepras (0.70)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175413

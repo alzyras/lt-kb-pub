@@ -96,7 +96,7 @@ Nenurodyta
 <a id="claim-t-196953"></a>
 - t-003
   teiginys: "Apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku."
-  atnaujinta: "2026-07-23 20:08"
+  atnaujinta: "2026-07-24 14:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
