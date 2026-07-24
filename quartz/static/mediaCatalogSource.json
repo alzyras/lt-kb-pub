@@ -106379,7 +106379,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "depicts",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         }
       ],
       "relationType": "depicts",
@@ -109342,7 +109342,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "painting_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         }
       ],
       "relationType": "painting_of",
@@ -127339,7 +127339,7 @@
       "dateDisplay": "1692",
       "dateEnd": null,
       "dateStart": null,
-      "displayUrl": "https://www.dropbox.com/s/x1bbi34u8tuj8ke/Lithuania_2a_Palloni_M_The_Opening_of_the_Coffin_of_St_Casimir_1692.jpg?raw=1",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fx1bbi34u8tuj8ke%2FLithuania_2a_Palloni_M_The_Opening_of_the_Coffin_of_St_Casimir_1692.jpg%3Fraw%3D1&type=IMAGE",
       "height": null,
       "institution": "",
       "isPrimary": 0,
@@ -154125,7 +154125,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "event_documentation_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         }
       ],
       "relationType": "depicts",
@@ -154310,7 +154310,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "seal_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         }
       ],
       "relationType": "seal_of",
@@ -154629,7 +154629,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "seal_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         },
         {
           "directness": "contextual",
@@ -154765,7 +154765,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "seal_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         },
         {
           "directness": "contextual",
@@ -154927,7 +154927,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
           "relationType": "seal_of",
-          "title": "Kazimieras Jogailaitis"
+          "title": "Kazimieras Jogailaitis (valdovas, XV a.)"
         },
         {
           "directness": "contextual",
@@ -174604,7 +174604,7 @@
       "dateEnd": null,
       "dateStart": null,
       "directness": "direct",
-      "displayUrl": "http://bc.wbp.lublin.pl/Content/23392/POCZ_U_8124.jpg",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbc.wbp.lublin.pl%2FContent%2F23392%2FPOCZ_U_8124.jpg&type=TEXT",
       "firstDiscoveredAt": "2026-07-19T01:22:51.489842+03:00",
       "height": null,
       "institution": "",
@@ -176780,7 +176780,7 @@
       "dateDisplay": "",
       "dateEnd": null,
       "dateStart": null,
-      "displayUrl": "https://www.dropbox.com/s/z0a3yiali3xssnt/Lithuania_1s_Unknown_The_Mother_of_God_of_Trakai_Our_Lady_of_Trakai.jpg?raw=1",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fz0a3yiali3xssnt%2FLithuania_1s_Unknown_The_Mother_of_God_of_Trakai_Our_Lady_of_Trakai.jpg%3Fraw%3D1&type=IMAGE",
       "height": null,
       "institution": "",
       "isPrimary": 0,
@@ -179832,7 +179832,7 @@
       "dateDisplay": "",
       "dateEnd": null,
       "dateStart": null,
-      "displayUrl": "https://www.dropbox.com/s/mnq3vpk3hfxrl7e/Lithuania_3b_Smuglevicius_P_Scythian_Messengers_Meet_the_Persian_King_Darius_I.jpg?raw=1",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fmnq3vpk3hfxrl7e%2FLithuania_3b_Smuglevicius_P_Scythian_Messengers_Meet_the_Persian_King_Darius_I.jpg%3Fraw%3D1&type=IMAGE",
       "height": null,
       "institution": "",
       "isPrimary": 0,
@@ -181409,7 +181409,7 @@
       "dateDisplay": "",
       "dateEnd": null,
       "dateStart": null,
-      "displayUrl": "https://www.dropbox.com/s/2a6n1spcvzvdjsu/Lithuania_3a_Smuglevicius_P_Persian_Envoys_before_the_King_of_Ethiopia.jpg?raw=1",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.dropbox.com%2Fs%2F2a6n1spcvzvdjsu%2FLithuania_3a_Smuglevicius_P_Persian_Envoys_before_the_King_of_Ethiopia.jpg%3Fraw%3D1&type=IMAGE",
       "height": null,
       "institution": "",
       "isPrimary": 0,
@@ -196420,7 +196420,7 @@
       "dateDisplay": "",
       "dateEnd": null,
       "dateStart": null,
-      "displayUrl": "https://www.dropbox.com/s/iocupspaewngkz1/Poland_BattleofOrsha_.jpg?raw=1",
+      "displayUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fiocupspaewngkz1%2FPoland_BattleofOrsha_.jpg%3Fraw%3D1&type=IMAGE",
       "height": null,
       "institution": "",
       "isPrimary": 0,
