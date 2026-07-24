@@ -1,7 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import { unescapeHTML } from "../quartz/util/escape"
-import { displayCaption, mediaDetailUrl, mediaImageUrl, type MediaEntry } from "../quartz/util/objectMedia"
+import { displayCaption, mediaDetailSlug, mediaImageUrl, type MediaEntry } from "../quartz/util/objectMedia"
 
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
 const siteOrigin = String(process.env.SITE_ORIGIN ?? "https://lietuvosistorija.eu").replace(/\/$/, "")
@@ -28,7 +28,10 @@ function readJson<T>(relativePath: string): T | undefined {
 }
 
 function htmlForMedia(entry: MediaEntry): { relative: string; html: string } | undefined {
-  const relative = `${mediaDetailUrl(entry).replace(/^\/+/, "")}/index.html`
+  // Gallery pages and their sitemap entries are emitted from the canonical
+  // title+media-id slug. `detailUrl` may be a legacy redirect and must not be
+  // used as the SEO verification target.
+  const relative = `${mediaDetailSlug(entry).replace(/^\/+/, "")}/index.html`
   const filePath = path.join(publicRoot, relative)
   if (!fs.existsSync(filePath)) return undefined
   return { relative, html: fs.readFileSync(filePath, "utf8") }
@@ -102,7 +105,7 @@ if (!Array.isArray(catalog) || !catalog.length) {
       fail(failures, `${mediaId}: missing gallery detail page`)
       continue
     }
-    const canonicalUrl = `${siteOrigin}${mediaDetailUrl(entry)}`
+    const canonicalUrl = `${siteOrigin}/${mediaDetailSlug(entry)}`
     if (!page.html.includes(`<link rel="canonical" href="${htmlEscape(canonicalUrl)}"`)) {
       fail(failures, `${page.relative}: missing or incorrect canonical URL`)
     }
