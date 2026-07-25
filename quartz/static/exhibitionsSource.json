@@ -4,7 +4,10 @@
       "description": "Chronologinė skaitmeninė paroda seka, kaip kito Vytauto vaizdas: nuo jo laikų dokumentų, monetų ir heraldikos iki pomirtinių graviūrų, istorinių scenų ir XIX–XX a. pradžios portretų. Kiekvieno eksponato data čia žymi paties vaizdo ar daikto sukūrimo laiką, o ne vaizduojamo įvykio datą.",
       "exhibitionId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
       "heroMediaId": "m-f396e7f6eccd59dd3f8167fc",
-      "legacySlugs": ["parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo"],
+      "legacySlugs": [
+        "parodos/vytautas-didysis-ikonografijos-raida",
+        "parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo"
+      ],
       "sections": [
         {
           "items": [
@@ -195,6 +198,19 @@
               "claimRefs": []
             },
             {
+              "exhibitionItemId": "hist-veidas-03",
+              "mediaId": "m-25a52d83da16bb71dce53621",
+              "titleLt": "Guagnini atvaizdo atkūrimas, 1885",
+              "descriptionLt": "1885 m. kūrinys grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms ir kiek ilgai vienas Vytauto veidas galėjo gyvuoti.",
+              "catalogDescriptionLt": "1885 m. kūrinys sąmoningai grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms.",
+              "featured": false,
+              "relation": {
+                "kind": "reproduction_of",
+                "targetItemId": "hist-pomirtinis-01"
+              },
+              "claimRefs": []
+            },
+            {
               "exhibitionItemId": "hist-pomirtinis-02",
               "mediaId": "m-51353d97f244528b962f46db",
               "titleLt": "XVII amžiaus Vytauto portretas",
@@ -255,6 +271,21 @@
                   "role": "contextual"
                 }
               ]
+            },
+            {
+              "exhibitionItemId": "hist-katalogas-08",
+              "mediaId": "m-d0f45f8e764022d84712e3d2",
+              "titleLt": "XVIII amžiaus portreto variantas",
+              "descriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą.",
+              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą. Lyginant jį su pagrindiniu šio laikotarpio portretu matyti, kaip ta pati valdovo idėja buvo kartojama keičiant aprangą, laikyseną ir aplinką.",
+              "creatorDisplay": "Nežinomas autorius",
+              "dateDisplay": "XVIII a.",
+              "featured": false,
+              "relation": {
+                "kind": "variant_of",
+                "targetItemId": "hist-pomirtinis-03"
+              },
+              "claimRefs": []
             }
           ],
           "sectionId": "vyt-istorijos-scena-xviii",
@@ -296,14 +327,14 @@
               "titleLt": "Portretinė graviūra, 1837–1838",
               "descriptionLt": "1837–1838 m. graviūra rodo kitą Vytauto atvaizdo gyvenimą – jo sklaidą spaudoje. Reprodukuojamas veidas tapo lengviau atpažįstamas, pakartojamas ir prieinamas vis naujam žiūrovui.",
               "catalogDescriptionLt": "1837–1838 m. graviūra rodo, kaip valdovo atvaizdas galėjo plisti spaudoje. Reprodukuojamas veidas tapo lengviau atpažįstamas ir pakartojamas.",
-              "featured": true,
+              "featured": false,
               "claimRefs": []
             },
             {
               "catalogDescriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas. Jis leidžia atskirti istorinį asmenį nuo po kelių šimtmečių sukurto jo veido ir pradeda parodos dialogą tarp istorijos bei atvaizdo.",
               "descriptionLt": "Jano Hesse 1842 m. graviūroje Vytautas pasirodo karūnuotas, šarvuotas ir kalaviju ginkluotas. XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu, bet valdovui suteikė ir savo epochos istorinio didvyrio bruožų. Taip senas vardas gauna naują, įtaigų pavidalą.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-01",
-              "featured": true,
+              "featured": false,
               "mediaId": "m-d40580df0a4d385cdf5d7d00",
               "titleLt": "Veidas iš Nesvyžiaus atminimo",
               "claimRefs": []
@@ -348,64 +379,6 @@
               "descriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Čia dailė kuria autoritetingą valdovo figūrą ir paverčia istoriją matomu pasakojimu.",
               "catalogDescriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Jo vertė parodoje yra ikonografinė, ne dokumentinė.",
               "featured": false,
-              "claimRefs": []
-            }
-          ],
-          "sectionId": "vyt-romantizmo-portretai-1837-1870",
-          "slug": "romantizmo-portretai-1837-1870",
-          "title": "Romantizmo portretai · 1831–1870",
-          "lead": "XIX a. Vytauto veidų sparčiai daugėjo ir jie keliavo per skirtingų šalių leidinius. Graviūros bei tapyba kūrė iškilmingą, atpažįstamą Lietuvos valdovą, nors nė vienas šių autorių negalėjo remtis gyvu modeliu.",
-          "navMediaId": "m-d40580df0a4d385cdf5d7d00",
-          "navImagePosition": "50% 22%",
-          "evidenceNoteLt": "Bendrame teiginių korpuse nėra tiesioginės citatos apie šių XIX a. Vytauto portretų sukūrimą. Autoriai, datos ir kūrinių pavadinimai pateikiami iš patvirtintų galerijos metaduomenų, o vaizdų interpretacija aiškiai žymima kaip parodos pasakojimas.",
-          "claimRefs": []
-        },
-        {
-          "items": [
-            {
-              "exhibitionItemId": "hist-pomirtinis-04",
-              "mediaId": "m-c0011d2677e2dcece9cf8f30",
-              "titleLt": "Mateikos atvaizdas, 1866",
-              "descriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga Vytautą paverčia didelės istorijos veikėju, o pats paveikslas rodo, kaip praeitis buvo įsivaizduojama naujai.",
-              "catalogDescriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga čia sąmoningai atskiriama nuo autentiško portreto klausimo.",
-              "featured": true,
-              "claimRefs": []
-            },
-            {
-              "exhibitionItemId": "hist-veidas-03",
-              "mediaId": "m-25a52d83da16bb71dce53621",
-              "titleLt": "Guagnini atvaizdo atkūrimas, 1885",
-              "descriptionLt": "1885 m. kūrinys grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms ir kiek ilgai vienas Vytauto veidas galėjo gyvuoti.",
-              "catalogDescriptionLt": "1885 m. kūrinys sąmoningai grįžta prie 1578 m. Guagnini ikonografijos. Šis ryšys parodo, kaip senesnė kompozicija buvo perleidžiama naujoms auditorijoms.",
-              "featured": true,
-              "relation": {
-                "kind": "reproduction_of",
-                "targetItemId": "hist-pomirtinis-01"
-              },
-              "claimRefs": []
-            },
-            {
-              "catalogDescriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu – kaip karinis lyderis, kurio tapatybę pirmiausia nusako ginklas. Iliustracija nėra XV a. aprangos ar valdovo išvaizdos liudijimas. Ji rodo XX a. pradžios poreikį turėti aiškų, lengvai atpažįstamą Lietuvos istorijos didvyrio paveikslą, kurį netrukus perims nepriklausomos valstybės atminties kultūra.",
-              "descriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu. Šis karys nėra XV a. portretas – tai XX a. pradžios vaizduotės sukurtas Lietuvos istorijos didvyris. Ginklas ir skydas leidžia valdovo vaidmenį perskaityti akimirksniu, o būtent tokį ryškų tipą netrukus perims nepriklausomos Lietuvos atminties kultūra.",
-              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-03",
-              "featured": true,
-              "mediaId": "m-c6a643bef80f021679128f09",
-              "titleLt": "Karys, kokį įsivaizdavo XX amžiaus pradžia",
-              "claimRefs": []
-            },
-            {
-              "exhibitionItemId": "hist-katalogas-08",
-              "mediaId": "m-d0f45f8e764022d84712e3d2",
-              "titleLt": "XVIII amžiaus portreto variantas",
-              "descriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą.",
-              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą. Lyginant jį su pagrindiniu šio laikotarpio portretu matyti, kaip ta pati valdovo idėja buvo kartojama keičiant aprangą, laikyseną ir aplinką.",
-              "creatorDisplay": "Nežinomas autorius",
-              "dateDisplay": "XVIII a.",
-              "featured": false,
-              "relation": {
-                "kind": "variant_of",
-                "targetItemId": "hist-pomirtinis-03"
-              },
               "claimRefs": []
             },
             {
@@ -453,6 +426,60 @@
               "claimRefs": []
             }
           ],
+          "sectionId": "vyt-romantizmo-portretai-1837-1870",
+          "slug": "romantizmo-portretai-1837-1870",
+          "title": "Romantizmo portretai · 1831–1870",
+          "lead": "XIX a. Vytauto veidų sparčiai daugėjo ir jie keliavo per skirtingų šalių leidinius. Graviūros bei tapyba kūrė iškilmingą, atpažįstamą Lietuvos valdovą, nors nė vienas šių autorių negalėjo remtis gyvu modeliu.",
+          "navMediaId": "m-d40580df0a4d385cdf5d7d00",
+          "navImagePosition": "50% 22%",
+          "evidenceNoteLt": "Bendrame teiginių korpuse nėra tiesioginės citatos apie šių XIX a. Vytauto portretų sukūrimą. Autoriai, datos ir kūrinių pavadinimai pateikiami iš patvirtintų galerijos metaduomenų, o vaizdų interpretacija aiškiai žymima kaip parodos pasakojimas.",
+          "claimRefs": []
+        },
+        {
+          "items": [
+            {
+              "exhibitionItemId": "hist-pomirtinis-04",
+              "mediaId": "m-c0011d2677e2dcece9cf8f30",
+              "titleLt": "Mateikos atvaizdas, 1866",
+              "descriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga Vytautą paverčia didelės istorijos veikėju, o pats paveikslas rodo, kaip praeitis buvo įsivaizduojama naujai.",
+              "catalogDescriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga čia sąmoningai atskiriama nuo autentiško portreto klausimo.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "hist-hero-1878-matejko",
+              "mediaId": "m-856973a6914daf257388781f",
+              "titleLt": "Vytautas Jano Mateikos „Žalgirio mūšio“ fragmente, 1878",
+              "descriptionLt": "1878 m. Jano Mateikos kūrinio fragmente Vytautas pasirodo kaip istorinio mūšio scenos veikėjas. Tai XIX a. istorinis vaizdinys, o ne išlikęs XV a. portretas: kūrinys rodo, kaip Vytauto atminimas buvo įkomponuojamas į didįjį Žalgirio pasakojimą.",
+              "catalogDescriptionLt": "1878 m. Jano Mateikos kūrinio fragmente Vytautas pateikiamas istorinio mūšio scenoje. Vaizdas naudojamas kaip XIX a. istorinis pasakojimas, o ne kaip autentiško Vytauto veido liudijimas.",
+              "creatorDisplay": "Jan Matejko",
+              "dateDisplay": "1878 m.",
+              "evidenceNoteLt": "Katalogo metaduomenys šį failą priskiria Jano Mateikos „Žalgirio mūšio“ detalių grupei; iš kūrinio nedaroma išvada apie XV a. Vytauto išvaizdą.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "hist-hero-1875-starzynski",
+              "mediaId": "m-3d9cc48e7f9a3b7c760eec00",
+              "titleLt": "Vytautas su Gediminaičių stulpais, 1875–1900",
+              "descriptionLt": "Boleslovo Starzyńskio 1875–1900 m. atvaizde Vytautas sėdi iškilmingai, o priešais jį iškeltas Gediminaičių stulpų ženklas. Šis vėlyvas kūrinys jungia valdovo figūrą ir heraldinį simbolį – taip XIX a. pabaigos vaizduotė kūrė atpažįstamą Lietuvos praeities valdovą.",
+              "catalogDescriptionLt": "Boleslovo Starzyńskio kūrinys datuojamas 1875–1900 m. Jame Vytautas vaizduojamas kartu su Gediminaičių stulpais. Parodoje svarbus pats XIX a. pabaigos atvaizdas, o ne failo pavadinime minima ankstesnė kompozicijos nuoroda.",
+              "creatorDisplay": "Bolesław Starzyński",
+              "dateDisplay": "1875–1900 m.",
+              "evidenceNoteLt": "Vaizdas datuojamas pagal patvirtintus medijos metaduomenis; 1555 m. nenurodoma kaip šio išlikusio kūrinio sukūrimo data.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "catalogDescriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu – kaip karinis lyderis, kurio tapatybę pirmiausia nusako ginklas. Iliustracija nėra XV a. aprangos ar valdovo išvaizdos liudijimas. Ji rodo XX a. pradžios poreikį turėti aiškų, lengvai atpažįstamą Lietuvos istorijos didvyrio paveikslą, kurį netrukus perims nepriklausomos valstybės atminties kultūra.",
+              "descriptionLt": "M. Barvickio 1908 m. atvaizde Vytautas rodomas su kalaviju ir skydu. Šis karys nėra XV a. portretas – tai XX a. pradžios vaizduotės sukurtas Lietuvos istorijos didvyris. Ginklas ir skydas leidžia valdovo vaidmenį perskaityti akimirksniu, o būtent tokį ryškų tipą netrukus perims nepriklausomos Lietuvos atminties kultūra.",
+              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-03",
+              "featured": true,
+              "mediaId": "m-c6a643bef80f021679128f09",
+              "titleLt": "Karys, kokį įsivaizdavo XX amžiaus pradžia",
+              "claimRefs": []
+            }
+          ],
           "sectionId": "vyt-tautos-herojaus-link-1866-1908",
           "slug": "tautos-herojaus-link-1866-1908",
           "title": "Tautos herojaus link · 1866–1908",
@@ -463,9 +490,9 @@
           "claimRefs": []
         }
       ],
-      "slug": "parodos/vytautas-didysis-ikonografijos-raida",
+      "slug": "parodos/vytautas-didysis-istorijos-zenklai-ir-atvaizdo-raida",
       "subtitle": "Nuo valdovo ženklų iki modernaus tautos herojaus, 1392–1908",
-      "title": "Vytautas Didysis: ikonografijos raida",
+      "title": "Vytautas Didysis: istorijos ženklai ir atvaizdo raida",
       "updatedAt": "2026-07-21"
     }
   ],

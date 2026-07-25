@@ -735,6 +735,79 @@
   font-weight: 800;
 }
 
+.exhibition-related-block {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1.7rem;
+  padding-top: 1rem;
+  border-top: 1px solid color-mix(in srgb, var(--exhibition-gold) 46%, var(--lightgray));
+}
+
+.exhibition-related-heading {
+  margin: 0;
+  color: var(--secondary);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.exhibition-related-items {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.exhibition-related-item {
+  display: grid;
+  grid-template-columns: minmax(6rem, 0.42fr) minmax(0, 1fr);
+  gap: 0.8rem;
+  min-width: 0;
+  padding: 0.7rem;
+  border: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--lightgray) 42%, transparent);
+}
+
+.exhibition-related-image {
+  display: grid;
+  width: 100%;
+  aspect-ratio: var(--media-aspect, 4 / 3);
+  place-items: center;
+  overflow: hidden;
+  background: var(--lightgray);
+}
+
+.exhibition-related-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.exhibition-related-item h4 {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.2;
+}
+
+.exhibition-related-item p {
+  margin: 0.45rem 0 0;
+  color: var(--darkgray);
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
+.exhibition-related-item .exhibition-item-meta,
+.exhibition-related-item .exhibition-item-relation {
+  margin: 0.35rem 0 0;
+  color: var(--gray);
+  font-size: 0.66rem;
+}
+
+.exhibition-related-item .exhibition-claims {
+  margin-top: 0.55rem;
+}
+
 .exhibition-catalogue {
   padding: 6rem clamp(1rem, 4vw, 3.5rem);
   border-top: 1px solid var(--secondary);
@@ -946,6 +1019,12 @@
   .exhibition-catalogue > div {
     grid-template-columns: 1fr;
   }
+  .exhibition-related-items {
+    grid-template-columns: 1fr;
+  }
+  .exhibition-related-item {
+    grid-template-columns: minmax(6rem, 0.28fr) minmax(0, 1fr);
+  }
   .exhibition-footer {
     flex-direction: column;
   }
@@ -955,6 +1034,7 @@
   .exhibition-item-image,
   .exhibition-item-image img,
   .exhibition-catalogue img,
+  .exhibition-related-image img,
   .exhibition-chapters a > img,
   .exhibition-chapter-scrim {
     transition: none;

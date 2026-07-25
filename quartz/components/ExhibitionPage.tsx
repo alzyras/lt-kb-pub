@@ -6,7 +6,13 @@ import type {
   ExhibitionItemRelation,
   ExhibitionManifest,
 } from "../util/exhibitions"
-import { cleanText, displayCreator, displayDate, mediaDetailUrl, mediaImageUrl } from "../util/objectMedia"
+import {
+  cleanText,
+  displayCreator,
+  displayDate,
+  mediaDetailUrl,
+  mediaImageUrl,
+} from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
@@ -156,11 +162,15 @@ function Exhibit({
   index,
   exhibitionId,
   relationTargetTitle,
+  relatedItems,
+  itemTitleById,
 }: {
   item: ExhibitionItem
   index: number
   exhibitionId: string
   relationTargetTitle?: string
+  relatedItems: ExhibitionItem[]
+  itemTitleById: Map<string, string>
 }) {
   const media = item.media
   // Large exhibition panels should never upscale a thumbnail.
@@ -212,17 +222,80 @@ function Exhibit({
             Pirminis vaizdas <ExternalLink size={14} />
           </a>
         )}
+        <RelatedExhibits
+          items={relatedItems}
+          exhibitionId={exhibitionId}
+          itemTitleById={itemTitleById}
+          heading="Susiję šio vaizdo variantai"
+        />
       </div>
     </article>
+  )
+}
+
+function RelatedExhibits({
+  items,
+  exhibitionId,
+  itemTitleById,
+  heading,
+}: {
+  items: ExhibitionItem[]
+  exhibitionId: string
+  itemTitleById: Map<string, string>
+  heading: string
+}) {
+  if (!items.length) return null
+  return (
+    <div class="exhibition-related-block">
+      <p class="exhibition-related-heading">{heading}</p>
+      <div class="exhibition-related-items">
+        {items.map((item) => {
+          const frame = mediaFrame(item)
+          return (
+            <article
+              class={`exhibition-related-item ${frame.className}`}
+              id={item.exhibitionItemId}
+            >
+              <a
+                class="exhibition-related-image"
+                href={galleryUrl(item)}
+                data-exhibition-media={item.mediaId}
+                data-exhibition-id={exhibitionId}
+                style={`--media-aspect:${frame.aspect}`}
+                aria-label={`Atidaryti vaizdą: ${item.titleLt}`}
+              >
+                <img
+                  src={mediaImageUrl(item.media)}
+                  alt={cleanText(item.media.caption) || item.titleLt}
+                  width={item.media.width || undefined}
+                  height={item.media.height || undefined}
+                  loading="lazy"
+                  decoding="async"
+                />
+              </a>
+              <div>
+                <h4>{item.titleLt}</h4>
+                <ItemMeta item={item} compact />
+                <RelationNote
+                  item={item}
+                  targetTitle={
+                    item.relation ? itemTitleById.get(item.relation.targetItemId) : undefined
+                  }
+                />
+                <p>{item.catalogDescriptionLt}</p>
+                <ClaimLinks claims={item.claims} />
+              </div>
+            </article>
+          )
+        })}
+      </div>
+    </div>
   )
 }
 
 function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
   const hero = mediaImageUrl(exhibition.hero)
   let exhibitIndex = 0
-  const catalogue = exhibition.sections.flatMap((section) =>
-    section.items.filter((item) => !item.featured),
-  )
   const itemTitleById = new Map(
     exhibition.sections.flatMap((section) =>
       section.items.map((item) => [item.exhibitionItemId, item.titleLt] as const),
@@ -297,6 +370,20 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
       <div id="parodos-pradzia" />
       {exhibition.sections.map((section, sectionIndex) => {
         const featured = section.items.filter((item) => item.featured)
+        const featuredIds = new Set(featured.map((item) => item.exhibitionItemId))
+        const relatedByTarget = new Map<string, ExhibitionItem[]>()
+        for (const item of section.items.filter((candidate) => !candidate.featured)) {
+          const target = item.relation?.targetItemId
+          if (!target || !featuredIds.has(target)) continue
+          const related = relatedByTarget.get(target) ?? []
+          related.push(item)
+          relatedByTarget.set(target, related)
+        }
+        const sectionCatalogue = section.items.filter((item) => {
+          if (item.featured) return false
+          const target = item.relation?.targetItemId
+          return !target || !featuredIds.has(target)
+        })
         return (
           <section class="exhibition-section" id={section.slug}>
             <header>
@@ -323,53 +410,21 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
                     relationTargetTitle={
                       item.relation ? itemTitleById.get(item.relation.targetItemId) : undefined
                     }
+                    relatedItems={relatedByTarget.get(item.exhibitionItemId) ?? []}
+                    itemTitleById={itemTitleById}
                   />
                 )
               })}
             </div>
+            <RelatedExhibits
+              items={sectionCatalogue}
+              exhibitionId={exhibition.exhibitionId}
+              itemTitleById={itemTitleById}
+              heading="Kiti patikrinti šio skyriaus vaizdai"
+            />
           </section>
         )
       })}
-      {catalogue.length > 0 && (
-        <section class="exhibition-catalogue" id="katalogas">
-          <header>
-            <p class="exhibition-eyebrow">Papildomas katalogas</p>
-            <h2>Kiti patikrinti Vytauto vaizdai</h2>
-          </header>
-          <div>
-            {catalogue.map((item) => {
-              const frame = mediaFrame(item)
-              return (
-                <article class={frame.className} id={item.exhibitionItemId}>
-                  <a
-                    href={galleryUrl(item)}
-                    data-exhibition-media={item.mediaId}
-                    data-exhibition-id={exhibition.exhibitionId}
-                    style={`--media-aspect:${frame.aspect}`}
-                  >
-                    <img
-                      src={mediaImageUrl(item.media)}
-                      alt={item.titleLt}
-                      loading="lazy"
-                    />
-                  </a>
-                  <h3>{item.titleLt}</h3>
-                  <ItemMeta item={item} compact />
-                  <RelationNote
-                    item={item}
-                    targetTitle={
-                      item.relation ? itemTitleById.get(item.relation.targetItemId) : undefined
-                    }
-                  />
-                  <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
-                  <p>{item.catalogDescriptionLt}</p>
-                  <ClaimLinks claims={item.claims} />
-                </article>
-              )
-            })}
-          </div>
-        </section>
-      )}
       <footer class="exhibition-footer">
         <a href="/parodos">
           <ArrowLeft size={16} /> Visos parodos
@@ -401,10 +456,7 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
             class={`exhibition-index-card exhibition-theme--${exhibition.theme || "historical"}`}
           >
             <a href={`/${exhibition.slug}`}>
-              <img
-                src={mediaImageUrl(exhibition.hero)}
-                alt={exhibition.title}
-              />
+              <img src={mediaImageUrl(exhibition.hero)} alt={exhibition.title} />
             </a>
             <div>
               <span>

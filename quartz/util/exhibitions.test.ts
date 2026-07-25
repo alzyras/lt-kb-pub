@@ -57,18 +57,62 @@ describe("exhibition manifest", () => {
   test("keeps the two curated stories complete and distinct", () => {
     assert.ok(historical)
     assert.ok(interwar)
-    assert.equal(historical.title, "Vytautas Didysis: ikonografijos raida")
+    assert.equal(historical.title, "Vytautas Didysis: istorijos ženklai ir atvaizdo raida")
     assert.equal(
       historical.slug,
-      "parodos/vytautas-didysis-ikonografijos-raida",
+      "parodos/vytautas-didysis-istorijos-zenklai-ir-atvaizdo-raida",
       "the exhibition must use its new canonical URL",
     )
     assert.deepEqual(historical.legacySlugs, [
+      "parodos/vytautas-didysis-ikonografijos-raida",
       "parodos/vytautas-didysis-tarp-istorijos-ir-atvaizdo",
     ])
     assert.equal(historical.sections.length, 6)
-    assert.equal(exhibitionItemCount(historical), 32)
-    assert.equal(exhibitionFeaturedCount(historical), 24)
+    assert.equal(exhibitionItemCount(historical), 34)
+    assert.equal(exhibitionFeaturedCount(historical), 23)
+    const preservedHistoricalMediaIds = [
+      "m-f8d6413fcf11b237fca95a29",
+      "m-d8759e31eee98c44627f7eec",
+      "m-e37b77405063bd3988215e2a",
+      "m-b250964c8795d8e4c14592f7",
+      "m-203da807e4978a3a0aba6612",
+      "m-33231b1750795596affa8e7c",
+      "m-c79692a260b79859579e757a",
+      "m-ea1dbbe398596cd2dcc84124",
+      "m-ece9dfb4cc0790980d24121a",
+      "m-f396e7f6eccd59dd3f8167fc",
+      "m-484ab5f62e4a960c1d978db8",
+      "m-1e708d0a5620d5a9bf639d0d",
+      "m-51353d97f244528b962f46db",
+      "m-d15bf12daf2da3d85cc37a07",
+      "m-dcdbe87268bf50ba7819977b",
+      "m-9271846f686d86ef49142b33",
+      "m-bd5ab71ba61450749fdfcce7",
+      "m-a6684ef6e82e8375a5efb21e",
+      "m-35077b2615b9697b59f18d18",
+      "m-d40580df0a4d385cdf5d7d00",
+      "m-b439b9ea85a1a40d2d56519f",
+      "m-07b98ddb6657ef599a10a45d",
+      "m-c3cdf2ed3b7f84c7ecb7ec6f",
+      "m-ef3a92e376d5c48b81f60aaf",
+      "m-c0011d2677e2dcece9cf8f30",
+      "m-25a52d83da16bb71dce53621",
+      "m-c6a643bef80f021679128f09",
+      "m-d0f45f8e764022d84712e3d2",
+      "m-ab0b3bb8379a2cf0c44289f8",
+      "m-91da24b2fe281b6c2a89696a",
+      "m-3cf550452aee94802aa495df",
+      "m-a3e0336946b8605650d43434",
+    ]
+    assert.deepEqual(
+      new Set(historical.sections.flatMap((section) => section.items.map((item) => item.mediaId))),
+      new Set([
+        ...preservedHistoricalMediaIds,
+        "m-856973a6914daf257388781f",
+        "m-3d9cc48e7f9a3b7c760eec00",
+      ]),
+      "the 32 existing historical exhibits must remain alongside the two approved additions",
+    )
     assert.equal(interwar.sections.length, 5)
     assert.equal(exhibitionItemCount(interwar), 20)
     // The second Klaipėda frame remains featured as a deliberately linked view
@@ -176,6 +220,24 @@ describe("exhibition manifest", () => {
       kind: "reproduction_of",
       targetItemId: "hist-pomirtinis-01",
     })
+    assert.equal(
+      historical.sections.find((section) =>
+        section.items.some((item) => item.exhibitionItemId === "hist-veidas-03"),
+      )?.sectionId,
+      "vyt-spausdintas-valdovas-1578-1675",
+    )
+    assert.equal(byId.get("hist-hero-1878-matejko")?.mediaId, "m-856973a6914daf257388781f")
+    assert.equal(byId.get("hist-hero-1875-starzynski")?.mediaId, "m-3d9cc48e7f9a3b7c760eec00")
+    assert.ok(byId.get("hist-hero-1878-matejko")?.featured)
+    assert.ok(byId.get("hist-hero-1875-starzynski")?.featured)
+    assert.equal(byId.get("hist-hero-1878-matejko")?.dateDisplay, "1878 m.")
+    assert.equal(byId.get("hist-hero-1875-starzynski")?.dateDisplay, "1875–1900 m.")
+    assert.equal(
+      historical.sections.find((section) =>
+        section.items.some((item) => item.exhibitionItemId === "hist-katalogas-06"),
+      )?.sectionId,
+      "vyt-romantizmo-portretai-1837-1870",
+    )
   })
 
   test("resolves every global claim and its exact supporting quotation", () => {

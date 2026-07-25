@@ -118,7 +118,11 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       const redirectPath = path.join(publicRoot, legacySlug, "index.html")
       const redirectHtml = fs.existsSync(redirectPath) ? fs.readFileSync(redirectPath, "utf8") : ""
       const canonicalPath = `/${exhibition.slug}/`
-      if (!redirectHtml.includes('http-equiv="refresh"') || !redirectHtml.includes(canonicalPath)) {
+      if (
+        !redirectHtml.includes('http-equiv="refresh"') ||
+        !redirectHtml.includes(canonicalPath) ||
+        !redirectHtml.includes("location.search+location.hash")
+      ) {
         failures.push(`${legacySlug} is missing its redirect to ${canonicalPath}`)
       }
     }
