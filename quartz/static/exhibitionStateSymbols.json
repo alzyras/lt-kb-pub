@@ -1,0 +1,667 @@
+{
+  "exhibitions": [
+    {
+      "exhibitionId": "lietuvos-valstybes-zenklai",
+      "slug": "parodos/lietuvos-valstybes-zenklai",
+      "title": "Lietuvos valstybės ženklai",
+      "subtitle": "Vytis, Gediminaičių stulpai ir valdžios atmintis",
+      "description": "Nuo vaško antspaudo iki atkurtos Respublikos ši paroda seka ne vien ženklų formas, bet ir jų veikimą. Raitelis, Gediminaičių stulpai, dvigubas kryžius ir Lietuvos antspaudai tvirtino dokumentus, žymėjo pinigus, lydėjo valstybę bendroje Respublikoje ir XX amžiuje sugrįžo į viešą Lietuvos gyvenimą.",
+      "heroMediaId": "m-cb2c026a1126375f7b710cb2",
+      "updatedAt": "2026-07-26",
+      "theme": "symbols",
+      "relatedObject": {
+        "href": "/objektai/daiktai/Vytis",
+        "label": "Vytis istorijos objektas"
+      },
+      "sections": [
+        {
+          "sectionId": "zenklai-antspaudas",
+          "slug": "kai-zenklas-garantavo-zodi",
+          "title": "Kai ženklas garantavo žodį",
+          "lead": "Viduramžių valdžioje antspaudas buvo ne parašo puošmena. Vaške paliktas atspaudas liudijo, kas kalba, ir suteikė raštui tikrumą. Skirtingi valdovų atvaizdai dar nebuvo vienas nusistovėjęs valstybės herbas, tačiau juose jau formavosi Lietuvos valdžios vaizdų kalba.",
+          "evidenceNoteLt": "Ankstyvųjų antspaudų datavimas ir vaizdų įvardijimas remiasi eksponatų katalogo metaduomenimis. Teiginiai paaiškina antspaudo funkciją ir istorinį kontekstą, bet nėra pateikiami kaip kiekvieno konkretaus atspaudo atribucijos įrodymas.",
+          "navMediaId": "m-08162f9e2359c5fbbf998617",
+          "navImagePosition": "50% 42%",
+          "claimRefs": [
+            {
+              "claimId": "t-55034",
+              "citationId": "c-55378",
+              "label": "Antspaudas kaip rašto tikrumo priemonė",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-antspaudas-01",
+              "mediaId": "m-08162f9e2359c5fbbf998617",
+              "titleLt": "Kęstučio antspaudas: valdovas soste",
+              "descriptionLt": "XIV a. Kęstučio antspaude valdžia rodoma sėdinčio valdovo figūra. Tai dar ne vėliau nusistovėjęs Vytis: pirmiausia matome asmeninį valdovo atvaizdą, kuriuo buvo patvirtinamas jo vardu leidžiamas raštas.",
+              "catalogDescriptionLt": "Kataloge objektas įvardytas kaip autentiško XIV a. Kęstučio antspaudo atvaizdas. Sėdinčio valdovo kompozicija parodo vieną iš ankstyvųjų valdžios reprezentavimo būdų.",
+              "creatorDisplay": "Nežinomas XIV a. meistras",
+              "dateDisplay": "XIV a.",
+              "evidenceNoteLt": "Žodis „autentiškas“ perimamas iš vaizdo katalogo įrašo; paroda papildomai netvirtina konkretaus dokumento proveniencijos.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-19604",
+                  "citationId": "c-22307",
+                  "label": "Valstybės antspaudų saugojimas LDK kanceliarijoje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-antspaudas-02",
+              "mediaId": "m-bfb2a0851a4b680ae7fe26b2",
+              "titleLt": "Lengvenio raitelis, 1379",
+              "descriptionLt": "Nedideliame Lengvenio Algirdaičio antspaude raitelis jau tampa svarbiausiu vaizdu. Jis liudija, kad raito kario motyvas XIV a. pabaigoje veikė valdovo ir jo giminės ženklų aplinkoje dar iki vieno galutinai nusistovėjusio Lietuvos herbo pavidalo.",
+              "catalogDescriptionLt": "Lengvenio Algirdaičio 1379 m. antspaudas vaizduoja į dešinę jojantį raitelį. Katalogas jį sieja su ankstyva Vyčio arba Waykimo ženklo raida.",
+              "creatorDisplay": "Nežinomas XIV a. meistras",
+              "dateDisplay": "1379 m.",
+              "evidenceNoteLt": "Paroda vartoja lietuvišką pavadinimą „Vytis“; ankstyvasis raitelis aprašomas kaip ženklo raidos dalis, o ne kaip jau visiškai sunormintas šiuolaikinis herbas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-176383",
+                  "citationId": "c-160384",
+                  "label": "Valdovo vardas ir titulas antspaude",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-antspaudas-03",
+              "mediaId": "m-f0603bcd4780c55467c99689",
+              "titleLt": "Jogailos raitelio antspaudas, 1382",
+              "descriptionLt": "1382 m. Jogailos antspaude raitelis užima visą lauką ir yra apsuptas valdovo titulą skelbiančio įrašo. Vaizdas veikia kartu su tekstu: raitelis leidžia atpažinti valdžią, o legenda įvardija jos turėtoją.",
+              "catalogDescriptionLt": "Jogailos 1382 m. antspaudas su raiteliu kataloge įvardytas kaip valdovo Lietuvoje naudotas antspaudas. Paroda neperima platesnių titulų interpretacijų už to, kas matoma ir nurodyta metaduomenyse.",
+              "creatorDisplay": "Nežinomas XIV a. meistras",
+              "dateDisplay": "1382 m.",
+              "evidenceNoteLt": "Eksponato data ir priskyrimas Jogailai remiasi patikrinto medijos katalogo metaduomenimis.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-81846",
+                  "citationId": "c-78390",
+                  "label": "Karališkasis antspaudas sutvirtino valdovo laišką",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-antspaudas-04",
+              "mediaId": "m-ccc36bef5121bfa7666e0abc",
+              "titleLt": "Sostas ir raitelis viename antspaude",
+              "descriptionLt": "Kitame Jogailos antspaude susitinka du valdžios vaizdai: soste sėdintis valdovas ir mažesnis raitelis skyde. Ši kompozicija padeda pamatyti perėjimą nuo asmens atvaizdo prie ženklo, galinčio atstovauti ne tik valdovui, bet ir jo valdomai politinei erdvei.",
+              "catalogDescriptionLt": "Jogailos antspaudas datuojamas jo valdymo Lietuvoje laikotarpiu iki 1386 m. Jame valdovo figūra soste derinama su raitelio ženklu.",
+              "creatorDisplay": "Nežinomas XIV a. meistras",
+              "dateDisplay": "iki 1386 m.",
+              "evidenceNoteLt": "Katalogo data plati; paroda nesusiaurina jos iki vienų metų.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-81845",
+                  "citationId": "c-78391",
+                  "label": "Antspaudas valdovo laiškų istorijoje",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "zenklai-vytis",
+          "slug": "raitelis-tampa-lietuvos-herbu",
+          "title": "Raitelis tampa Lietuvos herbu",
+          "lead": "XV amžiuje raitelis vis aiškiau veikė kaip Lietuvos ženklas. Heraldikos šaltiniuose, monetose ir didžiuosiuose antspauduose jo pavidalas kito, tačiau atpažįstama sandara išliko: raitas karys, pakeltas ginklas ir skydas.",
+          "evidenceNoteLt": "Ženklų formos aprašomos pagal konkrečius vaizdus. Paroda vengia vieną išlikusį pavyzdį skelbti vieninteliu ar „pirmuoju“ Vyčiu, kai šaltiniai leidžia kalbėti tik apie platesnę raidą.",
+          "navMediaId": "m-cb2c026a1126375f7b710cb2",
+          "navImagePosition": "50% 46%",
+          "claimRefs": [
+            {
+              "claimId": "t-186858",
+              "citationId": "c-170042",
+              "label": "Atsargus ankstyvojo Vyčio datavimo kontekstas",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-vytis-01",
+              "mediaId": "m-cb2c026a1126375f7b710cb2",
+              "titleLt": "Lietuvos Vytis Konstanco herbyne",
+              "descriptionLt": "1416 m. Konstanco susirinkimo heraldiniame šaltinyje Lietuvos raitelis jau pateikiamas spalvotame herbo skyde. Ant raitelio skydo matomas Jogailaičių dvigubas kryžius parodo, kaip valstybės ir dinastijos ženklai galėjo veikti vienoje kompozicijoje.",
+              "catalogDescriptionLt": "1416 m. Konstanco susirinkimo herbyne pavaizduotas Lietuvos Vytis su Jogailaičių dvigubu kryžiumi.",
+              "creatorDisplay": "Nežinomas Konstanco herbyno dailininkas",
+              "dateDisplay": "1416 m.",
+              "evidenceNoteLt": "Tai XV a. heraldinis atvaizdas, o ne šiuolaikinio Lietuvos herbo grafinis etalonas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-50802",
+                  "citationId": "c-37010",
+                  "label": "Lietuva Konstancos susirinkime",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-vytis-02",
+              "mediaId": "m-4e44e5206640d67a8846ec82",
+              "titleLt": "Vytis ir Erelis Kazimiero antspaude",
+              "descriptionLt": "1470 m. Kazimiero Jogailaičio antspaude Lietuvos Vytis ir Lenkijos Erelis rodomi vienoje valdovo ženklų sistemoje. Vaškas išsaugojo ne abstrakčią sąjungos schemą, o konkretų dokumento patvirtinimo įrankį.",
+              "catalogDescriptionLt": "Kazimiero IV Jogailaičio 1470 m. antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu.",
+              "creatorDisplay": "Nežinomas XV a. meistras",
+              "dateDisplay": "1470 m.",
+              "evidenceNoteLt": "Aprašymas įvardija antspaude matomus ženklus ir nekildina iš jų platesnių teisinių išvadų.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-92964",
+                  "citationId": "c-21396",
+                  "label": "LDK herbas Vytis XVI a. heraldikos šaltinyje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-vytis-03",
+              "mediaId": "m-5ed697042cbf75d7c49760a4",
+              "titleLt": "Lietuvos ženklas Romoje išleistame leidinyje",
+              "descriptionLt": "1501 m. Erasmuso Vitelo kalbos Romoje leidinyje Aleksandro Jogailaičio herbas Lietuvos ženklus perkėlė į spausdintą puslapį. Valdžios vaizdas galėjo keliauti toliau už antspaudu patvirtintą dokumentą ir būti perskaitytas tarptautinėje erdvėje.",
+              "catalogDescriptionLt": "Aleksandro Jogailaičio herbas 1501 m. Romoje išleistame Erasmuso Vitelo kalbos leidinyje.",
+              "creatorDisplay": "Nežinomas leidinio raižytojas",
+              "dateDisplay": "1501 m.",
+              "evidenceNoteLt": "Eksponato sukūrimo data yra leidinio, o ne jame minimų istorinių įvykių data.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-13519",
+                  "citationId": "c-75435",
+                  "label": "Vytis XVI amžiaus Lietuvos Statuto nuoraše",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-vytis-04",
+              "mediaId": "m-547e7226472ac5ae9878a6e7",
+              "titleLt": "Lietuvos didysis antspaudas, 1503",
+              "descriptionLt": "1503 m. Lietuvos didžiajame antspaude Vytis užima centrinę vietą, o aplink jį telkiami kitų žemių ženklai. Tokia hierarchija vaizdu parodo, kad didysis antspaudas kalbėjo visos Lietuvos Didžiosios Kunigaikštystės vardu.",
+              "catalogDescriptionLt": "Aleksandro Jogailaičio valdymo metu naudoto 1503 m. Lietuvos didžiojo antspaudo atvaizdas su Vyčiu centre.",
+              "creatorDisplay": "Nežinomas XVI a. meistras",
+              "dateDisplay": "1503 m.",
+              "evidenceNoteLt": "Žemių ženklų tapatybės papildomai neįvardijamos ten, kur jų nepatvirtina matomas vaizdas ir katalogo metaduomenys.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-198525",
+                  "citationId": "c-180479",
+                  "label": "Vytis Lietuvos didžiajame antspaude",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "zenklai-stulpai",
+          "slug": "stulpai-kryzius-ir-kiti-zenklai",
+          "title": "Stulpai, kryžius ir kiti ženklai",
+          "lead": "Lietuvos heraldikos istorija nėra vieno ženklo biografija. Greta Vyčio veikė Gediminaičių stulpai, Jogailaičių dvigubas kryžius, valdovų monogramos ir bajorų herbai. Jų reikšmė priklausė nuo laikotarpio, nešėjo ir daikto, ant kurio ženklas atsirado.",
+          "evidenceNoteLt": "Gediminaičių stulpai čia aprašomi kaip dinastinis ir istorinės atminties ženklas. Paroda netapatina kiekvieno dinastinio ženklo su valstybės herbu.",
+          "navMediaId": "m-4386527fc0fda9c7bfefad32",
+          "navImagePosition": "50% 48%",
+          "claimRefs": [
+            {
+              "claimId": "t-12319",
+              "citationId": "c-14330",
+              "label": "Gediminaičių stulpai ankstyvuosiuose piniguose",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-stulpai-01",
+              "mediaId": "m-4386527fc0fda9c7bfefad32",
+              "titleLt": "Stulpai ir Vytis viename denare",
+              "descriptionLt": "Kazimiero Jogailaičio laikų lietuviškas denaras vienoje mažoje metalo plokštelėje sujungė Gediminaičių stulpus ir Vytį. Pinigas leido ženklams cirkuliuoti kasdien: valdžios kalba keliavo kartu su pačia moneta.",
+              "catalogDescriptionLt": "1440–1492 m. datuojamas lietuviškas Kazimiero Jogailaičio denaras su Gediminaičių stulpais ir Vyčiu.",
+              "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kalykla",
+              "dateDisplay": "1440–1492 m.",
+              "evidenceNoteLt": "Platus datavimas paliekamas toks, koks nurodytas numizmatikos kataloge.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-12320",
+                  "citationId": "c-14331",
+                  "label": "Gediminaičių stulpai Lietuvos pinigų istorijoje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-stulpai-02",
+              "mediaId": "m-fabb7fcf097f5d5182461e47",
+              "titleLt": "Jogailos vėliava Konstanco susirinkime",
+              "descriptionLt": "Ilgoje 1416 m. vėliavoje Lenkijos Erelis ir Lietuvos Vytis sudėti į vieną reprezentacinį vaizdą. Tai valdovo bei jo valdomų politinių erdvių ženklų derinys, o ne įrodymas, kad Lietuva prarado savąjį herbą.",
+              "catalogDescriptionLt": "Konstanco susirinkimo herbyne pavaizduota Jogailos vėliava su Lenkijos Ereliu ir Lietuvos Vyčiu.",
+              "creatorDisplay": "Nežinomas Konstanco herbyno dailininkas",
+              "dateDisplay": "1416 m.",
+              "evidenceNoteLt": "Eksponatas aiškinamas kaip konkreti valdovo vėliavos reprezentacija; jis nėra šiuolaikinė valstybių santykio schema.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-36321",
+                  "citationId": "c-37464",
+                  "label": "Europos diduomenė Konstanco susirinkime",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-stulpai-03",
+              "mediaId": "m-916001020e360d65ae2699cc",
+              "titleLt": "Žemių herbai aplink Lietuvos Vytį",
+              "descriptionLt": "1529 m. Žygimanto Senojo Lietuvos didžiajame antspaude centrinį Vytį supa LDK žemių herbai. Antspaudas vaizdu išreiškė sudėtinę valstybės sandarą, bet Lietuvos ženklą paliko kompozicijos centre.",
+              "catalogDescriptionLt": "Žygimanto Senojo 1529 m. didysis Lietuvos antspaudas su Vyčiu ir Lietuvos Didžiosios Kunigaikštystės žemių herbais.",
+              "creatorDisplay": "Nežinomas XVI a. meistras",
+              "dateDisplay": "1529 m.",
+              "evidenceNoteLt": "Eksponatas yra antspaudo atvaizdas; atskirų aplinkinių herbų identifikacija šiame trumpame apraše neplečiama.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-67545",
+                  "citationId": "c-67410",
+                  "label": "Vytis XVI a. LDK heraldikos šaltiniuose",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-stulpai-04",
+              "mediaId": "m-db842b5e7c300095476c6972",
+              "titleLt": "Gediminaičių stulpai ant 1630 metų bokalo",
+              "descriptionLt": "Gediminaičių stulpai iš oficialių antspaudų ir monetų pasaulio persikėlė ant reprezentacinio daikto. 1630 m. Vokietijoje pagaminto bokalo detalė rodo, kad senasis dinastinis ženklas išliko atpažįstamas ir Vazų laikais.",
+              "catalogDescriptionLt": "Gediminaičių stulpų detalė ant Vokietijoje 1630 m. pagaminto Žygimanto III Vazos bokalo.",
+              "creatorDisplay": "Nežinomas Vokietijos meistras",
+              "dateDisplay": "1630 m.",
+              "evidenceNoteLt": "Paroda kalba apie ženklo panaudojimą šiame objekte, o ne apie bokalo priklausymo ar naudojimo aplinkybes, kurių katalogas nepatvirtina.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-92963",
+                  "citationId": "c-21397",
+                  "label": "Gediminaičių stulpai heraldikos tradicijoje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-stulpai-05",
+              "mediaId": "m-992961cc7378b719a3c3eea7",
+              "titleLt": "Kojalavičiaus Lietuvos bajorijos herbynas",
+              "descriptionLt": "XVII a. vidurio rankraštinis herbynas pasakojimą išplečia nuo valstybės ženklų iki bajorų giminių. Herbai čia veikė kaip kilmės, giminystės ir luomo kalba, todėl Lietuvos heraldikos pasaulis buvo daug platesnis už vieną valdovo antspaudą.",
+              "catalogDescriptionLt": "Alberto Vijūko-Kojalavičiaus XVII a. vidurio rankraščio „Lietuvos Didžiosios Kunigaikštystės bajorijos herbynas“ viršelis.",
+              "creatorDisplay": "Albertas Vijūkas-Kojalavičius",
+              "dateDisplay": "XVII a. vidurys",
+              "evidenceNoteLt": "Parodoje rodomas rankraščio viršelis; jo turinys apibūdinamas tik tiek, kiek patvirtina katalogo įrašas ir susietas teiginys.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-187954",
+                  "citationId": "c-170939",
+                  "label": "Kojalavičiaus herbynas ir Lietuvos bajorų genealogijos",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "zenklai-respublika",
+          "slug": "vytis-ir-erelis-bendroje-valstybeje",
+          "title": "Vytis ir Erelis bendroje valstybėje",
+          "lead": "Lietuvos ir Lenkijos sąjunga sukūrė bendras valdovo reprezentacijas, tačiau Lietuvos Didžioji Kunigaikštystė toliau turėjo savo antspaudus, teisę ir iždą. Todėl Vytis greta Erelio reiškia bendrą politinę sistemą, o ne Lietuvos ženklo išnykimą.",
+          "evidenceNoteLt": "Liublino unijos vertinimai teiginių kortelėse priskiriami konkretiems istorikams ir šaltiniams. Parodos tekstas apsiriboja institucijų bei matomų ženklų tęstinumu.",
+          "navMediaId": "m-8595dedc2a48a52d06a5a24b",
+          "navImagePosition": "50% 45%",
+          "claimRefs": [
+            {
+              "claimId": "t-169851",
+              "citationId": "c-166648",
+              "label": "Abiejų Tautų Respublikos sukūrimas",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-respublika-01",
+              "mediaId": "m-7e02d09f84df7fa12271f228",
+              "titleLt": "Jogailos antspaudas su Vyčiu ir Ereliu",
+              "descriptionLt": "1428 m. antspaude Erelis, Vytis ir kiti herbai telkiami aplink valdovo atvaizdą. Dar iki Liublino unijos tokia kompozicija rodė kelias Jogailos valdžios erdves ir dinastinius ryšius.",
+              "catalogDescriptionLt": "Jogailos 1428 m. antspaudas su Lenkijos Ereliu, Lietuvos Vyčiu ir kitais herbais.",
+              "creatorDisplay": "Nežinomas XV a. meistras",
+              "dateDisplay": "1428 m.",
+              "evidenceNoteLt": "Eksponatas yra ankstesnis už 1569 m. Liublino uniją, todėl negali būti pateikiamas kaip Abiejų Tautų Respublikos herbas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-169842",
+                  "citationId": "c-154533",
+                  "label": "Ilgas Lietuvos ir Lenkijos suartėjimo kelias",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-respublika-02",
+              "mediaId": "m-add95944206421a6d310355c",
+              "titleLt": "Vytis ir Erelis Vilniaus denare",
+              "descriptionLt": "1495–1506 m. Vilniuje kaldintas denaras vienoje pusėje rodė Lietuvos Vytį, kitoje – Lenkijos Erelį. Pinigas aiškiai išlaikė abiejų ženklų atskirumą, nors jie veikė vieno valdovo politinėje sistemoje.",
+              "catalogDescriptionLt": "Aleksandro Jogailaičio lietuviškasis denaras su Vyčiu ir Lenkijos Ereliu, kaldintas Vilniuje 1495–1506 m.",
+              "creatorDisplay": "Vilniaus monetų kalykla",
+              "dateDisplay": "1495–1506 m.",
+              "evidenceNoteLt": "Monetos datavimas ir Vilniaus kalykla nurodyti medijos katalogo įraše.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-87819",
+                  "citationId": "c-83798",
+                  "label": "Lietuviškų ir lenkiškų monetų keitimas",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-respublika-03",
+              "mediaId": "m-1355c5ca8dca4be369997248",
+              "titleLt": "Stepono Batoro Lietuvos didysis antspaudas",
+              "descriptionLt": "1581 m., jau po Liublino unijos, dokumentams tebebuvo naudojamas Lietuvos didysis antspaudas. Vytis jo centre primena, kad bendro valdovo valstybėje LDK institucinis ženklas neišnyko.",
+              "catalogDescriptionLt": "1581 m. Stepono Batoro valdymo laikų Lietuvos didysis antspaudas su Vyčiu centre.",
+              "creatorDisplay": "Nežinomas XVI a. meistras",
+              "dateDisplay": "1581 m.",
+              "evidenceNoteLt": "Iš antspaudo egzistavimo daromos tik institucinio tęstinumo, o ne visiško politinio savarankiškumo išvados.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-169850",
+                  "citationId": "c-154526",
+                  "label": "Liublino seimo kompromisas dėl vieno antspaudo",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-respublika-04",
+              "mediaId": "m-8595dedc2a48a52d06a5a24b",
+              "titleLt": "Vladislovo Vazos laikų Lietuvos antspaudas",
+              "descriptionLt": "1635–1648 m. naudotame didžiajame Lietuvos antspaude Vytį supa daugybė LDK žemių herbų. Įspaustas dokumente jis ne tik puošė raštą, bet ir įvardijo, kurios valstybės institucijos vardu dokumentas leidžiamas.",
+              "catalogDescriptionLt": "Lietuvos didysis antspaudas, naudotas Vladislovo IV Vazos valdymo metu 1635–1648 m.",
+              "creatorDisplay": "Nežinomas XVII a. meistras",
+              "dateDisplay": "1635–1648 m.",
+              "evidenceNoteLt": "Antspaudo naudojimo laikotarpis perimamas iš katalogo; konkretus čia fotografuotas dokumentas papildomai neidentifikuojamas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-70375",
+                  "citationId": "c-69409",
+                  "label": "Valstybinio antspaudo naudojimas",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-respublika-05",
+              "mediaId": "m-fcf51572a29e9a5c9cfc8b6d",
+              "titleLt": "LDK Tribunolo antspaudas su Vyčiu",
+              "descriptionLt": "XVIII a. antrosios pusės Lietuvos Didžiosios Kunigaikštystės Tribunolo antspaudas perkelia Vytį iš valdovo aplinkos į teismo instituciją. Ženklas čia atstovavo ne asmens portretui, o Lietuvos teisminės valdžios autoritetui.",
+              "catalogDescriptionLt": "Lietuvos Didžiosios Kunigaikštystės Tribunolo antspaudas su Vyčiu, XVIII a. antroji pusė.",
+              "creatorDisplay": "Nežinomas XVIII a. meistras",
+              "dateDisplay": "XVIII a. antroji pusė",
+              "evidenceNoteLt": "Institucijos pavadinimas ir datavimas perimami iš medijos katalogo.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-82101",
+                  "citationId": "c-78594",
+                  "label": "Lietuvos Tribunolo veiklos tęstinumas",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "zenklai-daiktai",
+          "slug": "zenklai-ant-pinigu-ginklu-ir-daiktu",
+          "title": "Ženklai ant pinigų, ginklų ir daiktų",
+          "lead": "Valstybės ženklai buvo matomi ne tik teisės aktuose. Jie keliavo monetomis, buvo audžiami vėliavose, liejami patrankose ir komponuojami reprezentaciniuose daiktuose. Kiekviena medžiaga ženklą keitė, tačiau kartu plėtė jo atpažįstamumą.",
+          "evidenceNoteLt": "Šio skyriaus objektai nėra pristatomi kaip vienodo statuso valstybės atributai. Moneta, vėliava, patranka ir ceremonialinis daiktas ženklą naudojo skirtingomis aplinkybėmis.",
+          "navMediaId": "m-60b8927b7c8ff422856e19a0",
+          "navImagePosition": "50% 46%",
+          "claimRefs": [
+            {
+              "claimId": "t-60230",
+              "citationId": "c-60862",
+              "label": "Herbas kaip savininko atpažinimo ženklas",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-daiktai-01",
+              "mediaId": "m-961c86f36578bad86759cd1c",
+              "titleLt": "1585 metų Lietuvos šešiagrašis",
+              "descriptionLt": "Stepono Batoro laikų šešiagrašyje valdovo portretas, Vytis, Erelis ir giminės ženklas sutelpa į mažą metalo lauką. Moneta rodo, kaip politinė sandara buvo verčiama kasdien atpažįstama vaizdų sistema.",
+              "catalogDescriptionLt": "1585 m. Lietuvos šešiagrašis su Stepono Batoro portretu, Lenkijos Ereliu, Lietuvos Vyčiu ir Batorų giminės ženklu.",
+              "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kalykla",
+              "dateDisplay": "1585 m.",
+              "evidenceNoteLt": "Ženklai įvardijami pagal numizmatikos katalogą; paroda nespėja konkrečios monetos apyvartos istorijos.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-87368",
+                  "citationId": "c-83343",
+                  "label": "Vilniaus monetų kalyklos veikla",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-daiktai-02",
+              "mediaId": "m-60b8927b7c8ff422856e19a0",
+              "titleLt": "Zigmanto Vazos vėliava, 1601–1605",
+              "descriptionLt": "Didelio formato vėliavoje herbai buvo skirti matyti iš tolo ir viešai. Išlikęs 1601–1605 m. audinys leidžia ženklą suvokti ne kaip plokščią schemą, o kaip brangią, judančią ir ceremonijoje veikiančią medžiagą.",
+              "catalogDescriptionLt": "Zigmanto III Vazos vėliava, datuojama 1601–1605 m., saugoma Armijos muziejuje Stokholme.",
+              "creatorDisplay": "Nežinomas XVII a. pradžios meistras",
+              "dateDisplay": "1601–1605 m.",
+              "evidenceNoteLt": "Paroda aprašo matomą vėliavą ir jos kataloginį datavimą; konkreti ceremonija ar mūšis jai nepriskiriami.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-193755",
+                  "citationId": "c-44239",
+                  "label": "Vėliava kaip raitelių dalinio ženklas",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-daiktai-03",
+              "mediaId": "m-834173dd10f125f0a2f8481c",
+              "titleLt": "Tobijo Kramerio herbinė žvakidė",
+              "descriptionLt": "Apie 1615 m. sukurta aukšta žvakidė valdovo ženklus paverčia skulptūrine metalo puošyba. Heraldika čia nepatvirtina įstatymo ir nežymi monetos vertės – ji kuria reprezentacinio daikto iškilmingumą.",
+              "catalogDescriptionLt": "Tobijo Kramerio apie 1615 m. sukurta žvakidė su Zigmanto III Vazos herbais.",
+              "creatorDisplay": "Tobijas Krameris",
+              "dateDisplay": "apie 1615 m.",
+              "evidenceNoteLt": "Katalogo metaduomenys patvirtina meistrą, datą ir heraldinę puošybą; daikto naudojimo vieta šiame apraše nespėjama.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-92966",
+                  "citationId": "c-21398",
+                  "label": "Herbai kaip europietiško statuso ženklai",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-daiktai-04",
+              "mediaId": "m-9896511ae3524f5dd2c921a1",
+              "titleLt": "Penki auksiniai Lietuvos dukatai",
+              "descriptionLt": "1622 m. penkių dukatų monetoje auksas, valdovo portretas ir herbai kūrė išskirtinai tankų valdžios vaizdą. Vytis čia yra Lietuvos pinigo tapatybės dalis greta kitų Zigmanto Vazos titulų bei valdų ženklų.",
+              "catalogDescriptionLt": "1622 m. auksinė penkių Lietuvos dukatų moneta su Zigmanto III Vazos portretu, Vyčiu ir kitais herbais.",
+              "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kalykla",
+              "dateDisplay": "1622 m.",
+              "evidenceNoteLt": "Paroda aprašo monetos vaizdą; jos retumas ar konkretaus egzemplioriaus apyvarta nevertinami.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-65013",
+                  "citationId": "c-65532",
+                  "label": "LDK vardas Žygimanto Augusto monetose",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-daiktai-05",
+              "mediaId": "m-a35548c06c4b1459caaa988d",
+              "titleLt": "Herbai ant Vladislovo Vazos patrankos",
+              "descriptionLt": "XVII a. patrankos detalėje herbas išlietas pačiame ginkle. Valdžios ženklas čia tapo karinės galios reprezentacija: ne popieriaus ar vaško atspaudu, o metale išlikusia vieša deklaracija.",
+              "catalogDescriptionLt": "Vladislovo IV Vazos laikų aštuonių svarų patrankos detalė su herbine puošyba, datuojama 1632–1648 m.",
+              "creatorDisplay": "Nežinomas XVII a. liejikas",
+              "dateDisplay": "1632–1648 m.",
+              "evidenceNoteLt": "Kataloge patranka siejama su Vladislovo IV laikotarpiu; konkreti jos naudojimo istorija parodoje nepriskiriama.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-39187",
+                  "citationId": "c-40992",
+                  "label": "Vytis ir Gediminaičių stulpai patrankos puošyboje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-daiktai-06",
+              "mediaId": "m-89523bf07c71e7e814903899",
+              "titleLt": "Vytis ir Erelis XVIII amžiaus audinyje",
+              "descriptionLt": "Stanislovo Augusto laikų audinyje Vytis ir Erelis sujungti į valdovo herbą. Minkšta medžiaga ir dekoratyvi forma primena, kad politiniai ženklai gyveno ne tik kanceliarijoje, bet ir reprezentacinėse erdvėse.",
+              "catalogDescriptionLt": "XVIII a. audinys arba vėliava su Stanislovo Augusto Poniatovskio herbu, Lenkijos Ereliu ir Lietuvos Vyčiu.",
+              "creatorDisplay": "Nežinomas XVIII a. meistras",
+              "dateDisplay": "1764–1795 m.",
+              "evidenceNoteLt": "Katalogas objekto rūšį įvardija kaip audinį arba vėliavą, todėl paroda nepasirenka siauresnio nepatvirtinto apibrėžimo.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-183085",
+                  "citationId": "c-166473",
+                  "label": "Vytis ir Erelis vienoje ženklų kompozicijoje",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionId": "zenklai-sugrizimas",
+          "slug": "prarasta-ir-susigrazinta-simboliu-kalba",
+          "title": "Prarasta ir susigrąžinta simbolių kalba",
+          "lead": "Po 1795 m. Lietuvos valstybė išnyko iš Europos politinio žemėlapio, bet jos ženklai išliko paminkluose, mene ir istorinėje vaizduotėje. XX amžiuje Vytis bei Gediminaičių stulpai vėl tapo gyvos valstybės ir jos atkūrimo kalba.",
+          "evidenceNoteLt": "Šis skyrius nerodo visos XIX–XX a. simbolių istorijos. Keturi eksponatai pažymi lūžius: išsaugotą ženklą, tarpukario vaizdinę atmintį, 1990 m. sugrįžimą ir vėlesnę valstybės numizmatiką.",
+          "navMediaId": "m-669d70a5ced61740683e676b",
+          "navImagePosition": "50% 44%",
+          "claimRefs": [
+            {
+              "claimId": "t-77927",
+              "citationId": "c-75244",
+              "label": "Vytis 1922 m. Lietuvos Konstitucijoje",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "zen-sugrizimas-01",
+              "mediaId": "m-c82a743334c510b7ff043289",
+              "titleLt": "Vytis ant Jogailos antkapio",
+              "descriptionLt": "Tarpukariu fotografuotas Vyčio reljefas Jogailos antkapyje Vavelio katedroje liudija, kad Lietuvos ženklas buvo išlikęs senajame dinastijos paminkle. Fotografija fiksuoja ne tarpukariu sukurtą herbą, o vėlesnį žvilgsnį į senesnį kūrinį.",
+              "catalogDescriptionLt": "1925–1939 m. fotografuotas Lietuvos Vyčio reljefas ant Jogailos antkapio Vavelio katedroje.",
+              "creatorDisplay": "Nežinomas fotografas",
+              "dateDisplay": "fotografuota 1925–1939 m.",
+              "evidenceNoteLt": "Nurodoma fotografijos, o ne paties antkapio sukūrimo data.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-186825",
+                  "citationId": "c-170008",
+                  "label": "Jogailos atminties ženklai Vavelyje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-sugrizimas-02",
+              "mediaId": "m-669d70a5ced61740683e676b",
+              "titleLt": "Kamarausko Vilniaus pilis su Vyčiu ir Stulpais",
+              "descriptionLt": "1937 m. Juozas Kamarauskas virš Vilniaus Aukštutinės pilies griuvėsių iškėlė Vytį ir Gediminaičių stulpus. Tai ne archeologinė pilies rekonstrukcija, o tarpukario meninis istorijos vaizdas, kuriame prarastos sostinės architektūra susiejama su Lietuvos valstybingumo ženklais.",
+              "catalogDescriptionLt": "Juozo Kamarausko 1937 m. kūrinys, vaizduojantis Vilniaus Aukštutinės pilies griuvėsius su Vyčiu ir Gediminaičių stulpais.",
+              "creatorDisplay": "Juozas Kamarauskas",
+              "dateDisplay": "1937 m.",
+              "evidenceNoteLt": "Kūrinys pristatomas kaip 1937 m. meninė interpretacija, o ne tikslus viduramžių Vilniaus vaizdas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-193631",
+                  "citationId": "c-176302",
+                  "label": "Gediminaičių stulpai Lietuvos istorinėje atmintyje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-sugrizimas-03",
+              "mediaId": "m-e9ec299f03857fc7d4edaf5d",
+              "titleLt": "Gedimino atminties vokas atkurtos valstybės metais",
+              "descriptionLt": "1991 m. pirmos dienos vokas Gedimino 650-osioms mirties metinėms jau priklauso atkurtos Lietuvos viešajai kultūrai. Pašto leidinyje istorinis valdovas ir valstybės ženklų kalba vėl galėjo būti rodomi oficialiai, ne pogrindžio ar uždraustos atminties erdvėje.",
+              "catalogDescriptionLt": "1991 m. Lietuvos pirmos dienos vokas, skirtas Gedimino 650-osioms mirties metinėms.",
+              "creatorDisplay": "Lietuvos pašto administracija",
+              "dateDisplay": "1991 m. rugsėjo 28 d.",
+              "evidenceNoteLt": "Vokas liudija oficialią atminties sklaidą po nepriklausomybės atkūrimo; jis nėra pateikiamas kaip pats 1990 m. sprendimo dokumentas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-75337",
+                  "citationId": "c-26858",
+                  "label": "Vyčio ir Gediminaičių stulpų legalizavimas 1988 m.",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "zen-sugrizimas-04",
+              "mediaId": "m-152f7897cbf36b257998de31",
+              "titleLt": "Atkurtos Lietuvos proginė moneta",
+              "descriptionLt": "1996 m. penkiasdešimties litų monetos averse valstybės ženklas vėl tampa oficialaus pinigo dalimi. Parodos pabaigoje moneta sugrąžina pasakojimą prie mažo kasdienio objekto: kaip ir prieš kelis šimtmečius, valstybė tampa matoma metale.",
+              "catalogDescriptionLt": "1996 m. Lietuvos 50 litų proginės monetos, skirtos Gediminui, aversas.",
+              "creatorDisplay": "Lietuvos monetų kalykla",
+              "dateDisplay": "1996 m.",
+              "evidenceNoteLt": "Aprašomas monetos aversas ir jo vieta parodos pasakojime; reverse vaizduojamas Gediminas čia nerodomas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-183250",
+                  "citationId": "c-166638",
+                  "label": "Vytis paskelbtas atkurtos valstybės herbu",
+                  "role": "contextual"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "schemaVersion": "3"
+}

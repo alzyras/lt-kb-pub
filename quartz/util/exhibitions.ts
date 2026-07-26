@@ -75,7 +75,11 @@ export type ExhibitionManifest = {
   sections: ExhibitionSection[]
   imageUrls: string[]
   updatedAt: string
-  theme?: "historical" | "interwar"
+  theme?: "historical" | "interwar" | "symbols"
+  relatedObject?: {
+    href: string
+    label: string
+  }
 }
 
 type ExhibitionSourceItem = Omit<ExhibitionItem, "claims" | "media"> & {
@@ -308,11 +312,14 @@ function resolveExhibition(
 export function loadExhibitions(): ExhibitionManifest[] {
   const mediaById = loadMediaCatalog()
   const claimsById = loadClaimRegistry()
-  const sourcePath = resolve(process.cwd(), "quartz/static/exhibitionsSource.json")
-  const supplementsPath = resolve(process.cwd(), "quartz/static/exhibitionSupplements.json")
-  const exhibitions = [...sourcePayload(sourcePath), ...sourcePayload(supplementsPath)].map(
-    (source) => resolveExhibition(source, mediaById, claimsById),
-  )
+  const sourcePaths = [
+    "quartz/static/exhibitionsSource.json",
+    "quartz/static/exhibitionSupplements.json",
+    "quartz/static/exhibitionStateSymbols.json",
+  ].map((path) => resolve(process.cwd(), path))
+  const exhibitions = sourcePaths
+    .flatMap((path) => sourcePayload(path))
+    .map((source) => resolveExhibition(source, mediaById, claimsById))
   const seenExhibitionIds = new Set<string>()
   const seenExhibitionSlugs = new Set<string>()
   const seenMediaIds = new Set<string>()

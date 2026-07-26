@@ -53,8 +53,11 @@ describe("exhibition manifest", () => {
   const interwar = exhibitions.find(
     (entry) => entry.slug === "parodos/vytauto-atminties-kultas-tarpukariu",
   )
+  const stateSymbols = exhibitions.find(
+    (entry) => entry.exhibitionId === "lietuvos-valstybes-zenklai",
+  )
 
-  test("keeps the two curated stories complete and distinct", () => {
+  test("keeps the curated stories complete and distinct", () => {
     assert.ok(historical)
     assert.ok(interwar)
     assert.equal(historical.title, "Vytautas Didysis: istorijos ženklai ir atvaizdo raida")
@@ -140,6 +143,56 @@ describe("exhibition manifest", () => {
       allItems.map((item) => normalized(item.descriptionLt)),
       "curatorial descriptions must not repeat",
     )
+  })
+
+  test("keeps the state-symbol story ordered, sourced, and ready for chapter navigation", () => {
+    assert.ok(stateSymbols)
+    assert.equal(stateSymbols.title, "Lietuvos valstybės ženklai")
+    assert.equal(stateSymbols.subtitle, "Vytis, Gediminaičių stulpai ir valdžios atmintis")
+    assert.equal(stateSymbols.slug, "parodos/lietuvos-valstybes-zenklai")
+    assert.equal(stateSymbols.theme, "symbols")
+    assert.deepEqual(stateSymbols.relatedObject, {
+      href: "/objektai/daiktai/Vytis",
+      label: "Vytis istorijos objektas",
+    })
+    assert.deepEqual(
+      stateSymbols.sections.map((section) => section.title),
+      [
+        "Kai ženklas garantavo žodį",
+        "Raitelis tampa Lietuvos herbu",
+        "Stulpai, kryžius ir kiti ženklai",
+        "Vytis ir Erelis bendroje valstybėje",
+        "Ženklai ant pinigų, ginklų ir daiktų",
+        "Prarasta ir susigrąžinta simbolių kalba",
+      ],
+    )
+    assert.equal(exhibitionItemCount(stateSymbols), 28)
+    assert.equal(exhibitionFeaturedCount(stateSymbols), 28)
+    const items = stateSymbols.sections.flatMap((section) => section.items)
+    assert.equal(new Set(items.map((item) => item.mediaId)).size, items.length)
+    assert.equal(
+      new Set(
+        stateSymbols.sections.flatMap((section) => [
+          ...section.claimRefs.map((claim) => claim.claimId),
+          ...section.items.flatMap((item) => item.claimRefs.map((claim) => claim.claimId)),
+        ]),
+      ).size,
+      stateSymbols.sections.length + items.length,
+      "every chapter and exhibit must use a distinct global claim ID",
+    )
+    for (const section of stateSymbols.sections) {
+      assert.ok(
+        section.items.some((item) => item.mediaId === section.navMediaId),
+        `${section.sectionId} navigation image must be one of its exhibits`,
+      )
+      assert.ok(section.navImagePosition?.trim(), `${section.sectionId} needs an image focus`)
+      assert.ok(section.evidenceNoteLt?.trim(), `${section.sectionId} needs an evidence note`)
+      assert.equal(section.claimRefs.length, 1, `${section.sectionId} needs one contextual claim`)
+      for (const item of section.items) {
+        assert.ok(item.evidenceNoteLt?.trim(), `${item.exhibitionItemId} needs an evidence note`)
+        assert.equal(item.claimRefs.length, 1, `${item.exhibitionItemId} needs one claim`)
+      }
+    }
   })
 
   test("keeps the interwar story chronological, dated, and free of retired evidence links", () => {

@@ -66,8 +66,7 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       }
     >
   >("static/exhibitionMediaContext.json")
-  const exhibitionSourcePath = path.resolve("quartz/static/exhibitionsSource.json")
-  const exhibitionSource = JSON.parse(fs.readFileSync(exhibitionSourcePath, "utf8")) as {
+  type ExhibitionSource = {
     exhibitions: Array<{
       exhibitionId: string
       slug: string
@@ -75,7 +74,17 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
       sections: Array<{ items: Array<{ featured?: boolean }> }>
     }>
   }
-  for (const exhibition of exhibitionSource.exhibitions) {
+  const exhibitionSources = [
+    "quartz/static/exhibitionsSource.json",
+    "quartz/static/exhibitionSupplements.json",
+    "quartz/static/exhibitionStateSymbols.json",
+  ].flatMap((sourcePath) => {
+    const payload = JSON.parse(
+      fs.readFileSync(path.resolve(sourcePath), "utf8"),
+    ) as ExhibitionSource
+    return payload.exhibitions
+  })
+  for (const exhibition of exhibitionSources) {
     const exhibitionId = exhibition.exhibitionId
     const sourceItems = exhibition.sections.flatMap((section) => section.items)
     const expectedCount = sourceItems.length

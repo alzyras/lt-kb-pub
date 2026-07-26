@@ -21,6 +21,15 @@
   color: var(--dark);
 }
 
+.exhibition-theme--symbols {
+  --exhibition-ink: #161d26;
+  --exhibition-paper: #f1eee7;
+  --exhibition-gold: #b58a42;
+  --exhibition-accent: #8e2d36;
+  background: var(--light);
+  color: var(--dark);
+}
+
 .exhibition-hero {
   position: relative;
   display: grid;
@@ -36,6 +45,10 @@
 
 .exhibition-theme--interwar .exhibition-hero {
   background: #e5d9ca;
+}
+
+.exhibition-theme--symbols .exhibition-hero {
+  background: #e7e3da;
 }
 
 .exhibition-hero-media,

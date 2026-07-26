@@ -429,8 +429,9 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
         <a href="/parodos">
           <ArrowLeft size={16} /> Visos parodos
         </a>
-        <a href="/objektai/asmenys/Vytautas%20Didysis">
-          Vytauto Didžiojo istorijos objektas <ArrowRight size={16} />
+        <a href={exhibition.relatedObject?.href ?? "/objektai/asmenys/Vytautas%20Didysis"}>
+          {exhibition.relatedObject?.label ?? "Vytauto Didžiojo istorijos objektas"}{" "}
+          <ArrowRight size={16} />
         </a>
       </footer>
     </main>
@@ -446,8 +447,8 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
         </p>
         <h1>Skaitmeninės parodos</h1>
         <p>
-          Dvi perspektyvos į tą patį istorijos pasaulį: šaltinis, vaizdas ir atmintis vienoje
-          kelionėje.
+          Kuruoti Lietuvos istorijos pasakojimai, kuriuose šaltinis, vaizdas ir atmintis susijungia
+          į vieną kelionę.
         </p>
       </header>
       <div>
@@ -460,7 +461,11 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
             </a>
             <div>
               <span>
-                {exhibition.theme === "interwar" ? "Teminė paroda · 1930-ieji" : "Nuolatinė paroda"}
+                {exhibition.theme === "interwar"
+                  ? "Teminė paroda · 1930-ieji"
+                  : exhibition.theme === "symbols"
+                    ? "Teminė paroda · valstybės ženklai"
+                    : "Nuolatinė paroda"}
               </span>
               <h2>
                 <a href={`/${exhibition.slug}`}>{exhibition.title}</a>
