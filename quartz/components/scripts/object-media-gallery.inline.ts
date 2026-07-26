@@ -664,7 +664,6 @@ function activeFilterCount(state: GalleryState): number {
 
 function initGallery(root: HTMLElement) {
   if (root.dataset.galleryInitialized === "true") return
-  root.dataset.galleryInitialized = "true"
   const bootstrap = parseBootstrap(root)
   const lockedObject = root.dataset.objectPath || bootstrap.lockedObject || ""
   const requestedExhibitionId = new URLSearchParams(location.search).get("exhibition") || ""
@@ -949,7 +948,7 @@ function initGallery(root: HTMLElement) {
   window.addEventListener("popstate", onPopState)
   document.addEventListener("keydown", onKeyDown)
   root.addEventListener("media-settings-refresh", onSettingsRefresh)
-  window.addCleanup(() => {
+  window.addCleanup?.(() => {
     resizeObserver.disconnect()
     intersectionObserver.disconnect()
     viewer.destroy()
@@ -959,6 +958,7 @@ function initGallery(root: HTMLElement) {
     delete root.dataset.galleryInitialized
     document.body.classList.remove("media-filters-open")
   })
+  root.dataset.galleryInitialized = "true"
   void hydrate()
 }
 

@@ -40,9 +40,6 @@ function notifyNav(url: FullSlug) {
   document.dispatchEvent(event)
 }
 
-const cleanupFns: Set<(...args: any[]) => void> = new Set()
-window.addCleanup = (fn) => cleanupFns.add(fn)
-
 function startLoading() {
   const loadingBar = document.createElement("div")
   loadingBar.className = "navigation-progress"
@@ -80,10 +77,6 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // notify about to nav
   const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
   document.dispatchEvent(event)
-
-  // cleanup old
-  cleanupFns.forEach((fn) => fn())
-  cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
   normalizeRelativeURLs(html, url)

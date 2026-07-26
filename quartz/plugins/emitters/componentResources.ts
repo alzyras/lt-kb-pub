@@ -4,6 +4,8 @@ import { QuartzEmitterPlugin } from "../types"
 // @ts-ignore
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
+import spaPrescript from "../../components/scripts/spa-prescript.inline"
+// @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
 import analyticsScript from "../../components/scripts/analytics.inline"
@@ -242,7 +244,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   } else {
     componentResources.afterDOMLoaded.push(`
       window.spaNavigate = (url, _) => window.location.assign(url)
-      window.addCleanup = () => {}
       const event = new CustomEvent("nav", { detail: { url: document.body.dataset.slug } })
       document.dispatchEvent(event)
     `)
@@ -258,6 +259,7 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
       const cfg = ctx.cfg.configuration
       // component specific scripts and styles
       const componentResources = getComponentResources(ctx)
+      componentResources.beforeDOMLoaded.unshift(spaPrescript)
       let googleFontsStyleSheet = ""
       if (cfg.theme.fontOrigin === "local") {
         // let the user do it themselves in css
