@@ -1,0 +1,413 @@
+{
+  "schemaVersion": "1",
+  "exhibitions": [
+    {
+      "exhibitionId": "valdzia-vaske",
+      "slug": "parodos/valdzia-vaske",
+      "title": "Valdžia vaške",
+      "subtitle": "Kas kalbėjo Lietuvos vardu, 1387–1794",
+      "description": "Antspaudas nebuvo vien herbo atvaizdas. Jis paversdavo valdovo valią galiojančiu raštu, lydėjo miesto privilegijas, žymėjo teismų, iždo ir kariuomenės sprendimus. Paroda seka dokumento kelią nuo pergamento iki institucijos ir klausia, kaip valdžia tapdavo atpažįstama, patikrinama ir perduodama.",
+      "heroMediaId": "m-3a1850362be25d83cc9a830a",
+      "updatedAt": "2026-07-26",
+      "theme": "documents",
+      "relatedObject": {
+        "href": "/objektai/daiktai/Antspaudas",
+        "label": "Antspaudas istorijos objektas"
+      },
+      "sections": [
+        {
+          "sectionId": "vaske-rastas",
+          "slug": "nuo-rasto-iki-galiojancio-akto",
+          "title": "Nuo rašto iki galiojančio akto",
+          "lead": "Valdovo žodis turėjo įgyti materialų pavidalą. Pergamente surašytas sprendimas, patvirtintas antspaudu ir saugomas raštinėje, galėjo suteikti teises, priminti pareigas ir būti pateiktas kaip įrodymas po daugelio metų.",
+          "evidenceNoteLt": "Dokumentų paskirtis ir datos pateikiamos pagal patikrinto medijos katalogo metaduomenis. Skyriaus teiginys paaiškina LDK raštinės vaidmenį, bet nėra naudojamas kaip kiekvieno eksponato individualios proveniencijos įrodymas.",
+          "navMediaId": "m-3a1850362be25d83cc9a830a",
+          "navImagePosition": "50% 72%",
+          "claimRefs": [
+            {
+              "claimId": "t-183307",
+              "citationId": "c-166697",
+              "label": "LDK raštinės kaip dokumentų gamintojos ir saugotojos",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "vas-rastas-01",
+              "mediaId": "m-ae0901c9199fa16e2e7d6c84",
+              "titleLt": "Jogailos privilegija Vilniaus katedrai",
+              "descriptionLt": "1387 m. vasario 17 d. Vilniuje išduotas raštas rodo valdžią dar iki vėlesnės institucijų gausos: tekstas apibrėžia suteikiamas teises, o prie dokumento esantis antspaudas patvirtina, kieno vardu jos suteiktos. Čia politinis sprendimas tampa saugomu daiktu.",
+              "catalogDescriptionLt": "Lotynų kalba surašyta Jogailos privilegija Vilniaus katedrai, išduota Vilniuje 1387 m. vasario 17 d.",
+              "creatorDisplay": "Jogailos raštinė",
+              "dateDisplay": "1387 m. vasario 17 d.",
+              "evidenceNoteLt": "Data, išdavimo vieta ir dokumento adresatas perimti iš katalogo įrašo; paroda neteikia paleografinės dokumento analizės.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-01772",
+                  "citationId": "c-02010",
+                  "label": "1387 metų raštas apibrėžė Bažnyčios ir dvasininkų teises",
+                  "role": "direct"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "vas-rastas-02",
+              "mediaId": "m-cc1feba607c59dbc4efd15a7",
+              "titleLt": "Aleksandro raštas Vilniaus gyventojams",
+              "descriptionLt": "1492 m. Aleksandro raštas leidžia žiūrėti ne tik į valdovo ženklą, bet ir į visą administracinį objektą: teksto lauką, rašto ritmą ir jo saugojimo pėdsakus. Valdžia miestą pasiekdavo ne abstrakčiu įsakymu, o konkrečiu perduodamu dokumentu.",
+              "catalogDescriptionLt": "Lietuvos didžiojo kunigaikščio Aleksandro 1492 m. raštas Vilniaus gyventojams.",
+              "creatorDisplay": "Lietuvos didžiojo kunigaikščio raštinė",
+              "dateDisplay": "1492 m.",
+              "evidenceNoteLt": "Adresatas ir metai pateikiami pagal Lietuvos skaitmeninto kultūros paveldo katalogo metaduomenis.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-rastas-03",
+              "mediaId": "m-3a1850362be25d83cc9a830a",
+              "titleLt": "Privilegija ir asmeninis Aleksandro antspaudas",
+              "descriptionLt": "1503 m. privilegijoje pergamentas ir prikabintas antspaudas išliko kaip viena visuma. Tekstas skelbė sprendimą dėl Vitebsko bažnyčios fundacijos, o antspaudas leido patikrinti, kad raštas išduotas Aleksandro Jogailaičio vardu.",
+              "catalogDescriptionLt": "1503 m. rugpjūčio 17 d. Vilniuje išduota lotyniška Aleksandro Jogailaičio privilegija, patvirtinanti Vitebsko bažnyčios fundaciją, su asmeniniu valdovo antspaudu.",
+              "creatorDisplay": "Aleksandro Jogailaičio raštinė",
+              "dateDisplay": "1503 m. rugpjūčio 17 d.",
+              "evidenceNoteLt": "Dokumento paskirtis, data ir išdavimo vieta remiasi katalogo aprašu; antspaudo ikonografija čia papildomai neinterpretuojama.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-rastas-04",
+              "mediaId": "m-9c29cb2c3e391833e2bdb0ff",
+              "titleLt": "Pirmasis Lietuvos Statutas rankraštyje",
+              "descriptionLt": "1529 m. priimto Pirmojo Lietuvos Statuto nuorašo puslapis primena, kad valstybės teisė gyveno ne vien iškilmingose privilegijose. Ji buvo perrašoma, skaitoma ir taikoma, o raštinių darbas pavertė teisės tekstą naudojama administracine atmintimi.",
+              "catalogDescriptionLt": "XVI a. rankraštinio Pirmojo Lietuvos Statuto nuorašo puslapis; pats Statuto tekstas priimtas 1529 m.",
+              "creatorDisplay": "Nežinomas XVI a. raštininkas",
+              "dateDisplay": "XVI a. nuorašas; tekstas priimtas 1529 m.",
+              "evidenceNoteLt": "Paroda aiškiai skiria Statuto priėmimo datą nuo išlikusio rankraštinio nuorašo sukūrimo laiko.",
+              "featured": true,
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "vaske-kasdienybe",
+          "slug": "valdovo-rastas-kasdienybeje",
+          "title": "Valdovo raštas kasdienybėje",
+          "lead": "Valdovo dokumentai sprendė ne tik dinastijų ar sienų klausimus. Jie pasiekdavo cechus, miestiečius, žemvaldžius ir vyskupus. Viename archyve greta atsiduria amatininkų ginčas, žemės suteikimas ir religinės bendruomenės apsauga.",
+          "evidenceNoteLt": "Šio skyriaus eksponatai yra skaitmenintų dokumentų atvaizdai. Jų pavadinimai nurodo kataloge aprašytą teisinį reikalą; paroda neperrašo viso dokumentų turinio ir nespekuliuoja apie nematomas sąlygas.",
+          "navMediaId": "m-a83fd3f3e6fc3cac86bb7b26",
+          "navImagePosition": "50% 44%",
+          "claimRefs": [
+            {
+              "claimId": "t-202055",
+              "citationId": "c-185402",
+              "label": "Miestiečių prašymai valdovui dėl privilegijų ir lengvatų",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "vas-kasdienybe-01",
+              "mediaId": "m-b8e2e82d2aa1598c7b2a8f8d",
+              "titleLt": "Raštas dėl Vilniaus liejikų cecho",
+              "descriptionLt": "1633 m. valdovo raštas dėl Vilniaus liejikų cecho parodo, kaip centrinė valdžia įsitraukdavo į miesto amatininkų gyvenimą. Archyvinis lapas buvo ne ceremonialus suvenyras, o priemonė, kuria buvo apibrėžiama konkrečios bendruomenės teisinė padėtis.",
+              "catalogDescriptionLt": "Vladislovo Vazos 1633 m. raštas, susijęs su Vilniaus liejikų cechu.",
+              "creatorDisplay": "Vladislovo Vazos raštinė",
+              "dateDisplay": "1633 m.",
+              "evidenceNoteLt": "Metai ir dokumento tema pateikiami pagal katalogo antraštę; išsamesnės cecho teisės iš vien vaizdo neišvedamos.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-kasdienybe-02",
+              "mediaId": "m-a83fd3f3e6fc3cac86bb7b26",
+              "titleLt": "1634 metų privilegija",
+              "descriptionLt": "1634 m. birželio 27 d. privilegijos puslapis leidžia matyti rašto materialumą: tankų tekstą, išskirtas pradžios eilutes ir paties dokumento formatą. Privilegija veikė kaip ilgam saugomas teisių įrodymas, kurį buvo galima pateikti kilus ginčui.",
+              "catalogDescriptionLt": "Vladislovo Vazos privilegija, išduota 1634 m. birželio 27 d.",
+              "creatorDisplay": "Vladislovo Vazos raštinė",
+              "dateDisplay": "1634 m. birželio 27 d.",
+              "evidenceNoteLt": "Tiksli data perimta iš katalogo pavadinimo; privilegijos gavėjas neįvardijamas, nes pateikti metaduomenys jo patikimai nenurodo.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-kasdienybe-03",
+              "mediaId": "m-54092a1d32fc5d98f42d7f72",
+              "titleLt": "Mėsininkų cecho byla pasiekia valdovą",
+              "descriptionLt": "1646 m. raštas dėl Vilniaus mėsininkų cecho bylos atveria kasdienę valdžios veikimo pusę. Miesto profesinės bendruomenės ginčas virto raštu, buvo įtrauktas į valdovo kanceliarijos darbą ir išliko kaip administracinio sprendimo pėdsakas.",
+              "catalogDescriptionLt": "Vladislovo Vazos 1646 m. raštas dėl Vilniaus mėsininkų cecho bylos.",
+              "creatorDisplay": "Vladislovo Vazos raštinė",
+              "dateDisplay": "1646 m.",
+              "evidenceNoteLt": "Paroda remiasi kataloge nurodyta dokumento tema ir nepriskiria jam konkretaus bylos rezultato.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-kasdienybe-04",
+              "mediaId": "m-4b8a65eb6e3ba279cd0d2221",
+              "titleLt": "Raštas Vilniaus vyskupui",
+              "descriptionLt": "1647 m. laiškas Vilniaus vyskupui dėl evangelikų persekiojimo rodo kitą valdovo rašto mastą: dokumentas turėjo veikti tarp skirtingų jurisdikcijų ir religinių bendruomenių. Antspauduotas raštas čia yra valdžios įsikišimo, o ne vien jos atvaizdo, liudijimas.",
+              "catalogDescriptionLt": "Vladislovo IV Vazos 1647 m. raštas Vilniaus vyskupui dėl evangelikų persekiojimo.",
+              "creatorDisplay": "Vladislovo IV Vazos raštinė",
+              "dateDisplay": "1647 m.",
+              "evidenceNoteLt": "Adresatas, metai ir klausimas pateikiami pagal katalogo aprašą; paroda nevertina nei konflikto eigos, nei dokumento poveikio.",
+              "featured": true,
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "vaske-didysis",
+          "slug": "didysis-antspaudas",
+          "title": "Didysis antspaudas kalba valstybės vardu",
+          "lead": "Asmeninis valdovo ženklas ir valstybės didysis antspaudas atliko ne tą pačią užduotį. Didysis Lietuvos antspaudas buvo kanceliarijos įrankis: jo saugojimas, naudojimas ir rašto atitiktis įstatymams priklausė valstybės pareigūnų atsakomybei.",
+          "evidenceNoteLt": "Eksponatai leidžia lyginti skirtingų valdymo laikotarpių antspaudus, tačiau paroda jų nepateikia kaip nenutrūkstamos vienos spaudos matricos sekos. Kiekvieno objekto data ir priskyrimas vertinami atskirai.",
+          "navMediaId": "m-50fbc69afbfe27be447d118b",
+          "navImagePosition": "50% 48%",
+          "claimRefs": [
+            {
+              "claimId": "t-19604",
+              "citationId": "c-22307",
+              "label": "Kancleris saugojo valstybės antspaudus",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "vas-didysis-01",
+              "mediaId": "m-a213600246269ca5bfee5ed5",
+              "titleLt": "Žygimanto Senojo didysis Lietuvos antspaudas",
+              "descriptionLt": "1529 m. didysis Lietuvos antspaudas dokumentą siejo ne vien su valdovo asmeniu, bet su Lietuvos Didžiosios Kunigaikštystės kanceliarija. Aplink centrinį ženklą išdėstyta sudėtinga heraldinė programa vertė vašką valstybės vardu kalbančiu atspaudu.",
+              "catalogDescriptionLt": "Žygimanto Senojo didysis Lietuvos antspaudas prie 1529 m. rugsėjo 18 d. dokumento.",
+              "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kanceliarija",
+              "dateDisplay": "1529 m. rugsėjo 18 d.",
+              "evidenceNoteLt": "Antspaudo tipas, valdovas ir data pateikiami pagal archyvinio katalogo metaduomenis.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-didysis-02",
+              "mediaId": "m-4c5c8361daeff2954c7eb1c5",
+              "titleLt": "Vladislovo Vazos antspaudas, 1633",
+              "descriptionLt": "1633 m. atspaude Vytis yra valdžios atpažinimo branduolys, tačiau parodai svarbi ne vien jo forma. Vaško paviršius, įrašų žiedas ir dokumento patvirtinimo paskirtis rodo antspaudą kaip veiksmą: juo raštas buvo užbaigiamas ir paleidžiamas į teisinę apyvartą.",
+              "catalogDescriptionLt": "Vladislovo Vazos 1633 m. valdovo antspaudas su Vyčiu.",
+              "creatorDisplay": "Nežinomas XVII a. spaudo meistras",
+              "dateDisplay": "1633 m.",
+              "evidenceNoteLt": "Eksponatas kataloge siejamas su Abiejų Tautų Respublikos ir LDK valdžios aplinka; platesnė konkretaus dokumento paskirtis nenurodyta.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-didysis-03",
+              "mediaId": "m-b9c8939697f44664c1fc8d7c",
+              "titleLt": "Jungtinė heraldika 1638 metų antspaude",
+              "descriptionLt": "1638 m. antspaude valdovo ir jo valdomų politinių erdvių ženklai sudėti į vieną kompoziciją. Dokumento skaitytojas turėjo atpažinti ne atskirą paveikslą, o valdžios hierarchiją, kurią patvirtino visas atspaudas.",
+              "catalogDescriptionLt": "Vladislovo Vazos 1638 m. antspaudas su Vyčiu ir jungtine heraldika.",
+              "creatorDisplay": "Nežinomas XVII a. spaudo meistras",
+              "dateDisplay": "1638 m.",
+              "evidenceNoteLt": "Aprašymas apsiriboja kataloge įvardyta jungtine heraldika ir neidentifikuoja nepakankamai raiškių mažųjų skydų.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-didysis-04",
+              "mediaId": "m-c6b2d9c8a5d1d19a4f7784d3",
+              "titleLt": "Jono Kazimiero dokumento antspaudas",
+              "descriptionLt": "1650 m. antspaudas išsaugojo Jono Kazimiero valdymo laikotarpio dokumento patvirtinimo pėdsaką. Net ir pažeistas ar neryškus atspaudas archyve galėjo liudyti, kokia valdžios instancija išdavė raštą ir kokiam laikotarpiui jis priklausė.",
+              "catalogDescriptionLt": "Jono Kazimiero 1650 m. dokumento antspaudas su Vyčiu.",
+              "creatorDisplay": "Nežinomas XVII a. spaudo meistras",
+              "dateDisplay": "1650 m.",
+              "evidenceNoteLt": "Dokumento turinys kataloge nepateiktas, todėl paroda antspaudą naudoja kaip patvirtinimo praktikos, o ne konkretaus sprendimo liudijimą.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-didysis-05",
+              "mediaId": "m-50fbc69afbfe27be447d118b",
+              "titleLt": "Du didieji Lietuvos antspaudai",
+              "descriptionLt": "Augusto III valdymo laikotarpiu naudotų didžiųjų Lietuvos antspaudų pora leidžia palyginti ne vien ženklų formą, bet ir administracinio įrankio mastą. Didelė, detali matrica buvo skirta ne kasdieniam asmeniniam laiškui, o iškilmingam valstybės dokumentui.",
+              "catalogDescriptionLt": "Lietuvos didieji antspaudai, naudoti Augusto III valdymo laikotarpiu 1733–1763 m.",
+              "creatorDisplay": "Lietuvos Didžiosios Kunigaikštystės kanceliarija",
+              "dateDisplay": "1733–1763 m.",
+              "evidenceNoteLt": "Eksponatas kataloge pateikiamas kaip dviejų didžiųjų antspaudų atvaizdas; jų naudojimo chronologija papildomai nesiaurinama.",
+              "featured": true,
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "vaske-institucijos",
+          "slug": "institucijos-igyja-savo-balsa",
+          "title": "Institucijos įgyja savo balsą",
+          "lead": "Valstybės vardu kalbėjo ne vien valdovas. Žemės teismas, kaptūrinė kanceliarija, iždas ir kariuomenės brigada turėjo savus patvirtinimo ženklus. Antspaudas rodė, kuri įstaiga priėmė sprendimą ir kokiai valdžios grandžiai dokumentas priklausė.",
+          "evidenceNoteLt": "Skyriaus eksponatai datuojami pagal katalogo metaduomenis. Institucijų funkcijos aiškinamos bendrame LDK administracijos kontekste; konkretūs atspaudai nelaikomi visų tos įstaigos dokumentų reprezentatyvia imtimi.",
+          "navMediaId": "m-bbfcf8626ef0b539ece8c535",
+          "navImagePosition": "50% 48%",
+          "claimRefs": [
+            {
+              "claimId": "t-193153",
+              "citationId": "c-175905",
+              "label": "Pavietų seimeliai rinko žemės teismų pareigūnus",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "vas-institucijos-02",
+              "mediaId": "m-e3d50e13fefd93635c4b4b3c",
+              "titleLt": "Kaptūrinės kanceliarijos antspaudas",
+              "descriptionLt": "1733 m. Pinsko pavieto kaptūrinės žemės kanceliarijos antspaudas priklauso tarpkaralmečio administravimo pasauliui. Kai valdovo sostas buvo laisvas, vietos teisinis gyvenimas nesustojo – dokumentus toliau reikėjo išduoti, registruoti ir patvirtinti.",
+              "catalogDescriptionLt": "Pinsko pavieto kaptūrinės žemės kanceliarijos antspaudas su Vyčiu, 1733 m.",
+              "creatorDisplay": "Pinsko kaptūrinė žemės kanceliarija",
+              "dateDisplay": "1733 m.",
+              "evidenceNoteLt": "Kaptūrinės kanceliarijos pavadinimas ir data perimti iš katalogo; konkretus dokumentas, prie kurio buvo antspaudas, neidentifikuotas.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-institucijos-03",
+              "mediaId": "m-482821730541d49159b320b4",
+              "titleLt": "Lietuvos iždo antspaudas su raktais",
+              "descriptionLt": "XVIII a. Lietuvos iždo antspaude Vytį papildo du raktai. Tai ne dekoratyvi detalė: raktai padeda atskirti iždo instituciją nuo kitų valstybės įstaigų ir vaizdu pavadina jos atsakomybės sritį.",
+              "catalogDescriptionLt": "XVIII a. Lietuvos iždo antspaudas su Vyčiu ir raktais.",
+              "creatorDisplay": "Lietuvos iždo kanceliarija",
+              "dateDisplay": "XVIII a.",
+              "evidenceNoteLt": "Raktų ir iždo ryšys aiškinamas pagal kataloge įvardytą instituciją bei matomą ženklą; konkreti spaudo naudojimo data nežinoma.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-institucijos-04",
+              "mediaId": "m-bbfcf8626ef0b539ece8c535",
+              "titleLt": "Pirmosios husarų brigados didysis antspaudas",
+              "descriptionLt": "XVIII a. Pirmosios LDK husarų kavalerijos brigados didysis antspaudas rodo kariuomenę kaip dokumentus leidžiančią instituciją. Karinį dalinį atpažinti padėjo ne vien uniforma ar vėliava – jo administracija taip pat turėjo oficialų ženklą.",
+              "catalogDescriptionLt": "XVIII a. LDK Pirmosios husarų kavalerijos brigados didysis antspaudas.",
+              "creatorDisplay": "LDK Pirmosios husarų kavalerijos brigados kanceliarija",
+              "dateDisplay": "XVIII a.",
+              "evidenceNoteLt": "Eksponato istorinis datavimas perimtas iš katalogo; 2015 m. yra fotografijos, o ne paties antspaudo data.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-institucijos-05",
+              "mediaId": "m-2d8b140591721f8008aa920d",
+              "titleLt": "Antrosios tautinės kavalerijos brigados antspaudas",
+              "descriptionLt": "Antrosios Lietuvos tautinės kavalerijos brigados antspaudas papildo pirmojo dalinio eksponatą. Panaši Vyčio kalba jungė abi brigadas su LDK, tačiau kiekvienas atspaudas dokumente turėjo nurodyti konkrečią karinę įstaigą.",
+              "catalogDescriptionLt": "XVIII a. Antrosios Lietuvos tautinės kavalerijos brigados antspaudas su Vyčiu.",
+              "creatorDisplay": "Antrosios Lietuvos tautinės kavalerijos brigados kanceliarija",
+              "dateDisplay": "XVIII a.",
+              "evidenceNoteLt": "Eksponatas nėra to paties daikto antroji pusė; tai atskiros brigados antspaudas.",
+              "featured": true,
+              "claimRefs": []
+            }
+          ]
+        },
+        {
+          "sectionId": "vaske-reformos",
+          "slug": "paskutiniai-reformu-valstybes-antspaudai",
+          "title": "Paskutiniai reformų valstybės antspaudai",
+          "lead": "XVIII a. pabaigoje dokumentuose daugėjo komisijų, pavietų ir deputacijų ženklų. 1787–1794 m. atspaudai rodo valstybę, kuri mėgino persitvarkyti, paskirstyti atsakomybę ir veikti per kolegialias institucijas net politinės krizės metais.",
+          "evidenceNoteLt": "Šie atspaudai liudija institucijų pavadinimus ir datas, tačiau vien jų nepakanka visai reformų eigai rekonstruoti. Politinis kontekstas pateikiamas iš susietų teiginių, o ne iš heraldinio vaizdo spėjimų.",
+          "navMediaId": "m-c4b5e16fc8a5a298b30998c7",
+          "navImagePosition": "50% 70%",
+          "claimRefs": [
+            {
+              "claimId": "t-19738",
+              "citationId": "c-22445",
+              "label": "Lenkijos ir LDK atstovavimas Kariuomenės ir Iždo komisijose",
+              "role": "contextual"
+            }
+          ],
+          "items": [
+            {
+              "exhibitionItemId": "vas-reformos-01",
+              "mediaId": "m-fc3a621e2a70ed1d1c6340d6",
+              "titleLt": "Iždo komisijos dokumentas, 1787",
+              "descriptionLt": "1787 m. LDK Iždo komisijos dokumente antspaudas įkomponuotas į visą rašto lapą. Vaizdas leidžia pamatyti tikrąją jo aplinką: ženklas veikė ne atskirai, o greta teksto, parašų ir administracinės procedūros.",
+              "catalogDescriptionLt": "1787 m. LDK Iždo komisijos dokumentas su antspaudu ir Vyčio ženklu.",
+              "creatorDisplay": "LDK Iždo komisija",
+              "dateDisplay": "1787 m.",
+              "evidenceNoteLt": "Paroda neidentifikuoja sunkiai įskaitomo dokumento turinio; institucija ir data perimtos iš katalogo.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-reformos-02",
+              "mediaId": "m-c4b5e16fc8a5a298b30998c7",
+              "titleLt": "Iždo komisija reformų metais",
+              "descriptionLt": "1791 m. Iždo komisijos atspaudas priklauso Ketverių metų seimo reformų laikotarpiui. Institucijos vardas ir Vytis dokumente kartu rodė, kad finansų administravimas buvo ne privatus valdovo reikalas, o atskiros valstybės įstaigos kompetencija.",
+              "catalogDescriptionLt": "1791 m. LDK Iždo komisijos dokumento antspaudas su Vyčiu.",
+              "creatorDisplay": "LDK Iždo komisija",
+              "dateDisplay": "1791 m.",
+              "evidenceNoteLt": "Ryšys su reformų laikotarpiu grindžiamas data ir susietu komisijų teiginiu; konkretus dokumento sprendimas nenurodomas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-19739",
+                  "citationId": "c-22444",
+                  "label": "Iždo ir karo komisijų vieta reformuotoje vyriausybėje",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "vas-reformos-03",
+              "mediaId": "m-0164e9faa93b7ef4489df66e",
+              "titleLt": "Minsko civilinės-karinės komisijos antspaudas",
+              "descriptionLt": "1791 m. Minsko civilinės-karinės komisijos antspaudas rodo reformų valstybę pavieto mastu. Centrinis Vytis jungė vietos įstaigą su LDK, o aplinkinis įrašas turėjo leisti atpažinti konkretų dokumento leidėją.",
+              "catalogDescriptionLt": "1791 m. Minsko civilinės-karinės komisijos antspaudas su Vyčiu.",
+              "creatorDisplay": "Minsko civilinė-karinė komisija",
+              "dateDisplay": "1791 m.",
+              "evidenceNoteLt": "Dėl ribotos vaizdo raiškos paroda neperrašo visos antspaudo legendos.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-reformos-04",
+              "mediaId": "m-cd995c0cbd1083b454f6ab12",
+              "titleLt": "Braslavo pavietas prisiekia reformų valstybei",
+              "descriptionLt": "1792 m. Braslavo pavieto antspaudas primena, kad reformų likimą sprendė ir vietos bajorų politinės bendruomenės. Tais pačiais metais LDK pavietų seimeliai rinkosi pareikšti santykį su Gegužės trečiosios konstitucija.",
+              "catalogDescriptionLt": "Braslavo pavieto 1792 m. antspaudas su Vyčiu.",
+              "creatorDisplay": "Braslavo pavieto kanceliarija",
+              "dateDisplay": "1792 m.",
+              "evidenceNoteLt": "Eksponatas dokumentuoja pavieto antspaudą, o seimelių priesaikos kontekstas pateikiamas atskiru šaltiniu; neteigiama, kad šiuo atspaudu buvo patvirtintas pats priesaikos aktas.",
+              "featured": true,
+              "claimRefs": [
+                {
+                  "claimId": "t-77896",
+                  "citationId": "c-75212",
+                  "label": "LDK pavietų seimelių santykis su Gegužės trečiosios konstitucija",
+                  "role": "contextual"
+                }
+              ]
+            },
+            {
+              "exhibitionItemId": "vas-reformos-05",
+              "mediaId": "m-fac77d2c59b6aae47171d310",
+              "titleLt": "Užtikrinimo deputacijos ženklas",
+              "descriptionLt": "1794 m. Užtikrinimo deputacijos dokumentas rodo, kad sukilimo ir politinės krizės metais valdžia vis tiek kūrė įstaigas, rašė ir antspaudavo. Institucijos pavadinimas, parašai ir Vytis bandė suteikti sprendimui atpažįstamą teisėtumo formą.",
+              "catalogDescriptionLt": "1794 m. Užtikrinimo deputacijos dokumento antspaudas su Vyčiu.",
+              "creatorDisplay": "Užtikrinimo deputacija",
+              "dateDisplay": "1794 m.",
+              "evidenceNoteLt": "Institucijos lietuviškas pavadinimas pateikiamas pagal katalogo antraštę; jos kompetencijos iš vieno atspaudo papildomai neapibrėžiamos.",
+              "featured": true,
+              "claimRefs": []
+            },
+            {
+              "exhibitionItemId": "vas-reformos-06",
+              "mediaId": "m-d0533d062a33752f9f895a4d",
+              "titleLt": "Iždo deputacijos dokumentas, 1794",
+              "descriptionLt": "1794 m. iždo deputacijos dokumentas užbaigia parodą ne valstybės simbolio išnykimu, o paskutiniu administraciniu veiksmu. Net griūvančioje politinėje santvarkoje reikėjo tvarkyti lėšas, įvardyti atsakingą instituciją ir jos sprendimą patvirtinti.",
+              "catalogDescriptionLt": "1794 m. iždo deputacijos dokumentas su Vyčio antspaudu.",
+              "creatorDisplay": "Iždo deputacija",
+              "dateDisplay": "1794 m.",
+              "evidenceNoteLt": "Paroda šį dokumentą naudoja kaip chronologinę pabaigą; ji neteigia, kad tai paskutinis išlikęs LDK institucinis antspaudas.",
+              "featured": true,
+              "claimRefs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

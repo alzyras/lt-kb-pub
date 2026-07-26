@@ -75,7 +75,7 @@ export type ExhibitionManifest = {
   sections: ExhibitionSection[]
   imageUrls: string[]
   updatedAt: string
-  theme?: "historical" | "interwar" | "symbols"
+  theme?: "historical" | "interwar" | "symbols" | "documents"
   relatedObject?: {
     href: string
     label: string
@@ -316,6 +316,7 @@ export function loadExhibitions(): ExhibitionManifest[] {
     "quartz/static/exhibitionsSource.json",
     "quartz/static/exhibitionSupplements.json",
     "quartz/static/exhibitionStateSymbols.json",
+    "quartz/static/exhibitionAuthoritySeals.json",
   ].map((path) => resolve(process.cwd(), path))
   const exhibitions = sourcePaths
     .flatMap((path) => sourcePayload(path))

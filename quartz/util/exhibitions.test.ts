@@ -56,6 +56,7 @@ describe("exhibition manifest", () => {
   const stateSymbols = exhibitions.find(
     (entry) => entry.exhibitionId === "lietuvos-valstybes-zenklai",
   )
+  const authoritySeals = exhibitions.find((entry) => entry.exhibitionId === "valdzia-vaske")
 
   test("keeps the curated stories complete and distinct", () => {
     assert.ok(historical)
@@ -192,6 +193,48 @@ describe("exhibition manifest", () => {
         assert.ok(item.evidenceNoteLt?.trim(), `${item.exhibitionItemId} needs an evidence note`)
         assert.equal(item.claimRefs.length, 1, `${item.exhibitionItemId} needs one claim`)
       }
+    }
+  })
+
+  test("keeps the authority-and-seals story institutional, complete, and distinct", () => {
+    assert.ok(authoritySeals)
+    assert.equal(authoritySeals.title, "Valdžia vaške")
+    assert.equal(authoritySeals.subtitle, "Kas kalbėjo Lietuvos vardu, 1387–1794")
+    assert.equal(authoritySeals.slug, "parodos/valdzia-vaske")
+    assert.equal(authoritySeals.theme, "documents")
+    assert.deepEqual(authoritySeals.relatedObject, {
+      href: "/objektai/daiktai/Antspaudas",
+      label: "Antspaudas istorijos objektas",
+    })
+    assert.deepEqual(
+      authoritySeals.sections.map((section) => section.title),
+      [
+        "Nuo rašto iki galiojančio akto",
+        "Valdovo raštas kasdienybėje",
+        "Didysis antspaudas kalba valstybės vardu",
+        "Institucijos įgyja savo balsą",
+        "Paskutiniai reformų valstybės antspaudai",
+      ],
+    )
+    assert.equal(exhibitionItemCount(authoritySeals), 23)
+    assert.equal(exhibitionFeaturedCount(authoritySeals), 23)
+    const items = authoritySeals.sections.flatMap((section) => section.items)
+    assert.equal(new Set(items.map((item) => item.mediaId)).size, items.length)
+    for (const section of authoritySeals.sections) {
+      assert.ok(
+        section.items.some((item) => item.mediaId === section.navMediaId),
+        `${section.sectionId} navigation image must be one of its exhibits`,
+      )
+      assert.ok(section.navImagePosition?.trim(), `${section.sectionId} needs an image focus`)
+      assert.ok(section.evidenceNoteLt?.trim(), `${section.sectionId} needs an evidence note`)
+      assert.equal(section.claimRefs.length, 1, `${section.sectionId} needs one contextual claim`)
+    }
+    for (const item of items) {
+      assert.ok(item.creatorDisplay?.trim(), `${item.exhibitionItemId} needs a curated creator`)
+      assert.ok(item.dateDisplay?.trim(), `${item.exhibitionItemId} needs a curated date`)
+      assert.ok(item.evidenceNoteLt?.trim(), `${item.exhibitionItemId} needs an evidence note`)
+      assert.doesNotMatch(item.creatorDisplay ?? "", /Unknown author|https?:\/\//i)
+      assert.doesNotMatch(item.dateDisplay ?? "", /date QS:|\d{4}-\d{2}-\d{2} \d{2}:/i)
     }
   })
 
