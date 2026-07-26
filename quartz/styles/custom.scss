@@ -2046,3 +2046,599 @@ li.section-li .listing-evidence-meta {
 html.hide-person-parentheticals .person-title-parenthetical {
   display: none;
 }
+
+// Long-form, source-led editorial pages.
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .left.sidebar,
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .right.sidebar {
+  display: none !important;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header {
+  box-sizing: border-box;
+  width: min(100% - 2rem, 1080px);
+  margin: 0 auto !important;
+  padding-bottom: 1.25rem;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header > .popover-hint {
+  width: min(100%, 930px);
+  margin-inline: auto;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
+  max-width: 18ch;
+  margin-top: clamp(2.2rem, 6vw, 5.6rem);
+  font-size: clamp(3rem, 6.5vw, 6.6rem);
+  font-weight: 900;
+  letter-spacing: -0.065em;
+  line-height: 0.88;
+  text-wrap: balance;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .content-meta,
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .object-map-cta,
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .tags {
+  max-width: 930px;
+  margin-inline: auto;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center {
+  display: block !important;
+  grid-area: grid-center;
+  grid-column: 1 / -1 !important;
+  width: 100%;
+  min-width: 0;
+}
+
+body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature {
+  box-sizing: border-box;
+  width: min(100% - 2rem, 820px);
+  max-width: none;
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4vw, 3.5rem) 0 5rem;
+}
+
+.puota-feature {
+  font-size: clamp(1.03rem, 1.4vw, 1.16rem);
+  line-height: 1.72;
+}
+
+.puota-feature .puota-kicker,
+.articles-index .article-card-kicker {
+  margin: 0 0 1rem;
+  color: var(--bm-red);
+  font-family: var(--codeFont);
+  font-size: 0.76rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.puota-feature .puota-dek {
+  margin: 0 0 clamp(2rem, 5vw, 4rem);
+  color: var(--ui-text);
+  font-size: clamp(1.28rem, 2.5vw, 1.8rem);
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  line-height: 1.28;
+}
+
+.puota-feature h2 {
+  margin: clamp(4rem, 9vw, 7rem) 0 1.35rem;
+  padding-top: 0.75rem;
+  border-top: 5px solid var(--bm-black);
+  color: var(--ui-text);
+  font-size: clamp(2rem, 4.8vw, 3.55rem);
+  font-weight: 900;
+  letter-spacing: -0.055em;
+  line-height: 0.98;
+  text-wrap: balance;
+}
+
+:root[saved-theme="dark"] .puota-feature h2 {
+  border-top-color: var(--ui-text);
+}
+
+.puota-feature p,
+.puota-feature li {
+  text-wrap: pretty;
+}
+
+.puota-feature a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+.puota-feature .internal {
+  font-weight: 700;
+}
+
+.puota-feature .puota-hero,
+.puota-feature .puota-figure {
+  margin-block: clamp(2rem, 6vw, 4.5rem);
+}
+
+.puota-feature .puota-hero,
+.puota-feature .puota-figure--wide {
+  position: relative;
+  left: 50%;
+  width: min(calc(100vw - 2rem), 1120px);
+  margin-left: -50%;
+  transform: translateX(-50%);
+}
+
+.puota-feature figure {
+  margin-inline: 0;
+}
+
+.puota-feature figure img {
+  display: block;
+  width: 100%;
+  max-height: 78vh;
+  border: 1px solid var(--ui-border);
+  border-radius: 0;
+  object-fit: cover;
+  box-shadow: var(--ui-shadow);
+}
+
+.puota-feature .puota-hero img {
+  aspect-ratio: 16 / 9;
+  object-position: center 45%;
+}
+
+.puota-feature figcaption {
+  max-width: 72ch;
+  margin: 0.8rem auto 0;
+  color: var(--ui-muted);
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.015em;
+  line-height: 1.5;
+}
+
+.puota-feature .puota-thesis {
+  position: relative;
+  left: 50%;
+  box-sizing: border-box;
+  width: min(calc(100vw - 2rem), 980px);
+  margin: clamp(3rem, 8vw, 6rem) 0;
+  padding: clamp(1.5rem, 4vw, 3.25rem);
+  background: #000;
+  color: #fff;
+  transform: translateX(-50%);
+}
+
+.puota-feature .puota-thesis > span {
+  display: block;
+  margin-bottom: 1rem;
+  color: #ff7657;
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  font-weight: 850;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.puota-feature .puota-thesis p {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(1.35rem, 3vw, 2.2rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.18;
+}
+
+.puota-feature .puota-object-grid {
+  position: relative;
+  left: 50%;
+  display: grid;
+  width: min(calc(100vw - 2rem), 980px);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1rem, 3vw, 2rem);
+  margin: clamp(2rem, 6vw, 4.5rem) 0;
+  transform: translateX(-50%);
+}
+
+.puota-feature .puota-object-grid .puota-figure {
+  display: grid;
+  grid-template-rows: 32rem auto;
+  margin: 0;
+}
+
+.puota-feature .puota-object-grid img {
+  height: 100%;
+  max-height: none;
+  background: #161216;
+  object-fit: contain;
+}
+
+.puota-feature .puota-figure--portrait {
+  width: min(100%, 34rem);
+  margin-inline: auto;
+}
+
+.puota-feature .puota-figure--portrait img {
+  max-height: 42rem;
+  object-fit: contain;
+  background: #161216;
+}
+
+.puota-feature table {
+  width: max-content;
+  min-width: 100%;
+  font-size: 0.79rem;
+  line-height: 1.45;
+}
+
+.puota-feature th {
+  background: var(--bm-black);
+  color: #fff;
+}
+
+:root[saved-theme="dark"] .puota-feature th {
+  background: var(--ui-surface-raised);
+}
+
+.puota-feature .table-container {
+  position: relative;
+  left: 50%;
+  width: min(calc(100vw - 2rem), 1120px);
+  transform: translateX(-50%);
+}
+
+.puota-feature .puota-editorial-note {
+  margin-top: 4rem;
+  padding: 1.4rem 1.5rem;
+  border: 1px solid var(--bm-purple);
+  background: color-mix(in srgb, var(--bm-purple) 9%, var(--ui-surface));
+  color: var(--ui-text);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+body[data-slug="straipsniai"] .articles-index {
+  width: min(100%, 900px);
+}
+
+.articles-index .articles-index-dek {
+  max-width: 45ch;
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  font-weight: 650;
+  line-height: 1.3;
+}
+
+.articles-index .article-card {
+  display: grid;
+  gap: 0.8rem;
+  box-sizing: border-box;
+  margin: 2rem 0 4rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  border: 1px solid var(--ui-border);
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.18)),
+    url("/static/articles/viena-diena-xviii-a-vilniuje/radvilu-puota-orlovskis.jpg")
+      center 45% / cover;
+  color: #fff;
+  text-decoration: none;
+  box-shadow: var(--ui-shadow);
+}
+
+.articles-index .article-card--vilnius {
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.16)),
+    url("/static/articles/viena-diena-xviii-a-vilniuje/vilniaus-piliu-panorama-1785-1786.jpg")
+      center 44% / cover;
+}
+
+.articles-index .article-card strong {
+  max-width: 12ch;
+  color: #fff;
+  font-size: clamp(2.2rem, 6vw, 4.7rem);
+  font-weight: 900;
+  letter-spacing: -0.055em;
+  line-height: 0.92;
+}
+
+.articles-index .article-card > span:not(.article-card-kicker) {
+  max-width: 46ch;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.articles-index .article-card em {
+  margin-top: 1rem;
+  color: #fff;
+  font-family: var(--codeFont);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@media all and (max-width: 780px) {
+  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page > #quartz-body {
+    padding: 0 !important;
+  }
+
+  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .page-header {
+    width: min(100% - 1.5rem, 1080px);
+  }
+
+  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
+    margin-top: 2.4rem;
+    font-size: clamp(2.6rem, 11vw, 4.3rem);
+    line-height: 0.92;
+  }
+
+  body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature {
+    width: min(100% - 1.5rem, 820px);
+    padding-top: 1.5rem;
+  }
+
+  .puota-feature .puota-hero,
+  .puota-feature .puota-figure--wide,
+  .puota-feature .puota-thesis,
+  .puota-feature .puota-object-grid,
+  .puota-feature .table-container {
+    width: calc(100vw - 1.5rem);
+  }
+
+  .puota-feature .puota-object-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .puota-feature .puota-object-grid .puota-figure {
+    grid-template-rows: minmax(20rem, 70vh) auto;
+  }
+
+  .puota-feature h2 {
+    border-top-width: 4px;
+  }
+
+  .puota-feature .puota-hero img {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+// Long-form historical articles
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] {
+  --history-ink: var(--dark);
+  --history-muted: color-mix(in srgb, var(--dark) 68%, transparent);
+  --history-rule: color-mix(in srgb, var(--dark) 18%, transparent);
+  --history-accent: #8b3d2e;
+  --history-paper: color-mix(in srgb, var(--light) 92%, #c9a967 8%);
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .left.sidebar,
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .right.sidebar {
+  display: none !important;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .center {
+  display: block !important;
+  grid-area: grid-center;
+  grid-column: 1 / -1 !important;
+  width: 100%;
+  min-width: 0;
+  margin-inline: auto;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header,
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint {
+  width: min(100%, 760px);
+  margin-inline: auto;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header h1 {
+  max-width: 18ch;
+  margin-top: 0.5rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.65rem, 6.3vw, 5.55rem);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 0.94;
+  text-wrap: balance;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint {
+  color: var(--history-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.08rem;
+  line-height: 1.78;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint > h2 {
+  margin-top: clamp(3.3rem, 8vw, 5.5rem);
+  padding-top: 1rem;
+  border-top: 1px solid var(--history-rule);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(1.65rem, 3.7vw, 2.55rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+  text-wrap: balance;
+}
+
+body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint > p {
+  margin-block: 1.25rem;
+}
+
+.history-article-kicker,
+.history-article-card__meta {
+  color: var(--history-accent);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.history-article-lead {
+  margin-top: 1.5rem !important;
+  color: var(--history-muted);
+  font-size: clamp(1.3rem, 2.6vw, 1.65rem);
+  letter-spacing: -0.018em;
+  line-height: 1.48;
+}
+
+.history-article-note {
+  margin: 2.5rem 0;
+  padding: 1.3rem 1.5rem 1.35rem;
+  border-left: 4px solid var(--history-accent);
+  background: var(--history-paper);
+  color: var(--history-muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.96rem;
+  line-height: 1.6;
+}
+
+.history-article-note strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--history-ink);
+}
+
+.history-article-figure {
+  margin: 2.5rem 0;
+}
+
+.history-article-figure img {
+  display: block;
+  width: 100%;
+  max-height: 42rem;
+  border-radius: 2px;
+  object-fit: cover;
+}
+
+.history-article-figure figcaption {
+  margin-top: 0.75rem;
+  color: var(--history-muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+
+.history-article-figure figcaption span {
+  color: var(--history-ink);
+  font-weight: 750;
+}
+
+.history-article-figure--hero,
+.history-article-figure--wide,
+.history-article-figure--map {
+  width: min(1120px, calc(100vw - 3rem));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.history-article-figure--hero {
+  margin-top: 2rem;
+}
+
+.history-article-figure--hero img {
+  max-height: none;
+  aspect-ratio: 16 / 9;
+  object-position: center 44%;
+}
+
+.history-article-figure--map {
+  padding: clamp(1rem, 4vw, 2.6rem);
+  border: 1px solid var(--history-rule);
+  background: #f4f0e6;
+}
+
+.history-article-figure--map img {
+  max-height: 39rem;
+  object-fit: contain;
+}
+
+.history-article-figure--portrait,
+.history-article-figure--object {
+  width: min(70%, 28rem);
+  margin-inline: auto;
+}
+
+.history-article-figure--portrait img {
+  max-height: 42rem;
+  object-fit: contain;
+  background: var(--history-paper);
+}
+
+.history-article-figure--object img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.history-article-pullquote {
+  width: min(960px, calc(100vw - 3rem));
+  margin: clamp(3rem, 8vw, 5.5rem) 50%;
+  padding: 0;
+  transform: translateX(-50%);
+  border: 0;
+  color: var(--history-accent);
+  font-size: clamp(1.75rem, 4vw, 3.1rem);
+  font-style: normal;
+  letter-spacing: -0.035em;
+  line-height: 1.15;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.history-article-credits {
+  margin-top: 2rem !important;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--history-rule);
+  color: var(--history-muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+@media all and (max-width: 720px) {
+  body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header,
+  body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint {
+    width: min(100% - 1.5rem, 760px);
+  }
+
+  body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header h1 {
+    font-size: clamp(2.45rem, 12vw, 3.6rem);
+  }
+
+  .history-article-figure--hero,
+  .history-article-figure--wide,
+  .history-article-figure--map,
+  .history-article-pullquote {
+    width: calc(100vw - 1.5rem);
+  }
+
+  .history-article-figure--portrait,
+  .history-article-figure--object {
+    width: min(100%, 28rem);
+  }
+
+}

@@ -132,6 +132,7 @@ const LIHeader: QuartzComponent = (props: QuartzComponentProps) => {
           />
           <a href={resolveRelative(currentSlug, navSlug("zemelapis"))}>Žemėlapis</a>
           <a href={resolveRelative(currentSlug, navSlug("galerija"))}>Galerija</a>
+          <a href={resolveRelative(currentSlug, navSlug("straipsniai"))}>Straipsniai</a>
           <a href={resolveRelative(currentSlug, navSlug("parodos"))}>Parodos</a>
         </nav>
       </div>
