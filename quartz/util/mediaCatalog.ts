@@ -67,9 +67,9 @@ export function canonicalizeMediaObjectPaths(
   }))
 }
 
-export function loadCanonicalMediaCatalog(): MediaEntry[] {
+function loadMediaCatalogFile(fileName: string): MediaEntry[] {
   try {
-    const path = resolve(process.cwd(), "quartz/static/mediaCatalogSource.json")
+    const path = resolve(process.cwd(), "quartz/static", fileName)
     const payload = JSON.parse(readFileSync(path, "utf8")) as { entries?: unknown }
     return Array.isArray(payload.entries)
       ? payload.entries.filter((entry): entry is MediaEntry =>
@@ -79,6 +79,13 @@ export function loadCanonicalMediaCatalog(): MediaEntry[] {
   } catch {
     return []
   }
+}
+
+export function loadCanonicalMediaCatalog(): MediaEntry[] {
+  return mergeMediaEntries([
+    ...loadMediaCatalogFile("mediaCatalogSource.json"),
+    ...loadMediaCatalogFile("articleMediaCatalog.json"),
+  ])
 }
 
 export function buildMediaCatalog(files: MediaCatalogFile[]): MediaEntry[] {

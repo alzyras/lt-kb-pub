@@ -33,6 +33,10 @@ const defaultOptions: Options = {
   externalLinkIcon: true,
 }
 
+export function isGeneratedMediaDetailLink(dest: string): boolean {
+  return /^\/galerija\/[^?#]+--m-[a-zA-Z0-9_-]+(?:[?#].*)?$/.test(dest)
+}
+
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
@@ -106,7 +110,17 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 const isInternal = !(
                   isAbsoluteUrl(dest, { httpOnly: false }) || dest.startsWith("#")
                 )
-                if (isInternal) {
+                const isGeneratedMediaDetail = isInternal && isGeneratedMediaDetailLink(dest)
+                if (isGeneratedMediaDetail) {
+                  // Media detail pages are emitted after Markdown has been transformed,
+                  // so they are intentionally absent from ctx.allSlugs here. Preserve
+                  // their canonical double-hyphen route instead of slugifying it and
+                  // incorrectly removing the href as a broken link.
+                  const url = new URL(dest, "https://base.com/")
+                  const full = decodeURIComponent(stripSlashes(url.pathname, true)) as FullSlug
+                  node.properties["data-slug"] = full
+                  outgoing.add(simplifySlug(full))
+                } else if (isInternal) {
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
                     dest,

@@ -11,7 +11,7 @@ cssclasses:
   - articles-index
 ---
 
-<p class="articles-index-dek">Ilgieji pasakojimai, kuriuose žinių bazės objektai, claimai ir citatos sujungiami į vieną argumentą. Kiekviename tekste aiškiai atskiriame šaltinio liudijimą, istoriko interpretaciją ir redakcinę sintezę.</p>
+<p class="articles-index-dek">Ilgieji pasakojimai, kuriuose žinių bazės objektai, patikrinti teiginiai ir citatos sujungiami į vieną argumentą. Kiekviename tekste aiškiai atskiriame šaltinio liudijimą, istoriko interpretaciją ir redakcinę sintezę.</p>
 
 ## Publikacijos
 
