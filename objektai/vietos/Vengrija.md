@@ -213,12 +213,9 @@ media_all_json: |-
 <a id="claim-t-180773"></a>
 - t-010
   teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1211 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-164347
@@ -313,26 +310,61 @@ media_all_json: |-
 
 <a id="claim-t-200719"></a>
 - t-016
-  teiginys: "1738 m. Marcijonas Mykolas Oginskis tiesiai iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus."
-  atnaujinta: "2026-07-14 18:18"
+  teiginys: "1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus, o vyno atgabenimas į Vilnių kainavo dar 125 raudonuosius auksinus."
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_patikimumas: "prekiavo_su -> Vengrija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marcijonas Mykolas Oginskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Marcijonas Mykolas Oginskis pirko vyną iš Vengrijos, t. y. prekiavo su Vengrija."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   temporaliniai_duomenys: "prekybos laikotarpis: 1738 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas pirkėjas, data, vieta, kiekis ir suma. Nepridėta atvežimo į Vilnių kaina, nes tai atskiras logistikos faktas."
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
+  temporalinis_llm_pakomentavimas: "Patikslintas neaiškus įvardis „jo“ ir aiškiai įvardytas vyno atgabenimas; išlaikytos visos šaltinyje nurodytos sumos."
+  vertinimo_atnaujinta: "2026-07-26T17:35:53Z"
   pagrindžia:
     - c-184064
+
+<a id="claim-t-202545"></a>
+- t-017
+  teiginys: "1738 m. Mykolo Kleopo prosenelis Marcijonas Mykolas Oginskis iš Vengrijos pirko trylika statinių seno įprastinio vyno, dvi statines seno sausų uogų vyno ir dešimt statinių dviejų rūšių jauno vyno už 274 raudonuosius auksinus."
+  atnaujinta: "2026-07-26 20:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "prekiavo_su -> Vengrija: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Marcijonas Mykolas Oginskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Marcijonas Mykolas Oginskis pirko vyną iš Vengrijos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  temporaliniai_duomenys: "prekybos laikotarpis: 1738 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškai taisyklingas ir tiksliai perteikia 1738 m. pirkinio sudėtį bei kainą."
+  pagrindžia:
+    - c-185903
+
+<a id="claim-t-203630"></a>
+- t-018
+  teiginys: "Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
+  atnaujinta: "2026-08-01 12:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-186234
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -426,7 +458,8 @@ media_all_json: |-
 - id: c-164347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -448,7 +481,8 @@ media_all_json: |-
 - id: c-164348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
 
@@ -470,7 +504,8 @@ media_all_json: |-
 - id: c-164349
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
@@ -490,7 +525,8 @@ media_all_json: |-
 - id: c-164351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 300-301"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 300-301."
   citata_originali: |
     Pagaliau laimėjo lietuviai
     ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
@@ -513,7 +549,8 @@ media_all_json: |-
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 53."
   citata_originali: |
     Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
@@ -535,7 +572,8 @@ media_all_json: |-
 - id: c-164354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą
 
@@ -552,7 +590,8 @@ media_all_json: |-
 - id: c-164355
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
     Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
@@ -572,7 +611,8 @@ media_all_json: |-
 - id: c-164356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
@@ -598,7 +638,8 @@ media_all_json: |-
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417-418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417-418."
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -625,7 +666,8 @@ media_all_json: |-
 - id: c-175539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -646,7 +688,8 @@ media_all_json: |-
 - id: c-175980
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     Lietuvos vidaus gyvenimas Stepono Batoro laikais
     Tikybiniai santykiai.** Nors Stepono Batoro tėvynėje, Veng-
@@ -668,9 +711,47 @@ media_all_json: |-
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:35"
   pagrindzia:
     - t-016
+
+- id: c-185903
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 20:29"
+  pagrindzia:
+    - t-017
+
+- id: c-186234
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 22"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
+  citata_originali: |
+    Ypač
+    vertinga yra J. Topolskio pateikta regionų
+    klasifikacijos pagal vyraujantį palivarko
+    produkcijos pobūdį schema. Grūdų augi­
+    nimo regionui priskiriama Lenkija, Livo­
+    nijos žemės, avių ir galvijų auginimo regi­
+    onams – Mecklenburgas, Vakarų Pamarys,
+    Moldavija, Valakija (dabartinė Rumunijos
+    sritis), Vengrija. Miškų ūkio regionu laiko­
+    mos Livonijos žemės, kanapių ir linų ga­
+    mybos regionais – Lietuva ir rusėniškosios
+    LDK žemės (dabartinė Rytų Baltarusija).
+  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
+  statusas: verified
+  atnaujinta: "2026-08-01 12:36"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

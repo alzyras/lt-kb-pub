@@ -8,14 +8,11 @@ import { sharedPageComponents } from "../../../quartz.layout"
 import { GraphExplorer } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
-import { buildGraphSlugMap } from "../../util/graphIdentity"
+import { buildGraphSlugMap, withPublicObjectNodes } from "../../util/graphIdentity"
 import { buildAssetVersion } from "../../util/buildVersion"
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import {
-  buildCanonicalRelationIndex,
-  readRelationDocuments,
-} from "../../util/relations"
+import { buildCanonicalRelationIndex, readRelationDocuments } from "../../util/relations"
 
 function relationEdgeId(source: string, target: string): string {
   let hash = 2166136261
@@ -26,7 +23,10 @@ function relationEdgeId(source: string, target: string): string {
   return `canonical-${(hash >>> 0).toString(16).padStart(8, "0")}`
 }
 
-function withCanonicalRelations(topology: any, relations: ReturnType<typeof buildCanonicalRelationIndex>): any {
+function withCanonicalRelations(
+  topology: any,
+  relations: ReturnType<typeof buildCanonicalRelationIndex>,
+): any {
   const nodes = Array.isArray(topology.nodes) ? topology.nodes : []
   const nodeBySlug = new Map(nodes.map((node: any) => [String(node.slug ?? ""), node]))
   const ensureNode = (slug: string) => {
@@ -128,19 +128,22 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
         readFileSync(resolve(process.cwd(), "quartz/static/graph-data/topology.json"), "utf8"),
       )
       const documents = readRelationDocuments(ctx.argv.directory, ctx.allFiles, ctx.slugMap)
-      const canonicalRelations = buildCanonicalRelationIndex(
-        documents,
-        ctx.relationTargetMap ?? {},
-      )
+      const canonicalRelations = buildCanonicalRelationIndex(documents, ctx.relationTargetMap ?? {})
       const mergedTopology = withCanonicalRelations(topology, canonicalRelations)
       const slugMap = buildGraphSlugMap(
         content,
         buildAssetVersion,
-        (mergedTopology.nodes ?? []).map((node: { slug?: string }) => String(node.slug ?? "")).filter(Boolean),
+        (mergedTopology.nodes ?? [])
+          .map((node: { slug?: string }) => String(node.slug ?? ""))
+          .filter(Boolean),
+      )
+      const completeTopology = withPublicObjectNodes(
+        mergedTopology,
+        Object.keys(slugMap.graphToPublic),
       )
       yield write({
         ctx,
-        content: JSON.stringify(mergedTopology),
+        content: JSON.stringify(completeTopology),
         slug: "static/graph-data/topology" as FullSlug,
         ext: ".json",
       })

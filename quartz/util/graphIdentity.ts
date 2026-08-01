@@ -9,6 +9,37 @@ export type GraphSlugMap = {
   aliases: Record<string, string>
 }
 
+export function withPublicObjectNodes(topology: any, graphSlugs: Iterable<string>): any {
+  const nodes = Array.isArray(topology?.nodes) ? [...topology.nodes] : []
+  const known = new Set(nodes.map((node: any) => cleanPath(node?.slug)))
+  for (const value of graphSlugs) {
+    const slug = cleanPath(value)
+    if (
+      !slug.startsWith("objektai/") ||
+      slug.startsWith("objektai/saltiniai/") ||
+      known.has(slug)
+    ) {
+      continue
+    }
+    nodes.push({
+      slug,
+      title: slug.split("/").filter(Boolean).at(-1) ?? slug,
+      type: "",
+      claimCount: 0,
+      quoteCount: 0,
+      dateStart: null,
+      dateEnd: null,
+      sourceTitles: [],
+      sourceIds: [],
+      relationCounts: {},
+      degree: 0,
+      connected: false,
+    })
+    known.add(slug)
+  }
+  return { ...topology, nodes }
+}
+
 function cleanPath(value: unknown): string {
   return String(value ?? "")
     .normalize("NFC")
@@ -56,8 +87,13 @@ export function buildGraphSlugMap(
     const publicSlug = cleanPath(file.data.slug)
     const relativePath = file.data.relativePath ?? file.data.filePath
     const sourceGraphSlug = graphSlugFromRelativePath(relativePath)
-    if (!publicSlug.startsWith("objektai/") || publicSlug.startsWith("objektai/saltiniai/")) continue
-    if (!sourceGraphSlug.startsWith("objektai/") || sourceGraphSlug.startsWith("objektai/saltiniai/")) continue
+    if (!publicSlug.startsWith("objektai/") || publicSlug.startsWith("objektai/saltiniai/"))
+      continue
+    if (
+      !sourceGraphSlug.startsWith("objektai/") ||
+      sourceGraphSlug.startsWith("objektai/saltiniai/")
+    )
+      continue
 
     const directory = sourceGraphSlug.slice(0, sourceGraphSlug.lastIndexOf("/"))
     const rawAliases = [
@@ -69,7 +105,8 @@ export function buildGraphSlugMap(
       .map((value) => cleanPath(value))
       .filter(Boolean)
       .map((value) => (value.startsWith("objektai/") ? value : `${directory}/${value}`))
-    const canonicalGraphSlug = topologyMatch([sourceGraphSlug, ...graphAliasCandidates]) ?? sourceGraphSlug
+    const canonicalGraphSlug =
+      topologyMatch([sourceGraphSlug, ...graphAliasCandidates]) ?? sourceGraphSlug
 
     aliases[sourceGraphSlug] = canonicalGraphSlug
     for (const graphAlias of graphAliasCandidates) aliases[graphAlias] = canonicalGraphSlug
@@ -106,10 +143,18 @@ export function buildGraphSlugMap(
 
   return {
     generatedAt,
-    publicToGraph: Object.fromEntries(Object.entries(publicToGraph).sort(([a], [b]) => a.localeCompare(b, "lt"))),
-    graphToPublic: Object.fromEntries(Object.entries(graphToPublic).sort(([a], [b]) => a.localeCompare(b, "lt"))),
-    collisions: Object.fromEntries(Object.entries(collisions).sort(([a], [b]) => a.localeCompare(b, "lt"))),
-    aliases: Object.fromEntries(Object.entries(aliases).sort(([a], [b]) => a.localeCompare(b, "lt"))),
+    publicToGraph: Object.fromEntries(
+      Object.entries(publicToGraph).sort(([a], [b]) => a.localeCompare(b, "lt")),
+    ),
+    graphToPublic: Object.fromEntries(
+      Object.entries(graphToPublic).sort(([a], [b]) => a.localeCompare(b, "lt")),
+    ),
+    collisions: Object.fromEntries(
+      Object.entries(collisions).sort(([a], [b]) => a.localeCompare(b, "lt")),
+    ),
+    aliases: Object.fromEntries(
+      Object.entries(aliases).sort(([a], [b]) => a.localeCompare(b, "lt")),
+    ),
   }
 }
 
@@ -124,7 +169,10 @@ export function resolvePublicSlug(value: string, slugMap?: GraphSlugMap): string
   return slugMap?.graphToPublic[slug] ?? slug
 }
 
-export function graphSlugForPageData(data: Record<string, any>, fallbackPublicSlug: string): string {
+export function graphSlugForPageData(
+  data: Record<string, any>,
+  fallbackPublicSlug: string,
+): string {
   const objectNotePath = data.frontmatter?.object_note_path
   const relativePath = data.relativePath ?? data.filePath
   return graphSlugFromRelativePath(objectNotePath || relativePath || fallbackPublicSlug)

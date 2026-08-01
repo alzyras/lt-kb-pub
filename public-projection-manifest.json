@@ -7553,6 +7553,10 @@
       "content_hash": "cb431fc12da2c1a141b5e60d017ed57e073a39a7720af3d8eb2ba240143ef0f1",
       "rendered_hash": "bf3463a08d499bd3a3cbd964a84ba57fac3b705513efdc63477d223ac0d9c5b6"
     },
+    "objektai/asmenys/Mykolas Petraškevičius.md": {
+      "content_hash": "64cafed94c2ca63efc37bc04e353359651859dacf6adee5cc6362e9969d5be38",
+      "rendered_hash": "6465373873e3c97b6608856a6f68e2924e327d009693e681bbe48930a22a43c2"
+    },
     "objektai/asmenys/Mykolas Romanaitis.md": {
       "content_hash": "b4f01b66a849e3a4afa24a4bafde91bdaf0dea414378cb1164b6f9bb6ce5dc4e",
       "rendered_hash": "0c6df3e43907e7bd85ba63fbacd6d10f270d7bd412754bbedb8caa73025a9e9c"
@@ -39065,6 +39069,14 @@
       "content_hash": "87a3bc18ab8a367884d07bfa12e1e611fbdcf969276f937ed8a322b333bfce77",
       "rendered_hash": "ef11487f8e1d7f749101aa297d2baa1514bbc1e40c6889d54e359babcd9aed6c"
     },
+    "objektai/saltiniai/Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai-01-k-sutikume-prav-r-bajoro-sodybos-vartus-tarnai-i.md": {
+      "content_hash": "c074190d2ea59073fd0faa19a86f6f677af8eeee59da9398b2b814b2c65a957f",
+      "rendered_hash": "30ab2533f00c17b994ef68ead9f691c1f545860d99a7c90cfc4615da6a10d41e"
+    },
+    "objektai/saltiniai/Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai.md": {
+      "content_hash": "25a4168d676884dabe62b46372f6d11f8f00c2d0c2ef0642c501fd1496fcca55",
+      "rendered_hash": "aaff5c1a00cf41d599f1d99798d85db33d48e3f05720f5bf63b8073789e4290b"
+    },
     "objektai/saltiniai/Lituanistinis sąjūdis XIX a. pradžioje.md": {
       "content_hash": "706f95deda4d4b15f1f41ffde3930131864a926d982e15cd740d9cdfc96ff1c7",
       "rendered_hash": "8d097b9acff3d144c2453c4618f54a13a2285b0979c6bf1edb056a5f7117afac"
@@ -50378,8 +50390,8 @@
       "rendered_hash": "0b86b947d02f365fe6c19b6b93970015610360fd438f5ffc55eb012cbd7803ec"
     },
     "objektai/vietos/Vengrija.md": {
-      "content_hash": "b8a097d236dcb33e5ae86b18b3930b9ce2ea6308a94c9d189c05fa21f379ccea",
-      "rendered_hash": "caa10a80bf9667fe2b36a7fd93838e75fcddf8cfc5ff1abcd735b18c5d88c4fa"
+      "content_hash": "4cff088f0efd0fb9819c8f78365242f6e7ad9b8383236a4ee17d542b74b40ff3",
+      "rendered_hash": "e685dd36ff7de4bc5bee07185942ba3c4b3ae65ecbb0d27f03744b77fa882cfa"
     },
     "objektai/vietos/Venta.md": {
       "content_hash": "c1c19d38e4961e3ce863650b6043b94dd1f122c17e4413db19f1c30257c547d4",
@@ -51148,6 +51160,10 @@
     "objektai/vietos/Šalčininkai.md": {
       "content_hash": "04f8573b185062a92e777153aa3e406f4078f5a84aa03dd1e611f89b77217b12",
       "rendered_hash": "d500b06afa40ed28e4b7521d2b232ec1f1058bd9a4e51c975204f99ff8d9f8ca"
+    },
+    "objektai/vietos/Šampanė (vieta).md": {
+      "content_hash": "e13eba2a16b3c6e6ea333b4a54768ccc69d5b43438af1ffc37c0b1aa731a14f9",
+      "rendered_hash": "faa81895d12789f2efc9c48dc2bed8afa7248acb6ebef3eba404da5fee475097"
     },
     "objektai/vietos/Šaurų dvaras.md": {
       "content_hash": "4d2baba555f667cdf64a5c5a91ea3d90803f7f9e8b241dae79b1d779e8f9816a",
@@ -53913,6 +53929,10 @@
       "content_hash": "0208b94d31c714b71df1e0f0b3becc74b2787d4f81e11e1b97aa9c295ae1223e",
       "rendered_hash": "8a870ac4b42458a58e45b7cef6647a42e4ad590df1d88e3cd32f7bca5f26a1af"
     },
+    "objektai/zodynas/ažnyčia (sąvoka).md": {
+      "content_hash": "a9163a411019e96a6be5452a082343b53709babc976c4ea14161f41fd1ee886b",
+      "rendered_hash": "87e640333470b59bcaf40aa0ddf6212d55add2bbcef3e8a90549b97b6d742831"
+    },
     "objektai/zodynas/bajorija.md": {
       "content_hash": "c6bb7a8772f2b7aa60c8d9ce6b4c9fbed580e419191a54bedc4c48e8d2ce0549",
       "rendered_hash": "8f0f1c4e19933da112d208c1e5687b459b8e84b2bb144fce168e85d9e28917cd"
@@ -56268,6 +56288,10 @@
     "objektai/zodynas/rutėnai Rutheni.md": {
       "content_hash": "b4bc0c9624fc082b970da7e69720e600b1d89be13e09e91db2d32ee2bf49f1a5",
       "rendered_hash": "f2ecea3b26586966918e0c04bc9101c38919023a5feb3f0d49b7a934c87b8bfc"
+    },
+    "objektai/zodynas/rykūnė (sąvoka).md": {
+      "content_hash": "acc85e2eb7cf42da348471294b46bd0e89c42a4485ffd07c62c4eeaca3253bbd",
+      "rendered_hash": "446d5e2367f0d4b60dbc580ed80f7366a3eb465dda0d49d4995ce8a7169a816a"
     },
     "objektai/zodynas/rūmininkas vyno pilstytojas.md": {
       "content_hash": "502c0568488a065f2d9242ddbb2e933ab20fb501cfdbcd7ad58cf6ff1db2f3f9",

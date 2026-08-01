@@ -1,7 +1,12 @@
 import assert from "node:assert/strict"
 import test from "node:test"
 import { VFile } from "vfile"
-import { buildGraphSlugMap, resolveGraphSlug, resolvePublicSlug } from "./graphIdentity"
+import {
+  buildGraphSlugMap,
+  resolveGraphSlug,
+  resolvePublicSlug,
+  withPublicObjectNodes,
+} from "./graphIdentity"
 import type { ProcessedContent } from "../plugins/vfile"
 import type { FilePath, FullSlug } from "./path"
 
@@ -56,11 +61,7 @@ test("resolves a filename variant through a canonical frontmatter alias", () => 
     title: "Valerijono bursa",
     aliases: ["objektai/vietos/Valerijono bursa", "Valerijono Bursa"],
   }
-  const map = buildGraphSlugMap(
-    [file],
-    "test-build",
-    ["objektai/vietos/Valerijono bursa"],
-  )
+  const map = buildGraphSlugMap([file], "test-build", ["objektai/vietos/Valerijono bursa"])
   assert.equal(
     resolveGraphSlug("objektai/vietos/Valerijono-bursos", map),
     "objektai/vietos/Valerijono bursa",
@@ -69,4 +70,21 @@ test("resolves a filename variant through a canonical frontmatter alias", () => 
     resolveGraphSlug("objektai/vietos/Valerijono-Bursa", map),
     "objektai/vietos/Valerijono bursa",
   )
+})
+
+test("adds scoped projection objects to stale graph topology without duplicating nodes", () => {
+  const topology = {
+    nodes: [{ slug: "objektai/asmenys/Esamas", title: "Esamas" }],
+    edges: [],
+  }
+  const complete = withPublicObjectNodes(topology, [
+    "objektai/asmenys/Esamas",
+    "objektai/asmenys/Mykolas Petraškevičius",
+    "objektai/saltiniai/Nenaudojamas",
+  ])
+  assert.deepEqual(
+    complete.nodes.map((node: { slug: string }) => node.slug),
+    ["objektai/asmenys/Esamas", "objektai/asmenys/Mykolas Petraškevičius"],
+  )
+  assert.equal(complete.nodes[1].connected, false)
 })
