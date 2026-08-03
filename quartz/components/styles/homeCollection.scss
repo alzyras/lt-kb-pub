@@ -991,7 +991,8 @@
   grid-row: span 2;
 }
 
-.collection-object-tile:nth-child(8) {
+.collection-object-tile:nth-child(6),
+.collection-object-tile:nth-child(11) {
   grid-column: span 2;
 }
 
@@ -1196,17 +1197,22 @@
 
   .collection-object-mosaic {
     grid-template-columns: minmax(0, 1fr);
-    grid-auto-rows: 15rem;
+    grid-auto-rows: auto;
+  }
+
+  .collection-object-tile {
+    height: 15rem;
   }
 
   .collection-object-tile-featured,
-  .collection-object-tile:nth-child(8) {
+  .collection-object-tile:nth-child(6),
+  .collection-object-tile:nth-child(11) {
     grid-column: span 1;
     grid-row: span 1;
   }
 
   .collection-object-tile-featured {
-    min-height: 24rem;
+    height: 24rem;
   }
 
   .collection-intro,

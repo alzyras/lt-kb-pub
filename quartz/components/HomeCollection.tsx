@@ -45,6 +45,11 @@ type MediaObjectCard = ObjectCard &
     imageAlt: string
   }
 
+type HighlightPreference = {
+  slug: FullSlug
+  preferredMediaTitle?: string
+}
+
 type SpotlightClaim = {
   id: string
   text: string
@@ -160,6 +165,65 @@ const categories: Category[] = [
 ]
 
 const typeLabels = new Map(categories.map((category) => [category.type, category.label]))
+
+const highlightPreferences: HighlightPreference[] = [
+  {
+    slug: "objektai/asmenys/Gediminas" as FullSlug,
+    preferredMediaTitle: "Giedzimin. Гедзімін (1709).jpg",
+  },
+  {
+    slug: "objektai/asmenys/Mindaugas" as FullSlug,
+    preferredMediaTitle: "Mindaugas.jpg",
+  },
+  {
+    slug: "objektai/vietos/Vilnius" as FullSlug,
+    preferredMediaTitle: "Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg",
+  },
+  {
+    slug: "objektai/asmenys/Algirdas" as FullSlug,
+    preferredMediaTitle: "Algierd. Альгерд (1831).jpg",
+  },
+  {
+    slug: "objektai/vietos/Trakai" as FullSlug,
+    preferredMediaTitle: "Trakai Island Castle in 19c.jpg",
+  },
+  {
+    slug: "objektai/asmenys/Kęstutis" as FullSlug,
+    preferredMediaTitle: "Seal of Kęstutis, 1379.jpg",
+  },
+  {
+    slug: "objektai/asmenys/Jogaila" as FullSlug,
+    preferredMediaTitle: "Bacciarelli - Władysław II.png",
+  },
+  {
+    slug: "objektai/vietos/Kaunas" as FullSlug,
+    preferredMediaTitle: "Kowno ca 1915 (118737593) (cropped).jpg",
+  },
+  {
+    slug: "objektai/asmenys/Švitrigaila" as FullSlug,
+    preferredMediaTitle: "Lithuanian Grand Duke Švitrigaila (2).jpg",
+  },
+  {
+    slug: "objektai/asmenys/Kazimieras Jogailaitis" as FullSlug,
+  },
+  {
+    slug: "objektai/vietos/Žemaitija" as FullSlug,
+  },
+]
+
+function slugIdentity(slug: string): string {
+  return slug
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLocaleLowerCase("lt-LT")
+    .split("/")
+    .map((segment) => segment.replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""))
+    .join("/")
+}
+
+const highlightPreferencesBySlug = new Map(
+  highlightPreferences.map((preference) => [slugIdentity(preference.slug), preference]),
+)
 
 const objectSearchTypes = [
   { value: "all", label: "Visi" },
@@ -455,7 +519,10 @@ function mediaUrl(entry: MediaEntry): string {
   return cleanText(entry.thumbUrl) || cleanText(entry.sourceUrl)
 }
 
-function preferredDirectMedia(page: QuartzPluginData): MediaEntry | undefined {
+function preferredDirectMedia(
+  page: QuartzPluginData,
+  preferredTitle?: string,
+): MediaEntry | undefined {
   const media = objectMediaSet(page.frontmatter)
   const primaryId = mediaIdentity(media.primary ?? {})
   const candidates = [media.primary, ...media.direct]
@@ -464,6 +531,11 @@ function preferredDirectMedia(page: QuartzPluginData): MediaEntry | undefined {
       (entry) =>
         entry.reviewStatus === "accepted" && entry.directness === "direct" && mediaUrl(entry),
     )
+
+  if (preferredTitle) {
+    const preferred = candidates.find((entry) => cleanText(entry.title) === preferredTitle)
+    if (preferred) return preferred
+  }
 
   return [...new Map(candidates.map((entry) => [mediaIdentity(entry), entry])).values()].sort(
     (a, b) => {
@@ -492,7 +564,10 @@ function mediaCards(
     .map((page): MediaObjectCard | undefined => {
       const slug = page.slug as FullSlug
       const card = cardsBySlug.get(slug)
-      const image = preferredDirectMedia(page)
+      const image = preferredDirectMedia(
+        page,
+        highlightPreferencesBySlug.get(slugIdentity(slug))?.preferredMediaTitle,
+      )
       if (!card || !image) return undefined
 
       const imageKey = mediaIdentity(image)
@@ -517,7 +592,23 @@ function mediaCards(
     })
     .filter((card): card is MediaObjectCard => Boolean(card))
 
-  return selectHomeCollectionCandidates(candidates, limit)
+  const candidatesBySlug = new Map(
+    candidates.map((candidate) => [slugIdentity(candidate.slug), candidate]),
+  )
+  const curated = highlightPreferences
+    .map((preference) => candidatesBySlug.get(slugIdentity(preference.slug)))
+    .filter((candidate): candidate is MediaObjectCard => Boolean(candidate))
+    .slice(0, limit)
+  const curatedSlugs = new Set(curated.map((candidate) => candidate.slug))
+  const curatedImages = new Set(curated.map((candidate) => candidate.imageKey))
+  const fallback = selectHomeCollectionCandidates(
+    candidates.filter(
+      (candidate) => !curatedSlugs.has(candidate.slug) && !curatedImages.has(candidate.imageKey),
+    ),
+    limit - curated.length,
+  )
+
+  return [...curated, ...fallback]
 }
 
 function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
@@ -643,7 +734,7 @@ function browseGroups(
 const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const typeCounts = countByType(allFiles)
   const cards = objectCards(allFiles)
-  const highlights = mediaCards(allFiles, cards, 8)
+  const highlights = mediaCards(allFiles, cards, 11)
   const groups = browseGroups(allFiles, typeCounts)
   const spotlight = buildHomeCollectionSpotlight(allFiles)
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
@@ -853,9 +944,10 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         <div class="collection-section-heading collection-section-heading-compact">
           <p>Akcentai</p>
           <div>
-            <h2 id="collection-highlights-title">Objektai, nuo kurių verta pradėti</h2>
+            <h2 id="collection-highlights-title">Svarbiausi valdovai ir vietos</h2>
             <p class="collection-section-lead">
-              Skirtingi kolekcijos keliai per asmenis, vietas, grupes, autorius ir šaltinius.
+              Lietuvos didieji kunigaikščiai, sostinės, pilys ir istoriniai kraštai, nuo kurių verta
+              pradėti.
             </p>
           </div>
         </div>
@@ -876,7 +968,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
               <span class="collection-object-tile-shade" aria-hidden="true" />
               <span class="collection-object-tile-copy">
                 <span class="collection-type-label">{typeLabels.get(card.type) ?? card.type}</span>
-                <strong>{card.title}</strong>
+                <strong>{plainTitle(card.title)}</strong>
                 {index === 0 && card.summary && <small>{card.summary}</small>}
                 <span class="collection-object-tile-meta">
                   {card.claimCount.toLocaleString("lt-LT")} teiginių
