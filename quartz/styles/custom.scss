@@ -2780,8 +2780,102 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   line-height: 1.52;
 }
 
+.puota-feature .article-claim-inline {
+  margin: 0.7rem 0 1rem;
+  border-left: 3px solid var(--bm-purple);
+  background: color-mix(in srgb, var(--bm-purple) 4%, var(--ui-surface));
+}
+
+.puota-feature .article-claim-inline > summary {
+  position: relative;
+  display: block;
+  padding: 0.35rem 2.5rem 0.35rem 0.85rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.puota-feature .article-claim-inline > summary::-webkit-details-marker {
+  display: none;
+}
+
+.puota-feature .article-claim-inline > summary::after {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.75rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  border: 1px solid color-mix(in srgb, var(--bm-purple) 45%, var(--ui-border));
+  color: var(--bm-purple);
+  content: "+";
+  font-family: var(--codeFont);
+  font-size: 0.95rem;
+  font-weight: 900;
+  line-height: 1.15rem;
+  text-align: center;
+}
+
+.puota-feature .article-claim-inline[open] > summary::after {
+  content: "−";
+}
+
+.puota-feature .article-claim-inline > summary:hover,
+.puota-feature .article-claim-inline > summary:focus-visible {
+  background: color-mix(in srgb, var(--bm-purple) 8%, transparent);
+}
+
+.puota-feature .article-claim-inline > summary:focus-visible {
+  outline: 2px solid var(--bm-purple);
+  outline-offset: -2px;
+}
+
+.puota-feature .article-claim-inline__evidence {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.7rem;
+  padding: 0.55rem 0.85rem 0.7rem;
+  border-top: 1px solid color-mix(in srgb, var(--bm-purple) 22%, var(--ui-border));
+  color: var(--ui-muted);
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+
+.puota-feature .article-claim-inline__evidence > span {
+  color: var(--bm-purple);
+  font-size: 0.66rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.puota-feature .article-claim-inline__evidence a {
+  color: var(--bm-red);
+  font-weight: 800;
+}
+
 .article-evidence__limit strong {
   color: var(--ui-text);
+}
+
+.article-read-next {
+  margin: 2.75rem 0 1.5rem;
+  padding: 1rem 1.15rem;
+  border-top: 1px solid color-mix(in srgb, var(--bm-purple) 32%, var(--ui-border));
+  border-bottom: 1px solid color-mix(in srgb, var(--bm-purple) 32%, var(--ui-border));
+  background: color-mix(in srgb, var(--bm-purple) 4%, var(--ui-surface));
+  color: var(--ui-muted);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.article-read-next strong {
+  color: var(--bm-purple);
+}
+
+.article-read-next a {
+  color: var(--bm-red);
+  font-weight: 820;
 }
 
 .history-article-figure figcaption a,
