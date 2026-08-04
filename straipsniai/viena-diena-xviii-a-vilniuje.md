@@ -62,12 +62,16 @@ Vis dėlto laiškai turi savybę, kurios stokoja oficialūs dokumentai: juose gi
 
 Šiame straipsnyje scena svarbi kaip miesto ribų išplėtimas: „Vilniaus publika“ judėjo ne tik tarp rūmų ir teismo salių, bet ir keliuose, priemiesčiuose bei laikino sustojimo vietose. Išsamiau apie priėmimo socialinę pareigą, „mažojo staliuko“ neapibrėžtumą ir Antakalnio pietus pasakojama straipsnyje [[straipsniai/puota-svecias-ir-statusas|„Puota, svečias ir statusas“]].
 
+Atvykėliui reikėjo ne tik pasitikimo, bet ir kur apsistoti. 1754 m. artilerijos generolas Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.[^9] Viena tokia detalė neleidžia atkurti miesto svečių namų sistemos, tačiau primena, kad Tribunolo sezonas rėmėsi ir konkrečiomis laikino gyvenimo vietomis miesto centre.
+
 <details class="article-evidence">
-  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Paneriai – miesto prieigų susitikimo vieta</strong></summary>
+  <summary><span class="article-evidence__eyebrow">2 patikrinti teiginiai</span><strong>Susitikimas prieigose ir nakvynė miesto centre</strong></summary>
   <div class="article-evidence__body">
     <p class="article-evidence__claim">1751 m. Lopacinskis vyko į Panerius, kur Solohubai jį be ceremonijų pakvietė prie mažojo staliuko.</p>
     <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183947 · <a href="/objektai/paprociai/Tribunolo-pobuviai-ir-priemimai-Vilniuje#claim-t-200556">teiginys t-200556 ir kontekstas</a></p>
-    <p class="article-evidence__limit"><strong>Riba.</strong> Šaltinis paliudija susitikimą, bet ne jo rezultatą. „Mažojo staliuko“ paskirtis šiame miesto pasakojime papildomai neinterpretuojama.</p>
+    <p class="article-evidence__claim">1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 11 · citata c-183846 · <a href="/objektai/asmenys/Antanas-Davainis-Solohubas-(LDK-artilerijos-generolas,-XVIII-a.)#claim-t-200472">teiginys t-200472 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Riba.</strong> Šaltiniai paliudija susitikimą ir apsistojimą, bet ne jų rezultatą ar nakvynės sąlygas. „Mažojo staliuko“ paskirtis šiame miesto pasakojime papildomai neinterpretuojama.</p>
   </div>
 </details>
 
@@ -88,6 +92,17 @@ Vilniaus seimelis šiuose laiškuose pasirodo ne kaip abstrakti institucija, o k
     <p class="article-evidence__claim">1753 m. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.</p>
     <p class="article-evidence__source">Domininkas Burba · PDF p. 5 · citata c-183984 · <a href="/objektai/grupes/Vilniaus-seimelis#claim-t-200657">teiginys t-200657 ir kontekstas</a></p>
     <p class="article-evidence__limit"><strong>Riba.</strong> Šie epizodai rodo derėjimosi progą ir seimelio eigą, bet neatskleidžia konkretaus susitarimo rezultato.</p>
+  </div>
+</details>
+
+1755 m. laiške pasirodo ir miestas, kurio reikalai neapsiribojo bajorų tarpusavio konkurencija: LDK pakancleris Mykolas Antanas Sapiega ketino pasilikti po Tribunolo dėl miesto bylos su žydais.[^3] Šaltinis nepasako nei bylos dalyko, nei šalių argumentų, nei sprendimo. Todėl šis sakinys nėra pagrindas apibendrinti žydų kasdienę patirtį Vilniuje, bet svarbus priminimas, kad kanauninko korespondencijoje kartais prasiveržia ir platesnio miesto teisiniai ryšiai.
+
+<details class="article-evidence">
+  <summary><span class="article-evidence__eyebrow">Patikrintas teiginys</span><strong>Miesto byla po Tribunolo</strong></summary>
+  <div class="article-evidence__body">
+    <p class="article-evidence__claim">1755 m. Lopacinskis rašė, kad LDK pakancleris Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais.</p>
+    <p class="article-evidence__source">Domininkas Burba · PDF p. 6 · citata c-183908 · <a href="/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)#claim-t-200681">teiginys t-200681 ir kontekstas</a></p>
+    <p class="article-evidence__limit"><strong>Riba.</strong> Šaltinis nemini bylos dalyko, šalių argumentų, sprendimo ar jos poveikio miesto žydams.</p>
   </div>
 </details>
 
