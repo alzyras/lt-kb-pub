@@ -13,6 +13,16 @@ const outputPath = path.resolve(process.env.MEDIA_HOST_AUDIT_JSON ?? "media-host
 const perHostLimit = full ? Number.POSITIVE_INFINITY : 1
 const timeoutMs = Number(process.env.MEDIA_HOST_TIMEOUT_MS ?? "15000")
 const concurrency = Math.max(1, Number(process.env.MEDIA_HOST_CONCURRENCY ?? "3"))
+const siteOrigin = String(process.env.SITE_ORIGIN ?? "https://lietuvosistorija.eu").replace(/\/$/, "")
+const firstPartyHosts = new Set<string>()
+try {
+  const originHost = new URL(siteOrigin).host
+  firstPartyHosts.add(originHost)
+  if (originHost.startsWith("www.")) firstPartyHosts.add(originHost.slice(4))
+  else firstPartyHosts.add(`www.${originHost}`)
+} catch {
+  // Malformed SITE_ORIGIN is reported by the URL validation/build checks.
+}
 
 function sourceUrl(entry: CatalogEntry): string {
   return String(entry.displayUrl ?? entry.sourceUrl ?? entry.thumbUrl ?? "").trim()
@@ -61,6 +71,10 @@ for (const entry of catalog) {
   const url = sourceUrl(entry)
   try {
     const host = new URL(url).host
+    // First-party paths may be new in the current build and therefore absent
+    // from the currently deployed site. Local/public asset checks validate
+    // these files; this audit is specifically for third-party media hosts.
+    if (firstPartyHosts.has(host)) continue
     const urls = byHost.get(host) ?? []
     if (!urls.includes(url)) urls.push(url)
     byHost.set(host, urls)
