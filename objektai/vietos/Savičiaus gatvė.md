@@ -42,45 +42,105 @@ canonical_biography: "1724 m. per Dievo Kūno šventės procesiją Savičiaus ga
 
 1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių. 1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno. Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203828"></a>
+- t-001
+  teiginys: "1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje esančią Augustinų (Augustijonų) bažnyčią užpuolė apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1724 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta bažnyčios vieta, gaujos dydis ir vadovai. Visi įtraukti faktai tiesiogiai nurodyti citatoje."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186432
+
+<a id="claim-t-203829"></a>
+- t-002
+  teiginys: "1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti seržanto pareigos, užpuolimo aplinkybės ir grobis. Skundo pobūdis išlaikytas, o citatos fragmento triukšmas pašalintas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186433
+
+<a id="claim-t-203830"></a>
+- t-003
+  teiginys: "Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186434
+
+## Citatos
+
+- id: c-186432
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 10"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 10."
   citata_originali: |
     Pvz., 1724 m. per Dievo Kūno šventės procesiją Vilniuje, Savičiaus gatvėje,
     buvusią Augustinų (Augustijonų) bažnyčią užpuolė ginkluota apie 40 žmonių gauja,
     kuriai vadovavo broliai Florijonas ir Benediktas Grabovskiai (Florian i Benedykt Gra-
     bowscy).
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1741 m. skunde nurodyta, kad LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir pagrobė šieno.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+  pagrindzia:
+    - t-001
+
+- id: c-186433
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     ip rašoma
     skunde, 1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro (Sta-
     nisław Pioro) su savo kareiviais nakčia užpuolė Gardino pavieto stalininko Benedikto
     Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino dvarelio šeimininkams, tačiau pa-
     grobė tik šieną ir nugabeno į savo namus52. Ž
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: 'Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+  pagrindzia:
+    - t-002
+
+- id: c-186434
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 17"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 17."
   citata_originali: |
     Užpuolami dažniausiai
     būdavo privatūs pastatai, bet pasitaikydavo ir kulto objektų – Augustinų (Augustijonų)
     bažnyčios Savičiaus gatvėje, Vilniaus ortodoksų (stačiatikių) vienuolyno – ir valstybinių
     institucijų pastatų – Vilniaus bokšto kalėjimo bei Vilniaus įgulos – užpuolimų.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-003

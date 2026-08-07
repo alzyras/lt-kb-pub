@@ -35,11 +35,27 @@ M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida p
 
 M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida prasidėjo anksčiausiai ir vyko sparčiausiai, todėl kapitalizmo genezė čia taip pat prasidėjo anksčiausiai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida prasidėjo anksčiausiai ir vyko sparčiausiai, todėl kapitalizmo genezė čia taip pat prasidėjo anksčiausiai.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203648"></a>
+- t-001
+  teiginys: "M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida prasidėjo anksčiausiai ir vyko sparčiausiai, todėl kapitalizmo genezė čia taip pat prasidėjo anksčiausiai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186252
+
+## Citatos
+
+- id: c-186252
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 3"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 3."
   citata_originali: |
     regi­
     oninės koncepcijos (jos kūrėju laikomas
@@ -48,8 +64,10 @@ M. Bargo regioninės koncepcijos požiūriu, Vakarų Europoje feodalizmo raida p
     rų Europoje feodalizmo raida prasidėjo
     anksčiausiai, vyko sparčiausiai, dėl to čia
     anksčiausiai prasidėjo kapitalizmo genezė.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

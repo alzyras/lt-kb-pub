@@ -35,11 +35,27 @@ J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjim
 
 J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjimą prie baudžiavos su tarptautinio darbo pasidalijimo reikalavimu didinti žemės ūkio produktyvumą ir stiprinti darbo kontrolę.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjimą prie baudžiavos su tarptautinio darbo pasidalijimo reikalavimu didinti žemės ūkio produktyvumą ir stiprinti darbo kontrolę.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203647"></a>
+- t-001
+  teiginys: "J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjimą prie baudžiavos su tarptautinio darbo pasidalijimo reikalavimu didinti žemės ūkio produktyvumą ir stiprinti darbo kontrolę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186251
+
+## Citatos
+
+- id: c-186251
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 23"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 23."
   citata_originali: |
     ATR empirinės
     ūkinės tikrovės atspindėjimo KPS koncep­
@@ -57,8 +73,11 @@ J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjim
     privalėjo pereiti prie efektyvesnės darbo
     kontrolės sistemos, kokia ir buvo baudžia­
     va120.
-  citata_rodoma: ''
+  citata_rodoma: "Laikytume ar­\ngumentuotu J. Topolskio teiginį, jog KPS \nkoncepcija nepagrįstai teigia, kad ATR \nfeodalai tarsi automatiškai vykdė tarptau­\ntinio darbo padalijimo reikalavimą labiau \nužtikrinti tarptautinei prekybai reikalingą \nžemės ūkio produktyvumą, o dėl to jie \nprivalėjo pereiti prie efektyvesnės darbo \nkontrolės sistemos, kokia ir buvo baudžia­\nva120."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

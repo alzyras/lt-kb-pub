@@ -34,11 +34,28 @@ XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikšči�
 
 XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikščių ir grafų titulai, Rimvydo Petrausko vertinimu, atspindėjo siekį įteisinti faktiškai egzistavusią diduomenės valdžią bajorijos atžvilgiu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikščių ir grafų titulai, Rimvydo Petrausko vertinimu, atspindėjo siekį įteisinti faktiškai egzistavusią diduomenės valdžią bajorijos atžvilgiu.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204041"></a>
+- t-001
+  teiginys: "XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikščių ir grafų titulai, Rimvydo Petrausko vertinimu, atspindėjo siekį įteisinti faktiškai egzistavusią diduomenės valdžią bajorijos atžvilgiu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186645
+
+## Citatos
+
+- id: c-186645
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
   citata_originali: |
     Tai, kad po 1529 m. feodalinė terminija išnyksta iš didikų ir bajorų tarpusa-
     vio santykių, byloja apie svarbius pokyčius Lietuvos Didžiosios Kunigaikšystės
@@ -48,8 +65,10 @@ XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikšči�
     jau egzistuojančią diduomenės valdžią bajorijos atžvilgiu. Tačiau tuo metu Žygi-
     mantas Senasis ir jo aplinka atrado veiksmingų priemonių pristabdyti diduome-
     nės valdžios bei socialinio sluoksniavimosi kilmingųjų luomo viduje stiprėjimą
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

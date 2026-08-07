@@ -43,18 +43,40 @@ canonical_biography: "1791 m. buvo užpultas Černigovo pavieto iždininko Jono 
 
 1791 m. Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti už Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą, kurio metu šeimininkams grasinta pistoletu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1791 m. Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti už Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą, kurio metu šeimininkams grasinta pistoletu.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203933"></a>
+- t-001
+  teiginys: "1791 m. Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti už Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje užpuolimą, kurio metu šeimininkams grasinta pistoletu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardyti nuteisti užpuolikai, nukentėjusiojo pareigos ir grasinimo aplinkybė. Nepateikta daugiau nei nurodyta šaltinio ištraukoje."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186537
+
+## Citatos
+
+- id: c-186537
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 17"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 17."
   citata_originali: |
     1791 m.
     už Černigovo pavieto iždininko Jono Radzevičiaus mūrinio namo Rūdninkų gatvėje
     užpuolimą, kurio metu buvo grasinta šeimininkams pistoletu, nuteistas Lydos pavieto
     iždininkas Mykolas Aleksandravičius ir jo pagalbininkai.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

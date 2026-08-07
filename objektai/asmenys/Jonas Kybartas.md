@@ -43,18 +43,37 @@ canonical_biography: "1721 m. Jonas Kybartas skundėsi, kad Vladislovas Vaina su
 
 1721 m. Jonas Kybartas skundėsi, kad Vladislovas Vaina su bendrininkais užpuolė jo mūrinį namą Vilniuje, išdaužė duris ir jį mušė kardų plokščiąja puse.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1721 m. Jonas Kybartas skundėsi, kad Vladislovas Vaina su bendrininkais užpuolė jo mūrinį namą Vilniuje, išdaužė duris ir jį mušė kardų plokščiąja puse.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203931"></a>
+- t-001
+  teiginys: "1721 m. Jonas Kybartas skundėsi, kad Vladislovas Vaina su bendrininkais užpuolė jo mūrinį namą Vilniuje, išdaužė duris ir jį mušė kardų plokščiąja puse."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186535
+
+## Citatos
+
+- id: c-186535
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
   citata_originali: |
     Pvz., 1721 m. Jonas Kybartas skundėsi,
     kad Vitebsko pavieto iždininkas Vladislovas Vaina su savo bendrininkais užpuolė ieškovo
     mūrinį namą Vilniuje, išdaužė duris. Užpuolikai buvo ginkluoti kardais, plokščiąja šio
     ginklo puse mušė šeimininką55.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 529
+tema_objektu_skaicius: 530
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 529.
+Objektų skaičius: 530.
 
 ## Kaip naudoti
 
@@ -40,6 +40,7 @@ Objektų skaičius: 529.
 - [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
 
 ### Grupės
+- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Venedai]]
 
@@ -60,7 +61,7 @@ Objektų skaičius: 529.
 - [[objektai/vietos/Ananis]]
 - [[objektai/vietos/Angerburgas]]
 - [[objektai/vietos/Antverpenas]]
-- [[objektai/vietos/Aragonas]]
+- [Aragonas](../objektai/vietos/Aragonas)
 - [Ariogala](../objektai/vietos/Ariogala)
 - [Astrachanas](../objektai/vietos/Astrachanas)
 - [Atėnai](../objektai/vietos/At%C4%97nai)

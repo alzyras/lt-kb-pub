@@ -43,17 +43,38 @@ canonical_biography: "1585 m. Valentinas Tancevičius Upytės pilies teisme pran
 
 1585 m. Valentinas Tancevičius Upytės pilies teisme pranešė apie iš jo dvaro išėjusius valstiečius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1585 m. Valentinas Tancevičius Upytės pilies teisme pranešė apie iš jo dvaro išėjusius valstiečius.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203789"></a>
+- t-001
+  teiginys: "1585 m. Valentinas Tancevičius Upytės pilies teisme pranešė apie iš jo dvaro išėjusius valstiečius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Valentiną Tancevičių ir jo pranešimą Upytės pilies teisme. Papildoma šaltinio detalė apie gyvulius nebūtina."
+  pagrindžia:
+    - c-186393
+
+## Citatos
+
+- id: c-186393
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     1585 m. Upytės pilies teisme Valentinas Tancevičius prane­
     šė apie iš jo dvaro išėjusius valstiečius, tačiau Šeimininkas
     ypač susisielojo dėl pabėgėlio išsivestų gyvulių.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

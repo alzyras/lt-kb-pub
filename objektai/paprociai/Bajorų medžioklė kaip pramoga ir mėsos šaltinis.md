@@ -39,11 +39,67 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204301"></a>
+- t-001
+  teiginys: "XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186932
+
+<a id="claim-t-204326"></a>
+- t-002
+  teiginys: "Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186893
+
+## Santrauka
+
+XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną.
+
+## Citatos
+
+- id: c-186893
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
+  citata_originali: |
+    Archeologų duomenimis, naminių gyvulių
+    mėsa žvėrienos atžvilgiu dominavo visą
+    XVI šimtmetį, tačiau jo pabaigoje, iš tiesų,
+    žvėrienos procentas racione dar labiau su­
+    mažėjo111. Nepaisant to, žvėriena buvo neat­
+    siejama bajorų virtuvės dalis (skirtingai nei
+    valstiečių). Osteologinė žvėrių kaulų analizė
+    parodė, kad bajorai dažniausiai valgydavo
+    stumbrieną, šernieną, stirnieną, briedieną ir
+    elnieną112, taip pat mėgo laukinius paukš­
+    čius – kurtinius, kurapkas bei tetervinus113.
+  citata_rodoma: "Nepaisant to, žvėriena buvo neat­\nsiejama bajorų virtuvės dalis (skirtingai nei \nvalstiečių). Osteologinė žvėrių kaulų analizė \nparodė, kad bajorai dažniausiai valgydavo \nstumbrieną, šernieną, stirnieną, briedieną ir \nelnieną112, taip pat mėgo laukinius paukš­\nčius – kurtinius, kurapkas bei tetervinus113."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-186932
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
   citata_originali: |
     Mėsos žaliavą XVI a. bajorams teikė ir
     jų mėgstama medžioklė. Tiesa, XVI a. pa­
@@ -57,31 +113,10 @@ Nenurodyta
     XVI šimtmetį, tačiau jo pabaigoje, iš tiesų,
     žvėrienos procentas racione dar labiau su­
     mažėjo111.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
-  citata_originali: |
-    Archeologų duomenimis, naminių gyvulių
-    mėsa žvėrienos atžvilgiu dominavo visą
-    XVI šimtmetį, tačiau jo pabaigoje, iš tiesų,
-    žvėrienos procentas racione dar labiau su­
-    mažėjo111. Nepaisant to, žvėriena buvo neat­
-    siejama bajorų virtuvės dalis (skirtingai nei
-    valstiečių). Osteologinė žvėrių kaulų analizė
-    parodė, kad bajorai dažniausiai valgydavo
-    stumbrieną, šernieną, stirnieną, briedieną ir
-    elnieną112, taip pat mėgo laukinius paukš­
-    čius – kurtinius, kurapkas bei tetervinus113.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo neatsiejama bajorų virtuvės dalis, o bajorai dažniausiai valgydavo stumbrieną, šernieną, stirnieną, briedieną ir elnieną.
+  pagrindzia:
+    - t-001

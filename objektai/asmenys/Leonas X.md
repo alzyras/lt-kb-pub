@@ -35,17 +35,35 @@ Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X tur�
 
 Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204150"></a>
+- t-001
+  teiginys: "Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186754
+
+## Citatos
+
+- id: c-186754
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 12"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 12."
   citata_originali: |
     Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X
     turėjo palydėti ir specialiai pagaminta stumbro iškamša, kuri dėl minėto po-
     piežiaus staigios mirties taip ir nebuvo išsiųsta54.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

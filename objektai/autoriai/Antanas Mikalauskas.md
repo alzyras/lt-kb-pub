@@ -43,18 +43,37 @@ Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta ba
 
 Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203700"></a>
+- t-001
+  teiginys: "Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186304
+
+## Citatos
+
+- id: c-186304
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     Leidinio priede pateikta trumpa Lietuvos
     teisės istorija14. Čia aptarta bausmių raida nuo Taliono principo iki bauginamųjų baus-
     mių, tarp kurių buvo ir mirties bausmė15. 1937 m. taip pat Kaune buvo išleistas Antano
     Mikalausko darbas vokiečių kalba apie baudžiamąją teisę trijuose Lietuvos Statutuose16.
-  citata_rodoma: ''
+  citata_rodoma: "1937 m. taip pat Kaune buvo išleistas Antano \nMikalausko darbas vokiečių kalba apie baudžiamąją teisę trijuose Lietuvos Statutuose16."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

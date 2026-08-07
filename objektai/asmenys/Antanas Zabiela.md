@@ -40,11 +40,31 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
 
 1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203925"></a>
+- t-001
+  teiginys: "1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas užpuolimo vietos ir objekto kontekstas, patikslintas Zabielos vaidmuo. Kitų šaltinyje minimų užpuolikų grupių nepridėta."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186529
+
+## Citatos
+
+- id: c-186529
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13-14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13-14."
   citata_originali: |
     ip rašoma skunde, 1776 m. buvo užpultas Lukiškėse, prie Ne-
     ries kranto, buvęs Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo
@@ -70,8 +90,10 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
     Istorija / 2016, t. 103, Nr. 3
     Šv. Jono bažnyčios zakristijonas Antanas Zabiela, tarp kitų puolusiųjų buvo mūrininkų,
     akademijos studentų ir pauperių (skurdžių žmonių)47.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

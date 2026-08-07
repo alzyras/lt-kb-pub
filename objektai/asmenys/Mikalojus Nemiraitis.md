@@ -40,11 +40,31 @@ canonical_biography: "Mikalojaus Nemiraičio Iškoldės dvarui priklausę bajora
 
 1471 m. Mikalojus Nemiraitis dokumente žmonai Elžbietai nurodė, kad jo Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1471 m. Mikalojus Nemiraitis dokumente žmonai Elžbietai nurodė, kad jo Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204072"></a>
+- t-001
+  teiginys: "1471 m. Mikalojus Nemiraitis dokumente žmonai Elžbietai nurodė, kad jo Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1471 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas dokumento datavimas ir adresatas, o bajorų statusas susietas su konkrečiu Iškoldės dvaru. Lotyniška formulė palikta nepakeista."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186676
+
+## Citatos
+
+- id: c-186676
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 10-11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 10-11."
   citata_originali: |
     Toks buvo
     1471 m. Mikalojaus Nemiraičio dokumentas žmonai Elžbietai ir Iškoldės baž-
@@ -71,8 +91,10 @@ canonical_biography: "Mikalojaus Nemiraičio Iškoldės dvarui priklausę bajora
     nyčiai, kuriame teigiama, kad jo Iškoldės dvarui priklausantys bajorai tarnauja
     ex iure feodali
     43
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

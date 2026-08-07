@@ -41,18 +41,37 @@ Vėlyvaisiais viduramžiais skandinimas kaip mirties bausmės vykdymo forma, reg
 
 Vėlyvaisiais viduramžiais skandinimas kaip mirties bausmės vykdymo forma, regis, buvo taikomas ir Ordino valstybėje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vėlyvaisiais viduramžiais skandinimas kaip mirties bausmės vykdymo forma, regis, buvo taikomas ir Ordino valstybėje.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203972"></a>
+- t-001
+  teiginys: "Vėlyvaisiais viduramžiais skandinimas kaip mirties bausmės vykdymo forma, regis, buvo taikomas ir Ordino valstybėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186576
+
+## Citatos
+
+- id: c-186576
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
   citata_originali: |
     Regis, skandinimas kaip mirties bausmės vykdymo forma vėlyvaisiais vi­
     duramžiais taip pat buvo praktikuojama Ordino valstybėje. 1422 m. liepos 6 d. Ragainės
     komtūras pranešė didžiajam Ordino magistrui, kad nuskandino vieną iš dviejų dykroje
     sugautų kauniečių61.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

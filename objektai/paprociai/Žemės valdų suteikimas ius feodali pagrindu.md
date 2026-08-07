@@ -39,21 +39,40 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204062"></a>
+- t-001
+  teiginys: "XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186666
+
+## Santrauka
+
+XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“.
+
+## Citatos
+
+- id: c-186666
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
   citata_originali: |
     Pirmą kartą šią sąvoką aptinkame didžiojo kunigaikščio Vytauto kan-
     celiarijoje XV a. antrame dešimtmetyje. Formulė iure tamen feodali alias lenskim
     vartota kai kuriose žemės valdų suteiktyse
     38.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“.
+  pagrindzia:
+    - t-001

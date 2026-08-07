@@ -542,6 +542,48 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-178741
 
+<a id="claim-t-204348"></a>
+- t-032
+  teiginys: "Kazimiero Jogailaičio ilgo valdymo metu brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186952
+
+<a id="claim-t-204349"></a>
+- t-033
+  teiginys: "M. Liubavskis 1445–1446 m. datas siejo su pirmuoju „visuotinio Seimo“ susirinkimu Kazimiero karūnacijos išvakarėse."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1446 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atkurta trūkstama sakinio konstrukcija, aiškiai nurodant, ką M. Liubavskis siejo su datomis. Istoriografinė pozicija palikta su atribucija."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186953
+
+<a id="claim-t-204350"></a>
+- t-034
+  teiginys: "M. Liubavskis Kazimiero Jogailaičio laikų suvažiavimus traktavo kaip išplėstinius valdovo tarybos posėdžius, atskirai neanalizuodamas tarybos, bajorų sueigų ir Seimo santykio."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186954
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.'
@@ -1591,6 +1633,69 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
+
+- id: c-186952
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 9 (PDF 1)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 9 (PDF 1)."
+  citata_originali: |
+    Ilgo
+    Kazimiero
+    viešpatavimo
+    laikais brendusios pamainos
+    valdymo sistemoje,
+    kurias
+    sukėlė nuolatinio valdovo rezidavimo Lietuvoje stygius ir tolesnė institu­
+    cionalizacijos šalyje pažanga, pasireiškė Aleksandro, o ypač -
+    Žygiman­
+    to Senojo valdymo metu.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
+
+- id: c-186953
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 11 (PDF 3)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 11 (PDF 3)."
+  citata_originali: |
+    M. Liubavskis Seimo užuomazgų buvo lin­
+    kęs ieškoti nuo pat unijos su Lenkija pradžios, Seimo raidoje išskirda­
+    mas 1401 m. (pirmasis didikų ir bajorų surašymas Vilniaus-Radomo
+    sutartyje su Lenkija) ir 1445-1446 m. datas (pirmasis „visuotinio Sei­
+    mo" susirinkimas Kazimiero karūnacijos išvakarėse).
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-186954
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 12 (PDF 4)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 12 (PDF 4)."
+  citata_originali: |
+    i s t o r i j a ]
+    studijų autoriai skyrė šaltinių terminijai ir argumentuotai institucinės
+    valdovo tarybos formavimosi pradžią datavo Vytauto valdymo periodu.
+    Tačiau Didžiojo kunigaikščio tarybos, bajorų sueigų ir Seimo santykio
+    klausimoji atskirai neanalizavo, o Kazimiero Jogailaičio laikų suvažia­
+    vimus traktavo kaip išplėstinius valdovo tarybos posėdžius. Taigi, ne­
+    paisant gausios istoriografijos, „Seimo pradžios", jo ištakų klausimas
+    tebelieka neaiškus.
+  citata_rodoma: "Tačiau Didžiojo kunigaikščio tarybos, bajorų sueigų ir Seimo santykio \nklausimoji atskirai neanalizavo, o Kazimiero Jogailaičio laikų suvažia­\nvimus traktavo kaip išplėstinius valdovo tarybos posėdžius."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
 
 ## Ryšiai
 - Kazimieras Jogailaitis (valdovas, XV a.) užėmė [[objektai/vietos/Smolenskas]]

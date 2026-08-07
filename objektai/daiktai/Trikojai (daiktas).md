@@ -44,11 +44,30 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Trikojai paprastai buvo variniai, rečiau žalvariniai ar geležiniai.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204295"></a>
+- t-001
+  teiginys: "Trikojai paprastai buvo variniai, rečiau žalvariniai ar geležiniai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186896
+
+## Santrauka
+
+Trikojai paprastai buvo variniai, rečiau žalvariniai ar geležiniai.
+
+## Citatos
+
+- id: c-186896
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 5"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 5."
   citata_originali: |
     Virš
     ugnies juos laikė prikabintos geležinės gran­
@@ -59,11 +78,11 @@ Nenurodyta
     Trikojai paprastai taip pat būdavo variniai60,
     rečiau – žalvariniai61 ar geležiniai62 indai,
     kurių specifinis bruožas buvo trys kojelės.
-  citata_rodoma: ''
+  citata_rodoma: "Trikojai paprastai taip pat būdavo variniai60, \nrečiau – žalvariniai61 ar geležiniai62 indai, \nkurių specifinis bruožas buvo trys kojelės."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Trikojai paprastai buvo variniai, rečiau žalvariniai ar geležiniai.
+  pagrindzia:
+    - t-001

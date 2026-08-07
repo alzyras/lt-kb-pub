@@ -555,6 +555,19 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - c-179135
 
+<a id="claim-t-204342"></a>
+- t-031
+  teiginys: "Petras Dusburgietis mini platesnę reikalus svarstančią kolegiją, į kurią turėjo būti sukviesti didikai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186946
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1371,3 +1384,21 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-030
+
+- id: c-186946
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 13 (PDF 5)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 13 (PDF 5)."
+  citata_originali: |
+    Salia šių patarė­
+    jų šaltiniuose kartais aptinkame platesnę reikalus svarstančią kolegiją,
+    kurią aptaria ir straipsnio pradžioje minėtas Petras Dusburgietis. Ordi­
+    no kronikininko nuoroda, kad į ją turėjo būti sukviesti didikai, liudija
+    išskirtinį šios institucijos pobūdį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031

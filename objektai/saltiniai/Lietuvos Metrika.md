@@ -138,6 +138,19 @@ media_all_json: |-
   pagrindžia:
     - c-184847
 
+<a id="claim-t-204307"></a>
+- t-007
+  teiginys: "Degtinė neretai minima Lietuvos Metrikos aktuose, o XVI a. LDK ją pradėta gaminti iš vietinių žaliavų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186925
+
 ## Citatos
 
 - id: c-166206
@@ -272,3 +285,25 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186925
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
+  citata_originali: |
+    Beje, šaltiniai mini ir gertus
+    importuotus vokišką144 bei Gdansko alų145.
+    Be alaus, smuklėse ypač daug buvo
+    parduodama ir degtinės146, kuri neretai
+    minima ir Lietuvos Metrikos aktuose147.
+    Būtent aptariamuoju laikotarpiu LDK buvo
+    sužinota šio gėrimo varymo paslaptis ir ją
+    imta gaminti iš vietinių žaliavų148.
+  citata_rodoma: "Be alaus, smuklėse ypač daug buvo \nparduodama ir degtinės146, kuri neretai \nminima ir Lietuvos Metrikos aktuose147. \nBūtent aptariamuoju laikotarpiu LDK buvo \nsužinota šio gėrimo varymo paslaptis ir ją \nimta gaminti iš vietinių žaliavų148."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

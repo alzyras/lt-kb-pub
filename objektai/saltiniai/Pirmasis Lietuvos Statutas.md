@@ -88,6 +88,73 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   pagrindžia:
     - c-84252
 
+<a id="claim-t-203671"></a>
+- t-004
+  teiginys: "1529 m. priimtu Pirmuoju Lietuvos Statutu valstybės teisė buvo kodifikuota ir turėjo būti taikoma vienodai visoje valstybės teritorijoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186275
+
+<a id="claim-t-203734"></a>
+- t-005
+  teiginys: "Pirmajame Statute įtvirtinta, kad buvusiam šeimininkui dešimt metų nepagarsinus pabėgimo ir tylėjus, vėlesnės pretenzijos dėl perbėgusio žmogaus nepriimamos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186338
+
+<a id="claim-t-203735"></a>
+- t-006
+  teiginys: "Pirmajame Lietuvos Statute 1529 m. jau buvo numatytos bausmės už pabėgimą ir pabėgusiųjų slėpimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, šaltinį ir reglamentuotas bausmes. Papildomas skyriaus pavadinimas ir santykių kontekstas neįtraukti."
+  pagrindžia:
+    - c-186339
+
+<a id="claim-t-204000"></a>
+- t-007
+  teiginys: "1529 m. Lietuvos Statuto straipsnis nustatė, kad didikas, norintis savo tarnui užrašyti dvarą, privalo dokumentą patvirtinti valdovo kanceliarijoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas visas Statuto pavadinimas ir išlaikyta šaltinyje nurodyta valdovo kanceliarijos procedūra. Naujų aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186604
+
+<a id="claim-t-204312"></a>
+- t-008
+  teiginys: "Pirmajame Lietuvos Statute buvo nustatyta sankcija už apynių nuniokojimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186892
+
 ## Citatos
 
 - id: c-84250
@@ -170,3 +237,110 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-186275
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 2."
+  citata_originali: |
+    Kaip pastebėjo Jūratė Kiaupienė, XVI a. pradžioje Vakarų Europoje vis populia-
+    resnė darėsi valstybės teisės, keičiančios paprotinę teisę, papildytą privilegijomis, idėja3.
+    Nuošalyje neliko ir Lietuva. 1529 m. priėmus Pirmąjį Lietuvos Statutą, valstybės teisė
+    buvo kodifikuota ir turėjo būti naudojama vienoda visoje valstybės teritorijoje.
+  citata_rodoma: "1529 m. priėmus Pirmąjį Lietuvos Statutą, valstybės teisė \nbuvo kodifikuota ir turėjo būti naudojama vienoda visoje valstybės teritorijoje."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-186338
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6-7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6-7."
+  citata_originali: |
+    Jau Pirmajame Statute
+    buvo įtvirtinta nuostata, kad jeigu buvęs šeimininkas apie
+    pabėgimo atvejį nebuvo pagarsinęs ir tylėjo dešimt metų,
+    vėlesnės pretenzijos nepriimamos: „ar kieno žmogus pas
+    ką perbėgtų <...>, o dešimt metų apie tai tylėtų, tas dėl tų
+
+    '•'
+    iTngl|Lp"'—
+    dalykų turi taip pat amžinai tylėti"
+    4
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-186339
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 2"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 2."
+  citata_originali: |
+    Bausmės už pabėgimą ir už pabėgusiųjų slėpimą numa­
+    tytos jau 1529 m. Pirmajame Lietuvos Statute. Šie nuostatai
+    įtvirtinti 11 skyriuje „Apie keliuočių ir žmogynų bei bernų
+    galvapinigius", reguliavusiame santykius tarp ponų ir jų
+    valdinių visumą
+    4.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-186604
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
+  citata_originali: |
+    Taip pat ir čia jau ne kartą cituotame
+    1529 m. Lietuvos Statuto straipsnyje valdovas įsikiša į didikų ir jų tarnybinių
+    bajorų santykius - savo tarnui dvarą užrašyti norintis didikas privalo dokumen-
+    tą patvirtinti valdovo kanceliarijoje
+    53.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-186892
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
+  citata_originali: |
+    Vilnius, 2012,
+    p. 103.
+    Lenkijoje139, Anglijoje bei Vokietijoje140,
+    LDK buvo plačiausiai vartojamas gėri­
+    mas – daugiausia juo ir būdavo prekiaujama
+    smuklėse141. Inventorių duomenimis, vie­
+    tinis alus būdavo gaminamas iš kvietinio
+    arba miežinio salyklo142 bei apynių, kurių
+    apsaugojimu nuo nuniokojimo pasirūpinta
+    įvedant už tai sankciją Pirmajame Lietuvos
+    Statute143.
+  citata_rodoma: "Inventorių duomenimis, vie­\ntinis alus būdavo gaminamas iš kvietinio \narba miežinio salyklo142 bei apynių, kurių \napsaugojimu nuo nuniokojimo pasirūpinta \nįvedant už tai sankciją Pirmajame Lietuvos \nStatute143."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008

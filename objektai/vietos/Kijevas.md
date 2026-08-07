@@ -1458,6 +1458,22 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindžia:
     - c-181809
 
+<a id="claim-t-203955"></a>
+- t-086
+  teiginys: "XVII a. viduryje užrašytame pasakojime apie 1481 m. sąmokslą prieš Kazimierą teigiama, kad kunigaikštis Mykolas Olelkaitis buvo palaidotas Kijeve."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "mirties data: 1481 m.; mirties data: apie 1481 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip mirties data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Aiškiai nurodytas pasakojimo pobūdis ir jo datavimas, todėl palaidojimo teiginys išlaikytas su atribucija. Nepildyta citatoje neužbaigta informacija apie kitą kunigaikštį."
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186559
+
 ## Reikšmingi paminėjimai
 - c-026
   santrauka: 'Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.'
@@ -4032,6 +4048,24 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-064
+
+- id: c-186559
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 10"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 10."
+  citata_originali: |
+    Remiantis XVII a. viduryje užrašytu pasakojimu
+    apie 1481 m. sąmokslą prieš Ldk Kazimierą ir sąmokslininkų egzekuciją, kunigaikštis
+    Mykolas Olelkaitis buvo palaidotas Kijeve, o kunigaikštis Jonas Alšėniškis - kelios my­
+    lios nuo
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-086
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

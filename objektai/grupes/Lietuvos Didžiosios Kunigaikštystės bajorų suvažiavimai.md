@@ -34,11 +34,68 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
 
 Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais. 1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204371"></a>
+- t-001
+  teiginys: "Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186975
+
+<a id="claim-t-204372"></a>
+- t-002
+  teiginys: "Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186976
+
+<a id="claim-t-204373"></a>
+- t-003
+  teiginys: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atsisakyta šaltinyje nepaminėtos pavardės ir išlaikytas tik citatoje pagrįstas konservatyvus asmens įvardijimas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186977
+
+<a id="claim-t-204374"></a>
+- t-004
+  teiginys: "Parčevo suvažiavimas, Ordino žiniomis, baigėsi nesėkme, nes į jį atvyko labai mažai lietuvių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186978
+
+## Citatos
+
+- id: c-186975
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 18 (PDF 10)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 18 (PDF 10)."
   citata_originali: |
     Šaltiniai kartais leidžia žvilgte­
     lėti ir į tokių pasitarimų rengimo mechanizmą, iš kurio matyti, kad bent jau
@@ -48,26 +105,35 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
     neturįs savo tarybos ir tik ruošiasi ją sukviesti
     2 1. Būtent iš šios plačiosios
     dvaro tarybos išaugo bajorų suvažiavimai.
-  citata_rodoma: ''
+  citata_rodoma: "Būtent iš šios plačiosios \ndvaro tarybos išaugo bajorų suvažiavimai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-001
+
+- id: c-186976
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 21 (PDF 13)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 21 (PDF 13)."
   citata_originali: |
     Lygiagrečiai su Ponų tarybos geneze pastebimas kitas reiškinys - vis
     dažniau vyksta didikų ir bajorų suvažiavimai, kuriuos šaltiniai vis nuo­
     sekliau vadina visos LDK žemės suvažiavimais.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: '1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-002
+
+- id: c-186977
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 22 (PDF 14)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 22 (PDF 14)."
   citata_originali: |
     1453 m. Kazimieras į Parčevą pakvietė lenkų ir lie­
     tuvių kilminguosius, iš anksto numatydamas atstovavimo principą: po
@@ -77,14 +143,19 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
     3 , 4. Ši konkre­
     ti potvarkio klauzulė apie du atstovus sugcstijuoja valdovo ir jo aplinkos
     siekį paversti bajorų suvažiavimą nauju politiniu institutu.
-  citata_rodoma: ''
+  citata_rodoma: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lie­\ntuvių kilminguosius, iš anksto numatydamas atstovavimo principą: po \ndu bajorus iš kiekvienos herbinės giminės: das usz itczlichem \nschilde \nsidden czwene катеп, kaip praneša Ordino informatorius\n3 , 4. Ši konkre­\nti potvarkio klauzulė apie du atstovus sugcstijuoja valdovo ir jo aplinkos \nsiekį paversti bajorų suvažiavimą nauju politiniu institutu"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: 'Parčevo suvažiavimas, Ordino žiniomis, baigėsi nesėkme, nes į jį atvyko labai mažai lietuvių.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-003
+
+- id: c-186978
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
   citata_originali: |
     i s t o r i j a i
     kad lenkiškos bajorų herbinės giminės sampratos įtakoje iš pradžių pa­
@@ -96,8 +167,11 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
     Kaip ir Ponų taryboje, taip ir čia matome - kai, pritrūkus valdovo
     rezidavimo, dvare šaukiamas susirinkimas evoliucionuoja j LDK že­
     mių suvažiavimą.
-  citata_rodoma: ''
+  citata_rodoma: "Ir nors šis Parčevo suvažiavimas bai­\ngėsi nesėkme (Ordino žiniomis, lietuvių atvyko labai mažai)\n3 9, luomi­\nnio susirinkimo modelis vis labiau populiarėjo ir Lietuvoje"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-004

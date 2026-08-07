@@ -1387,6 +1387,48 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   pagrindžia:
     - c-184945
 
+<a id="claim-t-203743"></a>
+- t-079
+  teiginys: "1556 m. Gardino vaznys raportavo, kad bėglių slėpimu įtariami asmenys neįleido į savo dvarą ieškovo ir vaznio bei nereagavo į teismo raštus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai taisyklingas ir tiksliai perteikia citatoje aprašytą Gardino vaznio raportą. Papildoma atribucija nereikalinga."
+  pagrindžia:
+    - c-186347
+
+<a id="claim-t-204088"></a>
+- t-080
+  teiginys: "Gardino žemės teismo knygoje Nr. 13 išliko 1594 m. Gardino seniūno J. Kliukovskio raštas Gardino pavieto stalininkui Jonui Meleškai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186692
+
+<a id="claim-t-204356"></a>
+- t-081
+  teiginys: "1432 m. Švitrigaila laukė savo tarybos narių atvykstant į Gardiną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo Švitrigailos veiksmą bei Gardiną. Šaltinio atribucija nereikalinga."
+  pagrindžia:
+    - c-186960
+
 ## Reikšmingi paminėjimai
 - c-029
   santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
@@ -3057,6 +3099,69 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-078
+
+- id: c-186347
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
+  citata_originali: |
+    1556 m. Gardino vaz­
+    nys raportavo apie atvejį, kai bėglių slapstymu įtariami
+    asmenys neįleido į savo dvarą nei ieškovo, nei vaznio, o į
+    pateiktus teismo raštus net nebuvo sureaguota
+    4 7.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
+
+- id: c-186692
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 9"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 9."
+  citata_originali: |
+    ;
+    Antrasis dokumentas" y r a iš Gardino žemės teismo teismo
+    k n y g o s Nr. 13. Tai
+    1594 m. Gardino seniūno J. Kliukovskio raštas (pakvitavimas), d u o t a s dar 1591 m . m o ­
+    k e s č i u s
+    3 2 paviete rinkusiam Gardino stalininkui Jonui Melcškai.
+  citata_rodoma: "Antrasis dokumentas\" y r a iš Gardino žemės teismo teismo \nk n y g o s Nr. 13. Tai \n1594 m. Gardino seniūno J. Kliukovskio raštas (pakvitavimas), d u o t a s dar 1591 m . m o ­\nk e s č i u s\n3 2 paviete rinkusiam Gardino stalininkui Jonui Melcškai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-080
+
+- id: c-186960
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 18 (PDF 10)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 18 (PDF 10)."
+  citata_originali: |
+    Didžiųjų kunigaikščių dokumentų liudytojų sąrašų analizė rodo,
+    kad svarbiausius sprendimus - privilegijų skelbimą, užsienio pasiuntinių
+    priėmimą, tarptautines sutartis - valdovai priimdavo ir dokumentus išduo­
+    davo vykstant platesniajai tarybai, tai yra susirinkus didesniam didikų skai­
+    čiui. Antai 1432 m. Švitrigaila laiške Didžiajam magistrui teigė, kad pa­
+    siuntinybės klausimą spręs Trakuose su ten susirinksiančia „mūsų pilnąja
+    taryba" (volkomlichem imsenn rothef
+    9, o praėjus keliems mėnesiams savo
+    tarybos narių laukė atvykstant į Gardiną
+    2 0.
+  citata_rodoma: "Antai 1432 m. Švitrigaila laiške Didžiajam magistrui teigė, kad pa­\nsiuntinybės klausimą spręs Trakuose su ten susirinksiančia „mūsų pilnąja \ntaryba\" (volkomlichem imsenn rothef\n9, o praėjus keliems mėnesiams savo \ntarybos narių laukė atvykstant į Gardiną\n2 0."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

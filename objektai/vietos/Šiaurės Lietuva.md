@@ -88,6 +88,18 @@ historical_names: []
   pagrindžia:
     - c-77300
 
+<a id="claim-t-203633"></a>
+- t-004
+  teiginys: "Šiaurės Lietuvoje dėl artimų Baltijos jūros uostų ir mažų transportavimo kainų linus bei javus gabendavo ir valstiečiai, ir vidutiniai ar smulkūs dvarų savininkai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186237
+
 ## Citatos
 
 - id: c-77298
@@ -148,3 +160,27 @@ historical_names: []
   pagrindzia:
     - t-001
     - t-003
+
+- id: c-186237
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 16"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 16."
+  citata_originali: |
+    Išimtis – Šiaurės Lietuva: dėl Baltijos jūros uostų
+    (pvz., Rygos) artumo ir su tuo susijusių menkų transpor­
+    tavimo kainų linus bei javus į uostus gabendavo ne tik
+    vidutiniai ar smulkūs šio regiono dvarų savininkai, bet
+    ir valstiečiai.
+    81 Žr. Kula W. An Economic Theory of the Feudal
+    System: Towards a Model of the Polish Economy 1500–
+    1800, p. 139 bei p. 149.
+    82 Žr. ibidem, p. 161–162.
+  citata_rodoma: "Išimtis – Šiaurės Lietuva: dėl Baltijos jūros uostų \n(pvz., Rygos) artumo ir su tuo susijusių menkų transpor­\ntavimo kainų linus bei javus į uostus gabendavo ne tik \nvidutiniai ar smulkūs šio regiono dvarų savininkai, bet \nir valstiečiai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

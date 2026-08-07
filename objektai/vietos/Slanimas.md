@@ -132,6 +132,19 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   pagrindžia:
     - c-175968
 
+<a id="claim-t-204089"></a>
+- t-007
+  teiginys: "Slanimo poreforminio LDK pavieto rankraštinės žemės teismo knygos išliko Baltarusijos NIA iki XVII a. pradžios."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  vertinimo_atnaujinta: "2026-07-26T16:20:30Z"
+  pagrindžia:
+    - c-186693
+
 ## Citatos
 
 - id: c-153910
@@ -242,6 +255,23 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186693
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 12"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 12."
+  citata_originali: |
+    Išvados. Baltarusijos N I A išliko keliasdešimt keturios baltarusiškosios (Brastos, Gar­
+    dino, Slanimo ir Vitebsko) LDK poreforminių pavietų rankraštinės žemės teismo knygos
+    (iki X V I I a. pradžios). Jos pasižymi tematine įvairove, bet savo turiniu nedaug skiriasi
+    nuo tokių pačių lietuviškosios LDK dalies pavietų medžiagos.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -108,6 +108,22 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - c-176417
 
+<a id="claim-t-204323"></a>
+- t-005
+  teiginys: "1556 m. Vitebsko klebonas Juozapas Jasinskis išnuomojo smuklę vaivadai Steponui Zbaražskiui, kuris už tai įsipareigojo išmaitinti kelis kunigus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta veiksmo kryptis: smuklę išnuomojo Juozapas Jasinskis, o ją išsinuomojo Steponas Zbaražskis. Remtasi tik šaltinyje nurodytais asmenimis ir aplinkybėmis."
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186904
+
 ## Citatos
 
 - id: c-21731
@@ -207,6 +223,32 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-186904
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
+  citata_originali: |
+    Apie totorių, lietuvių ir mas­
+    kvėnų papročius / Red. K. Korsakas. Vilnius, 1966, p. 40.
+    teigti, jog brangių užsieninių prieskonių
+    vartojimas buvo vienas esminių skirties tarp
+    bajorų ir valstiečių virtuvių taškų 133.
+    Apie XVI a. bajorų patiekalus bei suvar­
+    tojamus jų kiekius beveik neturime šaltinių,
+    todėl ypač įdomus 1556 m. aktas, kuriuo
+    Vitebsko vaivada Steponas Zbaražskis, iš­
+    sinuomodamas smuklę iš Vitebsko klebono
+    Juozapo Jasinskio, pasižadėjo už tai išmai­
+    tinti kelis kunigus.
+  citata_rodoma: "Apie XVI a. bajorų patiekalus bei suvar­\ntojamus jų kiekius beveik neturime šaltinių, \ntodėl ypač įdomus 1556 m. aktas, kuriuo \nVitebsko vaivada Steponas Zbaražskis, iš­\nsinuomodamas smuklę iš Vitebsko klebono \nJuozapo Jasinskio, pasižadėjo už tai išmai­\ntinti kelis kunigus."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Jokūbas Jasinskis mirė [[objektai/vietos/Varšuva]]

@@ -42,11 +42,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1631 m. priimtoje Konstitucijoje dėl pagrobimo nurodyta, kaip turi vykti nusikaltimo tyrimas ir į kokį teismą reikia kreiptis.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203679"></a>
+- t-001
+  teiginys: "1631 m. priimtoje Konstitucijoje dėl pagrobimo nurodyta, kaip turi vykti nusikaltimo tyrimas ir į kokį teismą reikia kreiptis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186283
+
+## Santrauka
+
+1631 m. priimtoje Konstitucijoje dėl pagrobimo nurodyta, kaip turi vykti nusikaltimo tyrimas ir į kokį teismą reikia kreiptis.
+
+## Citatos
+
+- id: c-186283
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 22"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 22."
   citata_originali: |
     Statuto straipsnis dėl moterų grobimo212 papildytas nuoroda į 1607 m. konstituciją, kurioje
     kalbama apie nepilnametės pagrobimą213. Dar viena konstitucija dėl pagrobimo buvo priim-
@@ -54,11 +74,11 @@ Nenurodyta
     straipsnio, draudžiančio iš šalies išvežti ginklus215, duotos nuorodos į 1620 ir 1626 m. sei-
     mų nutarimus, draudžiančius išvežti iš šalies salietrą (naudotą sprogmenų gamyboje), bet
     baudžiama ne mirties bausme, o 500 grivnų bauda216.
-  citata_rodoma: ''
+  citata_rodoma: "tucija dėl pagrobimo buvo priim-\nta 1631 m.214 Jose nurodoma, kaip turi vykti nusikaltimo tyrimas, į kokį teismą kreiptis. Prie \nstraipsnio"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1631 m. priimtoje Konstitucijoje dėl pagrobimo nurodyta, kaip turi vykti nusikaltimo tyrimas ir į kokį teismą reikia kreiptis.
+  pagrindzia:
+    - t-001

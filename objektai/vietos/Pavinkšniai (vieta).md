@@ -46,19 +46,37 @@ Pavinkšniai buvo dabartiniame Kėdainių rajone.
 
 Pavinkšniai buvo dabartiniame Kėdainių rajone.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pavinkšniai buvo dabartiniame Kėdainių rajone.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203836"></a>
+- t-001
+  teiginys: "Pavinkšniai buvo dabartiniame Kėdainių rajone."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186440
+
+## Citatos
+
+- id: c-186440
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 8"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 8."
   citata_originali: |
     z., 1725 m. po Estkų (Estkowie) dvarelio,
     kurio kambaryje buvo apsistojęs Jonas Laskovskis (Jan Laskowski), užpuolimo ieškovas
     teigė, kad Pavinkšnių (dabartiniame Kėdainių rajone) seniūnas Kazimieras Rostovskis
     (Kazimierz Rostowski) ryžosi nusikaltimui, nes atsakovo žmona Sofija (Zofia Rostowska)
     buvo skolinga ieškovui 63 t
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

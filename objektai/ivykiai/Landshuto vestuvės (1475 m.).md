@@ -46,22 +46,45 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204050"></a>
+- t-001
+  teiginys: "1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1475 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas Alberto Jonaičio Manvydo vaidmuo ir išskirtinumas. Įtraukta šaltinyje nurodyta palydos sudėtis, nepridėta kitų faktų."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186654
+
+## Santrauka
+
+1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda.
+
+## Citatos
+
+- id: c-186654
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 8."
   citata_originali: |
     Antai iš
     vieno Bavarijos hercogų dvare sudaryto išsamaus sąrašo sužinome apie 1475 m.
     Landshuto vestuvėse dalyvavusį Albertą Jonaitį Manvydą, kurio 50 žmonių
     palyda išsiskyrė iš kitų Lenkijos ir Lietuvos ponų
     33.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda.
+  pagrindzia:
+    - t-001

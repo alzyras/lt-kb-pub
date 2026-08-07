@@ -47,11 +47,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Didysis medžioklis derino kelionių klausimus ir parūpindavo kelionei reikalingas priemones.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204175"></a>
+- t-001
+  teiginys: "Didysis medžioklis derino kelionių klausimus ir parūpindavo kelionei reikalingas priemones."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186751
+
+## Santrauka
+
+Didysis medžioklis derino kelionių klausimus ir parūpindavo kelionei reikalingas priemones.
+
+## Citatos
+
+- id: c-186751
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 13"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 13."
   citata_originali: |
     Didysis medžioklis, be jau minėtų funkcijų, turėjo derinti kelionių klausi-
     mus ir parūpinti reikiamų kelionei priemonių63. Mūsų aptariamuoju laikotar-
@@ -59,11 +79,10 @@ Nenurodyta
     vasarą, žiemą – rogės64. Būtent taip buvo keliaujama, gabenami medžioklėms
     reikalingi žmonės, medžiokliniai šunys ir paukščiai, žirgai, arkliai bei prijau-
     kinti gyvūnai (turėję būti masalu), manta.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Didysis medžioklis derino kelionių klausimus ir parūpindavo kelionei reikalingas priemones.
+  pagrindzia:
+    - t-001

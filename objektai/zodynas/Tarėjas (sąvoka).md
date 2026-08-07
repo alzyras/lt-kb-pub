@@ -41,11 +41,27 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
 
 LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204367"></a>
+- t-001
+  teiginys: "LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliacijose savęs tarėjais nevadino, nors šalia vardo pamažu ėmė rašyti pareigybes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186971
+
+## Citatos
+
+- id: c-186971
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 17 (PDF 9)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 17 (PDF 9)."
   citata_originali: |
     Turbūt nebuvo nei nustatyto tarėjų skai­
     čiaus, nei griežtesnės pasitarimų ar balsavimo tvarkos. Pastebėtina, kad
@@ -54,8 +70,11 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
     vadino, nors pamažu ir plito paprotys šalia savo vardo įrašyti pareigy­
     bes
     1 8 .
-  citata_rodoma: ''
+  citata_rodoma: "Pastebėtina, kad \n„tarėjo\" sąvoka LDK nevirto, kaip kai kuriose kitose valstybėse, asmens \ntitulu. Didikai dokumentų intituliacijose niekuomet savęs „tarėjais\" ne­\nvadino, nors pamažu ir plito paprotys šalia savo vardo įrašyti pareigy­\nbes\n1 8 ."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

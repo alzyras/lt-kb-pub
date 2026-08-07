@@ -44,6 +44,18 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   pagrindžia:
     - c-185622
 
+<a id="claim-t-204086"></a>
+- t-002
+  teiginys: "Tiesiogiai balta rusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau tirta ir Lietuvoje\"."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186690
+
 ## Citatos
 
 - id: c-185622
@@ -61,3 +73,24 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186690
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 4"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 4."
+  citata_originali: |
+    Žemaitijos teismo realijas, būtina paminėti E. Saviščevą
+    9 ir J. Dningilą
+    1 0. Tiesiogiai balta­
+    rusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau
+    tirta ir Lietuvoje". Vėlyvesnio laikotarpio (XVII a.) Breslaujos žemės teismo knygas yra
+    aptaręs H. Liulevičius
+    1 2.
+  citata_rodoma: "Žemaitijos teismo realijas, būtina paminėti E. Saviščevą\n9 ir J. Dningilą\n1 0. Tiesiogiai balta­\nrusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau \ntirta ir Lietuvoje\". Vėlyvesnio laikotarpio (XVII a.) Breslaujos žemės teismo knygas yra"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

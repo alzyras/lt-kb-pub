@@ -186,6 +186,22 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   pagrindžia:
     - c-171568
 
+<a id="claim-t-204355"></a>
+- t-008
+  teiginys: "1427 m. Daugpilio komtūras pranešė vadovybei apie Vytauto prieš žygį į Naugardą sušauktą pasitarimą su aukščiausiais bajorais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas įvykio kontekstas – pasitarimas vyko prieš žygį į Naugardą. Išlaikytas pranešėjas, adresatas, Vytauto vaidmuo ir bajorų statusas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186959
+
 ## Citatos
 
 - id: c-43377
@@ -361,6 +377,32 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-186959
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 19 (PDF 11)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 19 (PDF 11)."
+  citata_originali: |
+    šioji 1398 m. manifestacija Salyne, kai neabejotinai pagal iš anksto su­
+    planuotą scenarijų Vytautas susirinkusių kilmingųjų buvo viešai paskelb­
+    tas suvereniu valdovu
+    2 3. Konfidencialius Vytauto pasitarimus, kaip sa­
+    vaime suprantamą reiškinį, dažnai fiksuoja Ordino pareigūnai. 1421 m.
+    spalio 12 d. Klaipėdos komtūras perduoda magistrui vieno žemaičio
+    žodžius, kad Vytautas, rengdamas žygį prieš Ordiną, artimiausius (heim-
+    lichstin) bajorus pasikvietė į savo dvarą
+    2 4.1427 m. jau Daugpilio kom­
+    tūras informuoja savo vadovybę apie žygio į Naugardą išvakarėse Vytauto
+    sušauktą pasitarimą su aukščiausiais (upersten) bajorais
+    2 5.
+  citata_rodoma: "1427 m. jau Daugpilio kom­\ntūras informuoja savo vadovybę apie žygio į Naugardą išvakarėse Vytauto \nsušauktą pasitarimą su aukščiausiais (upersten) bajorais\n2 5."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Apgulė Daugpilį: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

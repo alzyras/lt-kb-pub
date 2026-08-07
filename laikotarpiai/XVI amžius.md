@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVI amžius"
 periodo_pradzia: 1501
 periodo_pabaiga: 1600
-periodo_objektu_skaicius: 1313
+periodo_objektu_skaicius: 1319
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1313.
+Objektų skaičius: 1319.
 
 ## Susiję objektai
 
@@ -194,7 +194,7 @@ Objektų skaičius: 1313.
 - [[objektai/asmenys/Šv. Kazimieras]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Prochaska]]
@@ -300,6 +300,7 @@ Objektų skaičius: 1313.
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]]
+- [[objektai/daiktai/Ragotinė]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
 - [[objektai/daiktai/Sienodaužiai]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
@@ -725,6 +726,7 @@ Objektų skaičius: 1313.
 - [[objektai/vietos/Rastenburgas]]
 - [[objektai/vietos/Reformatų maldos namai ir spaustuvė Vilniuje]]
 - [[objektai/vietos/Riazanė]]
+- [[objektai/vietos/Romainiai]]
 - [[objektai/vietos/Rostokas]]
 - [[objektai/vietos/Rudamina]]
 - [[objektai/vietos/Rudava]]
@@ -791,6 +793,8 @@ Objektų skaičius: 1313.
 - [[objektai/vietos/Verkiai]]
 - [[objektai/vietos/Viazma]]
 - [[objektai/vietos/Viduklė]]
+- [[objektai/vietos/Vijūkai (vieta)]]
+- [[objektai/vietos/Vijūkų laukas]]
 - [[objektai/vietos/Vilija]]
 - [[objektai/vietos/Vilijandis]]
 - [[objektai/vietos/Vilnelė]]
@@ -1077,6 +1081,7 @@ Objektų skaičius: 1313.
 - [[objektai/saltiniai/Kauno miesto konfirmacinės privilegijos]]
 - [[objektai/saltiniai/Kauno miesto vaito aktų knygos įrašas su miestiečių žymenimis]]
 - [[objektai/saltiniai/Kauno vaito aktų knyga (1551–1555 m.)]]
+- [[objektai/saltiniai/Kauno vaito aktų knyga 1550–1555 m]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
 - [[objektai/saltiniai/Kronika Lechitów i Polaków]]
@@ -1210,6 +1215,7 @@ Objektų skaičius: 1313.
 - [[objektai/saltiniai/Vilniaus kapitulos rankraščiai]]
 - [[objektai/saltiniai/Vilniaus magistrato knygos]]
 - [[objektai/saltiniai/Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė]]
+- [[objektai/saltiniai/VUB, f. 7, 1544 m. Kauno vaito aktų knyga]]
 - [[objektai/saltiniai/Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.)]]
 - [[objektai/saltiniai/Vytauto jaunystė ir jo veikimas iki 1392 m]]
 - [[objektai/saltiniai/Vytauto privilegija Lietuvos žydams]]

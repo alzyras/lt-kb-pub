@@ -864,6 +864,22 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-182340
 
+<a id="claim-t-204025"></a>
+- t-048
+  teiginys: "1392 m. Astravo dokumentu Vytautas, pažadėjęs ištikimybę Jogailai, įgijo teisę valdyti Trakų ir Lucko kunigaikštystes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kad dokumentas suteikė teises valdyti abi šaltinyje nurodytas kunigaikštystes. Išlaikyti dokumentas, data ir ištikimybės pažadas."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186629
+
 ## Reikšmingi paminėjimai
 - c-027
   santrauka: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
@@ -2492,6 +2508,23 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186629
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Panašaus
+    pobūdžio buvo ir 1392 m. Astravo dokumentas, kuriuo Vytautas pažadėjo išti-
+    kimybę Jogailai, už tai gaudamas teises valdyti Trakų ir Lucko kunigaikštystes.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-048
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

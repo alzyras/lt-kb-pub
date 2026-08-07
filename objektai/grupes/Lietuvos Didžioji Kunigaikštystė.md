@@ -254,6 +254,19 @@ media_all_json: |-
   pagrindžia:
     - c-181223
 
+<a id="claim-t-204082"></a>
+- t-011
+  teiginys: "Lietuvos Didžiosios Kunigaikštystės (LDK) pavietų žemės teis mų kūrimo procesas buvo ilgas ir komplikuotas, prasidėjęs dar XVI a."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  vertinimo_atnaujinta: "2026-07-19T10:07:01Z"
+  pagrindžia:
+    - c-186686
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -707,3 +720,28 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+- id: c-186686
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 1"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 1."
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės (LDK) pavietų žemės teis­
+    mų kūrimo procesas buvo ilgas ir komplikuotas, prasidėjęs dar XVI a. 4 dešimtmetyje,
+    kai I Lietuvos Statute 1529 m. bajorijai buvo numatyta galimybė dalyvauti regioninių di­
+    džiojo kunigaikščio
+    vietininkų teismų darbe. Nuo to amžiaus 5-ojo dešimimečio pradžios
+    kai kuriuose valstybės administraciniuose centruose veikė Statute numatyti vadinamieji
+    „žemės teismai", iš valdovo vietininkų teismo pamažu tapę išsodintųjų, parinktųjų (cydbu
+    ebtcajKeubie)
+    teisėjų teismu. Pradėtos reguliariai vesti tų teismų knygos, kas įrodo, kad
+    iš esmės senasis vadinamasis „žemės" teismas (iki II Lietuvos Statuto priėmimo) buvo
+    pilies teismo sinonimas, o pats teismo pavadinimas tada dar nebuvo nusistovėjęs. Tačiau
+    bajorijos tai jau netenkino - ji turėjo sektiną precedentą - Lenkijos bajorų teismus.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

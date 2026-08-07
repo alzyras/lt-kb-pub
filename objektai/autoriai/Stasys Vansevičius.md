@@ -35,11 +35,27 @@ Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės samp
 
 Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203709"></a>
+- t-001
+  teiginys: "Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės sampratos kaitą Lietuvos Statutuose bei išskyrė nusikaltimų rūšis ir už juos taikytas bausmes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186313
+
+## Citatos
+
+- id: c-186313
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 4."
   citata_originali: |
     Aptardamas „grynąsias“ įbauginančias bausmes, autorius
     išskyrė pakorimo bausmę kaip pagrindinę jau lietuvių paprotinėje teisėje24. Jo nuomo-
@@ -47,8 +63,11 @@ Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo ir bausmės samp
     jau Pirmajame Statute25. Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo
     ir bausmės sampratos kitimą Lietuvos Statutuose, išskyrė atskiras nusikaltimų rūšis ir
     bausmes už juos26.
-  citata_rodoma: ''
+  citata_rodoma: "Stasys Vansevičius, sekdamas G. Demčenka, aptarė nusikaltimo \nir bausmės sampratos kitimą Lietuvos Statutuose, išskyrė atskiras nusikaltimų rūšis ir \nbausmes už juos26."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

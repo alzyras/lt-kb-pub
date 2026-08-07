@@ -28,11 +28,27 @@ media_all_json: |-
 
 Žygimantas Augustas privilegija Topčikalai, Košeliui ir Vervečkai suteikė teises naudotis Belsko paviete esančių dvarų miškų gėrybėmis ir medžioti visus žvėris, išskyrus stumbrus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Žygimantas Augustas privilegija Topčikalai, Košeliui ir Vervečkai suteikė teises naudotis Belsko paviete esančių dvarų miškų gėrybėmis ir medžioti visus žvėris, išskyrus stumbrus.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204169"></a>
+- t-001
+  teiginys: "Žygimantas Augustas privilegija Topčikalai, Košeliui ir Vervečkai suteikė teises naudotis Belsko paviete esančių dvarų miškų gėrybėmis ir medžioti visus žvėris, išskyrus stumbrus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186779
+
+## Citatos
+
+- id: c-186779
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 12"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 12."
   citata_originali: |
     Paskutiniai leidimai sumedžioti stumbrą kilmingiesiems (nedalyvaujant
     valdovui) surašyti tik valdant Žygimantui Senajam, o valdant Žygimantui Au-
@@ -43,8 +59,11 @@ media_all_json: |-
     klausančiais miškais, esančiais Belsko paviete, suteikia visas teises naudotis
     miškų gėrybėmis ir leidžia medžioti visus žvėris, išskyrus stumbrus57 (rusėn.
     кроме зубров, lot. bisontibus exceptis).
-  citata_rodoma: ''
+  citata_rodoma: "Antai Žygimantas Augustas \nprivilegija bajorams Topčikalai, Košeliui ir Vervečkai dėl dvarų su jiems pri-\nklausančiais miškais, esančiais Belsko paviete, suteikia visas teises naudotis \nmiškų gėrybėmis ir leidžia medžioti visus žvėris, išskyrus stumbrus57 (rusėn. \nкроме зубров, lot. bisontibus exceptis)."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

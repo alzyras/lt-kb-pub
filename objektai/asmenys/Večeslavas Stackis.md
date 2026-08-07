@@ -43,18 +43,36 @@ Chelmno vyskupas ignoravo nevienkartinius Večeslavo Stackio prašymus.
 
 Chelmno vyskupas ignoravo nevienkartinius Večeslavo Stackio prašymus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Chelmno vyskupas ignoravo nevienkartinius Večeslavo Stackio prašymus.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203790"></a>
+- t-001
+  teiginys: "Chelmno vyskupas ignoravo nevienkartinius Večeslavo Stackio prašymus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186394
+
+## Citatos
+
+- id: c-186394
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     1691 m. vasario 25 d.
     į teismą šaukiamas Chelmno vyskupas, nes neišduodavo
     Večeslavui Stackiui jo pabėgusių žmonių ir visokeriopai
     ignoruodavo nevienkartinius jo prašymus
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

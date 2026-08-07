@@ -43,19 +43,40 @@ canonical_biography: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinė
 
 1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203782"></a>
+- t-001
+  teiginys: "1585 m. Upytės pavieto žemininkas Jonas Zareckis bylinėjosi su Grigorijumi Delnickiu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir pagrįstas šaltinyje nurodyta Jono Zareckio byla prieš Grigorijų Delnickį."
+  pagrindžia:
+    - c-186386
+
+## Citatos
+
+- id: c-186386
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Panašus atvejis aptinkamas 1585 m.
     Upytės pavieto žemininko Jono Zareckio byloje prieš kitą
     žemininką Grigorijų Delnickį. Pats ponas Delnickis vaznio
     ir kitų gerųjų žmonių vizito dieną buvo išvykęs iš dvaro,
     o jo pavaldinys atsisakė vykdyti teismo nuosprendį.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

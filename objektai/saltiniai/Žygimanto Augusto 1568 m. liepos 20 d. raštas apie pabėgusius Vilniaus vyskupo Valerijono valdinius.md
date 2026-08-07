@@ -34,11 +34,30 @@ media_all_json: |-
 
 1568 m. liepos 20 d. Žygimantas Augustas paskelbė žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono valdinių.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1568 m. liepos 20 d. Žygimantas Augustas paskelbė žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono valdinių.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203796"></a>
+- t-001
+  teiginys: "1568 m. liepos 20 d. Žygimantas Augustas paskelbė žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono valdinių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas ir tiksliai nusako Žygimanto Augusto rašto paskirtį. Citatoje esantys papildomi paieškos ir bausmių aspektai sąmoningai neįtraukti."
+  pagrindžia:
+    - c-186400
+
+## Citatos
+
+- id: c-186400
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 4"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 4."
   citata_originali: |
     1568 m. liepos 20 d. Žygiman­
     tas Augustas paskelbė visiems žemvaldžiams raštą apie
@@ -52,8 +71,10 @@ media_all_json: |-
     esą vyskupo valdiniai, tuojau, dalyvaujant pasiųstam
     dvarionui, juos teisti ir, radus kaltais, be pasigailėjimo
     bausti".
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

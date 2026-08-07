@@ -146,6 +146,75 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   pagrindžia:
     - c-185659
 
+<a id="claim-t-204084"></a>
+- t-007
+  teiginys: "Radvilų, Pacų ir Chreptavičių giminių atstovai ėjo didžiojo medžioklio pareigas ir išmanė to meto kilmingųjų bendravimo etiketą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186688
+
+<a id="claim-t-204085"></a>
+- t-008
+  teiginys: "1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose ir nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir tiksliai perteikia 1548 m. leidimą medžioti bei siųsti žvėrieną Barborai Radvilaitei. Nieko papildomai nepridėta."
+  pagrindžia:
+    - c-186689
+
+<a id="claim-t-204122"></a>
+- t-009
+  teiginys: "1549 m. LDK maršalas Radvila Juodasis, anot Raimondos Ragauskienės, ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir sarkastiškai teigė, kad be didžiojo medžioklio pareigybės reikėtų mirti iš bado."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1549 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas citatoje esantis sarkastiškas palyginimas ir išsaugota Raimondos Ragauskienės atribucija. Pašalintas neaiškus įvardis „ją“."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186728
+
+<a id="claim-t-204179"></a>
+- t-010
+  teiginys: "Radvilų giminės atstovams suteiktos medžioklės pareigybės, leidusios būti greta valdovo, galėjo rodyti išskirtinį socialinį bei emocinį statusą, valdovo simpatiją ir pasitikėjimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186739
+
+<a id="claim-t-204309"></a>
+- t-011
+  teiginys: "Sistemingi Dubingių piliavietėje buvusių Radvilų rūmų liekanų archeologiniai tyrimai leido atskleisti Radvilų virtuvės aspektus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186898
+
 ## Citatos
 
 - id: c-157126
@@ -376,3 +445,126 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-006
+
+- id: c-186688
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 7"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 7."
+  citata_originali: |
+    Kadangi šias pareigas einantis žmogus pri-
+    valėjo žinoti, ko iš būsimos medžioklės tikisi valdovas, tinkamai ją surengti
+    ir sukviesti reikiamą skaičių dalyvių. Todėl nenuostabu, kad šias pareigybes
+    turėjo iškilių giminių – Radvilų, Pacų, Chreptavičių ir kt. – atstovai, išmanan-
+    tys to meto kilmingųjų bendravimo etiketą. Taip pat didysis medžioklis turėjo
+    rūpintis ir ne itin reikšmingais medžioklės klausimais.
+  citata_rodoma: "Todėl nenuostabu, kad šias pareigybes \nturėjo iškilių giminių – Radvilų, Pacų, Chreptavičių ir kt. – atstovai, išmanan-\ntys to meto kilmingųjų bendravimo etiketą. Taip pat didysis medžioklis turėjo \nrūpintis ir ne itin reikšmingais medžioklės klausimais."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-186689
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Žinoma, kad 1548 m. valdovas
+    Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me-
+    džioti valdovui priklausančiose giriose, kad jis galėtų nusiųsti sumedžiotos
+    žvėrienos Barborai Radvilaitei į Vilnių45. Šis minėtas atvejis atskleidžia, kad
+    Mikalojaus Radvilos Rudojo, kaip pagrindinio LDK medžioklės ūkį prižiū-
+    rinčio pareigūno ir valdovo svainio, vaidmuo šioje vietoje tarytum persipi-
+    na.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-186728
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Apie valdovo didikui suteiktos medžioklės regalijos naudojimą
+    liudija ir vėlesni šaltiniai. Antai 1549 m. LDK maršalas Radvila Juodasis, anot
+    Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
+    Rudajam už atsiųstą žvėrieną ir sarkastiškai pažymėjo, kad jei ne didžiojo
+    medžioklio pareigybė, reikėtų mirti iš bado46.
+  citata_rodoma: "Antai 1549 m. LDK maršalas Radvila Juodasis, anot \nRaimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai \nRudajam už atsiųstą žvėrieną ir sarkastiškai pažymėjo, kad jei ne didžiojo \nmedžioklio pareigybė, reikėtų mirti iš bado46."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-186739
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 4"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 4."
+  citata_originali: |
+    Žinoma, nereikėtų nuvertinti medžioklės ūkio pareigybių, nes šios galėjo
+    suteikti galimybę provincijos bajorams iškilti į aukštesnes pareigas ar patekti
+    į gana uždarą kilmingųjų elitą15, o įtakingų giminių atstovams (pvz., Radvi-
+    lų) suteikiamos medžioklės pareigybės, leidžiančios būti greta valdovo per
+    ilgai trunkančią pramogą, galėtų byloti apie išskirtinį socialinį ir emocinį sta-
+    tusą, valdovo simpatiją ir pasitikėjimą. Itin iškalbingas atvejis, kai Lietuvos
+    didžiojo kunigaikščio Žygimanto Augusto didžiuoju medžiokliu 1546.12.30–
+    1554.09.03 tapo jo svainis Mikalojus Radvila Rudasis16, o vėliau, 1574.03.02–
+    1580.02.16, LDK didžiuoju medžiokliu tapo ir jo sūnus Mikalojus Radvila17.
+    Apskritai, svarbu pažymėti, jog toks medžioklės pareigybių „paveldėjimas“ yra
+    gana būdingas mūsų aptariamuoju laikotarpiu, tačiau kadangi valdovo ryšys
+    su Mikalojumi Radvila Ruduoju buvo išskirtinis ir geriausiai atskleidžian-
+    tis didžiojo medžioklio santykio su valdovu specifiką, daugiausia gilinsimės
+    būtent į šio atvejo tyrimą.
+  citata_rodoma: "Žinoma, nereikėtų nuvertinti medžioklės ūkio pareigybių, nes šios galėjo \nsuteikti galimybę provincijos bajorams iškilti į aukštesnes pareigas ar patekti \nį gana uždarą kilmingųjų elitą15, o įtakingų giminių atstovams (pvz., Radvi-\nlų) suteikiamos medžioklės pareigybės, leidžiančios būti greta valdovo per \nilgai trunkančią pramogą, galėtų byloti apie išskirtinį socialinį ir emocinį sta-\ntusą, valdovo simpatiją ir pasitikėjimą. Itin iškalbingas atvejis, kai Lietuvos \ndidžiojo kunigaikščio Žygimanto Augusto didžiuoju medžiokliu 1546.12.30–\n1554.09.03 tapo jo svainis Mikalojus Radvila Rudasis16, o vėliau, 1574.03.02–\n1580.02.16, LDK didžiuoju medžiokliu tapo ir jo sūnus Mikalojus Radvila17. \nApskritai, svarbu pažymėti, jog toks medžioklės pareigybių „paveldėjimas“ yra \ngana būdingas mūsų aptariamuoju laikotarpiu, tačiau kadangi valdovo ryšys \nsu Mikalojumi Radvila Ruduoju buvo išskirtinis ir geriausiai atskleidžian-\ntis didžiojo medžioklio santykio su valdovu specifiką, daugiausia gilinsimės \nbūtent į šio atvejo tyrimą"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-186898
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 2"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 2."
+  citata_originali: |
+    Lietuvos istoriografijoje, kurioje iki šiol
+    stinga bajorų namų ūkio tyrimų, o pati
+    kasdienybės istorijos tyrimo sritis atsiliko
+    nuo Vokietijoje, Austrijoje10 bei Lenkijoje11
+    išplėtotų šios krypties tyrinėjimų, bajorų
+    virtuvės funkcionavimo problema taip pat
+    iki šiol dar nėra išanalizuota. Į virtuvės
+    pastatą šiek tiek atkreipė dėmesį tik D. Puo­
+    džiukienė12, pastebėjusi virtuvės plano
+    pokyčius XVI–XVII a. Daugiau dėmesio
+    pastaraisiais metais susilaukė kilmingųjų
+    mitybos problema – Lietuvos Didžiosios
+    Kunigaikštystės Valdovų rūmų atstatymo
+    projektas paskatino L. Glemžą parašyti
+    nedidelę studiją apie valdovo virtuvę13, o
+    sistemingi Dubingių piliavietėje buvusių
+    rūmų liekanų archeologiniai tyrimai leido
+    atskleisti Radvilų virtuvės aspektus14.
+  citata_rodoma: "sistemingi Dubingių piliavietėje buvusių \nrūmų liekanų archeologiniai tyrimai leido \natskleisti Radvilų virtuvės aspektus14."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

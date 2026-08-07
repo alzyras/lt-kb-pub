@@ -42,19 +42,39 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Antrasis leidimas išėjo 1648 m.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
-  citata_originali: |
-    1619 m. Statutas pirmą kartą buvo išverstas į lenkų kalbą. Antrasis leidimas išėjo
-    1648 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-203682"></a>
+- t-001
+  teiginys: "Antrasis leidimas išėjo 1648 m."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186286
+
 ## Santrauka
 
 Antrasis leidimas išėjo 1648 m.
+
+## Citatos
+
+- id: c-186286
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 21"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 21."
+  citata_originali: |
+    1619 m. Statutas pirmą kartą buvo išverstas į lenkų kalbą. Antrasis leidimas išėjo
+    1648 m.
+  citata_rodoma: "Antrasis leidimas išėjo \n1648 m."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

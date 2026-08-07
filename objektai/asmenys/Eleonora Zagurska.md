@@ -43,19 +43,41 @@ canonical_biography: "1741 m. Eleonora Zagurska skundė Antaną ir Oną Jezersku
 
 1741 m. Eleonora Zagurska skundė Antaną ir Oną Jezerskus dėl dvarelio prie pylimo už arsenalo užpuolimo; užpuolikai išvijo žydą Abraomą ir pagrobė sumokėtus mokesčius liudijančius kvitus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1741 m. Eleonora Zagurska skundė Antaną ir Oną Jezerskus dėl dvarelio prie pylimo už arsenalo užpuolimo; užpuolikai išvijo žydą Abraomą ir pagrobė sumokėtus mokesčius liudijančius kvitus.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203927"></a>
+- t-001
+  teiginys: "1741 m. Eleonora Zagurska skundė Antaną ir Oną Jezerskus dėl dvarelio prie pylimo už arsenalo užpuolimo; užpuolikai išvijo žydą Abraomą ir pagrobė sumokėtus mokesčius liudijančius kvitus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtos citatoje nurodytos užpuolimo pasekmės ir dokumentų pagrobimas. Išlaikytas skundo kontekstas, nepridėta nepatvirtintų motyvų."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186531
+
+## Citatos
+
+- id: c-186531
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     z., 1741 m. Eleonora Zagurska (Eleonora Za-
     gurska) skundė savo svainį Antaną ir savo seserį Oną Jezerskus dėl dvarelio prie pylimo
     už arsenalo užpuolimo. Užpuolikai smurtavo prieš ten gyvenusį žydą Abraomą, jį išvijo,
     atėmė gobtuvą, pagrobė kvitus, liudijančius sumokėtus mokesčius. Anot skundo autorių,
     vien sumuštajam buvo padaryta 60 talerių žalos51. M
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

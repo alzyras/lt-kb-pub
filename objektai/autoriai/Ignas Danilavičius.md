@@ -144,6 +144,18 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   pagrindžia:
     - c-184295
 
+<a id="claim-t-203665"></a>
+- t-007
+  teiginys: "Ignas Danilavičius XIX a. pirmoje pusėje dalį Lietuvos Statutuose nurodytų bausmių kildino iš magdeburginės teisės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186269
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną.'
@@ -302,3 +314,23 @@ canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186269
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 4."
+  citata_originali: |
+    Vytautas Andriulis savo darbuose trumpai aptarė baudžiamąją teisę
+    Lietuvos Statutuose, analizavo baudžiamąjį procesą ir bausmes Kazimiero teisyne27.
+    Dar viena problema, kurią tyrinėjant atkreipiamas dėmesys į mirties bausmę, yra Lie-
+    tuvos Didžiosios Kunigaikštystės teisės aktų šaltinių tyrimas. Jau XIX a. pirmoje pusėje
+    Ignas Danilavičius dalį tokių bausmių Statutuose kildino iš magdeburginės teisės28.
+  citata_rodoma: "Jau XIX a. pirmoje pusėje \nIgnas Danilavičius dalį tokių bausmių Statutuose kildino iš magdeburginės teisės28."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

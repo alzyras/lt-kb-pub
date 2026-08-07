@@ -35,11 +35,26 @@ Oskaras Haleckis Ponų tarybos ir Seimo istoriją traktavo kaip tapačią proble
 
 Oskaras Haleckis Ponų tarybos ir Seimo istoriją traktavo kaip tapačią problemą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Oskaras Haleckis Ponų tarybos ir Seimo istoriją traktavo kaip tapačią problemą.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204412"></a>
+- t-001
+  teiginys: "Oskaras Haleckis Ponų tarybos ir Seimo istoriją traktavo kaip tapačią problemą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187016
+
+## Citatos
+
+- id: c-187016
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 11 (PDF 3)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 11 (PDF 3)."
   citata_originali: |
     Nikolajus Mak-
     simeika akcentavo vietinių „Seimų" įtaką LDK luominio susirinkimo
@@ -49,8 +64,11 @@ Oskaras Haleckis Ponų tarybos ir Seimo istoriją traktavo kaip tapačią proble
     ras Haleckis ir Vitoldas Kamienieckis Ponų tarybos ir Seimo istoriją
     traktavo kaip tapačią problemą, tačiau santykis tarp šių institucijų liko
     neatskleistas.
-  citata_rodoma: ''
+  citata_rodoma: "Lenkų istorikai Oska­\nras Haleckis ir Vitoldas Kamienieckis Ponų tarybos ir Seimo istoriją \ntraktavo kaip tapačią problemą, tačiau santykis tarp šių institucijų liko \nneatskleistas."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

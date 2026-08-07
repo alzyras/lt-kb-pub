@@ -33,11 +33,27 @@ Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK gimi
 
 Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204128"></a>
+- t-001
+  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186782
+
+## Citatos
+
+- id: c-186782
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 15"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 15."
   citata_originali: |
     Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai
     klausimais. Nusistovėjusios didžiųjų LDK medžioklių pareigos ir funkcijos iki
@@ -46,8 +62,11 @@ Po Mikalojaus Radvilos Rudojo mirties Naruševičiai buvo tarp svarbių LDK gimi
     siejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę
     ir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt.,
     „paveldėdamos“ ją iš savo giminaičių.
-  citata_rodoma: ''
+  citata_rodoma: "Po didžio-\njo LDK medžioklio Mikalojaus Radvilos Rudojo, kurį su valdovu visų pirma \nsiejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę \nir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt., \n„paveldėdamos“ ją iš savo giminaičių."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

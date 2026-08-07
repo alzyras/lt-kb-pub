@@ -28,11 +28,27 @@ Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, n
 
 Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204320"></a>
+- t-001
+  teiginys: "Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186926
+
+## Citatos
+
+- id: c-186926
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
   citata_originali: |
     Gėrimai
     XVI a. šaltiniai atskleidžia būtent alkoholi­
@@ -42,8 +58,11 @@ Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, n
     davo tik tie, kurie nedarydavo alaus138, nes
     vanduo tuo metu buvo nešvarus ir galėjo
     sukelti sveikatos sutrikimų.
-  citata_rodoma: ''
+  citata_rodoma: "Tačiau gryną \nvandenį, kaip pasakoja Jonas Lasickis, ger­\ndavo tik tie, kurie nedarydavo alaus138, nes \nvanduo tuo metu buvo nešvarus ir galėjo \nsukelti sveikatos sutrikimų."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

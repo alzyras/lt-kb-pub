@@ -46,19 +46,41 @@ canonical_biography: "1534 m. Žygimantas Senasis, būdamas Rūdninkų medžiokl
 
 1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204161"></a>
+- t-001
+  teiginys: "1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1534 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir faktiškai atitinka citatoje nurodytą 1534 m. įsakymą. Išlaikytos tik šaltinio pagrįstos aplinkybės."
+  pagrindžia:
+    - c-186738
+
+## Citatos
+
+- id: c-186738
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 12"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 12."
   citata_originali: |
     Valdovo aistra medžioklei atsiskleidžia ne tik to meto literatūriniuose
     tekstuose, bet ir gyvenimo realijas liudijančiuose šaltiniuose. Pavyzdžiui,
     1534 m. Žygimantas Senasis, buvodamas Rūdninkų medžioklės dvare, ats-
     kiru pranešimu įsakė etmonui ir didžiajam medžiokliui Jurgiui Mikalojaičiui
     Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją
-  citata_rodoma: ''
+  citata_rodoma: "Pavyzdžiui, \n1534 m. Žygimantas Senasis, buvodamas Rūdninkų medžioklės dvare, ats-\nkiru pranešimu įsakė etmonui ir didžiajam medžiokliui Jurgiui Mikalojaičiui \nRadvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

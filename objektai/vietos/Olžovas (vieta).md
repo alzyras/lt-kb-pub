@@ -46,16 +46,34 @@ Raklienė Petkevičienė minima dėl kvietimo, susijusio su Olžovo dvaru.
 
 Raklienė Petkevičienė minima dėl kvietimo, susijusio su Olžovo dvaru.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Raklienė Petkevičienė minima dėl kvietimo, susijusio su Olžovo dvaru.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204365"></a>
+- t-001
+  teiginys: "Raklienė Petkevičienė minima dėl kvietimo, susijusio su Olžovo dvaru."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186969
+
+## Citatos
+
+- id: c-186969
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 27 (PDF 19)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 27 (PDF 19)."
   citata_originali: |
     Ten pat paminėtas ir Raklienės
     Petkevičienės kvietimas dėl Olžovo dvaro.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

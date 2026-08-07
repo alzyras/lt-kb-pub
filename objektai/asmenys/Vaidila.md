@@ -107,6 +107,18 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   pagrindžia:
     - c-178954
 
+<a id="claim-t-204011"></a>
+- t-005
+  teiginys: "Vaidila gyveno XIV a. antroje pusėje ir priskiriamas įtakingiausiems bei valdovui artimiausiems didikams, gaudavusiems reikšmingesnes beneficijas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186615
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija.'
@@ -243,6 +255,48 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-186615
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 4-5"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 4-5."
+  citata_originali: |
+    Reikšmingesnes beneficijas paprastai gaudavo tik įta-
+    ^
+    Perlbach M. Urkunden des Rigaschen Capitel-Archives in der Fürstlich Czartoryskischen Bi-
+    bliothek // Mittheilungen aus dem Gebiete der Geschichte Liv-, Est- und Kurlands. Bd. 13.
+    1886, S. 17-18 (<...> omnem hereditatem suam <...> quam inprouincia Nalsen a progenitori-
+    bus suis nosciturpossedisse, ad manus nostras <...> in ecclesia nostra coram summo altari presen-
+    tibus G. comite Zwerinensi et H. domino Mangnopolensi cum multa numerositate fidelium libere
+    resignauit etpostmodum tam pro se, quam pro fratre suo absente recepit a nobis infeudum, prestito
+    nobis et ecclesie nostrefidelitatispublice sacramento).
+    1 5
+    Heinrichs Livländische Chronik / Bearb. von L. Arbusow und A. Bauer. Hannover, 1955,
+    XIII/4. Liet. vertimas: Henrikas Latvis, Hermanas Vartbergė. Livonijos kronikos / Vertė, įvadą
+    ir paaiškinimus parašė J. Jurginis. Vilnius, 1991, p. 64.
+    1 6
+    Preussisches Urkundenbuch. Bd. 1/2 / Hrsg. von A. Seraphim. Königsberg, 1909, p. 70
+    (<...> sive a nobis teneantur infeudo <...>).
+    1 7
+    Chartularium Lithuaniae res gestas magni ducis Gedeminne illustrans. Gedimino laiškai /
+    Parengė S. C. Rowell. Vilnius, 2003, p. 48 (milites et armigeri, si manere voluerint, dotabo eos
+    rebus etpossessionepr
+
+    R i m v y d a s
+    P e t r a u s k a s
+    „JEI BAJORAS IŠ PONO DVARĄ IŠSITARNAUTŲ."
+    91
+    kingiausi ir valdovui artimiausi didikai, tokie kaip XIV a. antroje pusėje gyvenę
+    Vaišviltas ar Jogailos svainis Vaidila
+    18. Nėra aiškios ir šių užrašymų aplinkybės
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

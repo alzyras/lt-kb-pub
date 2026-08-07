@@ -34,11 +34,31 @@ media_all_json: |-
 
 1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204079"></a>
+- t-001
+  teiginys: "1558 m. Žygimanto Augusto privilegija dvaro stalininkui Bagdonui Steckavičiui suteikė tarnybas leno teise ir numatė jų paveldėjimą žmonai, vaikams bei vyriškosios lyties palikuonims."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1558 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta šaltinyje nurodyta privilegijos paveldėjimo sąlyga ir aiškiai įvardyti jos gavėjas bei objektas. Paveldėjimo kategorijos perteiktos pagal citatą."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186683
+
+## Citatos
+
+- id: c-186683
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Pavyzdžiui, 1558 m. valdovo privilegijoje dvaro stalininkui Bag-
     donui Steckavičiui suteikiamos tarnybos „leno teise" (правом ленным)
@@ -46,8 +66,10 @@ media_all_json: |-
     dokumente esanti išlyga dėl tų tarnybų paveldėjimo atskleidžia konkretų leno
     teisės ypatumą. Privilegijoje nurodoma, kad paveldėti gali žmona, vaikai ir „vy-
     riškos lyties palikuonys" (потомьки ихь мужьчызного рожаю).
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

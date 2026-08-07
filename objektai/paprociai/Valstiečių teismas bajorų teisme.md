@@ -39,21 +39,41 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203695"></a>
+- t-001
+  teiginys: "Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186299
+
+## Santrauka
+
+Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas.
+
+## Citatos
+
+- id: c-186299
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 8"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 8."
   citata_originali: |
     Valstiečius atidavus bajorų nuosavybei, didžiojo kunigaikščio pareigū-
     nams buvo uždrausta spręsti jų bylas. Valstiečius turėjo teisti ne valstybiniai teismai, bet
     patys bajorai (tik šiems nesiėmus spręsti bylos, galėjo įsikišti valdovo teisėjas). Buvo
     padėtas pagrindas tėvoninių teismų formavimuisi.
-  citata_rodoma: ''
+  citata_rodoma: "Valstiečius turėjo teisti ne valstybiniai teismai, bet \npatys bajorai (tik šiems nesiėmus spręsti bylos, galėjo įsikišti valdovo teisėjas). Buvo \npadėtas pagrindas tėvoninių teismų formavimuisi."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas.
+  pagrindzia:
+    - t-001

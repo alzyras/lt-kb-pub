@@ -244,6 +244,36 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindžia:
     - c-184933
 
+<a id="claim-t-203807"></a>
+- t-014
+  teiginys: "1724 ir 1725 m. Antakalnyje buvusį Simono Mošcickio dvarelį du kartus užpuolė Kazimiero Piontkovskio žmonės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1725 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai nurodo vietą, laiką, veikėjus ir veiksmą. Atribucijos pridėti nereikia."
+  pagrindžia:
+    - c-186411
+
+<a id="claim-t-203808"></a>
+- t-015
+  teiginys: "1792 m. Antakalnyje buvo Antano Orlovskio dvarelis Aleksandro Mykolo Sapiegos jurisdikcijoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus sakinys apie Antakalnio dvarelį ir jo jurisdikcinę priklausomybę. Papildomi įvykio aspektai sąmoningai nepridėti."
+  pagrindžia:
+    - c-186412
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
@@ -524,3 +554,40 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
+
+- id: c-186411
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 8"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 8."
+  citata_originali: |
+    sak skundą parašiusio asmens, po konfliktų dėl Veršupio miškų medienos nau-
+    dojimo du kartus – 1724 ir 1725 m. – Antakalnyje buvusį Artilerijos jurisdikos vaito
+    ir ekonomo Simono Mošcickio (Szymon Mościcki) dvarelį užpuolė Gardino pavieto
+    pataurininkio Kazimiero Piontkovskio (Kazimierz Piontkowski) žmonės, smurtavo prieš
+    šeimininką, mušė lazdomis, išvijo jį į l
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-186412
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
+  citata_originali: |
+    Kaip rašoma skunde, 1792 m.
+    Antakalnio gubernatoriaus Adomavičiaus žmonės, ginkluoti kirviais ir ilgavamzdžiais
+    šautuvais, užpuolė Antano Orlovskio (Antoni Orłowski) dvarelį Antakalnyje – LDK
+    didžiojo kanclerio Aleksandro Mykolo Sapiegos jurisdikoje57.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015

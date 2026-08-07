@@ -35,11 +35,38 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
 
 Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204406"></a>
+- t-001
+  teiginys: "Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187010
+
+<a id="claim-t-204407"></a>
+- t-002
+  teiginys: "L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187011
+
+## Citatos
+
+- id: c-187010
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
   citata_originali: |
     Tačiau panašu, kad didesnio bajorų visuomenės užnugario
     siekė ir legitimacijos problemą jaučiantys LDK didikai. Turbūt neatsi­
@@ -49,14 +76,19 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
     4 0. Šiuos susirinkimus tyrinėję ir
     jų sudėtį vertinę Matvejus Liubavskis ir Lidija Korčiak padarė skirtin­
     gas išvadas.
-  citata_rodoma: ''
+  citata_rodoma: "Šiuos susirinkimus tyrinėję ir \njų sudėtį vertinę Matvejus Liubavskis ir Lidija Korčiak padarė skirtin­\ngas išvadas."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-001
+
+- id: c-187011
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
   citata_originali: |
     M. Liubavskio nuomone, 1445/1446 m. suvažiavimas žymi
     naują etapą Lietuvos Seimo istorijoje - visuotinio Seimo
@@ -71,8 +103,11 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
     mų dalyviai buvo Ponų tarybos nariai, todėl ji skeptiškai vertino bandy­
     mus šiose sueigose įžvelgti atstovavimą sričių bajorijai
     4 2.
-  citata_rodoma: ''
+  citata_rodoma: "Tuo tarpu šių suvažiavimų veikėjais \npasidomėjusi L. Korčiak nustatė, kad visi šaltiniuose minimi pasitari­\nmų dalyviai buvo Ponų tarybos nariai, todėl ji skeptiškai vertino bandy­\nmus šiose sueigose įžvelgti atstovavimą sričių bajorijai\n4 2."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

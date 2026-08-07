@@ -214,6 +214,32 @@ Nenurodyta
   pagrindžia:
     - c-185785
 
+<a id="claim-t-203797"></a>
+- t-011
+  teiginys: "1754 m. Tado Gurskio pagalbininkai kardais ir pistoletais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Antanas ir Ona Volanskiai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186401
+
+<a id="claim-t-203798"></a>
+- t-012
+  teiginys: "1721 m. Vladislovas Vaina su bendrininkais užpuolė Jono Kybarto mūrinį namą Vilniuje ir plokščiąja kardų puse mušė šeimininką."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186402
+
 ## Citatos
 
 - id: c-88396
@@ -433,3 +459,41 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+- id: c-186401
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
+  citata_originali: |
+    54 m. Antanas ir Ona Volans-
+    kiai (Antoni i Anna Wolańscy) skundė Smolensko pavieto iždininkaitį Tadą Gurskį, nes
+    jis su savo pagalbininkais, ginkluotais kardais ir pistoletais, tarp kurių buvo ir Gelvonų
+    valdų pavaldinių, užpuolė misionieriams priklausiusį mūrinį namą, kur gyveno ieškovai49.
+    T
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-186402
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
+  citata_originali: |
+    Remiantis skundais šio nusikaltimo metu dalyvių ginkluotė buvo gerokai lengvesnė,
+    palyginus su valdų antpuolių dalyvių ginkluote. Pvz., 1721 m. Jonas Kybartas skundėsi,
+    kad Vitebsko pavieto iždininkas Vladislovas Vaina su savo bendrininkais užpuolė ieškovo
+    mūrinį namą Vilniuje, išdaužė duris. Užpuolikai buvo ginkluoti kardais, plokščiąja šio
+    ginklo puse mušė šeimininką55.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012

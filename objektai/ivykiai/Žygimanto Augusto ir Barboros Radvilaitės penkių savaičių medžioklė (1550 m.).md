@@ -47,11 +47,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204133"></a>
+- t-001
+  teiginys: "1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1550 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškius subjektus ir tiesiogiai perteikia 1550 m. laiške nurodytą faktą. Atribucija šiame sakinyje nebūtina."
+  pagrindžia:
+    - c-186737
+
+## Santrauka
+
+1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites.
+
+## Citatos
+
+- id: c-186737
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     LDK maršalas Radvila Juodasis, anot
     Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
@@ -64,11 +87,11 @@ Nenurodyta
     bei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo
     19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje
     užtruko kone penkias savaites49.
-  citata_rodoma: ''
+  citata_rodoma: "Antai net po 1549 m. užsitęsusių Užgavėnių linksmybių valdovas su žmona \nbei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo \n19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje \nužtruko kone penkias savaites49."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1550 m. rugsėjo 19 d. laiške Mikalojui Radvilai Rudajam pabrėžta, kad Žygimantas Augustas ir Barbora Radvilaitė medžioklėje užtruko kone penkias savaites.
+  pagrindzia:
+    - t-001

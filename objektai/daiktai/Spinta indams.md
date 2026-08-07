@@ -39,11 +39,30 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. pabaigoje bajorų virtuvės interjere atsirado spinta indams.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204290"></a>
+- t-001
+  teiginys: "XVI a. pabaigoje bajorų virtuvės interjere atsirado spinta indams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186923
+
+## Santrauka
+
+XVI a. pabaigoje bajorų virtuvės interjere atsirado spinta indams.
+
+## Citatos
+
+- id: c-186923
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 4"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 4."
   citata_originali: |
     XVI a. bajorų virtuvės interjere pagrindi­
     nę funkcinę reikšmę turėjo ugniavietė43, virš
@@ -52,11 +71,11 @@ Nenurodyta
     bei pora suolų44. Tačiau aptariamo laiko­
     tarpio pabaigoje bajorų virtuvės interjere
     atsiranda ir naujovė – spinta indams45.
-  citata_rodoma: ''
+  citata_rodoma: "Tačiau aptariamo laiko­\ntarpio pabaigoje bajorų virtuvės interjere \natsiranda ir naujovė – spinta indams45."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. pabaigoje bajorų virtuvės interjere atsirado spinta indams.
+  pagrindzia:
+    - t-001

@@ -256,6 +256,22 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   pagrindžia:
     - c-185661
 
+<a id="claim-t-203805"></a>
+- t-013
+  teiginys: "1731 m. Vilniaus kapitulos kancleris ir dvasininkas Antanas Tyzenhauzas skundė savo giminaičius Pranciškų ir Benediktą Tyzenhauzus, Adomą Daunoravičių bei kitus asmenis dėl Lindorfų mūrinio namo Vokiečių gatvėje užpuolimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1731 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vietoj vien statuso pateiktas šaltinio pagrindinis veiksmas ir užpuolimo objektas. Nepridėtas su ūkio reformomis susijęs apibūdinimas, nes citata jo nepagrindžia."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186409
+
 ## Citatos
 
 - id: c-21603
@@ -407,6 +423,25 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-012
+
+- id: c-186409
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13."
+  citata_originali: |
+    z., 1731 m. Vilniaus kapitulos kancleris dvasininkas
+    Antanas Tyzenhauzas skundė savo giminaičius Inturkės seniūną Pranciškų Tyzenhauzą,
+    Smiltenės (šiandieninėje Latvijoje) seniūną Benediktą Tyzenhauzą, taip pat Adomą Dau-
+    noravičių ir kitus dėl Lindorfų (Lindorfowie) mūrinio namo Vokiečių gatvėje užpuolimo42.
+    M
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 ## Ryšiai
 - Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

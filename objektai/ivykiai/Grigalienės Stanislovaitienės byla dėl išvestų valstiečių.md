@@ -42,11 +42,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1529 m. Trakų vaivadienė Grigalienė Stanislovaitienė kreipėsi į kunigaikščio teismą dėl iš jos dvaro išvestų valstiečių.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203766"></a>
+- t-001
+  teiginys: "1529 m. Trakų vaivadienė Grigalienė Stanislovaitienė kreipėsi į kunigaikščio teismą dėl iš jos dvaro išvestų valstiečių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas, išsamus ir tiesiogiai apibūdina bylos objektą, todėl papildomo perrašymo nereikia."
+  pagrindžia:
+    - c-186370
+
+## Santrauka
+
+1529 m. Trakų vaivadienė Grigalienė Stanislovaitienė kreipėsi į kunigaikščio teismą dėl iš jos dvaro išvestų valstiečių.
+
+## Citatos
+
+- id: c-186370
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
   citata_originali: |
     1529 m. į kunigaikščio teismą kreipėsi Trakų
     vaivadienė Grigalienė Stanislovaitienė skųsdamasi dėl
@@ -60,11 +83,10 @@ Nenurodyta
     didžiojo kunigaikščio teismas, apsvarstęs bylą, sprendimą
     priėmė vaivadienės naudai ir buvo liepta išvestus valstie­
     čius grąžinti atgal
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1529 m. Trakų vaivadienė Grigalienė Stanislovaitienė kreipėsi į kunigaikščio teismą dėl iš jos dvaro išvestų valstiečių.
+  pagrindzia:
+    - t-001

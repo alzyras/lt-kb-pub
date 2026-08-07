@@ -189,20 +189,18 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - c-168104
 
-## Reikšmingi paminėjimai
-- c-007
-  santrauka: 'Didysis Ordino magistras 1423 m. Reino vynu malo nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną, už ką ji atsidėkodama magistrui pasiuntė aukštą kepu rę ir porą pirštinių (24).'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    Didysis Ordino magistras 1423 m. Reino vynu malo­
-    nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną,
-    už ką ji atsidėkodama magistrui pasiuntė aukštą kepu­
-    rę ir porą pirštinių (24).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-203609"></a>
+- t-009
+  teiginys: "Didysis Ordino magistras 1423 m. Reino vynu malo nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną, už ką ji atsidėkodama magistrui pasiuntė aukštą kepu rę ir porą pirštinių (24)."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186213
+
 ## Citatos
 
 - id: c-04832
@@ -365,3 +363,21 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-186213
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 4."
+  citata_originali: |
+    Didysis Ordino magistras 1423 m. Reino vynu malo­
+    nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną,
+    už ką ji atsidėkodama magistrui pasiuntė aukštą kepu­
+    rę ir porą pirštinių (24).
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

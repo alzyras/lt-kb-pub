@@ -392,6 +392,19 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - c-24355
 
+<a id="claim-t-204027"></a>
+- t-021
+  teiginys: "Rimvydo Petrausko vertinimu, leno teisės pagrindu valdovui skirtos suteiktys Palenkėje buvo priemonė stiprinti valdovo pozicijas ginčytinoje pasienio teritorijoje su Mazovija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186631
+
 ## Reikšmingi paminėjimai
 - c-015
   santrauka: 'Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.'
@@ -760,6 +773,23 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
+
+- id: c-186631
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 10"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 10."
+  citata_originali: |
+    Kitas svarbus motyvas buvo politinis - suteiktys leno
+    teisės pagrindu valdovui buvo dar viena priemonė stiprinti savo pozicijas gin-
+    čytinose (Palenkės atveju - su Mazovija) pasienio teritorijose.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

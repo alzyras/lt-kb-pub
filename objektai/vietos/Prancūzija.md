@@ -332,6 +332,18 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-166469
 
+<a id="claim-t-204322"></a>
+- t-017
+  teiginys: "LDK bajorai gerdavo iš Prancūzijos importuotą vyną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186908
+
 ## Citatos
 
 - id: c-24411
@@ -601,3 +613,27 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-006
     - t-012
     - t-016
+
+- id: c-186908
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 11"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 11."
+  citata_originali: |
+    Vis dėlto XVI a.
+    midaus (kaip ir atvežtinio vyno) smuklėse
+    buvo parduodama mažiau nei alaus ar
+    degtinės152. Įdomu, kad Mykolas Lietuvis,
+    kalbėdamas apie vartojamus gėrimus, mi­
+    daus visai nepamini, tačiau pasakoja, kad
+    lietuviai geria daugelio rūšių vyną153.
+    LDK bajorai gerdavo vynus, importuotus
+    iš Vengrijos, Italijos, Prancūzijos, Ispanijos
+    bei kitų šalių miestų154.
+  citata_rodoma: "LDK bajorai gerdavo vynus, importuotus \niš Vengrijos, Italijos, Prancūzijos, Ispanijos \nbei kitų šalių miestų154."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017

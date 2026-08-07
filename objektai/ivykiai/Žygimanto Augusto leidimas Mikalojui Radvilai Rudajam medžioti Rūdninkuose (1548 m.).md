@@ -46,11 +46,35 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204129"></a>
+- t-001
+  teiginys: "1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas vietoje neaiškaus įvardžio „jis“, išlaikant leidimo tikslą ir neperžengiant šaltinio informacijos. Atribucija nereikalinga, nes teiginys nusako konkretų dokumentuose minimą veiksmą."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186733
+
+## Santrauka
+
+1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių.
+
+## Citatos
+
+- id: c-186733
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     Žinoma, kad 1548 m. valdovas
     Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me-
@@ -59,11 +83,10 @@ Nenurodyta
     Mikalojaus Radvilos Rudojo, kaip pagrindinio LDK medžioklės ūkį prižiū-
     rinčio pareigūno ir valdovo svainio, vaidmuo šioje vietoje tarytum persipi-
     na.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių.
+  pagrindzia:
+    - t-001

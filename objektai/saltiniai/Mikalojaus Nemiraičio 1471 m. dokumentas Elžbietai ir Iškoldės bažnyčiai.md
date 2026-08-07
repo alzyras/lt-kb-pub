@@ -37,11 +37,44 @@ media_all_json: |-
 
 1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali. 1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204076"></a>
+- t-001
+  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1471 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pasyvi formuluotė pakeista aiškiu dokumento subjektu ir veiksmu. Lotyniška šaltinio frazė palikta nepakeista."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186680
+
+<a id="claim-t-204077"></a>
+- t-002
+  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186681
+
+## Citatos
+
+- id: c-186680
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 10-11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 10-11."
   citata_originali: |
     Toks buvo
     1471 m. Mikalojaus Nemiraičio dokumentas žmonai Elžbietai ir Iškoldės baž-
@@ -68,22 +101,29 @@ media_all_json: |-
     nyčiai, kuriame teigiama, kad jo Iškoldės dvarui priklausantys bajorai tarnauja
     ex iure feodali
     43
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+  pagrindzia:
+    - t-001
+
+- id: c-186681
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Ten pat nurodyta, kad tie bajorai ir tarnai (boyari et servitores),
     dokumente sugrupuoti pagal tam tikras vietoves (Zuchowiczczi, Thuhanowczy,
     Lissiczczi) karinio šaukimo ir žygių metu, apsiginklavę savo lėšomis, sudaro du
     dalinius („ietis")
     44.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

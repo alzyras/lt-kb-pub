@@ -39,11 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204065"></a>
+- t-001
+  teiginys: "Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186669
+
+## Santrauka
+
+Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais.
+
+## Citatos
+
+- id: c-186669
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 13"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 13."
   citata_originali: |
     Lietuvos diduomenė feodaline teise
     tarnaujančių pavaldinių trūkumą ilgainiui ėmė kompensuoti kur kas mažiau
@@ -51,11 +72,10 @@ Nenurodyta
     tiniais santykiais. Juolab tokių ryšių tarp didikų ir smulkesnių bajorų sistema tuo
     metu įsivyravo visoje Europoje
     54, tapdama svarbia socialinių ryšių forma.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais.
+  pagrindzia:
+    - t-001

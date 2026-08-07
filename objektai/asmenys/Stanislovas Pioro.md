@@ -43,19 +43,41 @@ canonical_biography: "1741 m. Stanislovas Pioro buvo LDK kariuomenės petihorų 
 
 1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje ir pagrobė šieną.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje ir pagrobė šieną.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203944"></a>
+- t-001
+  teiginys: "1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro su kareiviais užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje ir pagrobė šieną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pareigos susietos su konkrečiu Stanislovo Pioro veiksmu, vieta ir rezultatu. Įtraukti tik citatoje tiesiogiai nurodyti faktai."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186548
+
+## Citatos
+
+- id: c-186548
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     ip rašoma
     skunde, 1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro (Sta-
     nisław Pioro) su savo kareiviais nakčia užpuolė Gardino pavieto stalininko Benedikto
     Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino dvarelio šeimininkams, tačiau pa-
     grobė tik šieną ir nugabeno į savo namus52. Ž
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

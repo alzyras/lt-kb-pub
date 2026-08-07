@@ -28,19 +28,38 @@ XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams sva
 
 XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203639"></a>
+- t-001
+  teiginys: "XVI–XVIII a. Abiejų Tautų Respublikos dvisektoriame ūkyje valstiečiams svarbiausias buvo natūrinis, o bajorams – piniginis sektorius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186243
+
+## Citatos
+
+- id: c-186243
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 12"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 12."
   citata_originali: |
     54 Žr. ibidem, p. 33.
     XVI–XVIII  a.  ATR egzistavusiame
     dvisektoriame (piniginiame ir natūrinia­
     me) ūkyje55 valstiečiui buvo esminis na­
     tūrinis, o bajorams – piniginis sektorius.
-  citata_rodoma: ''
+  citata_rodoma: "XVI–XVIII  a.  ATR egzistavusiame \ndvisektoriame (piniginiame ir natūrinia­\nme) ūkyje55 valstiečiui buvo esminis na­\ntūrinis, o bajorams – piniginis sektorius."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

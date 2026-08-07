@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1051
+periodo_objektu_skaicius: 1050
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1051.
+Objektų skaičius: 1050.
 
 ## Susiję objektai
 
@@ -237,7 +237,6 @@ Objektų skaičius: 1051.
 - [[objektai/asmenys/Vitas]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Vredė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Zemislovas]]
 - [[objektai/asmenys/Zemovitas]]

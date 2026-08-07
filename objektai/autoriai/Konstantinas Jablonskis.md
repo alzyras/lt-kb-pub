@@ -96,6 +96,18 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   pagrindžia:
     - c-163200
 
+<a id="claim-t-203668"></a>
+- t-004
+  teiginys: "Konstantinas Jablonskis analizavo baudžiamąją teisę ir jos procesą, išskyrė piniginę baudą bei mirties bausmę ir aptarė Statutuose nustatytas mirties bausmes, jų taikymo skirtumus bei recepciją iš magdeburginės teisės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186272
+
 ## Citatos
 
 - id: c-30654
@@ -167,3 +179,23 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-186272
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 4."
+  citata_originali: |
+    Penktasis knygos skyrius yra skirtas bausmės sampratai ir tikslams aptarti17. Konstantinas
+    Jablonskis savo darbuose, be kitų teisės normų, taip pat analizavo baudžiamąją teisę bei
+    jos procesą18. Jis išskyrė dvi pagrindines bausmes – piniginę baudą ir mirties bausmę19,
+    aptarė pagrindines mirties bausmes Statutuose, jų taikymo skirtumus, bausmių recepcijas
+    iš magdeburginės teisės.
+  citata_rodoma: "Konstantinas \nJablonskis savo darbuose, be kitų teisės normų, taip pat analizavo baudžiamąją teisę bei \njos procesą18. Jis išskyrė dvi pagrindines bausmes – piniginę baudą ir mirties bausmę19, \naptarė pagrindines mirties bausmes Statutuose, jų taikymo skirtumus, bausmių recepcijas \niš magdeburginės teisės."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

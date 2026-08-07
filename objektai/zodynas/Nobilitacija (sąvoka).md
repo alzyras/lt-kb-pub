@@ -40,11 +40,28 @@ Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno te
 
 Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204038"></a>
+- t-001
+  teiginys: "Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno teisės pagrindu, būdavo derinama su asmens nobilitacija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186642
+
+## Citatos
+
+- id: c-186642
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Tokią sampratą
     patvirtina ir kiti gana gausūs to laikotarpio (1550-1571 m.) Žygimanto Augusto
@@ -53,8 +70,10 @@ Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno te
     46. Pasitaikydavo, kad
     valdovo privilegija būdavo suteikiama kartu su asmens nobilitacija
     47.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

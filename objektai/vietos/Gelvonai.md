@@ -55,6 +55,18 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   pagrindžia:
     - c-45099
 
+<a id="claim-t-203809"></a>
+- t-002
+  teiginys: "1754 m. tarp Tado Gurskio pagalbininkų, užpuolusių misionieriams priklausiusį mūrinį namą, buvo Gelvonų valdų pavaldinių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186413
+
 ## Citatos
 
 - id: c-45099
@@ -80,3 +92,22 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186413
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
+  citata_originali: |
+    54 m. Antanas ir Ona Volans-
+    kiai (Antoni i Anna Wolańscy) skundė Smolensko pavieto iždininkaitį Tadą Gurskį, nes
+    jis su savo pagalbininkais, ginkluotais kardais ir pistoletais, tarp kurių buvo ir Gelvonų
+    valdų pavaldinių, užpuolė misionieriams priklausiusį mūrinį namą, kur gyveno ieškovai49.
+    T
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -46,17 +46,36 @@ canonical_biography: "1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martyn
 
 1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martynienei Goštautienei patvirtino Dorohobužą su vietos bajorais, kurį anksčiau valdė Jonas Goštautas ir jo sūnus Martynas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martynienei Goštautienei patvirtino Dorohobužą su vietos bajorais, kurį anksčiau valdė Jonas Goštautas ir jo sūnus Martynas.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204034"></a>
+- t-001
+  teiginys: "1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martynienei Goštautienei patvirtino Dorohobužą su vietos bajorais, kurį anksčiau valdė Jonas Goštautas ir jo sūnus Martynas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186638
+
+## Citatos
+
+- id: c-186638
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
   citata_originali: |
     1494 06 02 didysis kunigaikštis Aleksandras Jogailaitis patvirtino Onai Martynienei Goš-
     tautienei Dorohobužą „su vietos bajorais" (cum boyaris terrigenis), kurį prieš tai valdė Jonas
     Goštautas ir jo sūnus Martynas (AGAD. Dok. perg., Nr. 4784).
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

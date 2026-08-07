@@ -54,6 +54,19 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
   pagrindžia:
     - c-75434
 
+<a id="claim-t-204137"></a>
+- t-002
+  teiginys: "Toma Zarankaitė Mikalojaus Husoviano „Giesmę apie stumbro išvaizdą, žiaurumą ir medžioklę“ įvardija kaip išsamiausią pasakojimą apie valdovo medžioklę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186773
+
 ## Citatos
 
 - id: c-75434
@@ -86,3 +99,24 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186773
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 3"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 3."
+  citata_originali: |
+    Būtent šių laiškų analizė leidžia atskleisti specialaus medžioklės ūkio parei-
+    gūno santykį su valdovu. Papildanti mūsų tyrimą šaltinių grupė – XVI a. lite-
+    ratūriniai kūriniai, padedantys atskleisti medžioklės svarbą to meto valdan-
+    čiojo elito tarpusavio bendravimui. Išsamiausias pasakojimas apie šią valdovo
+    pramogą − Mikalojaus Husoviano Giesmė apie stumbro išvaizdą, žiaurumą ir
+    medžioklę9.
+  citata_rodoma: "Papildanti mūsų tyrimą šaltinių grupė – XVI a. lite-\nratūriniai kūriniai, padedantys atskleisti medžioklės svarbą to meto valdan-\nčiojo elito tarpusavio bendravimui. Išsamiausias pasakojimas apie šią valdovo \npramogą − Mikalojaus Husoviano Giesmė apie stumbro išvaizdą, žiaurumą ir \nmedžioklę9."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

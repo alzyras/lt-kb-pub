@@ -336,6 +336,49 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   pagrindžia:
     - c-185662
 
+<a id="claim-t-204095"></a>
+- t-017
+  teiginys: "1547 m. Barboros Radvilaitės motina laiške Mikalojui Radvilai Rudajam minėjo savo sumedžiotas antis, siunčiamas sūnui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškas ir nurodo konkretų Barboros Radvilaitės motinos veiksmą bei datą. Papildomų interpretacijų nepridėta."
+  pagrindžia:
+    - c-186699
+
+<a id="claim-t-204149"></a>
+- t-018
+  teiginys: "Barbora Radvilaitė su Žygimantu Augustu bent kelioms dienoms per mėnesį vykdavo medžioti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186732
+
+<a id="claim-t-204168"></a>
+- t-019
+  teiginys: "1548 m. Žygimantas Augustas leido Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas konkrečiu asmens vardu. Išlaikytas leidimo tikslas ir neįtraukta papildoma interpretacija."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186776
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
@@ -663,6 +706,66 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-016
+
+- id: c-186699
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 9"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 9."
+  citata_originali: |
+    To meto moterų medžioklės pomėgį liudija ne tik kilmingų vyrų, bet ir
+    kilmingų moterų laiškai, kuriuose jos džiaugiasi sumedžiotais trofėjais. Antai
+    Barboros Radvilaitės motina 1547 m. Mikalojui Radvilai Rudajam rašytame
+    laiške mini savo sumedžiotas antis, siunčiamas sūnui, tačiau laiške save vadi-
+    na „boba troboje“43.
+  citata_rodoma: "Antai \nBarboros Radvilaitės motina 1547 m. Mikalojui Radvilai Rudajam rašytame \nlaiške mini savo sumedžiotas antis, siunčiamas sūnui, tačiau laiške save vadi-\nna „boba troboje“43."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-186732
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Antai 1549 m. LDK maršalas Radvila Juodasis, anot
+    Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
+    Rudajam už atsiųstą žvėrieną ir sarkastiškai pažymėjo, kad jei ne didžiojo
+    medžioklio pareigybė, reikėtų mirti iš bado46.
+    Žinoma, kad kiekvieną mėnesį Žygimantas Augustas kartu su savo žmona
+    Barbora bent kelioms dienoms per mėnesį išvykdavo pamedžioti ir apsisto-
+    davo savo prabangiai renesansiniu stiliumi puoštuose medžioklės dvaruose47.
+  citata_rodoma: "Žinoma, kad kiekvieną mėnesį Žygimantas Augustas kartu su savo žmona \nBarbora bent kelioms dienoms per mėnesį išvykdavo pamedžioti ir apsisto-\ndavo savo prabangiai renesansiniu stiliumi puoštuose medžioklės dvaruose47."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-186776
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Žinoma, kad 1548 m. valdovas
+    Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me-
+    džioti valdovui priklausančiose giriose, kad jis galėtų nusiųsti sumedžiotos
+    žvėrienos Barborai Radvilaitei į Vilnių45.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]

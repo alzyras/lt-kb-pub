@@ -63,20 +63,18 @@ canonical_biography: "Žuvo pats didysis magistras Ulrichas fon Jungingenas, bev
   pagrindžia:
     - c-167152
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Yra duo menų, kad 1416 m. Ordino magistras Ulrichasfon Jungingenas kunigaikštienei Onai, Vytauto žmonai, pa siuntė iš Ragainės gero Reino vyno ir vynuogių (23).'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    Yra duo­
-    menų, kad 1416 m. Ordino magistras Ulrichasfon Jun-
-    gingenas kunigaikštienei Onai, Vytauto žmonai, pa­
-    siuntė iš Ragainės gero Reino vyno ir vynuogių (23).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-203610"></a>
+- t-002
+  teiginys: "Yra duo menų, kad 1416 m. Ordino magistras Ulrichasfon Jungingenas kunigaikštienei Onai, Vytauto žmonai, pa siuntė iš Ragainės gero Reino vyno ir vynuogių (23)."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186214
+
 ## Citatos
 
 - id: c-167152
@@ -104,3 +102,21 @@ canonical_biography: "Žuvo pats didysis magistras Ulrichas fon Jungingenas, bev
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186214
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 4."
+  citata_originali: |
+    Yra duo­
+    menų, kad 1416 m. Ordino magistras Ulrichasfon Jun-
+    gingenas kunigaikštienei Onai, Vytauto žmonai, pa­
+    siuntė iš Ragainės gero Reino vyno ir vynuogių (23).
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

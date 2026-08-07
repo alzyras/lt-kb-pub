@@ -46,20 +46,42 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1511 m. Brastos seimo metu viešai buvo išteisintas Albertas Goštautas.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203980"></a>
+- t-001
+  teiginys: "1511 m. Brastos seimo metu viešai buvo išteisintas Albertas Goštautas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1511 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai nusako įvykio objektą, laiką bei rezultatą. Šaltinio abejonė dėl ankstesnio kaltinimo nėra būtina pagrindiniam faktui."
+  pagrindžia:
+    - c-186584
+
+## Santrauka
+
+1511 m. Brastos seimo metu viešai buvo išteisintas Albertas Goštautas.
+
+## Citatos
+
+- id: c-186584
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 8"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 8."
   citata_originali: |
     Ten pat Brastoje 1511 m. seimo metu viešai buvo
     išteisintas, kaip įtarta, prie kunigaikščio M. Glinskio išdavystės prisidėjęs Albertas Goš­
     tautas34.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1511 m. Brastos seimo metu viešai buvo išteisintas Albertas Goštautas.
+  pagrindzia:
+    - t-001

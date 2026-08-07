@@ -66,6 +66,38 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   pagrindžia:
     - c-184141
 
+<a id="claim-t-203826"></a>
+- t-002
+  teiginys: "1743 m. Marcelijus Baikovskis su ginkluotais pagalbininkais užpuolė Dominykos Šydlovskos namą prie Šv. Kazimiero bažnyčios ir sumušė jos tėvą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1743 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas paverstas išsamiu sakiniu, įvardijant užpuolikus, auką, vietą ir smurto veiksmą."
+  vertinimo_atnaujinta: "2026-07-30T22:17:01Z"
+  pagrindžia:
+    - c-186430
+
+<a id="claim-t-203827"></a>
+- t-003
+  teiginys: "1722 m. jėzuitų bursos studentų ir Šv. Kazimiero bažnyčios giedotojų gauja užpuolė Kazimiero Gembičiaus mūrinį namą, bet Elžbieta Pranckevičienė su žmonėmis ją išvaikė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1722 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas užpuolimo rezultatas ir pasipriešinimas gaujai. Asmenys bei veiksmai išskleisti pagal citatą."
+  vertinimo_atnaujinta: "2026-07-30T22:17:01Z"
+  pagrindžia:
+    - c-186431
+
 ## Citatos
 
 - id: c-184141
@@ -87,3 +119,40 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186430
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
+  citata_originali: |
+    1743 m. Dominyka Šydlovska (Dominika Szydłowska)
+    skunde minėjo, kad Polocko pavieto rotmistras Marcelijus Baikovskis (Marceli Bayko-
+    wski) su pagalbininkais, kurie buvo ginkluoti „kaip į mūšį“, užpuolė jos namą prie Šv.
+    Kazimiero bažnyčios. Užpuolikai grasino D. Šydlovskos tėvui Jonui Šydlovskiui (Jan
+    Szydłowski), į krūtinę buvo įrėmę pistoletą, sumušė jį56.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-186431
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
+  citata_originali: |
+    Kartais aptinkami pasipriešinimo atvejai. Kai 1722 m. jėzuitų bursos studentų, Šv.
+    Kazimiero bažnyčios giedotojų gauja užpuolė Pranciškonų bažnyčios Kazimiero Gembi-
+    čiaus (Kazimierz Gębicz) mūrinį namą, Naugarduko kaštelionienė Elžbieta Pranckevičienė
+    sukvietė žmones ir išvaikė užpuolikų gaują62.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

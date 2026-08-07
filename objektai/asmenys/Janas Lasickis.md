@@ -437,6 +437,19 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   pagrindžia:
     - c-179171
 
+<a id="claim-t-204314"></a>
+- t-023
+  teiginys: "Janas Lasickis pasakojo, kad Lietuvoje gryną vandenį gėrė tik alaus nedarantys žmonės, nes tuomet vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186911
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.'
@@ -953,3 +966,25 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-022
+
+- id: c-186911
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
+  citata_originali: |
+    Gėrimai
+    XVI a. šaltiniai atskleidžia būtent alkoholi­
+    nių gėrimų vartojimą. Tiesa, pasak šaltinių,
+    bajorai gėrė kriaušių girą137. Tačiau gryną
+    vandenį, kaip pasakoja Jonas Lasickis, ger­
+    davo tik tie, kurie nedarydavo alaus138, nes
+    vanduo tuo metu buvo nešvarus ir galėjo
+    sukelti sveikatos sutrikimų.
+  citata_rodoma: "Tačiau gryną \nvandenį, kaip pasakoja Jonas Lasickis, ger­\ndavo tik tie, kurie nedarydavo alaus138, nes \nvanduo tuo metu buvo nešvarus ir galėjo \nsukelti sveikatos sutrikimų."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023

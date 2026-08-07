@@ -153,6 +153,21 @@ historical_names: []
   pagrindžia:
     - c-43586
 
+<a id="claim-t-204358"></a>
+- t-007
+  teiginys: "1432 m. vasario Polubicų susitikimas vyko tarp Parčevo ir Lietuvos Brastos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Polubicų susitikimo vietą ir laiką. Formuluotė atitinka šaltinio informaciją."
+  pagrindžia:
+    - c-186962
+
 ## Citatos
 
 - id: c-43585
@@ -261,6 +276,27 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-186962
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 22 (PDF 14)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 22 (PDF 14)."
+  citata_originali: |
+    i s t o r i j a
+    sienos esančiame Parčeve ar kitose vietovėse galima vadinti bendrais
+    suvažiavimais. Tai greičiau būdavo arba paprasti lietuvių pasiuntinių
+    pasirodymai lenkų bajorų susirinkimuose arba preliminarios derybos.
+    Vienas žymiausių tokių susitikimų įvyko 1432 m. vasario mėnesį tarp
+    Parčevo ir Lietuvos Brastos esančiuose Polubicuose
+    3 5.
+  citata_rodoma: "Vienas žymiausių tokių susitikimų įvyko 1432 m. vasario mėnesį tarp \nParčevo ir Lietuvos Brastos esančiuose Polubicuose\n3 5."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]

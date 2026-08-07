@@ -35,8 +35,21 @@ XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.
 
 XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-204091"></a>
+- t-001
+  teiginys: "XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186695
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.'
   šaltinis: Lituanistika-50918-Zemes-teismo-knygos
@@ -49,3 +62,23 @@ XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-186695
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 1"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 1."
+  citata_originali: |
+    Tačiau
+    bajorijos tai jau netenkino - ji turėjo sektiną precedentą - Lenkijos bajorų teismus. Ten
+    jau senokai veikė nepriklausomas žemės icismas. Dar daugiau - tokie teismai XVI a.
+    pirmojoje pusėje buvo įkurti formaliai LDK priklausiusioje Palenkės vaivadijoje, kurioje
+    veikė lenkų teisė ir kitokie, nei likusioje LDK teritorijoje, teismai.
+  citata_rodoma: "tokie teismai XVI a. \npirmojoje pusėje buvo įkurti formaliai LDK priklausiusioje Palenkės vaivadijoje, kurioje \nveikė lenkų teisė ir kitokie, nei likusioje LDK teritorijoje, teismai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

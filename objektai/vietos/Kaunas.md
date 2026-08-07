@@ -1946,6 +1946,38 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-184966
 
+<a id="claim-t-203954"></a>
+- t-110
+  teiginys: "Aleksandras Jogailaitis Kaune lankėsi 1494 m. spalį ir 1498 m. spalio 31 d.–lapkričio 2 d."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1494 m.; įvykio data: 1498 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiksliai nurodo Aleksandro Jogailaičio apsilankymų Kaune datas."
+  vertinimo_atnaujinta: "2026-07-26T16:20:30Z"
+  pagrindžia:
+    - c-186558
+
+<a id="claim-t-204021"></a>
+- t-111
+  teiginys: "Apie 1485 m. valdovas Kazimieras Jogailaitis parašė laišką Kauno seniūnui Stankui Kostevičiui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1485 m.; įvykio data: apie 1485 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardytas laiško autorius ir adresatas. Nepakartota nebaigta šaltinio sakinio dalis apie laiško reikšmę."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186625
+
 ## Reikšmingi paminėjimai
 - c-042
   santrauka: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
@@ -4538,6 +4570,41 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109
+
+- id: c-186558
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 7"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 7."
+  citata_originali: |
+    XVI a. pradžioje LDK teritorijoje bernardinų vienuolynai veikė visose išvardytose vietovėse. Remiantis
+    Maciejaus Neumano ir Krzysztofo Pietkiewicziaus sudarytu Ldk Aleksandro itinerariumu, valdovas daugiau­
+    sia laiko praleido Vilniuje, o Polocke ir Kaune lankėsi tik du kartus. Polocke: 1497 m. balandžio 5-11 d. ir
+    1500 m. rugsėjo 8 - spalio 17 d.; Kaune: 1494 m. spalį, 1498 m. spalio 31 - lapkričio 2 d. Tykocine valdovas
+    apsilankė tik kartą - 1500 m. sausį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
+
+- id: c-186625
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Apie 1485 m. valdovo Kazimiero Jogailaičio rašytas laiš-
+    kas Kauno seniūnui Stankui Kostevičiui atskleidžia, kad smulkūs bajorai kartais
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

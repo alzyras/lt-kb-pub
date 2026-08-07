@@ -35,19 +35,38 @@ Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptar
 
 Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203711"></a>
+- t-001
+  teiginys: "Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptarė mirties bausmės raidą senovės Lietuvoje bendriausiais bruožais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186315
+
+## Citatos
+
+- id: c-186315
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 2."
   citata_originali: |
     Deja, šioms
     nuostatoms skirta labai nedaug dėmesio. Tačiau tai buvo ne tik vienas pirmųjų bandymų
     aptarti mirties bausmę lietuviškoje teisėje, bet ir jos įvedimas į tarptautinį kontekstą.
     Lietuviškoje istoriografijoje galima paminėti Vytauto Raudeliūno straipsnį „Mirties
     bausmė senovės Lietuvoje“, kuriame jos raida aptariama pačiais bendriausiais bruožais6.
-  citata_rodoma: ''
+  citata_rodoma: "Lietuviškoje istoriografijoje galima paminėti Vytauto Raudeliūno straipsnį „Mirties \nbausmė senovės Lietuvoje“, kuriame jos raida aptariama pačiais bendriausiais bruožais6."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

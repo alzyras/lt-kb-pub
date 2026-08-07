@@ -2876,6 +2876,122 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-184905
 
+<a id="claim-t-203611"></a>
+- t-166
+  teiginys: "Išvažiuojančiam ambasadoriui Vytautas davęs dvi šilko šiūbas, sabalų kailiais pamuštas, keturis šilko dra bužius, ketvertą arklių, keturis savo livrėjos kapiušonus [riteriai turnyruose pasikaišydavo šalmus livrėja - kaspinu - jų damų pamėgtos spalvos], dešimt."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186215
+
+<a id="claim-t-203612"></a>
+- t-167
+  teiginys: "1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186216
+
+<a id="claim-t-204013"></a>
+- t-168
+  teiginys: "1384 m., per pirmąjį pabėgimą į Ordino teritoriją, Vytautas paskelbė Vokiečių ordino didžiajam magistrui skirtą dokumentą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186617
+
+<a id="claim-t-204014"></a>
+- t-169
+  teiginys: "Vokiečių ordino didžiojo magistro Vytautui skirtame dokumente tiksliau apibūdinama feodalinė išmaros teisė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186618
+
+<a id="claim-t-204015"></a>
+- t-170
+  teiginys: "Vytauto valdymo laikais (1392–1430 m.) Lietuvoje pradėta žemės valdų suteikimo ir patvirtinimo politika, siejusi valdovo bei didikų santykius su feodalinės leninės visuomenės kategorijomis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186619
+
+<a id="claim-t-204016"></a>
+- t-171
+  teiginys: "1392 m. Astravo dokumentu Vytautas pažadėjo ištikimybę Jogailai ir gavo teises valdyti Trakų bei Lucko kunigaikštystes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir aiškiai susieja Vytauto ištikimybės pažadą su gautomis valdymo teisėmis 1392 m.; papildoma ginčo aplinkybė neįtraukta."
+  pagrindžia:
+    - c-186620
+
+<a id="claim-t-204017"></a>
+- t-172
+  teiginys: "XV a. antrame dešimtmetyje Vytauto kanceliarijoje pirmą kartą aptinkama sąvoka ius feodali."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186621
+
+<a id="claim-t-204401"></a>
+- t-173
+  teiginys: "Vytauto laikais įsteigta institucinė valdovo dvaro taryba, o ankstyvieji kilmingųjų suvažiavimai tapo svarbiais politiniais rėmais, nelaikomais pirminio parlamentarizmo pakopa."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187005
+
+<a id="claim-t-204402"></a>
+- t-174
+  teiginys: "Vytautas mėgino sustiprinti savo dvaro įtaką valstybės vidaus gyvenime ir, įvesdamas nuolatinių tarėjų institutą, apibrėžė siaurosios valdovo tarybos sudėtį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187006
+
 ## Reikšmingi paminėjimai
 - c-057
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -3265,37 +3381,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     - t-422
     - t-599
 
-- c-238
-  santrauka: 'Išvažiuojančiam ambasadoriui Vytautas davęs dvi šilko šiūbas, sabalų kailiais pamuštas, keturis šilko dra bužius, ketvertą arklių, keturis savo livrėjos kapiušonus [riteriai turnyruose pasikaišydavo šalmus livrėja - kaspinu - jų damų pamėgtos spalvos], dešimt.'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    Išvažiuojančiam ambasadoriui Vytautas davęs dvi
-    šilko šiūbas, sabalų kailiais pamuštas, keturis šilko dra­
-    bužius, ketvertą arklių, keturis savo livrėjos kapiušo-
-    nus [riteriai turnyruose pasikaišydavo šalmus livrėja -
-    kaspinu - jų damų pamėgtos spalvos], dešimt išsiuvi­
-    nėtų galvos apdarų, keturias poras rusiškų tasetų, toto­
-    rišką lanką su saidoku ir strėlomis ir 1.1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-239
-  santrauka: '1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų.'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    1429 m. Vytautas Didysis savo rezidencijoje Lucko
-    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
-    mos imperatorius Zigmantas Liuksemburgietis, popie­
-    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
-    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
-    čių atstovai, pasiuntiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-00171
@@ -8946,6 +9031,190 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-186215
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 2."
+  citata_originali: |
+    Išvažiuojančiam ambasadoriui Vytautas davęs dvi
+    šilko šiūbas, sabalų kailiais pamuštas, keturis šilko dra­
+    bužius, ketvertą arklių, keturis savo livrėjos kapiušo-
+    nus [riteriai turnyruose pasikaišydavo šalmus livrėja -
+    kaspinu - jų damų pamėgtos spalvos], dešimt išsiuvi­
+    nėtų galvos apdarų, keturias poras rusiškų tasetų, toto­
+    rišką lanką su saidoku ir strėlomis ir 1.1.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-166
+
+- id: c-186216
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 2."
+  citata_originali: |
+    1429 m. Vytautas Didysis savo rezidencijoje Lucko
+    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
+    mos imperatorius Zigmantas Liuksemburgietis, popie­
+    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
+    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
+    čių atstovai, pasiuntiniai.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-167
+
+- id: c-186617
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 5"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 5."
+  citata_originali: |
+    Feodalinę sutartį labiau primena Vytauto dokumentas Vokiečių ordino
+    didžiajam magistrui, kurį lietuvių kunigaikštis paskelbė pirmojo pabėgimo į
+    Ordino teritoriją metu (1384).
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168
+
+- id: c-186618
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 5"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 5."
+  citata_originali: |
+    Tie patys principai įrašyti ir Vokiečių
+    ordino didžiojo magistro dokumente Vytautui, kuriame tiksliau apibūdinama
+    feodalinė išmaros teisė (infeudum illi collatum succedamus
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169
+
+- id: c-186619
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 6"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 6."
+  citata_originali: |
+    Lietuvoje tik didžiojo kunigaikščio Vytauto laikais (1392-1430) prasidėjo
+    žemės valdų „suteikimo-patvirtinimo" akcija, siekiant valdovo ir didikų san-
+    tykiams, lig tol grįstiems daugiausia asmenine ištikimybe, pritaikyti feodalinės
+    leninės visuomenės kategorijas. Beje, kiek anksčiau Podolės valdose tokią bene-
+    fidnę politiką buvo pradėję vykdyti minėti kunigaikščiai Karijotaičiai
+    22. Vytauto
+    dovanojimus
+    23 galima interpretuoti kaip bandymą nauju pagrindu integruoti
+    diduomenę, tradicinius asmenine ištikimybe besiremiančius valdovo ir kilmin-
+    gųjų santykius perkelti į feodalinį senjoro ir vasalo lygmenį. Valdovas už tarnybą
+    dovanodavo didikams žemių ir ši beneficinė politika juos galutinai pavertė val-
+    dovo vasalais.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170
+
+- id: c-186620
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Panašaus
+    pobūdžio buvo ir 1392 m. Astravo dokumentas, kuriuo Vytautas pažadėjo išti-
+    kimybę Jogailai, už tai gaudamas teises valdyti Trakų ir Lucko kunigaikštystes.
+    Feodalinės leno teisės principų išmanymą Vytautas parodė ir Jogailos ginče su
+    Mazovijos kunigaikščiais, kai pasisakė prieš reikalavimą asmeniškai prisiekti
+    kiekvienam Mazovijos kunigaikščiui. Buvo pasitenkinta tik dinastijos vyresniojo
+    priesaika karaliui
+    25.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171
+
+- id: c-186621
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
+  citata_originali: |
+    Čia aptartos Lietuvos Didžiosios Kunigaikštystės kilmingųjų visuomenės raidos
+    kontekste toliau nagrinėsime sąvokos ius feodali vartojimą XV ir XVI a. doku-
+    mentuose. Pirmą kartą šią sąvoką aptinkame didžiojo kunigaikščio Vytauto kan-
+    celiarijoje XV a. antrame dešimtmetyje. Formulė iure tamen feodali alias lenskim
+    vartota kai kuriose žemės valdų suteiktyse
+    38.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172
+
+- id: c-187005
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 9 (PDF 1)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 9 (PDF 1)."
+  citata_originali: |
+    Vytauto laikais įsteigia institucinė valdovo dvaro taiyba ir
+    ankstyvieji kilmingųjų
+    suvažiavimai
+    traktuotini kaip svarbūs
+    politiniai
+    rėmai, kuriuose skleidėsi diduomenės politinė valdžia, tačiau jų negali­
+    ma vertinti kaip „pinninio" parlamentarizmo
+    laipsnio.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173
+
+- id: c-187006
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 15 (PDF 7)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 15 (PDF 7)."
+  citata_originali: |
+    Neformalios kasdienės tarybos peraugimas į Didžiojo kunigaikščio
+    tarybą susijęs su bendru šalies institucionalizacijos procesu, kuris iš
+    esmės paspartėjo Vytauto Didžiojo laikais. Sekdamas kitų to meto val­
+    dovų pavyzdžiu, Vytautas pamėgino sustiprinti savo dvaro įtaką valsty­
+    bės vidaus gyvenime. Jis įvedė vėlyvaisiais Viduramžiais Europos val­
+    dovų dvaruose atsiradusį nuolatinių tarėjų (consiliarius, Rat) institutą,
+    taip apibrėždamas siaurosios valdovo tarybos sudėtį.
+  citata_rodoma: "Sekdamas kitų to meto val­\ndovų pavyzdžiu, Vytautas pamėgino sustiprinti savo dvaro įtaką valsty­\nbės vidaus gyvenime. Jis įvedė vėlyvaisiais Viduramžiais Europos val­\ndovų dvaruose atsiradusį nuolatinių tarėjų (consiliarius, Rat) institutą, \ntaip apibrėždamas siaurosios valdovo tarybos sudėtį."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]

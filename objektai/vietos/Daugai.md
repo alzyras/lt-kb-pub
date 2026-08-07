@@ -151,6 +151,21 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-108761
 
+<a id="claim-t-204174"></a>
+- t-007
+  teiginys: "1561 m. iš Daugų į medžioklę Valkininkuose turėjo būti pasiųsti 75 valstiečiai penkioms dienoms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir veiksmą bei tiesiogiai siejasi su Daugais. Šaltinio dokumento atribucija nereikalinga."
+  pagrindžia:
+    - c-186724
+
 ## Citatos
 
 - id: c-43369
@@ -266,3 +281,27 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-186724
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 9"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 9."
+  citata_originali: |
+    Taip pat didysis medžioklis turėjo nurodyti (numatyti), kuriam laikui ir
+    kiek žmonių reikės organizuojamai medžioklei aptarnauti ir pasirūpinti jų iš-
+    laikymu. Lietuvos Metrikos knygose išlikę potvarkiai, perduoti žemesniesiems
+    medžioklės ūkį prižiūrintiems pareigūnams ar dvarų laikytojams, atskleidžia,
+    kokį mastą (turimas omenyje dalyvaujančiųjų skaičius) mūsų aptariamuoju
+    laikotarpiu įgaudavo LDK valdovo medžioklės. Viename 1561 m. dokumente
+    teigiama, kad į didžiojo kunigaikščio rengiamą medžioklę Valkininkuose varo-
+    vais turi būti pasiųsta: iš Kaniavos ir Dubičių dvarų 100 valstiečių 5 dienoms, iš
+    Alytaus dvaro 200 valstiečių 5 dienoms, iš Daugų – 75 valstiečiai 5 dienoms41.
+  citata_rodoma: "Viename 1561 m. dokumente \nteigiama, kad į didžiojo kunigaikščio rengiamą medžioklę Valkininkuose varo-\nvais turi būti pasiųsta: iš Kaniavos ir Dubičių dvarų 100 valstiečių 5 dienoms, iš \nAlytaus dvaro 200 valstiečių 5 dienoms, iš Daugų – 75 valstiečiai 5 dienoms41."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

@@ -40,11 +40,39 @@ canonical_biography: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žyg
 
 Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką. Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203966"></a>
+- t-001
+  teiginys: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186570
+
+<a id="claim-t-203967"></a>
+- t-002
+  teiginys: "Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186571
+
+## Citatos
+
+- id: c-186570
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 6"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 6."
   citata_originali: |
     Iš likusios
     teismo bylos medžiagos aiškėja, kad Čečersko valsčiaus žmonės ir miestiečiai, gavę Ldk
@@ -54,20 +82,27 @@ canonical_biography: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žyg
     statyta situacija nebuvo išdavikų suėmimo taisyklė, o tik retkarčiais pasitaikanti išim­
     tis. Valdovas buvo priverstas griebtis išskirtinių priemonių, kad numalšintų įsisiūbavusį
     maištą
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+  pagrindzia:
+    - t-001
+
+- id: c-186571
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 11"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 11."
   citata_originali: |
     Jau užsiminėme, kad kunigaikščio M. Glinskio šalininko Nikolskio vietininkas
     Čečerske Kurbaka turėjo būti pakartas, tačiau miestiečiai ir valsčiaus žmonės jį nuskan­
     dino.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

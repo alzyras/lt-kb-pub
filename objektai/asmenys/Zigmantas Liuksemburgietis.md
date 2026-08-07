@@ -243,6 +243,18 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   pagrindžia:
     - c-173887
 
+<a id="claim-t-203613"></a>
+- t-012
+  teiginys: "1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186217
+
 ## Reikšmingi paminėjimai
 - c-010
   santrauka: 'Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais.'
@@ -255,21 +267,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
     Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
     1 Leidinyje „Tygodnik Wilenski“ (1817.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-011
-  santrauka: '1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų.'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    1429 m. Vytautas Didysis savo rezidencijoje Lucko
-    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
-    mos imperatorius Zigmantas Liuksemburgietis, popie­
-    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
-    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
-    čių atstovai, pasiuntiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -505,6 +502,26 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-186217
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 2."
+  citata_originali: |
+    1429 m. Vytautas Didysis savo rezidencijoje Lucko
+    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
+    mos imperatorius Zigmantas Liuksemburgietis, popie­
+    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
+    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
+    čių atstovai, pasiuntiniai.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]

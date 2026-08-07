@@ -86,6 +86,18 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   pagrindžia:
     - c-167933
 
+<a id="claim-t-204331"></a>
+- t-005
+  teiginys: "Mykolo Lietuvio pasakojime maskvėnai labai vengė įvairių prieskonių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186931
+
 ## Citatos
 
 - id: c-167932
@@ -180,6 +192,42 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-186931
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
+  citata_originali: |
+    Bajorų racione dominuojančius dvaro
+    tiekiamus maisto produktus papildė im­
+    portuojami produktai – tai buvo plačiai
+    vartojamos silkės ir menkės127 bei įvairūs
+    prieskoniai. Bajorų patiekalai, be keleto
+    minėtų vietinių užsiauginamų prieskoninių
+    žolelių ir gausaus dvaro drevininkystės
+    tiekiamo medaus128 bei iš vokiečių krašto
+    atgabenamos druskos129, dar būdavo gardi­
+    nami pipirais, imbierais, migdolais, šafranu,
+    muskatais, muskatų žiedais, gvazdikėliais,
+    kalganu, citvaru, figomis, razinomis bei
+    cinamonu130, o aukščiausio visuomenės
+    sluoksnio skanaujami desertai – ir cukru­
+    mi131. Apie gausiais bei įvairiais prieskoniais
+    pasižyminčią bajorišką virtuvę pasakojo ir
+    Mykolas Lietuvis, stebėdamasis, kad lietu­
+    viai maitinasi prabangiais iš tolimų kraštų
+    atvežtais valgiais, o maskvėnai visokių
+    prieskonių labai vengia ir net per velykines
+    puotas tenkinasi tik neišvalyta druska, gars­
+    tyčiomis, česnakais bei svogūnais132.
+  citata_rodoma: "Apie gausiais bei įvairiais prieskoniais \npasižyminčią bajorišką virtuvę pasakojo ir \nMykolas Lietuvis, stebėdamasis, kad lietu­\nviai maitinasi prabangiais iš tolimų kraštų \natvežtais valgiais, o maskvėnai visokių \nprieskonių labai vengia ir net per velykines \npuotas tenkinasi tik neišvalyta druska, gars­\ntyčiomis, česnakais bei svogūnais132."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Maskvėnai puolė [[objektai/vietos/Lietuva]]

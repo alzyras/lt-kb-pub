@@ -44,31 +44,66 @@ canonical_biography: "1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Al
 
 1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Aleksandro Pšezdzeckio suorganizuotos gaujos užpuolimo. 1722 m. Lietuvos Vyriausiojo Tribunolo vėliavos vėliavininkas Jurgis Daukantas pasipriešino savo namo užpuolimui ir nuginklavo Kazimierą Bivainį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Aleksandro Pšezdzeckio suorganizuotos gaujos užpuolimo.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203910"></a>
+- t-001
+  teiginys: "1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Aleksandro Pšezdzeckio suorganizuotos gaujos užpuolimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186514
+
+<a id="claim-t-203911"></a>
+- t-002
+  teiginys: "1722 m. Lietuvos Vyriausiojo Tribunolo vėliavos vėliavininkas Jurgis Daukantas pasipriešino savo namo užpuolimui ir nuginklavo Kazimierą Bivainį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186515
+
+## Citatos
+
+- id: c-186514
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
   citata_originali: |
     33 m. Jurgis ir Agota Daukantai skundėsi, kad Livonijos kašteliono Alek-
     sandro Pšezdzeckio (Aleksander Przezdziecki) suorganizuota gauja, kurioje buvo tarnų
     ir kareivių, užpuolė jos dvarelį Radvilų jurisdikoje, už Vilniaus vartų, smurtavo prieš
     moterį, dėl to ji prarado kūdikį60. 1
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1722 m. Lietuvos Vyriausiojo Tribunolo vėliavos vėliavininkas Jurgis Daukantas pasipriešino savo namo užpuolimui ir nuginklavo Kazimierą Bivainį.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+  pagrindzia:
+    - t-001
+
+- id: c-186515
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
   citata_originali: |
     is pačiais metais Lietuvos Vyriausiojo
     Tribunolo vėliavos vėliavininkas Jurgis Daukantas jo namo užpuolimo metu pasiprieši-
     no ir nuginklavo (atėmė paukščių medžioklei skirtą šautuvą) užpuolikams vadovavusį
     Kazimierą Bivainį63. G
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

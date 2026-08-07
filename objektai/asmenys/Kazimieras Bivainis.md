@@ -43,18 +43,36 @@ canonical_biography: "1722 m. Kazimieras Bivainis vadovavo Jurgio Daukanto namo 
 
 1722 m. Kazimieras Bivainis vadovavo Jurgio Daukanto namo užpuolikams.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1722 m. Kazimieras Bivainis vadovavo Jurgio Daukanto namo užpuolikams.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203937"></a>
+- t-001
+  teiginys: "1722 m. Kazimieras Bivainis vadovavo Jurgio Daukanto namo užpuolikams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186541
+
+## Citatos
+
+- id: c-186541
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
   citata_originali: |
     is pačiais metais Lietuvos Vyriausiojo
     Tribunolo vėliavos vėliavininkas Jurgis Daukantas jo namo užpuolimo metu pasiprieši-
     no ir nuginklavo (atėmė paukščių medžioklei skirtą šautuvą) užpuolikams vadovavusį
     Kazimierą Bivainį63. G
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

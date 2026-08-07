@@ -316,6 +316,47 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - c-179261
 
+<a id="claim-t-204338"></a>
+- t-017
+  teiginys: "M. Liubavskis rėmėsi Jono Dlugošo duomenimis apie conventio taranim Lithuania et Russiae."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186942
+
+<a id="claim-t-204339"></a>
+- t-018
+  teiginys: "Jono Dlugošo kronika 1445 m. pabaigos suvažiavimą galėtų leisti suvokti kaip LDK žemių suvažiavimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1445 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus veiksmažodis ir aiškiai įvardytas Jono Dlugošo kronikos vaidmuo. Išlaikytas šaltinio tekste esantis interpretacijos neapibrėžtumas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186943
+
+<a id="claim-t-204340"></a>
+- t-019
+  teiginys: "Jonas Dlugošas ir LDK didikai galėjo skirtingai traktuoti tuos pačius suvažiavimus: pirmasis rėmėsi lenkiška politine tradicija, o pastarieji juos greičiausiai laikė išplėsta tarybos veiklos forma."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186944
+
 ## Reikšmingi paminėjimai
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -734,3 +775,80 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-016
+
+- id: c-186942
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
+  citata_originali: |
+    Šiuos susirinkimus tyrinėję ir
+    jų sudėtį vertinę Matvejus Liubavskis ir Lidija Korčiak padarė skirtin­
+    gas išvadas. M. Liubavskio nuomone, 1445/1446 m. suvažiavimas žymi
+    naują etapą Lietuvos Seimo istorijoje - visuotinio Seimo
+    (сейм
+    валъный) pradžią
+    4 1. Svarbiausias naujos parlamentarizmo kokybės po­
+    žymis M. Liubavskiui buvo sritinės bajorijos atstovavimas, o pagrindi­
+    nis šaltinis - lenkų kronikininko Jono Dlugošo duomenys apie conven-
+    tio taranim
+    Lithuania et Russiae.
+  citata_rodoma: "Svarbiausias naujos parlamentarizmo kokybės po­\nžymis M. Liubavskiui buvo sritinės bajorijos atstovavimas, o pagrindi­\nnis šaltinis - lenkų kronikininko Jono Dlugošo duomenys apie conven-\ntio taranim \nLithuania et Russiae."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-186943
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 24 (PDF 16)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 24 (PDF 16)."
+  citata_originali: |
+    Jono Dlugošo kronikos terminija nagrinėtina LDK diduo­
+    menės dokumentų kalbos fone. Turime vienalaikę didikų refleksiją apie
+    minėtą 1445 m. pabaigoje įvykusį suvažiavimą. 1446 m. sausio mėnesį
+    Ordino magistrą aplankę lietuvių pasiuntiniai Sudivojus Valmantaitis
+    ir Jonas Gojcevičius papasakojo jam šio išties svarbaus suvažiavimo
+    aplinkybes. Šv. Andriejaus dieną (lapkričio 30 d.) Vilniuje sušauktame
+    suvažiavime (tag) turėjo būti parengtas lietuvių atsakymas į karūnacinį
+    lenkų pasiūlymą Kazimierui. Pasak lietuvių pasiuntinių, į jį atvyko ku­
+    nigaikščiai Švitrigaila, Olelka Vladimiraitis su sūnumis, Vilniaus vys­
+    kupas ir „kiti Lietuvos, Rusios ir Žemaitijos kunigaikščiai bei didi­
+    kai"
+    4 3. Vargu ar galime šiuos žodžius interpretuoti kaip LDK žemių
+    suvažiavimą, nors Dlugošo kronika kaip tik sugestijuotų tokį suvoki­
+    mą
+    4 4 .
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-186944
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 25 (PDF 17)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 25 (PDF 17)."
+  citata_originali: |
+    Kazimiero laikais,
+    valdovui nuolat nereziduojant LDK, suvažiavimai apskritai tampa uni­
+    versalia valdymo organizacijos dalimi. Skirtingai nuo Vytauto laikų,
+    kai didikai kur kas dažniau būdavo kartu su valdovu, XV a. antroje
+    pusėje jie didžiąją laiko dalį praleisdavo savo tėvonijose, todėl į tarybos
+    posėdžius suvažiuodavo iš anksto numatytu laiku
+    4 S. Gali būti, kad len­
+    kiškos politinės tradicijos tęsėjas Dlugošas ir LDK didikai tuos pačius
+    suvažiavimus traktavo skirtingai. Pastarieji įjuos greičiausiai žvelgė tik
+    kaip į tam tikrą išplėstą jų tarybos veiklos formą.
+  citata_rodoma: "Gali būti, kad len­\nkiškos politinės tradicijos tęsėjas Dlugošas ir LDK didikai tuos pačius \nsuvažiavimus traktavo skirtingai. Pastarieji įjuos greičiausiai žvelgė tik \nkaip į tam tikrą išplėstą jų tarybos veiklos formą."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019

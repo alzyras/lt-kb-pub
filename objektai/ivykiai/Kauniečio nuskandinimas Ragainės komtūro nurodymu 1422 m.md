@@ -42,21 +42,43 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1422 m. liepos 6 d. Ragainės komtūras pranešė didžiajam Ordino magistrui nuskandinęs vieną iš dviejų dykroje sugautų kauniečių.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203982"></a>
+- t-001
+  teiginys: "1422 m. liepos 6 d. Ragainės komtūras pranešė didžiajam Ordino magistrui nuskandinęs vieną iš dviejų dykroje sugautų kauniečių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai apibūdina datą, veikėją, pranešimo adresatą bei nuskandinimo faktą. Jis visiškai pagrįstas citata."
+  pagrindžia:
+    - c-186586
+
+## Santrauka
+
+1422 m. liepos 6 d. Ragainės komtūras pranešė didžiajam Ordino magistrui nuskandinęs vieną iš dviejų dykroje sugautų kauniečių.
+
+## Citatos
+
+- id: c-186586
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
   citata_originali: |
     Regis, skandinimas kaip mirties bausmės vykdymo forma vėlyvaisiais vi­
     duramžiais taip pat buvo praktikuojama Ordino valstybėje. 1422 m. liepos 6 d. Ragainės
     komtūras pranešė didžiajam Ordino magistrui, kad nuskandino vieną iš dviejų dykroje
     sugautų kauniečių61.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1422 m. liepos 6 d. Ragainės komtūras pranešė didžiajam Ordino magistrui nuskandinęs vieną iš dviejų dykroje sugautų kauniečių.
+  pagrindzia:
+    - t-001

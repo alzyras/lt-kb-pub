@@ -55,6 +55,38 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   pagrindžia:
     - c-82210
 
+<a id="claim-t-203815"></a>
+- t-002
+  teiginys: "1741 m. skunde teigta, kad už Rūdninkų vartų Lorečių šeimai priklaususį namą užpuolė broliai Martynas ir Grigalius Nonevičiai su įvairios kondicijos žmonėmis, smurtavusiais prieš jame gyvenusius bajorus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti užpuolikai, namo savininkai, vieta ir smurto aplinkybė. Skundo teiginys išlaikytas kaip atribucija."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186419
+
+<a id="claim-t-203816"></a>
+- t-003
+  teiginys: "1792 m. už Rūdninkų vartų esantį Rydzevskio namą, kuriame gyveno Vaitiekus ir Pranciška Senkevičiai, užpuolė Ignoto Želazovskio žmonės, tarp jų buvo ir Rusijos imperijos kareivių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Papildyti citatoje nurodyti namo gyventojai ir užpuolikų sudėtis. Teiginys suformuluotas kaip skunde aprašytas įvykis, nepridedant naujų aplinkybių."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186420
+
 ## Citatos
 
 - id: c-82210
@@ -78,3 +110,41 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186419
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 12"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 12."
+  citata_originali: |
+    Pvz.,
+    1741 m. Vilniaus tarėjas Bernardas, Liudvikas, Kajetonas ir Kotryna Lorečiai (Bernardy,
+    Ludwik, Kajetan, Katarzyna Lorettowie) skundė brolius Martyną ir Grigalių Nonevičius
+    (Marcin i Hrehory Noniewiczowie), esą jie kartu su „įvairios kondicijos žmonėmis“ dieną,
+    apie 16.00 val., užpuolė miestiečiams priklausiusį namą už Rūdninkų vartų, smurtavo
+    prieš ten gyvenusius bajorus [sic!]40.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-186420
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
+  citata_originali: |
+    Kaip rašoma skunde, 1792 m. Rydzevskio
+    namą už Rūdninkų vartų, kuriame gyveno Vaitiekus ir Pranciška Senkevičiai, užpuolė
+    Ignoto Želazovskio (Ignacy Żelazowski) žmonės, tarp kurių buvo ir Rusijos imperijos
+    kareivių. Užpuolikai lazdomis ir vėzdais smurtavo prieš buvusius namuose žmones53.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

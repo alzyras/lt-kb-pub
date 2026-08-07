@@ -1073,6 +1073,30 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindžia:
     - c-24389
 
+<a id="claim-t-203659"></a>
+- t-059
+  teiginys: "Bare (Podolėje) susirinko judėjimo dalyviai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas"
+  pagrindžia:
+    - c-186263
+
+<a id="claim-t-204028"></a>
+- t-060
+  teiginys: "Karijotaičiai Podolės kunigaikštystę su 11 pilių prijungė prie Vengrijos karalystės karūnos ir iš jos atgal gavo kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186632
+
 ## Reikšmingi paminėjimai
 - c-029
   santrauka: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
@@ -3118,6 +3142,40 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-027
+
+- id: c-186263
+  autorius: "Ramunė Šmigelskytė-Stukienė"
+  šaltinis: "Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos"
+  puslapiai: "PDF 8"
+  indeksas: "Ramunė Šmigelskytė-Stukienė, Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos, PDF 8."
+  citata_originali: |
+    „tasai judėjimas yra konservatyvišku, priešdemokratišku;
+    vienog skaitoma revoliucijiniu, nes ėjo prieš rusus. Susirin-
+    ko Bare (Podolėje). Karalių žadėjo numesti nuo karalystės.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-059
+
+- id: c-186632
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 6"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 6."
+  citata_originali: |
+    Karijotaičiai, kurie „Podolės kunigaikštystę su 11 pilių prijungė prie Vengrijos
+    karalystės karūnos ir jas iš tos karalystės karūnos atgal gavo kaip leną"
+    21.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-060
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

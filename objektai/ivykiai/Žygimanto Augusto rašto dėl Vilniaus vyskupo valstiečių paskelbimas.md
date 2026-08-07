@@ -42,11 +42,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1568 m. liepos 20 d. Žygimantas Augustas paskelbė visiems žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono bažnytinių ir tėvoninių valdinių.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203775"></a>
+- t-001
+  teiginys: "1568 m. liepos 20 d. Žygimantas Augustas paskelbė visiems žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono bažnytinių ir tėvoninių valdinių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, datą, veiksmą ir rašto objektą. Išplėstinės citatos detalės sąmoningai nepridėtos."
+  pagrindžia:
+    - c-186379
+
+## Santrauka
+
+1568 m. liepos 20 d. Žygimantas Augustas paskelbė visiems žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono bažnytinių ir tėvoninių valdinių.
+
+## Citatos
+
+- id: c-186379
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 4"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 4."
   citata_originali: |
     1568 m. liepos 20 d. Žygiman­
     tas Augustas paskelbė visiems žemvaldžiams raštą apie
@@ -60,11 +83,10 @@ Nenurodyta
     esą vyskupo valdiniai, tuojau, dalyvaujant pasiųstam
     dvarionui, juos teisti ir, radus kaltais, be pasigailėjimo
     bausti".
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1568 m. liepos 20 d. Žygimantas Augustas paskelbė visiems žemvaldžiams raštą dėl pabėgusių Vilniaus vyskupo Valerijono bažnytinių ir tėvoninių valdinių.
+  pagrindzia:
+    - t-001

@@ -303,6 +303,21 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-179380
 
+<a id="claim-t-203956"></a>
+- t-016
+  teiginys: "1481 m. gegužės 20 d. Kulmo vaivada Mikalojus iš Dambrau laiške į Gdanską pranešė apie nepavykusį pasikėsinimą į Lietuvos didįjį kunigaikštį Kazimierą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1481 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir veiksmą bei tiksliai perteikia šaltinyje nurodytą laiško datą, vietą ir įvykį."
+  pagrindžia:
+    - c-186560
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
@@ -804,6 +819,23 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
+
+- id: c-186560
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 11"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 11."
+  citata_originali: |
+    Kaip užfiksuota 1481 m. gegužės 20 d. Kulmo vaivados Mikalojaus iš
+    Dambrau laiške į Gdanską, nepavykęs pasikėsinimas į Ldk Kazimierą turėjo vykti prieš
+    Velykas, maždaug kovo 22 d.50 Tuo metu valdovas rezidavo Vilniuje51.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]

@@ -38,11 +38,27 @@ media_all_json: |-
 
 1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203795"></a>
+- t-001
+  teiginys: "1585 m. gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186399
+
+## Citatos
+
+- id: c-186399
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 4"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 4."
   citata_originali: |
     Praėjus keliems
     mėnesiams, t. y. gegužę, Upytės pilies teismo knygoje vėl
@@ -54,8 +70,10 @@ media_all_json: |-
     12 senų avių, 18 jaunų avių, 3 ožkos, 6 kiaulės, 23 par­
     šeliai, 6 žąsys, 24 žąsiukai, 20 vištų, įvairių drabužių
     2 5.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

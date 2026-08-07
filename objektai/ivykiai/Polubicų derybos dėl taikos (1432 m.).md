@@ -46,11 +46,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204393"></a>
+- t-001
+  teiginys: "1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus „susitikimas“ pakeistas aiškesne konstrukcija, įtraukiant citatoje nurodytą datą, vietą ir numatytą rezultatą."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186997
+
+## Santrauka
+
+1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila.
+
+## Citatos
+
+- id: c-186997
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 22 (PDF 14)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 22 (PDF 14)."
   citata_originali: |
     Vienas žymiausių tokių susitikimų įvyko 1432 m. vasario mėnesį tarp
     Parčevo ir Lietuvos Brastos esančiuose Polubicuose
@@ -64,11 +87,10 @@ Nenurodyta
     3 7. Tai buvo viena iš
     atsirandančių derybinių tradicijų, o ne apibrėžta bajorų suvažiavimo
     sudėtis.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila.
+  pagrindzia:
+    - t-001

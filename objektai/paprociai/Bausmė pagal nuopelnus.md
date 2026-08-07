@@ -45,11 +45,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203690"></a>
+- t-001
+  teiginys: "Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186294
+
+## Santrauka
+
+Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui.
+
+## Citatos
+
+- id: c-186294
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 9"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 9."
   citata_originali: |
     Pavyz-
     džiui, 1492 m. rugpjūčio 15 d. Aleksandro privilegijoje Žemaitijai, be to, kad valdovas
@@ -58,11 +78,11 @@ Nenurodyta
     teisme58. Ta pati nuostata kartojama ir 1503 m. liepos 16 d. privilegijoje Vitebsko žemei59.
     1505 m. privilegijoje Smolensko žemei randame teisingo teismo nuostatą – bausti pagal
     nuopelnus, t. y. bausmė turi būti proporcinga padarytam nusikaltimui60.
-  citata_rodoma: ''
+  citata_rodoma: ". privilegijoje Smolensko žemei randame teisingo teismo nuostatą – bausti pagal \nnuopelnus, t. y. bausmė turi būti proporcinga padarytam nusik"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirti pagal nuopelnus, proporcingai padarytam nusikaltimui.
+  pagrindzia:
+    - t-001

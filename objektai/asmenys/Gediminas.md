@@ -2096,6 +2096,21 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - c-179548
 
+<a id="claim-t-204007"></a>
+- t-127
+  teiginys: "1323 m. Lietuvos didysis kunigaikštis Gediminas laiške Šiaurės Vokietijos miestams žadėjo pasilikti panorėjusius riterius ir ginklanešius apdovanoti daiktais ir valdomis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Gedimino pažadą dėl pasiliekančių riterių ir ginklanešių apdovanojimo. Faktas perteiktas be papildomos interpretacijos."
+  pagrindžia:
+    - c-186611
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.'
@@ -7106,6 +7121,23 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-090
+
+- id: c-186611
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 4"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 4."
+  citata_originali: |
+    Taip pat 1323 m. Lietuvos didžiojo kunigaikščio Gedimino
+    laiške Šiaurės Vokietijos miestams sakoma: „<...> riterius ir ginklanešius, jei pa-
+    norės pasilikti, apdovanosiu daiktais ir valdomis, kaip dera."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-127
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]

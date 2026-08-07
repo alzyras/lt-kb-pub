@@ -35,8 +35,21 @@ H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a.
 
 H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-204106"></a>
+- t-001
+  teiginys: "H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186710
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a.'
   šaltinis: Lituanistika-50918-Zemes-teismo-knygos
@@ -48,3 +61,25 @@ H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-186710
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 4"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 4."
+  citata_originali: |
+    Žemaitijos teismo realijas, būtina paminėti E. Saviščevą
+    9 ir J. Dningilą
+    1 0. Tiesiogiai balta­
+    rusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau
+    tirta ir Lietuvoje". Vėlyvesnio laikotarpio (XVII a.) Breslaujos žemės teismo knygas yra
+    aptaręs H. Liulevičius
+    1 2.
+  citata_rodoma: "Vėlyvesnio laikotarpio (XVII a.) Breslaujos žemės teismo knygas yra \naptaręs H. Liulevičius"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

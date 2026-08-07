@@ -39,11 +39,27 @@ Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio par
 
 Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204160"></a>
+- t-001
+  teiginys: "Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos Rudojo tolesnei karjerai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186784
+
+## Citatos
+
+- id: c-186784
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 2"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 2."
   citata_originali: |
     Atskirą leidinių grupę sudaro LDK pareigūnų sąrašai3, nurodantys LDK
     valdovo pareigūnų giminystės ryšius. Itin vertingi šio straipsnio tikslui pasiekti
@@ -52,8 +68,11 @@ Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio par
     Radvila Rudasis (apie 1515–1584 m.)“4, kurio pirmuose dviejuose skyriuo-
     se analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos
     Rudojo tolesnei karjerai.
-  citata_rodoma: ''
+  citata_rodoma: "Itin vertingi šio straipsnio tikslui pasiekti \nRadvilų giminę tyrinėjusių istorikų darbai. Bene svarbiausias − Raimondos Ra-\ngauskienės darbas „Lietuvos Didžiosios Kunigaikštystės kancleris Mikalojus \nRadvila Rudasis (apie 1515–1584 m.)“4, kurio pirmuose dviejuose skyriuo-\nse analizuojama didžiojo medžioklio pareigybės svarba Mikalojaus Radvilos \nRudojo tolesnei karjerai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

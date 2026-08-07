@@ -35,11 +35,27 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
 
 Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203708"></a>
+- t-001
+  teiginys: "Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186312
+
+## Citatos
+
+- id: c-186312
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 21"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 21."
   citata_originali: |
     Dėl jų reikš-
     mės istorikų nuomonės išsiskyrė. Stanislovo Ptašickio nuomone, ten buvo surašytos nuo-
@@ -47,8 +63,11 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
     nuorodos ne visos yra susiję su Lietuvos teisinėmis realijomis, o kai kurios joms net
     prieštarauja, ir surašytos daugiau teisininkų smalsumui patenkinti, kad galėtų palyginti
     Lenkijos ir Lietuvos teisės normas197.
-  citata_rodoma: ''
+  citata_rodoma: "Sergejus Beršadskis teigė, kad tos \nnuorodos ne visos yra susiję su Lietuvos teisinėmis realijomis, o kai kurios joms net \nprieštarauja, ir surašytos daugiau teisininkų smalsumui patenkinti, kad galėtų palyginti \nLenkijos ir Lietuvos teisės normas197."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

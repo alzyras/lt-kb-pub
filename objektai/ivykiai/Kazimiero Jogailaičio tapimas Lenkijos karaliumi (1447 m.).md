@@ -46,11 +46,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1447 m. Kazimierui Jogailaičiui tapus Lenkijos karaliumi, LDK beveik pusę amžiaus neturėjo atskiro valdovo.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204388"></a>
+- t-001
+  teiginys: "1447 m. Kazimierui Jogailaičiui tapus Lenkijos karaliumi, LDK beveik pusę amžiaus neturėjo atskiro valdovo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1447 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškai taisyklingas ir tiksliai perteikia citatoje nurodytą LDK valdovo padėties pokytį po 1447 m."
+  pagrindžia:
+    - c-186992
+
+## Santrauka
+
+1447 m. Kazimierui Jogailaičiui tapus Lenkijos karaliumi, LDK beveik pusę amžiaus neturėjo atskiro valdovo.
+
+## Citatos
+
+- id: c-186992
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 20 (PDF 12)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 20 (PDF 12)."
   citata_originali: |
     i s t o r i j a
     Valdovo tarybos ir suvažiavimų veiklos formos reikšmingai pasikeitė
@@ -62,11 +84,11 @@ Nenurodyta
     gaikščio ir diduomenės valdžios supriešinimo schema, pagal kurią mo­
     narcho valdžia nuo XV a. vis labiau buvo užtemdoma Ponų tarybos
     veiksmų.
-  citata_rodoma: ''
+  citata_rodoma: "Valdovo tarybos ir suvažiavimų veiklos formos reikšmingai pasikeitė \npo 1447 m., kai Kazimierui Jogailaičiui tapus Lenkijos karaliumi, LDK \nbeveik pusę amžiaus neturėjo atskiro valdovo\n2 7. Nuolatinio valdovo \ndvaro sunykimo sąlygomis Didžiojo kunigaikščio tarybai teko spręsti \nvisiškai naujus uždavinius."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1447 m. Kazimierui Jogailaičiui tapus Lenkijos karaliumi, LDK beveik pusę amžiaus neturėjo atskiro valdovo.
+  pagrindzia:
+    - t-001

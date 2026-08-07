@@ -4192,6 +4192,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-184276
 
+<a id="claim-t-204318"></a>
+- t-250
+  teiginys: "Mykolas Lietuvis pasakojo, kad lietuviai geria daugelio rūšių vyną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186903
+
 ## Reikšmingi paminėjimai
 - c-020
   santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
@@ -10888,6 +10901,28 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-249
+
+- id: c-186903
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 11"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 11."
+  citata_originali: |
+    midų, kuriuo būdavo atsigaivinama, bet ir
+    nuo kurio pasigeriama151. Vis dėlto XVI a.
+    midaus (kaip ir atvežtinio vyno) smuklėse
+    buvo parduodama mažiau nei alaus ar
+    degtinės152. Įdomu, kad Mykolas Lietuvis,
+    kalbėdamas apie vartojamus gėrimus, mi­
+    daus visai nepamini, tačiau pasakoja, kad
+    lietuviai geria daugelio rūšių vyną153.
+  citata_rodoma: "Įdomu, kad Mykolas Lietuvis, \nkalbėdamas apie vartojamus gėrimus, mi­\ndaus visai nepamini, tačiau pasakoja, kad \nlietuviai geria daugelio rūšių vyną153."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-250
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]], [[objektai/grupes/Rusėnai]], [[objektai/grupes/Rygiečiai]], [[objektai/grupes/Vengrai]]

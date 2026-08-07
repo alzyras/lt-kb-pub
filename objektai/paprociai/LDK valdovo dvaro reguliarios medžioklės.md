@@ -46,11 +46,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Žygimantas Augustas su Barbora Radvilaite kiekvieną mėnesį bent kelioms dienoms išvykdavo medžioti ir apsistodavo renesansiniu stiliumi puoštuose medžioklės dvaruose.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204142"></a>
+- t-001
+  teiginys: "Žygimantas Augustas su Barbora Radvilaite kiekvieną mėnesį bent kelioms dienoms išvykdavo medžioti ir apsistodavo renesansiniu stiliumi puoštuose medžioklės dvaruose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186746
+
+## Santrauka
+
+Žygimantas Augustas su Barbora Radvilaite kiekvieną mėnesį bent kelioms dienoms išvykdavo medžioti ir apsistodavo renesansiniu stiliumi puoštuose medžioklės dvaruose.
+
+## Citatos
+
+- id: c-186746
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     LDK maršalas Radvila Juodasis, anot
     Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
@@ -63,11 +83,11 @@ Nenurodyta
     bei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo
     19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje
     užtruko kone penkias savaites49.
-  citata_rodoma: ''
+  citata_rodoma: "Žinoma, kad kiekvieną mėnesį Žygimantas Augustas kartu su savo žmona \nBarbora bent kelioms dienoms per mėnesį išvykdavo pamedžioti ir apsisto-\ndavo savo prabangiai renesansiniu stiliumi puoštuose medžioklės dvaruose47. \nAntai net po 1549 m. užsitęsusių Užgavėnių linksmybių valdovas su žmona \nbei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo \n19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje \nužtruko kone penkias savaites49."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Žygimantas Augustas su Barbora Radvilaite kiekvieną mėnesį bent kelioms dienoms išvykdavo medžioti ir apsistodavo renesansiniu stiliumi puoštuose medžioklės dvaruose.
+  pagrindzia:
+    - t-001

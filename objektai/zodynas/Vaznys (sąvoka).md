@@ -39,25 +39,58 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
 
 Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203758"></a>
+- t-001
+  teiginys: "Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186362
+
+<a id="claim-t-203759"></a>
+- t-002
+  teiginys: "Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186363
+
+## Citatos
+
+- id: c-186362
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Tokius
     pabėgimo faktus turėdavo patvirtinti teismo pareigūnas -
     vaznys. Pvz., 1585 m. Upytės pavieto vaznys raportavo
     apie ištuštėjusius valstiečių namus ieškovo dvare, kuomet
     bėgliai išsiveždami savąjį turtą išlupo duris bei langus
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+  pagrindzia:
+    - t-001
+
+- id: c-186363
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Pabėgusių valstiečių paieškomis ir grąžinimu turėjo
     rūpintis vazniai. Jie, aptikę pabėgusius asmenis, apie šį
@@ -65,8 +98,10 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
     pristatymo į teismą laikas
     4 4. Vaznys galėjo net ir panaudoti
     jėgą išvedant „kaltinamuosius
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

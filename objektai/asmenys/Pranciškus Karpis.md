@@ -35,19 +35,37 @@ Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti 
 
 Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos.'
-  šaltinis: Lituanistika-3441-Senkoniu-palivarko-inventorius
+<a id="claim-t-203722"></a>
+- t-001
+  teiginys: "Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti iki gyvos galvos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186326
+
+## Citatos
+
+- id: c-186326
+  autoriai: "Stasys Pamerneckis; Roberta Sakalauskaitė"
+  šaltinis: "Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius"
+  puslapiai: "PDF 2"
+  indeksas: "Stasys Pamerneckis, Roberta Sakalauskaitė, Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius, PDF 2."
   citata_originali: |
     Rėkyvos dvaras, Igno
     Karpio testamentu įvertintas 800 tūkst. lenkiš­
     kųjų auksinų (lenk. Au), buvojo atiduotas val­
     dyti Jodaičių seniūnui Pranciškui Karpiui iki
     gyvos galvos.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

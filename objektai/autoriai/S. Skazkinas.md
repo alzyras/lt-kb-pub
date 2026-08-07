@@ -35,11 +35,27 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
 
 S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203653"></a>
+- t-001
+  teiginys: "S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję su XV–XVIII a. palivarkais, tačiau jų raida neaiškintina evoliucionistiškai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186257
+
+## Citatos
+
+- id: c-186257
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 2"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 2."
   citata_originali: |
     XI–XV a. manoro ir Vidurio Rytų Europos
     (ypač ATR) XVI–XVIII a. palivarko ūkio
@@ -54,8 +70,11 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
     vėlyvųjų palivarkų (XV–XVIII  a.), ta­
     čiau atmeta evoliucionistinį palivarkų rai­
     dos feodalizmo laikotarpiu supratimą.
-  citata_rodoma: ''
+  citata_rodoma: "Tradicinės marksistinės istoriografi­\njos atstovai B.  Zientara4, V.  Rusinskis5, \nS.  Skazkinas6, spręsdami lažinio palivar­\nkinio ūkio genezės XV–XVIII a. Vidurio \nRytų Europoje problemą, neneigia ryšio \ntarp ankstyvųjų manorų (XII–XIII  a.) ir \nvėlyvųjų palivarkų (XV–XVIII  a.), ta­\nčiau atmeta evoliucionistinį palivarkų rai­\ndos feodalizmo laikotarpiu supratimą."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

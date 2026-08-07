@@ -80,6 +80,64 @@ historical_names: []
   pagrindžia:
     - c-81825
 
+<a id="claim-t-203811"></a>
+- t-003
+  teiginys: "1755 m. vadinamosiose Ohurcevičių Lukiškėse buvo užpulti Vilniaus miesto vaito Anupro Minkevičiaus namai ir jis išvytas iš savo namų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1755 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir aiškiai nurodo 1755 m. įvykį, vietą, namų savininką bei pasekmę. Šaltinio vertinimai apie konflikto motyvus neįtraukti."
+  pagrindžia:
+    - c-186415
+
+<a id="claim-t-203812"></a>
+- t-004
+  teiginys: "Antano Jaroševskio ir Kazimiero Michalovskio skunduose teigta, kad 1765 m. Lukiškėse Kazimieras Venglevskis, Pranciškus Posachovičius ir jų talkininkai smurtavo prieš Kazimierą Michalovskį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186416
+
+<a id="claim-t-203813"></a>
+- t-005
+  teiginys: "1733 m. Samuelis Šafarovičius su ginkluota kompanija užpuolė Stanislovo Heliaševičiaus namą Lukiškėse."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1733 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir nurodo laiką, vietą, užpuoliką bei namo savininką. Papildomos smurto aplinkybės nepridėtos."
+  pagrindžia:
+    - c-186417
+
+<a id="claim-t-203814"></a>
+- t-006
+  teiginys: "1776 m. Lukiškėse, prie Neries kranto, užpultas Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina 1776 m. įvykį Lukiškėse, pastato priklausomybę ir gyventojus. Kiti citatoje minimi užpuolimo dalyviai sąmoningai nepridėti."
+  pagrindžia:
+    - c-186418
+
 ## Citatos
 
 - id: c-81824
@@ -161,3 +219,103 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186415
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 9"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 9."
+  citata_originali: |
+    z.,
+    1755 m. Vilniaus miesto vaitas Anupras Minkevičius skundė Vilniaus karmelitus ir
+    jiems talkinusius miestiečius bei kitų luomų atstovus dėl to, kad šie užpuolė jo namus
+    vadinamosiose Ohurcevičių Lukiškėse (Łukiszki ohurciewiczowskie) ir išvijo ieškovą iš
+    savo namų27. Greičiausiai šis teisinis konfliktas buvo susijęs su ginčais dėl nuosavybės,
+    turėjęs „teisingumo atkūrimo“ požymių.
+    Tačiau namai būdavo užpuolami kerštaujant, tęsiantis įvairiems konfliktams. Pvz.,
+    1722 m. buvo užpultas Lietuvos Vyriausiojo Tribunolo vėliavos vėliavininko Jurgio Dau-
+    kanto namas28. Tačiau egzistuoja ir priešingos pusės skundas – Jurgis Daukantas buvo
+    kaltinamas tuo, kad jis daręs finansines machinacijas dėl namų n
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-186416
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 9"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 9."
+  citata_originali: |
+    čiau tame pačiame dokumente pateikta ir Kazimiero Michalovskio
+    (Kazimierz Michałowski) ir A. Jaroševskio versija: jie nurodė, jog K. Venglevskis ir Pran-
+    ciškus Posachovičius (Franciszek Posachowicz) su savo talkininkais Lukiškėse įžeidinėjo,
+    smurtavo, trankė antausius, sužeidė palašais (ilgais kardais) K. Michalovskį, anot ieškovų,
+    elgėsi „haidamakiškai“
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-186417
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 12"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 12."
+  citata_originali: |
+    z., 1733 m. totorius Stanislovas He-
+    liaševičius (Stanisław Heliaszewicz) skundė totorių Samuelį Šafarovičių (Samuel Szafa-
+    rowicz) dėl to, kad šis iš pradžių su ginkluota kompanija sumušė S. Heliaševičių gatvėje,
+    vijosi, užpuolė jo namą Lukiškėse, sumušė žmoną Reginą, vėl smurtavo prieš ieškovą39.
+    K
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-186418
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13-14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13-14."
+  citata_originali: |
+    ip rašoma skunde, 1776 m. buvo užpultas Lukiškėse, prie Ne-
+    ries kranto, buvęs Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo
+    ir Elžbietos Eismantų šeima. Užpuolikams vadovavo Šv. Jono bažnyčios Dievo Kūno
+    koplyčios klebonas Mykolas Aleksandravičius, o vienas iš talkininkų gaujos narių buvo
+    41	 1771 08 01 vaznio Motiejaus Cidziko reliacinis kvitas, 1771–1773 m. Vpptak. LVIA, SA, b. 4787, l. 294–294v; BURBA,
+    Domininkas. Teisinis kriminalinis bajorų ir Vilniaus miestiečių santykių aspektas XVIII a. (Vilniaus pavieto pilies
+    teismo duomenimis). Lituanistica, 2013, t. 59, Nr. 2, p. 82.
+    42	 1731 09 28 Vilniaus kapitulos kanclerio Antano Tyzenhauzo skundas prieš Inturkės seniūną Pranciškų Tyzenhauzą,
+    Smiltenės seniūną Benediktą Tyzenhauzą, Adomą Daunoravičių ir kitus, 1731 m. Vpptak. LVIA, SA, b. 4746,
+    l. 546–546v.
+    43	 1725 03 15 teismo sprendimas, 1725 m. Vpptak. LVIA, SA, b. 4740, l. 415–416v.
+    44	 1778 11 30 vaznio Adomo Pulovičiaus (Adam Pułowicz) reliacinis kvitas, 1777–1778 m. Vpptak. LVIA, SA, b. 4791,
+    l. 1513–1513v.
+    45	 1767 10 21 vaznio Antano Kazimiero Makovskio (Antoni Kazimierz Makowski) reliacinis kvitas, 1767 m. Vpptak.
+    LVIA, SA, b. 4782, l. 927–927v.
+    46	 1725 03 15 teismo sprendimas, 1725 m. Vpptak. LVIA, SA, b. 4740, l. 415–416v.
+
+    ISSN 1392-0456
+    E-ISSN 2029-7181
+    From the Past of the Nation
+    17
+    Istorija / 2016, t. 103, Nr. 3
+    Šv. Jono bažnyčios zakristijonas Antanas Zabiela, tarp kitų puolusiųjų buvo mūrininkų,
+    akademijos studentų ir pauperių (skurdžių žmonių)47.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

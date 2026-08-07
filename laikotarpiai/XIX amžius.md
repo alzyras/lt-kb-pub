@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIX amžius"
 periodo_pradzia: 1801
 periodo_pabaiga: 1900
-periodo_objektu_skaicius: 1304
+periodo_objektu_skaicius: 1309
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1304.
+Objektų skaičius: 1309.
 
 ## Susiję objektai
 
@@ -20,6 +20,8 @@ Objektų skaičius: 1304.
 - [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805)]]
 - [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/asmenys/Albert Jouvin de Rochefort]]
+- [[objektai/asmenys/Albertas Jouvin de Rochefort]]
 - [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
 - [[objektai/asmenys/Aleksandras I]]
 - [[objektai/asmenys/Aleksandras II]]
@@ -142,6 +144,9 @@ Objektų skaičius: 1304.
 - [[objektai/asmenys/Vitas]]
 - [[objektai/asmenys/Vladislovas (Mykolo Balinskio sūnus)]]
 - [[objektai/asmenys/Vredė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/William Coxe]]
+- [[objektai/asmenys/Williamas Coxe'as]]
 - [[objektai/asmenys/Ziemovitas III]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra)]]
@@ -249,6 +254,7 @@ Objektų skaičius: 1304.
 - [[objektai/autoriai/Lewicki, A]]
 - [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
 - [[objektai/autoriai/Liudvigas Heinrichas Bojanus]]
+- [[objektai/autoriai/Liudvikas Adomas Jucevičius]]
 - [[objektai/autoriai/Lonnrotas (Kalevalos kūrėjas)]]
 - [[objektai/autoriai/M. Dovnar-Zapol’skij]]
 - [[objektai/autoriai/M. F. Vladimirskij-Budanov]]
@@ -1270,7 +1276,6 @@ Objektų skaičius: 1304.
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/hwirfingsdryckia (sąvoka)]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/interliudas]]
 - [[objektai/zodynas/kahalai sėslumo riba]]

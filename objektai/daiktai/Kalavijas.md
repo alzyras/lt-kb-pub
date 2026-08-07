@@ -71,6 +71,18 @@ Nenurodyta
   pagrindžia:
     - c-175291
 
+<a id="claim-t-203951"></a>
+- t-002
+  teiginys: "Sarkofage nr. 4 palaidotas aukšto socialinio statuso vyras nuo mažens naudojosi kalaviju."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186555
+
 ## Citatos
 
 - id: c-175291
@@ -94,3 +106,20 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186555
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 13"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 13."
+  citata_originali: |
+    Sar­
+    kofage nr. 4 buvo palaidotas 30-35 m. vyras. Tai buvo aukšto socialinio statuso asmuo,
+    nuo mažens jodinėjęs ir naudojęsis kalaviju66.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

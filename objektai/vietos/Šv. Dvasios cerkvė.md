@@ -41,11 +41,30 @@ canonical_biography: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti
 
 1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203841"></a>
+- t-001
+  teiginys: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1732 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija veikėjus, veiksmą, laiką ir objektą; papildomos šaltinio interpretacijos nepridėtos."
+  pagrindžia:
+    - c-186445
+
+## Citatos
+
+- id: c-186445
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 10"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 10."
   citata_originali: |
     Remiantis skunde
     pateikta informacija, 1732 m. Ašmenos pavieto stalininko Marcijono Pozniako pasiųsti
@@ -54,8 +73,10 @@ canonical_biography: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti
     vienuolius, tampė juos už barzdų, plokščiais kardo šonais sumušė vienuolį Farzijaną
     (Farzyan(?)), akmenimis išdaužė Šv. Dvasios cerkvės langus, sunaikino nemažai vie-
     nuolyno turto, netgi sugadino šventus paveikslus.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

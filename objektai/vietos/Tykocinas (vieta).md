@@ -47,19 +47,40 @@ Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.
 
 Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203970"></a>
+- t-001
+  teiginys: "Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir atitinka šaltinyje pateiktą Aleksandro Jogailaičio itinerariumo informaciją apie vienintelį apsilankymą 1500 m. sausį."
+  pagrindžia:
+    - c-186574
+
+## Citatos
+
+- id: c-186574
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 7"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 7."
   citata_originali: |
     XVI a. pradžioje LDK teritorijoje bernardinų vienuolynai veikė visose išvardytose vietovėse. Remiantis
     Maciejaus Neumano ir Krzysztofo Pietkiewicziaus sudarytu Ldk Aleksandro itinerariumu, valdovas daugiau­
     sia laiko praleido Vilniuje, o Polocke ir Kaune lankėsi tik du kartus. Polocke: 1497 m. balandžio 5-11 d. ir
     1500 m. rugsėjo 8 - spalio 17 d.; Kaune: 1494 m. spalį, 1498 m. spalio 31 - lapkričio 2 d. Tykocine valdovas
     apsilankė tik kartą - 1500 m. sausį.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -34,17 +34,35 @@ media_all_json: |-
 
 1529 m. Žygimanto Senojo įsaku Radvilų bajorai Goniondzo paviete „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1529 m. Žygimanto Senojo įsaku Radvilų bajorai Goniondzo paviete „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204081"></a>
+- t-001
+  teiginys: "1529 m. Žygimanto Senojo įsaku Radvilų bajorai Goniondzo paviete „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186685
+
+## Citatos
+
+- id: c-186685
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
   citata_originali: |
     Vienu jų Radvilų bajorai, gyvenantys Goniondzo
     paviete, „amžiniems laikams" buvo atleisti nuo teisinio pavaldumo savo senjo-
     rams.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

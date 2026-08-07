@@ -41,17 +41,39 @@ canonical_biography: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore
 
 1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203969"></a>
+- t-001
+  teiginys: "1998 m. Uspenjės sobore vykdant archeologinius tyrimus aptikti keli sarkofagai, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas ne tiesiogiai citatoje įvardytas veikėjas „archeologai“ ir išlaikyta palaidojimo interpretacijos atribucija. Vietos pavadinimas sutrumpintas nekeičiant objekto."
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186573
+
+## Citatos
+
+- id: c-186573
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 13"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 13."
   citata_originali: |
     1998 m. vykdant archeologinius tyrimus Kijevo
     Pečorų lauros vienuolyno Uspenjės sobore, buvo aptikti keli sarkofagai, kuriuose, anot
     Hlebo Ivakino ir Oleksandros Kozak, yra palaidoti Olekaičių giminės atstovai65.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

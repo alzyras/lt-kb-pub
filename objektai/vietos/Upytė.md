@@ -66,6 +66,53 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-43942
     - c-167198
 
+<a id="claim-t-203748"></a>
+- t-002
+  teiginys: "1585 m. Upytės pilies teisme Bartolomėjus Petravičius skundėsi Ivano Visgirdo tarnų savivale ir jėga išvestais valstiečiais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas ir aiškiai nurodo 1585 m. Upytės teisme nagrinėtą skundą."
+  pagrindžia:
+    - c-186352
+
+<a id="claim-t-203749"></a>
+- t-003
+  teiginys: "1585 m. Upytės pilies teisme Valentinas Tancevičius pranešė apie iš jo dvaro išėjusius valstiečius ir pabėgėlio išsivestus gyvulius, o Petraškevičius bei Ivanas Vizgirdas – apie pabėgusius arba savavališkai pasitraukusius valstiečius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyti visi šaltinyje nurodyti pranešėjai ir atskirti jų pranešimų objektai. Nepridėta faktų, kurių nėra pateiktoje ištraukoje."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186353
+
+<a id="claim-t-203750"></a>
+- t-004
+  teiginys: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pranešė, kad Mykolas Andrejevičius negalėjo atsiimti pavaldinio iš kunigaikštienės Ščastnos Borovskos valdų: savininkai buvo išvykę, o duktė atsisakė veikti be tėvų sutikimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir nutrūkusio sakinio fragmentai, aiškiai išskleistas veiksmas bei priežastys. Išlaikyti visi pagrindiniai šaltinio dalyviai ir aplinkybės."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186354
+
 ## Citatos
 
 - id: c-43942
@@ -115,6 +162,80 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186352
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5-6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5-6."
+  citata_originali: |
+    Pvz., 1585 m. Upytės pilies
+    Pabėgusių iš dvarų valstiečių „užribiškumo"
+    problema XVI-XVIII a.
+    Lietuvos Didžiosios Kunigaikštystės
+    visuomenėje
+    ISSN 1392-0456
+    i
+
+    teisme skundėsi žemvaldis Bartolomėjus Petravičius dėl
+    Ivano Visgirdo tarnų savivalės ir jėga išvestų valstiečių.
+    1551 m. valdovui pateiktas ieškinys, kuriame skundžia­
+    masi, kad atėjus su teismo siųstu vižu ir kitais pareigūnais
+    atsiimti pabėgusių trijų asmenų, juos priglaudęs bajoras
+    ne tik nenorėjo jų atiduoti, bet ir juos sumušė
+    3
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-186353
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
+  citata_originali: |
+    1585 m. Upytės pilies teisme Valentinas Tancevičius prane­
+    šė apie iš jo dvaro išėjusius valstiečius, tačiau Šeimininkas
+    ypač susisielojo dėl pabėgėlio išsivestų gyvulių. Tų pačių
+    metų kovo mėn. Petraškevičius pranešė apie du nežinia
+    kur pabėgusius valstiečius. Ivanas Vizgirdas pranešė apie
+    „savavališkai iš dvaro pasitraukusius" valstiečius
+    4 2.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-186354
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
+  citata_originali: |
+    1584 m. Upytės
+    pavieto vaznys Mikalojus Matvejevičius pranešė, kad ieš­
+    kovui Mykolui Andrejevičiui kartu su geraisiais žmonėmis
+    nuvykus į kunigaikštienės Ščastnos Borovskos valdas atsi­
+    imti pavaldinio, to padaryti nepavyko, nes dvaro savininkai
+    buvo išvykę, o šeimininkų duktė atsisakė ką nors daryti
+    be tėvų sutikimo
+    4 8. Panašus atvejis aptinkamas 1585 m.
+    Upytės pavieto žemininko Jono Zareckio byloje prieš kitą
+    žemininką Grigorijų Delnickį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

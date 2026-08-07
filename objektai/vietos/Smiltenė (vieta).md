@@ -46,19 +46,38 @@ Benediktas Tyzenhauzas buvo Smiltenės seniūnas, o Smiltenė yra dabartinėje L
 
 Benediktas Tyzenhauzas buvo Smiltenės seniūnas, o Smiltenė yra dabartinėje Latvijoje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Benediktas Tyzenhauzas buvo Smiltenės seniūnas, o Smiltenė yra dabartinėje Latvijoje.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203839"></a>
+- t-001
+  teiginys: "Benediktas Tyzenhauzas buvo Smiltenės seniūnas, o Smiltenė yra dabartinėje Latvijoje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186443
+
+## Citatos
+
+- id: c-186443
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13."
   citata_originali: |
     z., 1731 m. Vilniaus kapitulos kancleris dvasininkas
     Antanas Tyzenhauzas skundė savo giminaičius Inturkės seniūną Pranciškų Tyzenhauzą,
     Smiltenės (šiandieninėje Latvijoje) seniūną Benediktą Tyzenhauzą, taip pat Adomą Dau-
     noravičių ir kitus dėl Lindorfų (Lindorfowie) mūrinio namo Vokiečių gatvėje užpuolimo42.
     M
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

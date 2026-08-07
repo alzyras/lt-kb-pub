@@ -42,6 +42,19 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
   pagrindžia:
     - c-176022
 
+<a id="claim-t-204001"></a>
+- t-002
+  teiginys: "Pirmojo Lietuvos Statuto epochoje sąvokos „lenas“ („feudum“) ir „vasalas“ („vassallus“) apibūdino didikų ir bajorų, o ne didžiojo kunigaikščio ir bajorų santykius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186605
+
 ## Citatos
 
 - id: c-176022
@@ -66,3 +79,24 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186605
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
+  citata_originali: |
+    Straipsnio pradžioje cituotas 1529 m. Statuto skyrius buvo
+    pirmasis ir vienintelis rašytinis šių santykių teisinio reguliavimo atvejis. Iš visko
+    sprendžiant, didžioji dalis tokių sandorių buvo sudaroma žodžiu ir nereikalavo
+    specialaus raštiško apiforminimo. Bet kuriuo atveju galima manyti, kad tokia ius
+    feodali vartojimo tradicija išliko iki pat Pirmojo Lietuvos Statuto epochos. Taigi
+    sąvokos lenas (feudum) ir vasalas (vassallus) tuo metu apibūdino santykius ne
+    tarp didžiojo kunigaikščio ir bajorų, bet tarp didikų ir bajorų.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

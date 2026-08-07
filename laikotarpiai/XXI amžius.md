@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XXI amžius"
 periodo_pradzia: 2001
 periodo_pabaiga: 2100
-periodo_objektu_skaicius: 701
+periodo_objektu_skaicius: 703
 tags: []
 ---
 
@@ -11,12 +11,14 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 701.
+Objektų skaičius: 703.
 
 ## Susiję objektai
 
 ### Asmenys
 - [[objektai/asmenys/Aaron Klug]]
+- [[objektai/asmenys/Albert Jouvin de Rochefort]]
+- [[objektai/asmenys/Albertas Jouvin de Rochefort]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Antanas Valionis]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
@@ -32,6 +34,8 @@ Objektų skaičius: 701.
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/asmenys/Valdas Adamkus]]
 - [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/asmenys/William Coxe]]
+- [[objektai/asmenys/Williamas Coxe'as]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Butrimas]]
@@ -164,7 +168,6 @@ Objektų skaičius: 701.
 - [[objektai/grupes/Lietuvių Fondas]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės bajorija]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Lietuvos laisvės armija]]
@@ -690,7 +693,6 @@ Objektų skaičius: 701.
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/etnografinė siena]]
 - [[objektai/zodynas/fraternitas]]
-- [[objektai/zodynas/hwirfingsdryckia (sąvoka)]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/karakolė]]

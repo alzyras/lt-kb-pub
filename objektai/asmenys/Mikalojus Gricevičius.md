@@ -43,19 +43,41 @@ canonical_biography: "Mikalojus Gricevičius prieš 1586 m. Ramygalos turgaus di
 
 1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203778"></a>
+- t-001
+  teiginys: "1586 m. Ramygalos turgaus dieną paaiškėjo, kad prieš metus pasprukęs Mikalojus Gricevičius buvo išsivedęs Jurijaus Juknevičiaus uošvės arklį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta negramatiška laiko konstrukcija ir aiškiai susieti pabėgimas, arklio išsivedimas bei vėlesnis atpažinimas."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186382
+
+## Citatos
+
+- id: c-186382
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     1586 m.
     Ramygaloje turgaus dieną Jurijaus Juknevičiaus pavaldinys
     atsitiktinai atpažino Juknevičiaus uošvės arklį, kurį išsivedė
     prieš metus pasprukęs Mikalojus Gricevičius. Iki minėto­
     sios dienos niekas nežinojo, kur pastarasis pasislėpė.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

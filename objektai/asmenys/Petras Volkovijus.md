@@ -43,11 +43,30 @@ canonical_biography: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus b
 
 1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204164"></a>
+- t-001
+  teiginys: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus buvo Lietuvos didysis medžioklis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1437 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija asmenį, pareigybę, datą ir valdovo valdymo laikotarpį. Jis pagrįstas šaltinio nurodomu faktu."
+  pagrindžia:
+    - c-186755
+
+## Citatos
+
+- id: c-186755
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 6"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 6."
   citata_originali: |
     Šie tuo metu būdavo šalia
     valdovo ir vadovaudavo medžioklės eigai, o rengiant medžiokles prisiimdavo
@@ -57,8 +76,11 @@ canonical_biography: "1437 m., Švitrigailos valdymo metais, Petras Volkovijus b
     jo kunigaikščio Švitrigailos valdymo metais, didysis medžioklis buvo Petras Vol-
     kovijus30. Taigi, nors ši pareigybė atsirado šiek tiek anksčiau, nei manė ankstesni
     istorikai, Lietuvos didžiojo kunigaikščio Vytauto laikais ji, matyt, neegzistavo.
-  citata_rodoma: ''
+  citata_rodoma: "Anot Jerzy Ochmańskio, didžiojo medžioklio pareigybė šaltiniuose minima \ntik nuo XV a. antrosios pusės29, tačiau žinoma, kad jau 1437 m., Lietuvos didžio-\njo kunigaikščio Švitrigailos valdymo metais, didysis medžioklis buvo Petras Vol-\nkovijus30. Taigi, nors ši pareigybė atsirado šiek tiek anksčiau, nei manė ankstesni \nistorikai, Lietuvos didžiojo kunigaikščio Vytauto laikais ji, matyt, neegzistavo."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -49,11 +49,27 @@ historical_names: []
 
 1720–1764 m. Kielcų geležies įmonės vykdė geležies gavybą ir gamino pusfabrikačius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1720–1764 m. Kielcų geležies įmonės vykdė geležies gavybą ir gamino pusfabrikačius.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203638"></a>
+- t-001
+  teiginys: "1720–1764 m. Kielcų geležies įmonės vykdė geležies gavybą ir gamino pusfabrikačius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186242
+
+## Citatos
+
+- id: c-186242
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 18"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 18."
   citata_originali: |
     Istorikas XVIII  a. Lenkijoje išskiria
     tris manufaktūrų raidos laikotarpius94. Pir­
@@ -62,8 +78,11 @@ historical_names: []
     įkurta audinių manufaktūra, Kielco gele­
     žies įmonės vykdė geležies gavybą ir ga­
     mino pusfabrikačius.
-  citata_rodoma: ''
+  citata_rodoma: "Pir­\nmuoju laikotarpiu (1720–1764  m.) buvo \ntik latifundinės manufaktūros: Nesvyžiuje \nįkurta audinių manufaktūra, Kielco gele­\nžies įmonės vykdė geležies gavybą ir ga­\nmino pusfabrikačius."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVIII amžius"
 periodo_pradzia: 1701
 periodo_pabaiga: 1800
-periodo_objektu_skaicius: 1021
+periodo_objektu_skaicius: 1025
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1021.
+Objektų skaičius: 1025.
 
 ## Susiję objektai
 
@@ -26,6 +26,7 @@ Objektų skaičius: 1021.
 - [[objektai/asmenys/Antanas Marcinovskis]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)]]
+- [[objektai/asmenys/Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.)]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/asmenys/Augustas Kocebiu]]
@@ -59,6 +60,7 @@ Objektų skaičius: 1021.
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/asmenys/Juozapas Ozienblovskis]]
+- [[objektai/asmenys/Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.)]]
 - [[objektai/asmenys/Juraha]]
 - [[objektai/asmenys/Jurgis de Biufonas]]
 - [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]
@@ -79,6 +81,7 @@ Objektų skaičius: 1021.
 - [[objektai/asmenys/Liudvikas XVI]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/asmenys/M. K. Čiurlionis]]
+- [[objektai/asmenys/Marcijonas Mykolas Oginskis]]
 - [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
@@ -160,6 +163,7 @@ Objektų skaičius: 1021.
 - [[objektai/autoriai/Janas Potockis]]
 - [[objektai/autoriai/Johannas Georgas Adamas Forsteris]]
 - [[objektai/autoriai/Jokimas Lelevelis]]
+- [[objektai/autoriai/Jonas Dominykas Lopacinskis]]
 - [[objektai/autoriai/Jonas Potockis]]
 - [[objektai/autoriai/Jonas Remeika]]
 - [[objektai/autoriai/Jonas Sniadeckis]]
@@ -361,7 +365,6 @@ Objektų skaičius: 1021.
 - [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]
 - [[objektai/paprociai/Gėrimo iš vienos taurės paprotys]]
 - [[objektai/paprociai/Husarų lydėjimas į seimo rinkimus|Husarų lydėjimas į seimo rinkimus (seimas)]]
-- [[objektai/paprociai/Iškilmingi festynai su spektakliais, dialogais ir fejerverkais]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
@@ -653,6 +656,7 @@ Objektų skaičius: 1021.
 - [[objektai/vietos/Žitomiras]]
 
 ### Įvykiai
+- [[objektai/ivykiai/1752 m. Vilniaus seimelis]]
 - [[objektai/ivykiai/1791 m. gegužės 3 d. konstitucijos priėmimas]]
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]

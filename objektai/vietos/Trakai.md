@@ -1601,6 +1601,51 @@ historical_names: []
   pagrindžia:
     - c-182833
 
+<a id="claim-t-203960"></a>
+- t-094
+  teiginys: "1480 ir 1481 m. Ldk Kazimieras didžiąją laiko dalį praleido Vilniuje ir Trakuose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1481 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra gramatiškas ir tiksliai perteikia Kazimiero itinerariumo duomenis apie 1480 ir 1481 m. praleistą laiką Vilniuje ir Trakuose."
+  pagrindžia:
+    - c-186564
+
+<a id="claim-t-204029"></a>
+- t-095
+  teiginys: "1392 m. Astravo dokumentu Vytautas, pažadėjęs ištikimybę Jogailai, gavo teises valdyti Trakų kunigaikštystę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškai taisyklingas ir aiškiai susieja Vytauto veiksmą su Trakų kunigaikštystės valdymu. Palikta tik cituojamą faktą atitinkanti informacija."
+  pagrindžia:
+    - c-186633
+
+<a id="claim-t-204363"></a>
+- t-096
+  teiginys: "1439 m. rugsėjį Trakuose rezidavęs Žygimantas Kęstutaitis dar neturėjo savo tarybos ir ruošėsi ją sukviesti prieš priimdamas Ordino bei Romos karaliaus pasiuntinius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1439 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Žygimanto Kęstutaičio padėtį, vietą, laiką ir planuotą veiksmą. Jis pagrįstas pateikta citata."
+  pagrindžia:
+    - c-186967
+
 ## Reikšmingi paminėjimai
 - c-032
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -5058,6 +5103,67 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-064
+
+- id: c-186564
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 11"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 11."
+  citata_originali: |
+    Remiantis Grażynos Rutkowskos sudarytu Ldk Kazimiero itinerariumu, valdovas tiek 1480 m., tiek
+    ir 1481 m. didžiąją laiko dalį praleido Vilniuje ir Trakuose, tik 1481 m. pabaigoje apsilankė Naugarduke ir
+    Darsūniškyje. 1481 m. suėmus sąmokslininkus, valdovas visą laiką praleido Vilniuje, tik trumpam rugpjūčio
+    antroje pusėje buvo išvykęs į Trakus.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-094
+
+- id: c-186633
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Panašaus
+    pobūdžio buvo ir 1392 m. Astravo dokumentas, kuriuo Vytautas pažadėjo išti-
+    kimybę Jogailai, už tai gaudamas teises valdyti Trakų ir Lucko kunigaikštystes.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-095
+
+- id: c-186967
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 18 (PDF 10)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 18 (PDF 10)."
+  citata_originali: |
+    Švitrigaila laiške Didžiajam magistrui teigė, kad pa­
+    siuntinybės klausimą spręs Trakuose su ten susirinksiančia „mūsų pilnąja
+    taryba" (volkomlichem imsenn rothef
+    9, o praėjus keliems mėnesiams savo
+    tarybos narių laukė atvykstant į Gardiną
+    2 0. Šaltiniai kartais leidžia žvilgte­
+    lėti ir į tokių pasitarimų rengimo mechanizmą, iš kurio matyti, kad bent jau
+    svarbesniais atvejais didžiosios tarybos sušaukimas buvo būtinas. 1439 m.
+    rugsėjį Trakuose rezidavęs ir Ordino bei Romos karaliaus pasiuntinių lau­
+    kęs Žygimantas Kęstutaitis teigė negalįs pasiuntinių priimti, nes šalia dar
+    neturįs savo tarybos ir tik ruošiasi ją sukviesti
+    2 1.
+  citata_rodoma: "1439 m. \nrugsėjį Trakuose rezidavęs ir Ordino bei Romos karaliaus pasiuntinių lau­\nkęs Žygimantas Kęstutaitis teigė negalįs pasiuntinių priimti, nes šalia dar \nneturįs savo tarybos ir tik ruošiasi ją sukviesti\n2 1."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-096
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

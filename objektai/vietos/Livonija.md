@@ -1431,6 +1431,19 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-184978
 
+<a id="claim-t-204024"></a>
+- t-079
+  teiginys: "Rimvydas Petrauskas Livonijoje XVI a. devintojo dešimtmečio viduryje fiksuoja tolesnę leno teisės plėtotę, pasireiškusią gana gausiais Stepono Batoro užrašymais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186628
+
 ## Reikšmingi paminėjimai
 - c-030
   santrauka: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
@@ -3321,6 +3334,24 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-078
+
+- id: c-186628
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
+  citata_originali: |
+    Už šio tyrimo chronologinių
+    ribų yra tolesnė tokios teisės plėtotė, kaip antai gana gausūs Stepono Batoro už-
+    rašymai leno teisės pagrindu Livonijoje XVI a. devinto dešimtmečio viduryje
+    50.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

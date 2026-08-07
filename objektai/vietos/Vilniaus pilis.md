@@ -248,6 +248,21 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   pagrindžia:
     - c-176860
 
+<a id="claim-t-203818"></a>
+- t-013
+  teiginys: "1737 m. prie Vilniaus pilies buvo užpultas Andriaus Lemnickio dvarelis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1737 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir tiesiogiai pagrįstas citatoje nurodytu 1737 m. įvykiu."
+  pagrindžia:
+    - c-186422
+
 ## Citatos
 
 - id: c-158407
@@ -602,6 +617,25 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+
+- id: c-186422
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 17"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 17."
+  citata_originali: |
+    Kontumaciniu (už akių priimtu,
+    neatvykus atsakovams) teismo sprendimu Juozapas Malinovskis (Józef Malinowski) ir
+    Antanas Krukovskis (Antoni Krukowski), kurie 1737 m. vėlyvą vakarą, 22.00 val., užpuolė
+    Livonijos kardininko Andriaus Lemnickio (Andrzej Lemnicki) dvarelį prie Vilniaus pilies,
+    buvo nubausti infamijos (garbės atėmimo) ir banicijos (ištrėmimo) bausmėmis64.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 ## Ryšiai
 - Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XX amžius"
 periodo_pradzia: 1901
 periodo_pabaiga: 2000
-periodo_objektu_skaicius: 2750
+periodo_objektu_skaicius: 2754
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 2750.
+Objektų skaičius: 2754.
 
 ## Susiję objektai
 
@@ -22,6 +22,8 @@ Objektų skaičius: 2750.
 - [[objektai/asmenys/Aaron Klug]]
 - [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
 - [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
+- [[objektai/asmenys/Albert Jouvin de Rochefort]]
+- [[objektai/asmenys/Albertas Jouvin de Rochefort]]
 - [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
 - [[objektai/asmenys/Albinas Pajarskas-Bebas]]
 - [[objektai/asmenys/Aleksandras Kolčiakas]]
@@ -234,12 +236,15 @@ Objektų skaičius: 2750.
 - [[objektai/asmenys/Vladimiras Leninas]]
 - [[objektai/asmenys/Vudrau Vilsonas]]
 - [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Landsbergis]]
 - [[objektai/asmenys/Vytautas Radžvilas]]
 - [[objektai/asmenys/Vytautas Sirvydis]]
 - [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
 - [[objektai/asmenys/W. Eberhardtas]]
 - [[objektai/asmenys/Wilhelmas II]]
+- [[objektai/asmenys/William Coxe]]
+- [[objektai/asmenys/Williamas Coxe'as]]
 - [[objektai/asmenys/Ziemovitas III]]
 - [[objektai/asmenys/Zofija Algimantaitė]]
 - [[objektai/asmenys/Česlovas Jezerskas]]
@@ -423,6 +428,7 @@ Objektų skaičius: 2750.
 - [[objektai/autoriai/lg. Kliausis]]
 - [[objektai/autoriai/Liekis Š]]
 - [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
+- [[objektai/autoriai/Liudvikas Adomas Jucevičius]]
 - [[objektai/autoriai/Lopata R]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
 - [[objektai/autoriai/M. F. Vladimirskij-Budanov]]
@@ -824,7 +830,6 @@ Objektų skaičius: 2750.
 - [[objektai/grupes/Lietuvos demokratų partija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės bajorija]]
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
 - [[objektai/grupes/Lietuvos disidentai]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]
@@ -2665,7 +2670,6 @@ Objektų skaičius: 2750.
 - [[objektai/zodynas/getas]]
 - [[objektai/zodynas/Graždanka]]
 - [[objektai/zodynas/homo sovieticus]]
-- [[objektai/zodynas/hwirfingsdryckia (sąvoka)]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/Istorinis-geografinis tautos supratimas]]

@@ -42,11 +42,30 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1564 m. Bielsko privilegija teisiškai sulygino bajorijos luomo atstovus ir leido pradėti teismo reformą.'
-  šaltinis: Lituanistika-50918-Zemes-teismo-knygos
+<a id="claim-t-204092"></a>
+- t-001
+  teiginys: "1564 m. Bielsko privilegija teisiškai sulygino bajorijos luomo atstovus ir leido pradėti teismo reformą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186696
+
+## Santrauka
+
+1564 m. Bielsko privilegija teisiškai sulygino bajorijos luomo atstovus ir leido pradėti teismo reformą.
+
+## Citatos
+
+- id: c-186696
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 1"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 1."
   citata_originali: |
     Antrojoje XVI a. pusėje LDK įžengė į reformų epochą. Atėjo laikas reformuoti ir
     valstybės administraciją teismą bei savivaldos sąrangą. Tikroji žemės teismo istorija
@@ -54,11 +73,10 @@ Nenurodyta
     mo atstovus ir leidusi pradėti teismo reformą. Po pusantrų melų priimtas ir įsigaliojęs
     II Lietuvos Statutas (LS) jau užtvirtino pakitusią teismų sandarą, be didesnių korekcijų
     egzistavusią du šimtmečius.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1564 m. Bielsko privilegija teisiškai sulygino bajorijos luomo atstovus ir leido pradėti teismo reformą.
+  pagrindzia:
+    - t-001

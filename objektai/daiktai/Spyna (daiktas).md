@@ -50,21 +50,40 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1778 m. užpuolikai nudaužė kapitulos namo Skapo gatvėje spynas.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203904"></a>
+- t-001
+  teiginys: "1778 m. užpuolikai nudaužė kapitulos namo Skapo gatvėje spynas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186508
+
+## Santrauka
+
+1778 m. užpuolikai nudaužė kapitulos namo Skapo gatvėje spynas.
+
+## Citatos
+
+- id: c-186508
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13."
   citata_originali: |
     .00 val. buvo užpultas kapitulos namas Skapo gatvėje, kur gyveno ieškovai. Atsako-
     vai nudaužė spynas, ištuštino 2 alaus statines, iš rūsio paėmė daržoves. Įsiveržę į rūsį
     užpuolikai trenkė antausį šeimininkei, ji iš rūsio pabėgo, bet ją pavijo antrajame aukšte,
     plakė rykštėmis44. K
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1778 m. užpuolikai nudaužė kapitulos namo Skapo gatvėje spynas.
+  pagrindzia:
+    - t-001

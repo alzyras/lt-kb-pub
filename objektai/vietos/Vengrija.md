@@ -362,6 +362,32 @@ historical_names: []
   pagrindžia:
     - c-185903
 
+<a id="claim-t-203630"></a>
+- t-018
+  teiginys: "Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-186234
+
+<a id="claim-t-204330"></a>
+- t-019
+  teiginys: "LDK bajorai gerdavo iš Vengrijos importuotą vyną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-186894
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.'
@@ -721,6 +747,56 @@ historical_names: []
   atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-017
+
+- id: c-186234
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 22"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
+  citata_originali: |
+    Ypač
+    vertinga yra J. Topolskio pateikta regionų
+    klasifikacijos pagal vyraujantį palivarko
+    produkcijos pobūdį schema. Grūdų augi­
+    nimo regionui priskiriama Lenkija, Livo­
+    nijos žemės, avių ir galvijų auginimo regi­
+    onams – Mecklenburgas, Vakarų Pamarys,
+    Moldavija, Valakija (dabartinė Rumunijos
+    sritis), Vengrija. Miškų ūkio regionu laiko­
+    mos Livonijos žemės, kanapių ir linų ga­
+    mybos regionais – Lietuva ir rusėniškosios
+    LDK žemės (dabartinė Rytų Baltarusija).
+  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-186894
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 11"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 11."
+  citata_originali: |
+    Įdomu, kad Mykolas Lietuvis,
+    kalbėdamas apie vartojamus gėrimus, mi­
+    daus visai nepamini, tačiau pasakoja, kad
+    lietuviai geria daugelio rūšių vyną153.
+    LDK bajorai gerdavo vynus, importuotus
+    iš Vengrijos, Italijos, Prancūzijos, Ispanijos
+    bei kitų šalių miestų154. Vengriškas vynas
+    tuo metu buvo pigus ir todėl, regis, populia­
+    riausias155.
+  citata_rodoma: "LDK bajorai gerdavo vynus, importuotus \niš Vengrijos, Italijos, Prancūzijos, Ispanijos \nbei kitų šalių miestų154. Vengriškas vynas \ntuo metu buvo pigus ir todėl, regis, populia­\nriausias155."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

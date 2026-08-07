@@ -127,6 +127,19 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   pagrindžia:
     - c-31095
 
+<a id="claim-t-203999"></a>
+- t-006
+  teiginys: "Karijotaičiai šaltinyje vaizduojami kaip Podolės kunigaikštystę su 11 pilių prie Vengrijos karalystės karūnos prijungę asmenys, vėliau šias valdas gavę kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186603
+
 ## Citatos
 
 - id: c-31095
@@ -278,6 +291,23 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186603
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 6"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 6."
+  citata_originali: |
+    Karijotaičiai, kurie „Podolės kunigaikštystę su 11 pilių prijungė prie Vengrijos
+    karalystės karūnos ir jas iš tos karalystės karūnos atgal gavo kaip leną"
+    21.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

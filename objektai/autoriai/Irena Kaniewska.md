@@ -35,11 +35,27 @@ Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Ra
 
 Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204155"></a>
+- t-001
+  teiginys: "Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Radziwiłów“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186774
+
+## Citatos
+
+- id: c-186774
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 3"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 3."
   citata_originali: |
     Autoriaus įžvalgos atskleidžia stumbro me-
     džioklės reikšmę XVI a.
@@ -49,8 +65,11 @@ Irena Kaniewska sudarė laiškų rinkinį „Listy króla Zygmunta Augusta do Ra
     Zygmunta Augusta do Radziwiłów ir jame esantys laiškai Mikalojui Radvilai
     Rudajam, taip pat XVI a. laiškų publikacijų tomai8, kurių pagrindą sudaro
     Mikalojaus Radvilos Rudojo ir valdovo Žygimanto Augusto korespondencija.
-  citata_rodoma: ''
+  citata_rodoma: "Reikš-\nmingas mūsų tyrimui Irenos Kaniewskos sudarytas laiškų rinkinys7 Listy króla \nZygmunta Augusta do Radziwiłów ir jame esantys laiškai Mikalojui Radvilai \nRudajam, taip pat XVI a. laiškų publikacijų tomai8, kurių pagrindą sudaro \nMikalojaus Radvilos Rudojo ir valdovo Žygimanto Augusto korespondencija."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

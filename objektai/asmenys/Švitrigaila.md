@@ -952,6 +952,51 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   pagrindžia:
     - c-184911
 
+<a id="claim-t-204119"></a>
+- t-055
+  teiginys: "1437 m., Lietuvos didžiojo kunigaikščio Švitrigailos valdymo metais, Petras Volkovijus buvo didysis medžioklis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1437 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys suredaguotas į sklandesnę enciklopedinę formą. Išlaikyti tik šaltinyje nurodyti asmuo, pareigybė, data ir valdymo laikotarpis."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186727
+
+<a id="claim-t-204352"></a>
+- t-056
+  teiginys: "1432 m. sausio 26 d. Ordino pasiuntiniai pranešė Didžiajam magistrui, kad į suvažiavimą Brastoje Švitrigaila vyks tik su savo tarėjais ir dvariškiais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkyta žodžių tvarka ir aiškiau nurodytas pranešimo adresatas bei Švitrigailos palyda. Išlaikytas šaltinyje pateiktas pranešimo pobūdis."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186956
+
+<a id="claim-t-204353"></a>
+- t-057
+  teiginys: "Po Vytauto mirties Švitrigaila, išrinktas didžiuoju kunigaikščiu, tuoj po išrinkimo pasiūlė Jogailai susitikti santykiams su Lenkija sureguliuoti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186957
+
 ## Reikšmingi paminėjimai
 - c-040
   santrauka: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
@@ -2273,6 +2318,84 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-054
+
+- id: c-186727
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 6"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 6."
+  citata_originali: |
+    Vis dėlto didžiausias valdovo medžioklių rengimo krūvis
+    tekdavo medžiokliams (rusėn. ловчий, lenk. łowczy, lot. venator), hierar-
+    chiškai priklausomiems nuo didžiųjų medžioklių. Šie tuo metu būdavo šalia
+    valdovo ir vadovaudavo medžioklės eigai, o rengiant medžiokles prisiimdavo
+    atsakomybę už pasirengimo veiksmų koordinavimą ir socialinius klausimus.
+    Anot Jerzy Ochmańskio, didžiojo medžioklio pareigybė šaltiniuose minima
+    tik nuo XV a. antrosios pusės29, tačiau žinoma, kad jau 1437 m., Lietuvos didžio-
+    jo kunigaikščio Švitrigailos valdymo metais, didysis medžioklis buvo Petras Vol-
+    kovijus30.
+  citata_rodoma: "Anot Jerzy Ochmańskio, didžiojo medžioklio pareigybė šaltiniuose minima \ntik nuo XV a. antrosios pusės29, tačiau žinoma, kad jau 1437 m., Lietuvos didžio-\njo kunigaikščio Švitrigailos valdymo metais, didysis medžioklis buvo Petras Vol-\nkovijus30."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-055
+
+- id: c-186956
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 16 (PDF 8)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 16 (PDF 8)."
+  citata_originali: |
+    [ i s t o r i j a
+    davo ir svetimšaliai. 1432 m. sausio 26 d. Ordino pasiuntiniai pranešė
+    Didžiajam magistrui, kad Švitrigaila į suvažiavimą Brastoje vyks tik su
+    savo tarėjais ir dvariškiais (retlien und hofcgesinde)
+    11.
+    Tiesa, šie tarėjai
+    buvo labai marga ir dažnai besikeičianti socialinė grupė, neretai į ją
+    būdavo įtraukiami Vytauto dvare tik kurį laiką gyvenę svetimšaliai rite­
+    riai, kaip antai apie du metus Vytauto taryboje praleidę keli Ordino
+    valstybės kilmingieji, kuriais viename savo laiškų skundžiasi Didysis
+    magistras
+    1 2.
+  citata_rodoma: "1432 m. sausio 26 d. Ordino pasiuntiniai pranešė \nDidžiajam magistrui, kad Švitrigaila į suvažiavimą Brastoje vyks tik su \nsavo tarėjais ir dvariškiais (retlien und hofcgesinde)\n11."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
+
+- id: c-186957
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 16 (PDF 8)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 16 (PDF 8)."
+  citata_originali: |
+    Kai kurie jų buvo paskirti į kaip tik tuo metu sukur­
+    tas dvaro pareigybes ir tuo būdu įgijo nuolatinę vietą valdovo taryboje
+    1 4.
+    Būtent jų vardai slypi po didžiųjų kunigaikščių laiškuose retkarčiais
+    vartojama „vyriausiųjų tarėjų" ar net „vyriausiosios tarybos" sąvoka.
+    Kai po Vytauto mirties Didžiuoju kunigaikščiu išrinktas Švitrigaila no­
+    rėjo sureguliuoti santykius su Lenkija, jis tuoj po savo išrinkimo pasiūlė
+    Jogailai susitikti, dalyvaujant abiejų pusių „didžiajai ar vyresniųjų tary-
+    " Dcrgleich dcr here grosfurste och hymvert czien wirt alleyne mit synen retlien und
+    liofcgesindc und nicht stereker (Geheimi's
+    Stautsarchiv
+    Prcuuisclicr
+    Kttllitrbesitz
+    (toliau - GStA l'K), ОВЛ 5939).
+  citata_rodoma: "Kai po Vytauto mirties Didžiuoju kunigaikščiu išrinktas Švitrigaila no­\nrėjo sureguliuoti santykius su Lenkija, jis tuoj po savo išrinkimo pasiūlė \nJogailai susitikti, dalyvaujant abiejų pusių „didžiajai ar vyresniųjų tary-"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-057
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]

@@ -40,11 +40,26 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
 
 XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204317"></a>
+- t-001
+  teiginys: "XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš grynų kvietinių miltų keptą baltą duoną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186920
+
+## Citatos
+
+- id: c-186920
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 6"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 6."
   citata_originali: |
     Šie duomenys rodo, kad LDK, kaip ir
     Lenkijoje85, būtent rugiai buvo pagrindinė
@@ -55,8 +70,11 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
     ar miežių keptą juodą duoną valgo paprasti
     žmonės, o turtingieji gardžiuojasi balta duo­
     na, kepta iš grynų kvietinių miltų86.
-  citata_rodoma: ''
+  citata_rodoma: "Tiesa, XVI a. Lietuvoje lankęsis Gerardas \nMerkatorius pasakojo, kad čia tokią iš rugių \nar miežių keptą juodą duoną valgo paprasti \nžmonės, o turtingieji gardžiuojasi balta duo­\nna, kepta iš grynų kvietinių miltų86."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

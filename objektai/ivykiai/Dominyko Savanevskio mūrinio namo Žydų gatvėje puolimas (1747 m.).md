@@ -46,22 +46,45 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1747 m. Juozapo Šymako suorganizuota tarnų, šeimynos ir Vilniaus žydų gauja užpuolė Dominyko Savanevskio mūrinį namą Žydų gatvėje, siekdama išvaryti Antaną Škapeckį.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203876"></a>
+- t-001
+  teiginys: "1747 m. Juozapo Šymako suorganizuota tarnų, šeimynos ir Vilniaus žydų gauja užpuolė Dominyko Savanevskio mūrinį namą Žydų gatvėje, siekdama išvaryti Antaną Škapeckį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1747 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyta gaujos sudėtis ir aiškiai nurodytas užpuolimo tikslas. Motyvas pateiktas tik tiek, kiek jį tiesiogiai pagrindžia citata."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186480
+
+## Santrauka
+
+1747 m. Juozapo Šymako suorganizuota tarnų, šeimynos ir Vilniaus žydų gauja užpuolė Dominyko Savanevskio mūrinį namą Žydų gatvėje, siekdama išvaryti Antaną Škapeckį.
+
+## Citatos
+
+- id: c-186480
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     Tarp miesto namų užpuolikų talkininkų pasitaikydavo ir žydų. Pvz., 1747 m. LDK
     vaiskis Dominykas Savanevskis skundėsi, kad jo mūrinį namą Žydų gatvėje užpuolė
     Subatnikų klebono Juozapo Šymako (Józef Szymak) organizuota gauja, kurią sudarė jo
     tarnai, šeimyna ir nemažas Vilniaus žydų būrys. Jie siekė išvyti ten gyvenusį Antaną
     Škapeckį (Antoni Szkapecki)50.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1747 m. Juozapo Šymako suorganizuota tarnų, šeimynos ir Vilniaus žydų gauja užpuolė Dominyko Savanevskio mūrinį namą Žydų gatvėje, siekdama išvaryti Antaną Škapeckį.
+  pagrindzia:
+    - t-001

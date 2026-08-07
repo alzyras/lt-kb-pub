@@ -43,11 +43,31 @@ canonical_biography: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pr
 
 1584 m. kunigaikštienės Ščastnos Borovskos valdose Mykolas Andrejevičius negalėjo atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1584 m. kunigaikštienės Ščastnos Borovskos valdose Mykolas Andrejevičius negalėjo atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203784"></a>
+- t-001
+  teiginys: "1584 m. kunigaikštienės Ščastnos Borovskos valdose Mykolas Andrejevičius negalėjo atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė atsisakė veikti be tėvų sutikimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs sakinio fragmentas ir aiškiai susietos Ščastnos Borovskos valdos su įvykiu. Išlaikytos tik šaltinyje nurodytos aplinkybės."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186388
+
+## Citatos
+
+- id: c-186388
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     1584 m. Upytės
     pavieto vaznys Mikalojus Matvejevičius pranešė, kad ieš­
@@ -56,8 +76,10 @@ canonical_biography: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pr
     imti pavaldinio, to padaryti nepavyko, nes dvaro savininkai
     buvo išvykę, o šeimininkų duktė atsisakė ką nors daryti
     be tėvų sutikimo
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

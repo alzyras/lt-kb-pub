@@ -28,11 +28,27 @@ media_all_json: |-
 
 „Priverstinė komercializacija“ buvo antroji valstiečio dvisektorio ūkio pusė.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '„Priverstinė komercializacija“ buvo antroji valstiečio dvisektorio ūkio pusė.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203642"></a>
+- t-001
+  teiginys: "„Priverstinė komercializacija“ buvo antroji valstiečio dvisektorio ūkio pusė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186246
+
+## Citatos
+
+- id: c-186246
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 13"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 13."
   citata_originali: |
     fermeris) buvo priverstas parduoti daugiau
     tais atvejais, kai parduodamo produkto
@@ -45,8 +61,11 @@ media_all_json: |-
     dar labiau paneigia galimybę baudžiavinių
     valstiečių ūkių analizei taikyti kapitalisti­
     nės „kalkuliacijos“ metodus.
-  citata_rodoma: ''
+  citata_rodoma: "Tokio pobūdžio \n„priverstinė komercializacija“ buvo antro­\nji valstiečio dvisektorio ūkio pusė"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

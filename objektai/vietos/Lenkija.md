@@ -1395,6 +1395,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - c-184974
 
+<a id="claim-t-203623"></a>
+- t-080
+  teiginys: "Pagal palivarko produkcijos pobūdžio schemą Lenkija priskiriama grūdų auginimo regionui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186227
+
 ## Reikšmingi paminėjimai
 - c-051
   santrauka: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
@@ -3201,6 +3213,33 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-079
+
+- id: c-186227
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 22"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
+  citata_originali: |
+    Ypač
+    vertinga yra J. Topolskio pateikta regionų
+    klasifikacijos pagal vyraujantį palivarko
+    produkcijos pobūdį schema. Grūdų augi­
+    nimo regionui priskiriama Lenkija, Livo­
+    nijos žemės, avių ir galvijų auginimo regi­
+    onams – Mecklenburgas, Vakarų Pamarys,
+    Moldavija, Valakija (dabartinė Rumunijos
+    sritis), Vengrija. Miškų ūkio regionu laiko­
+    mos Livonijos žemės, kanapių ir linų ga­
+    mybos regionais – Lietuva ir rusėniškosios
+    LDK žemės (dabartinė Rytų Baltarusija).
+  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-080
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]

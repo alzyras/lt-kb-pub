@@ -33,11 +33,28 @@ Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posach
 
 Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203843"></a>
+- t-001
+  teiginys: "Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posachovičiaus elgesį vadino „haidamakišku“, siedami šį terminą su Haličo kazokais, XVIII a. rengusiais sukilimus prieš Lenkijos aristokratus ir pasižymėjusiais ypatingu žiaurumu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:01Z"
+  pagrindžia:
+    - c-186447
+
+## Citatos
+
+- id: c-186447
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 9"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 9."
   citata_originali: |
     Tačiau tame pačiame dokumente pateikta ir Kazimiero Michalovskio
     (Kazimierz Michałowski) ir A. Jaroševskio versija: jie nurodė, jog K. Venglevskis ir Pran-
@@ -45,8 +62,10 @@ Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posach
     smurtavo, trankė antausius, sužeidė palašais (ilgais kardais) K. Michalovskį, anot ieškovų,
     elgėsi „haidamakiškai“ (pagal Haličo kazokų, XVIII a. organizavusių sukilimus prieš
     Lenkijos aristokratus ir pasižymėjusių ypatingu žiaurumu, pavadinimą)30.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

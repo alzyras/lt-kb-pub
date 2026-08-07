@@ -813,6 +813,19 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-179053
 
+<a id="claim-t-203632"></a>
+- t-044
+  teiginys: "Vokietija buvo išimtis, nes joje jau nuo XI a. trūko laisvų žemių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
+  pagrindžia:
+    - c-186236
+
 ## Citatos
 
 - id: c-24595
@@ -1532,6 +1545,22 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_saltinis: ai
   pagrindzia:
     - t-043
+
+- id: c-186236
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 10"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 10."
+  citata_originali: |
+    Išimtimi laikytina Vokietija, kurioje jau nuo XI a.
+    trūko laisvų žemių.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Poponas iš Osternos]]

@@ -42,11 +42,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203770"></a>
+- t-001
+  teiginys: "1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas, turi aiškų subjektą ir predikatą bei tiesiogiai apibūdina bylos aplinkybę."
+  pagrindžia:
+    - c-186374
+
+## Santrauka
+
+1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro.
+
+## Citatos
+
+- id: c-186374
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Panašus atvejis aptinkamas 1585 m.
     Upytės pavieto žemininko Jono Zareckio byloje prieš kitą
@@ -55,11 +78,10 @@ Nenurodyta
     o jo pavaldinys atsisakė vykdyti teismo nuosprendį. Jis
     sutiko tik perduoti teismo raštą šeimininkui po savaitės,
     kai jis pats vyksiąs pas poną
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro.
+  pagrindzia:
+    - t-001

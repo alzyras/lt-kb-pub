@@ -42,22 +42,42 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1647 m. įsigaliojo arklių išvežimo draudimas.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203678"></a>
+- t-001
+  teiginys: "1647 m. įsigaliojo arklių išvežimo draudimas."
+  atnaujinta: "2026-08-07 11:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186282
+
+## Santrauka
+
+1647 m. įsigaliojo arklių išvežimo draudimas.
+
+## Citatos
+
+- id: c-186282
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 22"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 22."
   citata_originali: |
     Dar viena konstitucija dėl pagrobimo buvo priim-
     ta 1631 m.214 Jose nurodoma, kaip turi vykti nusikaltimo tyrimas, į kokį teismą kreiptis. Prie
     straipsnio, draudžiančio iš šalies išvežti ginklus215, duotos nuorodos į 1620 ir 1626 m. sei-
     mų nutarimus, draudžiančius išvežti iš šalies salietrą (naudotą sprogmenų gamyboje), bet
     baudžiama ne mirties bausme, o 500 grivnų bauda216. 1647 m. uždrausta išvežti arklius217.
-  citata_rodoma: ''
+  citata_rodoma: "1647 m. uždrausta išvežti arklius217."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1647 m. įsigaliojo arklių išvežimo draudimas.
+  pagrindzia:
+    - t-001

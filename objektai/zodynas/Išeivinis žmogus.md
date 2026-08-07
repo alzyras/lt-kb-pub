@@ -28,11 +28,27 @@ Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereid
 
 Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203754"></a>
+- t-001
+  teiginys: "Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186358
+
+## Citatos
+
+- id: c-186358
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 2"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 2."
   citata_originali: |
     Išeivinis valstietis
     galėjo atvykti į kurį nors kaimą ir priimti valaką ar jo
@@ -43,8 +59,10 @@ Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereid
     10 metų pasidarydavo jau neišeivinis, jeigu to panorėda­
     vo žemvaldys. Be tokios senaties išeivinis žmogus galėjo
     išsikelti kitur dvarui paliudijus, kad jis neskolingas.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

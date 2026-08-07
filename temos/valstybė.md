@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 149
+tema_objektu_skaicius: 150
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 149.
+Objektų skaičius: 150.
 
 ## Kaip naudoti
 
@@ -176,6 +176,7 @@ Objektų skaičius: 149.
 - [Žečpospolita](../objektai/vietos/%C5%BDe%C4%8Dpospolita)
 
 ### Šaltiniai
+- [Apie totorių, lietuvių ir maskvėnų papročius](../objektai/saltiniai/Apie%20totori%C5%B3%2C%20lietuvi%C5%B3%20ir%20maskv%C4%97n%C5%B3%20papro%C4%8Dius)
 - [Pašuta V. Lietuvos valstybės susidarymas](../objektai/saltiniai/Pa%C5%A1uta%20V.%20Lietuvos%20valstyb%C4%97s%20susidarymas)
 - [Salyno sutartis (1398 m.)](../objektai/saltiniai/Salyno%20sutartis%20%281398%20m.%29)
 

@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 80
+tema_objektu_skaicius: 79
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 80.
+Objektų skaičius: 79.
 
 ## Kaip naudoti
 
@@ -39,7 +39,6 @@ Objektų skaičius: 80.
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
-- [[objektai/paprociai/Iškilmingi festynai su spektakliais, dialogais ir fejerverkais]]
 - [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
@@ -51,7 +50,7 @@ Objektų skaičius: 80.
 - [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
 - [[objektai/paprociai/Kruvini bajorijos susibūrimai, ypač seimeliuose]]
-- [Kūlimo jaujoje darbo tvarka](../objektai/paprociai/K%C5%ABlimo%20jaujoje%20darbo%20tvarka)
+- [[objektai/paprociai/Kūlimo jaujoje darbo tvarka]]
 - [LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba](../objektai/paprociai/LDK%20bajor%C5%B3%20lietuvi%C5%A1ka%20savivardyst%C4%97%20ir%20ra%C5%A1t%C5%B3%20kalbos%20vadinimas%20lietuvi%C5%B3%20kalba)
 - [Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje](../objektai/paprociai/Lenk%C5%B3%20kalbos%20pasirinkimas%20LDK%20protestanti%C5%A1koje%20ir%20politinio%20elito%20ra%C5%A1tijoje)
 - [Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos](../objektai/paprociai/Lietuvi%C5%B3%20ir%20lenk%C5%B3%20kult%C5%ABrini%C5%B3%20draugij%C5%B3%20paralelizmas%2C%20tyrimai%20ir%20vie%C5%A1os%20parodos)

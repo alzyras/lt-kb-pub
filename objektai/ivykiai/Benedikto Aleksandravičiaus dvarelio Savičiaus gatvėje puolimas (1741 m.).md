@@ -46,22 +46,45 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1741 m. Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir išgabeno į savo namus pagrobtą šieną.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203875"></a>
+- t-001
+  teiginys: "1741 m. Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir išgabeno į savo namus pagrobtą šieną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti grasinimo ir plėšimo padariniai. Nepakartoti bendro pobūdžio teiginiai apie kariškių dalyvavimą, nes jie nėra būtini šiam objektui."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186479
+
+## Santrauka
+
+1741 m. Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir išgabeno į savo namus pagrobtą šieną.
+
+## Citatos
+
+- id: c-186479
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     Namus puolančiųjų kompanijoje neretai būdavo ir profesionalų kariškių. Kaip rašoma
     skunde, 1741 m. LDK kariuomenės petihorų vėliavos seržantas Stanislovas Pioro (Sta-
     nisław Pioro) su savo kareiviais nakčia užpuolė Gardino pavieto stalininko Benedikto
     Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino dvarelio šeimininkams, tačiau pa-
     grobė tik šieną ir nugabeno į savo namus52.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1741 m. Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje, grasino šeimininkams ir išgabeno į savo namus pagrobtą šieną.
+  pagrindzia:
+    - t-001

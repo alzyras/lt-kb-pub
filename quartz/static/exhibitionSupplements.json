@@ -20,7 +20,7 @@
           "claimRefs": [
             {
               "claimId": "t-176734",
-              "citationId": "c-180062",
+              "citationId": "c-180296",
               "label": "Vytautas pasirinktas valstybės ir tautos didvyriu",
               "role": "contextual"
             },
@@ -225,12 +225,6 @@
           "navImagePosition": "50% 24%",
           "claimRefs": [
             {
-              "claimId": "t-176642",
-              "citationId": "c-160623",
-              "label": "Vytauto vardas ir atgimstančios lietuvių tautos sąmonė",
-              "role": "contextual"
-            },
-            {
               "claimId": "t-75754",
               "citationId": "c-73438",
               "label": "Vytauto ir Smetonos portretai valstybės įstaigose",
@@ -294,7 +288,7 @@
           "claimRefs": [
             {
               "claimId": "t-176744",
-              "citationId": "c-160619",
+              "citationId": "c-180274",
               "label": "Rugsėjo 8-osios Tautos šventės reikšmė",
               "role": "contextual"
             }

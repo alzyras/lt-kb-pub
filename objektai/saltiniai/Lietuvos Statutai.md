@@ -223,6 +223,35 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   pagrindžia:
     - c-176271
 
+<a id="claim-t-204093"></a>
+- t-012
+  teiginys: "Lietuvos Statutai kartu su Valakų reforma, 1559 m. girių aprašymu ir 1567 m. Knyšino nuostatais sudarė LDK valdovo medžioklės ūkį saugančios įstatymų sistemos pagrindus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1559 m.; įvykio data: 1567 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kad Lietuvos Statutai buvo vienas iš kelių įstatymų sistemos pagrindų. Išlaikytas šaltinyje pateiktas dokumentų sąrašas."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186697
+
+<a id="claim-t-204302"></a>
+- t-013
+  teiginys: "Lietuvos Statutuose kviečiai ir rugiai įvardijami kaip labiausiai vertinti javai XVI amžiuje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186924
+
 ## Citatos
 
 - id: c-23849
@@ -452,3 +481,49 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-186697
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 11"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 11."
+  citata_originali: |
+    Svarbu atkreipti dėmesį, kad
+    vis dėlto, nepaisant atkartojimo, visu aptariamuoju laikotarpiu nė viename iš
+    LDK valdovo medžioklės ūkį saugančių įstatymų sistemos (kurios pagrindus
+    sudarė Lietuvos Statutai, Valakų reforma, 1559 m. Grigaliaus Grinkavičiaus
+    Valavičiaus girių aprašymas, 1567 m. Knyšino nuostatai) dokumente nėra api-
+    brėžtas medžioklės ceremonialas.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-186924
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 6"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 6."
+  citata_originali: |
+    TBK 8), Nr. 364,
+    p. 170; Nr. 393, p. 183; LM. TBK 12, Nr. 128, p. 119.
+    lęšiai80. Lietuvos Statutai atskleidžia, kad
+    labiausiai tuo metu buvo vertinami kviečiai
+    ir rugiai81, tačiau ūkių produkcijos tyrimai
+    rodo, jog XVI a. pirmoje pusėje didžiausią
+    dvaruose užauginamų kultūrų dalį sudarė
+    rugiai (54 %) ir avižos (26 %), o grikiai –
+    7,1 %, miežiai – 4,8 %, vasariniai rugiai –
+    4,1 %, kviečiai – 3,45 % ir tik nedideli plotai
+    buvo apsėjami žirniais, linais, kanapėmis,
+    kartais soromis82.
+  citata_rodoma: "Lietuvos Statutai atskleidžia, kad \nlabiausiai tuo metu buvo vertinami kviečiai \nir rugiai81, tačiau ūkių produkcijos tyrimai \nrodo, jog XVI a. pirmoje pusėje didžiausią \ndvaruose užauginamų kultūrų dalį sudarė \nrugiai (54 %) ir avižos (26 %), o grikiai – \n7,1 %, miežiai – 4,8 %, vasariniai rugiai – \n4,1 %, kviečiai – 3,45 % ir tik nedideli plotai \nbuvo apsėjami žirniais, linais, kanapėmis, \nkartais soromis82."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013

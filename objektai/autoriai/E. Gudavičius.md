@@ -52,6 +52,18 @@ Gudavičius.
   pagrindžia:
     - c-22125
 
+<a id="claim-t-203664"></a>
+- t-002
+  teiginys: "Edvardas Gudavičius daugiausia dėmesio skyrė Pirmojo Lietuvos Statuto baudžiamajai teisei ir polemizavo su G. Demčenka dėl nusikaltimo bei bausmės sąvokų supratimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186268
+
 ## Citatos
 
 - id: c-22125
@@ -70,3 +82,22 @@ Gudavičius.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186268
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 4"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 4."
+  citata_originali: |
+    Mirties bausmė taip pat aptariama darbe, kuriame jis analizavo Lietuvos Statutų bei val-
+    dovų privilegijų tekstus21. Edvardas Gudavičius daugiausia dėmesio skyrė baudžiamajai
+    teisei Pirmajame Lietuvos Statute22. Jis polemizavo su G. Demčenka dėl nusikaltimo ir
+    bausmės sąvokų supratimo23.
+  citata_rodoma: "Edvardas Gudavičius daugiausia dėmesio skyrė baudžiamajai \nteisei Pirmajame Lietuvos Statute22. Jis polemizavo su G. Demčenka dėl nusikaltimo ir \nbausmės sąvokų supratimo23."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -301,7 +301,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Čupurva]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]
 
 ### Autoriai
 - [[objektai/autoriai/Ambrassat A]]

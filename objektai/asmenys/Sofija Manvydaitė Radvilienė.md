@@ -43,11 +43,30 @@ canonical_biography: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojama
 
 1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204073"></a>
+- t-001
+  teiginys: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojamais dvarų kompleksais perleido tarnybinius bajorus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Sofijos veiksmą, datą ir perleidžiamų tarnybinių bajorų ryšį su dvarų kompleksais; papildomų aplinkybių nepridėta."
+  pagrindžia:
+    - c-186677
+
+## Citatos
+
+- id: c-186677
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
   citata_originali: |
     Tokius tarnybinius bajorus didikai galėjo netgi perleisti
     vienas kitam kartu su dovanojamais dvarų kompleksais, kaip tai 1492 m. padarė
@@ -55,8 +74,10 @@ canonical_biography: "1492 m. Sofija Manvydaitė Radvilienė kartu su dovanojama
     juos savo autoritetu sutramdyti turėtų jos vyras Vilniaus vaivada Mikalojus Ra-
     dvila
     36.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

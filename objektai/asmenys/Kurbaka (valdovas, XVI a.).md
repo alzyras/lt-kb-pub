@@ -48,11 +48,27 @@ canonical_biography: "1508 m. Kurbaka, apibūdintas kaip maišto bendrininkas, v
 
 1508 m. Kurbaka, apibūdintas kaip maišto bendrininkas, valdovui leidus be teismo sprendimo buvo nuskandintas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1508 m. Kurbaka, apibūdintas kaip maišto bendrininkas, valdovui leidus be teismo sprendimo buvo nuskandintas.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203992"></a>
+- t-001
+  teiginys: "1508 m. Kurbaka, apibūdintas kaip maišto bendrininkas, valdovui leidus be teismo sprendimo buvo nuskandintas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186596
+
+## Citatos
+
+- id: c-186596
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 16"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 16."
   citata_originali: |
     150884
     Kurbaka
@@ -63,8 +79,10 @@ canonical_biography: "1508 m. Kurbaka, apibūdintas kaip maišto bendrininkas, v
     valdovui
     leidus
     nuskandinimas85
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

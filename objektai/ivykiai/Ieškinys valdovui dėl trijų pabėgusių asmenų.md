@@ -42,21 +42,44 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203767"></a>
+- t-001
+  teiginys: "1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1551 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir sakinio sandaros trūkumai, aiškiai įvardytas bajoro veiksmas bei teismo pareigūnų kontekstas."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186371
+
+## Santrauka
+
+1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė.
+
+## Citatos
+
+- id: c-186371
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
   citata_originali: |
     1551 m. valdovui pateiktas ieškinys, kuriame skundžia­
     masi, kad atėjus su teismo siųstu vižu ir kitais pareigūnais
     atsiimti pabėgusių trijų asmenų, juos priglaudęs bajoras
     ne tik nenorėjo jų atiduoti, bet ir juos sumušė
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1551 m. valdovui pateiktame ieškinyje skųstasi, kad tris pabėgusius asmenis priglaudęs bajoras atsisakė juos atiduoti teismo pareigūnams ir juos sumušė.
+  pagrindzia:
+    - t-001

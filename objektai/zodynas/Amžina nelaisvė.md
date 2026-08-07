@@ -28,19 +28,38 @@ Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
 
 Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203673"></a>
+- t-001
+  teiginys: "Trečiasis Statutas uždraudė nuteistuosius imti į amžiną nelaisvę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186277
+
+## Citatos
+
+- id: c-186277
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 20"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 20."
   citata_originali: |
     Pavyzdžiui, numatyta, kad ši bausmė netaiko-
     ma tada, kai neteisingai apkaltintas buvo įtartinas žmogus arba apkaltina iš didelio siel-
     varto189. Pagal Pirmąjį Statutą mirties bausmės už nusikaltimą, išskyrus vagystę, galima
     buvo išvengti pasiduodant ieškovui į nelaisvę190. Tuo tarpu Trečiasis Statutas uždraudė
     nuteistuosius imti į amžiną nelaisvę191.
-  citata_rodoma: ''
+  citata_rodoma: "Tuo tarpu Trečiasis Statutas uždraudė \nnuteistuosius imti į amžiną nelaisvę191."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

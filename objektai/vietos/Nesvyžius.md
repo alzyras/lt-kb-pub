@@ -233,6 +233,19 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - c-185878
 
+<a id="claim-t-203627"></a>
+- t-011
+  teiginys: "1720–1764 m. Nesvyžiuje buvo įkurta latifundinė audinių manufaktūra."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  vertinimo_atnaujinta: "2026-07-26T16:20:30Z"
+  pagrindžia:
+    - c-186231
+
 ## Citatos
 
 - id: c-46643
@@ -425,3 +438,25 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-010
+
+- id: c-186231
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 18"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 18."
+  citata_originali: |
+    Istorikas XVIII  a. Lenkijoje išskiria
+    tris manufaktūrų raidos laikotarpius94. Pir­
+    muoju laikotarpiu (1720–1764  m.) buvo
+    tik latifundinės manufaktūros: Nesvyžiuje
+    įkurta audinių manufaktūra, Kielco gele­
+    žies įmonės vykdė geležies gavybą ir ga­
+    mino pusfabrikačius.
+  citata_rodoma: "Pir­\nmuoju laikotarpiu (1720–1764  m.) buvo \ntik latifundinės manufaktūros: Nesvyžiuje \nįkurta audinių manufaktūra, Kielco gele­\nžies įmonės vykdė geležies gavybą ir ga­\nmino pusfabrikačius."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

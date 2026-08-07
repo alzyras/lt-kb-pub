@@ -35,17 +35,36 @@ Augustinų bažnyčios kapinėse užpuolikai mušė žmones, o įsiveržę į vi
 
 Augustinų bažnyčios kapinėse užpuolikai mušė žmones, o įsiveržę į vidų šaudė, smurtavo ir sumušė ne vieną vienuolį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Augustinų bažnyčios kapinėse užpuolikai mušė žmones, o įsiveržę į vidų šaudė, smurtavo ir sumušė ne vieną vienuolį.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203834"></a>
+- t-001
+  teiginys: "Augustinų bažnyčios kapinėse užpuolikai mušė žmones, o įsiveržę į vidų šaudė, smurtavo ir sumušė ne vieną vienuolį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186438
+
+## Citatos
+
+- id: c-186438
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 10"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 10."
   citata_originali: |
     pradžių užpuolikai mušė žmones prie bažnyčios esančiose kapinėse, vėliau įsiveržė į
     bažnyčios vidų, ten šaudė ir smurtavo. Buvo sumuštas ne vienas vienuolis. Atvykęs teis-
     mo pareigūnas konstatavo, kad bažnyčia pritaškyta k
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

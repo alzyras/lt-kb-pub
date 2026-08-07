@@ -705,6 +705,34 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - c-185664
 
+<a id="claim-t-204020"></a>
+- t-041
+  teiginys: "1529 m. Žygimantas Senasis įsakymais atleido Goniondzo pavieto Radvilų bajorus nuo senjorų pavaldumo ir garantavo, kad ateityje bajorai nebus atiduodami ponų bei kunigaikščių valdžion."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bendra interpretacija pakeista konkrečiais Žygimanto Senojo įsakymais ir jų pasekmėmis. Šaltinio vertinamasis apibūdinimas neperteiktas kaip papildomas faktas."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186624
+
+<a id="claim-t-204115"></a>
+- t-042
+  teiginys: "Paskutiniai leidimai kilmingiesiems be valdovo dalyvavimo sumedžioti stumbrą buvo surašyti valdant Žygimantui Senajam."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186745
+
 ## Citatos
 
 - id: c-157629
@@ -1793,6 +1821,52 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   atnaujinta: "2026-07-26 19:26"
   pagrindzia:
     - t-040
+
+- id: c-186624
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
+  citata_originali: |
+    Tačiau tuo metu Žygi-
+    mantas Senasis ir jo aplinka atrado veiksmingų priemonių pristabdyti diduome-
+    nės valdžios bei socialinio sluoksniavimosi kilmingųjų luomo viduje stiprėjimą.
+    Tais pačiais 1529 m., kaip ir Pirmasis Lietuvos Statutas, buvo paskelbti du tarpu-
+    savyje susiję valdovo įsakai. Vienu jų Radvilų bajorai, gyvenantys Goniondzo
+    paviete, „amžiniems laikams" buvo atleisti nuo teisinio pavaldumo savo senjo-
+    rams. Kitu įsaku Žygimantas Senasis garantavo, kad bajorai ateityje nebus ati-
+    duodami ponų ir kunigaikščių valdžion
+    52.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-186745
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 12"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 12."
+  citata_originali: |
+    Pavyzdžiui, 1548 m. valdovas laiške Radvilai Rudajam pranešė
+    apie jam suteiktą leidimą medžioti Rūdninkuose, tačiau įspėjo tai daryti dis-
+    kretiškai56. Greičiausiai todėl, kad šis leidimas buvo suteiktas remiantis drau-
+    gyste, bet nederėjo oficialiam valdovo medžioklės ūkį saugančiam pareigūnui,
+    kuris turėjo būti pavyzdžiu savo pavaldiniams.
+    Paskutiniai leidimai sumedžioti stumbrą kilmingiesiems (nedalyvaujant
+    valdovui) surašyti tik valdant Žygimantui Senajam, o valdant Žygimantui Au-
+    gustui tokių aktų kol kas nėra žinoma.
+  citata_rodoma: "Paskutiniai leidimai sumedžioti stumbrą kilmingiesiems (nedalyvaujant \nvaldovui) surašyti tik valdant Žygimantui Senajam, o valdant Žygimantui Au-\ngustui tokių aktų kol kas nėra žinoma."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 ## Ryšiai
 - Žygimantas Senasis (Lenkijos karalius, XVI a.) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

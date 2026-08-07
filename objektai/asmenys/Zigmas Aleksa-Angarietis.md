@@ -43,17 +43,35 @@ Zigmas Aleksa-Angarietis 1769 m. įvykius įvardijo „plačiausiu valstiečių 
 
 Zigmas Aleksa-Angarietis 1769 m. įvykius įvardijo „plačiausiu valstiečių sukilimu XVIII amžiuje“.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Zigmas Aleksa-Angarietis 1769 m. įvykius įvardijo „plačiausiu valstiečių sukilimu XVIII amžiuje“.'
-  šaltinis: Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas
+<a id="claim-t-203662"></a>
+- t-001
+  teiginys: "Zigmas Aleksa-Angarietis 1769 m. įvykius įvardijo „plačiausiu valstiečių sukilimu XVIII amžiuje“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas"
+  pagrindžia:
+    - c-186266
+
+## Citatos
+
+- id: c-186266
+  autorius: "Ramunė Šmigelskytė-Stukienė"
+  šaltinis: "Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos"
+  puslapiai: "PDF 8"
+  indeksas: "Ramunė Šmigelskytė-Stukienė, Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos, PDF 8."
   citata_originali: |
     1769 m.
     įvykius Z. Angarietis įvardijo „plačiausiu valstiečių suki-
     limu XVIII amžiuje“.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

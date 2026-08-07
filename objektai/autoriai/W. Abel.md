@@ -35,11 +35,27 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
 
 W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203654"></a>
+- t-001
+  teiginys: "W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su Europos agrarine raida."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186258
+
+## Citatos
+
+- id: c-186258
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 14"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 14."
   citata_originali: |
     Šis W.  Kulos teiginys sukonkretina vieno žy­
     miausių agrarinės istorijos tyrinėtojų W. Abelio sampra­
@@ -52,8 +68,11 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
     rinkos dalis, tuo didesnė tikimybė lygiam natūrinio pel­
     no ir piniginio pelno judėjimui. Žr. Abel W. Agrarkrisen
     und Agrarkonjunktur.
-  citata_rodoma: ''
+  citata_rodoma: "Šis W.  Kulos teiginys sukonkretina vieno žy­\nmiausių agrarinės istorijos tyrinėtojų W. Abelio sampra­\ntą apie derliaus svyravimo ir produkcijos kainos santykį \nEuropos agrarinėje raidoje."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -39,31 +39,42 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
-  citata_originali: |
-    Įdomu, kad pastarųjų terminai rusėniškuose
-    šaltiniuose – kump ir skilond109 – yra litua­
-    nizmai, tad šie gaminiai – būdingi Lietuvai
-    mėsos produktai.
-    Mėsos žaliavą XVI a. bajorams teikė ir
-    jų mėgstama medžioklė. Tiesa, XVI a. pa­
-    baigoje gerokai sumažėjusios medžioklinių
-    šunų ir paukščių kainos buvo rodiklis, kad
-    medžioklė virto ponų bei bajorų pramoga,
-    o mityboje ryškiai pirmavo ne žvėriena,
-    bet naminių gyvulių bei paukščių mėsa110.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204294"></a>
+- t-001
+  teiginys: "Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186891
+
+<a id="claim-t-204305"></a>
+- t-002
+  teiginys: "XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186927
+
+## Santrauka
+
+XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis.
+
+## Citatos
+
+- id: c-186891
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
   citata_originali: |
     Archeologų duomenimis, naminių gyvulių
     mėsa žvėrienos atžvilgiu dominavo visą
@@ -76,11 +87,36 @@ Nenurodyta
     stumbrieną, šernieną, stirnieną, briedieną ir
     elnieną112, taip pat mėgo laukinius paukš­
     čius – kurtinius, kurapkas bei tetervinus113.
-  citata_rodoma: ''
+  citata_rodoma: "Nepaisant to, žvėriena buvo neat­\nsiejama bajorų virtuvės dalis (skirtingai nei \nvalstiečių). Osteologinė žvėrių kaulų analizė \nparodė, kad bajorai dažniausiai valgydavo \nstumbrieną, šernieną, stirnieną, briedieną ir \nelnieną112, taip pat mėgo laukinius paukš­\nčius – kurtinius, kurapkas bei tetervinus113."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
+  pagrindzia:
+    - t-001
 
-XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis.
+- id: c-186927
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
+  citata_originali: |
+    Įdomu, kad pastarųjų terminai rusėniškuose
+    šaltiniuose – kump ir skilond109 – yra litua­
+    nizmai, tad šie gaminiai – būdingi Lietuvai
+    mėsos produktai.
+    Mėsos žaliavą XVI a. bajorams teikė ir
+    jų mėgstama medžioklė. Tiesa, XVI a. pa­
+    baigoje gerokai sumažėjusios medžioklinių
+    šunų ir paukščių kainos buvo rodiklis, kad
+    medžioklė virto ponų bei bajorų pramoga,
+    o mityboje ryškiai pirmavo ne žvėriena,
+    bet naminių gyvulių bei paukščių mėsa110.
+  citata_rodoma: "Mėsos žaliavą XVI a. bajorams teikė ir \njų mėgstama medžioklė. Tiesa, XVI a. pa­\nbaigoje gerokai sumažėjusios medžioklinių \nšunų ir paukščių kainos buvo rodiklis, kad \nmedžioklė virto ponų bei bajorų pramoga, \no mityboje ryškiai pirmavo ne žvėriena, \nbet naminių gyvulių bei paukščių mėsa110."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

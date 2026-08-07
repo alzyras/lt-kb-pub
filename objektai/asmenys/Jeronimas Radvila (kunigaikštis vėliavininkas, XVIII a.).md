@@ -70,6 +70,22 @@ Jeronimas Radvila buvo kunigaikštis vėliavininkas. Jeronimas Radvila Minimas k
   pagrindžia:
     - c-183878
 
+<a id="claim-t-203806"></a>
+- t-003
+  teiginys: "1754 m. užpuolus LDK vėliavininko Jeronimo Radvilos rūmus, buvo sužeistas Mykolas Lopnickis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtas šaltinyje nurodytas užpuolimo rezultatas ir Jeronimo Radvilos pareigos. Liudininkų minimo žmonių skaičiaus neinterpretuota kaip užpuolikų skaičiaus."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186410
+
 ## Citatos
 
 - id: c-183878
@@ -83,3 +99,20 @@ Jeronimas Radvila buvo kunigaikštis vėliavininkas. Jeronimas Radvila Minimas k
   pagrindzia:
     - t-001
     - t-002
+
+- id: c-186410
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 15"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 15."
+  citata_originali: |
+    Pvz., 1754 m. po to, kai buvo užpulti LDK
+    vėliavininko Jeronimo Radvilos rūmai, sužeistas Mykolas Lopnickis (Michał Łopnicki),
+    liudininkai minėjo, kad žmonių buvo daugiau kaip 3054.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

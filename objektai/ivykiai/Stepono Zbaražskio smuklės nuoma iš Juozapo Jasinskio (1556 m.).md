@@ -46,11 +46,33 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204327"></a>
+- t-001
+  teiginys: "1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo veikėją, datą, nuomos aplinkybes ir įsipareigojimą. Jis tiesiogiai atitinka citatoje pateiktą faktą."
+  pagrindžia:
+    - c-186922
+
+## Santrauka
+
+1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus.
+
+## Citatos
+
+- id: c-186922
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
   citata_originali: |
     Apie XVI a. bajorų patiekalus bei suvar­
     tojamus jų kiekius beveik neturime šaltinių,
@@ -70,11 +92,10 @@ Nenurodyta
     pasninko dienomis turėjo būti patiektos dvi
     šviežios žuvys: viena su šaknelėmis, kita –
     sūryme, taip pat padažo, košės ir sūrio134.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus.
+  pagrindzia:
+    - t-001

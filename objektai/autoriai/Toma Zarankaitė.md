@@ -35,11 +35,28 @@ Toma Zarankaitė yra darbo „Didieji medžiokliai Radvilos Lietuvos Didžiojoje
 
 Toma Zarankaitė yra darbo „Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai“ autorė.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Toma Zarankaitė yra darbo „Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai“ autorė.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204157"></a>
+- t-001
+  teiginys: "Toma Zarankaitė yra darbo „Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai“ autorė."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186761
+
+## Citatos
+
+- id: c-186761
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 1"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 1."
   citata_originali: |
     Toma Zarankaitė. Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai
     To m a Z a r a n k a i t ė
@@ -53,8 +70,11 @@ Toma Zarankaitė yra darbo „Didieji medžiokliai Radvilos Lietuvos Didžiojoje
     su valdovu. Straipsnio objektas – LDK valdovą Žygimantą Augustą bei LDK didįjį
     medžioklį (rusėn. ловчий великий, lenk. łowczy hospodarski, łowczy wielki, lot.
     praefectus venationum, vok.
-  citata_rodoma: ''
+  citata_rodoma: "Toma Zarankaitė. Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

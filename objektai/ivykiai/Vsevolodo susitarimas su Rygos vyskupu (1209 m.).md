@@ -46,20 +46,43 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1209 m. stačiatikis Jersikos kunigaikštis Vsevolodas sutiko savo žemes užrašyti Rygos vyskupui ir priimti jas atgal kaip leną.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204045"></a>
+- t-001
+  teiginys: "1209 m. stačiatikis Jersikos kunigaikštis Vsevolodas sutiko savo žemes užrašyti Rygos vyskupui ir priimti jas atgal kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1209 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas Vsevolodo statusas ir valdoma teritorija. Teiginys išlieka paremtas citata ir neperžengia jos turinio."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186649
+
+## Santrauka
+
+1209 m. stačiatikis Jersikos kunigaikštis Vsevolodas sutiko savo žemes užrašyti Rygos vyskupui ir priimti jas atgal kaip leną.
+
+## Citatos
+
+- id: c-186649
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 4"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 4."
   citata_originali: |
     1209 m.
     Rygos vyskupui panašiai savo žemes sutiko užrašyti stačiatikis Jersikos kuni-
     gaikštis Vsevolodas, atgal priimdamas jas kaip suteiktą leną
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1209 m. stačiatikis Jersikos kunigaikštis Vsevolodas sutiko savo žemes užrašyti Rygos vyskupui ir priimti jas atgal kaip leną.
+  pagrindzia:
+    - t-001

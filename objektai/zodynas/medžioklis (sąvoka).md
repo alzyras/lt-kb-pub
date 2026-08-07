@@ -33,11 +33,39 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
 
 Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204124"></a>
+- t-001
+  teiginys: "Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186731
+
+<a id="claim-t-204126"></a>
+- t-002
+  teiginys: "Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186783
+
+## Citatos
+
+- id: c-186731
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 6"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 6."
   citata_originali: |
     Taigi, galime teigti, jog didieji medžiokliai, be asmeninių ry-
     šių puoselėjimo, turėjo ir labai aiškių oficialių pareigų, susijusių su medžioklės
@@ -46,14 +74,20 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
     chiškai priklausomiems nuo didžiųjų medžioklių. Šie tuo metu būdavo šalia
     valdovo ir vadovaudavo medžioklės eigai, o rengiant medžiokles prisiimdavo
     atsakomybę už pasirengimo veiksmų koordinavimą ir socialinius klausimus.
-  citata_rodoma: ''
+  citata_rodoma: "Vis dėlto didžiausias valdovo medžioklių rengimo krūvis \ntekdavo medžiokliams (rusėn. ловчий, lenk. łowczy, lot. venator), hierar-\nchiškai priklausomiems nuo didžiųjų medžioklių. Šie tuo metu būdavo šalia \nvaldovo ir vadovaudavo medžioklės eigai, o rengiant medžiokles prisiimdavo \natsakomybę už pasirengimo veiksmų koordinavimą ir socialinius klausimus."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+  pagrindzia:
+    - t-001
+
+- id: c-186783
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 14"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 14."
   citata_originali: |
     Didžiųjų medžioklių (rusėn. ловчий великий, lenk. łowczy hospodarski,
     łowczy wielki, lot. praefectus venationum, vok. Oberjagermeister) atsiradimas
@@ -65,8 +99,11 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
     didžiųjų medžioklių, kurie šios pramogos metu buvo šalia valdovo ir vadovavo
     medžioklės eigai, o rengiant medžiokles prisiimdavo atsakomybę už pasiren-
     gimo veiksmų koordinavimą bei socialinius klausimus.
-  citata_rodoma: ''
+  citata_rodoma: "Didžiausias valdovo medžioklių rengimo krūvis tekdavo medžiokliams (ru-\nsėn. ловчий, lenk. łowczy, lot. venator), hierarchiškai priklausomiems nuo \ndidžiųjų medžioklių, kurie šios pramogos metu buvo šalia valdovo ir vadovavo \nmedžioklės eigai, o rengiant medžiokles prisiimdavo atsakomybę už pasiren-\ngimo veiksmų koordinavimą bei socialinius klausimus."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

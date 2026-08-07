@@ -46,11 +46,43 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Žygimantas Augustas su Barbora Radvilaite bent kelioms dienoms kiekvieną mėnesį išvykdavo medžioti.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204145"></a>
+- t-001
+  teiginys: "Žygimantas Augustas su Barbora Radvilaite bent kelioms dienoms kiekvieną mėnesį išvykdavo medžioti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186749
+
+<a id="claim-t-204146"></a>
+- t-002
+  teiginys: "Medžioklė buvo viena Žygimantą Augustą ir Barborą Radvilaitę vienijusių veiklų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186753
+
+## Santrauka
+
+Žygimantas Augustas su Barbora Radvilaite bent kelioms dienoms kiekvieną mėnesį išvykdavo medžioti. Medžioklė buvo viena Žygimantą Augustą ir Barborą Radvilaitę vienijusių veiklų.
+
+## Citatos
+
+- id: c-186749
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     LDK maršalas Radvila Juodasis, anot
     Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
@@ -63,14 +95,20 @@ Nenurodyta
     bei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo
     19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje
     užtruko kone penkias savaites49.
-  citata_rodoma: ''
+  citata_rodoma: "Žinoma, kad kiekvieną mėnesį Žygimantas Augustas kartu su savo žmona \nBarbora bent kelioms dienoms per mėnesį išvykdavo pamedžioti ir apsisto-\ndavo savo prabangiai renesansiniu stiliumi puoštuose medžioklės dvaruose47. \nAntai net po 1549 m. užsitęsusių Užgavėnių linksmybių valdovas su žmona \nbei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo \n19 d. laiške Radvilai Rudajam pabrėžiama, kad karališkoji pora medžioklėje \nužtruko kone penkias savaites49."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Medžioklė buvo viena Žygimantą Augustą ir Barborą Radvilaitę vienijusių veiklų.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+  pagrindzia:
+    - t-001
+
+- id: c-186753
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     Antai net po 1549 m. užsitęsusių Užgavėnių linksmybių valdovas su žmona
     bei dvariškiais išsiblaivę jau kitą dieną išvyko medžioti48, o 1550 m. rugsėjo
@@ -81,11 +119,11 @@ Nenurodyta
     amžių LDK dvarą50. Neabejotina, kad bendri pomėgiai, tokie kaip medžiok­
     lė, šiame kontekste buvo viena iš Žygimantą Augustą ir Barborą Radvilaitę
     vienijusių veiklų.
-  citata_rodoma: ''
+  citata_rodoma: "Anot Giedrės Mickūnaitės, dailės istorijoje \nmedžioklė neretai suvokiama kaip meilės metafora, todėl su tam tikromis \nišlygomis medžioklės kaip meilės alegoriją galima perkelti į vėlyvųjų Vidur­\namžių LDK dvarą50. Neabejotina, kad bendri pomėgiai, tokie kaip medžiok­\nlė, šiame kontekste buvo viena iš Žygimantą Augustą ir Barborą Radvilaitę \nvienijusių veiklų."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Žygimantas Augustas su Barbora Radvilaite bent kelioms dienoms kiekvieną mėnesį išvykdavo medžioti. Medžioklė buvo viena Žygimantą Augustą ir Barborą Radvilaitę vienijusių veiklų.
+  pagrindzia:
+    - t-002

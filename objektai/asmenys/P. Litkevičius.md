@@ -43,11 +43,27 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
 
 1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose.'
-  šaltinis: Lituanistika-3441-Senkoniu-palivarko-inventorius
+<a id="claim-t-203721"></a>
+- t-001
+  teiginys: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevičius labai smulkiai matavo žemę Senkonių rakto kaimuose, Senkonių ir Ceniškių palivarkuose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186325
+
+## Citatos
+
+- id: c-186325
+  autoriai: "Stasys Pamerneckis; Roberta Sakalauskaitė"
+  šaltinis: "Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius"
+  puslapiai: "PDF 2"
+  indeksas: "Stasys Pamerneckis, Roberta Sakalauskaitė, Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius, PDF 2."
   citata_originali: |
     Žemės matavimai visuo­
     se rakto kaimuose, Senkonių ir Čcntškių pali­
@@ -58,8 +74,10 @@ canonical_biography: "1811 m. Upytės pavieto ribožemių kamarninkas P. Litkevi
     sklypuose, valakais, margais, rykštėmis ir rykš­
     telėmis, santykiu 100 rykštelių = 1 rykštei, 300
     rykščių = 1 margui
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

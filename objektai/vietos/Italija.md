@@ -272,6 +272,19 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - c-184123
 
+<a id="claim-t-204288"></a>
+- t-013
+  teiginys: "LDK bajorai gerdavo iš Italijos importuotą vyną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
+  pagrindžia:
+    - c-186935
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
@@ -540,6 +553,30 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+
+- id: c-186935
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 11"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 11."
+  citata_originali: |
+    Vis dėlto XVI a.
+    midaus (kaip ir atvežtinio vyno) smuklėse
+    buvo parduodama mažiau nei alaus ar
+    degtinės152. Įdomu, kad Mykolas Lietuvis,
+    kalbėdamas apie vartojamus gėrimus, mi­
+    daus visai nepamini, tačiau pasakoja, kad
+    lietuviai geria daugelio rūšių vyną153.
+    LDK bajorai gerdavo vynus, importuotus
+    iš Vengrijos, Italijos, Prancūzijos, Ispanijos
+    bei kitų šalių miestų154.
+  citata_rodoma: "LDK bajorai gerdavo vynus, importuotus \niš Vengrijos, Italijos, Prancūzijos, Ispanijos \nbei kitų šalių miestų154."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]]

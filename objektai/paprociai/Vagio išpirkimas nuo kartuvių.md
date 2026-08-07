@@ -39,21 +39,41 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203694"></a>
+- t-001
+  teiginys: "Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186298
+
+## Santrauka
+
+Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų.
+
+## Citatos
+
+- id: c-186298
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 20"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 20."
   citata_originali: |
     Tuo tarpu Trečiasis Statutas uždraudė
     nuteistuosius imti į amžiną nelaisvę191. Mirties bausme nuteistą vagį nuo kartuvių buvo
     galima išpirkti192. Tačiau išsipirkęs arba išprašytas globėjų bajoras netekdavo garbės ir
     bajoriškų privilegijų193.
-  citata_rodoma: ''
+  citata_rodoma: "Mirties bausme nuteistą vagį nuo kartuvių buvo \ngalima išpirkti192. Tačiau išsipirkęs arba išprašytas globėjų bajoras netekdavo garbės ir \nbajoriškų privilegijų193."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų.
+  pagrindzia:
+    - t-001

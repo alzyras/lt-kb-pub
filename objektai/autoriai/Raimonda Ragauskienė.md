@@ -44,11 +44,28 @@ Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augu
 
 Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204156"></a>
+- t-001
+  teiginys: "Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186760
+
+## Citatos
+
+- id: c-186760
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 2"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 2."
   citata_originali: |
     Itin vertingi šio straipsnio tikslui pasiekti
     Radvilų giminę tyrinėjusių istorikų darbai. Bene svarbiausias − Raimondos Ra-
@@ -60,8 +77,10 @@ Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augu
     detaliai analizuojami abipusio susirašinėjimo intensyvumo, komunikacijos
     technikos, laiškų formos, Radvilos Rudojo šeimos ir politinių reikalų aspektai,
     gilinamasi į Radvilos Rudojo charakterio savybes.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

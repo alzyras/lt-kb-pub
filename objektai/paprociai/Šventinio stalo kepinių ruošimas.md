@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. LDK bajorų šventiniam stalui iš kvietinių miltų kepdavo pyragaičius, raguolius, meduolius, riestainius, bandeles ir tortus.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204324"></a>
+- t-001
+  teiginys: "XVI a. LDK bajorų šventiniam stalui iš kvietinių miltų kepdavo pyragaičius, raguolius, meduolius, riestainius, bandeles ir tortus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186913
+
+## Santrauka
+
+XVI a. LDK bajorų šventiniam stalui iš kvietinių miltų kepdavo pyragaičius, raguolius, meduolius, riestainius, bandeles ir tortus.
+
+## Citatos
+
+- id: c-186913
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 7"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 7."
   citata_originali: |
     LDK baltą duoną valgė aukščiausias visuo­
     menės sluoksnis – valdovas87, vyskupai88,
@@ -56,11 +76,11 @@ Nenurodyta
     šventiniam stalui iš kvietinių miltų būdavo
     kepami pyragaičiai, raguoliai, meduoliai,
     riestainiai92, bandelės bei tortai93.
-  citata_rodoma: ''
+  citata_rodoma: "Kasdienis \nbajorų valgis buvo ir košės, verdamos iš \nmiežių ir avižų kruopų, grikių bei žirnių, \no retkarčiais ir sorų91. Tačiau paprastai tik \nšventiniam stalui iš kvietinių miltų būdavo \nkepami pyragaičiai, raguoliai, meduoliai, \nriestainiai92, bandelės bei tortai93."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. LDK bajorų šventiniam stalui iš kvietinių miltų kepdavo pyragaičius, raguolius, meduolius, riestainius, bandeles ir tortus.
+  pagrindzia:
+    - t-001

@@ -46,11 +46,31 @@ canonical_biography: "1754 m. Puškarnioje esantį dvarelį prievarta siekė per
 
 1754 m. skunde teigta, kad Vyžuonų klebonas Kazimieras Ignotas Lukaševičius siekė prievarta perimti Breslaujos dekano Inocento Honesčio dvarelį Puškarnioje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1754 m. skunde teigta, kad Vyžuonų klebonas Kazimieras Ignotas Lukaševičius siekė prievarta perimti Breslaujos dekano Inocento Honesčio dvarelį Puškarnioje.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203831"></a>
+- t-001
+  teiginys: "1754 m. skunde teigta, kad Vyžuonų klebonas Kazimieras Ignotas Lukaševičius siekė prievarta perimti Breslaujos dekano Inocento Honesčio dvarelį Puškarnioje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti dvarelio savininkas, klebono pareigos ir skundo kontekstas. Papildomų aplinkybių, kurių nėra citatoje, nepridėta."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186435
+
+## Citatos
+
+- id: c-186435
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 7"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 7."
   citata_originali: |
     Pvz., 1754 m. skunde minėta, kad
     Breslaujos dekanas Inocentas Honestis (Inocenty Honesty) iškvietė teismo pareigūną vaznį,
@@ -58,8 +78,10 @@ canonical_biography: "1754 m. Puškarnioje esantį dvarelį prievarta siekė per
     klebonas Kazimieras Ignotas Lukaševičius (Kazimierz Ignacy Łukaszewicz). Klebonas
     vadovavosi kontumaciniu asesorių teismo sprendimu, bet, matyt, dėl jo buvo kilę tam
     tikrų nesklandumų, nes teismo pareigūnas buvo atvykęs ginti I. Honesčio interesų.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

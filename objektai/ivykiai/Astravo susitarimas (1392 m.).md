@@ -46,20 +46,43 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1392 m. Astravo dokumentu Vytautas įsipareigojo būti ištikimas Jogailai, o mainais gavo teises valdyti Trakų ir Lucko kunigaikštystes.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204044"></a>
+- t-001
+  teiginys: "1392 m. Astravo dokumentu Vytautas įsipareigojo būti ištikimas Jogailai, o mainais gavo teises valdyti Trakų ir Lucko kunigaikštystes."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas dokumento veiksmas ir jo rezultatas. Pridėta tik šaltinyje aiškiai nurodyta sąlyga dėl kunigaikštysčių valdymo."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186648
+
+## Santrauka
+
+1392 m. Astravo dokumentu Vytautas įsipareigojo būti ištikimas Jogailai, o mainais gavo teises valdyti Trakų ir Lucko kunigaikštystes.
+
+## Citatos
+
+- id: c-186648
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
   citata_originali: |
     Panašaus
     pobūdžio buvo ir 1392 m. Astravo dokumentas, kuriuo Vytautas pažadėjo išti-
     kimybę Jogailai, už tai gaudamas teises valdyti Trakų ir Lucko kunigaikštystes.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1392 m. Astravo dokumentu Vytautas įsipareigojo būti ištikimas Jogailai, o mainais gavo teises valdyti Trakų ir Lucko kunigaikštystes.
+  pagrindzia:
+    - t-001

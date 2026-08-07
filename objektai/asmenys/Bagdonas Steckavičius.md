@@ -43,17 +43,38 @@ canonical_biography: "1558 m. valdovo privilegijoje dvaro stalininkui Bagdonui S
 
 1558 m. valdovo privilegijoje dvaro stalininkui Bagdonui Steckavičiui buvo suteiktos tarnybos leno teise.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1558 m. valdovo privilegijoje dvaro stalininkui Bagdonui Steckavičiui buvo suteiktos tarnybos leno teise.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204070"></a>
+- t-001
+  teiginys: "1558 m. valdovo privilegijoje dvaro stalininkui Bagdonui Steckavičiui buvo suteiktos tarnybos leno teise."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1558 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys tiksliai nurodo Bagdono Steckavičiaus pareigas, privilegiją ir tarnybų suteikimą leno teise. Papildomi šaltinio duomenys neįtraukti."
+  pagrindžia:
+    - c-186674
+
+## Citatos
+
+- id: c-186674
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Pavyzdžiui, 1558 m. valdovo privilegijoje dvaro stalininkui Bag-
     donui Steckavičiui suteikiamos tarnybos „leno teise" (правом ленным)
     45.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

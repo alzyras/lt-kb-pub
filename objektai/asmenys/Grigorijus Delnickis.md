@@ -43,19 +43,41 @@ canonical_biography: "Vaznio ir gerųjų žmonių vizito dieną Grigorijus Delni
 
 1585 m. Jono Zareckio byloje Grigorijus Delnickis vaznio ir gerųjų žmonių vizito dieną buvo išvykęs iš dvaro.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1585 m. Jono Zareckio byloje Grigorijus Delnickis vaznio ir gerųjų žmonių vizito dieną buvo išvykęs iš dvaro.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203786"></a>
+- t-001
+  teiginys: "1585 m. Jono Zareckio byloje Grigorijus Delnickis vaznio ir gerųjų žmonių vizito dieną buvo išvykęs iš dvaro."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkyta didžiosios raidės vartosena ir pridėtas šaltinyje nurodytas bylos kontekstas, nekeičiant įvykių reikšmės."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186390
+
+## Citatos
+
+- id: c-186390
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Panašus atvejis aptinkamas 1585 m.
     Upytės pavieto žemininko Jono Zareckio byloje prieš kitą
     žemininką Grigorijų Delnickį. Pats ponas Delnickis vaznio
     ir kitų gerųjų žmonių vizito dieną buvo išvykęs iš dvaro,
     o jo pavaldinys atsisakė vykdyti teismo nuosprendį.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

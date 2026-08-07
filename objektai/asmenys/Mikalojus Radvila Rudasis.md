@@ -173,6 +173,47 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   pagrindžia:
     - c-42143
 
+<a id="claim-t-204121"></a>
+- t-009
+  teiginys: "1548 m. Žygimantas Augustas leido Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad šis galėtų nusiųsti žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas sakinys ir išlaikytas aiškus leidimo tikslas. Neutraliai perteiktas šaltinio faktas, nepridedant autoriaus interpretacijos apie pareigūno vaidmenį."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186770
+
+<a id="claim-t-204144"></a>
+- t-010
+  teiginys: "Toma Zarankaitė LDK didžiojo medžioklio pareigybės suteikimą Mikalojui Radvilai Rudajam vertina kaip jo medžioklės įgūdžių įvertinimą ir pirminį karjeros etapą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186730
+
+<a id="claim-t-204178"></a>
+- t-011
+  teiginys: "Po Mikalojaus Radvilos Rudojo mirties didžiojo LDK medžioklio pareigybę išlaikė Valavičiai, Naruševičiai ir Radvilos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186742
+
 ## Citatos
 
 - id: c-42142
@@ -318,6 +359,80 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-186730
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 14"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 14."
+  citata_originali: |
+    Oberjagermeister) atsiradimas
+    palengvino valdovo pastangas apriboti savavališką miškų bei medžioklės plotų
+    naikinimą, nes minėtųjų pareigūnų dispozicijoje atsidūrė visos tuo metu LDK
+    valdovui priklausiusios girios.
+    Didžiausias valdovo medžioklių rengimo krūvis tekdavo medžiokliams (ru-
+    sėn. ловчий, lenk. łowczy, lot. venator), hierarchiškai priklausomiems nuo
+    didžiųjų medžioklių, kurie šios pramogos metu buvo šalia valdovo ir vadovavo
+    medžioklės eigai, o rengiant medžiokles prisiimdavo atsakomybę už pasiren-
+    gimo veiksmų koordinavimą bei socialinius klausimus.
+    LDK didžiojo medžioklio pareigybės suteikimas Mikalojui Radvilai Ruda-
+    jam buvo reikšmingas jo medžioklės įgūdžių įvertinimas ir pirminis karjeros
+    etapas, daręs įtaką tolimesniam santykiui su valdovu, taip pat suteikęs išskirti-
+    nes medžioklės teises, deklaravusias ne vien valdovo palankumą ir draugystę,
+    bet ir teikusias realios ekonominės naudos.
+  citata_rodoma: "LDK didžiojo medžioklio pareigybės suteikimas Mikalojui Radvilai Ruda-\njam buvo reikšmingas jo medžioklės įgūdžių įvertinimas ir pirminis karjeros \netapas, daręs įtaką tolimesniam santykiui su valdovu, taip pat suteikęs išskirti-\nnes medžioklės teises, deklaravusias ne vien valdovo palankumą ir draugystę, \nbet ir teikusias realios ekonominės naudos."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-186742
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 15"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 15."
+  citata_originali: |
+    Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai
+    klausimais. Nusistovėjusios didžiųjų LDK medžioklių pareigos ir funkcijos iki
+    XVI a. pabaigos nekito, o pareigybės reikšmė išliko tokia pat svarbi. Po didžio-
+    jo LDK medžioklio Mikalojaus Radvilos Rudojo, kurį su valdovu visų pirma
+    siejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę
+    ir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt.,
+    „paveldėdamos“ ją iš savo giminaičių.
+  citata_rodoma: "Po didžio-\njo LDK medžioklio Mikalojaus Radvilos Rudojo, kurį su valdovu visų pirma \nsiejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę \nir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt., \n„paveldėdamos“ ją iš savo giminaičių."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-186770
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Žinoma, kad 1548 m. valdovas
+    Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me-
+    džioti valdovui priklausančiose giriose, kad jis galėtų nusiųsti sumedžiotos
+    žvėrienos Barborai Radvilaitei į Vilnių45. Šis minėtas atvejis atskleidžia, kad
+    Mikalojaus Radvilos Rudojo, kaip pagrindinio LDK medžioklės ūkį prižiū-
+    rinčio pareigūno ir valdovo svainio, vaidmuo šioje vietoje tarytum persipi-
+    na. Viena vertus, išskirtinė teisė medžioti pabrėžia LDK didžiojo medžioklio
+    regalijas, kita vertus, jų pagrindą galime apčiuopti draugiškame valdovo ir
+    didiko ryšyje.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Mikalojus Radvila Rudasis rėmė [[objektai/grupes/Vilniaus pirkliai]]

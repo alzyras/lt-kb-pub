@@ -257,6 +257,19 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   pagrindžia:
     - c-179386
 
+<a id="claim-t-204026"></a>
+- t-012
+  teiginys: "Jogailos ginče su Mazovijos kunigaikščiais Vytautas nepritarė reikalavimui kiekvienam Mazovijos kunigaikščiui asmeniškai prisiekti; karaliui prisiekė tik dinastijos vyresnysis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186630
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
@@ -610,6 +623,25 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-186630
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Feodalinės leno teisės principų išmanymą Vytautas parodė ir Jogailos ginče su
+    Mazovijos kunigaikščiais, kai pasisakė prieš reikalavimą asmeniškai prisiekti
+    kiekvienam Mazovijos kunigaikščiui. Buvo pasitenkinta tik dinastijos vyresniojo
+    priesaika karaliui
+    25.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Konradas]]

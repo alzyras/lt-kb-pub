@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVII amžius"
 periodo_pradzia: 1601
 periodo_pabaiga: 1700
-periodo_objektu_skaicius: 947
+periodo_objektu_skaicius: 958
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 947.
+Objektų skaičius: 958.
 
 ## Susiję objektai
 
@@ -36,8 +36,10 @@ Objektų skaičius: 947.
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
 - [[objektai/asmenys/G. Braunas]]
+- [[objektai/asmenys/Grigalius Zakarevičius]]
 - [[objektai/asmenys/Gustavas Adolfas]]
 - [[objektai/asmenys/Horacijus]]
+- [[objektai/asmenys/Ilevičius (valdovas, XVII a.)]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
 - [[objektai/asmenys/J. Radvila]]
 - [[objektai/asmenys/J. Sobieskis]]
@@ -48,6 +50,7 @@ Objektų skaičius: 947.
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jonas Kazimieras]]
+- [[objektai/asmenys/Jonas Kojalavičius]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Jonas Leonas Oziębłowskis]]
 - [[objektai/asmenys/Jonas Neliubovičius]]
@@ -56,6 +59,7 @@ Objektų skaičius: 947.
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/asmenys/Karolis XII]]
+- [[objektai/asmenys/Kazimieras Jonas Sapiega]]
 - [[objektai/asmenys/Kazimieras Kojalavičius]]
 - [[objektai/asmenys/Ketleris]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
@@ -624,6 +628,7 @@ Objektų skaičius: 947.
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/ivykiai/Fredos palivarko byla (1614 m.)]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
@@ -704,6 +709,9 @@ Objektų skaičius: 947.
 - [[objektai/saltiniai/1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas]]
 - [[objektai/saltiniai/1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu]]
 - [[objektai/saltiniai/1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus]]
+- [[objektai/saltiniai/1604 m. gegužės 24 d. Žygimanto Vazos privilegija Albertui Beinartui]]
+- [[objektai/saltiniai/1611 m. vasario 1 d. Zigmanto Vazos privilegija Jurgiui Knebeliui]]
+- [[objektai/saltiniai/1625 m. Grigaliaus Zakarevičiaus testamentas]]
 - [[objektai/saltiniai/1630 m. testamentas su šešiais antspaudais]]
 - [[objektai/saltiniai/1654 m. asesorių sprendimas ir karaliaus raštas dėl ginčo su Vilniaus magistratu]]
 - [[objektai/saltiniai/1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m]]
@@ -887,6 +895,7 @@ Objektų skaičius: 947.
 - [[objektai/saltiniai/Vilniaus kapitulos 1581 m. Jus Patronatus perleidimo aktas]]
 - [[objektai/saltiniai/Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė]]
 - [[objektai/saltiniai/Vladislovo Vazos ir Jono Kazimiero konfirmacinės privilegijos Kauno miestui (1633 m. ir 1649 m.)]]
+- [[objektai/saltiniai/VUB, f. 7, 1604–1610 m. Kauno magistrato aktų knyga]]
 - [[objektai/saltiniai/Vytauto jaunystė ir jo veikimas iki 1392 m]]
 - [[objektai/saltiniai/Vytauto privilegija Lietuvos žydams]]
 - [[objektai/saltiniai/W. Goyski, Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404]]
@@ -904,9 +913,11 @@ Objektų skaičius: 947.
 - [[objektai/saltiniai/Z. Ivinskis, Raciąžo taika]]
 - [[objektai/saltiniai/Z. Ivinskis, Salyno taika]]
 - [[objektai/saltiniai/Zeller, Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen]]
+- [[objektai/saltiniai/Zigmanto Vazos privilegija Jurgiui Knebeliui]]
 - [[objektai/saltiniai/Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500]]
 - [[objektai/saltiniai/Šv. Jono Akademijos Spaustuvės kronika]]
 - [[objektai/saltiniai/Žygimanto Senojo privilegija Jokūbui Šukui (1534 m.)]]
+- [[objektai/saltiniai/Žygimanto Vazos privilegija Albertui Beinartui]]
 - [[objektai/saltiniai/Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai]]
 - [[objektai/saltiniai/Пашуто В. Т. Христбургский (Кишпорский) договор 1249 г. как исторический источник]]
 

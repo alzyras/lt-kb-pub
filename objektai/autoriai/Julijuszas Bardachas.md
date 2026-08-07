@@ -35,19 +35,37 @@ Julijuszas Bardachas tyrė romėnų teisės ir humanizmo įtaką Lietuvos Statut
 
 Julijuszas Bardachas tyrė romėnų teisės ir humanizmo įtaką Lietuvos Statutams, o jo nuomone, bausmių pokyčiai juose atspindėjo humanizmo ir vėlyvojo feodalizmo susidūrimą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Julijuszas Bardachas tyrė romėnų teisės ir humanizmo įtaką Lietuvos Statutams, o jo nuomone, bausmių pokyčiai juose atspindėjo humanizmo ir vėlyvojo feodalizmo susidūrimą.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203704"></a>
+- t-001
+  teiginys: "Julijuszas Bardachas tyrė romėnų teisės ir humanizmo įtaką Lietuvos Statutams, o jo nuomone, bausmių pokyčiai juose atspindėjo humanizmo ir vėlyvojo feodalizmo susidūrimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186308
+
+## Citatos
+
+- id: c-186308
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 5"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 5."
   citata_originali: |
     Daug dėmesio romėnų teisės ir humanizmo idėjų įtakai Lietuvos
     Statutams skyrė lenkų istorikas Julijuszas Bardachas33. Jo nuomone, bausmių už kai ku-
     riuos nusikaltimus švelninimas, mirties bausmės įvedimas už nužudymą nepriklausomai
     nuo nužudytojo ir žmogžudžio socialinio sluoksnio, o kartu mirties bausmės griežtinimas
     Statutuose atspindėjo humanizmo idėjų ir vėlyvojo feodalizmo susidūrimą34.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

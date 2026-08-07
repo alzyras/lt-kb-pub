@@ -39,11 +39,43 @@ media_all_json: |-
 
 1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti. Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204375"></a>
+- t-001
+  teiginys: "1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1439 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo ir priežasties ryšys, o šaltinio fragmentiška formuluotė pakeista į vientisą sakinį."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186979
+
+<a id="claim-t-204376"></a>
+- t-002
+  teiginys: "Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186980
+
+## Citatos
+
+- id: c-186979
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 18 (PDF 10)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 18 (PDF 10)."
   citata_originali: |
     Švitrigaila laiške Didžiajam magistrui teigė, kad pa­
     siuntinybės klausimą spręs Trakuose su ten susirinksiančia „mūsų pilnąja
@@ -57,14 +89,19 @@ media_all_json: |-
     kęs Žygimantas Kęstutaitis teigė negalįs pasiuntinių priimti, nes šalia dar
     neturįs savo tarybos ir tik ruošiasi ją sukviesti
     2 1.
-  citata_rodoma: ''
+  citata_rodoma: "Šaltiniai kartais leidžia žvilgte­\nlėti ir į tokių pasitarimų rengimo mechanizmą, iš kurio matyti, kad bent jau \nsvarbesniais atvejais didžiosios tarybos sušaukimas buvo būtinas. 1439 m. \nrugsėjį Trakuose rezidavęs ir Ordino bei Romos karaliaus pasiuntinių lau­\nkęs Žygimantas Kęstutaitis teigė negalįs pasiuntinių priimti, nes šalia dar \nneturįs savo tarybos ir tik ruošiasi ją"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-001
+
+- id: c-186980
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 20 (PDF 12)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 20 (PDF 12)."
   citata_originali: |
     Beje, jį
     jautė ir LDK didikai, kviesdami Kazimierą dažniau lankytis jų krašte
@@ -76,8 +113,11 @@ media_all_json: |-
     pamažu valdovo tarybos sąvoką išstumia „Lietuvos Didžiosios Kuni­
     gaikštystės tarybos" (sinonimiškai taip pat Ponų tarybos) sąvoka ir sam­
     prata.
-  citata_rodoma: ''
+  citata_rodoma: "Viduramžių valstybėje viską ko­\nordinuojančio valdovo asmens nebuvimas skatino Didžiojo kunigaikš­\nčio tarybos funkcijų išaugimą ir jos tolesnę institucionalizaciją, bet jau \nkita, - Ponų tarybos forma\n2 8. Neatsitiktinai būtent tuo metu atsiranda ir \npamažu valdovo tarybos sąvoką išstumia „Lietuvos Didžiosios Kuni­\ngaikštystės tarybos\" (sinonimiškai taip pat Ponų tarybos) sąvoka ir sam­\nprata"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

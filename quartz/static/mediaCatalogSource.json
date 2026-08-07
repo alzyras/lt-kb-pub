@@ -261217,6 +261217,2034 @@
       "visualEvidence": "Matomas XIX a. portretas: visu ūgiu nufotografuotas vyras sėdi ant kėdės, vilki tamsius oficialius drabužius ir laiko ranką užantyje.",
       "visualReviewVersion": "media-visual-validator-v2",
       "width": null
+    },
+    {
+      "attribution": "La Pologne, historique, littéraire, monumentale et pittoresque... T. 2. Paris, 1837-1838. Tabl. m.s. 68-69.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg",
+      "caption": "Vytauto Didžiojo XIX a. portretinė graviūra",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "between 1837 and 1838 date QS:P571,+1837-00-00T00:00:00Z/8,P1319,+1837-00-00T00:00:00Z/9,P1326,+1838-00-00T00:00:00Z/9",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T02:15:23.659466+03:00",
+      "height": 4433,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Užrašas pačiame vaizde tiesiogiai sutampa su target vardu, titulu ir gyvenimo datomis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-35077b2615b9697b59f18d18",
+      "metadataEvidence": "Pavadinimas ir aprašas nurodo Vytautą Didįjį; data 1837–1838 m.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.209300+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks without Wikidata item",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Engravings in the National Library in Warsaw",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Leonard Chodźko",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in art",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "graviūra",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "graviūra"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg",
+      "visualEvidence": "Po portretu užrašyta „Alexandre Witold, Grand Duc de Lituanie, 1350-1430“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 3287
+    },
+    {
+      "attribution": "Muzeum Narodowe w Warszawie. DI 31543 MNW.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg",
+      "caption": "Vytautas Didysis, Aleksandro Lesserio istorinis piešinys, XIX a.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Aleksander Lesser",
+      "dateDisplay": "between 1830 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1830-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.900694+03:00",
+      "height": 697,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Tiesioginis istorinis Vytauto Didžiojo atvaizdas.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-91da24b2fe281b6c2a89696a",
+      "metadataEvidence": "Pavadinime ir apraše nurodyta „Vitaŭt Vialiki“ ir „Vytautas the Great“; kūrėjas Aleksander Lesser.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "painting_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "painting_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.236180+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Coat of arms of Duchy of Trakai",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Coat of arms of Vytautas",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Coat of arms of the Smolensk land 1404—1507",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Coats of arms of Trakai Voivodeship (1413-1795)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Seals of Vytautas the Great",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg",
+      "tags": [
+        {
+          "code": "paveikslėlis",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg",
+      "visualEvidence": "Sėdintis karūnuotas valdovas su vėliava, skydais ir Vyčio tipo heraldika.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 800
+    },
+    {
+      "attribution": "Biblioteka Narodowa",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg",
+      "caption": "Vytautas Didysis, XIX a. istorinis portretas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "19 th century date QS:P571,+1850-00-00T00:00:00Z/7",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.902091+03:00",
+      "height": 10074,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Užrašas ir metaduomenys aiškiai identifikuoja Vytautą Didįjį.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-3cf550452aee94802aa495df",
+      "metadataEvidence": "Pavadinimas nurodo „Vitaŭt Vialiki / Вітаўт Вялікі“, aprašas teigia, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo atvaizdas.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.198271+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks without Wikidata item",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Engravings in the National Library in Warsaw",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in art",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg",
+      "visualEvidence": "Matomas karūnuotas valdovas su šarvais, apsiaustu, kalaviju ir užrašu apačioje „WYTOLD W. K. L.“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 6848
+    },
+    {
+      "attribution": "Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 12.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg",
+      "caption": "1885 m. atkurtas Vytauto Didžiojo atvaizdas pagal 1578 m. Guagnini ikonografiją.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "1885",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.897157+03:00",
+      "height": 622,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas tiesiogiai vaizduoja konkretų target.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-25a52d83da16bb71dce53621",
+      "metadataEvidence": "Pavadinime ir aprašyme tiesiogiai nurodytas Vytautas Didysis bei Guagnini ikonografinis šaltinis.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:23:39.870466+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "16th-century fur fashion",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Military fur clothing in art",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in engravings",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "knyga",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "knyga"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg",
+      "visualEvidence": "Matomas šarvuotas valdovas su šalmu, plunksnomis, skeptru ir kardu.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": 531
+    },
+    {
+      "attribution": "Lwowianin. 1837, T. 1. Tabl. m. s. 50-51.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg",
+      "caption": "Vytauto Didžiojo portretas, Alojzy Tomaszewski, XIX a.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Alojzy Tomaszewski",
+      "dateDisplay": "1840 date QS:P571,+1840-00-00T00:00:00Z/9",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.900475+03:00",
+      "height": 5561,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Vaizdas ir įrašas tiesiogiai identifikuoja Vytautą Didįjį.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-ab0b3bb8379a2cf0c44289f8",
+      "metadataEvidence": "Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, kūrėjas Alojzy Tomaszewski, data XIX a.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.187642+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks without Wikidata item",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Engravings in the National Library in Warsaw",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in engravings",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg",
+      "visualEvidence": "Matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi; apačioje įrašyta „Witold Wielki książę Litewski“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 3659
+    },
+    {
+      "attribution": "Bernardo Zaydler. Storia della Polonia. Florencija, 1831",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg",
+      "caption": "Vytautas Didysis, 1831 m. portretinis atvaizdas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "1831",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.902699+03:00",
+      "height": 3911,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Vardas, Lietuvos herojaus įvardijimas ir metaduomenys aiškiai rodo Vytautą.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-bd5ab71ba61450749fdfcce7",
+      "metadataEvidence": "Pavadinimas ir aprašas nurodo Vytautą Didįjį; tekstas vaizde itališkai sieja „Vitoldo“ su Lietuva.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.200042+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in engravings",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "litografija",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "litografija"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg",
+      "visualEvidence": "Matomas šarvuotas profiliu vaizduojamas valdovas su plunksnuotu šalmu; apačioje įskaitomas „Vitoldo“ ir „Eroe della Lituania“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 2348
+    },
+    {
+      "attribution": "Gabinet Rycin Biblioteki Uniwersyteckiej w Warszawie. Inw.zb.d. 10400.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg",
+      "caption": "Scena su Vytautu Didžiuoju prie totorių pasiuntinių, Franciszek Smuglewicz, 1786 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Franciszek Smuglewicz",
+      "dateDisplay": "1786",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T02:15:23.663334+03:00",
+      "height": 1500,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Scena ir įrašas aiškiai vaizduoja Vytautą, todėl ryšys su target yra tiesioginis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-9271846f686d86ef49142b33",
+      "metadataEvidence": "Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Franciszek Smuglewicz, data 1786 m.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "depicts",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "depicts",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.231296+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Franciszek Smuglewicz",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in art",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg",
+      "tags": [
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "diplomatas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "diplomatas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "scena",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "scena"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg",
+      "visualEvidence": "Palapinės scenoje matomas šarvuotas stovintis valdovas ir kiti asmenys; apačioje rankraštinis tekstas prasideda „Roku 1390. Witold W.X.L...“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 2221
+    },
+    {
+      "attribution": "Kronika Sarmacyey Europskiey, w Ktorey Sie Zamyka krolestwo Polskie ze wszystkiemi Państwy, Xięstwy, y Prowincyami swemi: tudzież też Wielkie Xięstwo Lithew: Ruskie, Pruskie, Zmudzkie, Inflantskie, Moskiewskie, y część Tatarow. Przez Alexandra Gwagnina z Werony ... W Krakowie, w Drukarni Mikołaia Loba, Roku Pańskiego 1611.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg",
+      "caption": "Vytauto Didžiojo atvaizdas iš Alessandro Guagnini tradicijos, 1611 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Alessandro Guagnini",
+      "dateDisplay": "1611",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.900274+03:00",
+      "height": 1023,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Istorinis portretinis atvaizdas aiškiai identifikuotas kaip Vytautas.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-1e708d0a5620d5a9bf639d0d",
+      "metadataEvidence": "Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, kūrėjas Alessandro Guagnini, data 1611 m.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:17:30.226352+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Male fur capes in art",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in engravings",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "karyba",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "karyba"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg",
+      "visualEvidence": "Karūnuotas šarvuotas valdovas medalione, laikantis vėliavos kotą ir skeptrą ar buožę.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 1066
+    },
+    {
+      "attribution": "Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+      "caption": "Alessandro Guagnini 1578 m. Vytauto Didžiojo atvaizdas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Alessandro Guagnini",
+      "dateDisplay": "1578",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.898607+03:00",
+      "height": 2571,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas tiesiogiai vaizduoja konkretų target.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-484ab5f62e4a960c1d978db8",
+      "metadataEvidence": "Pavadinime bei aprašyme tiesiogiai nurodytas Vytautas Didysis ir 1578 m. Guagnini šaltinis.",
+      "originalTitle": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:23:39.861712+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "15th-century fur fashion",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Male uniform pelisses in art",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Sarmatiae Europeae descriptio",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Vytautas the Great in engravings",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "knyga",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "knyga"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+      "title": "Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg",
+      "visualEvidence": "Matomas šarvuotas valdovas su šalmu, plunksnomis, skeptru ir kardu.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": 2568
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/KPCPBF41Ap3Nr349",
+      "caption": "Vytauto Didžiojo medalis, 1930 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "P. Rimša",
+      "dateDisplay": "1959",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:20:48.484083+03:00",
+      "height": null,
+      "institution": "Heritage Conservation Library of the Cultural Heritage Center",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Vaizdas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.",
+      "language": "",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "mediaId": "m-bedd635657c08dd8b0b509d8",
+      "metadataEvidence": "Pavadinimas ir aprašymas nurodo, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo 1930 m. bronzinis medalis.",
+      "originalTitle": "Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza",
+      "provider": "europeana",
+      "providerLabel": "Europeana",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T00:21:21.402103+03:00",
+      "rightsNote": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        }
+      ],
+      "thumbUrl": "https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg",
+      "title": "Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza",
+      "visualEvidence": "Matosi medalio portretas su valdovo atvaizdu ir aiškiu užrašu „VYTAUTAS DIDYSIS“ bei datomis „1430–1930“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg",
+      "caption": "Vytauto Didžiojo antspaudo atvaizdas, 1385 m.; 1930 m. reprodukcija.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Marian Gumowski",
+      "dateDisplay": "1385, 1930",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:14:02.898362+03:00",
+      "height": 333,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Specifinis Vytauto valdovo antspaudas, ryšys su target tiesioginis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-9d22e349eebbb9f58b1ca524",
+      "metadataEvidence": "Aprašymas tiesiogiai nurodo Vytauto Didžiojo antspaudą; pateiktos 1385 ir 1930 m. datos.",
+      "originalTitle": "Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "seal_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "seal_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:56:26.914478+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg",
+      "tags": [
+        {
+          "code": "antspaudas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "antspaudas"
+        },
+        {
+          "code": "pahonia",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Pahonia"
+        },
+        {
+          "code": "antspaudas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "antspaudas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "dokumentas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "dokumentas"
+        },
+        {
+          "code": "heraldika",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "heraldika"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "sfragistika",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "sfragistika"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "valdovo-antspaudas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovo-antspaudas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg",
+      "title": "Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg",
+      "visualEvidence": "Matomas apskritas antspaudo atvaizdas su Vytauto valdovo simbolika.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": 330
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_724702788",
+      "caption": "Vytauto Didžiojo paveikslo nešimas Palangoje, 1930 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Nežinomas fotografas",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "contextual",
+      "displayUrl": "https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:20:48.484463+03:00",
+      "height": null,
+      "institution": "Samogitian Museum \"Alka\"",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Fotografija tiesiogiai dokumentuoja Vytauto Didžiojo paveikslo viešą nešimą, todėl ryšys aiškus, bet pats pagrindinis objektas yra dokumentuotas įvykis.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "mediaId": "m-c7367f575ad13fe8d4204619",
+      "metadataEvidence": "Pavadinimas ir aprašymas nurodo, kad tai Vytauto Didžiojo paveikslo kelionė per Lietuvą 1930 m.",
+      "originalTitle": "M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą",
+      "provider": "europeana",
+      "providerLabel": "Europeana",
+      "relatedObjects": [
+        {
+          "directness": "contextual",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "event_documentation_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "event_documentation_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T00:21:21.407415+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg",
+      "tags": [
+        {
+          "code": "dokumentas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "dokumentas"
+        }
+      ],
+      "thumbUrl": "https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg",
+      "title": "M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą",
+      "visualEvidence": "Fotografijoje matomas žmonių laikomas stendas su Vytauto portretu, užrašu apie Vytautą ir datomis „1430–1930“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/C1B0004651396",
+      "caption": "Atvirukas su Lietuvos didžiojo kunigaikščio Vytauto Didžiojo portretu.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "https://www.epaveldas.lt/thesaurus/_source/cr6bpy63jer5r28nbxdw3jn",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:20:48.482419+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas yra tiesioginis konkretaus target istorinis portretas.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-359dd4ec749cade04f726b8a",
+      "metadataEvidence": "Pavadinimas kelis kartus tiesiogiai identifikuoja Vytautą Didįjį ir nurodo portretą.",
+      "originalTitle": "Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430",
+      "provider": "europeana",
+      "providerLabel": "Martynas Mažvydas National Library of Lithuania",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:26:27.466284+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "vytauto-ikonografija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Vytauto ikonografija"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC1B0004651396%2Fthumbnail-original%2FC1B0004651396.jpg&type=IMAGE",
+      "title": "Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430",
+      "visualEvidence": "Matomas karūnuotas valdovas su mantija; apačioje įrašyti Vytauto vardas, titulas ir datos 1392–1430.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/LIMIS_675089466",
+      "caption": "Spalvintas atvirukas su Lietuvos didžiojo kunigaikščio Vytauto Didžiojo portretu.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/rokim-bucket/LIMIS-675089466/thumbnail-original/675089487.jpg",
+      "firstDiscoveredAt": "2026-07-11T00:21:32.823974+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tai tiesioginis konkretaus target istorinis atvaizdas.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-ad553c0f66d203e58270d553",
+      "metadataEvidence": "Pavadinime ir apraše tiesiogiai įvardijamas Lietuvos didysis kunigaikštis Vytautas Didysis.",
+      "originalTitle": "Atvirukas „Vytautas Didysis Lietuvos Kunigaikštis, 1391-1430“",
+      "provider": "europeana",
+      "providerLabel": "The Oginski Cultural History Museum of Rietavas",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:26:27.462955+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/rokim-bucket/LIMIS-675089466/thumbnail-original/675089487.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "vytauto-ikonografija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Vytauto ikonografija"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Frokim-bucket%2FLIMIS-675089466%2Fthumbnail-original%2F675089487.jpg&type=TEXT",
+      "title": "Atvirukas „Vytautas Didysis Lietuvos Kunigaikštis, 1391-1430“",
+      "visualEvidence": "Matomas karūnuotas valdovas su mantija, skeptru ir kalaviju; po atvaizdu įrašyta „Vytautas Didysis Lietuvos Kunigaikštis“.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/LIMIS_652688132",
+      "caption": "Vytauto Didžiojo atvaizdas Mstislavo Dobužinskio paveikslo reprodukcijoje, 1930 m. atviruke.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-652688132/thumbnail-original/652688153.jpg",
+      "firstDiscoveredAt": "2026-07-18T21:25:09.395841+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tai tiesioginis konkretaus Vytauto istorinio atvaizdo vaizdas.",
+      "language": "",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseUrl": "",
+      "mediaId": "m-7c76e0a3447da3a1491a7967",
+      "metadataEvidence": "Aprašas tiesiogiai identifikuoja Mstislavo Dobužinskio paveikslo „Vytautas Didysis“ reprodukciją.",
+      "originalTitle": "Atvirukas | Atvirlaiškis",
+      "provider": "europeana",
+      "providerLabel": "Trakai History Museum",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "portrait_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:26:27.471539+03:00",
+      "rightsNote": "http://creativecommons.org/licenses/by/4.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-652688132/thumbnail-original/652688153.jpg",
+      "tags": [
+        {
+          "code": "paveikslėlis",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "vytauto-ikonografija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Vytauto ikonografija"
+        },
+        {
+          "code": "vytauto-jubiliejus",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Vytauto jubiliejus"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "graviūra",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "graviūra"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-652688132%2Fthumbnail-original%2F652688153.jpg&type=TEXT",
+      "title": "Atvirukas | Atvirlaiškis",
+      "visualEvidence": "Matomas karūnuotas valdovas su mantija, šarvais, kalaviju ir skeptru; atviruko apačioje įrašyta „Vytautas Didysis 1430–1930“.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_870504368",
+      "caption": "1936 m. Lietuvos 10 litų moneta su Vytauto Didžiojo atvaizdu.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "contextual",
+      "displayUrl": "https://www.epaveldas.lt/static/tkm-bucket/LIMIS-870504368/thumbnail-original/get.jpg",
+      "firstDiscoveredAt": "2026-07-18T21:25:09.395529+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Konkretus ryšys su target aiškus, bet objektas yra simbolinė monetos reprezentacija.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-adbb1006da8033214865ebab",
+      "metadataEvidence": "Kandidato aprašas tiesiogiai identifikuoja Vytauto Didžiojo atvaizdą 1936 m. 10 litų monetoje.",
+      "originalTitle": "10 litų",
+      "provider": "europeana",
+      "providerLabel": "Tauragė Regional Museum",
+      "relatedObjects": [
+        {
+          "directness": "contextual",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Vytautas.md",
+          "relationType": "coin_depiction_of",
+          "title": "Vytautas (Lietuvos valdovas, XIV–XV a.)"
+        }
+      ],
+      "relationType": "coin_depiction_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T21:26:27.469939+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/tkm-bucket/LIMIS-870504368/thumbnail-original/get.jpg",
+      "tags": [
+        {
+          "code": "moneta",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "moneta"
+        },
+        {
+          "code": "vytauto-ikonografija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "Vytauto ikonografija"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "moneta",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "moneta"
+        },
+        {
+          "code": "pinigai",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "pinigai"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-870504368%2Fthumbnail-original%2Fget.jpg&type=IMAGE",
+      "title": "10 litų",
+      "visualEvidence": "Matomas Vytauto profilio atvaizdas su aplinkiniu įrašu „VYTAUTAS DIDYSIS“.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
     }
   ],
   "schemaVersion": 1

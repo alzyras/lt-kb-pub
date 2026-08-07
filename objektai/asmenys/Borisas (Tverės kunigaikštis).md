@@ -99,6 +99,22 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-176525
 
+<a id="claim-t-204006"></a>
+- t-004
+  teiginys: "1377 m. Podolės kunigaikštis Borisas perėjo tarnauti Vengrijos ir Lenkijos karaliui Liudvikui Anžu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir aiškiai nusako Boriso perėjimą tarnauti Liudvikui Anžu 1377 metais. Sąmoningai neįtrauktos kitos laiške minimos aplinkybės."
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-186610
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
@@ -245,6 +261,24 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-186610
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 5"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 5."
+  citata_originali: |
+    Kad feodaliniai leni-
+    niai ryšiai lietuvių kunigaikščius galėjo sieti su gretimų kraštų valdovais, liudija
+    ir 1377 m. Vengrijos ir Lenkijos karaliaus Liudviko Anžu laiškas, kuriame kara-
+    lius teigė, kad jam tarnauti perėjo Podolės kunigaikščiai Aleksandras ir Borisas
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

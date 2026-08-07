@@ -44,11 +44,45 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
 
 1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų. 1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204067"></a>
+- t-001
+  teiginys: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1460 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Albertą Jonaitį Manvydą, datą ir jo administracinį veiksmą. Papildomų faktų ar atribucijos nereikia."
+  pagrindžia:
+    - c-186671
+
+<a id="claim-t-204068"></a>
+- t-002
+  teiginys: "1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1475 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Alberto Jonaičio Manvydo dalyvavimą ir palydos dydį bei išskirtinumą. Nieko papildomai nepridėta."
+  pagrindžia:
+    - c-186672
+
+## Citatos
+
+- id: c-186671
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 8."
   citata_originali: |
     Didikai skirdavo juos savo dvarų valdytojais (pavyzdžiui, 1490 m. minimas
     Mikalojaus Radvilaičio dvaro pareigūnas - Raigardo valdytojas
@@ -57,22 +91,29 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
     bajorus nustatyti ribų tarp jo ir Vilniaus arkidiakono Motiejaus valdų
     31), iš jų
     sudarydavo būrius karinėms ekspedicijoms.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1475 m. Albertas Jonaitis Manvydas dalyvavo Landshuto vestuvėse su 50 žmonių palyda, kuri išsiskyrė iš kitų Lenkijos ir Lietuvos ponų.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+  pagrindzia:
+    - t-001
+
+- id: c-186672
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 8."
   citata_originali: |
     Antai iš
     vieno Bavarijos hercogų dvare sudaryto išsamaus sąrašo sužinome apie 1475 m.
     Landshuto vestuvėse dalyvavusį Albertą Jonaitį Manvydą, kurio 50 žmonių
     palyda išsiskyrė iš kitų Lenkijos ir Lietuvos ponų
     33.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

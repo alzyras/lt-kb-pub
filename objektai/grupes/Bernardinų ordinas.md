@@ -72,6 +72,19 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   pagrindžia:
     - c-165072
 
+<a id="claim-t-203947"></a>
+- t-003
+  teiginys: "Po išpažinties Stanislovas Butkaitis pasiuntė bernardinų tėvus ir kitus dvasininkus prašyti egzekucijos vykdytojų jo pasigailėti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186551
+
 ## Citatos
 
 - id: c-165072
@@ -152,6 +165,27 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186551
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 8"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 8."
+  citata_originali: |
+    Butkaičio paliudytą mirties bausmės vykdymo istoriją turėtume papildyti dar kelio­
+    mis detalėmis. Jis taip prisiminė tolesnes egzekucijos aplinkybes: „ir kai mes jį atvedėme
+    į rotušę, jis ėmė mūsų prašyti, kad mes jam leistume [atlikti] išpažintį, ir mes jam leidome
+    [atlikti] išpažintį; ir po to jis atsiuntė pas mus tėvus bernardinus ir kitus dvasininkus, pra­
+    šydamas mūsų, kad mes jo pasigailėtume“36. Šiame pasakojimo epizode galime išskirti
+    dvi svarbias lokacijas, susijusias su mirties vykdymo aplinkybe, bei du veiksmus, nulė­
+    musius tolesnius įvykius.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Bernardinų ordinas keliavo į [[objektai/vietos/Vilnius]]

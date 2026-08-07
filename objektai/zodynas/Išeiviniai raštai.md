@@ -28,11 +28,27 @@ Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reik
 
 Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203760"></a>
+- t-001
+  teiginys: "Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reikšmę atvykėlio legalizavimuisi miesto erdvėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186364
+
+## Citatos
+
+- id: c-186364
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
   citata_originali: |
     Gana didelę reikšmę atvykėlio
     legalizavimuisi miesto erdvėje turėjo raštiniai įrodymai,
@@ -44,8 +60,10 @@ Raštiniai įrodymai apie priklausomybės ryšių nebuvimą turėjo didelę reik
     atsisakoma šeimininko pretenzijų į tą konkretų asmenį
     ir pastarasis įgaudavo imunitetą ir nuo šeimininko pavel­
     dėtojų persekiojimo
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

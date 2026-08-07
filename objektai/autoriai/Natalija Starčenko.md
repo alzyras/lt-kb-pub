@@ -43,19 +43,38 @@ Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo 
 
 Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203706"></a>
+- t-001
+  teiginys: "Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186310
+
+## Citatos
+
+- id: c-186310
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     keletą darbų, kuriuose analizuojamas mirties bausmės skyrimas ir vykdymas / nevykdy-
     mas konkrečiose bylose. Tai ukrainiečių istorikės Natalijos Starčenko darbas, kuriame
     analizuojamas teismo procesas kunigaikščių Četvertinskių nužudymo byloje 1576 m.8
     Autorė akcentuoja ryškų skirtumą tarp teisės normų ir visuomenės (riteriško) mentaliteto.
     Eugenijus Saviščevas yra publikavęs 1553 m.
-  citata_rodoma: ''
+  citata_rodoma: "Tai ukrainiečių istorikės Natalijos Starčenko darbas, kuriame \nanalizuojamas teismo procesas kunigaikščių Četvertinskių nužudymo byloje 1576 m.8"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

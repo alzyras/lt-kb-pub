@@ -43,19 +43,38 @@ canonical_biography: "1754 m. Tadas Gurskis buvo Smolensko pavieto iždininkaiti
 
 1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203945"></a>
+- t-001
+  teiginys: "1754 m. Smolensko pavieto iždininkaitis Tadas Gurskis su ginkluotais pagalbininkais užpuolė misionieriams priklausiusį mūrinį namą, kuriame gyveno Volanskių šeima."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186549
+
+## Citatos
+
+- id: c-186549
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
   citata_originali: |
     54 m. Antanas ir Ona Volans-
     kiai (Antoni i Anna Wolańscy) skundė Smolensko pavieto iždininkaitį Tadą Gurskį, nes
     jis su savo pagalbininkais, ginkluotais kardais ir pistoletais, tarp kurių buvo ir Gelvonų
     valdų pavaldinių, užpuolė misionieriams priklausiusį mūrinį namą, kur gyveno ieškovai49.
     T
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

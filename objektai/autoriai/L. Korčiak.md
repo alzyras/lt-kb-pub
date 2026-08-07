@@ -35,11 +35,26 @@ L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės ba
 
 L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės bajorijos atstovavimą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės bajorijos atstovavimą.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204410"></a>
+- t-001
+  teiginys: "L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės bajorijos atstovavimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187014
+
+## Citatos
+
+- id: c-187014
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
   citata_originali: |
     M. Liubavskio nuomone, 1445/1446 m. suvažiavimas žymi
     naują etapą Lietuvos Seimo istorijoje - visuotinio Seimo
@@ -54,8 +69,11 @@ L. Korčiak skeptiškai vertino bandymus šiose sueigose įžvelgti sritinės ba
     mų dalyviai buvo Ponų tarybos nariai, todėl ji skeptiškai vertino bandy­
     mus šiose sueigose įžvelgti atstovavimą sričių bajorijai
     4 2.
-  citata_rodoma: ''
+  citata_rodoma: "Tuo tarpu šių suvažiavimų veikėjais \npasidomėjusi L. Korčiak nustatė, kad visi šaltiniuose minimi pasitari­\nmų dalyviai buvo Ponų tarybos nariai, todėl ji skeptiškai vertino bandy­\nmus šiose sueigose įžvelgti atstovavimą sričių bajorijai\n4 2."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

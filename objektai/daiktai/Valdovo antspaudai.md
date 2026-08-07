@@ -39,11 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo baudžiami smulkiosios bajorijos atstovai, tarp jų – valdovo raštų ir antspaudų klastotojai bei naudotojai.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203987"></a>
+- t-001
+  teiginys: "Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo baudžiami smulkiosios bajorijos atstovai, tarp jų – valdovo raštų ir antspaudų klastotojai bei naudotojai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186591
+
+## Santrauka
+
+Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo baudžiami smulkiosios bajorijos atstovai, tarp jų – valdovo raštų ir antspaudų klastotojai bei naudotojai.
+
+## Citatos
+
+- id: c-186591
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 15"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 15."
   citata_originali: |
     Nuo XV a. vidurio iki XVI a. pirmosios pusės mirties bausmės už valdovo išdavystės
     nusikaltimą „skverbėsi“ į bajorišką LDK visuomenę. XV a. viduryje - XV a. pabaigoje
@@ -53,11 +74,10 @@ Nenurodyta
     kiosios bajorijos atstovų. Tai buvo tiesiogiai susiję su rašto kultūros sklaida administra­
     ciniame valstybės valdymo procese, kadangi didžiausia nubaustųjų dalis buvo valdovo
     raštų arba antspaudų klastotojai ir naudotojai.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo baudžiami smulkiosios bajorijos atstovai, tarp jų – valdovo raštų ir antspaudų klastotojai bei naudotojai.
+  pagrindzia:
+    - t-001

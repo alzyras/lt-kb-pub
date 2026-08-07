@@ -199,6 +199,19 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   pagrindžia:
     - c-184948
 
+<a id="claim-t-204298"></a>
+- t-010
+  teiginys: "Gdansko alus minimas tarp importuotų alaus rūšių, kurios buvo geriamos."
+  atnaujinta: "2026-08-07 11:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186900
+
 ## Citatos
 
 - id: c-24129
@@ -399,6 +412,30 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-186900
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
+  citata_originali: |
+    Lenkijoje139, Anglijoje bei Vokietijoje140,
+    LDK buvo plačiausiai vartojamas gėri­
+    mas – daugiausia juo ir būdavo prekiaujama
+    smuklėse141. Inventorių duomenimis, vie­
+    tinis alus būdavo gaminamas iš kvietinio
+    arba miežinio salyklo142 bei apynių, kurių
+    apsaugojimu nuo nuniokojimo pasirūpinta
+    įvedant už tai sankciją Pirmajame Lietuvos
+    Statute143. Beje, šaltiniai mini ir gertus
+    importuotus vokišką144 bei Gdansko alų145.
+  citata_rodoma: "Beje, šaltiniai mini ir gertus \nimportuotus vokišką144 bei Gdansko alų145."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Vilnius]]

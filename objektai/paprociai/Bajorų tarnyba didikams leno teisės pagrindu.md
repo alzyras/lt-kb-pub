@@ -48,11 +48,57 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204052"></a>
+- t-001
+  teiginys: "XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186656
+
+<a id="claim-t-204053"></a>
+- t-002
+  teiginys: "Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186657
+
+<a id="claim-t-204054"></a>
+- t-003
+  teiginys: "Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186658
+
+## Santrauka
+
+XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius. Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą. Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius.
+
+## Citatos
+
+- id: c-186656
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 10-11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 10-11."
   citata_originali: |
     Po Vytauto mirties valdovo dovanojimų su formule iure feodali XV a. nebe-
     aptinkame. Tačiau XV a. antroje pusėje sąvoka ius feodali pereina į Lietuvos di-
@@ -81,14 +127,19 @@ Nenurodyta
     nyčiai, kuriame teigiama, kad jo Iškoldės dvarui priklausantys bajorai tarnauja
     ex iure feodali
     43
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+  pagrindzia:
+    - t-001
+
+- id: c-186657
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Ten pat nurodyta, kad tie bajorai ir tarnai (boyari et servitores),
     dokumente sugrupuoti pagal tam tikras vietoves (Zuchowiczczi, Thuhanowczy,
@@ -97,14 +148,19 @@ Nenurodyta
     44. Akivaizdu, kad čia turima omenyje kiek anksčiau minėta di-
     dikams tarnaujančių bajorų grupė, kuriai buvo atlyginama žemės valdos sutei-
     kimu.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: 'Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+  pagrindzia:
+    - t-002
+
+- id: c-186658
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Straipsnio pradžioje cituotas 1529 m. Statuto skyrius buvo
     pirmasis ir vienintelis rašytinis šių santykių teisinio reguliavimo atvejis. Iš visko
@@ -113,11 +169,10 @@ Nenurodyta
     feodali vartojimo tradicija išliko iki pat Pirmojo Lietuvos Statuto epochos. Taigi
     sąvokos lenas (feudum) ir vasalas (vassallus) tuo metu apibūdino santykius ne
     tarp didžiojo kunigaikščio ir bajorų, bet tarp didikų ir bajorų.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius. Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą. Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius.
+  pagrindzia:
+    - t-003

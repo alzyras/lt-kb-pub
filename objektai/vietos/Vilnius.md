@@ -6194,6 +6194,201 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindžia:
     - c-183136
 
+<a id="claim-t-203751"></a>
+- t-377
+  teiginys: "1541 m. Polocko vaivadaitis Mikalojus Glebovičius siekė, kad Krokuvoje aptiktas jo pabėgęs pavaldinys būtų atvežtas į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1541 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas, turi aiškų subjektą ir predikatą bei tiksliai apibūdina 1541 m. siekį Vilniuje."
+  vertinimo_atnaujinta: "2026-07-24T08:41:42Z"
+  pagrindžia:
+    - c-186355
+
+<a id="claim-t-203819"></a>
+- t-378
+  teiginys: "Vilnius buvo ir šalies religinio gyvenimo centras."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186423
+
+<a id="claim-t-203820"></a>
+- t-379
+  teiginys: "1754 m. Vilniaus mieste vyko ginčas dėl Puškarnioje esančio dvarelio, kurį prievarta siekė perimti Vyžuonų klebonas Kazimieras Ignotas Lukaševičius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-186424
+
+<a id="claim-t-203821"></a>
+- t-380
+  teiginys: "1724 m. per Dievo Kūno procesiją Vilniuje apie 40 ginkluotų žmonių gauja, vadovaujama Florijono ir Benedikto Grabovskių, užpuolė Augustinų bažnyčią Savičiaus gatvėje."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1724 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti užpuolimo dalyviai, jų skaičius, vadovai, laikas ir vieta. Pašalinta pernelyg bendra pradinė formuluotė."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186425
+
+<a id="claim-t-203823"></a>
+- t-381
+  teiginys: "Maždaug kas trečias Vilniaus namų užpuolimas vykdavo naktį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186427
+
+<a id="claim-t-203824"></a>
+- t-382
+  teiginys: "Vilniuje užpulti ne tik privatūs pastatai, bet ir kulto bei valstybinių institucijų objektai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186428
+
+<a id="claim-t-203961"></a>
+- t-383
+  teiginys: "1503 m. susitaikant Jonui Zaberezinskiui ir kunigaikščiui Mykolui Glinskiui dalyvavo Vilniaus vyskupas Vaitiekus Taboras ir Vilniaus vaivada bei kancleris Mikalojus Radvila."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo 1503 m. įvykį, Vilniuje dalyvavusius asmenis bei jų vaidmenį. Papildomų faktų ar atribucijos nepridėta."
+  pagrindžia:
+    - c-186565
+
+<a id="claim-t-203962"></a>
+- t-384
+  teiginys: "1512 m. žemės iždininkas Abraomas Jezofovičius pranešė apie Vilniuje suimtą Smolensko pirklį Pankratą ir jo perdavimą Vilniaus vaivadai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186566
+
+<a id="claim-t-203963"></a>
+- t-385
+  teiginys: "Dalis 1481 m. sąmokslininkų Vilniuje buvo nubausti netrukus po suėmimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186567
+
+<a id="claim-t-203964"></a>
+- t-386
+  teiginys: "XVII a. viduryje užrašytame pasakojime apie 1481 m. sąmokslą teigiama, kad kunigaikštis Jonas Alšėniškis palaidotas už kelių mylių nuo Vilniaus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "mirties data: 1481 m.; mirties data: apie 1481 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip mirties data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Neutrali formuluotė pakeista į sklandų sakinį, aiškiai priskiriant teiginį XVII a. pasakojimui. Išlaikyta šaltinio atribucija ir nepridėta naujų faktų."
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186568
+
+<a id="claim-t-204030"></a>
+- t-387
+  teiginys: "Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186634
+
+<a id="claim-t-204031"></a>
+- t-388
+  teiginys: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nustatyti ribų tarp savo ir Vilniaus arkidiakono Motiejaus valdų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1460 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo Albertą Jonaitį Manvydą, 1460 metų veiksmą ir ribų nustatymo kontekstą Vilniuje. Neaiškūs šaltinio fragmentai nebuvo papildyti."
+  pagrindžia:
+    - c-186635
+
+<a id="claim-t-204032"></a>
+- t-389
+  teiginys: "1492 m. Sofija Manvydaitė Radvilienė nurodė, kad bajorų nepaklusnumo atveju juos autoritetu sutramdyti turėtų jos vyras Vilniaus vaivada Mikalojus Radvila."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas ir tiksliai perteikia Sofijos Manvydaitės Radvilienės nurodymą bei Vilniaus vaivados vaidmenį. Atribucijos papildomai nereikia."
+  pagrindžia:
+    - c-186636
+
+<a id="claim-t-204118"></a>
+- t-390
+  teiginys: "1548 m. Žygimantas Augustas leido Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus Radvila Rudasis galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeistas neaiškus įvardis aiškiai įvardytu asmeniu. Išlaikytas šaltinyje nurodytas leidimo tikslas ir Vilniaus kontekstas."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186777
+
 ## Reikšmingi paminėjimai
 - c-052
   santrauka: 'Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą.'
@@ -15888,6 +16083,275 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-289
+
+- id: c-186355
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
+  citata_originali: |
+    1541 m. į valdovo teismą kreipėsi Poloc­
+    ko vaivadaitis Mikalojus Glebovičius, pranešdamas, kad
+    savo pabėgusį pavaldinį aptiko viešėdamas Krokuvoje
+    ir siekė, kad pastarasis būtų atvežtas į Vilnių'
+    0.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-377
+
+- id: c-186423
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 1-2"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 1-2."
+  citata_originali: |
+    Nors dauguma bajorų gyveno savo valdose kaimo
+    http://dx.doi.org/10.15823/istorija.2016.08
+
+    ISSN 1392-0456
+    E-ISSN 2029-7181
+    From the Past of the Nation
+    5
+    Istorija / 2016, t. 103, Nr. 3
+    vietovėse, Lietuvos Didžiosios Kunigaikštystės sostinėje jie turėjo nemažai interesų. Čia
+    vykdavo seimeliai, Lietuvos Vyriausiasis Tribunolas ir kiti teismai, bajorai ir dvasininkai
+    spręsdavo, derindavo savo politinius, ekonominius, finansinius ir asmeninius klausimus.
+    Vilnius buvo ir šalies religinio gyvenimo centras
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-378
+
+- id: c-186424
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 7"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 7."
+  citata_originali: |
+    Pavyko rasti kai kurių žinių apie bandy-
+    mus prievarta „atkurti teisingumą“ Vilniaus mieste. Pvz., 1754 m. skunde minėta, kad
+    Breslaujos dekanas Inocentas Honestis (Inocenty Honesty) iškvietė teismo pareigūną vaznį,
+    kadangi teigė, jog jam priklausantį dvarelį Puškarnioje siekė prievarta perimti Vyžuonų
+    klebonas Kazimieras Ignotas Lukaševičius (Kazimierz Ignacy Łukaszewicz).
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-379
+
+- id: c-186425
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 10"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 10."
+  citata_originali: |
+    Pvz., 1724 m. per Dievo Kūno šventės procesiją Vilniuje, Savičiaus gatvėje,
+    buvusią Augustinų (Augustijonų) bažnyčią užpuolė ginkluota apie 40 žmonių gauja,
+    kuriai vadovavo broliai Florijonas ir Benediktas Grabovskiai (Florian i Benedykt Gra-
+    bowscy). Gaują sudarė Lietuvos Vyriausiojo Tribunolo vėliavos kareiviai ir kiti asmenys.
+    Iš pradžių užpuolikai mušė žmones prie bažnyčios esančiose kapinėse, vėliau įsiveržė į
+    bažnyčios vidų, ten šaudė ir smurtavo.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-380
+
+- id: c-186427
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 17"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 17."
+  citata_originali: |
+    Išvados
+    Miesto namų užpuolimas buvo gana retas, ypatingu smurtu neišsiskyręs, tačiau visgi
+    įžūlus bajorų nusikaltimas. Namų užpuolimų Vilniuje per tyrinėjamąjį laikotarpį rasti
+    apie 84 atvejai, maždaug kas trečias šio pobūdžio nusikaltimas vykdavo nakčia.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-381
+
+- id: c-186428
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 17"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 17."
+  citata_originali: |
+    Užpuolami dažniausiai
+    būdavo privatūs pastatai, bet pasitaikydavo ir kulto objektų – Augustinų (Augustijonų)
+    bažnyčios Savičiaus gatvėje, Vilniaus ortodoksų (stačiatikių) vienuolyno – ir valstybinių
+    institucijų pastatų – Vilniaus bokšto kalėjimo bei Vilniaus įgulos – užpuolimų.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-382
+
+- id: c-186565
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 7"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 7."
+  citata_originali: |
+    Pavyzdžiui,
+    1503 m. sutaikant „mirtinai“ susipykusius žemės maršalką Joną Zaberezinskį ir valdovo
+    dvaro maršalką kunigaikštį M. Glinskį dalyvavo Vilniaus vyskupas Vaitiekus Taboras,
+    Vilniaus vaivada ir kancleris Mikalojus Radvila, Trakų kaštelionas ir Žemaitijos seniū­
+    nas Stanislovas Kęsgailą, Smolensko vietininkas Stanislovas Kiška, valdovo maršalka
+    ir Polocko vietininkas Stanislovas Hlebavičius bei valdovo sekretorius Erazmas Ciole-
+    kas.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-383
+
+- id: c-186566
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 8"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 8."
+  citata_originali: |
+    1512] m. žemės iždininkas A. Jezofovičius, pranešdamas valdovo raštininkui
+    ir Trakų pilininkui J. B. Sapiegai apie Vilniuje suimtą Smolensko pirklį Pankratą, kuris
+    bandė pasinaudoti suklastotu valdovo raštu, teigė: „ir laikiau jį grandinėse savo namuose
+    maždaug dvi savaites. O kai seimas ėjo į pabaigą, [...] pristačiau aš jį Vilniaus vaivadai
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-384
+
+- id: c-186567
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 11"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 11."
+  citata_originali: |
+    Tuo metu valdovas rezidavo Vilniuje51. Dalis sąmoksli­
+    ninkų čia buvo nubausti netrukus po to, kai buvo suimti, o kunigaikščiai Mykolas Olel-
+    kaitis ir Jonas Alšėniškis buvo nukirsdinti tik rugpjūčio 30 d.52
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-385
+
+- id: c-186568
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 13"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 13."
+  citata_originali: |
+    Šiai prielaidai prieštarauja jau minėtas XVII a. viduryje užrašytas pasakojimas
+    apie 1481 m. sąmokslą. Anot šio šaltinio, kunigaikštis Jonas Alšėniškis buvo palaidotas
+    kelios mylios už Vilniaus71.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-386
+
+- id: c-186634
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 8."
+  citata_originali: |
+    Trys
+    broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui
+    29.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-387
+
+- id: c-186635
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 8."
+  citata_originali: |
+    Didikai skirdavo juos savo dvarų valdytojais (pavyzdžiui, 1490 m. minimas
+    Mikalojaus Radvilaičio dvaro pareigūnas - Raigardo valdytojas
+    30), patikėdavo
+    kitas administracines funkcijas (1460 m. Albertas Jonaitis Manvydas siuntė savo
+    bajorus nustatyti ribų tarp jo ir Vilniaus arkidiakono Motiejaus valdų
+    31), iš jų
+    sudarydavo būrius karinėms ekspedicijoms.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-388
+
+- id: c-186636
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
+  citata_originali: |
+    Tokius tarnybinius bajorus didikai galėjo netgi perleisti
+    vienas kitam kartu su dovanojamais dvarų kompleksais, kaip tai 1492 m. padarė
+    Sofija Manvydaitė Radvilienė, nurodydama, kad bajorų nepaklusnumo atveju
+    juos savo autoritetu sutramdyti turėtų jos vyras Vilniaus vaivada Mikalojus Ra-
+    dvila
+    36.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-389
+
+- id: c-186777
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
+  citata_originali: |
+    Žinoma, kad 1548 m. valdovas
+    Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me-
+    džioti valdovui priklausančiose giriose, kad jis galėtų nusiųsti sumedžiotos
+    žvėrienos Barborai Radvilaitei į Vilnių45.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-390
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

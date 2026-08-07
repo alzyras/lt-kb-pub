@@ -192,6 +192,21 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   pagrindžia:
     - c-184884
 
+<a id="claim-t-204010"></a>
+- t-010
+  teiginys: "1492 m. Sofija Manvydaitė Radvilienė nurodė, kad nepaklusnius jos perleidžiamus bajorus savo autoritetu sutramdytų jos vyras Mikalojus Radvila."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Sofijos nurodymą, 1492 m. aplinkybę ir Mikalojaus Radvilos vaidmenį; šaltinio interpretacija neplėsta."
+  pagrindžia:
+    - c-186614
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę.'
@@ -434,6 +449,26 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-186614
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 9"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 9."
+  citata_originali: |
+    Tokius tarnybinius bajorus didikai galėjo netgi perleisti
+    vienas kitam kartu su dovanojamais dvarų kompleksais, kaip tai 1492 m. padarė
+    Sofija Manvydaitė Radvilienė, nurodydama, kad bajorų nepaklusnumo atveju
+    juos savo autoritetu sutramdyti turėtų jos vyras Vilniaus vaivada Mikalojus Ra-
+    dvila
+    36.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

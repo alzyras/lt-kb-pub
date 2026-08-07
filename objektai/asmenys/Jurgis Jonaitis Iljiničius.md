@@ -35,11 +35,28 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
 
 1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203991"></a>
+- t-001
+  teiginys: "1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186595
+
+## Citatos
+
+- id: c-186595
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 16"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 16."
   citata_originali: |
     152286
     Mitka
@@ -58,8 +75,10 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
     prašymu pa­
     keista į laisvės
     atėmimą
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

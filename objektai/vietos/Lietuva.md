@@ -2911,6 +2911,81 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-163761
 
+<a id="claim-t-203624"></a>
+- t-171
+  teiginys: "A. Bumblauskas teigė, kad XVI–XVIII a. Lietuvos ūkis pasiekė VIII–IX a. Vakarų Europos ūkio raidos lygį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186228
+
+<a id="claim-t-203625"></a>
+- t-172
+  teiginys: "Lietuva priskiriama kanapių ir linų gamybos regionams pagal vyraujantį palivarko produkcijos pobūdį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186229
+
+<a id="claim-t-204022"></a>
+- t-173
+  teiginys: "Vytauto valdymo laikais (1392–1430) Lietuvoje prasidėjo žemės valdų suteikimo ir patvirtinimo akcija, skirta valdovo ir didikų santykiams pritaikyti feodalinės leninės visuomenės kategorijas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186626
+
+<a id="claim-t-204023"></a>
+- t-174
+  teiginys: "Rimvydas Petrauskas leninio tipo feodalizmą Lietuvoje vertina kaip neišplėtotą reiškinį, nes ši socialinė tvarka atėjo vėlai, o tarptautinė padėtis neleido rastis savarankiškiems valdžios centrams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186627
+
+<a id="claim-t-204315"></a>
+- t-175
+  teiginys: "XVI a. Lietuvoje, Gerardo Merkatoriaus pasakojimu, paprasti žmonės valgė iš rugių ar miežių keptą juodą duoną, o turtingieji – iš kvietinių miltų keptą baltą duoną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186919
+
+<a id="claim-t-204329"></a>
+- t-176
+  teiginys: "Rusėniškuose šaltiniuose vartojami terminai „kump“ ir „skilond“ yra lituanizmai, o jais įvardijami gaminiai laikomi Lietuvai būdingais mėsos produktais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186902
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.'
@@ -11596,6 +11671,133 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-089
+
+- id: c-186228
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 2"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 2."
+  citata_originali: |
+    Vienas jo autorių A.  Bumblauskas teigė,
+    jog XVI–XVIII  a.  Lietuvos ūkis pasiekė
+    VIII–IX  a.  Vakarų Europos ūkio raidos
+    lygį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171
+
+- id: c-186229
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 22"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
+  citata_originali: |
+    Ypač
+    vertinga yra J. Topolskio pateikta regionų
+    klasifikacijos pagal vyraujantį palivarko
+    produkcijos pobūdį schema. Grūdų augi­
+    nimo regionui priskiriama Lenkija, Livo­
+    nijos žemės, avių ir galvijų auginimo regi­
+    onams – Mecklenburgas, Vakarų Pamarys,
+    Moldavija, Valakija (dabartinė Rumunijos
+    sritis), Vengrija. Miškų ūkio regionu laiko­
+    mos Livonijos žemės, kanapių ir linų ga­
+    mybos regionais – Lietuva ir rusėniškosios
+    LDK žemės (dabartinė Rytų Baltarusija).
+  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172
+
+- id: c-186626
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 6"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 6."
+  citata_originali: |
+    Lietuvoje tik didžiojo kunigaikščio Vytauto laikais (1392-1430) prasidėjo
+    žemės valdų „suteikimo-patvirtinimo" akcija, siekiant valdovo ir didikų san-
+    tykiams, lig tol grįstiems daugiausia asmenine ištikimybe, pritaikyti feodalinės
+    leninės visuomenės kategorijas.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173
+
+- id: c-186627
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 13"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 13."
+  citata_originali: |
+    Leninio tipo feodalizmas Lietuvoje taip ir liko neišplėtotas reiškinys, o tai ir
+    nenuostabu, pamenant, kad į Lietuvą ši socialinė tvarka atėjo vėlai. Be to, sudė-
+    tinga tarptautinė situacija, besibaigiant Viduramžiams, vertė konsoliduoti vals-
+    tybės teritoriją ir neleido rastis savarankiškiems, didžiojo kunigaikščio suvere-
+    nitetą galintiems riboti valdžios centrams.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174
+
+- id: c-186902
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
+  citata_originali: |
+    šaltiniuose minimi ir kiaulienos produktai –
+    lašiniai, dešros, kumpiai bei skilandžiai108.
+    Įdomu, kad pastarųjų terminai rusėniškuose
+    šaltiniuose – kump ir skilond109 – yra litua­
+    nizmai, tad šie gaminiai – būdingi Lietuvai
+    mėsos produktai.
+    Mėsos žaliavą XVI a. bajorams teikė ir
+    jų mėgstama medžioklė.
+  citata_rodoma: "Įdomu, kad pastarųjų terminai rusėniškuose \nšaltiniuose – kump ir skilond109 – yra litua­\nnizmai, tad šie gaminiai – būdingi Lietuvai \nmėsos produktai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176
+
+- id: c-186919
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 6"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 6."
+  citata_originali: |
+    Šie duomenys rodo, kad LDK, kaip ir
+    Lenkijoje85, būtent rugiai buvo pagrindinė
+    žaliava duonai kepti (o didelį auginamų
+    avižų procentą lėmė poreikis šerti žirgus).
+    Tiesa, XVI a. Lietuvoje lankęsis Gerardas
+    Merkatorius pasakojo, kad čia tokią iš rugių
+    ar miežių keptą juodą duoną valgo paprasti
+    žmonės, o turtingieji gardžiuojasi balta duo­
+    na, kepta iš grynų kvietinių miltų86.
+  citata_rodoma: "Tiesa, XVI a. Lietuvoje lankęsis Gerardas \nMerkatorius pasakojo, kad čia tokią iš rugių \nar miežių keptą juodą duoną valgo paprasti \nžmonės, o turtingieji gardžiuojasi balta duo­\nna, kepta iš grynų kvietinių miltų86."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-175
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Netimeras]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]

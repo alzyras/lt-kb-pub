@@ -41,11 +41,58 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
 
 XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, atstovavimo principas, tiksliniai kvietimai ir Seimo raštvedyba. 1566 m. Antrasis Lietuvos Statutas galutinai įteisino iš valdovo, senato ir pavietų bajorų atstovų sudarytą LDK Seimą. 1492–1566 m. susiformavęs LDK bajorų Seimas buvo nauja institucija, reprezentacijos požiūriu iš esmės besiskyrusi nuo ankstesnių politinių struktūrų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, atstovavimo principas, tiksliniai kvietimai ir Seimo raštvedyba.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204377"></a>
+- t-001
+  teiginys: "XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, atstovavimo principas, tiksliniai kvietimai ir Seimo raštvedyba."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186981
+
+<a id="claim-t-204378"></a>
+- t-002
+  teiginys: "1566 m. Antrasis Lietuvos Statutas galutinai įteisino iš valdovo, senato ir pavietų bajorų atstovų sudarytą LDK Seimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1566 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta sakinio gramatika ir aiškiai išskleista Seimo sudėtis, nepridedant naujų faktų."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186982
+
+<a id="claim-t-204379"></a>
+- t-003
+  teiginys: "1492–1566 m. susiformavęs LDK bajorų Seimas buvo nauja institucija, reprezentacijos požiūriu iš esmės besiskyrusi nuo ankstesnių politinių struktūrų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1566 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta sintaksė ir aiškiai įvardytas Seimo, kaip naujos institucijos, statusas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186983
+
+## Citatos
+
+- id: c-186981
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 28 (PDF 20)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 28 (PDF 20)."
   citata_originali: |
     Tiesa, bajorai dar ilgą laiką vaidino juose tik
     antraeilį vaidmenį ir buvo išplėtoto nerašytinės informacijos perdavi­
@@ -60,14 +107,19 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
     mas ir įgyvendinimas; 3) tiksliniai kvietimai, keičiantys atvirą ir iš da­
     lies atsitiktinę ankstesnių suvažiavimų sudėtį; 4) Seimo raštvedybos
     sukūrimas: bajorų prašymai ir valdovo nutarimai („atsakymai").
-  citata_rodoma: ''
+  citata_rodoma: "O naują parlamentarizmo kokybę liudija visų pirma seimų \ninstitucionalizacija: 1512 m. pirmąkart suformuluojama dviejų atstovų \ntaisyklė, kuri nuo to laiko buvo pritaikoma vis naujoms teritorijoms, \nkol 1564-1566 m. reformų metu buvo patvirtinta įstatymu\n5 6. Svarbiau­\nsios naujovės, atsiradusios XVI a. pirmos pusės Seimuose: 1) nuosek­\nlus Seimo sąvokos vartojimas; 2) atstovavimo principo suformulavi­\nmas ir įgyvendinimas; 3) tiksliniai kvietimai, keičiantys atvirą ir iš da­\nlies atsitiktinę ankstesnių suvažiavimų sudėtį; 4) Seimo raštvedybos \nsukūrimas: bajorų prašymai ir valdovo nutarimai („atsakymai"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1566 m. Antrasis Lietuvos Statutas galutinai įteisino iš valdovo, senato ir pavietų bajorų atstovų sudarytą LDK Seimą.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-001
+
+- id: c-186982
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 29 (PDF 21)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 29 (PDF 21)."
   citata_originali: |
     O
     šioje lokalioje ir neretai šventinėje politinėje erdvėje besiskleidžianti ir
@@ -78,14 +130,19 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
     vos Statutas galutinai įteisina šį iš „trijų luomų" - valdovo, senato (Po­
     nų tarybos) ir pavietų bajorų atstovų
     5 7 - susidedantį LDK Seimą.
-  citata_rodoma: ''
+  citata_rodoma: "Taigi XV a. pabaiga ir XVI a. pirma \npusė - tai laikas, per kurį LDK Seimas susikuria savo darbo tradicijas ir \ntaisykles, nusistovi jo kompetencija ir sudėtis. 1566 m. Antrasis Lietu­\nvos Statutas galutinai įteisina šį iš „trijų luomų\" - valdovo, senato (Po­\nnų tarybos) ir pavietų bajorų atstovų\n5 7 - susidedantį LDK Seimą"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: '1492–1566 m. susiformavęs LDK bajorų Seimas buvo nauja institucija, reprezentacijos požiūriu iš esmės besiskyrusi nuo ankstesnių politinių struktūrų.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+  pagrindzia:
+    - t-002
+
+- id: c-186983
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 30 (PDF 22)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 30 (PDF 22)."
   citata_originali: |
     [ i s t o r i j a ]
     Išvados
@@ -95,8 +152,11 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
     kėję XV-XVI a. sandūroje: valdymo organizacijos plėtra, bajorų luo­
     mo formavimasis, vidinė krašto integracija, institucinė Lenkijos įtaka.
     2 .
-  citata_rodoma: ''
+  citata_rodoma: "1.1492-1566 m. susiformavęs LDK bajorų Seimas buvo nauja insti­\ntucija, kuri pagrindiniu reprezentacijos aspektu iš esmės skyrėsi nuo \nankstesnių politinių struktūrų. Jo genezę lėmė įvairūs reiškiniai, išryš­\nkėję XV-XVI a. sandūroje: valdymo organizacijos plėtra, bajorų luo­\nmo formavimasis, vidinė krašto integracija, institucinė Lenkijos įtaka."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-003

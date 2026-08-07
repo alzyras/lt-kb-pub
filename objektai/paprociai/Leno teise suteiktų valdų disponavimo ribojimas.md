@@ -39,11 +39,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Stepono Batoro laikų dokumentuose minimi ankstesni Žygimanto Augusto užrašymai leno teise ir prašymai leisti parduoti leno teise laikytas valdas.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204064"></a>
+- t-001
+  teiginys: "Stepono Batoro laikų dokumentuose minimi ankstesni Žygimanto Augusto užrašymai leno teise ir prašymai leisti parduoti leno teise laikytas valdas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186668
+
+## Santrauka
+
+Stepono Batoro laikų dokumentuose minimi ankstesni Žygimanto Augusto užrašymai leno teise ir prašymai leisti parduoti leno teise laikytas valdas.
+
+## Citatos
+
+- id: c-186668
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
   citata_originali: |
     Iš kiek vėlesnių laikų žinomi valdovo Stepono Batoro
     dokumentai, kuriuose minimi ankstesni Žygimanto Augusto užrašymai „leno
@@ -53,11 +74,10 @@ Nenurodyta
     ribų yra tolesnė tokios teisės plėtotė, kaip antai gana gausūs Stepono Batoro už-
     rašymai leno teisės pagrindu Livonijoje XVI a. devinto dešimtmečio viduryje
     50
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Stepono Batoro laikų dokumentuose minimi ankstesni Žygimanto Augusto užrašymai leno teise ir prašymai leisti parduoti leno teise laikytas valdas.
+  pagrindzia:
+    - t-001

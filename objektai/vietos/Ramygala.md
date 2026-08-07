@@ -63,6 +63,22 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   pagrindžia:
     - c-45302
 
+<a id="claim-t-203747"></a>
+- t-003
+  teiginys: "1586 m. Ramygaloje per turgaus dieną Jurijaus Juknevičiaus pavaldinys atpažino prieš metus pabėgusio Mikalojaus Gricevičiaus išsivestą arklį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisyta gramatinė klaida asmens varde ir sakinys suformuluotas sklandžiai. Išlaikyti šaltinyje nurodyti asmuo, laikas, vieta ir įvykis."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186351
+
 ## Citatos
 
 - id: c-45301
@@ -111,3 +127,29 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186351
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
+  citata_originali: |
+    1586 m.
+    Ramygaloje turgaus dieną Jurijaus Juknevičiaus pavaldinys
+    atsitiktinai atpažino Juknevičiaus uošvės arklį, kurį išsivedė
+    prieš metus pasprukęs Mikalojus Gricevičius. Iki minėto­
+    sios dienos niekas nežinojo, kur pastarasis pasislėpė. Buvo
+    surastas naujasis arklio savininkas - Ramygalos miestietis
+    Jonas Baltušnikas. Jo namuose rasti ir kiti daiktai, kuriuos
+    pasiėmė pabėgęs M . Gricevičius. Miestietis bandė pasi­
+    teisinti, kad tuos daiktus pas jj paliko apsilankęs svečias,
+    tačiau galop turėjo prisipažinti po savo stogu priglaudęs
+    bėglį ir sutiko grąžinti tiek bėglį, tiek daiktus
+    4 6.;
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

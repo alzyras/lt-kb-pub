@@ -1889,6 +1889,18 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-185007
 
+<a id="claim-t-204107"></a>
+- t-107
+  teiginys: "XVI a. pradžioje Prūsijoje, kaip ir LDK giriose, buvo didžiausias stumbrų skaičius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186711
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
@@ -4678,6 +4690,26 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-106
+
+- id: c-186711
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 11"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 11."
+  citata_originali: |
+    LDK valdovų ir
+    kilmingųjų (pakvietus valdovui) buvo labiausiai mėgtos dėl galimybės patirti
+    aštrių pojūčių. Svarbu pažymėti, jog jau XVI a. pr. Europoje prasidėjo stumbrų
+    populiacijos nykimas ir tik LDK giriose ir Prūsijoje aptariamuoju laikotarpiu
+    buvo didžiausias šių gyvūnų skaičius53.
+  citata_rodoma: "Svarbu pažymėti, jog jau XVI a. pr. Europoje prasidėjo stumbrų \npopuliacijos nykimas ir tik LDK giriose ir Prūsijoje aptariamuoju laikotarpiu \nbuvo didžiausias šių gyvūnų skaičius53."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/grupes/Vokietijos maldininkai]]

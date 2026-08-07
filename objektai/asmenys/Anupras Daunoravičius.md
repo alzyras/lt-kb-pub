@@ -43,17 +43,39 @@ canonical_biography: "1779 m. Tomo Uzaro žmonės užpuolė Anupro Daunoravičia
 
 1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203926"></a>
+- t-001
+  teiginys: "1779 m. Tomo Uzaro ginkluoti žmonės užpuolė Anupro ir Teresės Daunoravičių namą, sumušė miegančius žmones, o Teresė Daunoravičienė neteko kūdikio."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1779 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas ginkluotų užpuolikų veikimas ir pasekmė Teresei Daunoravičienei. Teiginys apsiriboja tiesiogiai citatoje nurodytais faktais."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186530
+
+## Citatos
+
+- id: c-186530
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
   citata_originali: |
     1779 m. Tomo Uzaro (Tomasz Uzar) žmonės, ginkluoti
     vėzdais, užpuolė Anupro ir Teresės Daunoravičių namą, sumušė ten miegančius žmones.
     Po smurto T. Daunoravičienė neteko kūdikio61.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

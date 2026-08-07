@@ -86,6 +86,22 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   pagrindžia:
     - c-171398
 
+<a id="claim-t-203804"></a>
+- t-004
+  teiginys: "1741 m. Antanas ir Ona Jezerskai užpuolė dvarelį prie pylimo už arsenalo, išvijo ten gyvenusį žydą Abraomą, atėmė jo gobtuvą ir pagrobė kvitus, liudijančius sumokėtus mokesčius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas užpuolimo kontekstas ir konkretūs Abraomo daiktai. Skundo autoriaus nurodyta žalos suma sąmoningai nepridėta, nes ji nebuvo būtina teiginiui."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186408
+
 ## Citatos
 
 - id: c-60858
@@ -163,3 +179,22 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186408
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 14."
+  citata_originali: |
+    Pvz., 1741 m. Eleonora Zagurska (Eleonora Za-
+    gurska) skundė savo svainį Antaną ir savo seserį Oną Jezerskus dėl dvarelio prie pylimo
+    už arsenalo užpuolimo. Užpuolikai smurtavo prieš ten gyvenusį žydą Abraomą, jį išvijo,
+    atėmė gobtuvą, pagrobė kvitus, liudijančius sumokėtus mokesčius. Anot skundo autorių,
+    vien sumuštajam buvo padaryta 60 talerių žalos51.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

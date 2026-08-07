@@ -49,6 +49,19 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   pagrindžia:
     - c-185141
 
+<a id="claim-t-203741"></a>
+- t-002
+  teiginys: "Senaties termino skaičiavimas Statute buvo taikomas tik įsikūrusiam, o ne samdiniu keliaujančiam ieškomam asmeniui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186345
+
 ## Citatos
 
 - id: c-185141
@@ -67,3 +80,25 @@ Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186345
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 3"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 3."
+  citata_originali: |
+    Statute
+    paminėta gana svarbi išimtis: toks senaties termino skai­
+    čiavimas tinkamas tik tuo atveju, kai ieškomas žmogus
+    kur nors įsikuria, o ne keliauja samdydamasis. Tuomet
+    netenka galios net ir ilgasis dvidešimties metų senaties
+    laikotarpis, jei tokį laiką sėkmingai slapstęsis asmuo
+    kada nors sugrįžtų į mažesnį nei šešios mylios arealą
+    nuo buvusio dvaro
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

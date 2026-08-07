@@ -43,19 +43,38 @@ Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Ad
 
 Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203701"></a>
+- t-001
+  teiginys: "Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186305
+
+## Citatos
+
+- id: c-186305
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     Tai ukrainiečių istorikės Natalijos Starčenko darbas, kuriame
     analizuojamas teismo procesas kunigaikščių Četvertinskių nužudymo byloje 1576 m.8
     Autorė akcentuoja ryškų skirtumą tarp teisės normų ir visuomenės (riteriško) mentaliteto.
     Eugenijus Saviščevas yra publikavęs 1553 m. Žemaitijos pilies teismo bylą dėl Ado-
     mo Adamkavičiaus nužudymo9.
-  citata_rodoma: ''
+  citata_rodoma: "Eugenijus Saviščevas yra publikavęs 1553 m. Žemaitijos pilies teismo bylą dėl Ado-\nmo Adamkavičiaus nužudymo9."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

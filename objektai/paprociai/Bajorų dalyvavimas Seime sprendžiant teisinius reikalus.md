@@ -45,11 +45,34 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1496 m. valdovo Aleksandro į Seimą Berštuose dėl valdų bylų iškviesti Slucko kunigaikštis Simonas ir Raklienė Petkevičienė neatvyko.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204397"></a>
+- t-001
+  teiginys: "1496 m. valdovo Aleksandro į Seimą Berštuose dėl valdų bylų iškviesti Slucko kunigaikštis Simonas ir Raklienė Petkevičienė neatvyko."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1496 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus įvardis ir nurodytas konkretus 1496 m. kontekstas, asmenys bei neatvykimo priežastis. Į sakinį neįtrauktos šaltinyje nesančios detalės."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187001
+
+## Santrauka
+
+1496 m. valdovo Aleksandro į Seimą Berštuose dėl valdų bylų iškviesti Slucko kunigaikštis Simonas ir Raklienė Petkevičienė neatvyko.
+
+## Citatos
+
+- id: c-187001
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 27 (PDF 19)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 27 (PDF 19)."
   citata_originali: |
     1496 m. LDK kanceliarijoje surašytuose dokumentuose
     pažymima, kad LDK Aleksandras valdovo raštais kvietė atvykti į Seimą
@@ -58,11 +81,10 @@ Nenurodyta
     mu, idant būtų išnagrinėtos bylos dėl valdų. Ir abiem atvejais iškviestieji
     seime/teisme nepasirodė
     5 2.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1496 m. valdovo Aleksandro į Seimą Berštuose dėl valdų bylų iškviesti Slucko kunigaikštis Simonas ir Raklienė Petkevičienė neatvyko.
+  pagrindzia:
+    - t-001

@@ -34,17 +34,35 @@ media_all_json: |-
 
 1529 m. Žygimantas Senasis įsaku garantavo, kad bajorai ateityje nebus atiduodami ponų ir kunigaikščių valdžion.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1529 m. Žygimantas Senasis įsaku garantavo, kad bajorai ateityje nebus atiduodami ponų ir kunigaikščių valdžion.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204080"></a>
+- t-001
+  teiginys: "1529 m. Žygimantas Senasis įsaku garantavo, kad bajorai ateityje nebus atiduodami ponų ir kunigaikščių valdžion."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186684
+
+## Citatos
+
+- id: c-186684
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 12."
   citata_originali: |
     Kitu įsaku Žygimantas Senasis garantavo, kad bajorai ateityje nebus ati-
     duodami ponų ir kunigaikščių valdžion
     52.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

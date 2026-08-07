@@ -153,6 +153,22 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   pagrindžia:
     - c-171735
 
+<a id="claim-t-203817"></a>
+- t-007
+  teiginys: "1747 m. Užupyje ginkluoti Petro Ignoto Peitauto žmonės užpuolė Vincento ir Marijonos Izmailovičių dvarelį ir pagrobė jame buvusią skrynią."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1747 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atsisakyta citatos nutrūkimo nepagrįstų detalių apie arklį ir vežimą. Palikti tik aiškiai citatoje matomi užpuolimas ir skrynios pagrobimas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186421
+
 ## Citatos
 
 - id: c-81102
@@ -280,6 +296,24 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186421
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 8"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 8."
+  citata_originali: |
+    z., 1747 m. Vincentas ir Marijona Izmailovičiai (Wincenty i
+    Mariana Izmayłowiczowie) skundėsi, kad užpuolę dvarelį Užupyje ginkluoti „kaip į mūšį“
+    Petro Ignoto Peitauto (Petauto) (Piotr Ignacy Peytowt (Petowt)) žmonės pagrobė ten bu-
+    vusią skrynią, pasiėmė arklį su v
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Užėmė Užupį: [[objektai/grupes/Rusai]]

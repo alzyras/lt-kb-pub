@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. LDK bajorų virtuvę maisto produktais aprūpindavo bajoro dvaro ūkinė veikla, o dalis produktų buvo importuojama iš svečių šalių.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204306"></a>
+- t-001
+  teiginys: "XVI a. LDK bajorų virtuvę maisto produktais aprūpindavo bajoro dvaro ūkinė veikla, o dalis produktų buvo importuojama iš svečių šalių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186929
+
+## Santrauka
+
+XVI a. LDK bajorų virtuvę maisto produktais aprūpindavo bajoro dvaro ūkinė veikla, o dalis produktų buvo importuojama iš svečių šalių.
+
+## Citatos
+
+- id: c-186929
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 6"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 6."
   citata_originali: |
     Maisto produktai ir patiekalai
     Į XVI a. LDK bajorų virtuvę maisto pro­
@@ -52,11 +72,11 @@ Nenurodyta
     kiti – importuojami iš svečių šalių. Tačiau
     būtiniausiais produktais bajorui leido
     apsirūpinti būtent jo dvarų ūkinė veikla.
-  citata_rodoma: ''
+  citata_rodoma: "Į XVI a. LDK bajorų virtuvę maisto pro­\nduktai patekdavo dviem keliais: vieni jų \nbūdavo tiekiami iš paties bajoro dvaro, o \nkiti – importuojami iš svečių šalių. Tačiau \nbūtiniausiais produktais bajorui leido \napsirūpinti būtent jo dvarų ūkinė veikla."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. LDK bajorų virtuvę maisto produktais aprūpindavo bajoro dvaro ūkinė veikla, o dalis produktų buvo importuojama iš svečių šalių.
+  pagrindzia:
+    - t-001

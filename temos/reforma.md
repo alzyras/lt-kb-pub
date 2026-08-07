@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 36
+tema_objektu_skaicius: 37
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 36.
+Objektų skaičius: 37.
 
 ## Kaip naudoti
 
@@ -62,3 +62,6 @@ Objektų skaičius: 36.
 - [Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas](../objektai/ivykiai/Vytauto%20sri%C4%8Di%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20suvaldymas%20ir%20valstyb%C4%97s%20sutelkimas)
 - [Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)](../objektai/ivykiai/%C5%BDem%C4%97s%20reformos%20%C4%AFstatymo%20pri%C4%97mimas%20%281922%20m.%20vasario%2015%20d.%29)
 - [Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)](../objektai/ivykiai/%C5%BDygimanto%20Augusto%20privilegija%20d%C4%97l%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20konfesij%C5%B3%20teisi%C5%B3)
+
+### Šaltiniai
+- [Apie totorių, lietuvių ir maskvėnų papročius](../objektai/saltiniai/Apie%20totori%C5%B3%2C%20lietuvi%C5%B3%20ir%20maskv%C4%97n%C5%B3%20papro%C4%8Dius)

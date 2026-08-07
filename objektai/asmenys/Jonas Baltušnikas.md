@@ -35,11 +35,27 @@ Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grą
 
 Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grąžinti bėglį bei daiktus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grąžinti bėglį bei daiktus.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203781"></a>
+- t-001
+  teiginys: "Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grąžinti bėglį bei daiktus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186385
+
+## Citatos
+
+- id: c-186385
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     Buvo
     surastas naujasis arklio savininkas - Ramygalos miestietis
@@ -48,8 +64,10 @@ Jonas Baltušnikas prisipažino po savo stogu priglaudęs bėglį ir sutiko grą
     teisinti, kad tuos daiktus pas jj paliko apsilankęs svečias,
     tačiau galop turėjo prisipažinti po savo stogu priglaudęs
     bėglį ir sutiko grąžinti tiek bėglį, tiek daiktus
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

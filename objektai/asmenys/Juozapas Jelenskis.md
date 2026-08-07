@@ -40,11 +40,27 @@ canonical_biography: "1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas."
 
 1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203936"></a>
+- t-001
+  teiginys: "1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186540
+
+## Citatos
+
+- id: c-186540
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 12-13"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 12-13."
   citata_originali: |
     71 m. dėl Paškevičių mūrinio namo užpuolimo
     skundėsi miestietis ir pirklys Konstantinas Šelepienis (Konstanty Szelepien). Jis kaltino,
@@ -64,8 +80,10 @@ canonical_biography: "1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas."
     Istorija / 2016, t. 103, Nr. 3
     Jelenskis (Józef Jeleński) su pagalbininkais ir kareiviais, išvijo, smurtavo prieš savininką
     ir jo šeimyną, pagrobė nemažai turto41.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

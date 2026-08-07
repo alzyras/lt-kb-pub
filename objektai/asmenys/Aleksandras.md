@@ -188,6 +188,34 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   pagrindžia:
     - c-184316
 
+<a id="claim-t-204005"></a>
+- t-010
+  teiginys: "1377 m. Podolės kunigaikštis Aleksandras perėjo tarnauti Vengrijos ir Lenkijos karaliui Liudvikui Anžu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Aleksandrą, datą ir jo perėjimą tarnauti Liudvikui Anžu. Atribucija nėra būtina pagal šaltinio profilį."
+  pagrindžia:
+    - c-186609
+
+<a id="claim-t-204345"></a>
+- t-011
+  teiginys: "Kazimiero valdymo metais brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186949
+
 ## Citatos
 
 - id: c-85561
@@ -404,3 +432,44 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-186609
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 5"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 5."
+  citata_originali: |
+    Kad feodaliniai leni-
+    niai ryšiai lietuvių kunigaikščius galėjo sieti su gretimų kraštų valdovais, liudija
+    ir 1377 m. Vengrijos ir Lenkijos karaliaus Liudviko Anžu laiškas, kuriame kara-
+    lius teigė, kad jam tarnauti perėjo Podolės kunigaikščiai Aleksandras ir Borisas
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-186949
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 9 (PDF 1)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 9 (PDF 1)."
+  citata_originali: |
+    Ilgo
+    Kazimiero
+    viešpatavimo
+    laikais brendusios pamainos
+    valdymo sistemoje,
+    kurias
+    sukėlė nuolatinio valdovo rezidavimo Lietuvoje stygius ir tolesnė institu­
+    cionalizacijos šalyje pažanga, pasireiškė Aleksandro, o ypač -
+    Žygiman­
+    to Senojo valdymo metu.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

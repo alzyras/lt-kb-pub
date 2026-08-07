@@ -35,11 +35,27 @@ Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniu
 
 Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203703"></a>
+- t-001
+  teiginys: "Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186307
+
+## Citatos
+
+- id: c-186307
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     Grigorijus Demčenka savo darbe analiza-
     vo bausmės plačiąja prasme raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose
@@ -47,8 +63,11 @@ Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniu
     pensavimo visuomenei11. Joanikijus Malinovskis pagrindinį dėmesį skyrė nusikaltimo
     analizei12. Aptarė jo sampratą, turinį, objektą ir subjektą, nusikaltimų rūšis ir bausmes už
     juos.
-  citata_rodoma: ''
+  citata_rodoma: "Joanikijus Malinovskis pagrindinį dėmesį skyrė nusikaltimo \nanalizei12. Aptarė jo sampratą, turinį, objektą ir subjektą, nusikaltimų rūšis ir bausmes už \njuos."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

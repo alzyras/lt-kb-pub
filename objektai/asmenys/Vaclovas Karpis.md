@@ -43,11 +43,30 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
 
 1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas.'
-  šaltinis: Lituanistika-3441-Senkoniu-palivarko-inventorius
+<a id="claim-t-203723"></a>
+- t-001
+  teiginys: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teisę pirkti Pašokinės valdas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Vaclovą Karpį, datą, Andrių Lasockį ir Pašokinės valdas. Papildomų faktų nepridėta."
+  pagrindžia:
+    - c-186327
+
+## Citatos
+
+- id: c-186327
+  autoriai: "Stasys Pamerneckis; Roberta Sakalauskaitė"
+  šaltinis: "Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius"
+  puslapiai: "PDF 2"
+  indeksas: "Stasys Pamerneckis, Roberta Sakalauskaitė, Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius, PDF 2."
   citata_originali: |
     Vėliau išlikusiuose dokumentų registruo­
     se konkrečių duomenų apie Karpių valdų plė­
@@ -56,8 +75,10 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
     driaus Lasockio teisę pirkti Pašokinės valdas,
     o iš Jono Jonaičio Volminskio - Kauklių arba
     Užagių (na wies Uzogie) kaimą
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

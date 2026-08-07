@@ -192,17 +192,19 @@ describe("citationFilter metadata", () => {
     // Global claim identities live in the hidden anchor; public claim fields
     // intentionally expose only the stable local page id.
     const leadershipClaim = claims.find((entry) =>
-      (entry.fields.get("teiginys") ?? "").includes("Žalgirio mūšio metu Vytautas Didysis"),
+      (entry.fields.get("teiginys") ?? "").includes(
+        "Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį",
+      ),
     )
     assert.ok(leadershipClaim, "Expected the Žalgirio leadership claim to remain present")
-    assert.match(vytautasMarkdown, /<a id="claim-t-198399"><\/a>/)
+    assert.match(vytautasMarkdown, /<a id="claim-t-176626"><\/a>/)
     const leadershipSupports = leadershipClaim?.lists.get("pagrindžia") ?? []
     assert.ok(leadershipSupports.length > 0, "Expected the leadership claim to retain evidence")
     const leadershipQuotes = citationLookup
       .filter((entry) => leadershipSupports.includes(entry.id))
       .map((entry) => (entry.fields.get("citata_originali") ?? "").replace(/\u00ad\s*/g, ""))
       .join("\n")
-    assert.match(leadershipQuotes, /Vytautas savo kariuomenę pats vedė/)
+    assert.match(leadershipQuotes, /pirmasis metė į mūšį Lietuvos\s+kariuomenę/)
     assert.doesNotMatch(leadershipQuotes, /Didelis ir darbininkas/)
 
     for (const claim of claims) {

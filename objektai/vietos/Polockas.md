@@ -1225,6 +1225,21 @@ historical_names: []
   pagrindžia:
     - c-182610
 
+<a id="claim-t-203957"></a>
+- t-068
+  teiginys: "Aleksandras Jogailaitis Polocke lankėsi 1497 m. balandžio 5–11 d. ir 1500 m. rugsėjo 8 d.–spalio 17 d."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1497 m.; įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir nurodo abi šaltinyje pateiktas Aleksandro Jogailaičio lankymosi Polocke datas."
+  pagrindžia:
+    - c-186561
+
 ## Reikšmingi paminėjimai
 - c-034
   santrauka: 'Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.'
@@ -3589,6 +3604,25 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-053
+
+- id: c-186561
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 7"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 7."
+  citata_originali: |
+    XVI a. pradžioje LDK teritorijoje bernardinų vienuolynai veikė visose išvardytose vietovėse. Remiantis
+    Maciejaus Neumano ir Krzysztofo Pietkiewicziaus sudarytu Ldk Aleksandro itinerariumu, valdovas daugiau­
+    sia laiko praleido Vilniuje, o Polocke ir Kaune lankėsi tik du kartus. Polocke: 1497 m. balandžio 5-11 d. ir
+    1500 m. rugsėjo 8 - spalio 17 d.; Kaune: 1494 m. spalį, 1498 m. spalio 31 - lapkričio 2 d. Tykocine valdovas
+    apsilankė tik kartą - 1500 m. sausį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-068
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]

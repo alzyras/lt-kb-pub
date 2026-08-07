@@ -62,8 +62,8 @@
               "featured": true,
               "claimRefs": [
                 {
-                  "claimId": "t-176383",
-                  "citationId": "c-160384",
+                  "claimId": "t-198015",
+                  "citationId": "c-179631",
                   "label": "Valdovo vardas ir titulas antspaude",
                   "role": "contextual"
                 }
@@ -310,7 +310,7 @@
               "claimRefs": [
                 {
                   "claimId": "t-187954",
-                  "citationId": "c-170939",
+                  "citationId": "c-170940",
                   "label": "Kojalavičiaus herbynas ir Lietuvos bajorų genealogijos",
                   "role": "contextual"
                 }
@@ -614,7 +614,7 @@
               "claimRefs": [
                 {
                   "claimId": "t-193631",
-                  "citationId": "c-176302",
+                  "citationId": "c-180302",
                   "label": "Gediminaičių stulpai Lietuvos istorinėje atmintyje",
                   "role": "contextual"
                 }

@@ -503,6 +503,51 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindžia:
     - c-185874
 
+<a id="claim-t-204018"></a>
+- t-026
+  teiginys: "Žygimanto Augusto laikais valdovo dokumentuose leno teisės sąvoka vėl vartota rusėnų kalba; 1558 m. privilegijoje Bagdonui Steckavičiui tarnyba suteikta „правом ленным“."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1558 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtas konkretus 1558 m. dokumento pavyzdys ir išlaikyta originali rusėniška formuluotė. Nepakeistas šaltinio terminas."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186622
+
+<a id="claim-t-204019"></a>
+- t-027
+  teiginys: "1550–1571 m. Žygimanto Augusto užrašuose ištarnos, suteiktos leno teisės pagrindu, paveldėjimas visada buvo aiškiai ribojamas vyriškąja linija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1571 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta sintaksė ir aiškiai susieti ištarnos suteikimas bei paveldėjimo apribojimas. Naujų aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186623
+
+<a id="claim-t-204120"></a>
+- t-028
+  teiginys: "Žygimantas Augustas buvo pirmasis valdovas, XVI a. medžioklėje naudojęs arkebuzą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186720
+
 ## Reikšmingi paminėjimai
 - c-014
   santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
@@ -1088,6 +1133,64 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-025
+
+- id: c-186622
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
+  citata_originali: |
+    Valdovo dokumentuose „leno teisės" sąvoka (beje, šįkart rusėnų kalba) dar
+    kartą pasirodo Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Žygimanto
+    Augusto laikais. Pavyzdžiui, 1558 m. valdovo privilegijoje dvaro stalininkui Bag-
+    donui Steckavičiui suteikiamos tarnybos „leno teise" (правом ленным)
+    45. Šiame
+    dokumente esanti išlyga dėl tų tarnybų paveldėjimo atskleidžia konkretų leno
+    teisės ypatumą.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
+
+- id: c-186623
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
+  citata_originali: |
+    Tokią sampratą
+    patvirtina ir kiti gana gausūs to laikotarpio (1550-1571 m.) Žygimanto Augusto
+    užrašymai, kuriuose suteikiant ištarną leno teisės pagrindu visuomet eksplici-
+    tiškai nurodomas paveldėjimo apribojimas vyriškąja linija
+    46.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
+- id: c-186720
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 8"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 8."
+  citata_originali: |
+    Žygimantas Augustas buvo pirmas val-
+    dovas, XVI a. medžioklėje naudojęs arkebuzą (kulkomis šaudantį ginklą)35 – jos
+    švininių kulkų randama ir vykdant medžioklės dvarų archeologinius kasinėji-
+    mus36.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

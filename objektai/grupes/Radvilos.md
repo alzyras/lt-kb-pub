@@ -177,6 +177,18 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   pagrindžia:
     - c-184832
 
+<a id="claim-t-204117"></a>
+- t-008
+  teiginys: "Po Mikalojaus Radvilos Rudojo mirties Radvilos buvo tarp svarbių LDK giminių, toliau išlaikiusių didžiojo LDK medžioklio pareigybę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186723
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.'
@@ -396,6 +408,28 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-186723
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 15"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 15."
+  citata_originali: |
+    Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai
+    klausimais. Nusistovėjusios didžiųjų LDK medžioklių pareigos ir funkcijos iki
+    XVI a. pabaigos nekito, o pareigybės reikšmė išliko tokia pat svarbi. Po didžio-
+    jo LDK medžioklio Mikalojaus Radvilos Rudojo, kurį su valdovu visų pirma
+    siejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę
+    ir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt.,
+    „paveldėdamos“ ją iš savo giminaičių.
+  citata_rodoma: "Po didžio-\njo LDK medžioklio Mikalojaus Radvilos Rudojo, kurį su valdovu visų pirma \nsiejo draugiškas emocinis ryšys, mirties didžiojo LDK medžioklio pareigybę \nir toliau išlaikė svarbios LDK giminės: Valavičiai, Naruševičiai, Radvilos ir kt., \n„paveldėdamos“ ją iš savo giminaičių."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Radvilos užėmė [[objektai/vietos/Cholmas]]

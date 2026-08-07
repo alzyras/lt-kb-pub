@@ -43,19 +43,41 @@ canonical_biography: "1733 m. Samuelis Šafarovičius su ginkluota kompanija už
 
 1733 m. Samuelis Šafarovičius su ginkluota kompanija gatvėje sumušė Stanislovą Heliaševičių, užpuolė jo namą Lukiškėse, sumušė žmoną Reginą ir vėl smurtavo prieš ieškovą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1733 m. Samuelis Šafarovičius su ginkluota kompanija gatvėje sumušė Stanislovą Heliaševičių, užpuolė jo namą Lukiškėse, sumušė žmoną Reginą ir vėl smurtavo prieš ieškovą.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203942"></a>
+- t-001
+  teiginys: "1733 m. Samuelis Šafarovičius su ginkluota kompanija gatvėje sumušė Stanislovą Heliaševičių, užpuolė jo namą Lukiškėse, sumušė žmoną Reginą ir vėl smurtavo prieš ieškovą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1733 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėsta pradinė formuluotė pagal visas citatoje nurodytas smurto aplinkybes. Išlaikyti aiškūs veikėjas, nukentėjusieji, vieta ir veiksmai."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186546
+
+## Citatos
+
+- id: c-186546
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 12"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 12."
   citata_originali: |
     z., 1733 m. totorius Stanislovas He-
     liaševičius (Stanisław Heliaszewicz) skundė totorių Samuelį Šafarovičių (Samuel Szafa-
     rowicz) dėl to, kad šis iš pradžių su ginkluota kompanija sumušė S. Heliaševičių gatvėje,
     vijosi, užpuolė jo namą Lukiškėse, sumušė žmoną Reginą, vėl smurtavo prieš ieškovą39.
     K
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

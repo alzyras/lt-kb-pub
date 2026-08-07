@@ -706,6 +706,21 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   pagrindžia:
     - c-184892
 
+<a id="claim-t-203742"></a>
+- t-040
+  teiginys: "1579 m. karalius Steponas Batoras išsiuntė miestų burmistrams ir tarėjams laišką dėl pabėgusių valstiečių slapstymo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškas ir tiksliai nusako Stepono Batoro 1579 m. veiksmą bei laiško temą. Atribucijos nereikia, nes teiginys nėra vertinamasis."
+  pagrindžia:
+    - c-186346
+
 ## Citatos
 
 - id: c-22011
@@ -1600,6 +1615,23 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-039
+
+- id: c-186346
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
+  citata_originali: |
+    Pvz., 1579 m. karalius Steponas Batoras išsiuntė laišką
+    miestų burmistrams ir tarėjams dėl pabėgusių valstiečių
+    slapstymo
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
 
 ## Ryšiai
 - Steponas Batoras buvo valdovas [[objektai/vietos/Lenkija]]

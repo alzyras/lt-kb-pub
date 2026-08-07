@@ -46,11 +46,30 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204395"></a>
+- t-001
+  teiginys: "Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186999
+
+## Santrauka
+
+Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus.
+
+## Citatos
+
+- id: c-186999
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 19 (PDF 11)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 19 (PDF 11)."
   citata_originali: |
     šioji 1398 m. manifestacija Salyne, kai neabejotinai pagal iš anksto su­
     planuotą scenarijų Vytautas susirinkusių kilmingųjų buvo viešai paskelb­
@@ -64,11 +83,11 @@ Nenurodyta
     tūras informuoja savo vadovybę apie žygio į Naugardą išvakarėse Vytauto
     sušauktą pasitarimą su aukščiausiais (upersten) bajorais
     2 5.
-  citata_rodoma: ''
+  citata_rodoma: "Konfidencialius Vytauto pasitarimus, kaip sa­\nvaime suprantamą reiškinį, dažnai fiksuoja Ordino pareigūnai. 1421 m. \nspalio 12 d. Klaipėdos komtūras perduoda magistrui vieno žemaičio \nžodžius, kad Vytautas, rengdamas žygį prieš Ordiną, artimiausius (heim-\nlichstin) bajorus pasikvietė į savo dvarą\n2 4."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus.
+  pagrindzia:
+    - t-001

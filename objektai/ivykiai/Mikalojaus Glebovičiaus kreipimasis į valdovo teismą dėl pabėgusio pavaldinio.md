@@ -42,21 +42,43 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1541 m. Polocko vaivadaitis Mikalojus Glebovičius kreipėsi į valdovo teismą dėl pabėgusio pavaldinio.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203771"></a>
+- t-001
+  teiginys: "1541 m. Polocko vaivadaitis Mikalojus Glebovičius kreipėsi į valdovo teismą dėl pabėgusio pavaldinio."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1541 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškai taisyklingas ir tiesiogiai pagrįstas citatoje nurodytu kreipimusi į valdovo teismą."
+  pagrindžia:
+    - c-186375
+
+## Santrauka
+
+1541 m. Polocko vaivadaitis Mikalojus Glebovičius kreipėsi į valdovo teismą dėl pabėgusio pavaldinio.
+
+## Citatos
+
+- id: c-186375
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
   citata_originali: |
     1541 m. į valdovo teismą kreipėsi Poloc­
     ko vaivadaitis Mikalojus Glebovičius, pranešdamas, kad
     savo pabėgusį pavaldinį aptiko viešėdamas Krokuvoje
     ir siekė, kad pastarasis būtų atvežtas į Vilnių'
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1541 m. Polocko vaivadaitis Mikalojus Glebovičius kreipėsi į valdovo teismą dėl pabėgusio pavaldinio.
+  pagrindzia:
+    - t-001

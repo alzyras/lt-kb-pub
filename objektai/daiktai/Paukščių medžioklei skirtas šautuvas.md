@@ -45,22 +45,42 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1722 m. Jurgis Daukantas pasipriešino savo namo užpuolikams, nuginklavo jų vadovą Kazimierą Bivainį ir atėmė iš jo paukščių medžioklei skirtą šautuvą.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203902"></a>
+- t-001
+  teiginys: "1722 m. Jurgis Daukantas pasipriešino savo namo užpuolikams, nuginklavo jų vadovą Kazimierą Bivainį ir atėmė iš jo paukščių medžioklei skirtą šautuvą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186506
+
+## Santrauka
+
+1722 m. Jurgis Daukantas pasipriešino savo namo užpuolikams, nuginklavo jų vadovą Kazimierą Bivainį ir atėmė iš jo paukščių medžioklei skirtą šautuvą.
+
+## Citatos
+
+- id: c-186506
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 16"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 16."
   citata_originali: |
     is pačiais metais Lietuvos Vyriausiojo
     Tribunolo vėliavos vėliavininkas Jurgis Daukantas jo namo užpuolimo metu pasiprieši-
     no ir nuginklavo (atėmė paukščių medžioklei skirtą šautuvą) užpuolikams vadovavusį
     Kazimierą Bivainį63. Galbūt tokį veiksmą lėmė kariškio patirtis.
     5
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1722 m. Jurgis Daukantas pasipriešino savo namo užpuolikams, nuginklavo jų vadovą Kazimierą Bivainį ir atėmė iš jo paukščių medžioklei skirtą šautuvą.
+  pagrindzia:
+    - t-001

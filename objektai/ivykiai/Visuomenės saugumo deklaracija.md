@@ -44,11 +44,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203685"></a>
+- t-001
+  teiginys: "Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186289
+
+## Santrauka
+
+Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis.
+
+## Citatos
+
+- id: c-186289
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 22"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 22."
   citata_originali: |
     Pri-
     menama, kad už pilių atidavimą priešui reikia bausti kaip išdavikus. 1611 m. priimtoje
@@ -57,11 +77,11 @@ Nenurodyta
     paprastam žmogui nešiotis šaunamąjį ginklą grasinant mirties bausme.
     1633 m. patvirtinta Lietuvos Disciplina militaris, kurioje grasinama mirties bausme už
     įvairius plėšimus206.
-  citata_rodoma: ''
+  citata_rodoma: "e \nVisuomenės saugumo deklaracijoje205 akcentuotas būtinumas griežtai bausti už nusikal-\ntimus viešose vietose remiantis 1601 ir 1598 m. konstitucijomis, kuriose draudžiama \npaprastam žmogui nešiotis šaunamąjį ginklą grasinant mirties bausme. \n1633 m. patvirt"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Visuomenės saugumo deklaracijoje akcentuotas būtinumas griežtai bausti už nusikaltimus viešose vietose, remiantis 1601 ir 1598 m. konstitucijomis.
+  pagrindzia:
+    - t-001

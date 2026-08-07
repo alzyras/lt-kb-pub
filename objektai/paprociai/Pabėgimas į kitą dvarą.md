@@ -39,21 +39,40 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203777"></a>
+- t-001
+  teiginys: "Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186381
+
+## Santrauka
+
+Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos.
+
+## Citatos
+
+- id: c-186381
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
   citata_originali: |
     Persikėlus į kitą dvarą, toliau buvo galima
     tęsti ankstesnę veiklą, ar tai būtų žemdirbystės, namų ūkio
     darbai, ar imtis gal ir naujos veiklos. Pabėgti į kitą dvarą
     palyginti lengva būdavo net ir ištisoms šeimoms.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos.
+  pagrindzia:
+    - t-001

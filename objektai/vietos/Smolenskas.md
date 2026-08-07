@@ -717,6 +717,21 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-178884
 
+<a id="claim-t-203959"></a>
+- t-039
+  teiginys: "1440 m. maišto Smolenske metu prastuomenė nuskandino Smolensko maršalką Petriką."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Smolenske vykusį maištą ir šaltinyje nurodytą Petriko nuskandinimą."
+  pagrindžia:
+    - c-186563
+
 ## Reikšmingi paminėjimai
 - c-023
   santrauka: 'Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku.'
@@ -1561,6 +1576,22 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-038
+
+- id: c-186563
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
+  citata_originali: |
+    Pavyzdžiui, 1440 m. maišto Smolenske metu prastuomenė nuskandino Smolensko mar­
+    šalką Petriką60.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-039
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Sviatoslavas]], [[objektai/asmenys/Švitrigaila]]

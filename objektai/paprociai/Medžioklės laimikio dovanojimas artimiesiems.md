@@ -46,11 +46,32 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204135"></a>
+- t-001
+  teiginys: "XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186740
+
+## Santrauka
+
+XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška.
+
+## Citatos
+
+- id: c-186740
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 9"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 9."
   citata_originali: |
     To meto moterų medžioklės pomėgį liudija ne tik kilmingų vyrų, bet ir
     kilmingų moterų laiškai, kuriuose jos džiaugiasi sumedžiotais trofėjais. Antai
@@ -63,11 +84,10 @@ Nenurodyta
     kaip deramo dėmesio demonstravimas ar net savotiška meilumo išraiška,
     nes minėtame laiške priekaištaujama sūnui, kad šis, nors ir joja į medžiok­
     lę, neatsiunčia motinai žvėrienos44.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo dėmesio demonstravimu ir meilumo išraiška.
+  pagrindzia:
+    - t-001

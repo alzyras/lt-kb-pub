@@ -35,11 +35,27 @@ E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik i
 
 E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik imitavo vakarietiškus veiklos principus, į lažinę palivarkinę sistemą įterpdami Apšvietos verslininkystės ir individualaus darbo principus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik imitavo vakarietiškus veiklos principus, į lažinę palivarkinę sistemą įterpdami Apšvietos verslininkystės ir individualaus darbo principus.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203645"></a>
+- t-001
+  teiginys: "E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik imitavo vakarietiškus veiklos principus, į lažinę palivarkinę sistemą įterpdami Apšvietos verslininkystės ir individualaus darbo principus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186249
+
+## Citatos
+
+- id: c-186249
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 26"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 26."
   citata_originali: |
     137 Žr., pavyzdžiui: Truska L. Bažnytinė žemėvalda
     Lietuvoje feodalizmo epochoje (XVIII a. 2-oje – XIX a.
@@ -53,8 +69,11 @@ E. Railos teigimu, XVIII a. antroje pusėje Lietuvos didikai savo dvaruose tik i
     ūkio sistemą bandė įterpti „plastiškus“
     Apšvietos verslininkystės ir individualaus
     darbo principus139.
-  citata_rodoma: ''
+  citata_rodoma: "Pasak E. Railos, Lietu­\nvos didikai, aplankę daugelį Europos šalių \nir susipažinę su priešakiniais ūkio mode­\nliais, XVIII a. antroje pusėje savo dvaruo­\nse tik imitavo vakarietiškus veiklos prin­\ncipus, t. y. į sustingusią lažinę palivarkinę \nūkio sistemą bandė įterpti „plastiškus“ \nApšvietos verslininkystės ir individualaus \ndarbo principus139"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

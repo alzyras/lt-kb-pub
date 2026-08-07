@@ -43,18 +43,37 @@ canonical_biography: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didži
 
 1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203710"></a>
+- t-001
+  teiginys: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186314
+
+## Citatos
+
+- id: c-186314
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     1907 m. mirties bausmės ryšį su infamija tyrė lenkų istorikas Aleksandras Mogil-
     nickis13. 1925 m. išleistas Vlado Stankevičiaus baudžiamosios teisės paskaitų, skaitytų
     Kauno Vytauto Didžiojo universitete, ciklas. Leidinio priede pateikta trumpa Lietuvos
     teisės istorija14.
-  citata_rodoma: ''
+  citata_rodoma: "1925 m. išleistas Vlado Stankevičiaus baudžiamosios teisės paskaitų, skaitytų \nKauno Vytauto Didžiojo universitete, ciklas. Leidinio priede pateikta trumpa Lietuvos \nteisės istorija14."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

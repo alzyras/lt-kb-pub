@@ -37,11 +37,31 @@ media_all_json: |-
 
 1722 m. jėzuitų bursos gyventojai ir Šv. Kazimiero bažnyčios giedotojai, kaip nurodyta Kazimiero Gembičiaus skunde, buvo pašalinti iš Leono Volodkovičiaus ir Konstancijos Cechnoveckos vestuvių dėl prasto grojimo ir, praradę užmokestį, keršijo užpuldami namus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1722 m. jėzuitų bursos gyventojai ir Šv. Kazimiero bažnyčios giedotojai, kaip nurodyta Kazimiero Gembičiaus skunde, buvo pašalinti iš Leono Volodkovičiaus ir Konstancijos Cechnoveckos vestuvių dėl prasto grojimo ir, praradę užmokestį, keršijo užpuldami namus.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203846"></a>
+- t-001
+  teiginys: "1722 m. jėzuitų bursos gyventojai ir Šv. Kazimiero bažnyčios giedotojai, kaip nurodyta Kazimiero Gembičiaus skunde, buvo pašalinti iš Leono Volodkovičiaus ir Konstancijos Cechnoveckos vestuvių dėl prasto grojimo ir, praradę užmokestį, keršijo užpuldami namus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1722 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas giedotojų statusas, pašalinimo aplinkybė ir vėlesnis veiksmas. Prasto grojimo priežastis palikta su atribucija skundui."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186450
+
+## Citatos
+
+- id: c-186450
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 9-10"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 9-10."
   citata_originali: |
     rtais skunduose būdavo minimi kai kurie pikantiški faktai. Pvz., 1722 m. Pranciš-
     konų bažnyčios kapelmeisteris Kazimieras Gembičius (Kazimierz Gębicz) savo skunde
@@ -66,8 +86,10 @@ media_all_json: |-
     Istorija / 2016, t. 103, Nr. 3
     pakviesti Pranciškonų bažnyčios muzikantai. Praradę užmokestį giedotojai kerštavo,
     užpuolė namus32.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

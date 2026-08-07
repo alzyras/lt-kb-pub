@@ -1313,6 +1313,58 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindžia:
     - c-184870
 
+<a id="claim-t-203608"></a>
+- t-074
+  teiginys: "1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186212
+
+<a id="claim-t-204008"></a>
+- t-075
+  teiginys: "Karūnavus Jogailą Lenkijos karaliumi, jam kaip LDK siuzerenui buvo įteikti dalinių Lietuvos kunigaikščių homagialiniai dokumentai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186612
+
+<a id="claim-t-204009"></a>
+- t-076
+  teiginys: "Po 1401 m. lietuvių kunigaikščių homagialinių priesaikų serijos Jogaila Lietuvoje galėjo turėti vieną vasalą – Vytautą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: po 1401 m.; įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys išlaiko šaltinio atsargią formuluotę „galėjo“ ir aiškiai įvardija Jogailos bei Vytauto santykį po 1401 metų. Nauji faktai nepridėti."
+  pagrindžia:
+    - c-186613
+
+<a id="claim-t-204347"></a>
+- t-077
+  teiginys: "Po Vytauto mirties Jogaila gavo Švitrigailos pasiūlymą susitikti, siekiant sureguliuoti Lietuvos ir Lenkijos santykius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186951
+
 ## Reikšmingi paminėjimai
 - c-035
   santrauka: 'Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus.'
@@ -1585,21 +1637,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     taip pat su savo pajėgomis ir su visa Vokiečių imperija.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-069
-  santrauka: '1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų.'
-  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
-  citata_originali: |
-    1429 m. Vytautas Didysis savo rezidencijoje Lucko
-    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
-    mos imperatorius Zigmantas Liuksemburgietis, popie­
-    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
-    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
-    čių atstovai, pasiuntiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
@@ -3246,6 +3283,114 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-073
+
+- id: c-186212
+  autorius: "Daiva Steponavičienė"
+  šaltinis: "Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Daiva Steponavičienė, Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais — Puotos Lietuvos valdovo dvare Gotikos laikais (XIV a. pab.-XV a.), PDF 2."
+  citata_originali: |
+    1429 m. Vytautas Didysis savo rezidencijoje Lucko
+    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
+    mos imperatorius Zigmantas Liuksemburgietis, popie­
+    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
+    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
+    čių atstovai, pasiuntiniai.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-074
+
+- id: c-186612
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 6-7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 6-7."
+  citata_originali: |
+    Feodalinių kategorijų pažinimą XIV-XV a. sandūros Lietuvoje rodo Jogailą
+    karūnavus Lenkijos karaliumi jam kaip LDK siuzerenui įteikti dalinių Lietuvos
+    kunigaikščių homagialiniai dokumentai
+    24, kuriuose kunigaikščiai išvykstančiam
+    2 1
+    Halecki
+    O. Przyczynki genealogiczne do dziejów układu krewskiego // Miesięcznik Heral-
+    dyczny. T. 14. 1935, s. 102 (aplicuerunt coronam Ungarie et receperuntin feudum
+    a corona dicti
+    2 2
+    Tęgowski J. Dokumenty Koriatowiczów władców Podola XIV wieku. Tendencje kulturowe
+    Podola za Koriatowiczów // Tekst źródła. Krytyka — Interpretacija / Pod red. B. Trelińskiej.
+    Warszawa, 2005, s. 227-237.
+    2 3
+    Plg. gausią medžiagą: Vitoldiana. Codex privilegiorumVitoldi magni ducis Lithuaniae 1386-
+    1430 / Ed. J. Ochmański. Warszawa—Poznań, 1986 (toliau — Vitoldiana); Jablonskis K. Nauji
+    Vytauto laikotarpio aktai // Praeitis. T. 2. 1933, p. 375—411; KurtykaJ.
+    Repertorium podols-
+    kie. Dokumenty do 1430 r. // Rocznik Przemyski. T. 40. Przemyśl, 2004, s. 127-269.
+    2 4
+    Akta unji Polski z Litwą 1385-1791 / Wyd. S. Kutrzeba i W. Semkowicz. Kraków, 1932.
+
+    R i m v y d a s
+    P e t r a u s k a s
+    „JEI BAJORAS IŠ PONO DVARĄ IŠSITARNAUTŲ."
+    93
+    valdovui feodalinės teisės dvasia prisiekdavo asmeninę ištikimybę
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-075
+
+- id: c-186613
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7."
+  citata_originali: |
+    Iš visko sprendžiant, Vytautas savo ryšį su Jogaila suvokė
+    būtent kaip feodalinį, nes po 1401 m. lietuvių kunigaikščių homagialinių priesai-
+    kų serijos Jogailai daugiau tokių dokumentų Lietuvoje neaptinkame, o tai rodo,
+    kad nuo tol Jogaila Lietuvoje galėjo turėti tik vieną vasalą - Vytautą
+    26.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-076
+
+- id: c-186951
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 16 (PDF 8)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 16 (PDF 8)."
+  citata_originali: |
+    Kai kurie jų buvo paskirti į kaip tik tuo metu sukur­
+    tas dvaro pareigybes ir tuo būdu įgijo nuolatinę vietą valdovo taryboje
+    1 4.
+    Būtent jų vardai slypi po didžiųjų kunigaikščių laiškuose retkarčiais
+    vartojama „vyriausiųjų tarėjų" ar net „vyriausiosios tarybos" sąvoka.
+    Kai po Vytauto mirties Didžiuoju kunigaikščiu išrinktas Švitrigaila no­
+    rėjo sureguliuoti santykius su Lenkija, jis tuoj po savo išrinkimo pasiūlė
+    Jogailai susitikti, dalyvaujant abiejų pusių „didžiajai ar vyresniųjų tary-
+    " Dcrgleich dcr here grosfurste och hymvert czien wirt alleyne mit synen retlien und
+    liofcgesindc und nicht stereker (Geheimi's
+    Stautsarchiv
+    Prcuuisclicr
+    Kttllitrbesitz
+    (toliau - GStA l'K), ОВЛ 5939).
+  citata_rodoma: "Kai po Vytauto mirties Didžiuoju kunigaikščiu išrinktas Švitrigaila no­\nrėjo sureguliuoti santykius su Lenkija, jis tuoj po savo išrinkimo pasiūlė \nJogailai susitikti, dalyvaujant abiejų pusių „didžiajai ar vyresniųjų tary-"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-077
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]

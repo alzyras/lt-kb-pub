@@ -28,11 +28,27 @@ Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriter
 
 Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203640"></a>
+- t-001
+  teiginys: "Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriterijai istorikui kėlė didžiausių keblumų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186244
+
+## Citatos
+
+- id: c-186244
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 12"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 12."
   citata_originali: |
     Tiriama jų struktūra, biudžetas
     ir permainos, kurios vyksta dėl gyventojų
@@ -49,8 +65,11 @@ Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriter
     keblumų istorikui sudarė lažinio palivar­
     kinio ūkio biudžeto apskaičiavimo meto­
     dai ir vertinimo kriterijai.
-  citata_rodoma: ''
+  citata_rodoma: "Didžiausių \nkeblumų istorikui sudarė lažinio palivar­\nkinio ūkio biudžeto apskaičiavimo meto­\ndai ir vertinimo kriterijai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

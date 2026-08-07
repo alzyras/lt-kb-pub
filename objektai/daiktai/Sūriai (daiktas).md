@@ -44,22 +44,40 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. pagrindiniai pieno produktai buvo sūriai ir sviestas.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204299"></a>
+- t-001
+  teiginys: "XVI a. pagrindiniai pieno produktai buvo sūriai ir sviestas."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186890
+
+## Santrauka
+
+XVI a. pagrindiniai pieno produktai buvo sūriai ir sviestas.
+
+## Citatos
+
+- id: c-186890
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
   citata_originali: |
     Pa­
     grindiniai pieno produktai tuo metu buvo
     sūriai ir sviestas116 – jais buvo papildomos ir
     kariuomenei aprūpinti skirtų maisto produk­
     tų atsargos117.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. pagrindiniai pieno produktai buvo sūriai ir sviestas.
+  pagrindzia:
+    - t-001

@@ -63,6 +63,18 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   pagrindžia:
     - c-32892
 
+<a id="claim-t-204083"></a>
+- t-002
+  teiginys: "Apie lų iticlų mokesčius yra minėjęs A. Tyla, žr.: A. T y 1 a, Lietimui."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186687
+
 ## Citatos
 
 - id: c-32892
@@ -88,3 +100,22 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186687
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 9"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 9."
+  citata_originali: |
+    13.1. 60X-010.
+    "Apie lų iticlų mokesčius yra minėjęs A. Tyla, žr.: A. T y 1 a, Lietimui
+    Didžiosios
+    Kimigaikšlysiės
+    iždus.
+  citata_rodoma: "Apie lų iticlų mokesčius yra minėjęs A. Tyla, žr.: A. T y 1 a, Lietimui"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

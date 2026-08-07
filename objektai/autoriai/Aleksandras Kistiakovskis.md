@@ -43,17 +43,35 @@ Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirtie
 
 Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203698"></a>
+- t-001
+  teiginys: "Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186302
+
+## Citatos
+
+- id: c-186302
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 2"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 2."
   citata_originali: |
     Dar 1867 m. Kijeve pasirodė Aleksandro
     Kistiakovskio darbas apie mirties bausmę4. Autorius, remdamasis to meto Vakarų Euro-
     pos istoriografija, analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

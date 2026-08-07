@@ -53,11 +53,48 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203894"></a>
+- t-001
+  teiginys: "Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186498
+
+<a id="claim-t-203895"></a>
+- t-002
+  teiginys: "1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas užpuolimo vadovas ir aiškiai susieti dvarelis bei jo gyventojai. Pašalinti citatos OCR ir išnašų fragmentai."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186499
+
+## Santrauka
+
+Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais. 1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais.
+
+## Citatos
+
+- id: c-186498
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 11"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 11."
   citata_originali: |
     Visgi daugiausia užpuolami
     būdavo mūriniai namai (mūrnamiai) (lenk. kamienica), rečiau – vadinamieji dvareliai
@@ -65,14 +102,19 @@ Nenurodyta
     su ūkiniais pastatais. Rastas ir vienas rūmų užpuolimas (lenk. pałac) (žr. toliau). Yra
     minimi ir pastatų, kurių paskirtis yra sunkiai nusakoma, puolimai, tai dokumentuose
     vadinamieji namai (lenk. dom) – galima spėti, kad tai buvo mediniai namai.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+  pagrindzia:
+    - t-001
+
+- id: c-186499
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13-14"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13-14."
   citata_originali: |
     ip rašoma skunde, 1776 m. buvo užpultas Lukiškėse, prie Ne-
     ries kranto, buvęs Vilniaus karmelitėms priklausęs dvarelis, kuriame gyveno Stanislovo
@@ -98,11 +140,10 @@ Nenurodyta
     Istorija / 2016, t. 103, Nr. 3
     Šv. Jono bažnyčios zakristijonas Antanas Zabiela, tarp kitų puolusiųjų buvo mūrininkų,
     akademijos studentų ir pauperių (skurdžių žmonių)47.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais. 1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais.
+  pagrindzia:
+    - t-002

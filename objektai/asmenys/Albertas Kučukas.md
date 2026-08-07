@@ -43,11 +43,30 @@ canonical_biography: "Abiem atvejais valdovas tai darė savo maršalo Alberto Ku
 
 1496 m. valdovas Aleksandras, maršalo Alberto Kučuko prašymu, į Berštų Seimą iškvietė Simoną Sluckietį ir Raklienę Petkevičienę byloms dėl valdų nagrinėti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1496 m. valdovas Aleksandras, maršalo Alberto Kučuko prašymu, į Berštų Seimą iškvietė Simoną Sluckietį ir Raklienę Petkevičienę byloms dėl valdų nagrinėti.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204404"></a>
+- t-001
+  teiginys: "1496 m. valdovas Aleksandras, maršalo Alberto Kučuko prašymu, į Berštų Seimą iškvietė Simoną Sluckietį ir Raklienę Petkevičienę byloms dėl valdų nagrinėti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1496 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus junginys „abiem atvejais“ ir įvardyti kvietimo dalyviai bei tikslas. Naujų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187008
+
+## Citatos
+
+- id: c-187008
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 27 (PDF 19)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 27 (PDF 19)."
   citata_originali: |
     1496 m. LDK kanceliarijoje surašytuose dokumentuose
     pažymima, kad LDK Aleksandras valdovo raštais kvietė atvykti į Seimą
@@ -56,8 +75,11 @@ canonical_biography: "Abiem atvejais valdovas tai darė savo maršalo Alberto Ku
     mu, idant būtų išnagrinėtos bylos dėl valdų. Ir abiem atvejais iškviestieji
     seime/teisme nepasirodė
     5 2.
-  citata_rodoma: ''
+  citata_rodoma: "1496 m. LDK kanceliarijoje surašytuose dokumentuose \npažymima, kad LDK Aleksandras valdovo raštais kvietė atvykti į Seimą \nBerštuose Slucko kunigaikštį Simoną ir ponią Raklienę Petkevičienę. \nAbiem atvejais valdovas tai darė savo maršalo Alberto Kučuko prašy­\nmu, idant būtų išnagrinėtos bylos dėl valdų. Ir abiem atvejais iškviestieji \nseime/teisme nepasirodė"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -71,6 +71,21 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   pagrindžia:
     - c-82102
 
+<a id="claim-t-203825"></a>
+- t-003
+  teiginys: "1731 m. Antanas Tyzenhauzas skundė giminaičius dėl Lindorfų mūrinio namo Vokiečių gatvėje užpuolimo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1731 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas ir nurodo asmenį, laiką, vietą bei skundo objektą."
+  pagrindžia:
+    - c-186429
+
 ## Citatos
 
 - id: c-82102
@@ -136,3 +151,22 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186429
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 13"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 13."
+  citata_originali: |
+    z., 1731 m. Vilniaus kapitulos kancleris dvasininkas
+    Antanas Tyzenhauzas skundė savo giminaičius Inturkės seniūną Pranciškų Tyzenhauzą,
+    Smiltenės (šiandieninėje Latvijoje) seniūną Benediktą Tyzenhauzą, taip pat Adomą Dau-
+    noravičių ir kitus dėl Lindorfų (Lindorfowie) mūrinio namo Vokiečių gatvėje užpuolimo42.
+    M
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

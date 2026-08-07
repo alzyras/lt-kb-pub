@@ -35,11 +35,39 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
 
 Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus. Lukas Gurnickis savo pastebėjimuose teigė, kad žmogus iš prigimties trokšta džiaugsmo ir atgaivos.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204153"></a>
+- t-001
+  teiginys: "Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžiojimo būdus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186757
+
+<a id="claim-t-204154"></a>
+- t-002
+  teiginys: "Lukas Gurnickis savo pastebėjimuose teigė, kad žmogus iš prigimties trokšta džiaugsmo ir atgaivos."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186758
+
+## Citatos
+
+- id: c-186757
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 3"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 3."
   citata_originali: |
     Papildanti mūsų tyrimą šaltinių grupė – XVI a. lite-
     ratūriniai kūriniai, padedantys atskleisti medžioklės svarbą to meto valdan-
@@ -47,14 +75,20 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
     pramogą − Mikalojaus Husoviano Giesmė apie stumbro išvaizdą, žiaurumą ir
     medžioklę9. Apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžio-
     jimo būdus leidžia spręsti Martyno Kromerio10, Luko Gurnickio11 kūriniai.
-  citata_rodoma: ''
+  citata_rodoma: "Apie dvaro etiketo pokyčius, medžiotas gyvūnų rūšis ir jų medžio-\njimo būdus leidžia spręsti Martyno Kromerio10, Luko Gurnickio11 kūriniai."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Lukas Gurnickis savo pastebėjimuose teigė, kad žmogus iš prigimties trokšta džiaugsmo ir atgaivos.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+  pagrindzia:
+    - t-001
+
+- id: c-186758
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 13"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 13."
   citata_originali: |
     Galime teigti, jog vienalaikiuose šaltiniuose medžioklė ir malonumas (rusėn.
     потеха, потесе) neretai vartojami kone kaip sinonimai. Pavyzdžiui, viename
@@ -65,8 +99,10 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
     paganyti [...], dvikovas“, įvairiausių neregėtų žvėrių demonstravimą60, me-
     džiokles, derančias „didžiam valdovui“61. Minėtame šaltinyje nedviprasmiškai
     teigiama: „mėgstame tuos žmones, kurie mums smagumą suteikia“62.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

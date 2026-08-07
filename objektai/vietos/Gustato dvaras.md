@@ -35,11 +35,27 @@ Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvar�
 
 Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203752"></a>
+- t-001
+  teiginys: "Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186356
+
+## Citatos
+
+- id: c-186356
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
   citata_originali: |
     Bylos eigoje išaiškėjo, kad
     valstiečių prievartinį išvesdinimą kaltinamieji laikė teisėta
@@ -51,8 +67,10 @@ Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvar�
     priėmė vaivadienės naudai ir buvo liepta išvestus valstie­
     čius grąžinti atgal
     2 9.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

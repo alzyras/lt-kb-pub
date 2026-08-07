@@ -103,6 +103,18 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   pagrindžia:
     - c-154568
 
+<a id="claim-t-203621"></a>
+- t-004
+  teiginys: "A. Bumblausko teigimu, XVI–XVIII a. Lietuvos ūkis pasiekė VIII–IX a. Vakarų Europos ūkio raidos lygį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186225
+
 ## Citatos
 
 - id: c-26849
@@ -167,3 +179,21 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-186225
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 2"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 2."
+  citata_originali: |
+    Vienas jo autorių A.  Bumblauskas teigė,
+    jog XVI–XVIII  a.  Lietuvos ūkis pasiekė
+    VIII–IX  a.  Vakarų Europos ūkio raidos
+    lygį.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

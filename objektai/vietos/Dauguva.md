@@ -254,6 +254,22 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - c-175405
 
+<a id="claim-t-203953"></a>
+- t-012
+  teiginys: "1433 m. Vitebske, Dauguvos upėje, kunigaikštis Mykolas Jonaitis Alšėniškis Švitrigailos įsakymu buvo nuskandintas, regis, apkaltinus jį išdavyste."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtas šaltinyje aiškiai nurodytas įsakymo vykdytojas ir išlaikytas neapibrėžtumas dėl kaltinimo. Vietos ir asmens pavadinimai suformuluoti vientisu sakiniu."
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186557
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
@@ -573,6 +589,23 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-186557
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
+  citata_originali: |
+    1433 m. Ldk
+    Švitrigaila suėmė ir įsakė nuskandinti Vitebske (Dauguvos upėje) kunigaikštį Mykolą Jonaitį Alšėniškį, re­
+    gis, kaltindamas jį išdavyste.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]], [[objektai/grupes/Sėliai]]

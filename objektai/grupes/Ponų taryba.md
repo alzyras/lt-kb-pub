@@ -212,6 +212,58 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   pagrindžia:
     - c-181365
 
+<a id="claim-t-203948"></a>
+- t-012
+  teiginys: "Ponų taryba ir Ldk Aleksandras įsakė Stanislovą atiduoti rotušei nubausti už smurtą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186552
+
+<a id="claim-t-203949"></a>
+- t-013
+  teiginys: "Viešos mirties bausmės aukšto socialinio statuso valdovo išdavikams, regis, buvo vykdomos per seimus, kuriuose susirinkdavo bent dalis Ponų tarybos narių ir aukščiausių valstybės pareigūnų."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186553
+
+<a id="claim-t-203950"></a>
+- t-014
+  teiginys: "1504 m. Brastos seimo metu Lietuvos didysis kunigaikštis Aleksandras ir Ponų taryba išteisino valdovo išdavyste kaltintą ir į Maskvos valstybę pabėgusį Eustachijų Daškovičių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1504 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir aiškiai nurodo Ponų tarybos bei Ldk Aleksandro veiksmą. Papildomos šaltinio detalės nebūtinos šiam faktui."
+  pagrindžia:
+    - c-186554
+
+<a id="claim-t-204336"></a>
+- t-015
+  teiginys: "Diduomenės vidinės konsolidacijos metu Ponų taryba tapo šios socialinės grupės politiniu organu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186940
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
@@ -711,3 +763,82 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186552
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 5"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 5."
+  citata_originali: |
+    Iš naracinės teismo sprendimo dalies aiškėja,
+    kad Stanislovas dar Ldk Aleksandro valdymo laikotarpiu nužudė vieną iš savo brolių,
+    todėl kiti du - Kasparas ir Venclovas, kreipėsi į valdovo teismą dėl brolžudystės. Bylą
+    išsprendęs Ldk Aleksandras ir Ponų taryba „įsakė [...] už tokį smurtą jį įduoti rotušei,
+    [kad būtų] nubaustas“17.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-186553
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 8"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 8."
+  citata_originali: |
+    Regis, viešos mirties bausmės aukšto socialinio statuso valdovo išdavikams buvo
+    vykdomos seimų metu, kai iš anksto numatytoje vietoje susirinkdavo bent dalis Ponų
+    tarybos narių, aukščiausių valstybės pareigūnų. Konkrečių šį procesą liudijančių pavyz­
+    džių neturime. Šią prielaidą darome remdamiesi žinomais išdavyste kaltintų ir išteisintų
+    asmenų atvejais bei 1512 m. žemės iždininko Abraomo Jezofovičiaus laiško valdovo
+    raštininkui ir Trakų pilininkui J. B. Sapiegai duomenimis.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-186554
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 8"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 8."
+  citata_originali: |
+    1504 m. Brastos seimo metu
+    Ldk Aleksandras ir Ponų taryba išteisino valdovo išdavyste kaltintą ir į Maskvos valsty­
+    bę pabėgusį Eustachijų Daškovičių33. Ten pat Brastoje 1511 m. seimo metu viešai buvo
+    išteisintas, kaip įtarta, prie kunigaikščio M. Glinskio išdavystės prisidėjęs Albertas Goš­
+    tautas34.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-186940
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 21 (PDF 13)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 21 (PDF 13)."
+  citata_originali: |
+    Diduomenės vidinės konsolidacijos
+    32 įkarštyje
+    Ponų taryba tampa šios socialinės grupės politiniu organu. 1459 m. Alekna
+    Davainaitis savo šeimos turto reikalus tvarko ne kaip anksčiau - artimiau­
+    sių draugų ir giminaičių akivaizdoje, bet kartu su „savo broliais Didžiosios
+    Kunigaikštystės Ponų taryba"
+    33.
+  citata_rodoma: "Diduomenės vidinės konsolidacijos\n32 įkarštyje \nPonų taryba tampa šios socialinės grupės politiniu organu. 1459 m. Alekna \nDavainaitis savo šeimos turto reikalus tvarko ne kaip anksčiau - artimiau­\nsių draugų ir giminaičių akivaizdoje, bet kartu su „savo broliais Didžiosios \nKunigaikštystės Ponų taryba\"\n33"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015

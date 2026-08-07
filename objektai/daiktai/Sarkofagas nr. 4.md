@@ -45,33 +45,72 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203984"></a>
+- t-001
+  teiginys: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "mirties data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai apibūdina sarkofage palaidotą asmenį bei archeologinį kontekstą. Šaltinyje esanti giminystės interpretacija sąmoningai neįtraukta."
+  pagrindžia:
+    - c-186588
+
+<a id="claim-t-203985"></a>
+- t-002
+  teiginys: "Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186589
+
+## Santrauka
+
+1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras. Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais.
+
+## Citatos
+
+- id: c-186588
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 13"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 13."
   citata_originali: |
     1998 m. vykdant archeologinius tyrimus Kijevo
     Pečorų lauros vienuolyno Uspenjės sobore, buvo aptikti keli sarkofagai, kuriuose, anot
     Hlebo Ivakino ir Oleksandros Kozak, yra palaidoti Olekaičių giminės atstovai65. Sar­
     kofage nr. 4 buvo palaidotas 30-35 m. vyras. Tai buvo aukšto socialinio statuso asmuo,
     nuo mažens jodinėjęs ir naudojęsis kalaviju66.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+  pagrindzia:
+    - t-001
+
+- id: c-186589
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 13"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 13."
   citata_originali: |
     Kūnas sarkofage buvo išdėliotas anatomiškai, išskyrus pėdas, kurios buvo padėtos ties keliais, ten pat,
     p. 87,91.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore aptiktame sarkofage nr. 4 buvo palaidotas 30–35 metų aukšto socialinio statuso vyras. Sarkofage nr. 4 kūnas buvo išdėliotas anatomiškai, tačiau pėdos padėtos ties keliais.
+  pagrindzia:
+    - t-002

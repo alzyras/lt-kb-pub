@@ -37,11 +37,27 @@ Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų a
 
 Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų auginimo, ir miškų ūkio regionams.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų auginimo, ir miškų ūkio regionams.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203634"></a>
+- t-001
+  teiginys: "Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų auginimo, ir miškų ūkio regionams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186238
+
+## Citatos
+
+- id: c-186238
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 22"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
   citata_originali: |
     Ypač
     vertinga yra J. Topolskio pateikta regionų
@@ -55,8 +71,11 @@ Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų a
     mos Livonijos žemės, kanapių ir linų ga­
     mybos regionais – Lietuva ir rusėniškosios
     LDK žemės (dabartinė Rytų Baltarusija).
-  citata_rodoma: ''
+  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

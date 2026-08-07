@@ -47,11 +47,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. LDK valdovo medžioklės buvo rengiamos kaip didelė šventė, turėjusi aiškų ceremonialą.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204143"></a>
+- t-001
+  teiginys: "XVI a. LDK valdovo medžioklės buvo rengiamos kaip didelė šventė, turėjusi aiškų ceremonialą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186747
+
+## Santrauka
+
+XVI a. LDK valdovo medžioklės buvo rengiamos kaip didelė šventė, turėjusi aiškų ceremonialą.
+
+## Citatos
+
+- id: c-186747
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 7"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 7."
   citata_originali: |
     Didžiųjų medžioklių atsiradimas
     palengvino valdovo pastangas apriboti savavališką miškų bei medžioklės plo-
@@ -63,11 +83,11 @@ Nenurodyta
     sis medžioklis per šią pramogą būdavo šalia valdovo32, vadovaudavo kitiems
     medžioklės pareigūnams ir dalyviams, informuodavo didįjį kunigaikštį apie
     esamą situaciją33.
-  citata_rodoma: ''
+  citata_rodoma: "Vis dėlto svarbu atkreipti dėmesį, jog šių \npareigūnų uždaviniu galime laikyti ir valdovo pramoginių medžioklių orga-\nnizavimą. Kadangi mūsų aptariamuoju laikotarpiu LDK valdovo medžioklės \nbuvo rengiamos kaip didelė šventė, turėjusi aiškų ceremonialą, būtent didy-\nsis medžioklis per šią pramogą būdavo šalia valdovo32, vadovaudavo kitiems \nmedžioklės pareigūnams ir dalyviams, informuodavo didįjį kunigaikštį apie \nesamą situaciją33."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. LDK valdovo medžioklės buvo rengiamos kaip didelė šventė, turėjusi aiškų ceremonialą.
+  pagrindzia:
+    - t-001

@@ -28,11 +28,28 @@ Raimondos Ragauskienės straipsnyje detaliai analizuojami Mikalojaus Radvilos Ru
 
 Raimondos Ragauskienės straipsnyje detaliai analizuojami Mikalojaus Radvilos Rudojo ir Žygimanto Augusto abipusio susirašinėjimo intensyvumas, komunikacijos technika, laiškų formos, šeimos ir politinių reikalų aspektai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Raimondos Ragauskienės straipsnyje detaliai analizuojami Mikalojaus Radvilos Rudojo ir Žygimanto Augusto abipusio susirašinėjimo intensyvumas, komunikacijos technika, laiškų formos, šeimos ir politinių reikalų aspektai.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204167"></a>
+- t-001
+  teiginys: "Raimondos Ragauskienės straipsnyje detaliai analizuojami Mikalojaus Radvilos Rudojo ir Žygimanto Augusto abipusio susirašinėjimo intensyvumas, komunikacijos technika, laiškų formos, šeimos ir politinių reikalų aspektai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186771
+
+## Citatos
+
+- id: c-186771
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 2"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 2."
   citata_originali: |
     Bene svarbiausias − Raimondos Ra-
     gauskienės darbas „Lietuvos Didžiosios Kunigaikštystės kancleris Mikalojus
@@ -46,8 +63,11 @@ Raimondos Ragauskienės straipsnyje detaliai analizuojami Mikalojaus Radvilos Ru
     džiojo LDK medžioklio pareigybei nėra skirta daug dėmesio, labiau gilinamasi
     į anksčiau minėtus tematinius pjūvius, atskleidžiančius bendrą Mikalojaus
     Radvilos Rudojo ir Žygimanto Augusto bendravimo paveikslą.
-  citata_rodoma: ''
+  citata_rodoma: "Kitame minėtos autorės darbe, skirtame Mikalojaus \nRadvilos Rudojo ir Žygimanto Augusto komunikacijos modeliams aptarti5, \ndetaliai analizuojami abipusio susirašinėjimo intensyvumo, komunikacijos \ntechnikos, laiškų formos, Radvilos Rudojo šeimos ir politinių reikalų aspektai, \ngilinamasi į Radvilos Rudojo charakterio savybes. Tačiau šiame straipsnyje di-\ndžiojo LDK medžioklio pareigybei nėra skirta daug dėmesio, labiau gilinamasi \nį anksčiau minėtus tematinius pjūvius, atskleidžiančius bendrą Mikalojaus \nRadvilos Rudojo ir Žygimanto Augusto bendravimo paveikslą"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -43,11 +43,27 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
 
 Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203788"></a>
+- t-001
+  teiginys: "Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186392
+
+## Citatos
+
+- id: c-186392
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 7"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 7."
   citata_originali: |
     1584 m. Upytės
     pavieto vaznys Mikalojus Matvejevičius pranešė, kad ieš­
@@ -56,8 +72,10 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
     imti pavaldinio, to padaryti nepavyko, nes dvaro savininkai
     buvo išvykę, o šeimininkų duktė atsisakė ką nors daryti
     be tėvų sutikimo
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

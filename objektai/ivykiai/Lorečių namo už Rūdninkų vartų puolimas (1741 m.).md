@@ -46,11 +46,35 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203884"></a>
+- t-001
+  teiginys: "1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikyta šaltinyje esanti skundo ir tariamo veiksmo atribucija, o nepatvirtintas įvykis neperteiktas kaip neutrali nustatyta aplinkybė. Išskleisti veikėjai ir užpuolimo vieta."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186488
+
+## Santrauka
+
+1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus.
+
+## Citatos
+
+- id: c-186488
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 12"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 12."
   citata_originali: |
     Pvz.,
     1741 m. Vilniaus tarėjas Bernardas, Liudvikas, Kajetonas ir Kotryna Lorečiai (Bernardy,
@@ -58,11 +82,10 @@ Nenurodyta
     (Marcin i Hrehory Noniewiczowie), esą jie kartu su „įvairios kondicijos žmonėmis“ dieną,
     apie 16.00 val., užpuolė miestiečiams priklausiusį namą už Rūdninkų vartų, smurtavo
     prieš ten gyvenusius bajorus [sic!]40.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus.
+  pagrindzia:
+    - t-001

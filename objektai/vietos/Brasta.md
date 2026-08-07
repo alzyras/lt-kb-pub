@@ -555,6 +555,33 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindžia:
     - c-175922
 
+<a id="claim-t-204087"></a>
+- t-029
+  teiginys: "Brastos poreforminio LDK pavieto rankraštinės žemės teismo knygos išliko Baltarusijos NIA iki XVII a. pradžios."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186691
+
+<a id="claim-t-204354"></a>
+- t-030
+  teiginys: "1447–1448 m. sandūroje Vilniuje susirinkę kunigaikščiai ir didikai buvo įsipareigoję prisiekti Brastos taiką."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1448 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia, kas bei dėl ko susirinko Vilniuje. Šaltinio abejonių dėl susirinkimo vadinimo Seimu į teiginį neįtraukta."
+  pagrindžia:
+    - c-186958
+
 ## Reikšmingi paminėjimai
 - c-020
   santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.'
@@ -1109,6 +1136,50 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-028
+
+- id: c-186691
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 12"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 12."
+  citata_originali: |
+    Išvados. Baltarusijos N I A išliko keliasdešimt keturios baltarusiškosios (Brastos, Gar­
+    dino, Slanimo ir Vitebsko) LDK poreforminių pavietų rankraštinės žemės teismo knygos
+    (iki X V I I a. pradžios). Jos pasižymi tematine įvairove, bet savo turiniu nedaug skiriasi
+    nuo tokių pačių lietuviškosios LDK dalies pavietų medžiagos. Šios knygos kiekybiškai
+    ir kokybiškai papildo lietuviškųjų LDK pavietų žemės teismų knygų medžiagą, padeda
+    susidaryti išsamesnį (pilna panorama negalima, nes neišliko visų LDK pavietų žemės
+    teismų knygos) žemės teismų darbo ir bajorijos veiklos juose vaizdą.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
+
+- id: c-186958
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 24 (PDF 16)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 24 (PDF 16)."
+  citata_originali: |
+    Tiek Švitrigailos, tiek Olelkos Vladimiraičio dalyvavimas paaiš­
+    kinamas jų įtaka ir artima giminyste su valdovu, o ne atstovavimu Vo-
+    luinei ar Kijevui. Taip pat turbūt buvo ir su „kitais Lietuvos ir Rusios
+    didikais", greičiausia - valdovo tarybos nariais. 1447 ir 1448 m. sandū­
+    roje Vilniuje įvykusį susirinkimą rusiškas šaltinis vadina Seimu (соймъ;
+    predikatas валъпый atsiranda kur kas vėliau, XV-XVI a. sandūroje),
+    tačiau Ordino pranešimas ir dalyvių sąrašas aiškiai liudija, kad Brastos
+    taiką prisiekti buvo susirinkę tik tam įsipareigoję kunigaikščiai ir didi­
+    kai
+    4 5.
+  citata_rodoma: "1447 ir 1448 m. sandū­\nroje Vilniuje įvykusį susirinkimą rusiškas šaltinis vadina Seimu (соймъ; \npredikatas валъпый atsiranda kur kas vėliau, XV-XVI a. sandūroje), \ntačiau Ordino pranešimas ir dalyvių sąrašas aiškiai liudija, kad Brastos \ntaiką prisiekti buvo susirinkę tik tam įsipareigoję kunigaikščiai ir didi­\nkai"
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Šach Achmedas]]

@@ -49,11 +49,50 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1558 m. Žygimantas Augustas Bagdonui Steckavičiui suteikė tarnybas leno teise.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204060"></a>
+- t-001
+  teiginys: "1558 m. Žygimantas Augustas Bagdonui Steckavičiui suteikė tarnybas leno teise."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1558 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra trumpas, gramatiškas ir faktiškai aiškus sakinys apie 1558 m. Žygimanto Augusto suteiktas tarnybas leno teise."
+  pagrindžia:
+    - c-186664
+
+<a id="claim-t-204061"></a>
+- t-002
+  teiginys: "1568 m. valdovas sutiko „pagerinti“ leno teisę, pripažindamas kai kurias paveldėjimo teises merginoms ir tolimesniems giminaičiams."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1568 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisyta klaidinga „lennym“ forma į „leno“ ir tiksliau perteiktas valdovo veiksmas. Išlaikytas šaltinio kabutėse pateiktas žodis bei paveldėjimo teisių ribotas pobūdis."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186665
+
+## Santrauka
+
+1558 m. Žygimantas Augustas Bagdonui Steckavičiui suteikė tarnybas leno teise. 1568 m. valdovas sutiko „pagerinti“ leno teisę, pripažindamas kai kurias paveldėjimo teises merginoms ir tolimesniems giminaičiams.
+
+## Citatos
+
+- id: c-186664
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11."
   citata_originali: |
     Valdovo dokumentuose „leno teisės" sąvoka (beje, šįkart rusėnų kalba) dar
     kartą pasirodo Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Žygimanto
@@ -63,14 +102,19 @@ Nenurodyta
     dokumente esanti išlyga dėl tų tarnybų paveldėjimo atskleidžia konkretų leno
     teisės ypatumą. Privilegijoje nurodoma, kad paveldėti gali žmona, vaikai ir „vy-
     riškos lyties palikuonys" (потомьки ихь мужьчызного рожаю).
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1568 m. valdovas sutiko „pagerinti“ leno teisę, pripažindamas kai kurias paveldėjimo teises merginoms ir tolimesniems giminaičiams.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+  pagrindzia:
+    - t-001
+
+- id: c-186665
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 11-12"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 11-12."
   citata_originali: |
     Tokią sampratą
     patvirtina ir kiti gana gausūs to laikotarpio (1550-1571 m.) Žygimanto Augusto
@@ -109,11 +153,10 @@ Nenurodyta
     sę „pagerinti", pripažindamas kai kurias paveldėjimo teises merginoms ir toli-
     mesniems giminaičiams
     48
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1558 m. Žygimantas Augustas Bagdonui Steckavičiui suteikė tarnybas leno teise. 1568 m. valdovas sutiko „pagerinti“ leno teisę, pripažindamas kai kurias paveldėjimo teises merginoms ir tolimesniems giminaičiams.
+  pagrindzia:
+    - t-002

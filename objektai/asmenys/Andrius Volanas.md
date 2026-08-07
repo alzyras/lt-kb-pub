@@ -52,6 +52,19 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   pagrindžia:
     - c-83605
 
+<a id="claim-t-204303"></a>
+- t-002
+  teiginys: "Andrius Volanas, susirūpinęs pilietinės visuomenės ugdymu, priekaištavo dėl įsigalėjusio prabangos demonstravimo drabužiais ir įmantriais valgiais."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186906
+
 ## Citatos
 
 - id: c-83605
@@ -76,3 +89,32 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-186906
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 10"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 10."
+  citata_originali: |
+    Užsieniniais
+    prieskoniais pagardinti patiekalai, vynas,
+    taip pat žvėrienos kepsniai ir pyragai buvo
+    ženklai, rodantys „namų šeimininko“
+    statusą ir dosnumą. Tokia svarbi to meto
+    valgių reprezentacinė reikšmė sąlygojo
+    bajorų sekimą „aukščiausiosios“ valdovo
+    virtuvės pavyzdžiu. Tai liudija ir Andriaus
+    Volano, susirūpinusio pilietinės visuomenės
+    ugdymu, priekaištai, kad tuo metu „tarp visų
+    įsivyravo noras demonstruoti prabangą:
+    vienas su kitu rungtyniauja ne reikšmin­
+    gais žygiais ar karo šlove, o tik spindinčiu
+    drabužiu ar ruošdami įmantriausius valgius
+    bei stalus“136.
+  citata_rodoma: "Tai liudija ir Andriaus \nVolano, susirūpinusio pilietinės visuomenės \nugdymu, priekaištai, kad tuo metu „tarp visų \nįsivyravo noras demonstruoti prabangą: \nvienas su kitu rungtyniauja ne reikšmin­\ngais žygiais ar karo šlove, o tik spindinčiu \ndrabužiu ar ruošdami įmantriausius valgius \nbei stalus“136."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -259,13 +259,17 @@ describe("exhibition manifest", () => {
       ...section.claimRefs.map((claim) => claim.claimId),
       ...section.items.flatMap((item) => item.claimRefs.map((claim) => claim.claimId)),
     ])
-    const retiredClaimIds: Array<`t-${number}`> = ["t-78074", "t-35760", "t-64800"]
+    const retiredClaimIds: Array<`t-${number}`> = [
+      "t-78074",
+      "t-35760",
+      "t-64800",
+      "t-176642",
+    ]
     for (const retiredClaimId of retiredClaimIds) {
       assert.ok(!claimIds.includes(retiredClaimId), `${retiredClaimId} must not remain in interwar`)
     }
     assert.ok(claimIds.includes("t-77927"))
     assert.ok(claimIds.includes("t-176734"))
-    assert.ok(claimIds.includes("t-176642"))
     assert.ok(!claimIds.includes("t-198300"))
     assert.ok(!claimIds.includes("t-176638"))
     assert.ok(!claimIds.includes("t-186370"))

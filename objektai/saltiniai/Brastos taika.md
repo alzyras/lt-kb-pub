@@ -35,11 +35,29 @@ media_all_json: |-
 
 1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204417"></a>
+- t-001
+  teiginys: "1447 ir 1448 m. sandūroje Vilniuje vykusiame susirinkime Brastos taiką prisiekti susirinko tik tam įsipareigoję kunigaikščiai ir didikai."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1448 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus sakinys apie Brastos taikos priesaikos aplinkybes ir atitinka šaltinio dalyvių apibūdinimą. Šaltinio interpretacija neperžengta."
+  pagrindžia:
+    - c-187021
+
+## Citatos
+
+- id: c-187021
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 24 (PDF 16)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 24 (PDF 16)."
   citata_originali: |
     Tiek Švitrigailos, tiek Olelkos Vladimiraičio dalyvavimas paaiš­
     kinamas jų įtaka ir artima giminyste su valdovu, o ne atstovavimu Vo-
@@ -51,8 +69,11 @@ media_all_json: |-
     taiką prisiekti buvo susirinkę tik tam įsipareigoję kunigaikščiai ir didi­
     kai
     4 5.
-  citata_rodoma: ''
+  citata_rodoma: "1447 ir 1448 m. sandū­\nroje Vilniuje įvykusį susirinkimą rusiškas šaltinis vadina Seimu (соймъ; \npredikatas валъпый atsiranda kur kas vėliau, XV-XVI a. sandūroje), \ntačiau Ordino pranešimas ir dalyvių sąrašas aiškiai liudija, kad Brastos \ntaiką prisiekti buvo susirinkę tik tam įsipareigoję kunigaikščiai ir didi­\nkai\n4 5."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

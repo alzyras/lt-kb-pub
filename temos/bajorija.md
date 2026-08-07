@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 65
+tema_objektu_skaicius: 67
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 65.
+Objektų skaičius: 67.
 
 ## Kaip naudoti
 
@@ -31,6 +31,7 @@ Objektų skaičius: 65.
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
 - [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/grupes/Chlapovskio kariuomenė]]
 - [[objektai/grupes/Didžiojo Naugardo bojarinai]]
 - [[objektai/grupes/Didžlenkiai]]
@@ -50,7 +51,7 @@ Objektų skaičius: 65.
 - [[objektai/grupes/Lietuviškoji partija]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]]
-- [[objektai/grupes/Lietuvos bajorija]]
+- [Lietuvos bajorija](../objektai/grupes/Lietuvos%20bajorija)
 - [Lietuvos didikai](../objektai/grupes/Lietuvos%20didikai)
 - [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
 - [Lietuvos Didžiosios Kunigaikštystės Ponų Taryba](../objektai/grupes/Lietuvos%20Did%C5%BEiosios%20Kunigaik%C5%A1tyst%C4%97s%20Pon%C5%B3%20Taryba)
@@ -91,6 +92,9 @@ Objektų skaičius: 65.
 
 ### Vietos
 - [Pinskas](../objektai/vietos/Pinskas)
+
+### Šaltiniai
+- [Apie totorių, lietuvių ir maskvėnų papročius](../objektai/saltiniai/Apie%20totori%C5%B3%2C%20lietuvi%C5%B3%20ir%20maskv%C4%97n%C5%B3%20papro%C4%8Dius)
 
 ### Žodynas
 - [luomas](../objektai/zodynas/luomas)

@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 166 dienas, kai mėsą ir kiaušinius pakeisdavo žuvis.'
-  šaltinis: Lituanistika-53374-Bajoru-virtuve
+<a id="claim-t-204304"></a>
+- t-001
+  teiginys: "XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 166 dienas, kai mėsą ir kiaušinius pakeisdavo žuvis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186901
+
+## Santrauka
+
+XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 166 dienas, kai mėsą ir kiaušinius pakeisdavo žuvis.
+
+## Citatos
+
+- id: c-186901
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 8."
   citata_originali: |
     Pa­
     grindiniai pieno produktai tuo metu buvo
@@ -61,11 +81,11 @@ Nenurodyta
     griežtai laikomasi pasninko, per metus
     trukusio 166 dienas, kai mėsą ir kiaušinius
     turėdavo pakeisti žuvis119.
-  citata_rodoma: ''
+  citata_rodoma: "Bajorų mitybai XVI a. didelę įtaką turėjo \nkrikščionių religija – visoje Europoje buvo \ngriežtai laikomasi pasninko, per metus \ntrukusio 166 dienas, kai mėsą ir kiaušinius \nturėdavo pakeisti žuvis119."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 166 dienas, kai mėsą ir kiaušinius pakeisdavo žuvis.
+  pagrindzia:
+    - t-001

@@ -35,11 +35,26 @@ M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritin
 
 M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritinės bajorijos atstovavimą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritinės bajorijos atstovavimą.'
-  šaltinis: Lituanistika-5702-Bajoru-suvažiavimai
+<a id="claim-t-204409"></a>
+- t-001
+  teiginys: "M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritinės bajorijos atstovavimą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187013
+
+## Citatos
+
+- id: c-187013
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+  puslapiai: "p. 23 (PDF 15)"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a., p. 23 (PDF 15)."
   citata_originali: |
     Šiuos susirinkimus tyrinėję ir
     jų sudėtį vertinę Matvejus Liubavskis ir Lidija Korčiak padarė skirtin­
@@ -52,8 +67,11 @@ M. Liubavskis svarbiausiu naujos parlamentarizmo kokybės požymiu laikė sritin
     nis šaltinis - lenkų kronikininko Jono Dlugošo duomenys apie conven-
     tio taranim
     Lithuania et Russiae.
-  citata_rodoma: ''
+  citata_rodoma: "Svarbiausias naujos parlamentarizmo kokybės po­\nžymis M. Liubavskiui buvo sritinės bajorijos atstovavimas, o pagrindi­\nnis šaltinis - lenkų kronikininko Jono Dlugošo duomenys apie conven-\ntio taranim \nLithuania et Russiae."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

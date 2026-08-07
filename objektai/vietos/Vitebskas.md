@@ -905,6 +905,48 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindžia:
     - c-183597
 
+<a id="claim-t-203965"></a>
+- t-052
+  teiginys: "1433 m. Lietuvos didysis kunigaikštis Švitrigaila Vitebske, Dauguvos upėje prie miesto, įsakė nuskandinti kunigaikštį Mykolą Jonaitį Alšėniškį."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Švitrigailos titulą, 1433 m. įvykį, Vitebsko vietą, bausmės būdą ir nukentėjusį asmenį. Šaltinio faktai išlaikyti be papildomų išvadų."
+  pagrindžia:
+    - c-186569
+
+<a id="claim-t-204090"></a>
+- t-053
+  teiginys: "Vitebsko poreforminio LDK pavieto rankraštinės žemės teismo knygos išliko Baltarusijos NIA iki XVII a. pradžios."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186694
+
+<a id="claim-t-204285"></a>
+- t-054
+  teiginys: "1556 m. Vitebsko vaivada Steponas Zbaražskis, nuomodamasis smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas 1556 m. aktu. Išlaikyti visi citatoje nurodyti asmenys bei veiksmas."
+  pagrindžia:
+    - c-186914
+
 ## Reikšmingi paminėjimai
 - c-028
   santrauka: 'Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską.'
@@ -2712,6 +2754,69 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-029
+
+- id: c-186569
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 12"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 12."
+  citata_originali: |
+    Pavyzdžiui, Švitrigailos ir Žygimanto Kęstutaičio konflikto dėl valdžios LDK metu. 1433 m. Ldk
+    Švitrigaila suėmė ir įsakė nuskandinti Vitebske (Dauguvos upėje) kunigaikštį Mykolą Jonaitį Alšėniškį, re­
+    gis, kaltindamas jį išdavyste.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-052
+
+- id: c-186694
+  šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+  puslapiai: "PDF 12"
+  indeksas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją, PDF 12."
+  citata_originali: |
+    Išvados. Baltarusijos N I A išliko keliasdešimt keturios baltarusiškosios (Brastos, Gar­
+    dino, Slanimo ir Vitebsko) LDK poreforminių pavietų rankraštinės žemės teismo knygos
+    (iki X V I I a. pradžios). Jos pasižymi tematine įvairove, bet savo turiniu nedaug skiriasi
+    nuo tokių pačių lietuviškosios LDK dalies pavietų medžiagos. Šios knygos kiekybiškai
+    ir kokybiškai papildo lietuviškųjų LDK pavietų žemės teismų knygų medžiagą, padeda
+    susidaryti išsamesnį (pilna panorama negalima, nes neišliko visų LDK pavietų žemės
+    teismų knygos) žemės teismų darbo ir bajorijos veiklos juose vaizdą.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
+
+- id: c-186914
+  šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje, PDF 9."
+  citata_originali: |
+    Apie totorių, lietuvių ir mas­
+    kvėnų papročius / Red. K. Korsakas. Vilnius, 1966, p. 40.
+    teigti, jog brangių užsieninių prieskonių
+    vartojimas buvo vienas esminių skirties tarp
+    bajorų ir valstiečių virtuvių taškų 133.
+    Apie XVI a. bajorų patiekalus bei suvar­
+    tojamus jų kiekius beveik neturime šaltinių,
+    todėl ypač įdomus 1556 m. aktas, kuriuo
+    Vitebsko vaivada Steponas Zbaražskis, iš­
+    sinuomodamas smuklę iš Vitebsko klebono
+    Juozapo Jasinskio, pasižadėjo už tai išmai­
+    tinti kelis kunigus.
+  citata_rodoma: "Apie XVI a. bajorų patiekalus bei suvar­\ntojamus jų kiekius beveik neturime šaltinių, \ntodėl ypač įdomus 1556 m. aktas, kuriuo \nVitebsko vaivada Steponas Zbaražskis, iš­\nsinuomodamas smuklę iš Vitebsko klebono \nJuozapo Jasinskio, pasižadėjo už tai išmai­\ntinti kelis kunigus."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-054
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Švitrigaila]]

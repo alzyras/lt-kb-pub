@@ -40,11 +40,31 @@ Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūn�
 
 Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūną Stanką Kostevičių.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūną Stanką Kostevičių.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204074"></a>
+- t-001
+  teiginys: "Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūną Stanką Kostevičių."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1485 m.; įvykio data: apie 1485 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pataisyta nepatogi konstrukcija „rašė ... kaip“ ir aiškiai įvardyti laiško adresatas bei jo pareigos. Įrašyta tik citatoje nurodyta apie 1485 m. aplinkybė."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186678
+
+## Citatos
+
+- id: c-186678
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 7-8"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 7-8."
   citata_originali: |
     Apie 1485 m. valdovo Kazimiero Jogailaičio rašytas laiš-
     kas Kauno seniūnui Stankui Kostevičiui atskleidžia, kad smulkūs bajorai kartais
@@ -65,8 +85,10 @@ Apie 1485 m. valdovas Kazimieras Jogailaitis laiške kreipėsi į Kauno seniūn�
     pereidavo tarnauti didikams ištisomis šeimomis: bajorai Nartautaičiai skundėsi,
     kad juos varo į tarnybą, nors jie buvo у племени пану Станку Судвоевичу
     28
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

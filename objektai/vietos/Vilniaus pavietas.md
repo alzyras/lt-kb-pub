@@ -42,11 +42,40 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
 
 Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindines namų užpuolimų tendencijas LDK sostinėje bajorų bylose. Vilniaus paviete tokio pobūdžio nusikaltimai itin retais atvejais vyko miestelio erdvėje, tačiau jie neįtraukti į tyrimo objektą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindines namų užpuolimų tendencijas LDK sostinėje bajorų bylose.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+<a id="claim-t-203832"></a>
+- t-001
+  teiginys: "Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindines namų užpuolimų tendencijas LDK sostinėje bajorų bylose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186436
+
+<a id="claim-t-203833"></a>
+- t-002
+  teiginys: "Vilniaus paviete tokio pobūdžio nusikaltimai itin retais atvejais vyko miestelio erdvėje, tačiau jie neįtraukti į tyrimo objektą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186437
+
+## Citatos
+
+- id: c-186436
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 4"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 4."
   citata_originali: |
     Darbo tikslas – remiantis XVIII a. Vilniaus pavieto teismų medžiaga, nustatyti namų
     užpuolimo nusikaltimo Lietuvos Didžiosios Kunigaikštystės sostinėje pagrindines ten-
@@ -54,22 +83,29 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
     rodiklius (skaičių, dažnį, dienos / nakties santykį), nustatyti priežastis, galimo legalumo
     klausimą, apibūdinti ieškovų ir atsakovų socialinę sudėtį, smurto laipsnį ir ginkluotę,
     bausmes už miesto namų užpuolimus.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Vilniaus paviete tokio pobūdžio nusikaltimai itin retais atvejais vyko miestelio erdvėje, tačiau jie neįtraukti į tyrimo objektą.'
-  šaltinis: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje
+  pagrindzia:
+    - t-001
+
+- id: c-186437
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 4"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 4."
   citata_originali: |
     Straipsnio chronologija – 1717 m. (Šiaurės karo pabaiga) – 1795 m. (Trečiasis Abie-
     jų Tautų Respublikos padalinimas). Geografinė erdvė – Vilniaus miestas su to meto
     priemiesčiais: Užupiu, Antakalniu, Šnipiškėmis, Puškarnia, Lukiškėmis ir kitais. Tokio
     pobūdžio nusikaltimai Vilniaus paviete itin retais atvejais vykdavo ir miestelio erdvėje,
     bet jie neįeina į tyrimo objektą.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

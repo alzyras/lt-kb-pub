@@ -39,11 +39,39 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
 
 LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms. XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203756"></a>
+- t-001
+  teiginys: "LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų neturintys žmonės buvo prilyginti valkatoms."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186360
+
+<a id="claim-t-203757"></a>
+- t-002
+  teiginys: "XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186361
+
+## Citatos
+
+- id: c-186360
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
   citata_originali: |
     Trečioji pabėgusių valstiečių galimybė - neįsilieti į jokį
     luomą ir nebeturėti jokių šeimininkų. Tokie visiškai laisvi
@@ -52,14 +80,19 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
     niais, elgetomis, „vagabundi", „rustici vagi". Šie terminai
     sinonimiškai kartojosi seimų konstitucijose, seimelių nu­
     tarimuose, bet jų reikšmė pamažu kito.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'XVIII a. valkatų nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu, o grupei taikytos represinės priemonės.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+  pagrindzia:
+    - t-001
+
+- id: c-186361
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
   citata_originali: |
     XVIII a. valkatų
     nesėslus gyvenimo būdas sietas su kriminaliniu pasauliu.
@@ -71,8 +104,10 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
     laikęs ir nepristatęs teismui
     4 0. Miestų teismai valkatas už
     menkiausius nusikaltimus baudė mirties bausme
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-002

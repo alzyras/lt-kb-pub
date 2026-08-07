@@ -35,11 +35,39 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
 
 Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose.'
-  šaltinis: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose
+<a id="claim-t-203702"></a>
+- t-001
+  teiginys: "Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186306
+
+<a id="claim-t-203952"></a>
+- t-002
+  teiginys: "Grigorijus Demčenka teigė, kad LDK baudžiamosios teisės praktikoje ieškovai net ir po teismo nuosprendžio dažnai susitaikydavo su atsakovais arba atleisdavo jiems bausmę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186556
+
+## Citatos
+
+- id: c-186306
+  autorius: "Gitana Zujienė"
+  šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
+  puslapiai: "PDF 3"
+  indeksas: "Gitana Zujienė, Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.), PDF 3."
   citata_originali: |
     Mirties bausmė greta kitų įvairių bausmių yra aptariama Lietuvos Didžiosios
     Kunigaikštystės baudžiamosios teisės tyrimuose. XIX a. pabaigoje Kijevo universitete
@@ -47,8 +75,30 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
     vo bausmės plačiąja prasme raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose
     nuo bausmės kaip žalos atlyginimo konkrečiam asmeniui iki bausmės kaip žalos kom-
     pensavimo visuomenei11.
-  citata_rodoma: ''
+  citata_rodoma: "XIX a. pabaigoje Kijevo universitete \npasirodė net du darbai, skirti šiai problemai. Grigorijus Demčenka savo darbe analiza-\nvo bausmės plačiąja prasme raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose \nnuo bausmės kaip žalos atlyginimo konkrečiam asmeniui iki bausmės kaip žalos kom-\npensavimo visuomenei11."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-186556
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 9"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 9."
+  citata_originali: |
+    Anot Grigorijaus Demčenkos, LDK baudžiamosios teisės praktikoje
+    ieškovai, net ir paskelbus teismo nuosprendį, dažnai susitaikydavo arba atleisdavo nuo
+    bausmės atsakovus39. Stanislovo Butkaičio našlės Barboros bei jos vaikų Jono ir An­
+    driejaus bylą su velionio vyro broliu Kasparu sprendęs žemės maršalka J. M. Radvila
+    po to, kai išklausė Kasparo Butkaičio liudijimą, atmetė našlės ir jos vaikų pretenzijas40 41.
   statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

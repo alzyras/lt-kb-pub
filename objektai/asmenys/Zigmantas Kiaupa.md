@@ -35,19 +35,37 @@ Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Jon
 
 Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Joniškyje ir kitur.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Joniškyje ir kitur.'
-  šaltinis: Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas
+<a id="claim-t-203661"></a>
+- t-001
+  teiginys: "Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Joniškyje ir kitur."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas"
+  pagrindžia:
+    - c-186265
+
+## Citatos
+
+- id: c-186265
+  autorius: "Ramunė Šmigelskytė-Stukienė"
+  šaltinis: "Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos"
+  puslapiai: "PDF 10"
+  indeksas: "Ramunė Šmigelskytė-Stukienė, Istorija 85.indb — 1769 m. įvykiai Šiaulių ekonomijoje: maištas ar sukilimas? Istoriografinių tradicijų sankirtos, PDF 10."
   citata_originali: |
     Vis
     tik, sukilimas apėmė ir Šiaulius, tačiau jo eiga, kaip pažy-
     mėjo Z. Kiaupa, čia buvo ramesnė nei Joniškyje ir kitur.
     Sukilimas Šiauliuose prasidėjo vėliau ir administracijos
     pareigūnai spėjo pabėgti. [31, 42].
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

@@ -35,11 +35,27 @@ I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gau
 
 I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto.'
-  šaltinis: Lituanistika-32634-ATR-palivarko-ukis
+<a id="claim-t-203651"></a>
+- t-001
+  teiginys: "I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gaunamos iš žemės ūkio produkcijos eksporto."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
+  pagrindžia:
+    - c-186255
+
+## Citatos
+
+- id: c-186255
+  autorius: "Darius Žiemelis"
+  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
+  puslapiai: "PDF 17"
+  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 17."
   citata_originali: |
     Šis pokytis aiškintinas tuo, kad nuo
     XVII a. vidurio labai sumažėjo ATR žemės
@@ -49,8 +65,11 @@ I. Wallersteino teigimu, pagrindinės XVI–XVIII a. ATR dvarų pajamos buvo gau
     pagrindinės XVI–XVIII a. ATR dvarų pa­
     jamos buvo gautos iš žemės ūkio produk­
     cijos eksporto87.
-  citata_rodoma: ''
+  citata_rodoma: "Šie W. Kulos teiginiai akivaizdžiai prieš­\ntarauja I.  Wallersteino tvirtinimams, jog \npagrindinės XVI–XVIII a. ATR dvarų pa­\njamos buvo gautos iš žemės ūkio produk­\ncijos eksporto87."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

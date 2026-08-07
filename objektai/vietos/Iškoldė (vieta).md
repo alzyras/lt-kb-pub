@@ -48,11 +48,28 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
 
 Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius.'
-  šaltinis: Lituanistika-64400-Feodalines-teises-apraiskos-LDK
+<a id="claim-t-204033"></a>
+- t-001
+  teiginys: "Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186637
+
+## Citatos
+
+- id: c-186637
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 10-11"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 10-11."
   citata_originali: |
     Toks buvo
     1471 m. Mikalojaus Nemiraičio dokumentas žmonai Elžbietai ir Iškoldės baž-
@@ -83,8 +100,10 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
     Lissiczczi) karinio šaukimo ir žygių metu, apsiginklavę savo lėšomis, sudaro du
     dalinius („ietis")
     44
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

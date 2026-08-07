@@ -28,11 +28,27 @@ Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Ka
 
 Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei.'
-  šaltinis: Lituanistika-3441-Senkoniu-palivarko-inventorius
+<a id="claim-t-203730"></a>
+- t-001
+  teiginys: "Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Karpių giminei."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  pagrindžia:
+    - c-186334
+
+## Citatos
+
+- id: c-186334
+  autoriai: "Stasys Pamerneckis; Roberta Sakalauskaitė"
+  šaltinis: "Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius"
+  puslapiai: "PDF 1"
+  indeksas: "Stasys Pamerneckis, Roberta Sakalauskaitė, Lituanistika-3441-Senkoniu-palivarko-inventorius — Senkonių palivarko inventorius, PDF 1."
   citata_originali: |
     Lietuvos bajorų Karpių giminės istorija nėra
     Pakankamai žinoma istoriografijoje, išskyrus
@@ -41,8 +57,10 @@ Aleksandro Meištovičiaus studija „Karpiowe herbu własnego“ buvo skirta Ka
     nego"
     1 ir keletą pavienių straipsnių apie iški­
     lesnius šios giminės atstovus enciklopedijose:
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

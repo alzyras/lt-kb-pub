@@ -43,19 +43,42 @@ canonical_biography: "1549 m. LDK maršalas Radvila Juodasis dėkojo Mikalojui R
 
 1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu.'
-  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+<a id="claim-t-204163"></a>
+- t-001
+  teiginys: "1549 m., anot Raimondos Ragauskienės, LDK maršalas Radvila Juodasis ironiškai dėkojo Mikalojui Radvilai Rudajam už žvėrieną ir siejo pareigybę su apsirūpinimu maistu."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1549 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ironijos ir sarkazmo vertinimas paliktas su šaltinyje nurodyta atribucija. Aiškiai išskleistas veiksmas ir jo objektas, nepridedant kitų faktų."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186756
+
+## Citatos
+
+- id: c-186756
+  autorius: "Toma Zarankaitė"
+  šaltinis: "Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai"
+  puslapiai: "PDF 10"
+  indeksas: "Toma Zarankaitė, Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai, PDF 10."
   citata_originali: |
     Apie valdovo didikui suteiktos medžioklės regalijos naudojimą
     liudija ir vėlesni šaltiniai. Antai 1549 m. LDK maršalas Radvila Juodasis, anot
     Raimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai
     Rudajam už atsiųstą žvėrieną ir sarkastiškai pažymėjo, kad jei ne didžiojo
     medžioklio pareigybė, reikėtų mirti iš bado46.
-  citata_rodoma: ''
+  citata_rodoma: "Antai 1549 m. LDK maršalas Radvila Juodasis, anot \nRaimondos Ragauskienės, su jam būdinga ironija dėkojo Mikalojui Radvilai \nRudajam už atsiųstą žvėrieną ir sarkastiškai pažymėjo, kad jei ne didžiojo \nmedžioklio pareigybė, reikėtų mirti iš bado46."
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

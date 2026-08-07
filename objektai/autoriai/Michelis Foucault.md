@@ -35,18 +35,36 @@ Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką 
 
 Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203998"></a>
+- t-001
+  teiginys: "Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką kaip mirties bausmės liudininkus, proceso garantus ir tam tikru mastu jo dalyvius."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186602
+
+## Citatos
+
+- id: c-186602
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 7"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 7."
   citata_originali: |
     Anot Michelio Foucault, aplink vedamą nuteistąjį susirinkusi publika turėjo tapti bū­
     simos mirties bausmės liudininkais, o drauge - šio proceso garantais bei tam tikru mastu
     paties mirties bausmės vykdymo dalyviais29. Iš paties Kasparo Butkaičio žodžių galime
     suvokti, kad publikos dalyvavimas buvo viena iš mirties bausmės vykdymo sąlygų.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

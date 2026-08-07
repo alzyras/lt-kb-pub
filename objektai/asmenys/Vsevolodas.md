@@ -83,6 +83,21 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   pagrindžia:
     - c-184398
 
+<a id="claim-t-204012"></a>
+- t-003
+  teiginys: "1209 m. Jersikos kunigaikštis Vsevolodas Rygos vyskupui sutiko užrašyti savo žemes ir priėmė jas atgal kaip leną."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1209 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nusako Vsevolodo veiksmą, 1209 m. datą, Jersiką ir žemių priėmimą kaip leną; papildomų detalių nepridėta."
+  pagrindžia:
+    - c-186616
+
 ## Citatos
 
 - id: c-174367
@@ -135,3 +150,24 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186616
+  autorius: "Rimvydas Petrauskas"
+  šaltinis: "Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje"
+  puslapiai: "PDF 4"
+  indeksas: "Rimvydas Petrauskas, Lituanistika-64400-Feodalines-teises-apraiskos-LDK — Feodalinės teisės apraiškos Lietuvos Didžiojoje Kunigaikštystėje XV amžiuje–XVI amžiaus viduryje, PDF 4."
+  citata_originali: |
+    1209 m.
+    Rygos vyskupui panašiai savo žemes sutiko užrašyti stačiatikis Jersikos kuni-
+    gaikštis Vsevolodas, atgal priimdamas jas kaip suteiktą leną
+    15. Šioje sutartyje
+    minimas įvesdinimo (investitūros) ženklas - iš vyskupo rankų gautos trys vėlia-
+    vos - rodo, kad tokios ceremonijos metu naudota vakarietiška feodalinės sutar-
+    ties simbolika
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

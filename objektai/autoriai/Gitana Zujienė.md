@@ -35,18 +35,36 @@ Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltima
 
 Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą.'
-  šaltinis: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams
+<a id="claim-t-203997"></a>
+- t-001
+  teiginys: "Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltimas laikytas ir teisės normų sulaužymu, ir nusikaltimu prieš Dievą."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186601
+
+## Citatos
+
+- id: c-186601
+  autorius: "Andrej Ryčkov"
+  šaltinis: "Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m."
+  puslapiai: "PDF 10"
+  indeksas: "Andrej Ryčkov, Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams — Mirties bausmės vykdymas valdovo išdavikams Lietuvos Didžiojoje Kunigaikštystėje 1447-1529 m., PDF 10."
   citata_originali: |
     Kaip parodė Gitanos Zujienės tyrimas, dar XVII a. pirmojoje pusėje
     LDK nusikaltimas buvo laikomas ne tik teisės normų sulaužymu (nusikaltimu visuome­
     nei), bet kartu nusikaltimu prieš Dievą. Bausmei už nusikaltimą taip pat buvo suteikiama
     sakralinė reikšmė, kadangi baudžiant siekta atkurti sakralinį teisingumą42 43.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

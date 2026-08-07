@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 508
+tema_objektu_skaicius: 509
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 508.
+Objektų skaičius: 509.
 
 ## Kaip naudoti
 
@@ -528,6 +528,7 @@ Objektų skaičius: 508.
 - [Wulfstanas](../objektai/autoriai/Wulfstanas)
 
 ### Grupės
+- [Baro konfederacija](../objektai/grupes/Baro%20konfederacija)
 - [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
 - [Venedai](../objektai/grupes/Venedai)
 - [Čekai](../objektai/grupes/%C4%8Cekai)

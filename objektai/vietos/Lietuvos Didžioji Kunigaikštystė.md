@@ -121,6 +121,44 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   pagrindžia:
     - c-184976
 
+<a id="claim-t-203745"></a>
+- t-006
+  teiginys: "XVI–XVII a. Lietuvos Didžiojoje Kunigaikštystėje buvo išplitęs dvarų antpuolių („najazdų“) reiškinys."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-186349
+
+<a id="claim-t-203746"></a>
+- t-007
+  teiginys: "Lietuvos Didžiosios Kunigaikštystės teritorijoje galiojo principas, kad mieste tam tikrą laiką išgyvenęs asmuo tapdavo laisvasis."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186350
+
+<a id="claim-t-203810"></a>
+- t-008
+  teiginys: "Trečiajame Lietuvos Statute už bajoro namo, užvažiuojamųjų namų patalpos, bažnyčios ar vienuolyno užpuolimą buvo numatytos bausmės, įskaitant mirties bausmę."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186414
+
 ## Citatos
 
 - id: c-176874
@@ -246,3 +284,67 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-186349
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 4"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 4."
+  citata_originali: |
+    XVI-XVII a.
+    Lietuvos Didžiojoje Kunigaikštystėje kaip savotiškas vėžys
+    išplitęs vadinamųjų dvarų antpuolių („najazdų") reiškinys.
+    Tokie antpuoliai egzistavo kaip ginkluotas įvairiausių tarp
+    žemvaldžių kylančių konfliktų sprendimo būdas. Turtiniai
+    klausimai, besiribojančių teritorijų ribų nustatymo ar tie­
+    siog paprasčiausi buitiniai konfliktai būdavo „sprendžiami"
+    t
+    pasitelkus smurtą
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-186350
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 6"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 6."
+  citata_originali: |
+    Tiek Europoje,
+    tiek Lietuvos Didžiosios Kunigaikštystės teritorijoje galiojo
+    principas, kad „miesto oras išlaisvina". Pagal šią nuostatą
+    tam tikrą laiką, kuris galėjo kisti nuo vienerių iki dešimties
+    metų, mieste išgyvenęs asmuo tapdavo laisvuoju asmeniu.
+    Dešimties metų laikotarpį tikriausiai taip pat būtų galima
+    sieti su Trečiajame Statute užfiksuotu senaties terminu.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-186414
+  autorius: "Domininkas Burba"
+  šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
+  puslapiai: "PDF 3"
+  indeksas: "Domininkas Burba, Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje, PDF 3."
+  citata_originali: |
+    Trečiojo Lietuvos Statuto 4 skyriaus 35 straipsnyje
+    buvo numatyta, kad už bajoro namo ar kito pastato užpuolimą, kai užpuoliko tikslas –
+    nužudyti šeimininką, skiriama mirties bausmė. Taip pat 11 skyriaus 1 skyriuje minėta
+    mirties bausmė už bajoro namo, užvažiuojamųjų namų patalpos užpuolimą ir nužudymą
+    šio nusikaltimo metu, o šio skyriaus 3 straipsnyje buvo minėtas bažnyčios, vienuolyno
+    užpuolimas11.
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008

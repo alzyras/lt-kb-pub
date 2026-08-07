@@ -35,11 +35,28 @@ Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijo
 
 Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijoje, nes nepripažino Pogosto ir Gustato dvarų atidalijimo teisėtumo.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijoje, nes nepripažino Pogosto ir Gustato dvarų atidalijimo teisėtumo.'
-  šaltinis: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas
+<a id="claim-t-203753"></a>
+- t-001
+  teiginys: "Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijoje, nes nepripažino Pogosto ir Gustato dvarų atidalijimo teisėtumo."
+  atnaujinta: "2026-08-07 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186357
+
+## Citatos
+
+- id: c-186357
+  autorius: "Giedrė Sabaitytė"
+  šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
+  puslapiai: "PDF 5"
+  indeksas: "Giedrė Sabaitytė, Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje, PDF 5."
   citata_originali: |
     Bylos eigoje išaiškėjo, kad
     valstiečių prievartinį išvesdinimą kaltinamieji laikė teisėta
@@ -51,8 +68,10 @@ Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijo
     priėmė vaivadienės naudai ir buvo liepta išvestus valstie­
     čius grąžinti atgal
     2 9.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001
